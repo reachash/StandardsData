@@ -6,7 +6,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/600",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2021-10-28T00:00:00",
   "earliestStartDate": "2020-08-24T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -39,7 +39,6 @@
   "ssa2": "2.2 Mathematics and statistics",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "2423",
   "occupationalSummary": "&lt;p&gt;This occupation is found in organisations of all sizes, including businesses across all industry sectors, government and other public sector bodies. These sectors include but are not limited to: Engineering, Government, Banking, Health, Telecommunications, Defence, Management Consulting, Transport, and Education. The broad purpose of the occupation is to help clients (either internally or externally) to make strategic, tactical and operational decisions by using advanced analytical methods to understand and solve complex non-routine problems. The benefits of Operational Research include a wide range of performance improvements such as reducing costs, increasing revenue, saving lives, raising levels of customer service and designing public policy. &lt;br /&gt;&lt;br /&gt;Operational Research Specialists work with their clients and other interested parties to provide an end to end service from diagnosing and analysing a problem to making recommendations for change and supporting implementation. &lt;br /&gt;&lt;br /&gt;Typically, Operational Research Specialists will structure complex non-routine problems and formulate specific research questions. They will address these questions by evaluating and implementing approaches from the range of existing models, methods and techniques, developing and adapting these methods and adopting methods from other fields where existing approaches are insufficient. In their daily work, an employee in this occupation interacts with their team, operational and policy experts and managers in the systems and processes they are analysing. They also interact with senior stakeholders (where relevant) and other specialists such as economists, data scientists, social scientists, management and financial accountants and data and information providers. In addition, they will interact with groups and organisations such as communities of practice, local and central governments, businesses, regulators, academics, researchers and non-technical audiences, both nationally and internationally. &lt;br /&gt;&lt;br /&gt;An Operational Research Specialist will work independently or collaboratively as required, reporting to internal or external clients at almost any level of an organisation. A typical day may include overseeing and conducting analysis, meeting clients, managing projects, leading teams and commissioning work from others. An employee in this occupation will be responsible for understanding and resolving a complex non-routine problem to meet their clients’ requirements. The Operational Research Specialist has a high degree of autonomy and accountability for their work. They are unlikely to have detailed subject matter expertise. Therefore, they will collaborate with specialists and experts to understand the organisation, its systems and processes. Following this, they will select appropriate Operational Research method(s), identify &amp;amp; obtain data, carry out rigorous analysis, quality assuring their &amp;amp; others’ work. A key part of their role is communicating their impartial, pragmatic analysis and recommendations with impact, together with its limitations and associated risks. In some cases, they will support the implementation of their recommendations and monitor their effectiveness.&lt;br /&gt;&lt;br /&gt;An Operational Research Specialist will plan and manage their projects and may also commission research, manage budgets, supervise staff and contractors, and identify opportunities where Operational Research can help.&lt;/p&gt;",
   "knowledges": [
     {
@@ -303,12 +302,13 @@
     "Management scientist",
     "Modeller"
   ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Management and Administration",
   "cluster": "Management Professional",
   "createdDate": "2020-07-17T09:48:34 +00:00",
-  "lastUpdated": "2020-07-20T00:00:00 +00:00",
+  "lastUpdated": "2020-08-24T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/operational-research-specialist-v1-0#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/operational-research-specialist-v1-0",
   "qualifications": [],
