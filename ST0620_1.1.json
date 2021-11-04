@@ -33,7 +33,6 @@
   "ssa2": "1.2 Nursing, and subjects and vocations allied to medicine",
   "version": "1.1",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in the health and care sector and includes the NHS and private healthcare providers.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to provide excellent care to patients diagnosed with cancer by delivering high quality and accurate radiotherapy, taking into consideration patients’ emotional, psychological, and physical needs through the stages of their cancer treatment when at times they may be extremely vulnerable. You will be responsible for the patient from the time of referral for radiotherapy by a cancer specialist and will undertake pre-treatment preparation of radiotherapy patients, such as scanning and planning the patients’ radiotherapy. Therapeutic radiographers provide the highest standard of technical practice and patient care in order to treat and support adults, teenagers and children receiving radiotherapy (predominately for cancer) using a variety of forms such as:&lt;br /&gt;&lt;br /&gt;• external beam radiotherapy, a method for delivering a beam or several beams of high energy X-rays to a patient’s cancer;&lt;br /&gt;• brachytherapy, a form of radiotherapy where a sealed radiation source (eg in a needle or tube) is placed inside or next to the patient’s cancer;&lt;br /&gt;• stereotactic radiotherapy/radiosurgery which delivers multiple beams of focused radiation &lt;br /&gt;• proton therapy, a type of particle therapy that uses a beam of protons to deliver a radiation dose to a patient’s cancer; &lt;br /&gt;• superficial skin radiotherapy, which uses X-rays or electrons to deliver a radiation dose to a patient’s cancer.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with cancer patients, who may or may not be cured, their carer(s), members of the public and a range of healthcare professionals eg physicists, dosimetrists, doctors, nurses and dietitians, in a variety of settings such as hospitals and hospices. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for planning, checking and using imaging to deliver accurate radiotherapy in a compassionate and caring manner. As an autonomous practitioner, they will have responsibility for the patient from the time of referral for radiotherapy by a cancer specialist, through to aftercare and on-going support after radiotherapy. They will be accountable professionally and legally for their actions and those they are supervising.&lt;/p&gt;",
   "knowledges": [
     {
@@ -352,11 +351,11 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "TBC - Quality Assurance Agency (QAA)",
+    "providerName": "Office for Students",
     "contactName": "",
-    "contactAddress": "",
-    "contactEmail": "",
-    "webLink": ""
+    "contactAddress": "Nicholson House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL <br>BS34 8SR",
+    "contactEmail": "regulation@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
   },
   "approvedForDelivery": "2019-04-15T00:00:00 +00:00",
   "integratedApprenticeship": null,
@@ -370,32 +369,33 @@
   "typicalJobTitles": [
     "Therapeutic Radiographer"
   ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Health",
   "cluster": "Health Professional",
   "createdDate": "2020-11-19T08:37:34 +00:00",
-  "lastUpdated": "2020-01-06T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/therapeutic-radiographer-(integrated-degree)-v1-1#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/therapeutic-radiographer-(integrated-degree)-v1-1",
+  "lastUpdated": "2019-04-15T00:00:00 +00:00",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/therapeutic-radiographer-integrated-degree-v1-1#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/therapeutic-radiographer-integrated-degree-v1-1",
   "qualifications": [
     {
       "qualificationId": "546e73e0-0111-4243-9694-53572b526ffe",
       "title": "Mandatory qualification 1: BSc (Hons) Therapeutic Radiography or (where the apprentice already holds a level 6 honours degree) a pre-registration MSc in Therapeutic Radiography.",
-      "level": "0",
-      "anyAdditionalInformation": null
+      "level": "6 (integrated degree)",
+      "anyAdditionalInformation": ""
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "Society and College of Radiographers",
-      "level": "0",
+      "level": "Level 6 and  7",
       "isPartial": "",
       "partialFreeText": ""
     },
     {
       "bodyName": "Health and Care Professionals Council (HCPC)",
-      "level": "0",
+      "level": "",
       "isPartial": "",
       "partialFreeText": ""
     }
