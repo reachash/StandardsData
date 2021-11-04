@@ -37,7 +37,6 @@
   "ssa2": "4.1 Engineering",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in the advanced manufacturing sheet metal/presswork supply chain of automotive and aerospace. The broad purpose of the occupation includes the design of a unique tooling process pathway that enables components to be mass produced in the most economically viable way. The process pathway often includes a sequential series of steps using uniquely designed press tooling procedures such as blanking, drawing, piercing and forming in order to make the completed component.&lt;br /&gt;&lt;br /&gt;The tool process design engineer has to determine from the volume of required components whether to design manually operated or automatic (progression) press tooling. In some designs the components being produced could also be part of an assembly created from different additional sheet metal pressings that have to be welded together.&lt;br /&gt;&lt;br /&gt;Examples of a tool process design is the manufacture of complex automotive and aerospace sub-assemblies such as aeroplane and car seat chassis, vehicle doors and bumper beam assemblies that undergo several process steps. Working with clients on unique components that create commercial advantage to the original equipment manufacturer (OEM), and through a process of critical analysis, interpretation and evaluation of complex information a unique innovated tool process pathway is created.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with managing directors, technical/production directors, senior managers in finance and purchasing, management/technical specialists from customers together with technical specialists from suppliers, the production team and operatives on the shop floor. A tool process design engineer will typically spend their time working between the design office, board room and the factory floor.&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for designing a unique economically viable high-volume process tooling pathway, capable of mass production while meeting customer specification and achieving consistently high tolerances and quality standards. A tool process design engineer will work both autonomously or as part of a team, depending on the project, company size, and will exercise considerable judgement on projects with a high-level personal decision making and influence. &lt;br /&gt;&lt;br /&gt;Depending on the size of the organisation a tool process design engineer would typically report to the production or managing director of the company and will have significant leadership and project management responsibility together with budget accountability.&lt;/p&gt;",
   "knowledges": [
     {
@@ -194,6 +193,7 @@
     "Senior process specialist",
     "Press tool designer"
   ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Engineering, Design and Development",
@@ -206,7 +206,7 @@
   "professionalRecognition": [
     {
       "bodyName": "IMechE",
-      "level": "0",
+      "level": "This Apprenticeship Standard aligns with the current edition of the UK Standard for Professional Engineering Competence (UK-SPEC) at Incorporated Engineering (IEng) level. The experience gained and responsibility held by the apprentice on completion of the apprenticeship will either wholly or partially satisfy the requirements for IEng and reaches the agreed level of professional competence as defined in the Assessment Plan.",
       "isPartial": "",
       "partialFreeText": ""
     }
