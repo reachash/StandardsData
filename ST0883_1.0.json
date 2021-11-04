@@ -1,19 +1,19 @@
 {
-  "larsCode": 0,
+  "larsCode": 632,
   "referenceNumber": "ST0883",
   "title": "Market research executive",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "status": "Approved for delivery",
+  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/632",
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2021-06-03T00:00:00",
+  "earliestStartDate": "2021-05-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Research projects to generate data and insight.",
   "level": 4,
   "typicalDuration": 18,
-  "maxFunding": 0,
+  "maxFunding": 8000,
   "route": "Sales, marketing and procurement",
   "keywords": [
     "market",
@@ -35,9 +35,8 @@
   "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/5019/st0883_market-research-executive_l4_ap-for-publication_29032021.pdf",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.4 Marketing and sales",
-  "version": "",
+  "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in private, public and third sector organisations. These include media, finance, local government, central government and health. Market, Social and Opinion Research enables organisations to understand customers, develop new products, identify business growth opportunities, understand society, develop new policies and address significant social concerns such as smoking, addiction, poverty and inequality. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to work on research projects to generate data and insight. The Market Research Executive collects, analyses and interprets information collected from participants using digital and non-digital methods. They use qualitative techniques such as focus groups, in-depth interviews, and ethnography; quantitative techniques such as face to face/telephone/online surveys, statistical analysis; and analysis of numerical data; and secondary data analysis such as summarising, collating and synthesising existing research. The Market Research Executive role is key within the research function. They support the team from the beginning to end of the research project, across a range of research duties. This includes working closely with the research team to ensure project delivery in line with agreed resources and budgets. As part of this role it is essential to build and maintain relationships with internal and external clients and suppliers as appropriate. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with internal teams such as research, sales, marketing, IT, product development, finance, HR, legal and Operations. (Operations is the part of the research function that undertakes data collection, coding, data processing and data delivery to the research teams for analysis and reporting.) They also interact with external stakeholders, including members of the public, clients, service providers, agencies, the media, local and central government and research participants. They are expected to work independently on certain duties and as part of the wider office based research team on other duties including day to day responsibility for leading elements of a research project. The Market Research Executive is accountable to a line manager within the research team, with no staff management or budgetary responsibilities. The Market Research Executive role is predominantly office based, however there may be some off-site duties at various locations such as attendance at research group discussions, research interviews, client/agency meetings. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for under supervision, the investigation, design and set up of research projects, organisation, preparation and collection of data and summarising, evaluating and analysing of data and reporting of research findings undertaken with awareness and understanding of human resource, costs and budgetary restraints/opportunities. These activities will require capturing, comparing, checking and analysing primary research data; undertaking desk research/secondary research; checking, monitoring and screening participants; structuring and segmenting data for analysis and validating data for quality and accuracy. There will also be day to day responsibility for leading elements of research project delivery and specific research tasks in collaboration with internal and external stakeholders as appropriate. The areas of responsibility, resources they manage and reporting will vary across employers depending on factors such as size or type of organisation.&lt;/p&gt;",
   "knowledges": [
     {
@@ -166,7 +165,7 @@
     "contactEmail": "public.enquiries@ofqual.gov.uk",
     "webLink": "https://www.gov.uk/government/organisations/ofqual"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2021-05-27T00:00:00 +00:00",
   "integratedApprenticeship": false,
   "integratedDegree": "",
   "tbReference": "TB0474",
@@ -181,19 +180,20 @@
     "Research analyst",
     "Insight analyst"
   ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Marketing",
   "cluster": "Product/Brand Manager",
   "createdDate": "2020-10-21T07:59:09 +00:00",
-  "lastUpdated": "2020-06-29T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/market-research-executive#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/market-research-executive",
+  "lastUpdated": "2021-05-27T00:00:00 +00:00",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/market-research-executive-v1-0#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/market-research-executive-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
       "bodyName": "The Market Research Society",
-      "level": "0",
+      "level": "Member Grade",
       "isPartial": "",
       "partialFreeText": ""
     }
