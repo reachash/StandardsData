@@ -43,7 +43,6 @@
   "ssa2": "5.2 Building and construction",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in the construction, horticultural, digital, creative and design, environmental and planning sectors.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to work with and support landscape professionals in designing, planning and managing spaces in both natural and built environments. They work to meet project requirements and support these other professionals in protecting, conserving and enhancing the natural and built environment for the benefit of the public, communities, stakeholders and clients. Landscape Technicians use a wide range of technical skills and are at the forefront of technological innovation.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with clients, planners, landscape architects, architects, landscape managers, urban designers, ecologists, engineers, arboriculturists, park managers, local and national Government departments, non-governmental organisations, the public, local communities and many others. The work includes a mixture of office based and outdoor activities.&lt;/p&gt;\r\n&lt;p&gt;An employee in this occupation will be responsible for some of their own work and will work under supervision of landscape professionals and managers in more complex areas.&lt;/p&gt;",
   "knowledges": [
     {
@@ -154,11 +153,11 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "Claire Gill / Steve Walker",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/ofqual"
   },
   "approvedForDelivery": "2020-06-04T00:00:00 +00:00",
   "integratedApprenticeship": false,
@@ -181,6 +180,7 @@
     "BIM Technician",
     "GIS Technician"
   ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p><span>This standard will be reviewed after three years.</span></p>",
   "pathway": "Design, Surveying & Planning",
@@ -193,7 +193,7 @@
   "professionalRecognition": [
     {
       "bodyName": "Landscape Institute / Technician",
-      "level": "0",
+      "level": "",
       "isPartial": "",
       "partialFreeText": ""
     }
