@@ -36,7 +36,6 @@
   "ssa2": "1.4 Public services",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in law enforcement.&#160; A Serious and Complex Crime Investigator (S&amp;amp;CCI) could typically be employed by Her Majesty&#39;s Revenue and Customs, The National Crime Agency, Police Forces, The Ministry of Defence or the Financial Conduct Authority. The broad purpose of the occupation is to conduct serious and complex investigations.&#160; They will dynamically conduct investigations through research, analysis and planning to carry out operational activity.&#160; Typically this is a non-emergency response function.&#160; Some of these roles may require a S&amp;amp;CCI to have relevant designated powers where necessary.&#160; They could carry out investigations locally, nationally, and internationally which many involve the use of covert investigative techniques and using advanced technologies to target high level organised crime groups. In their daily work, an employee in this occupation interacts with diverse communities relevant to their organisations in order to, for example, obtain witness statements, gather evidence, conduct lawful searches of physical and virtual spaces and where relevant powers are designated, arrest and interview suspects.&#160; An employee in this occupation also interacts with other law enforcement agencies in order to support their work.&#160; The environment in which a S&amp;amp;CCI works will typically be office based, although there will be a requirement to deploy operationally outside of the office environment. An employee in this occupation will be responsible for investigating serious and organised criminality as part of a dedicated case team.&#160; There will be a Senior Investigating Officer who will allocate tasks and oversee the investigation, however the employee will be expected to undertake tasks independently, with limited supervision, as well as with other members of the case team or with other specialists.&lt;/p&gt;",
   "knowledges": [
     {
@@ -199,11 +198,11 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "TBC - Quality Assurance Agency (QAA)",
-    "contactName": "",
-    "contactAddress": "",
-    "contactEmail": "",
-    "webLink": ""
+    "providerName": "Quality Assurance Agency (QAA)",
+    "contactName": "Ben Potter",
+    "contactAddress": "Southgate House, Southgate Street, Gloucester, GL1 1UB",
+    "contactEmail": "QAE@QAA.ac.uk",
+    "webLink": "https://www.qaa.ac.uk/"
   },
   "approvedForDelivery": "2020-07-03T00:00:00 +00:00",
   "integratedApprenticeship": null,
@@ -219,19 +218,20 @@
     "Operations officer",
     "Investigator"
   ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Protective Services",
   "cluster": "Protective Service Professional",
   "createdDate": "2020-03-19T11:13:43 +00:00",
   "lastUpdated": "2020-07-03T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/serious-and-complex-crime-investigator-(integrated-degree)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/serious-and-complex-crime-investigator-(integrated-degree)-v1-0",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/serious-and-complex-crime-investigator-integrated-degree-v1-0#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/serious-and-complex-crime-investigator-integrated-degree-v1-0",
   "qualifications": [
     {
       "qualificationId": "32d3609b-d42d-4648-beed-cc961487b3da",
       "title": "Serious and complex crime investigator degree",
-      "level": "0",
+      "level": "6 (integrated degree)",
       "anyAdditionalInformation": ""
     }
   ],
