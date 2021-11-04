@@ -15,7 +15,13 @@
   "typicalDuration": 24,
   "maxFunding": 8000,
   "route": "Engineering and manufacturing",
-  "keywords": [],
+  "keywords": [
+    "wood products",
+    "wood components",
+    "furniture industries",
+    "wood product manufacturing",
+    "furniture"
+  ],
   "jobRoles": [
     "machinist",
     "CNC (Computer Numerically Controlled) operative",
@@ -27,7 +33,6 @@
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in the manufacturing sector, producing wood products for the construction and furniture industries. Wood product manufacturing is at the engineering end of woodworking and forms a critical part of the emerging pre-manufactured solutions sector, identified in the Farmer Review as key to the future of construction. It supplies products to the housing, commercial, public and building sectors. Employers range from small to large, with a prevalence in the medium to large end of the market. Specialism in single product type is particularly common in the larger end of the market. The broad purpose of the occupation is to produce high volume, repetitive, engineered products from timber. Presenting a wide and varied specification for both external and interior applications, products such as roofing components, windows, doors, door-sets, staircases and other timber construction items including trussed rafters, spandrel panels, metal web beams, and I-beams.As well as utilising traditional materials, they use engineered and modified timbers to support product design and delivery, for example Accoya and Thermowood. They cut, layout and assemble materials, working to a specification. Depending on the product, they may install fixtures and fittings, apply finishes and add glazing systems. Wood product manufacturing operatives typically work individually but can also form part of a larger production team and will report to the production supervisor/manager. Workplaces can be wide ranging from small workshops to large state of the art manufacturing facilities. In their daily work, an employee in this occupation interacts with customers, delivery personnel, design office, internal stores and suppliers, depending on the size of the organisation. An employee in this occupation will be responsible for completing their own work to specification, with minimal supervision, ensuring they meet set deadlines. They are responsible for meeting quality requirements and working in accordance with health and safety and environmental considerations.&lt;/p&gt;",
   "knowledges": [
     {
@@ -278,12 +283,13 @@
     "CNC (Computer Numerically Controlled) operative",
     "finishing operative/sprayer and assembler"
   ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 1 English and maths will need to achieve this level and apprentices without level 2 English and maths will need to take the tests for this level prior to taking the end-point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing and Process Operative/Technician",
   "createdDate": "2020-12-24T10:47:36 +00:00",
-  "lastUpdated": "2020-12-24T10:47:36 +00:00",
+  "lastUpdated": "2019-07-03T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/wood-product-manufacturing-operative-v1-0#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/wood-product-manufacturing-operative-v1-0",
   "qualifications": [],
