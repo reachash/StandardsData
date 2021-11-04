@@ -34,7 +34,6 @@
   "ssa2": "9.3 Media and communication",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in media businesses such as TV, radio, online and print (newspapers and magazines), public relations and communications.&lt;br /&gt;The broad purpose of the occupation is to inform the public – either through news and current events, or through the creation of authoritative features, opinion or analysis.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with colleagues within the same organisation, representatives of other businesses/organisations and members of the general public. Typically, work will be completed in an office or in varied locations, and will usually involve unsociable hours or shift working. &lt;br /&gt;An employee in this occupation will be responsible for researching and reporting, creating, as well as commissioning, content. This can include filming, recording and editing audio and video in a deadline driven environment; this could be to inform or entertain on TV, radio, online or in print. This could be across multiple genres – from crime to politics to technology to sport to fashion. An employee may also commission work, source material, speak to contacts, head assignments and in some cases, lead a team, where resources will have to be allocated and managed, and develop/mentor junior staff. They will talk directly and engage with the audience and be called upon to make strategic decisions, in what can be unpredictable or changing circumstances and understand the need for audience/readership engagement and analysis of audience analytics. They will have full responsibility for finding, researching and telling stories tailored to employer’s needs and target audience. They will also manage contributions to stories from an array of sources, including freelancers, user generated content, the public, and other specialist staff. Throughout, sound editorial judgements must be displayed with a thorough understanding and application of the law, relevant codes of practice and ethical principles. For much of the time a senior journalist acts alone, making decisions on content and publication, reporting to an editor (or similar figure). There is likely to be even more autonomy in smaller organisations. The duties and responsibilities of their immediate manager must also be understood for occasions when they have to stand-in for them.&lt;/p&gt;",
   "knowledges": [
     {
@@ -320,6 +319,7 @@
     "Multimedia reporter",
     "Video journalist"
   ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Media, Broadcast and Production",
@@ -332,7 +332,7 @@
     {
       "qualificationId": "b9f66500-202d-4d1e-914d-0619d20254ab",
       "title": "National Qualification in Journalism (NQJ)",
-      "level": "0",
+      "level": "6 (non-degree qualification)",
       "anyAdditionalInformation": ""
     }
   ],
