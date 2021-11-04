@@ -28,7 +28,6 @@
   "ssa2": "3.4 Environmental conservation",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "2141 - Conservation professionals",
   "occupationalSummary": "&lt;p&gt;Occupation summary:&lt;br /&gt;This occupation is found in the game and wildlife management sector. The broad purpose of the occupation is to participate in habitat management, pest and predator control and animal husbandry in support of a shooting enterprise. As well as producing a harvestable surplus of gamebirds, an underkeeper contributes to associated conservation activities for the benefit of other flora and fauna. An underkeeper will assist on shoot days and will be expected to undertake routine estate maintenance. In their daily work, an employee in this occupation interacts with a variety of organisations and individuals, including estate managers, senior gamekeepers, police/other statutory bodies, paying guests, other land users and the general public. Underkeeper’s work under some challenging conditions and can be expected to work some unsociable hours and will be outdoors in all weathers. They need to follow instructions precisely from the headkeeper or estate manager to help deliver an estate’s management plan, but frequently operate alone and need to rely&lt;br /&gt;on their own initiative and adaptability. An employee in this occupation will be responsible for&lt;br /&gt;&lt;br /&gt;supporting the management of landscapes, wildlife and shooting activities. To fulfil these requirements an underkeeper needs to be competent and qualified in a range of practical gamekeeping skills, including animal and bird husbandry, the creation and maintenance of healthy habitat, and the responsible and appropriate use of all relevant traps, pesticides, hand tools, power tools and firearms.&lt;/p&gt;",
   "knowledges": [
     {
@@ -292,6 +291,7 @@
     "Beatkeeper",
     "Wildlife manager"
   ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 1 English and maths will need to achieve this level and apprentices without level 2 English and maths will need to take the tests for this level prior to taking the end-point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Agriculture, Land Management and Production",
@@ -304,19 +304,19 @@
     {
       "qualificationId": "755533cf-d737-44d4-8087-4ca8ec76615d",
       "title": "Level 2 Award in Wild Game Hygiene",
-      "level": "0",
+      "level": "2",
       "anyAdditionalInformation": ""
     },
     {
       "qualificationId": "c6fbbaeb-2416-45b9-a8af-b2e1b2e13e85",
       "title": "Pesticide Application ",
-      "level": "0",
+      "level": "2",
       "anyAdditionalInformation": ""
     },
     {
       "qualificationId": "b71bd06f-a776-4d3f-b5b3-6a470b7dcafd",
       "title": "Rat Control for Gamekeepers certificate",
-      "level": "0",
+      "level": "2",
       "anyAdditionalInformation": ""
     }
   ],
