@@ -6,7 +6,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/568",
   "versionNumber": "1.0",
   "change": "",
-  "changedDate": null,
+  "changedDate": "2021-07-26T00:00:00",
   "earliestStartDate": "2020-06-17T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -24,12 +24,11 @@
     "Water operative"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4326/st0898_water_network_operative_l2_epa-plan_for-publication_050620.pdf",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/5278/st0898_water_network_operative_l2_epa-plan_for-publication-adj_22072021.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "8119 - Process operatives n.e.c.",
   "occupationalSummary": "&lt;p&gt;This occupation is found in the utilities sector, in clean water and waste water industries. Water network operatives typically work in only one of the water industries, although some multi-utility workers may work across both. They work for utility owners, operators or contractors, ranging in size from small to large companies.&lt;br /&gt;&lt;br /&gt;This is a core and options apprenticeship standard. Apprentices will need to complete the core and one option:&lt;br /&gt;1. Clean water network operative. &lt;br /&gt;2. Waste water network operative. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to construct, maintain and repair water network infrastructure, to provide a reliable supply/service to domestic, commercial and industrial users. Clean water infrastructure includes mains pipes, water supply pipes, stop taps, fire hydrants and sluice valves for clean water operations; and in waste water operations: drains and sewers, chambers, interceptors, flow control devices and storage tanks. In both occupations the work is both planned - construction and maintenance, and reactive - repairs and emergencies. They ensure the site is safe for work, which may include traffic management and control, complete site excavation and restore the site to a safe condition. They use a range of powered equipment and hand tools, for example diggers.&lt;br /&gt;&lt;br /&gt;Depending on the work required, they may spend the day at one site or work across a number of sites. Work locations may include new build sites, public highways or domestic properties. They are required to work in all weather conditions. They may need to work shifts, standby and unsociable hours. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with colleagues, such as managers, network technicians and engineers, delivery drivers, reinstatement teams and administration staff. They usually work in a small team - typically with one or two other operatives, responsible for their own work, reporting to managers but not under direct supervision. On a site they may also interact with site agents and other trades. They will communicate with clients/customers regarding work that is being undertaken and in some situations the general public. They may also liaise with personnel from statutory authorities, such as the Highways Authority, local authorities and the Environment Agency. When working in emergency situations, they may liaise with emergency services personnel. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for completing work to the required standard, following procedures and ensuring Health &amp;amp; Safety and regulatory compliance, for example with the Drinking Water Inspectorate, The Water Services Regulation Authority (OFWAT) and Environment Agency etc; failure to do so could have serious consequences for self, public health and the environment. Recording and reporting on work completed is an important part of the job, which may include completion of paperwork or computerised records, drawings and providing site photographs. They are expected to present a professional image of the company. They are responsible for ensuring their tools and equipment are fit for use, correctly stored and maintained. Depending on their level of experience, they may be responsible for leading the team.&lt;br /&gt;&lt;br /&gt;Water network operatives need to be qualified and on the Street Works Register. Typically, a driving license will be required as they may be expected to drive to their place of work, using a company vehicle. In addition, clean water network operatives must hold a Water Hygiene Card. Some water network operatives may require a CSCS (Construction Skills Certification Scheme) Card and/or SHEA (Safety, Health and Environmental Awareness) Gas Passport Card.&lt;/p&gt;",
   "knowledges": [
     {
@@ -333,11 +332,11 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "Claire Gill / Steve Walker",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/ofqual"
   },
   "approvedForDelivery": "2020-06-17T00:00:00 +00:00",
   "integratedApprenticeship": false,
@@ -355,6 +354,7 @@
     "Utility operative",
     "Water operative"
   ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 1 English and maths will need to achieve this level and apprentices without level 2 English and maths will need to take the tests for this level prior to taking the end-point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Maintenance, Installation & Repair",
