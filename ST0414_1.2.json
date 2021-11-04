@@ -32,7 +32,6 @@
   "ssa2": "4.1 Engineering",
   "version": "1.2",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;A Royal Engineer is a technician and unique member of the Armed Forces with the option of selecting a construction related trade. They have five distinct roles that link together to enable them to undertake construction tasks in a military environment.&lt;br /&gt;&lt;br /&gt;They are tradespersons working on construction sites in any part of the world. This can involve the erection of new buildings or repairing existing structures. The scope of works is wide, but includes everything from the erecting of masonry structures, the laying of non- specialist concrete, and other broad construction tasks; right the way through to the installation of all necessary fixtures and fittings and associated decoration, as well as repair and maintenance to existing damaged structures.&lt;br /&gt;&lt;br /&gt;This will involve the underpinning military skills expected of any soldier and achieved prior to the commencement of the apprenticeship, these will include combat skills, correctly and safely responding to tactical situations, undertaking patrol duties as part of a section and, whilst working as part of a team, be able to accept responsibility, remaining calm at all times. Reinforced by an ability to accept responsibility for own and co-workers safety on a construction site. All this used in a potentially arduous and hostile environment requiring individuals to react to, and account for, a changing tactical situation in order to not only deliver the project, but maintain a safe environment on the construction site or in the workshop.&lt;br /&gt;&lt;br /&gt;The Royal Engineer can expect to work globally in testing and potentially hostile environments. The construction environment differs from an industrial norm in that soldiers are required to deliver their construction skills in an ever changing and potentially hostile situation with minimal resources and support. Add to these demanding conditions, the physical environment in which they operate can be extremely challenging, far removed from their civilian counterpart. They must also be aware that the physical and tactical safety considerations will far exceed any civilian construction site, given that hostile forces may be operating around the construction site.&lt;br /&gt;&lt;br /&gt;The skills gained in a Royal Engineers apprenticeship are directly transferable to the equivalent civilian trades. The apprenticeship is recognised by the Construction Industry Training Board (CITB) and completion of the apprenticeship will entitle the person to apply for a relevant CSCS card to enable them to work on civilian construction sites should they decide to leave the military. In addition, upon completion of their military service all servicemen and women have access to transitional modules and courses to assist them as they move into civilian life. These include – but are not limited to – refresher and progression courses related to their specific trade. Military servicemen and women are highly sought-after by civilian trade organisations due to the breadth of knowledge, skills and behaviours they bring from their time in the military.&lt;/p&gt;",
   "knowledges": [
     {
@@ -738,19 +737,20 @@
   "typicalJobTitles": [
     "Royal engineer"
   ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Onsite Construction",
   "cluster": "Core Building Tradesperson",
   "createdDate": "2020-11-18T16:47:40 +00:00",
-  "lastUpdated": "2020-07-16T00:00:00 +00:00",
+  "lastUpdated": "2018-07-31T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/military-engineering-construction-technician-v1-2#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/military-engineering-construction-technician-v1-2",
   "qualifications": [],
   "professionalRecognition": [
     {
       "bodyName": "CSCS ",
-      "level": "0",
+      "level": "Card Scheme",
       "isPartial": "",
       "partialFreeText": ""
     }
