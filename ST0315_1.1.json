@@ -39,7 +39,6 @@
   "ssa2": "4.1 Engineering",
   "version": "1.1",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in small specialist firms to large multi-national and multi-disciplinary engineering or construction consultancies, to contractor and client organisations, where these organisations design, develop, install, maintain or manage rail infrastructure or rail systems. Railway engineering design technicians may also be found in specialist advisory organisations which consult on infrastructure financing or rail operation.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to prepare and produce railway engineering designs and provide technical support when planning the construction or maintenance of new or existing rail infrastructure, or their respective systems.&lt;br /&gt;&lt;br /&gt;Railway engineering design technicians will use and apply engineering principles and techniques, to make decisions, solve problems, often across a range of disciplines such as signalling, rolling stock, track, systems, civil engineering, communications, electrification or electrical plant. They will also support in the development and production, analysis and planning of railway engineering designs that inform others, either internally or externally, where designs are utilised to construct, maintain or improve rail systems. Some technicians will also support in the surveying and checking of progress and quality factors of the technical design works on site.&lt;br /&gt;&lt;br /&gt;In their daily work, employees interact with their line manager to confirm programmes of work and agree individual responsibilities, which in turn support the delivery of wider plans across engineering design teams. These teams could include engineers across a range of disciplines, clients, contractors, and project managers, where their collective outputs will be used to produce integrated railway engineering system design that is fit for purpose, safe, secure, environmentally sustainable, and meet client and industry specifications. &lt;br /&gt;Technicians may also be exposed to other professional disciplines, such as surveyors, environmental impact assessors, planners and specialist suppliers; As well as liaising with internal colleagues across a variety of multidisciplinary areas, some technicians will also be responsible for working with clients, contractors, suppliers, or with representatives from appropriate regulatory bodies. &lt;br /&gt;The majority of their time will be spent working in an office environment, with the potential for occasional work on railway sites, visiting customers or suppliers. &lt;br /&gt;&lt;br /&gt;Employees are responsible for the delivery, quality and accuracy of the work and designs they complete, ensuring they are delivered within agreed time and resource limits, compliant with industry and regulatory standards, and to client specifications, including health, safety and wellbeing. They will typically report to an engineer or project manager as part of a cross functional team, the size of this team and responsibilities will vary depending on the scope of the project and size of the employer. &lt;br /&gt;&lt;br /&gt;They are able to use their own judgement when undertaking the occupational duties and applying their technical knowledge, skills and behaviours in a range of contexts and environments. They use a range of tools and techniques, including digital techniques, such as CAD or BIM, to support technical problem solving and in the delivery of railway engineering designs. They also have a responsibility to plan and organise their own work and contribute to the management of projects using a variety of business processes, procedures, ways and methods of working. They are also responsible for their own continuing professional development and recognising their own obligations to society.&lt;/p&gt;",
   "knowledges": [
     {
@@ -179,7 +178,7 @@
   "approvedForDelivery": "2015-03-26T00:00:00 +00:00",
   "integratedApprenticeship": false,
   "integratedDegree": "",
-  "tbReference": "TB0331",
+  "tbReference": "TB0310",
   "tbMainContact": "csudworth@acenet.co.uk",
   "involvedEmployers": "Jacobs Engineering, Atkins, CH2MHill, Hyder Consulting, Parsons Brinckerhoff, Tony Gee and Partners, URS, WSP, Institution of Civil Engineers (ICE), Institution of Engineering technology (IET)",
   "regulated": false,
@@ -193,68 +192,69 @@
     "Design technician",
     "Assistant designer"
   ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Technician",
   "createdDate": "2020-08-21T08:46:22 +00:00",
-  "lastUpdated": "2020-08-21T08:46:22 +00:00",
+  "lastUpdated": "2015-03-26T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/railway-engineering-design-technician-v1-1#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/railway-engineering-design-technician-v1-1",
   "qualifications": [
     {
       "qualificationId": "",
       "title": "Pearson Level 3 BTEC National Diploma in Engineering",
-      "level": "0",
+      "level": "3",
       "anyAdditionalInformation": ""
     },
     {
       "qualificationId": "",
       "title": "Pearson Edexcel Level 3 Diploma in Civil Engineering for Technicians (Institution of Civil Engineers)",
-      "level": "0",
+      "level": "3",
       "anyAdditionalInformation": ""
     },
     {
       "qualificationId": "",
       "title": "Pearson BTEC Level 3 Diploma in Civil Engineering",
-      "level": "0",
+      "level": "3",
       "anyAdditionalInformation": ""
     },
     {
       "qualificationId": "",
       "title": "Pearson BTEC Level 3 Diploma in Construction and the Built Environment",
-      "level": "0",
+      "level": "3",
       "anyAdditionalInformation": ""
     },
     {
       "qualificationId": "",
       "title": "Pearson BTEC Level 3 Diploma in Advanced Manufacturing Engineering (Development Technical Knowledge)",
-      "level": "0",
+      "level": "3",
       "anyAdditionalInformation": ""
     },
     {
       "qualificationId": "",
       "title": "Pearson BTEC Level 3 Diploma in Rail Engineering Technician",
-      "level": "0",
+      "level": "3",
       "anyAdditionalInformation": ""
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "Institution of Civil Engineers (ICE) ",
-      "level": "0",
+      "level": "EngTech",
       "isPartial": "",
       "partialFreeText": ""
     },
     {
       "bodyName": "The Institution of Engineering and Technology (IET",
-      "level": "0",
+      "level": "EngTech",
       "isPartial": "",
       "partialFreeText": ""
     },
     {
       "bodyName": "Permanent Way Institution (PWI) ",
-      "level": "0",
+      "level": "EngTech",
       "isPartial": "",
       "partialFreeText": ""
     }
