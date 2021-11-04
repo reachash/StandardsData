@@ -39,7 +39,6 @@
   "ssa2": "4.1 Engineering",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;The Materials Science Technologist occupation is at the forefront materials innovation in the Petrochemical, Pharmaceutical, Engineering, Construction, and Manufacturing industries across numerous sectors including automotive, aerospace, healthcare, defence, and energy, mechanical, civil and chemical engineering, material failure, rheology, adhesives, polymers, traditional and advanced ceramics. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to ensure materials used in those industries are fit for purpose in terms of product innovation, performance, failure diagnosis, operational management, process and manufacturing, and the positive advancement of materials science, thus enhancing economic and social value today and in the future.&lt;br /&gt;&lt;br /&gt;In their daily work, materials technologists will engage in high level activities such as materials testing, novel product development, solving manufacturing issues, laboratory management, team leadership, technological sales, and client management, depending on which of the variety of related businesses their employer is in. &lt;br /&gt;&lt;br /&gt;Work involves testing materials used by clients through activities such as investigation, gathering physical evidence, critical analyses, drawing conclusions, and recommending courses of action. Depending on context, technologists may be involved in designing new materials or production processes, combining materials, or additive manufacturing. In addition, they may need to provide technical leadership in the design and development of new material products by choosing correct materials and applications through data derived from analysis in the field or lab for: e.g. body armour for defence, materials for engine parts for aerospace, commercial vehicles or high performance cars, materials for new developments in battery design/manufacture, or coatings and additives for healthcare applications such as dental work, or materials for replacement bones or prosthetics.&lt;br /&gt;&lt;br /&gt;This employee will participate in internal/external project teams, provide management and leadership of direct report personnel as well as cross-functional teams in addition to liaising with clients in a sales role or providing technical consultancy, proof of concept, or scale-up initiatives. Work will be on projects in the lab, office, onsite, or in the field in local, regional, national or global contexts.&lt;br /&gt;&lt;br /&gt;In addition they may be expected to acquire and develop new business and manage an existing client base comprising of individuals, SMEs, larger national companies, government agencies, and multinational organisations.&lt;/p&gt;",
   "knowledges": [
     {
@@ -234,26 +233,27 @@
     "Quality Assurance/Quality Control",
     "Graduate Sales Exec"
   ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Engineer",
   "createdDate": "2019-12-24T11:59:48 +00:00",
-  "lastUpdated": "2019-12-24T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/materials-science-technologist-(degree)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/materials-science-technologist-(degree)-v1-0",
+  "lastUpdated": "2019-07-03T00:00:00 +00:00",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/materials-science-technologist-degree-v1-0#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/materials-science-technologist-degree-v1-0",
   "qualifications": [
     {
       "qualificationId": "c39e232f-d89f-49fa-aea3-d06d2dd8b132",
       "title": "Degree in Materials ",
-      "level": "0",
+      "level": "6 (non-integrated degree)",
       "anyAdditionalInformation": ""
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "The Institue of Materials, Minerals, and Mining (IOM3) ",
-      "level": "0",
+      "level": "Associate Member with Incorporated Engineer registration (IEng AIMMM)",
       "isPartial": "",
       "partialFreeText": ""
     }
