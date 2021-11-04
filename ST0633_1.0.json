@@ -28,7 +28,6 @@
   "ssa2": "1.3 Health and social care",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in health, education and social care. Arts Therapists work in a range of settings such as the NHS, local authorities, voluntary, or private sector, hospitals, clinics, education, shelters, hospices, or prisons.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to use art, drama or music to carry out therapy interventions to improve a person’s mental, physical health and wellbeing. Arts Therapists are both artists in their chosen field and psychological therapists. They use art, drama or music as their primary mode of communication. Arts therapies can help to enhance general development, autonomy, social interaction and communication skills and can support both mental and physical rehabilitation. They may be used to address anxiety, confusion, pain, trauma and depression and to improve quality of life. Arts Therapists help the individual to experience themselves and others in different ways through the arts therapy intervention. This is particularly helpful when emotions are too confusing to express verbally, when verbal communication is difficult, or when words are not enough to relay feelings. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with a wide range of clients. Arts therapists may work across the full age range with clients who may have a wide range of difficulties, disabilities or diagnoses such as emotional, social, behavioural or mental health problems, learning or physical disabilities, injury, life-limiting conditions, neurological conditions or physical illnesses. Arts Therapy sessions may be delivered individually or in groups depending on the client’s needs. Arts therapists work closely with their team to provide and receive ongoing managerial, clinical and professional supervision and support. They also work with a range of wider stakeholders or organisations who may be involved in their client&#39;s care or support such as family, carers, education providers, health or social care services.&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for managing a caseload of clients with a wide variety of problems using client-centred approaches to assess a client’s needs. They devise support plans that takes into account the complex psychological, emotional, cognitive, physical, communicative and social needs of the client. They build rapport with clients and create a safe environment to help them to develop their self-awareness and self-confidence and to improve their functioning and promote mental well-being.&lt;/p&gt;",
   "knowledges": [
     {
@@ -428,20 +427,21 @@
     "Music therapist",
     "Art psychotherapist"
   ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Health",
   "cluster": "Health Practitioner",
   "createdDate": "2019-12-19T14:37:44 +00:00",
-  "lastUpdated": "2019-12-19T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/arts-therapist-(degree)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/arts-therapist-(degree)-v1-0",
+  "lastUpdated": "2019-04-05T00:00:00 +00:00",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/arts-therapist-degree-v1-0#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/arts-therapist-degree-v1-0",
   "qualifications": [
     {
       "qualificationId": "e47fd33f-7432-401d-b429-d79eb4daa870",
       "title": " MSc/MA in either Art Therapy/Art Psychotherapy, Dramatherapy or Music Therapy accredited by the Health and Care Professions council (HCPC)",
-      "level": "0",
-      "anyAdditionalInformation": null
+      "level": "7 (non-degree qualification)",
+      "anyAdditionalInformation": ""
     }
   ],
   "professionalRecognition": [],
