@@ -15,7 +15,13 @@
   "typicalDuration": 24,
   "maxFunding": 9000,
   "route": "Engineering and manufacturing",
-  "keywords": [],
+  "keywords": [
+    "textile machinery",
+    "manufacturing",
+    "production",
+    "fashion",
+    "textiles"
+  ],
   "jobRoles": [
     "Weaving Overlooker",
     "Weaving Technician",
@@ -34,7 +40,6 @@
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is a technical role within textile and fashion advanced manufacturing companies. The occupation is a production/manufacturing role that involves the production of textiles for woven or finished fabrics. The broad purpose of the occupation is to ensure that the technical capabilities of the plant, the product and the machinery are appropriately and innovatively fined-tuned to meet customer expectations. This involves the use of specialist textile machinery and equipment, either to WEAVE or to FINISH textiles which service the world’s textile supply chain. &lt;br /&gt;&lt;br /&gt;The Textile Technical Specialist is a core and options apprenticeship standard. The options are as follows:-&lt;br /&gt;&lt;br /&gt;1) Technical Weaving - this occupation covers the whole of the weaving production operation in an advanced textile manufacturing company&lt;br /&gt;2) Technical Finishing - this occupation covers the whole of the textile finishing operation in an advanced textile manufacturing company&lt;br /&gt;&lt;br /&gt;A Textile Technical Specialist is highly skilled and can utilise, operate and maintain all equipment within either the WEAVING department or the FINISHING department.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in either of these occupational roles works in a sophisticated production environment using computer systems to plan and programme production machinery, interchanging between manufacturing facilities and laboratories. Almost all their work is indoors in controlled environments and they would usually deal with customers by telephone or email over technical matters that affect production performance.&lt;br /&gt;&lt;br /&gt;An employee in this occupation is responsible for the exact machinery programming, scientific analysis, accurate measurements, trials, whole production and efficiency as well as quality of fabric production for either the textile weaving or finishing applications. The role is heavily mechanised with the use of bespoke computer systems. It directly involves the production/output of fabrics to meet a high value market. &lt;br /&gt;&lt;br /&gt;They work in a senior role as a business’s technical expert and lead a team of operatives. They report directly to senior management and directors and have overall scrutiny and responsibility for the accuracy of manufactured products. Textile Specialist have overall autonomy for the use of production machinery, ensuring that appropriate personnel are appointed to production roles to meet demand. They are employed across micro businesses, SMEs and large businesses, ranging from small weaving and finishing businesses to large clothing businesses to meet requirements of a global fashion market.&lt;/p&gt;",
   "knowledges": [
     {
@@ -213,6 +218,7 @@
     "Production Managers",
     "Textile Technologist"
   ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p><span>This standard will be reviewed after three years.</span></p>",
   "pathway": "Engineering, Manufacturing, Process and Control",
@@ -225,7 +231,7 @@
   "professionalRecognition": [
     {
       "bodyName": "Textile Institute / LICENTIATESHIP MEMBERSHIP",
-      "level": "0",
+      "level": "",
       "isPartial": "",
       "partialFreeText": ""
     }
