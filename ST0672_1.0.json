@@ -6,7 +6,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/614",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2020-12-22T00:00:00",
+  "changedDate": "2021-08-02T00:00:00",
   "earliestStartDate": "2020-12-16T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -38,12 +38,11 @@
     "Instrument engineer"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4725/st0672_electro-mechanical-engineer_l6_ap-for-publication_07122020.pdf",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/5292/st0672_electro-mechanical-engineer_l6_ap-for-publication_adj-020821.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "5241",
   "occupationalSummary": "&lt;p&gt;This occupation is found in many engineering sectors involving design, manufacture and research &amp;amp; development, such as aerospace, rail, automotive, defence, electronics, robotics, cybernetics, marine and renewable energy. The occupation serves private and public sectors, and can be found in large and small employers.&#160;&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is to solve real-world problems using a combination of mechanical and electrical engineering expertise. This might mean designing a better wind turbine, ensuring a passenger plane can land safely, creating a robotic arm for surgery, developing a self-driving car or producing a drone to deliver parcels. An electro-mechanical engineer can oversee the development of an entire product, by understanding the principles of both electrical and mechanical disciplines. This kind of problem solving requires a mixture of skills in design, testing, analysis, reporting, verification, safety assessment, quality assurance, project management and delivering to time and cost. They provide information, advice and guidance on technical solutions and proposals, including cost/benefit analysis and awareness of commercial realities. They also provide ongoing technical support once design and development items are implemented or deployed. The products an electro-mechanical engineer can work on range from medical monitors, precision measurement tools and hydraulic actuator systems to bespoke industrial machinery and complex remote handling manipulators, and can be found in a variety of challenging environments. The occupation requires an appreciation of programming software, plus the ability to interpret data, use a range of CAD and software tools, and operate mechanical systems via electrical, pneumatic or hydraulic means.&lt;/p&gt;\r\n&lt;p&gt;In their daily work, an employee in this occupation interacts with the many stakeholders in any engineering project, and may be a key figure in integrating different teams. Within their organisation they interact with the project manager, engineering team members, technical specialists, laboratory and site-based technicians, senior managers, plus other internal teams such as customer services, production, finance, health and safety, quality etc. They may also interact directly with external stakeholders such as the customer or client, as well as suppliers and service providers.&#160;&#160;&lt;/p&gt;\r\n&lt;p&gt;This occupation is typically found in an office or laboratory environment, and may be predominantly based in one or the other, depending on the employer. The role is usually carried out within normal office hours, but travel off-site may be required for trials, demonstrations, inspections and customer visits. An employee in this occupation will be responsible for delivery of project elements to time, cost and quality, either on their own or as the leader of a design/test/systems/project team. They typically report to senior project and engineering leaders. Depending on the size and structure of their organisation, they may supervise other engineers or technicians.&lt;/p&gt;",
   "knowledges": [
     {
@@ -253,25 +252,26 @@
     "Test engineer",
     "Instrument engineer"
   ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Engineer",
   "createdDate": "2020-12-18T08:43:56 +00:00",
-  "lastUpdated": "2020-12-18T08:43:56 +00:00",
+  "lastUpdated": "2020-12-16T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/electro-mechanical-engineer-v1-0#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/electro-mechanical-engineer-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
       "bodyName": "Incorporated Engineer (IEng)",
-      "level": "0",
+      "level": "IMechE",
       "isPartial": "full",
       "partialFreeText": ""
     },
     {
       "bodyName": "Incorporated Engineer (IEng)",
-      "level": "0",
+      "level": "Royal Aeronautical Society",
       "isPartial": "partial",
       "partialFreeText": "IMechE: It is likely that a period of further academic study or further learning would be required in order to meet the Knowledge and Understanding requirements of UK Spec (bachelors level learning or equivalent) for Incorporated Engineer professional registration and the IMechE will be happy to work with the employers and individual apprentices to support their journey towards professional registration. RAeS: We recommend that consideration is given to the academic qualification required to satisfy UKSPEC requirements i.e. the requirement to have an accredited qualification at the appropriate level, and that for the BEng proposed this would have to be accredited for IEng level by a Professional Engineering Institution approved by the Engineering Council. We will be happy to provide further advice and support in addition to help in mapping the proposed KSBs against UKSPEC to identify areas where the apprentice meets IEng competences in full, or partially."
     }
