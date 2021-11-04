@@ -37,7 +37,6 @@
   "ssa2": "6.1 ICT practitioners",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "2124 - Electronics engineers",
   "occupationalSummary": "&lt;p&gt;This occupation is found in Telecommunications operators, Ministry of Defence and their vendors and suppliers responsible for broadcasting digital voice and data services via a mobile telecommunications network. This network will deliver these services to specific corporate, public, emergency services and military organisations. The broad purpose of the occupation is to ensure that digital data and voice networks operate at an optimal level. This is to provide the best possible service to their customers, working as part of a national or regional radio network team. The individual will set up, configure, maintain and monitor radio networks to deliver data services and operate processes for the design, installation, test, implementation, fault finding and optimisation of radio telecoms networks. In their daily work, an employee in this occupation interacts with internal and external customers, owners of potential new cell site locations, equipment suppliers, internal teams, and cross functional leaders. The occupation is a mix of office work, on site work and field-based work. An employee in this occupation will be responsible for managing radio network equipment to achieve network performance objectives in terms of service, coverage, quality and availability. They will initiate, own and complete processes, tasks and procedures, supporting wider team to deliver long-term and short-term project priorities. They will use their own initiative, work with minimal supervision, and report into a manager.&lt;/p&gt;",
   "knowledges": [
     {
@@ -294,25 +293,26 @@
     "Wireless systems engineer",
     "Radio optimisation engineer"
   ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Digital Support and Services",
   "cluster": "IT Support and Services Technician",
   "createdDate": "2020-06-12T15:09:42 +00:00",
-  "lastUpdated": "2020-02-05T00:00:00 +00:00",
+  "lastUpdated": "2020-12-11T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/radio-network-technician-v1-0#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/radio-network-technician-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
       "bodyName": "This apprenticeship is recognised for entry onto the BCS, The Chartered Institute for IT, Register of IT Technicians.",
-      "level": "0",
+      "level": "Confirms level 3 professional competence",
       "isPartial": "",
       "partialFreeText": ""
     },
     {
       "bodyName": "The Institute of Telecommunications Professionals.",
-      "level": "0",
+      "level": "Those completing the apprenticeship are eligible for recognition at full membership",
       "isPartial": "",
       "partialFreeText": ""
     }
