@@ -2,13 +2,13 @@
   "larsCode": 469,
   "referenceNumber": "ST0599",
   "title": "Dietitian (integrated degree)",
-  "status": "Approved for delivery",
+  "status": "Retired",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/469",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2021-07-16T00:00:00",
   "earliestStartDate": "2019-07-03T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2021-07-15T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Using advanced communication and behaviour-change skills to enable people to make lifestyle and food choices to improve their health.",
   "level": 6,
@@ -35,7 +35,6 @@
   "ssa2": "1.2 Nursing, and subjects and vocations allied to medicine",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in the health sector. Dietitians are predominantly employed by the NHS, working in hospitals (seeing patients both on wards and in out-patient clinics) and in the community (for example seeing patients in GP practices, care homes, schools, health centres or seeing people in their own home). Dietitians are also employed in the food industry (including clinical nutrition companies) and there maybe opportunity for employment in higher education, sport, media, and national and local government. Some dietitians will be freelance and self-employed.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to use advanced communication and behaviour-change skills to enable people to make lifestyle and food choices to improve their health. Dietitians work in partnership with individual to assess, diagnose and monitor the impact of jointly agreed treatment plans. They treat individuals from birth to older age regarding health and nutrition, gathering and analysing information from a variety of sources, like results of blood tests and diagnostic investigations, and providing a tailored practical action plan using a holistic, person-centred approach. They take an evidence-based approach to effectively support the prevention and management of a wide range of conditions including diabetes, food allergy and intolerance, bowel disorders such as irritable bowel syndrome, cancer, heart disease, stroke, liver and kidney disease, disordered eating and malnutrition caused by disease. &lt;br /&gt;&lt;br /&gt;Dietitians also tailor specific nutritional diet related advice for groups and individuals across diverse populations and communities. They design and develop information about food and nutrition for a variety of audiences, using a range of tools to work with individuals, groups, communities and other health professionals. &lt;br /&gt;&lt;br /&gt;In their daily work, a dietitian interacts with:&lt;br /&gt;&lt;br /&gt;• Patient, their families and carers in clinical settings like hospitals, community clinics, care homes and general practices&lt;br /&gt;• Other health and social care professionals for example, doctors, nurses, pharmacists and care workers&lt;br /&gt;• Catering services and specialist contractors providing nutritional products&lt;br /&gt;• Administrative and clerical staff providing support to the dietetic team&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for the management of a caseload of individuals, groups and communities to whom they will provide evidence-based dietetic care. They may supervise dietetic assistants/support workers and contribute to training dietetic students in the department. They will typically be managed by a dietitian service manager. Although they will work as part of a wider healthcare team, dietitians often work remotely from the team and are autonomous practitioners, which means that they are accountable for their own actions and decisions. They are responsible for maintaining their own knowledge and skills and must partake in continuing professional development activities to maintain their statutory registration.&lt;/p&gt;",
   "knowledges": [
     {
@@ -242,11 +241,11 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "TBC - Quality Assurance Agency (QAA)",
+    "providerName": "Office for Students",
     "contactName": "",
-    "contactAddress": "",
-    "contactEmail": "",
-    "webLink": ""
+    "contactAddress": "Nicholson House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL <br>BS34 8SR",
+    "contactEmail": "regulation@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
   },
   "approvedForDelivery": "2019-07-03T00:00:00 +00:00",
   "integratedApprenticeship": null,
@@ -260,26 +259,27 @@
   "typicalJobTitles": [
     "Dietitian"
   ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Health",
   "cluster": "Health Professional",
   "createdDate": "2019-12-20T16:09:32 +00:00",
-  "lastUpdated": "2019-12-20T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/dietitian-(integrated-degree)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/dietitian-(integrated-degree)-v1-0",
+  "lastUpdated": "2021-07-15T00:00:00 +00:00",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/dietitian-integrated-degree-v1-0#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/dietitian-integrated-degree-v1-0",
   "qualifications": [
     {
       "qualificationId": "",
       "title": "Apprentices will be required to complete a BSc (Hons) degree in Dietetics or Level 7 qualification approved  by the Health and Care Professions Council (HCPC) and accredited by the  British Dietetic Association where the apprentice already holds a Level 6 degree",
-      "level": "0",
+      "level": "6 (integrated degree)",
       "anyAdditionalInformation": ""
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "British Dietetic Association ",
-      "level": "0",
+      "level": " Full member",
       "isPartial": "",
       "partialFreeText": ""
     }
