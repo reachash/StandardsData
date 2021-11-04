@@ -2,13 +2,13 @@
   "larsCode": 421,
   "referenceNumber": "ST0600",
   "title": "Hearing aid dispenser",
-  "status": "Approved for delivery",
+  "status": "Retired",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/421",
   "versionNumber": "1.0",
   "change": "Approved for delivery.",
-  "changedDate": "2021-05-14T00:00:00",
+  "changedDate": "2021-08-19T00:00:00",
   "earliestStartDate": "2019-03-15T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2021-08-18T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Working independently to test people's hearing, advising on hearing care and where necessary supplying and fitting hearing aids and other communication devices.",
   "level": 5,
@@ -35,7 +35,6 @@
   "ssa2": "1.3 Health and social care",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;A Hearing Aid Dispenser (HAD) is someone who works independently to test people&#39;s hearing, advise on hearing care and where necessary supplies and fits hearing aids and other communication devices. Hearing Aid Dispensers are registered with the Health and Care Professions Council (www.hcpc-uk.org). This role requires strict adherence to professional standards which includes the need to maintain accurate records and identify the need for onward referral for a medical opinion. Hearing aid dispensers can work in a variety of settings including the NHS, private practice, retail, in employed or self-employed positions. The role is typically performed in either a clinical, community or domiciliary setting. In their daily work, an employee in this occupation interacts with the general public through scheduled appointments, other healthcare professionals and colleagues within their organisation. A Hearing aid dispenser will generally act alone and is responsible for seeing adults, including vulnerable members of the community, who have various stages of hearing difficulty or ear health issues, providing a range of services designed to support communication and participation in everyday life.&lt;/p&gt;",
   "knowledges": [
     {
@@ -491,32 +490,33 @@
     "Hearing aid dispenser",
     "Hearing specialist"
   ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Health",
   "cluster": "Health Practitioner",
   "createdDate": "2019-12-17T13:12:53 +00:00",
-  "lastUpdated": "2019-12-17T00:00:00 +00:00",
+  "lastUpdated": "2021-08-18T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/hearing-aid-dispenser-v1-0#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/hearing-aid-dispenser-v1-0",
   "qualifications": [
     {
       "qualificationId": "9e2999f5-6cc5-4dbc-abe5-9846778ed6ba",
       "title": "Foundation Degree in Hearing Aid Audiology, BSc healthcare science (audiology), Certificate or Diploma in Audiology, Award in Hearing Aid Dispensing Competence",
-      "level": "0",
+      "level": "5",
       "anyAdditionalInformation": ""
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "Health and Care Professions Council ",
-      "level": "0",
+      "level": " Level 5 award",
       "isPartial": "",
       "partialFreeText": ""
     },
     {
       "bodyName": "British Society of Hearing Aid Audiologists ",
-      "level": "0",
+      "level": "5 ",
       "isPartial": "",
       "partialFreeText": ""
     }
