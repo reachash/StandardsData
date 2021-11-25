@@ -6,7 +6,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/100",
   "versionNumber": "1.1",
   "change": "Standard, Funding and End-point assessment plan revised.",
-  "changedDate": "2020-08-24T00:00:00",
+  "changedDate": "2021-11-24T00:00:00",
   "earliestStartDate": "2020-08-24T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -31,7 +31,7 @@
     "Assistant technician",
     "Assistant planner"
   ],
-  "entryRequirements": "&lt;p&gt;Individual employers will set the selection criteria for their Apprentices, but many will be seeking candidates with an aptitude for handling data and have a desire to work in transport planning with a passion for helping develop creative solutions.&lt;/p&gt;\r\n&lt;p&gt;Apprentice candidates will typically have at least 5 GCSEs at Grades A*-C / 9-4 including Maths, English and Science or their equivalent.&lt;/p&gt;",
+  "entryRequirements": "&lt;p&gt;Individual employers will set the selection criteria for their Apprentices, but many will be seeking candidates with an aptitude for handling data and have a desire to work in transport planning with a passion for helping develop creative solutions.&lt;/p&gt;\n&lt;p&gt;Apprentice candidates will typically have at least 5 GCSEs at Grades A*-C / 9-4 including Maths, English and Science or their equivalent.&lt;/p&gt;",
   "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/5321/st0336_transport-planning-technician_l3_ap_for-publication-adj-02082021.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
@@ -175,11 +175,11 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "Claire Gill / Steve Walker",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/ofqual"
   },
   "approvedForDelivery": "2016-05-11T00:00:00 +00:00",
   "integratedApprenticeship": false,
