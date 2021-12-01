@@ -6,7 +6,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/327",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-10-21T00:00:00",
+  "changedDate": "2021-11-30T00:00:00",
   "earliestStartDate": "2018-08-07T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -20,7 +20,8 @@
     "Digital",
     "Technology",
     "Technology Solution Specialist",
-    "degree"
+    "degree",
+    "ICT"
   ],
   "jobRoles": [],
   "entryRequirements": "",
@@ -62,7 +63,7 @@
   "integratedApprenticeship": null,
   "integratedDegree": "integrated degree",
   "tbReference": "TB0047",
-  "tbMainContact": "bob.clift@tpdegrees.com ",
+  "tbMainContact": "julia.bateson@techskills.org ",
   "involvedEmployers": "3ManFactory, Accenture, AMS Neve, BBC, Capgemini, CGI, Connect Software, DWP, IBM, J.P.Morgan, Optimity, TCS, Thales",
   "regulated": false,
   "regulatedBody": "",
