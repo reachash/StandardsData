@@ -6,7 +6,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/269",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2018-05-08T00:00:00",
   "earliestStartDate": "2018-05-08T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -24,7 +24,12 @@
     "public",
     "services"
   ],
-  "jobRoles": [],
+  "jobRoles": [
+    "Custody and detention officer",
+    "Prison Officer",
+    "Custodial Officer",
+    "Detention Officer and Escorting Officer"
+  ],
   "entryRequirements": "",
   "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/1549/st0386_custody-and-detention-officer_l3.pdf",
   "ssa1": "1 Health, Public Services and Care",
@@ -57,7 +62,12 @@
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
+  "typicalJobTitles": [
+    "Custody and detention officer",
+    "Prison Officer",
+    "Custodial Officer",
+    "Detention Officer and Escorting Officer"
+  ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "",
