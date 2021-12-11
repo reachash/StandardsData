@@ -6,7 +6,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/285",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2018-06-13T00:00:00",
   "earliestStartDate": "2018-06-13T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -22,7 +22,12 @@
     "customer service",
     "communication"
   ],
-  "jobRoles": [],
+  "jobRoles": [
+    "On-track machine driver",
+    "Freight train driver",
+    "Depot driver",
+    "Passenger train driver"
+  ],
   "entryRequirements": "",
   "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/1901/st0645_train-driver_l3_updated-07-06-18-clean.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
@@ -55,7 +60,12 @@
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
+  "typicalJobTitles": [
+    "On-track machine driver",
+    "Freight train driver",
+    "Depot driver",
+    "Passenger train driver"
+  ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "",
