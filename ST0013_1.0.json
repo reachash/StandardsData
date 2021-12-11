@@ -6,7 +6,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/38",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2015-09-03T00:00:00",
   "earliestStartDate": "2015-09-03T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -23,7 +23,13 @@
     "coding",
     "degree"
   ],
-  "jobRoles": [],
+  "jobRoles": [
+    "Aircraft Software Engineer",
+    "Aircraft Software Development Engineer",
+    "Aerospace Software Development Engineer",
+    "Programmer",
+    " Developer"
+  ],
   "entryRequirements": "",
   "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/1086/aerospace_software_development_engineer.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
@@ -56,7 +62,13 @@
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
+  "typicalJobTitles": [
+    "Aircraft Software Engineer",
+    "Aircraft Software Development Engineer",
+    "Aerospace Software Development Engineer",
+    "Programmer",
+    " Developer"
+  ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "",
