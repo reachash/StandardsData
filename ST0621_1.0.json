@@ -5,8 +5,8 @@
   "status": "Approved for delivery",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/522",
   "versionNumber": "1.0",
-  "change": "",
-  "changedDate": null,
+  "change": "Approved for delivery",
+  "changedDate": "2019-11-04T00:00:00",
   "earliestStartDate": "2019-11-04T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -26,7 +26,12 @@
     "ocean",
     "water"
   ],
-  "jobRoles": [],
+  "jobRoles": [
+    "Waterman",
+    "Captain",
+    "Skipper",
+    "Boatmaster"
+  ],
   "entryRequirements": "",
   "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3639/st0621-boatmaster_l3_ap-for-publication_041119.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
@@ -59,7 +64,12 @@
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
+  "typicalJobTitles": [
+    "Waterman",
+    "Captain",
+    "Skipper",
+    "Boatmaster"
+  ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "",
