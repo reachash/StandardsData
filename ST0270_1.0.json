@@ -16,7 +16,11 @@
   "maxFunding": 11000,
   "route": "Construction",
   "keywords": [],
-  "jobRoles": [],
+  "jobRoles": [
+    "Roof Slater And Tiler",
+    "Waterproof Membranes Installer",
+    "Roof Sheeter And Cladder"
+  ],
   "entryRequirements": "",
   "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/5087/st0270_roofer_l2_adjusted-ap-for-publication_110521.pdf",
   "ssa1": "15 Business, Administration, Finance and Law",
@@ -53,7 +57,11 @@
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
-  "typicalJobTitles": [],
+  "typicalJobTitles": [
+    "Roof Slater And Tiler",
+    "Waterproof Membranes Installer",
+    "Roof Sheeter And Cladder"
+  ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "",
