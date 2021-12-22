@@ -24,7 +24,10 @@
     "lecturing",
     "education"
   ],
-  "jobRoles": [],
+  "jobRoles": [
+    "Assessor",
+    "Coach"
+  ],
   "entryRequirements": "",
   "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/2337/level-4-ap-st0146.pdf",
   "ssa1": "13 Education and Training",
@@ -57,7 +60,10 @@
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
+  "typicalJobTitles": [
+    "Assessor",
+    "Coach"
+  ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "",
