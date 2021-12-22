@@ -27,7 +27,11 @@
     "install",
     "engineer"
   ],
-  "jobRoles": [],
+  "jobRoles": [
+    "Installer",
+    "Service engineer",
+    "Service technician"
+  ],
   "entryRequirements": "",
   "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/1456/electrical-electronic-product-service-and-installation-engineer-assessment-plan.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
@@ -60,7 +64,11 @@
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
+  "typicalJobTitles": [
+    "Installer",
+    "Service engineer",
+    "Service technician"
+  ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "",
