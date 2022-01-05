@@ -30,7 +30,7 @@
     "Boarding Clerk"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/5756/st0544.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.3 Transportation operations and maintenance",
   "version": "0.0",
@@ -284,7 +284,13 @@
   "standardApproved": "",
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "Claire Gill / Steve Walker",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+  },
   "approvedForDelivery": "",
   "integratedApprenticeship": false,
   "integratedDegree": "",
