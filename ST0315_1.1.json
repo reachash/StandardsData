@@ -6,7 +6,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/24",
   "versionNumber": "1.1",
   "change": "Standard, Funding and End-point assessment plan revised. The funding band for this standard has been reviewed and remains at £18000. (2020-04-01)",
-  "changedDate": "2021-01-19T00:00:00",
+  "changedDate": "2022-01-07T00:00:00",
   "earliestStartDate": "2020-08-21T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -26,15 +26,15 @@
     "rail transport"
   ],
   "jobRoles": [
-    "Rail design technician",
-    "Technician",
+    "Assistant designer",
     "Assistant technician",
-    "Junior technician",
     "Design technician",
-    "Assistant designer"
+    "Junior technician",
+    "Rail design technician",
+    "Technician"
   ],
-  "entryRequirements": "&lt;p&gt;Individual employers will set the selection criteria for this Apprenticeship. Apprenticeship candidates will typically have at least 5 GCSEs at Grades A*-C / 9-5 including Maths, English and Science or their equivalent. Ideally, candidates will be strong in their mathematical ability, with many employers seeking GCSE Maths at Grade B/6 or equivalent.&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4432/st0315_railway-engineering-design-technician_l3_ap_for_publication_19082020.pdf",
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/5766/st0315_railway-engineering-design-technician_l3_ap04_-003.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.1",
@@ -175,7 +175,7 @@
     "contactEmail": "EQA@openawards.org.uk",
     "webLink": ""
   },
-  "approvedForDelivery": "2015-03-26T00:00:00 +00:00",
+  "approvedForDelivery": "2020-08-21T00:00:00 +00:00",
   "integratedApprenticeship": false,
   "integratedDegree": "",
   "tbReference": "TB0310",
@@ -185,77 +185,83 @@
   "regulatedBody": "",
   "coreAndOptions": false,
   "typicalJobTitles": [
-    "Rail design technician",
-    "Technician",
+    "Assistant designer",
     "Assistant technician",
-    "Junior technician",
     "Design technician",
-    "Assistant designer"
+    "Junior technician",
+    "Rail design technician",
+    "Technician"
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Technician",
-  "createdDate": "2020-08-21T08:46:22 +00:00",
-  "lastUpdated": "2015-03-26T00:00:00 +00:00",
+  "createdDate": "2022-01-07T13:33:42 +00:00",
+  "lastUpdated": "2020-08-21T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/railway-engineering-design-technician-v1-1#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/railway-engineering-design-technician-v1-1",
   "qualifications": [
     {
-      "qualificationId": "",
+      "qualificationId": "65a0b582-fdf2-43bb-ae12-e186259e14ee",
       "title": "Pearson Level 3 BTEC National Diploma in Engineering",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "601/7580/1"
     },
     {
-      "qualificationId": "",
+      "qualificationId": "8f57aa23-e25f-4163-a68b-251dc9f0810a",
       "title": "Pearson Edexcel Level 3 Diploma in Civil Engineering for Technicians (Institution of Civil Engineers)",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "501/1115/2"
     },
     {
-      "qualificationId": "",
-      "title": "Pearson BTEC Level 3 Diploma in Civil Engineering",
+      "qualificationId": "25fbd6c4-c57e-4973-bc28-aefe77bb69cc",
+      "title": "Pearson BTEC Level 3 National Diploma in Civil Engineering",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "603/1217/8"
     },
     {
-      "qualificationId": "",
-      "title": "Pearson BTEC Level 3 Diploma in Construction and the Built Environment",
+      "qualificationId": "71b40254-d90c-4dff-96b7-9e3866556ad8",
+      "title": "Pearson BTEC Level 3 National Diploma in Construction and the Built Environment",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "603/0864/3"
     },
     {
-      "qualificationId": "",
+      "qualificationId": "1100cfe1-532c-4b2f-b242-e9c8a125fb53",
       "title": "Pearson BTEC Level 3 Diploma in Advanced Manufacturing Engineering (Development Technical Knowledge)",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "601/9054/1"
     },
     {
-      "qualificationId": "",
+      "qualificationId": "6fb9ad7c-50ad-4b50-bdf8-bf22e9aa6382",
       "title": "Pearson BTEC Level 3 Diploma in Rail Engineering Technician",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "603/2537/9"
+    },
+    {
+      "qualificationId": "91a2b69a-dbeb-4b9b-8091-e08df4744b7e",
+      "title": "Pearson BTEC Level 3 Diploma in Construction and the Built Environment ",
+      "level": "3",
+      "anyAdditionalInformation": "500/7137/3"
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "Institution of Civil Engineers (ICE) ",
       "level": "EngTech",
-      "isPartial": "",
+      "isPartial": "full",
       "partialFreeText": ""
     },
     {
       "bodyName": "The Institution of Engineering and Technology (IET",
       "level": "EngTech",
-      "isPartial": "",
+      "isPartial": "full",
       "partialFreeText": ""
     },
     {
       "bodyName": "Permanent Way Institution (PWI) ",
       "level": "EngTech",
-      "isPartial": "",
+      "isPartial": "full",
       "partialFreeText": ""
     }
   ],
@@ -263,7 +269,7 @@
     {
       "dutyID": "b94f6041-4dbc-47d7-a1d4-b833bbf0fd95",
       "dutyDetail": "Assist in the development of technical railway engineering solutions by carrying out calculations and analysing the outputs.",
-      "isThisACoreDuty": 1,
+      "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "e352f853-9747-4cd5-8282-dc49f60f2324",
         "7aa8745e-cbb1-46a5-b4f3-c78b6b8a5756"
@@ -284,7 +290,7 @@
     {
       "dutyID": "2f993b59-0f2b-4bec-ac36-34be66e6cae6",
       "dutyDetail": "Ensure safe systems of work are applied, hazards and risks are identified and mitigated in their own work.",
-      "isThisACoreDuty": 1,
+      "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "bb7d9eeb-ddc6-4228-b4b6-0e42e30c0ac9",
         "04358830-b5bd-412d-b0cb-0ad44d4c4d9e"
@@ -307,7 +313,7 @@
     {
       "dutyID": "e8fa29b8-700d-4a62-a488-e21d85187933",
       "dutyDetail": "Ensure compliance with industry standards and regulations, including those in relation to sustainability.",
-      "isThisACoreDuty": 1,
+      "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "bb7d9eeb-ddc6-4228-b4b6-0e42e30c0ac9",
         "6c595211-9845-4e56-a220-27396a576f3f",
@@ -333,7 +339,7 @@
     {
       "dutyID": "325b3d4e-19d4-4122-ac89-fc1aa11f63b9",
       "dutyDetail": "Communicate effectively with a range of audiences, such as internal and external stakeholders, and through the preparation of written reports and presentations.",
-      "isThisACoreDuty": 1,
+      "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "04358830-b5bd-412d-b0cb-0ad44d4c4d9e",
         "6c595211-9845-4e56-a220-27396a576f3f",
@@ -362,7 +368,7 @@
     {
       "dutyID": "9ad78fec-7a22-4c52-8ef7-872d6daeee41",
       "dutyDetail": "Undertake railway engineering design in a way that contributes to, or improves, the environment, safety, security and inclusion.",
-      "isThisACoreDuty": 1,
+      "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "bb7d9eeb-ddc6-4228-b4b6-0e42e30c0ac9",
         "e352f853-9747-4cd5-8282-dc49f60f2324",
@@ -389,7 +395,7 @@
     {
       "dutyID": "0b266298-d506-4647-aa6e-59cea4ab7015",
       "dutyDetail": "Contribute to railway engineering design solutions for clients or customers, by preparing and producing engineering drawings or models to engineering specifications, industry codes and regulations, standards and procedures.",
-      "isThisACoreDuty": 1,
+      "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "bb7d9eeb-ddc6-4228-b4b6-0e42e30c0ac9",
         "e352f853-9747-4cd5-8282-dc49f60f2324",
@@ -415,7 +421,7 @@
     {
       "dutyID": "ff3301a8-75bc-40cc-9485-b093d8ac75f2",
       "dutyDetail": "Collect, interpret, analyse inter-related and often dynamic technical information and data, to support the production of safe and secure railway engineering designs using digital technologies, such as Computer Aided Design (CAD) and Building Information Modelling (BIM).",
-      "isThisACoreDuty": 1,
+      "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "e352f853-9747-4cd5-8282-dc49f60f2324",
         "7aa8745e-cbb1-46a5-b4f3-c78b6b8a5756",
@@ -437,7 +443,7 @@
     {
       "dutyID": "a4ce1070-7040-4ebc-ae0b-bdd4fc6ef22f",
       "dutyDetail": "Using the quality management and assurance systems available, proactively plan, manage and contribute the delivery of larger programmes of work.",
-      "isThisACoreDuty": 1,
+      "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "e352f853-9747-4cd5-8282-dc49f60f2324",
         "7aa8745e-cbb1-46a5-b4f3-c78b6b8a5756",
@@ -457,7 +463,7 @@
     {
       "dutyID": "22395d4e-c776-4db0-94f0-e9d8fb2fbf82",
       "dutyDetail": "Undertake railway engineering design with consideration for, and application of, ethical principles.",
-      "isThisACoreDuty": 1,
+      "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "49809c2b-36f3-4767-9dcd-521ba9e2e13a"
       ],
@@ -473,7 +479,7 @@
     {
       "dutyID": "51ccc22c-a860-4e1d-9dd1-a60714c3a088",
       "dutyDetail": "Maintain their own learning and skills development by carrying out continuing professional development in line with professional codes of conduct and/or industry specifications and obligations.",
-      "isThisACoreDuty": 1,
+      "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "52b04160-2765-42b6-b2b5-d1d417917b51"
       ],
