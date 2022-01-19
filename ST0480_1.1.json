@@ -5,7 +5,7 @@
   "status": "Approved for delivery",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/236",
   "versionNumber": "1.1",
-  "change": "Standard, Funding and End-point assessment plan revised.",
+  "change": "End-point assessment plan and standard revised.",
   "changedDate": "2021-03-29T00:00:00",
   "earliestStartDate": "2021-03-29T00:00:00",
   "latestStartDate": null,
@@ -16,24 +16,25 @@
   "maxFunding": 14000,
   "route": "Business and administration",
   "keywords": [
-    "senior management",
-    "business administration",
+    "senior",
+    "business",
     "leadership",
-    "responsibility",
-    "business management"
+    "business management",
+    "senior leader",
+    "leader"
   ],
   "jobRoles": [
-    "Divisional Head",
-    "Business Unit Head",
-    "Associate Director",
-    "Executive Director",
-    "Chief Operating Officer",
-    "Chief Financial Officer",
-    "Chief Executive Officer",
-    "Chief Information Officer",
-    "Warrant Officer",
-    "HE Registrar",
-    "Head of Department/Faculty"
+    "Associate director",
+    "Business unit head",
+    "Chief executive officer",
+    "Chief financial officer",
+    "Chief information officer",
+    "Chief operating officer",
+    "Divisional head",
+    "Executive director",
+    "He registrar",
+    "Head of department/faculty",
+    "Warrant officer"
   ],
   "entryRequirements": "",
   "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/5018/st0480_senior-leader_l7_epa-plan-for-publication_29032021.pdf",
@@ -41,7 +42,7 @@
   "ssa2": "15.3 Business management",
   "version": "1.1",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in small, medium and large organisations in the public, private or third sectors and in all areas of the economy including health, finance, engineering, manufacturing, business and professional services, education, retail, leisure, technology and construction. Senior Leaders are a key component of all types of business model where there is a workforce to lead, manage and support. The broad purpose of the occupation is to provide clear, inclusive and strategic leadership and direction relating to their area of responsibility within an organisation. Typically, this involves setting, managing and monitoring achievement of core objectives that are aligned to the overall strategic objectives of their organisation’s Board (or equivalent). In a smaller organisation they are also likely to contribute to the execution and achievement of these strategic objectives. A Senior Leader influences at a higher organisational level, including sometimes at Board (or equivalent) level, and sets the culture and tone across their area of responsibility. They may work in varied environments including in an office, onsite, or remotely and demonstrate a high level of flexibility and adaptability to meet the needs of the organisation. In their daily work, an employee in this occupation interacts with internal stakeholders such as members of their team, other senior leaders/managers, support services (for example: finance, marketing, HR) and project groups and, in larger organisations, they may be part of a wider specialist team. Depending on the size of their organisation, a Senior Leader may be responsible for reporting results relating to their area of responsibility to a Board, trustees, shareholders, executive team or to other senior management within the organisation. Externally, a Senior Leader acts as an ambassador for their organisation with wide-ranging networks typically involving customers/clients, supply chains and statutory/regulatory bodies. An employee in this occupation will be responsible for&#160;&lt;/p&gt;\r\n&lt;p&gt;• Setting direction, vision, governance and providing a clear sense of purpose for their area of responsibility.&lt;br /&gt;• Providing clear and inclusive leadership.&lt;br /&gt;• Identifying longer-term opportunities and risks using data from internal intelligence sources and external influences. &lt;br /&gt;• Developing ethical, innovative and supportive cultures that get the best from people and enable the delivery of results.&lt;br /&gt;• Resources that may include budgets, people, assets and facilities.&lt;br /&gt;• Staying up to date with innovation and championing its adoption.&lt;br /&gt;• Keeping pace with - and responding to change - by leading agile transformation.&lt;br /&gt;• Leading and promoting sustainable business practices.&lt;br /&gt;• Responding and managing crisis situations.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in small, medium and large organisations in the public, private or third sectors and in all areas of the economy including health, finance, engineering, manufacturing, business and professional services, education, retail, leisure, technology and construction. Senior Leaders are a key component of all types of business model where there is a workforce to lead, manage and support. The broad purpose of the occupation is to provide clear, inclusive and strategic leadership and direction relating to their area of responsibility within an organisation. Typically, this involves setting, managing and monitoring achievement of core objectives that are aligned to the overall strategic objectives of their organisation’s Board (or equivalent). In a smaller organisation they are also likely to contribute to the execution and achievement of these strategic objectives. A Senior Leader influences at a higher organisational level, including sometimes at Board (or equivalent) level, and sets the culture and tone across their area of responsibility. They may work in varied environments including in an office, onsite, or remotely and demonstrate a high level of flexibility and adaptability to meet the needs of the organisation. In their daily work, an employee in this occupation interacts with internal stakeholders such as members of their team, other senior leaders/managers, support services (for example: finance, marketing, HR) and project groups and, in larger organisations, they may be part of a wider specialist team. Depending on the size of their organisation, a Senior Leader may be responsible for reporting results relating to their area of responsibility to a Board, trustees, shareholders, executive team or to other senior management within the organisation. Externally, a Senior Leader acts as an ambassador for their organisation with wide-ranging networks typically involving customers/clients, supply chains and statutory/regulatory bodies. An employee in this occupation will be responsible for • Setting direction, vision, governance and providing a clear sense of purpose for their area of responsibility.&lt;br /&gt;• Providing clear and inclusive leadership.&lt;br /&gt;• Identifying longer-term opportunities and risks using data from internal intelligence sources and external influences. &lt;br /&gt;• Developing ethical, innovative and supportive cultures that get the best from people and enable the delivery of results.&lt;br /&gt;• Resources that may include budgets, people, assets and facilities.&lt;br /&gt;• Staying up to date with innovation and championing its adoption.&lt;br /&gt;• Keeping pace with - and responding to change - by leading agile transformation.&lt;br /&gt;• Leading and promoting sustainable business practices.&lt;br /&gt;• Responding and managing crisis situations.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "c62114a4-70f0-422e-9e11-e9739083efa4",
@@ -247,7 +248,7 @@
   },
   "approvedForDelivery": "2018-02-27T00:00:00 +00:00",
   "integratedApprenticeship": null,
-  "integratedDegree": "non-degree qualification",
+  "integratedDegree": "",
   "tbReference": "TB0233",
   "tbMainContact": "alison.cox@managers.org.uk, anne.thomas@serco.com ",
   "involvedEmployers": "Serco (employer chair), Civil Service (employer chair), Acivico (Birmingham City Council), Anglo Educational, Barclays, BT, Balfour Beatty, Barchester Healthcare, Boots UK Ltd, British Army, BBC, CMI, Co-op, DFS, Grant Thornton, Interserve, JRV Associates, KPMG, Morgan Sindell, NHS (Dept of Health), Nestle, Opus Building Services, Pearson, Pendragon plc, Ricoh, Sainsburys, Santander UK plc, Speedy Services, umi Digital, Unipart, United Utilities plc, Virgin Media, Wincanton, XPO Logistics.",
@@ -255,29 +256,42 @@
   "regulatedBody": "",
   "coreAndOptions": false,
   "typicalJobTitles": [
-    "Divisional Head",
-    "Business Unit Head",
-    "Associate Director",
-    "Executive Director",
-    "Chief Operating Officer",
-    "Chief Financial Officer",
-    "Chief Executive Officer",
-    "Chief Information Officer",
-    "Warrant Officer",
-    "HE Registrar",
-    "Head of Department/Faculty"
+    "Associate director",
+    "Business unit head",
+    "Chief executive officer",
+    "Chief financial officer",
+    "Chief information officer",
+    "Chief operating officer",
+    "Divisional head",
+    "Executive director",
+    "He registrar",
+    "Head of department/faculty",
+    "Warrant officer"
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Management and Administration",
   "cluster": "Management Professional",
-  "createdDate": "2021-03-29T12:37:18 +00:00",
+  "createdDate": "2022-01-18T16:06:37 +00:00",
   "lastUpdated": "2018-02-27T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/senior-leader-v1-1#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/senior-leader-v1-1",
   "qualifications": [],
-  "professionalRecognition": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "Chartered Management Institute",
+      "level": "Chartered Manager or Chartered Fellow individual member grade",
+      "isPartial": "",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "The Institute of Leadership and Management",
+      "level": "Fellow member grade",
+      "isPartial": "",
+      "partialFreeText": ""
+    }
+  ],
   "duties": [
     {
       "dutyID": "5ddd99de-c659-400b-819b-b82a2786907f",
