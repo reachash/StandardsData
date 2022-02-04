@@ -6,7 +6,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/617",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-03-03T00:00:00",
+  "changedDate": "2022-02-03T00:00:00",
   "earliestStartDate": "2021-02-24T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -22,7 +22,11 @@
     "holistic",
     "therapy"
   ],
-  "jobRoles": [],
+  "jobRoles": [
+    "Holistic therapist",
+    "Spa therapist",
+    "Wellbeing therapist"
+  ],
   "entryRequirements": "",
   "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4922/st0685_wellbeing_holistic_therapist_l3_ap-for-publication_220221.pdf",
   "ssa1": "1 Health, Public Services and Care",
@@ -378,7 +382,11 @@
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
+  "typicalJobTitles": [
+    "Holistic therapist",
+    "Spa therapist",
+    "Wellbeing therapist"
+  ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
