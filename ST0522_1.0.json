@@ -6,7 +6,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-02-11T00:00:00",
+  "changedDate": "2022-02-15T00:00:00",
   "earliestStartDate": "2022-02-11T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -366,12 +366,6 @@
       "title": "JNC endorsed professional Level degree in Youth Work",
       "level": "6 (integrated degree)",
       "anyAdditionalInformation": "https://www.nya.org.uk/youth-work/jnc/"
-    },
-    {
-      "qualificationId": "2d8b4cbf-1afa-4556-b381-e72193cde7ee",
-      "title": ".",
-      "level": "2",
-      "anyAdditionalInformation": ""
     }
   ],
   "professionalRecognition": [],
