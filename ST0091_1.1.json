@@ -5,15 +5,15 @@
   "status": "Approved for delivery",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/199",
   "versionNumber": "1.1",
-  "change": "Standard, funding and end-point assessment plan revised.",
-  "changedDate": "2021-11-02T00:00:00",
+  "change": "Standard and end-point assessment plan revised.",
+  "changedDate": "2022-02-25T00:00:00",
   "earliestStartDate": "2021-07-14T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing technical support to engineers and other construction professionals.",
   "level": 3,
   "typicalDuration": 36,
-  "maxFunding": 14000,
+  "maxFunding": 12000,
   "route": "Construction",
   "keywords": [
     "civil",
@@ -38,7 +38,7 @@
     "Structural Technician"
   ],
   "entryRequirements": "&lt;p&gt;Individual employers will set the selection criteria for their Apprenticeships.&#160; Apprenticeship candidates will typically have at least 5 GCSEs at Grades A*-C / 9-4 including Maths (Grade B / 5 or 6), English and Science or their equivalent.&#160;&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/5221/st0091_epa_civil-eng-tech_l3_ap-for-publication_04-06-2021.pdf",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/5929/st0091_epa_civil-eng-tech_l3_ap-for-publication_04-06-2021-002.pdf",
   "ssa1": "5 Construction, Planning and the Built Environment",
   "ssa2": "5.2 Building and construction",
   "version": "1.1",
@@ -188,7 +188,7 @@
   "integratedDegree": "",
   "tbReference": "TB0058",
   "tbMainContact": "CSudworth@acenet.co.uk",
-  "involvedEmployers": "Arup, Balfour Beatty, Transport for London, Mott MacDonald, Adept, Systra, Stantec, WSP, Capita, BDP, Cormac Ltd, Wiltshire Council, EDF, Curtins, Clancy, Aecom, BDP, East Riding of Yorkshire Council",
+  "involvedEmployers": "Adept Consulting Engineers, AECOM, Arup, Atkins, BWB Consulting, CH2M, Kier Highways, Mott MacDonald, Mouchel, MWH Global, Odyssey Markides, Peter Brett Associates, Tideway, Tony Gee and Partners, Waterman Group",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -208,9 +208,9 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": null,
-  "cluster": null,
-  "createdDate": "2021-07-14T08:30:17 +00:00",
+  "pathway": "Design, Surveying & Planning",
+  "cluster": "Design & Surveying Advanced Technician",
+  "createdDate": "2022-02-25T14:07:25 +00:00",
   "lastUpdated": "2017-10-04T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/civil-engineering-technician-v1-1#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/civil-engineering-technician-v1-1",
@@ -224,13 +224,13 @@
   ],
   "professionalRecognition": [
     {
-      "bodyName": "Institute of Civil Engineers (ICE)",
+      "bodyName": "Institution of Civil Engineers (ICE)",
       "level": "Engineering Technician",
       "isPartial": "full",
       "partialFreeText": ""
     },
     {
-      "bodyName": "Chartered Institute of Highways & Transportation (CIHT)",
+      "bodyName": "Chartered Institution of Highways & Transportation (CIHT)",
       "level": "Engineering Technician ",
       "isPartial": "full",
       "partialFreeText": ""
@@ -243,6 +243,12 @@
     },
     {
       "bodyName": "Institution of Structural Engineers (IStructE)",
+      "level": "Engineering Technician",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Permanent Way Institution (PWI)",
       "level": "Engineering Technician",
       "isPartial": "full",
       "partialFreeText": ""
