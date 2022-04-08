@@ -6,7 +6,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/453",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2022-04-07T00:00:00",
   "earliestStartDate": "2019-05-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -248,11 +248,11 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "Claire Gill / Steve Walker",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/ofqual"
   },
   "approvedForDelivery": "2019-05-10T00:00:00 +00:00",
   "integratedApprenticeship": null,
@@ -289,7 +289,7 @@
       "qualificationId": "11d1d46f-0319-4376-bc45-9872ea2c36e5",
       "title": "A level 6 or higher career-related qualification (minimum of 60 credits) approved by the Career Development Institute as giving eligibility to the Register of Career Development Professionals. https://www.thecdi.net/write/Documents/CDI_UK_Register_Brochure-Feb_2018.pdf",
       "level": "6 (non-degree qualification)",
-      "anyAdditionalInformation": null
+      "anyAdditionalInformation": ""
     }
   ],
   "professionalRecognition": [],
