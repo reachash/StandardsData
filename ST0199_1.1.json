@@ -6,7 +6,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/130",
   "versionNumber": "1.1",
   "change": "Standard, end-point assessment plan and funding revised.",
-  "changedDate": "2021-09-14T00:00:00",
+  "changedDate": "2022-04-08T00:00:00",
   "earliestStartDate": "2021-09-14T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -31,7 +31,7 @@
   "ssa2": "7.4 Hospitality and catering",
   "version": "1.1",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in the food and drink manufacturing sector.&lt;/p&gt;\r\n&lt;p&gt;Companies range in size, from small to large. They may produce one type of food and drink product or a range of products. Products may include biscuits, cakes, confectionery, fresh fruit, ready-to-eat and ready-to cook food, sandwiches, salads, soft drinks, and wraps.&lt;/p&gt;\r\n&lt;p&gt;Process operators typically work on production lines within food and drink manufacturing businesses.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to complete food and drink processing procedures to contribute to the manufacture of safe and compliant food products. They support technical operators to complete start up, set up, line changeovers, and shut down of food and drink production lines and machinery. They monitor product quality and throughput against key performance indicators. With a team focus, they prepare for the on-coming shift and provide handovers. Contributing to continuous improvement, stock control and audits is also part of the role.&#160;&lt;/p&gt;\r\n&lt;p&gt;In their daily work they interact with other process operatives, technical operators and maintenance teams – depending on company size and structure. They typically report to an operational manager. They work under direct supervision.&#160;&lt;br /&gt;&lt;br /&gt;They are responsible for following Standard Operating Procedures (SOPs). This is to ensure food safety, health and safety, environment and sustainability, quality, and customer requirements are met whilst working as part of a team to meet deadlines, productivity and efficiency targets.&#160;&#160;&lt;/p&gt;\r\n&lt;p&gt;They are likely to be required to work shifts, including unsociable hours.&lt;/p&gt;\r\n&lt;p&gt;&#160;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the food and drink manufacturing sector.&lt;/p&gt;\n&lt;p&gt;Companies range in size, from small to large. They may produce one type of food and drink product or a range of products. Products may include biscuits, cakes, confectionery, fresh fruit, ready-to-eat and ready-to cook food, sandwiches, salads, soft drinks, and wraps.&lt;/p&gt;\n&lt;p&gt;Process operators typically work on production lines within food and drink manufacturing businesses.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to complete food and drink processing procedures to contribute to the manufacture of safe and compliant food products. They support technical operators to complete start up, set up, line changeovers, and shut down of food and drink production lines and machinery. They monitor product quality and throughput against key performance indicators. With a team focus, they prepare for the on-coming shift and provide handovers. Contributing to continuous improvement, stock control and audits is also part of the role.&#160;&lt;/p&gt;\n&lt;p&gt;In their daily work they interact with other process operatives, technical operators and maintenance teams – depending on company size and structure. They typically report to an operational manager. They work under direct supervision.&#160;&lt;br /&gt;&lt;br /&gt;They are responsible for following Standard Operating Procedures (SOPs). This is to ensure food safety, health and safety, environment and sustainability, quality, and customer requirements are met whilst working as part of a team to meet deadlines, productivity and efficiency targets.&#160;&#160;&lt;/p&gt;\n&lt;p&gt;They are likely to be required to work shifts, including unsociable hours.&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "d351882a-3155-4a61-bf6c-ba17f030a5c4",
@@ -209,11 +209,11 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "Claire Gill / Steve Walker",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/ofqual"
   },
   "approvedForDelivery": "2016-08-25T00:00:00 +00:00",
   "integratedApprenticeship": false,
