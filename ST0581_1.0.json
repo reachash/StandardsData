@@ -6,7 +6,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/519",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2022-04-14T00:00:00",
   "earliestStartDate": "2019-11-07T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -191,11 +191,11 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "UK Fashion & Textile Association (UKFT)",
-    "contactName": "John West",
-    "contactAddress": "3 Queen Square<br>LONDON<br>WC1N 3AR",
-    "contactEmail": "john.west@ukft.org",
-    "webLink": "https://www.ukft.org/"
+    "providerName": "Ofqual",
+    "contactName": "Claire Gill / Steve Walker",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/ofqual"
   },
   "approvedForDelivery": "2019-11-07T00:00:00 +00:00",
   "integratedApprenticeship": false,
