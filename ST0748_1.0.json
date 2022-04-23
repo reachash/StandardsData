@@ -6,7 +6,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/564",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-02-17T00:00:00",
+  "changedDate": "2022-04-22T00:00:00",
   "earliestStartDate": "2020-05-21T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -25,20 +25,14 @@
     "waste",
     "agriculture"
   ],
-  "jobRoles": [
-    "Sustainbility Specialist",
-    "Sustainbility Manager",
-    "Head of Sustainability and Environment",
-    "Head of Responsible Sourcing",
-    "Head of Energy and Sustainability"
-  ],
+  "jobRoles": [],
   "entryRequirements": "",
   "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/5912/st0748_sustainability_bus_specialist_l7_for-publishing.pdf",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.3 Business management",
   "version": "1.0",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;&lt;span&gt;The broad purpose of the occupation is to help organisations, businesses, charities, the public sector and social enterprises to find new and innovative approaches to working and build resilience based on economically sound, socially friendly and environmentally driven principles. &lt;/span&gt;&lt;span&gt;They will be responsible for developing and collaborating in the development of organisational sustainability strategies. They will implement and monitor sustainability strategies&lt;/span&gt;&lt;span&gt;, influencing behaviour of stakeholders, such as customers, suppliers, colleagues and consumers. The role is highly challenging and multifaceted and will reach across all areas of the organisation.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;span&gt;In their daily work, an employee in this occupation interacts with numerous colleagues including a specialist subject manager or a senior manager within the organisation at executive or non-executive director level or within smaller organisations they may be at director or board level.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;span&gt;An employee in this occupation may lead a team or work in a matrix management structure to drive change.&#160; They would be required to liaise with external stakeholders on a variety of sustainable issues, for example Non-Government Organisations (NGOs), industry and regulatory bodies. An employee in this occupation will &lt;/span&gt;&lt;span&gt;have joint or shared responsibility for implementing a sustainability culture &lt;/span&gt;&lt;span&gt;throughout the organisation. This will mean they will need to work across functions throughout the organisation and will have a high level of autonomy to do so. In some organisations, they may lead a small team of dedicated experts, however in other organisations, they will work within a management structure with no line management responsibilities. The level of supervision they receive will be down to the size of the company and the individual structures of those companies.&lt;/span&gt;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;&lt;span&gt;The broad purpose of the occupation is to help organisations, businesses, charities, the public sector and social enterprises to find new and innovative approaches to working and build resilience based on economically sound, socially friendly and environmentally driven principles. &lt;/span&gt;&lt;span&gt;They will be responsible for developing and collaborating in the development of organisational sustainability strategies. They will implement and monitor sustainability strategies&lt;/span&gt;&lt;span&gt;, influencing behaviour of stakeholders, such as customers, suppliers, colleagues and consumers. The role is highly challenging and multifaceted and will reach across all areas of the organisation.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;In their daily work, an employee in this occupation interacts with numerous colleagues including a specialist subject manager or a senior manager within the organisation at executive or non-executive director level or within smaller organisations they may be at director or board level.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;An employee in this occupation may lead a team or work in a matrix management structure to drive change.&#160; They would be required to liaise with external stakeholders on a variety of sustainable issues, for example Non-Government Organisations (NGOs), industry and regulatory bodies. An employee in this occupation will &lt;/span&gt;&lt;span&gt;have joint or shared responsibility for implementing a sustainability culture &lt;/span&gt;&lt;span&gt;throughout the organisation. This will mean they will need to work across functions throughout the organisation and will have a high level of autonomy to do so. In some organisations, they may lead a small team of dedicated experts, however in other organisations, they will work within a management structure with no line management responsibilities. The level of supervision they receive will be down to the size of the company and the individual structures of those companies.&lt;/span&gt;&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "a82f7fcd-b886-4dcc-99d2-0d9d1b58b8c6",
@@ -230,25 +224,25 @@
   "integratedApprenticeship": null,
   "integratedDegree": "integrated degree",
   "tbReference": "TB0340",
-  "tbMainContact": "m.hardy@nsafd.co.uk",
+  "tbMainContact": "",
   "involvedEmployers": "Two Sisters Food Group, Bakkavor, Branston Ltd, Offundo Ltd, Produce World Group Ltd, Moy Park, Sainsburys Supermarkets Ltd, Croda International PLC, Premier Foods Group, Wrangle Growers, Atkins",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [
-    "Sustainbility Specialist",
-    "Sustainbility Manager",
-    "Head of Sustainability and Environment",
-    "Head of Responsible Sourcing",
-    "Head of Energy and Sustainability"
+  "typicalJobTitles": [],
+  "greenJobTitles": [
+    "Head of energy and sustainability",
+    "Head of responsible sourcing",
+    "Head of sustainability and environment",
+    "Sustainbility specialist",
+    "Sustainbility manager"
   ],
-  "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Conservation and Countryside Professional",
   "createdDate": "2021-10-21T12:58:24 +00:00",
-  "lastUpdated": "2022-02-17T00:00:00 +00:00",
+  "lastUpdated": "2022-04-22T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/sustainability-business-specialist-integrated-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/sustainability-business-specialist-integrated-degree-v1-0",
   "qualifications": [
