@@ -6,7 +6,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/636",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-03-07T00:00:00",
+  "changedDate": "2022-04-22T00:00:00",
   "earliestStartDate": "2021-06-29T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -16,13 +16,12 @@
   "maxFunding": 5000,
   "route": "Agriculture, environmental and animal care",
   "keywords": [
-    "Farm",
-    "Agriculture",
+    "agriculture",
     "livestock",
-    "land",
+    "farm",
     "environment",
-    "animals",
-    "technician"
+    "land management",
+    "animals"
   ],
   "jobRoles": [
     "Herd Manager",
@@ -32,12 +31,12 @@
     "Head Stockperson"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/5949/st0938_livestock_unit_technician_l3_epa-for-adjustment_280222pdf.pdf",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/6052/st0938_livestock_unit_technician_l3_epa-for-adjustment_130422pdf.pdf",
   "ssa1": "3 Agriculture, Horticulture and Animal Care",
   "ssa2": "3.1 Agriculture",
   "version": "1.0",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in medium sized agricultural businesses, in primary production.&#160;&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is to operationally manage the livestock related tasks on the farm such as animal health and welfare from conception and birth through to the customer; and to support business productivity. The individual will make key decisions on a day-to-day basis to ensure the protection of their own and health and safety of others. This includes ensuring the standards of cross compliance, farm assurance, biosecurity and infrastructure security are met. The Livestock Unit Technician will usually only work with one species. The role will include the safe use and maintenance of farm vehicles, including the equipment used for transporting or producing feed. The individual will be required to understand, record and meet the business Key Performance Indicators that are set out by the employer.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts internally with team members including line manager, business owner (principal) /manager and other departments (if applicable) on the farm. They may have the opportunity to manage people internally and manage external relationships. The individual will work alongside allied industry, to make formative decisions to assist the productivity of the livestock including breeding, nutrition and health plan. In addition to this, they will provide factual data to third parties involved in the farm such as assurance auditors and vets.&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for making decisions about daily management of livestock such as changes in diet based on nutritional values in feed. They will manage livestock before, during and after parturition, providing accommodation that meets the animal’s requirements for optimal health and performance. They also select and prepare livestock for sale or transfer. The individual will be responsible for completing daily records and reporting to senior management, assisting with overall strategic decisions to help drive productivity, livestock welfare and farm health and safety in line with industry standards. Depending on the business structure, they may supervise junior members of staff. Typical working hours will depend on farm type and labour structure (for example, dairy farms require early start due to milking). A Livestock Unit Technician will be expected to do long hours, only as permitted within UK employment law. &#160;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in&#160;medium sized agricultural businesses, in primary production.&#160;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to operationally manage the livestock related tasks on the farm such as animal health and welfare from conception and birth through to the customer; and to support business productivity. The individual will make key decisions on a day-to-day basis to ensure the protection of their own and health and safety of others. This includes ensuring the standards of cross compliance, farm assurance, biosecurity and infrastructure security are met. The Livestock Unit Technician will usually only work with one species. The role will include the safe use and maintenance of farm vehicles, including the equipment used for transporting or producing feed. The individual will be required to understand, record and meet the business Key Performance Indicators that are set out by the employer.&lt;/p&gt;\n&lt;p&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts internally with team members including line manager, business owner (principal) /manager and other departments (if applicable) on the farm. They may have the opportunity to manage people internally and manage external relationships. The individual will work alongside allied industry, to make formative decisions to assist the productivity of the livestock including breeding, nutrition and health plan. In addition to this, they will provide factual data to third parties involved in the farm such as assurance auditors and vets.&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for making decisions about daily management of livestock such as changes in diet based on nutritional values in feed. They will manage livestock before, during and after parturition, providing accommodation that meets the animal’s requirements for optimal health and performance. They also select and prepare livestock for sale or transfer. The individual will be responsible for completing daily records and reporting to senior management, assisting with overall strategic decisions to help drive productivity, livestock welfare and farm health and safety in line with industry standards. Depending on the business structure, they may supervise junior members of staff. Typical working hours will depend on farm type and labour structure (for example, dairy farms require early start due to milking). A Livestock Unit Technician will be expected to do long hours, only as permitted within UK employment law. &#160;&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "eda07f06-e817-4d30-aada-1730d0c038cd",
@@ -225,7 +224,7 @@
   "integratedApprenticeship": false,
   "integratedDegree": "",
   "tbReference": "TB0083",
-  "tbMainContact": "Livestock Unit Technician ",
+  "tbMainContact": "amie.burke@ahdb.org.uk",
   "involvedEmployers": "Menadews Farm\r\nG and A Speed\r\nHawthorns Farm\r\nYeatman and Sons Ltd\r\nTrenithon Farm\r\nUpper Booth Farm\r\nFishguard Farm\r\nRed Tractor Assurance\r\nTrevear Farm\r\nCharollais Sheep Society\r\nLKL Farming\r\nTracey Langton\r\nGs Fresh\r\nClay Estates\r\nCounty Adviser for Leicestershire, Northants & Rutland\r\nJSR\r\nHome Farm\r\nGroup Head of Learning & Development, Karro\r\nBrydock Farms (Karro)\r\nBrydock Farms (Karro)\r\nNational Farmers Union",
   "regulated": false,
   "regulatedBody": "",
@@ -242,14 +241,14 @@
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Agricultural Operative/Technician",
-  "createdDate": "2021-05-24T14:44:56 +00:00",
-  "lastUpdated": "2022-03-07T00:00:00 +00:00",
+  "createdDate": "2022-04-22T14:06:17 +00:00",
+  "lastUpdated": "2022-04-22T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/livestock-unit-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/livestock-unit-technician-v1-0",
   "qualifications": [
     {
       "qualificationId": "f655021a-2677-47f9-8c9b-ba80b14d5e82",
-      "title": "City & Guilds Level 2 Award in the Safe Application of Pesticides using Pedestrian Hand Held Equipment or Lantra Awards Level 2 Award in the Safe Use of Pesticides",
+      "title": "City & Guilds Principles of Safe Handling and Application of Pesticides Guidance or Lantra Safe use of Pesticides",
       "level": "2",
       "anyAdditionalInformation": ""
     },
@@ -261,12 +260,6 @@
     },
     {
       "qualificationId": "9f741b4f-6a14-4dba-894c-da10c29a84a4",
-      "title": "x",
-      "level": "2",
-      "anyAdditionalInformation": ""
-    },
-    {
-      "qualificationId": "40059044-94ba-4b64-8c31-8b288a53932c",
       "title": "Award in Emergency First Aid at Work, which is a minimum of 1-day course (Ofqual regulated)",
       "level": "3",
       "anyAdditionalInformation": ""
