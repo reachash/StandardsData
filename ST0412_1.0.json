@@ -6,7 +6,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/571",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-01-18T00:00:00",
+  "changedDate": "2022-05-05T00:00:00",
   "earliestStartDate": "2020-07-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -15,7 +15,14 @@
   "typicalDuration": 18,
   "maxFunding": 7000,
   "route": "Agriculture, environmental and animal care",
-  "keywords": [],
+  "keywords": [
+    "underkeeper",
+    "animals",
+    "environment",
+    "conservation",
+    "pest control",
+    "predator control"
+  ],
   "jobRoles": [
     "Underkeeper",
     "Gamekeeper",
@@ -23,7 +30,7 @@
     "Wildlife manager"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/5806/st0412_underkeeper_l2_-ap02_for-publshing_170122-2.pdf",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/6063/st0412_underkeeper_l2_-ap03_for-publshing_040522.pdf",
   "ssa1": "3 Agriculture, Horticulture and Animal Care",
   "ssa2": "3.4 Environmental conservation",
   "version": "1.0",
@@ -297,7 +304,7 @@
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Game and Pest Control Technician",
   "createdDate": "2020-07-10T08:50:33 +00:00",
-  "lastUpdated": "2022-01-18T00:00:00 +00:00",
+  "lastUpdated": "2022-05-05T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/underkeeper-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/underkeeper-v1-0",
   "qualifications": [
