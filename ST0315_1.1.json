@@ -6,7 +6,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/24",
   "versionNumber": "1.1",
   "change": "Standard, Funding and End-point assessment plan revised. The funding band for this standard has been reviewed and remains at £18000. (2020-04-01)",
-  "changedDate": "2022-03-16T00:00:00",
+  "changedDate": "2022-05-31T00:00:00",
   "earliestStartDate": "2020-08-21T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -169,11 +169,11 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "Claire Gill / Steve Walker",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/ofqual"
   },
   "approvedForDelivery": "2020-08-21T00:00:00 +00:00",
   "integratedApprenticeship": false,
@@ -198,7 +198,7 @@
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Technician",
   "createdDate": "2022-01-07T13:33:42 +00:00",
-  "lastUpdated": "2022-03-16T00:00:00 +00:00",
+  "lastUpdated": "2022-05-31T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/railway-engineering-design-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/railway-engineering-design-technician-v1-1",
   "qualifications": [
