@@ -6,7 +6,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/399",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2019-01-18T00:00:00",
+  "changedDate": "2022-05-31T00:00:00",
   "earliestStartDate": "2019-01-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -32,7 +32,7 @@
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.0",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in the advanced manufacturing engineering and engineering construction sectors.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is to carry out metal fabrication work using things such as rolled steel joists, columns, channels, steel plate and metal sheet etc.&lt;/p&gt;\r\n&lt;p&gt;Work includes manufacturing bridges, oil rigs, ships, petro-chemical installations, cranes, platforms, aircraft, automotive and machinery parts, sheet metal enclosures, equipment supports, and anything that can be fabricated out of metal. Fabricators can work alone or in teams, in factories or on operational sites.Fabricators use a large range of metals including steel, aluminium and titanium at a range of thicknesses from 0.5mm up to over 20mm. The size and weight of the fabrications can range from components that can easily be picked up by hand, to massive structures that require several cranes to manipulate.&lt;/p&gt;\r\n&lt;p&gt;In their daily work, an employee in this occupation interacts with planners, supervisors, inspectors, designers, welders, pipefitters, fitters, machinists, riggers, steel erectors, stores personnel, painters and many others involved in manufacturing, production, maintenance and repair.&lt;/p&gt;\r\n&lt;p&gt;An employee in this occupation will be responsible for the quality and accuracy of their own work whilst ensuring it conforms to a relevant specification such as an engineering drawing or an international standard. Fabricators are also responsible for the health, safety and environmental (HS&amp;amp;E) protection of themselves and others around them.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the advanced manufacturing engineering and engineering construction sectors.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to carry out metal fabrication work using things such as rolled steel joists, columns, channels, steel plate and metal sheet etc.&lt;/p&gt;\n&lt;p&gt;Work includes manufacturing bridges, oil rigs, ships, petro-chemical installations, cranes, platforms, aircraft, automotive and machinery parts, sheet metal enclosures, equipment supports, and anything that can be fabricated out of metal. Fabricators can work alone or in teams, in factories or on operational sites.Fabricators use a large range of metals including steel, aluminium and titanium at a range of thicknesses from 0.5mm up to over 20mm. The size and weight of the fabrications can range from components that can easily be picked up by hand, to massive structures that require several cranes to manipulate.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with planners, supervisors, inspectors, designers, welders, pipefitters, fitters, machinists, riggers, steel erectors, stores personnel, painters and many others involved in manufacturing, production, maintenance and repair.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for the quality and accuracy of their own work whilst ensuring it conforms to a relevant specification such as an engineering drawing or an international standard. Fabricators are also responsible for the health, safety and environmental (HS&amp;amp;E) protection of themselves and others around them.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "4f19f3a7-3884-446d-b2ee-c5ae0196dbeb",
@@ -230,11 +230,11 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "Claire Gill / Steve Walker",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/ofqual"
   },
   "approvedForDelivery": "2019-01-18T00:00:00 +00:00",
   "integratedApprenticeship": false,
@@ -254,7 +254,7 @@
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Fabrication and Welding Operative/Technician",
   "createdDate": "2020-09-18T14:16:10 +00:00",
-  "lastUpdated": "2019-01-18T00:00:00 +00:00",
+  "lastUpdated": "2022-05-31T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/metal-fabricator-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/metal-fabricator-v1-0",
   "qualifications": [
@@ -262,13 +262,13 @@
       "qualificationId": "3977a075-19d3-46f8-b70b-f9cf95e0c04d",
       "title": "Diploma in Advanced Manufacturing Engineering (Development Knowledge)",
       "level": "3",
-      "anyAdditionalInformation": null
+      "anyAdditionalInformation": ""
     },
     {
       "qualificationId": "ee1e64b2-ac83-4047-b7d8-0468607927ce",
       "title": "Extended Diploma in Advanced Manufacturing Engineering (Development Knowledge) ",
       "level": "3",
-      "anyAdditionalInformation": null
+      "anyAdditionalInformation": ""
     }
   ],
   "professionalRecognition": [
