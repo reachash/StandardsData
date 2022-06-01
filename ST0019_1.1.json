@@ -6,7 +6,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/114",
   "versionNumber": "1.1",
   "change": "Standard, funding band and end-point assessment plan revised",
-  "changedDate": "2021-07-26T00:00:00",
+  "changedDate": "2022-05-31T00:00:00",
   "earliestStartDate": "2020-11-09T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -213,11 +213,11 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "Claire Gill / Steve Walker",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/ofqual"
   },
   "approvedForDelivery": "2016-07-01T00:00:00 +00:00",
   "integratedApprenticeship": false,
@@ -245,7 +245,7 @@
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Installation, Service, Repair and/or Overhaul Advanced Technician",
   "createdDate": "2020-11-18T16:27:46 +00:00",
-  "lastUpdated": "2021-07-26T00:00:00 +00:00",
+  "lastUpdated": "2022-05-31T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/aircraft-certifying-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/aircraft-certifying-technician-v1-1",
   "qualifications": [
