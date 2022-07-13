@@ -5,8 +5,8 @@
   "status": "Retired",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/432",
   "versionNumber": "1.0",
-  "change": "Retired",
-  "changedDate": "2022-02-21T00:00:00",
+  "change": "Approved for delivery",
+  "changedDate": "2022-07-12T00:00:00",
   "earliestStartDate": "2019-04-05T00:00:00",
   "latestStartDate": "2022-02-20T00:00:00",
   "latestEndDate": null,
@@ -15,7 +15,16 @@
   "typicalDuration": 24,
   "maxFunding": 17000,
   "route": "Health and science",
-  "keywords": [],
+  "keywords": [
+    "Arts",
+    "art",
+    "drama",
+    "music",
+    "health",
+    "mental health",
+    "wellbeing",
+    "therapist"
+  ],
   "jobRoles": [
     "Art therapist",
     "Dramatherapist",
@@ -406,11 +415,11 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Office for Students",
-    "contactName": "Rob Stroud, Interim Director – Quality Assessment, England",
-    "contactAddress": "Southgate House, Southgate Street, Gloucester, GL1 1UB",
-    "contactEmail": "QAE@QAA.ac.uk",
-    "webLink": "https://www.officeforstudents.org.uk/"
+    "providerName": "Ofqual",
+    "contactName": "Claire Gill / Steve Walker",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/ofqual"
   },
   "approvedForDelivery": "2019-04-05T00:00:00 +00:00",
   "integratedApprenticeship": null,
@@ -433,7 +442,7 @@
   "pathway": "Health",
   "cluster": "Health Practitioner",
   "createdDate": "2019-12-19T14:37:44 +00:00",
-  "lastUpdated": "2022-02-21T00:00:00 +00:00",
+  "lastUpdated": "2022-07-12T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/arts-therapist-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/arts-therapist-degree-v1-0",
   "qualifications": [
