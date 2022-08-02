@@ -1,4 +1,5 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 608,
   "referenceNumber": "ST0701",
   "title": "Orthodontic therapist (integrated)",
@@ -743,5 +744,6 @@
       "name": "Training provider",
       "webLink": ""
     }
-  ]
+  ],
+  "optionsUnstructuredKsbMapping": []
 }
