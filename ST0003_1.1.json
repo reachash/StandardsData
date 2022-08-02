@@ -1,4 +1,5 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 117,
   "referenceNumber": "ST0003",
   "title": "Professional accounting or taxation technician",
@@ -97,5 +98,25 @@
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [
+    {
+      "coreOrOptionTitle": "Core",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Accounting",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Tax",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    }
+  ]
 }
