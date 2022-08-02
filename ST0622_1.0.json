@@ -1,4 +1,5 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 339,
   "referenceNumber": "ST0622",
   "title": "Bicycle mechanic",
@@ -697,5 +698,6 @@
       "criteriaForMeasuringPerformance": "Adherence to employer procedures\n\nAdherence to hazardous materials legislation\n\nAdherence to recycling rules and regulations"
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
