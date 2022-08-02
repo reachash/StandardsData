@@ -1,4 +1,5 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 520,
   "referenceNumber": "ST0697",
   "title": "Specialist community public health nurse",
@@ -1119,5 +1120,6 @@
       "name": "Training provider",
       "webLink": ""
     }
-  ]
+  ],
+  "optionsUnstructuredKsbMapping": []
 }
