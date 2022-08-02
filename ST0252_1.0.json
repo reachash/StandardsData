@@ -1,4 +1,5 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 404,
   "referenceNumber": "ST0252",
   "title": "Lift and escalator electromechanic",
@@ -82,5 +83,37 @@
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [
+    {
+      "coreOrOptionTitle": "Core",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Escalator & Moving Walk Installation",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Escalator & Moving Walk Service & Repair",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Lift Installation",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Lift Service & Repair",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    }
+  ]
 }
