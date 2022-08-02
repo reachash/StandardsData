@@ -1,4 +1,5 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 656,
   "referenceNumber": "ST0943",
   "title": "Dog groomer",
@@ -734,5 +735,6 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
