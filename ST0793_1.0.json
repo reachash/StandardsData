@@ -1,4 +1,5 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 515,
   "referenceNumber": "ST0793",
   "title": "New furniture product developer",
@@ -515,5 +516,6 @@
       "criteriaForMeasuringPerformance": "delivered in line with customers' expectations"
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
