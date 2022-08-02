@@ -1,4 +1,5 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 616,
   "referenceNumber": "ST0770",
   "title": "Sports coach",
@@ -855,5 +856,6 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
