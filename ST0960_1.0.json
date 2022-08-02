@@ -1,4 +1,5 @@
 {
+  "templateType": "Occupational Standard",
   "larsCode": 673,
   "referenceNumber": "ST0960",
   "title": "Construction support technician",
@@ -505,5 +506,6 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
