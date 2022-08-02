@@ -1,4 +1,5 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 138,
   "referenceNumber": "ST0230",
   "title": "Hospitality supervisor",
@@ -78,5 +79,55 @@
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [
+    {
+      "coreOrOptionTitle": "Core",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Bar Supervisor",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Concierge\u00A0Supervisor",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Events Supervisor",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Food & Beverage Supervisor",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Front Office Supervisor",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Hospitality\u00A0Outlet\u00A0Supervisor",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "House\u00A0Keeping\u00A0Supervisor",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    }
+  ]
 }
