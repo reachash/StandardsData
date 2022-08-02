@@ -1,4 +1,5 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 86,
   "referenceNumber": "ST0038",
   "title": "Aviation ground specialist",
@@ -90,5 +91,43 @@
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [
+    {
+      "coreOrOptionTitle": "Core",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Aircraft Handling",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Aircraft Movement",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Fire Fighter",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Flight Operations",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Passenger Operations",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    }
+  ]
 }
