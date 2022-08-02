@@ -1,4 +1,5 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 438,
   "referenceNumber": "ST0506",
   "title": "Photographic assistant",
@@ -625,5 +626,6 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
