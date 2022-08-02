@@ -1,4 +1,5 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 581,
   "referenceNumber": "ST0543",
   "title": "Clinical dental technician (integrated)",
@@ -309,5 +310,6 @@
       "name": "Training provider",
       "webLink": ""
     }
-  ]
+  ],
+  "optionsUnstructuredKsbMapping": []
 }
