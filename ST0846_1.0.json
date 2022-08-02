@@ -1,4 +1,5 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 514,
   "referenceNumber": "ST0846",
   "title": "Garment maker",
@@ -661,5 +662,6 @@
       "criteriaForMeasuringPerformance": "Garments are under pressed and pressed appropriately, in the right sequecne  with no creases, marks or over pressing"
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
