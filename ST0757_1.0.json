@@ -1,4 +1,5 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 611,
   "referenceNumber": "ST0757",
   "title": "Radio network technician",
@@ -653,5 +654,6 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
