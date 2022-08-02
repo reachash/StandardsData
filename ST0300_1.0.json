@@ -1,4 +1,5 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 471,
   "referenceNumber": "ST0300",
   "title": "Pharmacy technician (integrated)",
@@ -540,5 +541,6 @@
       "name": "EPAO",
       "webLink": ""
     }
-  ]
+  ],
+  "optionsUnstructuredKsbMapping": []
 }
