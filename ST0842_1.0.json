@@ -1,4 +1,5 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 666,
   "referenceNumber": "ST0842",
   "title": "Officer of the watch (near coastal)",
@@ -864,5 +865,6 @@
       "name": "EPAO",
       "webLink": ""
     }
-  ]
+  ],
+  "optionsUnstructuredKsbMapping": []
 }
