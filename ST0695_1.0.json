@@ -1,4 +1,5 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 419,
   "referenceNumber": "ST0695",
   "title": "Process leader",
@@ -488,5 +489,6 @@
       "criteriaForMeasuringPerformance": "Accurate analysis of data and information"
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
