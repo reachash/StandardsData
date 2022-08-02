@@ -1,4 +1,5 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 504,
   "referenceNumber": "ST0709",
   "title": "District nurse",
@@ -686,5 +687,6 @@
       "name": "Training provider",
       "webLink": ""
     }
-  ]
+  ],
+  "optionsUnstructuredKsbMapping": []
 }
