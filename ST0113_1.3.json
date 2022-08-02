@@ -1,4 +1,5 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 61,
   "referenceNumber": "ST0113",
   "title": "Dental nurse (integrated)",
@@ -606,5 +607,6 @@
       "name": "EPAO",
       "webLink": ""
     }
-  ]
+  ],
+  "optionsUnstructuredKsbMapping": []
 }
