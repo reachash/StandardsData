@@ -1,4 +1,5 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 450,
   "referenceNumber": "ST0406",
   "title": "Vehicle damage assessor",
@@ -614,5 +615,6 @@
       "criteriaForMeasuringPerformance": "Demonstrate accuracy when working"
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
