@@ -1,4 +1,5 @@
 {
+  "templateType": "Occupational Standard",
   "larsCode": 0,
   "referenceNumber": "ST0821",
   "title": "Thatcher",
@@ -488,5 +489,6 @@
       "criteriaForMeasuringPerformance": "Ability to work out how much materials and time required to complete a thatching job efficiently"
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
