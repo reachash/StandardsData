@@ -1,4 +1,5 @@
 {
+  "templateType": "Occupational Standard",
   "larsCode": 0,
   "referenceNumber": "ST0894",
   "title": "Service designer",
@@ -730,5 +731,6 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
