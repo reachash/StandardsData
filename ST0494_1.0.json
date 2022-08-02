@@ -1,4 +1,5 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 496,
   "referenceNumber": "ST0494",
   "title": "Probation services practitioner",
@@ -447,5 +448,6 @@
       "criteriaForMeasuringPerformance": "1. Adherence to legislative requirements\n2. Compliance with employer policies and procedures"
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
