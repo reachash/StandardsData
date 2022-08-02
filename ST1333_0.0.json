@@ -1,4 +1,5 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 0,
   "referenceNumber": "ST1333",
   "title": "Ship’s Master less than 500 Gross tonnage near coastal",
@@ -56,5 +57,6 @@
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
