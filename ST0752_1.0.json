@@ -1,4 +1,5 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 456,
   "referenceNumber": "ST0752",
   "title": "Drinks dispense technician",
@@ -767,5 +768,6 @@
       "criteriaForMeasuringPerformance": "Technical ability and effective communication with the customer, knowledge of product, accuracy of product specification, handover documents completed and returned quickly and effectively."
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
