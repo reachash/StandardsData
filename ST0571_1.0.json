@@ -1,4 +1,5 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 341,
   "referenceNumber": "ST0571",
   "title": "Heritage engineering technician",
@@ -89,5 +90,49 @@
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [
+    {
+      "coreOrOptionTitle": "Core",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Aviation",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Marine",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Steam (Mechanical Overhaul)",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Steam (Boiler-smith)",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Vehicle Mechanical",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Coach-building & Trim",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    }
+  ]
 }
