@@ -1,4 +1,5 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 661,
   "referenceNumber": "ST0912",
   "title": "Stained glass craftsperson",
@@ -561,5 +562,6 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
