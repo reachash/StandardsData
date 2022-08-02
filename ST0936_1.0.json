@@ -1,4 +1,5 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 633,
   "referenceNumber": "ST0936",
   "title": "Town planning assistant",
@@ -632,5 +633,6 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
