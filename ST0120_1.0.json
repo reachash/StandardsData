@@ -1,12 +1,13 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 439,
   "referenceNumber": "ST0120",
   "title": "Digital support technician",
-  "status": "Approved for delivery",
+  "status": "Retired",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/439",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-04-14T00:00:00",
+  "changedDate": "2022-08-01T00:00:00",
   "earliestStartDate": "2019-04-11T00:00:00",
   "latestStartDate": "2022-07-31T00:00:00",
   "latestEndDate": null,
@@ -104,11 +105,31 @@
   "pathway": "Digital Support and Services",
   "cluster": "IT Support and Services Technician",
   "createdDate": "2017-11-14T17:09:24 +00:00",
-  "lastUpdated": "2022-04-14T00:00:00 +00:00",
+  "lastUpdated": "2022-08-01T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-support-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-support-technician-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [
+    {
+      "coreOrOptionTitle": "Core",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Digital Applications Technician",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Digital Service Technician",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    }
+  ]
 }
