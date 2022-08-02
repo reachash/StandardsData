@@ -1,4 +1,5 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 232,
   "referenceNumber": "ST0575",
   "title": "School business professional",
@@ -235,5 +236,6 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
