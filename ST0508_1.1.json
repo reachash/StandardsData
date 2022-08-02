@@ -1,4 +1,5 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 208,
   "referenceNumber": "ST0508",
   "title": "Nursing associate",
@@ -77,5 +78,6 @@
       "name": "Training provider",
       "webLink": ""
     }
-  ]
+  ],
+  "optionsUnstructuredKsbMapping": []
 }
