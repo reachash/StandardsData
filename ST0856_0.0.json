@@ -1,4 +1,5 @@
 {
+  "templateType": "Occupational Standard",
   "larsCode": 0,
   "referenceNumber": "ST0856",
   "title": "Space systems engineer",
@@ -849,5 +850,6 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
