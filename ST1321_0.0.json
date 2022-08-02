@@ -1,4 +1,5 @@
 {
+  "templateType": "Occupational Standard",
   "larsCode": 0,
   "referenceNumber": "ST1321",
   "title": "Forest craftsperson",
@@ -919,5 +920,6 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
