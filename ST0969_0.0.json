@@ -1,12 +1,13 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 0,
   "referenceNumber": "ST0969",
   "title": "Electoral services officer",
-  "status": "In development",
+  "status": "Withdrawn",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
   "versionNumber": "",
   "change": "",
-  "changedDate": "2021-02-19T00:00:00",
+  "changedDate": "2022-08-01T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
@@ -50,11 +51,12 @@
   "pathway": null,
   "cluster": null,
   "createdDate": "2021-02-19T10:53:45 +00:00",
-  "lastUpdated": "2021-02-19T00:00:00 +00:00",
+  "lastUpdated": "2022-08-01T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/electoral-services-officer?view=standard#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/electoral-services-officer",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
