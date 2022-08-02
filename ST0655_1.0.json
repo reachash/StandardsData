@@ -1,4 +1,5 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 509,
   "referenceNumber": "ST0655",
   "title": "Advanced furniture CNC technician",
@@ -574,5 +575,6 @@
       "criteriaForMeasuringPerformance": "delivered in line with specifications and within agreed timescales"
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
