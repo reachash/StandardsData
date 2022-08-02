@@ -1,4 +1,5 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 318,
   "referenceNumber": "ST0567",
   "title": "Paramedic (integrated degree)",
@@ -806,5 +807,6 @@
       "name": "EPAO",
       "webLink": ""
     }
-  ]
+  ],
+  "optionsUnstructuredKsbMapping": []
 }
