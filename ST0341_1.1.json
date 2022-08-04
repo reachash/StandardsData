@@ -1,4 +1,5 @@
 {
+  "templateType": "Occupational Standard",
   "larsCode": 112,
   "referenceNumber": "ST0341",
   "title": "Production assistant (screen and audio)",
@@ -6,7 +7,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/112",
   "versionNumber": "",
   "change": "In development",
-  "changedDate": "2022-07-29T00:00:00",
+  "changedDate": "2022-08-03T00:00:00",
   "earliestStartDate": "2022-09-07T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -351,7 +352,7 @@
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media and Broadcast Assistant",
   "createdDate": "2022-07-29T08:28:13 +00:00",
-  "lastUpdated": "2022-07-29T00:00:00 +00:00",
+  "lastUpdated": "2022-08-03T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/production-assistant-screen-and-audio-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/production-assistant-screen-and-audio-in-revision",
   "qualifications": [],
@@ -582,5 +583,6 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
