@@ -1,19 +1,20 @@
 {
+  "templateType": "Occupational Standard",
   "larsCode": 103,
   "referenceNumber": "ST0216",
   "title": "Healthcare support worker",
   "status": "In development",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/103",
   "versionNumber": "",
-  "change": "In development",
-  "changedDate": "2022-05-06T00:00:00",
-  "earliestStartDate": null,
+  "change": "In revision",
+  "changedDate": "2022-08-04T00:00:00",
+  "earliestStartDate": "2022-11-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing high-quality and compassionate healthcare. \n",
   "level": 2,
   "typicalDuration": 12,
-  "maxFunding": 0,
+  "maxFunding": 3000,
   "route": "Health and science",
   "keywords": [
     "health",
@@ -312,7 +313,7 @@
   "pathway": "Health",
   "cluster": "Health Assistant",
   "createdDate": "2022-05-06T08:57:07 +00:00",
-  "lastUpdated": "2022-05-06T00:00:00 +00:00",
+  "lastUpdated": "2022-08-04T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/healthcare-support-worker-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/healthcare-support-worker-in-revision",
   "qualifications": [],
@@ -533,5 +534,6 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
