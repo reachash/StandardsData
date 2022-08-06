@@ -1,19 +1,20 @@
 {
+  "templateType": "Occupational Standard",
   "larsCode": 102,
   "referenceNumber": "ST0215",
   "title": "Assistant practitioner (health)",
   "status": "In development",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/102",
   "versionNumber": "",
-  "change": "In development",
+  "change": "In revision",
   "changedDate": "2022-07-15T00:00:00",
-  "earliestStartDate": null,
+  "earliestStartDate": "2023-02-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing, supervising and coordinating high-quality and compassionate health and social care for a wide range of people.",
   "level": 5,
   "typicalDuration": 24,
-  "maxFunding": 0,
+  "maxFunding": 14000,
   "route": "Health and science",
   "keywords": [
     "health",
@@ -604,5 +605,6 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
