@@ -1,13 +1,14 @@
 {
+  "templateType": "Occupational Standard",
   "larsCode": 231,
   "referenceNumber": "ST0526",
   "title": "Policy officer",
-  "status": "In development",
+  "status": "Approved for delivery",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/231",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": "0001-01-01T00:00:00",
-  "earliestStartDate": null,
+  "versionNumber": "1.1",
+  "change": "Occupational standard and end-point assessment plan revised",
+  "changedDate": "2022-08-15T00:00:00",
+  "earliestStartDate": "2022-08-15T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Contribute to the development of policy",
@@ -231,7 +232,7 @@
     "contactEmail": "public.enquiries@ofqual.gov.uk",
     "webLink": "https://www.gov.uk/government/organisations/ofqual"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2018-02-02T00:00:00 +00:00",
   "integratedApprenticeship": false,
   "integratedDegree": "",
   "tbReference": "TB0286",
@@ -256,9 +257,9 @@
   "pathway": "Management and Administration",
   "cluster": "Business Manager",
   "createdDate": "2022-05-12T09:47:58 +00:00",
-  "lastUpdated": "",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/policy-officer-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/policy-officer-in-revision",
+  "lastUpdated": "2022-08-15T00:00:00 +00:00",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/policy-officer-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/policy-officer-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -630,5 +631,6 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
