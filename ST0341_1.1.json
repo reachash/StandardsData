@@ -6,7 +6,7 @@
   "status": "In development",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/112",
   "versionNumber": "",
-  "change": "In development",
+  "change": "In revision",
   "changedDate": "2022-08-03T00:00:00",
   "earliestStartDate": "2022-09-07T00:00:00",
   "latestStartDate": null,
@@ -16,7 +16,14 @@
   "typicalDuration": 15,
   "maxFunding": 9000,
   "route": "Creative and design",
-  "keywords": [],
+  "keywords": [
+    "production",
+    "media",
+    "communications",
+    "Creative Design Manager",
+    "design",
+    "broadcasting"
+  ],
   "jobRoles": [
     "Broadcast Assistant",
     "TV Production Assistant",
@@ -34,7 +41,7 @@
   "ssa2": "9.3 Media and communication",
   "version": "1.1",
   "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
-  "occupationalSummary": "&lt;p&gt;&lt;span class=&quot;highlight&quot;&gt;Rate and provide feedback for this webpage template&#160;&lt;a href=&quot;https://www.cognitoforms.com/InstituteForApprenticeships1/NewWebpageTemplateFeedbackForm&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;here&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;This occupation is found in a wide range of organisations, primarily but not exclusively based in the creative industries. This includes screen and audio sectors such as Film, TV, Radio, Podcast and online content producers. Employers range in size from small independent production companies to large multi-national organisations. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to provide support and assistance to editorial or technical colleagues to ensure the smooth delivery of content for productions. Production Assistants are involved in the end to end process of a production. They work to a brief and collaborate with a wide range of stakeholders to plan productions.&#160;&lt;/p&gt;\n&lt;p&gt;Production Assistants contribute to the research and development of production ideas.&#160;&lt;/p&gt;\n&lt;p&gt;They may also provide support to colleagues in technical areas such as camera, lighting and sound. and offering up solutions to production problems.&#160;&lt;/p&gt;\n&lt;p&gt;They research and identify resources, logistics and equipment. They have to consider production requirements and take into account project constraints such as budgets.&#160;&#160;&lt;/p&gt;\n&lt;p&gt;Production Assistants are typically office based but they are also likely to work on set or within a studio.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with a production team. They need to be adaptable and able to learn quickly on the job; building their knowledge and skills of screen and audio activities as they move across production teams.&#160;&lt;/p&gt;\n&lt;p&gt;The Production Assistant will also work with a wide range of external stakeholders throughout the production process. This will typically include clients, cast, crew members and suppliers.&#160;&#160;&lt;/p&gt;\n&lt;p&gt;They typically report to a Production Co-ordinator, Production Manager, Assistant Producer or Producer, depending on the size of the production.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for&#160;supporting and assisting the production team throughout the end-to-end production process. They initiate and complete production tasks and have responsibility for the quality of their own work. They have the autonomy to carry out their duties in line with parameters set by the production team.&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in a wide range of organisations, primarily but not exclusively based in the creative industries. This includes screen and audio sectors such as Film, TV, Radio, Podcast and online content producers. Employers range in size from small independent production companies to large multi-national organisations. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to provide support and assistance to editorial or technical colleagues to ensure the smooth delivery of content for productions. Production Assistants are involved in the end to end process of a production. They work to a brief and collaborate with a wide range of stakeholders to plan productions.&#160;&lt;/p&gt;\n&lt;p&gt;Production Assistants contribute to the research and development of production ideas.&#160;&lt;/p&gt;\n&lt;p&gt;They may also provide support to colleagues in technical areas such as camera, lighting and sound. and offering up solutions to production problems.&#160;&lt;/p&gt;\n&lt;p&gt;They research and identify resources, logistics and equipment. They have to consider production requirements and take into account project constraints such as budgets.&#160;&#160;&lt;/p&gt;\n&lt;p&gt;Production Assistants are typically office based but they are also likely to work on set or within a studio.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with a production team. They need to be adaptable and able to learn quickly on the job; building their knowledge and skills of screen and audio activities as they move across production teams.&#160;&lt;/p&gt;\n&lt;p&gt;The Production Assistant will also work with a wide range of external stakeholders throughout the production process. This will typically include clients, cast, crew members and suppliers.&#160;&#160;&lt;/p&gt;\n&lt;p&gt;They typically report to a Production Co-ordinator, Production Manager, Assistant Producer or Producer, depending on the size of the production.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for&#160;supporting and assisting the production team throughout the end-to-end production process. They initiate and complete production tasks and have responsibility for the quality of their own work. They have the autonomy to carry out their duties in line with parameters set by the production team.&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "8d47160b-9040-472e-9bb8-3e10ffb16282",
@@ -351,7 +358,7 @@
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media and Broadcast Assistant",
-  "createdDate": "2022-07-29T08:28:13 +00:00",
+  "createdDate": "2022-08-15T14:49:39 +00:00",
   "lastUpdated": "2022-08-03T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/production-assistant-screen-and-audio-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/production-assistant-screen-and-audio-in-revision",
