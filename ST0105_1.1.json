@@ -1,12 +1,13 @@
 {
-  "larsCode": 0,
+  "templateType": "Occupational Standard",
+  "larsCode": 112,
   "referenceNumber": "ST0105",
   "title": "Content creator",
   "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
+  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/112",
   "versionNumber": "",
   "change": "In development",
-  "changedDate": "2022-06-07T00:00:00",
+  "changedDate": "2022-08-25T00:00:00",
   "earliestStartDate": "2022-09-07T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -38,8 +39,8 @@
   "ssa1": "9 Arts, Media and Publishing",
   "ssa2": "9.3 Media and communication",
   "version": "1.1",
-  "standardInformation": "&lt;p&gt;.&lt;/p&gt;\n&lt;p&gt;&lt;span class=&quot;highlight&quot;&gt;Rate and provide feedback for this webpage template&#160;&lt;a href=&quot;https://www.cognitoforms.com/InstituteForApprenticeships1/NewWebpageTemplateFeedbackForm&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;here&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;",
-  "occupationalSummary": "&lt;p&gt;&lt;span class=&quot;highlight&quot;&gt;Rate and provide feedback for this webpage template&#160;&lt;a href=&quot;https://www.cognitoforms.com/InstituteForApprenticeships1/NewWebpageTemplateFeedbackForm&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;here&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;This occupation is found in employers across all sectors. It is a role that can be found in both creative and non-creative industries. This can be in any business creating content to engage with its audience.&#160;&lt;/p&gt;\n&lt;p&gt;Employers can vary in size from micro businesses to multinational. The occupation is found in a very broad range of businesses, ranging from public, private and third sector employer. This may include charities, social media employers, digital agencies and broadcasters.&#160;&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to develop and create written and audio visual content that can be used across a variety of platforms and media. This may include social media, broadcast or in print.&#160;&lt;/p&gt;\n&lt;p&gt;A content creator works to a brief. They research, prepare and develop the messaging to maximise audience engagement. They capture the strategy and objectives of the brand and needs of the customer, client or business.&lt;/p&gt;\n&lt;p&gt;The content they create can be used as part of media, advertising, documenting and marketing campaigns.&#160;&lt;/p&gt;\n&lt;p&gt;They simplify and tailor a message to the audience to suit the purpose. These can be used across different platforms and channels.&#160; An interest in technology and creating content is a must.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with&#160;a wide range of internal and external stakeholders throughout the end-to-end content creation process.&#160;&lt;/p&gt;\n&lt;p&gt;Typically, they are likely to interact with clients, marketing and digital teams, production teams, budget holders, contributors, artists and end users.&#160;&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for delivering high quality content on time and on budget that meets the brief. They need to be aware of the legal and regulatory framework and take this into account throughout the content development process.&lt;/p&gt;\n&lt;p&gt;A content creator would need to take into account ethical considerations and wider organisational policies.&#160; A content creator would typically report to a senior colleague within their functional area.&#160;&lt;/p&gt;\n&lt;p&gt;They are required to keep up to date with new technologies, platform developments and consumer trends.&#160;&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;",
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in employers across all sectors. It is a role that can be found in both creative and non-creative industries. This can be in any business creating content to engage with its audience.&#160;&lt;/p&gt;\n&lt;p&gt;Employers can vary in size from micro businesses to multinational. The occupation is found in a very broad range of businesses, ranging from public, private and third sector employer. This may include charities, social media employers, digital agencies and broadcasters.&#160;&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to develop and create written and audio visual content that can be used across a variety of platforms and media. This may include social media, broadcast or in print.&#160;&lt;/p&gt;\n&lt;p&gt;A content creator works to a brief. They research, prepare and develop the messaging to maximise audience engagement. They capture the strategy and objectives of the brand and needs of the customer, client or business.&lt;/p&gt;\n&lt;p&gt;The content they create can be used as part of media, advertising, documenting and marketing campaigns.&#160;&lt;/p&gt;\n&lt;p&gt;They simplify and tailor a message to the audience to suit the purpose. These can be used across different platforms and channels.&#160; An interest in technology and creating content is a must.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with&#160;a wide range of internal and external stakeholders throughout the end-to-end content creation process.&#160;&lt;/p&gt;\n&lt;p&gt;Typically, they are likely to interact with clients, marketing and digital teams, production teams, budget holders, contributors, artists and end users.&#160;&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for delivering high quality content on time and on budget that meets the brief. They need to be aware of the legal and regulatory framework and take this into account throughout the content development process.&lt;/p&gt;\n&lt;p&gt;A content creator would need to take into account ethical considerations and wider organisational policies.&#160; A content creator would typically report to a senior colleague within their functional area.&#160;&lt;/p&gt;\n&lt;p&gt;They are required to keep up to date with new technologies, platform developments and consumer trends.&#160;&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "a62ed23e-882d-4ee3-9c7d-1184f3413a23",
@@ -296,7 +297,7 @@
   "integratedDegree": "",
   "tbReference": "TB0137",
   "tbMainContact": "nicole.suter@screenskills.com",
-  "involvedEmployers": "Cancer.org\nChannel 4\nScreenskills \nAll Spring Media\nResource Productions\nBBC\nRes Digital\nAim Assessment\nChannel 4\nBFBS\nBauer Media\nAMV BDDO",
+  "involvedEmployers": "Res Digital\r\nAll Spring Media\r\nAim\r\nIPA\r\nBBC\r\nAMV BBDO\r\nBFBS\r\nSalamandra\r\nChannel 4\r\nSaatchi\r\nAmazon \r\nITV\r\n",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -315,8 +316,8 @@
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media and Broadcast Assistant",
-  "createdDate": "2022-06-07T14:28:01 +00:00",
-  "lastUpdated": "2022-06-07T00:00:00 +00:00",
+  "createdDate": "2022-08-25T09:39:01 +00:00",
+  "lastUpdated": "2022-08-25T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/content-creator-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/content-creator-in-revision",
   "qualifications": [],
@@ -534,5 +535,6 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": []
 }
