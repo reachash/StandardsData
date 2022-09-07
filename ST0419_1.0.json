@@ -214,20 +214,7 @@
       "detail": "Incident responder: Follow a defined set of procedures which outline the basic response to an incident, such as arrive on site, assess, make safe, report and liaise with others as necessary."
     }
   ],
-  "options": [
-    {
-      "optionId": "9eab499a-bd7f-456f-854c-781d5a80cb93",
-      "title": "Electrical controller"
-    },
-    {
-      "optionId": "7b6e12ea-4939-43fe-be37-180f8028fd4d",
-      "title": "Incident responder"
-    },
-    {
-      "optionId": "2953c979-7ac6-44cf-875f-c3bc745039f8",
-      "title": "Signalling operators"
-    }
-  ],
+  "options": [],
   "optionsUnstructuredTemplate": [
     "Electrical Controller",
     "Incident Responder",
