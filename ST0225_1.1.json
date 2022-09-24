@@ -348,10 +348,7 @@
       "title": "Horticulture operative"
     }
   ],
-  "optionsUnstructuredTemplate": [
-    "Horticulture role",
-    "Landscape construction role"
-  ],
+  "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
   "epaApprovalDate": "",
@@ -843,24 +840,5 @@
     }
   ],
   "regulationDetail": [],
-  "optionsUnstructuredKsbMapping": [
-    {
-      "coreOrOptionTitle": "Core",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Horticulture role",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Landscape construction role",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    }
-  ]
+  "optionsUnstructuredKsbMapping": []
 }
