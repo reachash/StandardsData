@@ -253,10 +253,7 @@
     }
   ],
   "options": [],
-  "optionsUnstructuredTemplate": [
-    "Commercial Laundry",
-    "Dry/Wet Cleaning"
-  ],
+  "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
   "epaApprovalDate": "",
@@ -634,24 +631,5 @@
     }
   ],
   "regulationDetail": [],
-  "optionsUnstructuredKsbMapping": [
-    {
-      "coreOrOptionTitle": "Core",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Commercial Laundry",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Dry/Wet Cleaning",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    }
-  ]
+  "optionsUnstructuredKsbMapping": []
 }
