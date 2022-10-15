@@ -1,10 +1,10 @@
 {
   "templateType": "Structured Apprenticeship Standard",
-  "larsCode": 0,
+  "larsCode": 648,
   "referenceNumber": "ST0940",
   "title": "Audiovisual technician",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
+  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/648",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2022-09-29T00:00:00",
@@ -833,5 +833,6 @@
     }
   ],
   "regulationDetail": [],
-  "optionsUnstructuredKsbMapping": []
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false
 }
