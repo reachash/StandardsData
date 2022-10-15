@@ -57,119 +57,119 @@
   "occupationalSummary": "Fire, Emergency and Security Systems Technicians design, install, commission and maintain electronic systems in and outside simple and complex premises to protect individuals, homes and properties from risk and danger.\r\nSystems include fire, security and emergency systems to detect intrusion, provide surveillance, monitor and control access to buildings, properties and sites or to detect fire and emergencies.\r\nSkills include interconnection of equipment, programming, verifying performance/fault finding and testing and maintaining. Technicians will carry out planned jobs to install new systems, modify and maintain existing systems as well as respond to call-outs to repair faulty systems where they will utilise their problem solving skills.\r\nThey will take a professional approach to customer service skills which include being presentable, tidy and respectful as they can often find themselves working in and outside customers’ homes as well as in and outside business premises.\r\nIt is important for Fire, Emergency and Security Systems Technicians to be able to work independently or as part of a team and use their knowledge and skills to ensure systems have been appropriately selected and installed and maintained to a professional industry standards, often without any supervision, and done so in a safe, efficient and economical manner to minimi se waste.\r\n",
   "knowledges": [
     {
-      "knowledgeId": "44a1e0e9-5d59-4bae-9866-968a70ba5d3f",
+      "knowledgeId": "520389ca-338d-461c-8eee-28a10c732b61",
       "detail": "C:Health and safety legislation, codes of practice and safe working practices."
     },
     {
-      "knowledgeId": "d17e170f-161d-4e6b-97e8-02e82ea4cf2f",
+      "knowledgeId": "36850458-b3c2-4a19-8205-b460e2486812",
       "detail": "C:Installation and testing techniques for electrical and electronic components, equipment and control systems for fire, emergency and security systems."
     },
     {
-      "knowledgeId": "2f45ace4-0734-4575-abdb-43cb5a11f56a",
+      "knowledgeId": "115036f3-0e4a-49ed-8813-de31604d4710",
       "detail": "C:Fundamental principles and quality processes associated with industry/company codes of practices."
     },
     {
-      "knowledgeId": "f2b32fad-cce4-4942-adda-be5da6cea3a1",
+      "knowledgeId": "c0be1059-2443-429f-bb91-eceb69e3f31f",
       "detail": "C:Fundamental design criteria, installation, commissioning and maintenance of fire, emergency, security systems and components."
     },
     {
-      "knowledgeId": "979d4c29-9f88-49dc-9909-548b50978676",
+      "knowledgeId": "6a84cb3c-b942-4859-9dd8-3458f8b06cba",
       "detail": "C:How to \u00A0store, retrieve, manipulate, transmit or \u00A0receive data/information electronically in a digital form across a range of ICT applications (e.g. personal computers, digital transmission over IP, email, mobile communication technology)."
     },
     {
-      "knowledgeId": "3074e706-5dd7-4c40-91cc-5d311fa4d0fd",
+      "knowledgeId": "3f2d95a3-f1d1-4347-a2e8-44537385ada1",
       "detail": "C:Compliance to environmental legislation and the impact of processes and technologies associated with fire, emergency and security systems."
     },
     {
-      "knowledgeId": "c3a1f795-dfa1-4bf5-aaee-8a344f65c1b7",
+      "knowledgeId": "2154269c-318f-47bf-b1b3-a55d32906f8c",
       "detail": "C:Principles of high quality customer service and the needs of others."
     },
     {
-      "knowledgeId": "db06fa51-69af-4641-9828-1770cd124663",
+      "knowledgeId": "dbc8579d-cf49-4d74-a835-a3f431b71742",
       "detail": "C:Different communication styles, how to communicate in a clear, articulate and appropriate manner and how to adapt communication style to suit different situations."
     },
     {
-      "knowledgeId": "0dd07363-a0b0-4980-918c-4803a78d7836",
+      "knowledgeId": "377fcea1-7e31-44bf-a567-b2145d06733c",
       "detail": "C:Commercial risks and responsibilities."
     },
     {
-      "knowledgeId": "a4bfb3e6-4f07-4c0d-a849-f0c3bdbd66ef",
+      "knowledgeId": "99922f13-fde2-422c-8e24-cfed7d6aa1ad",
       "detail": "O1:Understand: the relationship of fire detection and alarms to the\u00A0fire industry, \u00A0the principles \u00A0and features for design criteria, and the methods of surveying new and existing systems The Planning and project management for system installation, commissioning and handover. The preventative and corrective maintenance of fire detection and alarm systems, emergency systems and components."
     },
     {
-      "knowledgeId": "213c12c6-e6de-4f52-b3fe-7ac9f78e9b08",
+      "knowledgeId": "09c3470d-215b-4c7c-97a4-19807fd40f22",
       "detail": "O2:Understand: the requirement and implementation of security risk assessments, the principles, functions and operation for design criteria. The planning and project management for system installation, commissioning and handover. The preventative and corrective maintenance of Intruder and hold up alarms, \u00A0Access \u00A0Control, \u00A0video \u00A0surveillance\u00A0 (CCTV) and other electronic security systems and components."
     },
     {
-      "knowledgeId": "18411d05-178a-46f4-95b2-3ccc8c6b6a19",
+      "knowledgeId": "bb921e1a-3db3-48bb-83b7-c2c057f37226",
       "detail": "O3:Understand: The relationship of fire detection and\u00A0alarms to the fire industry, the principles and\u00A0features for design criteria, and the methods of surveying new and existing systems.\u00A0 \u00A0The Planning and project management for system installation, commissioning and handover. \u00A0The preventative and corrective maintenance of fire detection and alarm systems, \u00A0emergency \u00A0lighting, \u00A0emergency \u00A0systems and components.. The installation of electrical circuits, selecting correct protective devices, testing and certifying to current standards."
     },
     {
-      "knowledgeId": "6867e585-c0b0-43db-9b21-4bb04af0f606",
+      "knowledgeId": "d66ed144-e31d-43d8-b0cd-6dd1d2f8c589",
       "detail": "O4:Understand: the relationship of fire detection and\u00A0security alarms to the fire & security industry and the requirement and implementation of security risk assessments, the principles, features, functions and operation for design criteria, and the methods of surveying new and existing systems. The Planning and project management for systems installation, commissioning and handover. The preventative and corrective maintenance of fire detection and alarm systems, emergency systems and components, Intruder and hold up alarms, Access Control, video surveillance (CCTV) and other electronic security systems and components."
     }
   ],
   "behaviours": [
     {
-      "behaviourId": "8bbe2420-36fd-448d-aeab-2699216fc2cf",
+      "behaviourId": "21e3120e-ef09-4618-a6c2-54903be10d47",
       "detail": "C:Develop and retain trust with customers and colleagues by undertaking responsibilities in an ethical and empathetic manner."
     },
     {
-      "behaviourId": "c893fa52-8fcb-4776-995d-9303fced83e5",
+      "behaviourId": "a63818b1-87dd-4602-9103-fb1dd48e4060",
       "detail": "C:Show commitment through being punctual, reliable, diligent and professional. Take responsibility for own judgements and actions to achieve quality focussed outcomes."
     },
     {
-      "behaviourId": "3d98bdf9-fe64-40a0-9496-cddd80bd1c7a",
+      "behaviourId": "3de9b960-3c3a-407e-b6fa-bcc30d587340",
       "detail": "C:Demonstrate drive and flexibility in fulfilling requirements of role."
     },
     {
-      "behaviourId": "bae04265-6c22-4144-81fb-9811a8fa0e21",
+      "behaviourId": "b4c404e4-180c-4371-887c-36106434dd4b",
       "detail": "C:Take responsibility and fulfil own development and the needs of others. Keep up-to-date with best practice. Maintain continuous professional development."
     },
     {
-      "behaviourId": "aad6f298-2783-41e5-a32c-8da451c6fada",
+      "behaviourId": "be1aea07-1f61-4d40-abeb-c7b533e8f692",
       "detail": "C:Work productively and engage with colleagues, clients, other trades, suppliers and the public."
     },
     {
-      "behaviourId": "96a44357-cd80-46de-b10f-b8fb4edcbd08",
+      "behaviourId": "73b27426-d6e0-474d-b7bf-67885767ef31",
       "detail": "C:Take responsibility for promoting a healthy and safe working environment. Give consideration to appropriate use of resources and own actions taking into account the impact on environmental, social and economic factors."
     }
   ],
   "skills": [
     {
-      "skillId": "c3270258-62a6-4613-b46a-318a96bc48b7",
+      "skillId": "617fbd7e-f3d9-4dea-a901-ec0ddeae579d",
       "detail": "C:Operate in a safe working manner by adhering to health and safety legislation, codes of practice and applying safe working practices."
     },
     {
-      "skillId": "a67ba1bc-7822-402a-a863-769e758e6f47",
+      "skillId": "862e0292-0d54-4eac-ae5c-9e700befc5ef",
       "detail": "C:Contribute\u00A0 \u00A0to\u00A0 \u00A0the\u00A0 \u00A0application\u00A0 \u00A0of\u00A0 \u00A0design,\u00A0 \u00A0planning,\u00A0 \u00A0installation,\u00A0 \u00A0testing, commissioning, maintenance, fault diagnosis, service and repair and electrical and electronic techniques on fire, emergency and security systems."
     },
     {
-      "skillId": "77338c8e-6fd2-4d1e-ad37-42dd110e5da4",
+      "skillId": "8b1c7584-dc80-48d2-b6a9-de089a47e7ee",
       "detail": "C:Operate a \u00A0range of\u00A0 ICT \u00A0equipment and \u00A0systems to \u00A0store, retrieve, manipulate, transmit or receive digital data and electronic information in applications and environments applicable to the role."
     },
     {
-      "skillId": "91a57e4c-edaa-4d26-8d64-322e17fea1d1",
+      "skillId": "f697123e-390c-4bba-8092-a88af2dc929d",
       "detail": "C:Take responsibility for own work and safety and welfare of others. Oversee and organise the programme of work and work environment. Carry out work and manage resources in an environmentally friendly manner."
     },
     {
-      "skillId": "6527a883-eb18-49b5-b6fc-2b07d418cfd9",
+      "skillId": "d87d7ce2-50fc-491f-96b7-97b26fd235d7",
       "detail": "O1:Apply and implement system design, planning, installation, testing, commissioning and handover. Carry out preventative and corrective maintenance, diagnosis and repair faults, of fire detection and alarm and other emergency systems and components."
     },
     {
-      "skillId": "ae18e849-e517-48c3-a25e-166c53a0370f",
+      "skillId": "8a4e7e25-7ab5-480f-8acb-1357d637da09",
       "detail": "O2:Apply and implement system design, planning, installation, testing, commissioning and handover. Carry out preventative and corrective maintenance, diagnosis and repair faults, of Intruder and holdup alarms, Access Control, video surveillance (CCTV) and other electronic security systems and components."
     },
     {
-      "skillId": "38b41045-c252-4baa-b7e7-42578f000262",
+      "skillId": "fae8e9d0-e7bc-4ecf-8c7e-eb5b81af33de",
       "detail": "O3:Apply and implement system design, planning, installation where \u00A0required, \u00A0testing commissioning \u00A0and \u00A0handover."
     },
     {
-      "skillId": "efa88252-7a6a-4021-8819-cedd1dc5158b",
+      "skillId": "ba9f2d7b-2c3c-49d0-a34a-0ecaa04c90d6",
       "detail": "O3:Carry out preventative and corrective maintenance, diagnosis and repair faults, of fire detection and alarm, emergency light systems and other emergency systems and components."
     },
     {
-      "skillId": "2e3cfba4-6048-4fdf-8951-e90fb40e9cdf",
+      "skillId": "f620a6dd-9c6c-41ec-8cf0-6e27300d7569",
       "detail": "O4:Apply and implement system design, planning,\u00A0installation, testing, commissioning and handover. \u00A0Carry out preventative and corrective maintenance, diagnosis and repair faults, of\u00A0 fire detection and alarm, and other emergency \u00A0systems\u00A0 and \u00A0components, Intruder \u00A0and holdup alarms, Access Control, video surveillance (CCTV) and other electronic security systems and components."
     }
   ],
