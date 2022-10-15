@@ -48,271 +48,271 @@
   "occupationalSummary": "IT Solutions Technicians develop, implement and maintain complete IT solutions, including their hardware infrastructure (such as servers and networks) and software (such as operating systems, middleware and applications). They work as part of a multi-disciplinary team. Many such teams will be modern “DevOps” style teams, which carry out the full set of stages across the whole solution lifecycle: requirements gathering, solution development, testing, implementation and ongoing support. In more traditional organisations the team is likely to be focused more at one or other end of this broad set of activities. Such teams may well be in transition to a modern “DevOps” style team.\r\nAn IT Solutions Technician applies a professional methodology or framework to gather and analyse requirements; to design, develop, test, and implement IT solutions and to provide ongoing support both directly to end users and for the underlying IT services. The specific tasks undertaken vary depending on what needs to be achieved by the team at any particular time. Some tasks may be very technical, others may be more analytical, business or user focused.\r\nIT Solutions Technicians undertake duties across the complete IT solution, working on the team’s core activities so all apprentices take a common core and then choose one of two options.\r\n",
   "knowledges": [
     {
-      "knowledgeId": "ec8051b2-0328-4b42-9cc2-1135729b4bdb",
+      "knowledgeId": "8cb32498-e80d-4c02-bc15-df510653df52",
       "detail": "C:the stages within the overall solution lifecycle."
     },
     {
-      "knowledgeId": "8f5f6586-d6f9-4c15-91ec-f3996d1082aa",
+      "knowledgeId": "c3e74d05-e0bf-4356-8e24-e41513b21764",
       "detail": "C:the main principals, features, differences and benefits of Waterfall and Agile type methodologies and the function of service management frameworks."
     },
     {
-      "knowledgeId": "5cce85bd-5b55-4e08-bb2c-b25c13fa64b7",
+      "knowledgeId": "d15a6780-9829-4907-ac50-d10466a7fc00",
       "detail": "C:the aims and benefits of DevOps approaches; including the benefits of automation, the ideas behind continuous integration and monitoring."
     },
     {
-      "knowledgeId": "e1d55081-015f-41c6-a6dd-07147be60c68",
+      "knowledgeId": "911d2105-e76d-4ef7-a28e-1b639e69c078",
       "detail": "C:the principles of Solution Architecture including the importance of re-use."
     },
     {
-      "knowledgeId": "30665b18-967b-47cb-bdcb-702fd31acedf",
+      "knowledgeId": "5c17e67e-919e-4a1c-a04f-76d9bab7c392",
       "detail": "C:why testing is necessary, the need for both functional and non-functional testing, the different types of testing available, including unit testing, integration testing, user acceptance testing and performance testing."
     },
     {
-      "knowledgeId": "74362d2c-898c-485b-b325-d53529337975",
+      "knowledgeId": "eabbe6b5-399e-4f52-87af-d94bdb54ccc5",
       "detail": "C:planning and delivery within their role and how this contributes to the wider team and the organisation."
     },
     {
-      "knowledgeId": "ec0be7c4-a5a9-4ffa-9358-1c38ac6ed03a",
+      "knowledgeId": "5c476fad-67be-424e-a6ac-6cbcde511135",
       "detail": "C:how the end-user context influences the solution."
     },
     {
-      "knowledgeId": "7af87754-016b-4808-8281-f9bf4d5b700a",
+      "knowledgeId": "96520fbb-e790-4b60-b746-11530d16e9bc",
       "detail": "C:the key features of, and where to find, organisational requirements in relation to policies, standards, legislation, professional ethics, privacy and confidentiality."
     },
     {
-      "knowledgeId": "210dd6b5-2405-4a85-b315-43dc9925abea",
+      "knowledgeId": "a791951f-b0ac-45e7-94a8-c34d779230be",
       "detail": "C:the main legislation, policies and standards that apply to IT solutions."
     },
     {
-      "knowledgeId": "c8dcd1e4-fa4f-47ff-a1df-77ae5c9a5ce0",
+      "knowledgeId": "89b1346c-ee5c-45ef-92ed-459f1a9d0940",
       "detail": "C:the concepts of networking including the ISO (International Organisation for Standardisation) and TCP/IP (Transmission Control Protocol/Internet Protocol) network stacks, Ethernet LANs (Local Area Networks), IP addressing, Port numbers, DNS (Domain Name System), DHCP (Dynamic Host Configuration Protocol), and the principals of routing between LANs and WANs (Wide Area Networks)."
     },
     {
-      "knowledgeId": "e2768203-9996-44b1-97db-23414f7a262a",
+      "knowledgeId": "1c114166-7852-4c08-8c19-41039468bac3",
       "detail": "C:the different types of network devices, routers and network switches, their relationship to the stack model and the use of firewalls."
     },
     {
-      "knowledgeId": "9a5b980a-f7c7-493e-a436-018a3803b7ce",
+      "knowledgeId": "8db3c175-1b13-4ad7-9310-aa0c6f7886ef",
       "detail": "C:the main components within an IT Solution including how hardware and software components work together"
     },
     {
-      "knowledgeId": "b44365c9-04eb-45ca-8253-fa87f1c81ed9",
+      "knowledgeId": "f5cd1bfd-714a-4271-9adf-a8c79bc7cb64",
       "detail": "C:the main components of a computer system and their purpose, including servers, end-user computers, and mobile devices (both physical and virtual), user interfaces, CPUs, storage and connectivity."
     },
     {
-      "knowledgeId": "5712285f-5c9d-437d-b8c1-259843c3d5f0",
+      "knowledgeId": "e9c528b3-48c0-45e9-a16b-b4e18b1b4279",
       "detail": "C:the purpose of an Operating System."
     },
     {
-      "knowledgeId": "11367be3-927f-4b85-8e9f-77cfa7c239be",
+      "knowledgeId": "d8ae076c-4033-46ac-9173-c23cc6b5708e",
       "detail": "C:the concepts of Cloud, Cloud Services and storage."
     },
     {
-      "knowledgeId": "a841815b-59c9-4dab-8122-5b2e2cdfbb41",
+      "knowledgeId": "c2416853-44e7-47b9-b1e6-940c6b58a3cd",
       "detail": "C:how their work contributes to business performance, continuity and resilience."
     },
     {
-      "knowledgeId": "a23068f8-2f97-4b6c-923d-764b56b6b462",
+      "knowledgeId": "5b03acb7-d05c-445c-84c0-80cc8379cb38",
       "detail": "C:the main trends in emerging technologies – including the Internet of Things (IoT), artificial intelligence, and automation - and the potential implications for digital activities."
     },
     {
-      "knowledgeId": "ca4f981a-c827-4fbd-9683-417d4e89abb4",
+      "knowledgeId": "c36197a9-d5c6-4bf8-825a-17c900f35669",
       "detail": "C:the necessary numerical skills including Binary and Hexadecimal."
     },
     {
-      "knowledgeId": "55f48492-37b9-4a0d-8300-3c1b9b8a7e69",
+      "knowledgeId": "dd7f5c5f-d85a-44dc-9f00-c1109822836a",
       "detail": "C:why cyber security is essential as part of the delivery of any solution"
     },
     {
-      "knowledgeId": "a121bef1-18ba-4f42-8900-af8d550cd87c",
+      "knowledgeId": "f83d3f53-638f-4aab-bea8-65f4c613ebce",
       "detail": "C:the importance of working securely and the main classifications of types of threats and common mitigation practices."
     },
     {
-      "knowledgeId": "c959d1cd-fcf8-40fd-96c9-21e301514861",
+      "knowledgeId": "365ff0cf-c081-4005-a244-cd99aad8d386",
       "detail": "C:the meaning of risk in the context of security and can explain the relationship between levels of risk, impact, and designed level of protection in IT Solutions."
     },
     {
-      "knowledgeId": "ecc3f99a-1850-42bd-8a68-a3f65c5b53fc",
+      "knowledgeId": "6be1aea8-e97e-4d9a-8c32-0c493f7bf67b",
       "detail": "C:the role of configuration management and version control systems and when they should be used."
     },
     {
-      "knowledgeId": "e22b9ed7-4aaf-4b22-a45c-255865bb21e3",
+      "knowledgeId": "f3be8a27-47b5-44db-aeb3-b2c232d1628a",
       "detail": "C:the concepts of virtualisation."
     },
     {
-      "knowledgeId": "d1bb44bd-95ff-4c4e-b1b8-512114d5afa8",
+      "knowledgeId": "2cb53725-75aa-4406-8093-03c33684b9db",
       "detail": "C:the use of different platforms (including web, mobile, or desktop applications)."
     },
     {
-      "knowledgeId": "7a6cc470-5e36-4a95-a81c-6d9722e9d8d0",
+      "knowledgeId": "6344522c-4bed-4184-a821-c960eb7a394c",
       "detail": "C:the concepts of relational databases, non-relational structured and unstructured databases."
     },
     {
-      "knowledgeId": "9fb3ef14-831b-438a-ab30-6b9fa45ed914",
+      "knowledgeId": "372488a1-ad13-4258-b6d7-b677dd38606c",
       "detail": "C:the concepts of solutions development to a given set of requirements, including the use of standard approaches for web and cloud-based solutions."
     },
     {
-      "knowledgeId": "eac63316-51bd-445b-9c62-3a388cea7165",
+      "knowledgeId": "4e67fb64-c9b4-49e6-806e-d0df1d9db2bc",
       "detail": "C:the benefits of and requirements for vendor support including commercial cloud offerings"
     },
     {
-      "knowledgeId": "6957adf3-49fa-4ea1-b57e-6d51a02e6bda",
+      "knowledgeId": "8adb33aa-2683-4043-bc09-5399f1870088",
       "detail": "O1:the principles of Solution Architecture as applied to software."
     },
     {
-      "knowledgeId": "7945d1b3-76ba-46c7-b6d5-36fd21f745c2",
+      "knowledgeId": "f5a65b77-6834-4835-84d7-214e2218f7cd",
       "detail": "O1:why there is a need to follow good coding practices and have good coding standards."
     },
     {
-      "knowledgeId": "afb039be-25cb-461f-86e9-686b544c1e1f",
+      "knowledgeId": "6986e545-9563-4d47-b04a-44826a9f6164",
       "detail": "O1:the main categories of computer languages and the main features and benefits of each."
     },
     {
-      "knowledgeId": "056cc874-f1c2-42c7-ae06-24cc35c5b194",
+      "knowledgeId": "b523dda3-9d4b-4b08-ba9f-feb322c0a0d8",
       "detail": "O1:how to implement software solutions including simple programing to a given a set of requirements and how to connect code to data sources."
     },
     {
-      "knowledgeId": "35d4f87a-aee0-4c32-bae6-09ef8be1cc8a",
+      "knowledgeId": "17e019c1-b974-46fe-b48a-3aa76145c17a",
       "detail": "O1:the purpose and usage of document mark-up languages including XML (extensible markup language) and html (hyper text markup language)."
     },
     {
-      "knowledgeId": "0c5b2a0f-95b3-4705-8cd6-7d238badb999",
+      "knowledgeId": "9b636b64-65d9-421d-849b-003672ccf372",
       "detail": "O1:the use of relational databases, including tables, views, joins and indexes."
     },
     {
-      "knowledgeId": "90e1b7be-c3b9-44da-ab68-c176a8b88f6b",
+      "knowledgeId": "6537b4bd-e49d-41ea-a0ff-1cadc79ffc72",
       "detail": "O1:the use of Big Data environments for storage and analysis of non-relational structured and unstructured data the purpose of database normalization - organising the attributes and relations of a relational database to reduce data redundancy and improve data integrity."
     },
     {
-      "knowledgeId": "bb09dff9-24d8-41a6-a7fe-32eeb988df88",
+      "knowledgeId": "148031ea-2e0f-485d-a302-decdce85d089",
       "detail": "O1:how to develop, test and implement code following a logical approach."
     },
     {
-      "knowledgeId": "fa47a652-2e25-44ad-a08b-8c7db3d842df",
+      "knowledgeId": "1b465af6-30cc-4fbe-a2f2-aa7ed76c5cad",
       "detail": "O2:the principles of Solution Architecture as applied to hardware."
     },
     {
-      "knowledgeId": "e72c93b0-0a1f-441f-9a7b-52702a8c0869",
+      "knowledgeId": "c2de30ce-db5c-4cc1-8c7d-cad700add988",
       "detail": "O2:the advantages and disadvantages of different types of hardware configurations."
     },
     {
-      "knowledgeId": "bf506b5c-fe52-4ea5-ac95-260d4bb26c7d",
+      "knowledgeId": "f6f3e0f7-269f-4e61-91d1-9be4fc70ce19",
       "detail": "O2:a range of cabling and connectivity."
     },
     {
-      "knowledgeId": "ac80ca08-ebd9-4d0d-94b0-e713f4a424c7",
+      "knowledgeId": "2f3f80dd-6c24-4bba-940f-944ea09e0e4f",
       "detail": "O2:the concepts of standard builds."
     },
     {
-      "knowledgeId": "6ceeb830-c03c-4f71-8fe0-ef3b7a0d0330",
+      "knowledgeId": "21877b62-999d-44d9-bd40-848c73c1d989",
       "detail": "O2:the concepts of mobile data, Bluetooth, 3G, 4G and wifi and the security implications of such solutions."
     },
     {
-      "knowledgeId": "3df06640-c1c2-4950-a058-62a7d2123a7e",
+      "knowledgeId": "db30323e-c5e0-4717-becd-93754d1546ce",
       "detail": "O2:different types of storage including locally attached, SAN (storage area network) and networked, and the concepts of RAID (Redundant Array of Independent Discs) and knowledge of RAID levels."
     },
     {
-      "knowledgeId": "3677cd86-7c7f-438e-944d-66ea6845d4e3",
+      "knowledgeId": "35d8f7b2-c4e8-464a-8025-ada8816cb9dd",
       "detail": "O2:requirements when working with electro static sensitive equipment (including personal grounding devices) and when working in a server room or data centre and when handling equipment."
     },
     {
-      "knowledgeId": "678e471a-4a9b-49db-b7f8-275ad2ed66e5",
+      "knowledgeId": "b1f38786-0263-44f8-a672-4e0aa0012aab",
       "detail": "O2:how to install, configure and test hardware components, networks and devices – including servers, end-user computers and mobile devices."
     },
     {
-      "knowledgeId": "22376258-9c97-4d58-89fa-d14b66944060",
+      "knowledgeId": "a026fb5c-7817-4e41-b15b-a2dbf0a9fe3c",
       "detail": "O2:the need to follow a logical approach and how to ensure connectivity within solutions."
     }
   ],
   "behaviours": [
     {
-      "behaviourId": "9b064119-4ae4-48b3-9b17-1ace6127e13f",
+      "behaviourId": "758d6a1c-e8fd-4204-9f4a-1e90d6b3e82d",
       "detail": "C:Works professionally and independently, taking responsibility and initiative as appropriate"
     },
     {
-      "behaviourId": "f0572e76-6437-4078-bc9f-6b1f299c9350",
+      "behaviourId": "3ff2ed47-4a67-4dfa-bf30-3689d263a2cf",
       "detail": "C:Demonstrates standard business courtesies and professional ethics in how they work"
     },
     {
-      "behaviourId": "568787f1-4fb6-46e0-a51c-b4fdb4b64ef7",
+      "behaviourId": "9ea1b5d4-de39-4096-9b88-3ee858a48f1e",
       "detail": "C:Demonstrates a productive and organised approach to their work"
     },
     {
-      "behaviourId": "037e0281-87c2-40fa-8658-2e3d41daac2d",
+      "behaviourId": "bf14a7ba-2999-40e8-979c-f1898f5836ab",
       "detail": "C:Works effectively with customers, clients and users."
     }
   ],
   "skills": [
     {
-      "skillId": "35260609-b2d7-41be-a637-ac1704dc37c2",
+      "skillId": "3b059e22-de79-4a85-9a36-6736a22195e7",
       "detail": "C:Applies a professional methodology or framework in their work tasks."
     },
     {
-      "skillId": "1ff1b4e0-ce30-4997-8773-b53b06657346",
+      "skillId": "77fa122c-ad02-4749-a462-0a5437c25af1",
       "detail": "C:Executes appropriate due diligence, including formal testing or validation"
     },
     {
-      "skillId": "36a18004-e471-41d2-a7b9-d5b26ed6ded7",
+      "skillId": "ecf15bff-9921-4b0f-8a14-14c94619d9b1",
       "detail": "C:Applies a range of technical IT skills, including: accessing remote systems; file manipulation; file editing, changing system or application settings; system administration; setting up and upgrading components (infrastructure or software);"
     },
     {
-      "skillId": "d6ac6d56-7912-4e6a-bc9d-74d2a607f799",
+      "skillId": "501703ce-1e92-445d-b500-fb7ed0d6cd23",
       "detail": "C:Operates in line with organisational polices, standards, legislation, security requirements, professional ethics, privacy and confidentiality; and understands escalation policies."
     },
     {
-      "skillId": "e8c036d8-5559-4e0c-ab6e-b3504b0a5c7a",
+      "skillId": "0471d413-6e35-48cb-baa2-4939f64b420d",
       "detail": "C:Creates and maintains documentation in accordance with best practice, organisational guidance and legislation."
     },
     {
-      "skillId": "7cdb1967-f86f-4e96-b18a-ecf338294b2e",
+      "skillId": "31579c24-0d35-46d8-ae6f-0cf2ee36096c",
       "detail": "C:Identifies appropriate technical solutions using both logical and creative thinking."
     },
     {
-      "skillId": "5eccdcbe-9ae9-4be7-8f28-2912d2ed7609",
+      "skillId": "f72e4e00-2986-4641-9c7d-d55b3a299629",
       "detail": "C:Diagnoses and understands client requirements and problems using sound analytical and problem solving skills"
     },
     {
-      "skillId": "2e058152-9163-4018-bbb8-b26228ddb39e",
+      "skillId": "6599c825-2a8c-4746-ace6-804a090d8326",
       "detail": "C:Communicates effectively in a variety of situations including formal and informally both within their team and externally."
     },
     {
-      "skillId": "f0b09e8c-2960-4fb2-b51c-e4e049ae3193",
+      "skillId": "968831ff-fa78-414e-84f3-a1389dc03eca",
       "detail": "C:Operates securely across all their areas of responsibility, in line with organisational guidance and legislation"
     },
     {
-      "skillId": "78b72d75-d3d8-4581-b097-b3a2c1e784ad",
+      "skillId": "cae35479-493e-4afc-8f9c-4b2cdc85d83d",
       "detail": "O1:Works at any stage of the software solution lifecycle."
     },
     {
-      "skillId": "fceb494d-25ac-448e-9e9c-dc8f18b7ee63",
+      "skillId": "14818099-60de-4de6-a4e8-754772be14b0",
       "detail": "O1:Undertakes maintenance of a range of contemporary or legacy software solutions to required levels of service."
     },
     {
-      "skillId": "ba38601e-6c69-4d62-ad98-df6cce469d90",
+      "skillId": "99afa38e-2b8a-4a70-9f8e-a6d6b6887a37",
       "detail": "O1:Installs and configures software system components including virtualised components where appropriate."
     },
     {
-      "skillId": "b30c89c8-9776-45a5-b66b-22c675d651e9",
+      "skillId": "6a67cdc8-3e4e-4fc5-bbbf-7ffd13623bc1",
       "detail": "O1:Writes or maintains simple scripts or code."
     },
     {
-      "skillId": "f872263a-58c2-45af-a78f-71f4a34dea4b",
+      "skillId": "73bc73ad-2077-486e-a2fd-510491856198",
       "detail": "O1:Can search and manipulate different types of data sources, including both structured and unstructured."
     },
     {
-      "skillId": "5635914e-a58c-45c4-bba3-053115066478",
+      "skillId": "cfec775c-dc08-433c-8040-0e892e634698",
       "detail": "O2:Works at any stage of the hardware solution lifecycle."
     },
     {
-      "skillId": "bc513e04-c19e-4c57-8a3c-56924a08e2b0",
+      "skillId": "9bef16e3-04e0-4933-a641-cbabf0981e3a",
       "detail": "O2:Undertakes maintenance of a range of contemporary or legacy hardware solutions to required levels of service."
     },
     {
-      "skillId": "5e926779-f3e8-4538-b99f-6ffb6ccb5a2d",
+      "skillId": "64c70639-ee52-4b96-8f73-8ac58692d358",
       "detail": "O2:Installs and configures basic hardware system components, networks and devices (including servers, end-user computers, and mobile devices, whether physical or virtual) as required."
     },
     {
-      "skillId": "3f0648ed-ce00-4b55-8d87-1d59e34df7f1",
+      "skillId": "35b1fa4b-9f3c-4285-836b-dc699b0a9d2e",
       "detail": "O2:Demonstrates safe application of the concepts of Electro Static Discharge (ESD) and meets appropriate health and safety standards when working with hardware"
     }
   ],
