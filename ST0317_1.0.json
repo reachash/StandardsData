@@ -56,31 +56,31 @@
     },
     {
       "knowledgeId": "af3c39ac-9137-43b2-8e11-b5191ee87809",
-      "detail": "O1: Understand the relevant tolerances for track installation, specific methods and techniques for track inspection, maintenance and replacement, what constitutes a track defect or variation, track work instructions, hot weather restrictions and extreme weather plans. "
+      "detail": "Understand the relevant tolerances for track installation, specific methods and techniques for track inspection, maintenance and replacement, what constitutes a track defect or variation, track work instructions, hot weather restrictions and extreme weather plans."
     },
     {
       "knowledgeId": "67cd193c-4ec5-4e6c-acad-a1c781d3c3e2",
-      "detail": "O2: Understand electrical and electronic principals. "
+      "detail": "Understand electrical and electronic principals."
     },
     {
       "knowledgeId": "5c58c139-20ec-4401-b9e2-5fa4d0262b34",
-      "detail": "O3: Understand mechanical principles and construction design."
+      "detail": "Understand mechanical principles and construction design."
     },
     {
       "knowledgeId": "59419d86-27c7-4b72-8f5e-5ee4f23f8619",
-      "detail": "O4: Understand function and characteristics of railway signalling systems, including electrical, electronic and mechanical principles."
+      "detail": "Understand function and characteristics of railway signalling systems, including electrical, electronic and mechanical principles."
     },
     {
       "knowledgeId": "1b72bbe2-8fb7-4119-8e34-4beb22e72660",
-      "detail": "O5: Understand principles of electronic devices, circuits, data and communications equipment."
+      "detail": "Understand principles of electronic devices, circuits, data and communications equipment."
     },
     {
       "knowledgeId": "ed1a9997-f027-4b61-8101-4509c8e570d1",
-      "detail": "O5: Understand the types of operational constraints when carrying out telecoms installation and maintenance activities."
+      "detail": "Understand the types of operational constraints when carrying out telecoms installation and maintenance activities."
     },
     {
       "knowledgeId": "ef397a89-1429-435c-ab90-228e14ca3a47",
-      "detail": "O6: Understand vehicle design, construction, maintenance and operation."
+      "detail": "Understand vehicle design, construction, maintenance and operation."
     }
   ],
   "behaviours": [
@@ -140,45 +140,45 @@
     },
     {
       "skillId": "5a1050d9-4e97-4799-8a5f-47ca23fbc713",
-      "detail": "O1: Able to restore track geometry faults by manual repair of assets as part of a team. "
+      "detail": "Able to restore track geometry faults by manual repair of assets as part of a team."
     },
     {
       "skillId": "815da1ba-ea92-48e0-910b-b2b75978161a",
-      "detail": "O1: Under direction, restore plain line track geometry, rail switches and crossings, and where appropriate conductor rail systems, to operational condition and maintain the track and its environment including vegetation and drainage."
+      "detail": "Under direction, restore plain line track geometry, rail switches and crossings, and where appropriate conductor rail systems, to operational condition and maintain the track and its environment including vegetation and drainage."
     },
     {
       "skillId": "be2da5e9-8ec2-4955-bb2b-2894e1a2a1f0",
-      "detail": "O2: Under direction: assist in maintenance and installation of railway electrification equipment and components; assist in isolation and earthing of electrical systems at different voltages and frequencies, working on live battery & inverter systems and maintaining substation plant."
+      "detail": "Under direction: assist in maintenance and installation of railway electrification equipment and components; assist in isolation and earthing of electrical systems at different voltages and frequencies, working on live battery & inverter systems and maintaining substation plant."
     },
     {
       "skillId": "26eed31b-aa91-4381-9513-a9fe82472fe3",
-      "detail": "O3: Follow instructions to assemble overhead line components in line with detailed specification, using lifting and access equipment while working at heights."
+      "detail": "Follow instructions to assemble overhead line components in line with detailed specification, using lifting and access equipment while working at heights."
     },
     {
       "skillId": "01891a7c-91ad-4f52-bb49-e4f7e751fbad",
-      "detail": "O4:  Under direction: install & wire signalling or control systems; install position and label equipment & components & cables correctly; undertake installation integrity checks; assist in testing of components & equipment in accordance with test specifications & plans; maintain and rectify signal control systems equipment."
+      "detail": "Under direction: install & wire signalling or control systems; install position and label equipment & components & cables correctly; undertake installation integrity checks; assist in testing of components & equipment in accordance with test specifications & plans; maintain and rectify signal control systems equipment."
     },
     {
       "skillId": "a897df5a-dc4c-4bcc-83fd-97220e9909cb",
-      "detail": "O5: Under direction undertake the activities of installation, planned preventative maintenance and maintenance testing activities on operational railway telecoms systems and establish compliance with drawings and specifications."
+      "detail": "Under direction undertake the activities of installation, planned preventative maintenance and maintenance testing activities on operational railway telecoms systems and establish compliance with drawings and specifications."
     },
     {
       "skillId": "5367862d-42f5-4908-b1f5-c2fc8567a412",
-      "detail": "O6: Under direction, carry out preventative and scheduled maintenance activities and follow vehicle maintenance instructions on T&RS mechanical, electrical, fluid power and electronic communication equipment including ensuring vehicle trim, ancillary equipment and fittings are secured and in good order, check subsystems are operating correctly."
+      "detail": "Under direction, carry out preventative and scheduled maintenance activities and follow vehicle maintenance instructions on T&RS mechanical, electrical, fluid power and electronic communication equipment including ensuring vehicle trim, ancillary equipment and fittings are secured and in good order, check subsystems are operating correctly."
     },
     {
       "skillId": "59595e2b-5cef-4e5a-8951-42b852770d7e",
-      "detail": "O6:  Assist with the installation of T&RS equipment."
+      "detail": "Assist with the installation of T&RS equipment."
     }
   ],
   "options": [],
   "optionsUnstructuredTemplate": [
+    "Track",
     "Electrification",
     "Overhead Lines",
     "Signalling",
     "Telecoms",
-    "Track Advanced Technician",
-    "Traction & Rolling Stock"
+    "Traction & Rolling Stock (T&RS)"
   ],
   "proposalApproved": "",
   "standardApproved": "",
@@ -220,45 +220,92 @@
   "optionsUnstructuredKsbMapping": [
     {
       "coreOrOptionTitle": "Core",
+      "mappedBehaviour": [
+        "4818d5c1-6158-4ffc-991a-80ab65378e3e",
+        "d86af1d5-0363-4f18-a8cf-a65c3d0449ce",
+        "6b97015e-cc5a-4466-90cd-ca11feb03b54",
+        "e271828a-80b6-4cd0-b9e2-c6e5df5c431f",
+        "fc2e86b2-9141-4f25-a493-a8c51dcd026b",
+        "f073567e-688a-4b7f-8246-d49fbe6af228",
+        "d12c5c25-d4f5-499d-bc46-7f609ef66efd"
+      ],
+      "mappedKnowledge": [
+        "0fb20437-8b97-4598-acfe-96b81ab87d99",
+        "922e9e3c-6438-4874-9564-2a99aaed916a",
+        "dd9f3fee-fbf3-4a25-a0a8-20375d8f1dc7",
+        "e34fa1fd-047a-4ec6-b08f-ae03d04b6950"
+      ],
+      "mappedSkills": [
+        "abec0789-ef28-4050-94f9-c980ed58d3cb",
+        "cb0b2671-77fc-4933-81bc-87d94e819604",
+        "d39e2328-8524-4de9-8063-c2052852f5a9",
+        "790724f4-b82c-400e-bbb6-022df435d46f",
+        "8a7cd427-5a59-45c1-a05f-f61c9a8537fb",
+        "6b815596-eeb9-48db-bbe2-4b1308bc118f"
+      ]
+    },
+    {
+      "coreOrOptionTitle": "Track",
       "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
+      "mappedKnowledge": [
+        "af3c39ac-9137-43b2-8e11-b5191ee87809"
+      ],
+      "mappedSkills": [
+        "5a1050d9-4e97-4799-8a5f-47ca23fbc713",
+        "815da1ba-ea92-48e0-910b-b2b75978161a"
+      ]
     },
     {
       "coreOrOptionTitle": "Electrification",
       "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
+      "mappedKnowledge": [
+        "67cd193c-4ec5-4e6c-acad-a1c781d3c3e2"
+      ],
+      "mappedSkills": [
+        "be2da5e9-8ec2-4955-bb2b-2894e1a2a1f0"
+      ]
     },
     {
       "coreOrOptionTitle": "Overhead Lines",
       "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
+      "mappedKnowledge": [
+        "5c58c139-20ec-4401-b9e2-5fa4d0262b34"
+      ],
+      "mappedSkills": [
+        "26eed31b-aa91-4381-9513-a9fe82472fe3"
+      ]
     },
     {
       "coreOrOptionTitle": "Signalling",
       "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
+      "mappedKnowledge": [
+        "59419d86-27c7-4b72-8f5e-5ee4f23f8619"
+      ],
+      "mappedSkills": [
+        "01891a7c-91ad-4f52-bb49-e4f7e751fbad"
+      ]
     },
     {
       "coreOrOptionTitle": "Telecoms",
       "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
+      "mappedKnowledge": [
+        "1b72bbe2-8fb7-4119-8e34-4beb22e72660",
+        "ed1a9997-f027-4b61-8101-4509c8e570d1"
+      ],
+      "mappedSkills": [
+        "a897df5a-dc4c-4bcc-83fd-97220e9909cb"
+      ]
     },
     {
-      "coreOrOptionTitle": "Track Advanced Technician",
+      "coreOrOptionTitle": "Traction & Rolling Stock (T&RS)",
       "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Traction & Rolling Stock",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
+      "mappedKnowledge": [
+        "ef397a89-1429-435c-ab90-228e14ca3a47"
+      ],
+      "mappedSkills": [
+        "5367862d-42f5-4908-b1f5-c2fc8567a412",
+        "59595e2b-5cef-4e5a-8951-42b852770d7e"
+      ]
     }
   ],
   "careerStarter": false
