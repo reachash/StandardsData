@@ -146,10 +146,7 @@
     }
   ],
   "options": [],
-  "optionsUnstructuredTemplate": [
-    "Installation Electrician",
-    "Maintenance Electrician"
-  ],
+  "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
   "epaApprovalDate": "",
@@ -169,7 +166,7 @@
   "involvedEmployers": "Institution of Englineering and Technology, Balfour Beatty, Barlows Electrical, Daly Limited, Darke & Taylor Ltd, Joint Industry Board for the Electrical Contracting Industry, National Grid, UPM Shotton Paper, SJD Assocatiates Ltd",
   "regulated": false,
   "regulatedBody": "",
-  "coreAndOptions": true,
+  "coreAndOptions": false,
   "typicalJobTitles": [
     "Installation Electrician",
     "Maintenance Electrician",
@@ -188,58 +185,6 @@
   "professionalRecognition": [],
   "duties": [],
   "regulationDetail": [],
-  "optionsUnstructuredKsbMapping": [
-    {
-      "coreOrOptionTitle": "Core",
-      "mappedBehaviour": [
-        "5987e691-8a22-41d9-ae03-f10c06f89f62",
-        "bac00fc6-a898-4076-a603-03cb92decdd0",
-        "c1646fcd-89b2-4805-9d43-8fbc3c52264b",
-        "622c9737-533a-4530-99aa-a74d9df475d0",
-        "3fa70979-ae13-4915-b0d1-eb637685141e",
-        "9a00567b-74f6-4cc7-bb4d-93196daa28ef",
-        "a60eb9a0-e58d-45ff-8261-83da05970d96",
-        "dc4b22f4-33f0-4e72-b739-9904f9698b9a"
-      ],
-      "mappedKnowledge": [
-        "a6fa1df9-7639-4521-ae4d-cf3dda788338",
-        "f81a1123-9ce1-4346-ad00-71aa13dfff72",
-        "5aa75da9-2e10-4fea-81e8-706877af9857",
-        "71869d05-4dda-461f-ada1-ead75c53d379",
-        "51d4ae47-3bb5-44d8-b59c-7f7eb6b93c49",
-        "76d8eaca-976e-4a52-a041-087f060a8b3f",
-        "2ce6ea95-6f71-4927-abf9-d9fd7dcac328"
-      ],
-      "mappedSkills": [
-        "59d49f9d-ef1d-4e81-a996-f61d4f8001b0",
-        "67ba19cf-c2e4-4483-9eab-45b4eade6801",
-        "e3c89d77-cf36-495f-99aa-34fe29f80fa4",
-        "c84cdaed-aedb-4700-8e11-49087d1ce019",
-        "3a1baefe-6400-428b-aac2-6c15f251a720",
-        "88beaf40-a5ef-467f-b325-15515ede0f8e",
-        "cc33acb7-694a-4bc4-88cb-02b810e16013"
-      ]
-    },
-    {
-      "coreOrOptionTitle": "Installation Electrician",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [
-        "221cad49-3491-4783-9a14-63885c6d216c"
-      ],
-      "mappedSkills": [
-        "46384dc6-81ab-45fb-9825-804dd8e63b38"
-      ]
-    },
-    {
-      "coreOrOptionTitle": "Maintenance Electrician",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [
-        "5dd7a117-78de-405b-964e-fb9a8884d49e"
-      ],
-      "mappedSkills": [
-        "3edfd886-b53d-4e7f-b46c-a98f250e02d4"
-      ]
-    }
-  ],
+  "optionsUnstructuredKsbMapping": [],
   "careerStarter": false
 }
