@@ -101,47 +101,47 @@
     },
     {
       "knowledgeId": "4167f3f9-5713-432b-987b-92bc8f62de3a",
-      "detail": "O1:The criteria used to determine the testing method(s) and equipment to be used."
+      "detail": "The criteria used to determine the testing method(s) and equipment to be used."
     },
     {
       "knowledgeId": "b62120f1-439b-4cd9-a2ac-6ac553d37876",
-      "detail": "O1: The principles of how to create and edit test scripts to ensure data obtained is valid and reliable"
+      "detail": "The principles of how to create and edit test scripts to ensure data obtained is valid and reliable"
     },
     {
       "knowledgeId": "79331f57-294a-49fe-a522-375dadb8301a",
-      "detail": "O1: The preparation and set up requirements of testing and data collection equipment/ancillary systems."
+      "detail": "The preparation and set up requirements of testing and data collection equipment/ancillary systems."
     },
     {
       "knowledgeId": "f030575d-bf29-4a31-b070-a539bb51de6d",
-      "detail": "O1:The preparation and set up requirements of propulsion units to be tested."
+      "detail": "The preparation and set up requirements of propulsion units to be tested."
     },
     {
       "knowledgeId": "0fcd5c5e-4bf7-4400-9e8c-1acdbd8365bb",
-      "detail": "O1:How to run and operate propulsion testing equipment effectively to ensure quality and consistent outcomes including understanding limits of adjustment and parameters for safe running and standardisation."
+      "detail": "How to run and operate propulsion testing equipment effectively to ensure quality and consistent outcomes including understanding limits of adjustment and parameters for safe running and standardisation."
     },
     {
       "knowledgeId": "40b30e9c-1bb3-4b64-bc06-d4671078b5b0",
-      "detail": "O1: The different types and purpose of the tests that can be carried out on propulsion units/systems being developed such as performance, emissions, climatic, noise, vibration, durability, mechanical, electrical and calibration"
+      "detail": "The different types and purpose of the tests that can be carried out on propulsion units/systems being developed such as performance, emissions, climatic, noise, vibration, durability, mechanical, electrical and calibration"
     },
     {
       "knowledgeId": "59343ff1-20e1-4c9c-95b6-8d79b60733b1",
-      "detail": "O2:The importance of ensuring that engines are not contaminated during the build and the implications for the quality of the development programme data if this is not adhered to"
+      "detail": "The importance of ensuring that engines are not contaminated during the build and the implications for the quality of the development programme data if this is not adhered to"
     },
     {
       "knowledgeId": "243d6366-930a-492c-be59-14576272f273",
-      "detail": "O2:The importance of adhering to the quality criteria such as setting working clearances and torque settings"
+      "detail": "The importance of adhering to the quality criteria such as setting working clearances and torque settings"
     },
     {
       "knowledgeId": "283cc992-5569-48f2-bf44-f4fc3de9ecf5",
-      "detail": "O2:The different fault diagnostic methods used, their application and selection"
+      "detail": "The different fault diagnostic methods used, their application and selection"
     },
     {
       "knowledgeId": "2b52e0ac-1240-4cd5-9ebb-2ed647aa53e0",
-      "detail": "O2:The methodologies used for part and product quality investigations"
+      "detail": "The methodologies used for part and product quality investigations"
     },
     {
       "knowledgeId": "1d914dff-f7f6-4281-b987-0a8c1a72c140",
-      "detail": "O2:How to validate tooling and build deviations and associated equipment and instrumentation"
+      "detail": "How to validate tooling and build deviations and associated equipment and instrumentation"
     }
   ],
   "behaviours": [
@@ -233,53 +233,53 @@
     },
     {
       "skillId": "d084f9f5-ac77-4cf1-baac-26ef924089d7",
-      "detail": "O1:Lead the preparation and installation activities for propulsion units under test"
+      "detail": "Lead the preparation and installation activities for propulsion units under test"
     },
     {
       "skillId": "d6e3411b-0758-4d95-a6ed-ae4a38a2b81e",
-      "detail": "O1:Lead the testing activity ensuring the test is carried out in line with manufacturer instructions and/or company standard operating procedures"
+      "detail": "Lead the testing activity ensuring the test is carried out in line with manufacturer instructions and/or company standard operating procedures"
     },
     {
       "skillId": "06f70b8c-c2b2-4817-ad08-034877255cae",
-      "detail": "O1:Check and monitor the test to ensure that it is carried out under the specified conditions set out in the test script/specification"
+      "detail": "Check and monitor the test to ensure that it is carried out under the specified conditions set out in the test script/specification"
     },
     {
       "skillId": "4d1397fd-c0bb-4db9-aa96-a8f16f8e6c09",
-      "detail": "O1: Ensure the servicing schedules and maintenance of propulsion testing equipment is carried out in line with manufacturer instructions and/or company standard operating procedures"
+      "detail": "Ensure the servicing schedules and maintenance of propulsion testing equipment is carried out in line with manufacturer instructions and/or company standard operating procedures"
     },
     {
       "skillId": "9d811150-66ab-47ae-9238-0de8afdfc529",
-      "detail": "O1: Lead the diagnosis and analysis of any faults found on propulsion units under test"
+      "detail": "Lead the diagnosis and analysis of any faults found on propulsion units under test"
     },
     {
       "skillId": "824d73c7-a2f8-47a4-beb7-9d9af344e7ea",
-      "detail": "O2:Check that all preparation activities to support the prototype engine build development programme have been carried out correctly"
+      "detail": "Check that all preparation activities to support the prototype engine build development programme have been carried out correctly"
     },
     {
       "skillId": "bb01795e-68ee-4978-b732-d35fa63a906b",
-      "detail": "O2:Ensure that the specified components are available for the build and that they are in a usable condition"
+      "detail": "Ensure that the specified components are available for the build and that they are in a usable condition"
     },
     {
       "skillId": "da452a3d-ff12-43f9-902e-16c59b561b8f",
-      "detail": "O2:Lead the build of the prototype/ development engine ensuring it has been built to the correct specification and is ready for testing"
+      "detail": "Lead the build of the prototype/ development engine ensuring it has been built to the correct specification and is ready for testing"
     },
     {
       "skillId": "952b86cc-2008-4f1c-a20c-f640489ed072",
-      "detail": "O2:Lead the diagnosis and analysis of any faults identified during the development engine build"
+      "detail": "Lead the diagnosis and analysis of any faults identified during the development engine build"
     },
     {
       "skillId": "fff71492-9dad-4012-9ac5-105c97763158",
-      "detail": "O2:Lead and support modification activities to improve engine build reliability and performance"
+      "detail": "Lead and support modification activities to improve engine build reliability and performance"
     },
     {
       "skillId": "bc681984-4bdf-4876-82e3-57359a0501f2",
-      "detail": "O2: Lead the validation process for tooling and build deviations and associated equipment/instrumentation"
+      "detail": "Lead the validation process for tooling and build deviations and associated equipment/instrumentation"
     }
   ],
   "options": [],
   "optionsUnstructuredTemplate": [
-    "Engine Build & Process Technician",
-    "Propulsion Test"
+    "Propulsion Test",
+    "Engine Build & Process Technician"
   ],
   "proposalApproved": "",
   "standardApproved": "",
@@ -325,21 +325,86 @@
   "optionsUnstructuredKsbMapping": [
     {
       "coreOrOptionTitle": "Core",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Engine Build & Process Technician",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
+      "mappedBehaviour": [
+        "f5eafe89-78e2-436a-a02c-916eb114a0c0",
+        "d5035b97-c741-4bc1-bb95-d9a74baa9ec9",
+        "3ba78351-1281-4240-8e2b-eb7bdd7792cb",
+        "4451d025-1bb7-4ae0-9c62-66dd0e88e984",
+        "1af4839d-1ee5-4d91-97d0-bf3b79bfdeb0"
+      ],
+      "mappedKnowledge": [
+        "a8c694ff-1933-454d-8f17-9c74a1e070d4",
+        "d92d6940-40f7-404c-9221-62ba59d59256",
+        "278c1f9f-7c37-4814-8130-c7d950fe2065",
+        "c9bf762c-4e08-4bc3-818c-a41a64e6549f",
+        "314b02a5-2f3e-46cd-9e03-105d9c0ae92d",
+        "2c436a0e-c738-4a71-932f-954e0d180c24",
+        "027cb6bd-f6b7-428b-965c-8e2e1beb53dd",
+        "defd4b5a-9d82-4b7e-86d5-4d4ff71c4c46",
+        "7781e92d-6ba6-484f-8004-041f3a376d77",
+        "cf18787c-7680-4f74-9f55-337ebb03ec6f",
+        "106076a1-773a-4795-8556-8d41c8dee256",
+        "62bb77c3-1640-44c0-a62f-2b18f3fff164",
+        "05e1185b-3b60-4699-b6c5-2d80aa3bf30f",
+        "5ae6040a-6991-4366-b2ba-d61dd425e479",
+        "adc420a5-594b-468f-8ddf-c464bcb58edd"
+      ],
+      "mappedSkills": [
+        "47e6ceed-897b-4622-81d1-68cb16f45fcf",
+        "70224dcc-d937-40bc-9584-792ab0a44961",
+        "59de09dc-feb0-4609-bc58-7643d3842ebd",
+        "95af0140-480e-4215-9003-ca9b0a2ac40e",
+        "ca56075c-d7e2-449a-879e-78e815c579f7",
+        "5d59d004-75f6-45a2-a439-09e5ad70a7f3",
+        "2d4da39c-8229-4a03-90c3-9a099dce2eae",
+        "645c9bb4-3833-45b2-a6ec-82156de69a38",
+        "1ed4a460-bf9d-4cfd-abd3-311ee1aa4769",
+        "84450b1b-2cc0-448c-8aed-d242d9020a87",
+        "7cceb87e-17f9-46eb-b5fd-37b2f3fe071e",
+        "a578845d-cc20-4bd7-b96a-82247547486c",
+        "9af49592-42e7-4b14-b59d-737d0dc4f055",
+        "2d39fada-d3a1-40cd-a06b-6d705cc180a2",
+        "20ace238-519f-43e4-8ec8-86320c9e199a",
+        "10a79546-6cc2-4326-8ee4-f09a17944440"
+      ]
     },
     {
       "coreOrOptionTitle": "Propulsion Test",
       "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
+      "mappedKnowledge": [
+        "4167f3f9-5713-432b-987b-92bc8f62de3a",
+        "b62120f1-439b-4cd9-a2ac-6ac553d37876",
+        "79331f57-294a-49fe-a522-375dadb8301a",
+        "f030575d-bf29-4a31-b070-a539bb51de6d",
+        "0fcd5c5e-4bf7-4400-9e8c-1acdbd8365bb",
+        "40b30e9c-1bb3-4b64-bc06-d4671078b5b0"
+      ],
+      "mappedSkills": [
+        "d084f9f5-ac77-4cf1-baac-26ef924089d7",
+        "d6e3411b-0758-4d95-a6ed-ae4a38a2b81e",
+        "06f70b8c-c2b2-4817-ad08-034877255cae",
+        "4d1397fd-c0bb-4db9-aa96-a8f16f8e6c09",
+        "9d811150-66ab-47ae-9238-0de8afdfc529"
+      ]
+    },
+    {
+      "coreOrOptionTitle": "Engine Build & Process Technician",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "59343ff1-20e1-4c9c-95b6-8d79b60733b1",
+        "243d6366-930a-492c-be59-14576272f273",
+        "283cc992-5569-48f2-bf44-f4fc3de9ecf5",
+        "2b52e0ac-1240-4cd5-9ebb-2ed647aa53e0",
+        "1d914dff-f7f6-4281-b987-0a8c1a72c140"
+      ],
+      "mappedSkills": [
+        "824d73c7-a2f8-47a4-beb7-9d9af344e7ea",
+        "bb01795e-68ee-4978-b732-d35fa63a906b",
+        "da452a3d-ff12-43f9-902e-16c59b561b8f",
+        "952b86cc-2008-4f1c-a20c-f640489ed072",
+        "fff71492-9dad-4012-9ac5-105c97763158",
+        "bc681984-4bdf-4876-82e3-57359a0501f2"
+      ]
     }
   ],
   "careerStarter": false
