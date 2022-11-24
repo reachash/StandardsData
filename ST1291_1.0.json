@@ -435,13 +435,7 @@
       "title": "Wastewater treatment process technician"
     }
   ],
-  "optionsUnstructuredTemplate": [
-    "Waste Water: Sewerage Network Technician",
-    "Waste Water: Treatment Technician",
-    "Water Distribution: Leakage Technician",
-    "Water Distribution: Network Technician",
-    "Water Treatment: Process Technician"
-  ],
+  "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
   "epaApprovalDate": "",
@@ -453,7 +447,7 @@
     "contactEmail": "public.enquiries@ofqual.gov.uk",
     "webLink": "https://www.gov.uk/government/organisations/ofqual"
   },
-  "approvedForDelivery": "2015-08-27T00:00:00 +00:00",
+  "approvedForDelivery": "2022-09-13T00:00:00 +00:00",
   "integratedApprenticeship": false,
   "integratedDegree": "",
   "tbReference": "TB0675",
@@ -481,7 +475,7 @@
     "Wastewater treatment process technician"
   ],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": "<p><span>This apprenticeship standard will be reviewed after three years</span></p>",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Manufacturing/Process Maintenance Operative/Technician",
   "createdDate": "2022-10-17T13:11:16 +00:00",
@@ -1880,43 +1874,6 @@
     }
   ],
   "regulationDetail": [],
-  "optionsUnstructuredKsbMapping": [
-    {
-      "coreOrOptionTitle": "Core",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Waste Water: Sewerage Network Technician",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Waste Water: Treatment Technician",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Water Distribution: Leakage Technician",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Water Distribution: Network Technician",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Water Treatment: Process Technician",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    }
-  ],
+  "optionsUnstructuredKsbMapping": [],
   "careerStarter": false
 }
