@@ -6,9 +6,9 @@
   "status": "Approved for delivery",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/16",
   "versionNumber": "1.1",
-  "change": "",
+  "change": "Funding, standard and end-point assessment plan revised",
   "changedDate": "2022-10-17T00:00:00",
-  "earliestStartDate": "2014-12-09T00:00:00",
+  "earliestStartDate": "2022-07-04T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Maintaining machinery and equipment in the food and drinks industry, finding and resolving faults, to optimise production levels.",
@@ -385,10 +385,7 @@
     }
   ],
   "options": [],
-  "optionsUnstructuredTemplate": [
-    "Mechanical Maintenance Engineer",
-    "Multi-skilled Maintenance Engineer"
-  ],
+  "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
   "epaApprovalDate": "",
@@ -415,10 +412,10 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": "<p><span>This apprenticeship standard will be reviewed after three years</span></p>",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Manufacturing/Process Maintenance Operative/Technician",
-  "createdDate": "2022-10-17T15:10:28 +00:00",
+  "createdDate": "2022-10-28T09:39:57 +00:00",
   "lastUpdated": "2022-10-17T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/food-and-drink-maintenance-engineer-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/food-and-drink-maintenance-engineer-v1-1",
@@ -1279,25 +1276,6 @@
     }
   ],
   "regulationDetail": [],
-  "optionsUnstructuredKsbMapping": [
-    {
-      "coreOrOptionTitle": "Core",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Mechanical Maintenance Engineer",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Multi-skilled Maintenance Engineer",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    }
-  ],
+  "optionsUnstructuredKsbMapping": [],
   "careerStarter": false
 }
