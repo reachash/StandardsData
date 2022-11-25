@@ -6,9 +6,9 @@
   "status": "Approved for delivery",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/523",
   "versionNumber": "1.1",
-  "change": "Standard revised",
-  "changedDate": "2022-10-14T00:00:00",
-  "earliestStartDate": "2022-10-14T00:00:00",
+  "change": "End point assessment and standard revised.",
+  "changedDate": "2022-11-24T00:00:00",
+  "earliestStartDate": "2022-11-24T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing specialist technical support for engineers.",
@@ -24,23 +24,23 @@
     "technician"
   ],
   "jobRoles": [
-    "Manufacturing Engineer Quality",
-    "Manufacturing Production Engineer",
-    "Manufacturing Procurement Engineer",
-    "Quality Engineer",
-    "Costing Engineer",
-    "Test and Commissioning Engineer",
-    "Installation Engineer",
-    "Process Engineer",
-    "Production Support Engineer"
+    "Costing engineer",
+    "Installation engineer",
+    "Manufacturing procurement engineer",
+    "Manufacturing production engineer",
+    "Manufacturing quality engineer",
+    "Process engineer",
+    "Production support engineer",
+    "Quality engineer",
+    "Test and commissioning engineer"
   ],
-  "entryRequirements": "&lt;p&gt;&lt;span&gt;Individual employers will set the selection criteria for their Apprenticeships. In order to optimise success candidates will typically have 5 GCSE&#39;s at Grade C ( Grade 4/5 in the new numerical GCSE grading system) or above, including Mathematics, English and a Science, Technology or Engineering related subject, or 90+ credits in an Engineering BTEC at level 3. *(As further guidance, the level of Mathematics has an advisory GCSE level of grade B (Grade 5/6 in the new numerical GCSE grading system).&lt;/span&gt;&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4055/st0841_engineering-manufacturing-technician_l4_ap-for-publication_050320.pdf",
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/6686/st0841_engineering_manufacturing-technician_l4_ap_141122_for_publication.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.1",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in large and small engineering and manufacturing organisations providing products and services throughout a wide range of sectors, such as Automotive, Aerospace/Airworthiness, Chemical Processing, Land Systems, Marine, Maritime Defence, Materials Manufacturers and their respective supply chains. Research indicates that the sector needs to recruit approximately 124,000 engineers and technicians every year.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to provide specialist technical support for engineers, so that organisations can develop, produce or test new/existing products, processes, or procedures to meet a customer specification in terms of quality, cost and delivery, as efficiently and effectively as possible.&#160; Engineering Manufacturing Technicians gather information and data from a range of sources and analyse the information/data. They will make decisions, solve problems and produce and/or update technical documentation, reports or specifications covering areas such as quality, reliability, production schedules/targets, costing or other technical documentation that informs others, either internally or externally what needs to be done such as how a product must be designed, manufactured, tested, modified, maintained, stored, transported, commissioned or decommissioned.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with their line manager to confirm departmental programmes of work and to agree individual responsibilities. This in turn will align to an overarching organisational resource and delivery plan. Engineering Manufacturing&#160; Technicians can be office based, manufacturing/plant based or more commonly combination of both, working with engineering and/or manufacturing teams at an operational level such as with production team leaders and/or management level working with specialist quality or design engineers. As well as liaising with internal colleagues, they may also be responsible for working directly with customers and/or suppliers or with representatives from appropriate regulatory bodies. Typically this would involve interaction with auditors to demonstrate compliance to specific organisational or regulatory requirements (such as Civil Aviation Authority).Their time will be spent between working in an office environment and working in the manufacturing environment or visiting customers or suppliers as and when required.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for the quality, safety and delivery of the manufactured product or service, ensuring it is delivered to the customer on time at the agreed cost. They will typically report to an engineering or manufacturing manager as part of a cross functional team, the size of this team and responsibilities will vary depending on the size of the employer. Although working within defined quality processes and procedures, they are responsible for the delivery, quality and accuracy of the work they complete. They have the autonomy to use judgement when undertaking the occupational duties and applying their technical knowledge, skills and behaviours in a wide range of contexts and environments. They use a range of tools and techniques to support decision making and solve problems that are often complex and non-routine. They also have a responsibility to identify and contribute to making improvements such as business processes, procedures, ways and methods of working.&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in large and small engineering and manufacturing organisations providing products and services throughout a wide range of sectors, such as Automotive, Aerospace and Airworthiness, Chemical Processing, Land Systems, Marine, Maritime Defence, Materials Manufacturers and their respective supply chains. Research indicates that the sector needs to recruit approximately 124,000 engineers and technicians every year.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to provide specialist technical support for engineers, so that organisations can develop, produce or test new and existing products, processes, or procedures to meet a customer specification in terms of quality, cost and delivery, as efficiently and effectively as possible.&#160; Engineering Manufacturing Technicians gather information and data from a range of sources and analyse the information and data. They will make decisions, solve problems and produce and where applicable, update technical documentation, reports or specifications covering areas such as quality, reliability, production schedules and targets, costing or other technical documentation that informs others, either internally or externally what needs to be done such as how a product must be designed, manufactured, tested, modified, maintained, stored, transported, commissioned or decommissioned.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with their line manager to confirm departmental programmes of work and to agree individual responsibilities. This in turn will align to an overarching organisational resource and delivery plan. Engineering Manufacturing&#160; Technicians can be office based, manufacturing or plant based or more commonly combination of both, working with engineering or manufacturing teams at an operational level such as with production team leaders or management level working with specialist quality or design engineers. As well as liaising with internal colleagues, they may also be responsible for working directly with customers and suppliers or with representatives from appropriate regulatory bodies. Typically this would involve interaction with auditors to demonstrate compliance to specific organisational or regulatory requirements (such as Civil Aviation Authority). Their time will be spent between working in an office environment and working in the manufacturing environment or visiting customers or suppliers as and when required.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for the quality, safety and delivery of the manufactured product or service, ensuring it is delivered to the customer on time at the agreed cost. They will typically report to an engineering or manufacturing manager as part of a cross functional team, the size of this team and responsibilities will vary depending on the size of the employer. Although working within defined quality processes and procedures, they are responsible for the delivery, quality and accuracy of the work they complete. They have the autonomy to use judgement when undertaking the occupational duties and applying their technical knowledge, skills and behaviours in a wide range of contexts and environments. They use a range of tools and techniques to support decision making and solve problems that are often complex and non-routine. They also have a responsibility to identify and contribute to making improvements such as business processes, procedures, ways and methods of working.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "054de7be-32fc-4578-8e81-37a56a559e68",
@@ -96,7 +96,7 @@
     },
     {
       "knowledgeId": "e0e3af61-793a-4950-8ffd-2ed4ae1e5a70",
-      "detail": "Engineering and manufacturing related documentation used such as job cards / build records, 2D & 3D drawing/models, Bill of Materials (BOM), Cost Analysis Reports, Compliance\u00A0 Report, Standard Operating Instructions (SOI's), Standard Process Instructions (POI's), Engineering Query Notifications (EQN's) and Drawing Query Notifications (DQN's)."
+      "detail": "Engineering and manufacturing related documentation used such as job cards/build records, 2D and 3D drawings/models, Bill of Materials (BOM), Cost Analysis Reports, Compliance\u00A0 Report, Standard Operating Instructions (SOI's), Standard Process Instructions (POI's), Engineering Query Notifications (EQN's) and Drawing Query Notifications (DQN's)."
     },
     {
       "knowledgeId": "c3da751e-a23c-489d-88f3-374f97ae5ecb",
@@ -128,7 +128,7 @@
     },
     {
       "knowledgeId": "60840f61-b820-49be-bd1b-fb94492f9f09",
-      "detail": "The different applications and limitations of computer based software system/packages used such as Computer Aided Design (CAD), Data Analytics and Databases."
+      "detail": "The different applications and limitations of computer based software systems/packages used such as Computer Aided Design (CAD), Data Analytics and Databases."
     },
     {
       "knowledgeId": "16ad2d89-b2f3-4188-b767-32693aa09505",
@@ -154,7 +154,7 @@
     },
     {
       "behaviourId": "f0425d45-fe46-446e-abb1-58592a6f2652",
-      "detail": "Complies with statutory and organisational health & safety regulations and policies at all times. Accepts responsibility for their workload with a responsible approach to risk. Demonstrates a high level of motivation and resilience when facing challenge."
+      "detail": "Complies with statutory and organisational health and safety regulations and policies at all times. Accepts responsibility for their workload with a responsible approach to risk. Demonstrates a high level of motivation and resilience when facing challenge."
     },
     {
       "behaviourId": "281fece1-52f4-4629-89d1-be5e46a7ac3f",
@@ -168,7 +168,7 @@
   "skills": [
     {
       "skillId": "b022290c-6890-4bfd-9053-fd1db2f0b910",
-      "detail": "Read and extract relevant engineering and manufacturing related data and information (such as workplans/project plans ,schedules,\u00A0 drawings, specifications, production data, quality reports, costing data, statistical information) drawing accurate conclusions and making informed decisions."
+      "detail": "Read and extract relevant engineering and manufacturing related data and information (such as workplans/project plans, schedules,\u00A0 drawings, specifications, production data, quality reports, costing data, statistical information) drawing accurate conclusions and making informed decisions."
     },
     {
       "skillId": "e4ecae5c-e860-4896-8af6-5be8b1b5509d",
@@ -204,7 +204,7 @@
     },
     {
       "skillId": "7ed9a152-a0d0-4226-988a-0e237e3a739e",
-      "detail": "Use computer based software system/packages such as Computer Aided Design (CAD), Data Analytics and Databases."
+      "detail": "Use computer based software systems/packages such as Computer Aided Design (CAD), Data Analytics and Databases."
     }
   ],
   "options": [],
@@ -230,23 +230,23 @@
   "regulatedBody": "",
   "coreAndOptions": false,
   "typicalJobTitles": [
-    "Manufacturing Engineer Quality",
-    "Manufacturing Production Engineer",
-    "Manufacturing Procurement Engineer",
-    "Quality Engineer",
-    "Costing Engineer",
-    "Test and Commissioning Engineer",
-    "Installation Engineer",
-    "Process Engineer",
-    "Production Support Engineer"
+    "Costing engineer",
+    "Installation engineer",
+    "Manufacturing procurement engineer",
+    "Manufacturing production engineer",
+    "Manufacturing quality engineer",
+    "Process engineer",
+    "Production support engineer",
+    "Quality engineer",
+    "Test and commissioning engineer"
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Technical Manager",
-  "createdDate": "2022-10-10T09:22:03 +00:00",
-  "lastUpdated": "2022-10-14T00:00:00 +00:00",
+  "createdDate": "2022-11-24T15:24:54 +00:00",
+  "lastUpdated": "2022-11-24T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/engineering-manufacturing-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/engineering-manufacturing-technician-v1-1",
   "qualifications": [
@@ -254,7 +254,7 @@
       "qualificationId": "9de13b58-baf2-48c5-974d-3b44bf22af61",
       "title": "L4 HNC in Engineering or Manufacturing disciplines that fully align with the KSBs of the standard.",
       "level": "4",
-      "anyAdditionalInformation": "Aerospace sector:\nIn addition, those undertaking this apprentice in the aerospace sector must undertake the additional qualifications listed below in order to meet the Civil Aviation (CAA) requirements"
+      "anyAdditionalInformation": "Aerospace sector:In addition, those undertaking this apprentice in the aerospace sector must undertake the additional qualifications listed below in order to meet the Civil Aviation (CAA) requirements"
     },
     {
       "qualificationId": "a1b5c2e4-d90f-47fb-9c9d-d4f7491c1268",
@@ -271,20 +271,20 @@
   ],
   "professionalRecognition": [
     {
-      "bodyName": "Eng Tech",
-      "level": "Eng Tech",
+      "bodyName": "Engineering Council for Engineering Technician (EngTech)",
+      "level": "Engineering Technician",
       "isPartial": "full",
       "partialFreeText": ""
     },
     {
-      "bodyName": "IMechE",
-      "level": "Eng Tech",
+      "bodyName": "Institution of Mechanical Engineers (IMechE)",
+      "level": "Engineering Technician",
       "isPartial": "full",
       "partialFreeText": ""
     },
     {
       "bodyName": "Royal Aeronautical Society",
-      "level": "Eng Tech",
+      "level": "Engineering Technician",
       "isPartial": "full",
       "partialFreeText": ""
     }
@@ -349,7 +349,7 @@
     },
     {
       "dutyID": "c0ce5cec-4cad-4021-a507-58b07ef72beb",
-      "dutyDetail": "Manage internal and/or Supplier Quality Notifications, and liaison with the required stakeholders for resolution.",
+      "dutyDetail": "Manage internal or Supplier Quality Notifications, and liaison with the required stakeholders for resolution.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "13455879-cd12-4376-870d-0c13e154294f",
@@ -430,7 +430,7 @@
     },
     {
       "dutyID": "a6cfa7bf-7c2f-4997-9a4b-ccc56e9fadf9",
-      "dutyDetail": "Carry out new product introduction and/or existing product modifications within engineering and/or manufacturing by contributing to activities such as facilitation of quality activities (including any testing and/or commissioning requirements), supplier approvals, gate reviews.",
+      "dutyDetail": "Carry out new product introduction or existing product modifications within engineering or manufacturing by contributing to activities such as facilitation of quality activities (including any testing or commissioning requirements), supplier approvals, gate reviews.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "13455879-cd12-4376-870d-0c13e154294f",
@@ -478,7 +478,7 @@
     },
     {
       "dutyID": "2b4998e4-ddbd-4e9e-bfcf-bc3226baffef",
-      "dutyDetail": "Deliver financial planning or costing analysis such as:- estimation of costs for manufacture, supplying drawings or specification for quotations, obtaining manufacture quotes, calculating costs associated with quality problem or\u00A0 machine downtime.",
+      "dutyDetail": "Deliver financial planning or costing analysis such as:- estimation of costs for manufacture, supplying drawings or specification for quotations, obtaining manufacture quotes, calculating costs associated with quality problem or\u00A0machine downtime.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "13455879-cd12-4376-870d-0c13e154294f",
@@ -521,7 +521,7 @@
     },
     {
       "dutyID": "578936f1-9386-419f-8b36-00716bf806ae",
-      "dutyDetail": "Develop new technology initiatives by contributing to activities such as, justifying capital investment equipment/system upgrades from purchase through to installation and commissioning.",
+      "dutyDetail": "Develop new technology initiatives by contributing to activities such as, justifying capital investment equipment and system upgrades from purchase through to installation and commissioning.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "13455879-cd12-4376-870d-0c13e154294f",
@@ -686,7 +686,7 @@
     },
     {
       "dutyID": "8982534e-714c-4fce-bff0-58ac7564e8c2",
-      "dutyDetail": "Ensure work process and outcomes comply with any local, national and or international regulatory or compliance requirements. Such as :- maintain\u00A0 compliance to Aerospace Regulatory bodies (CAA, EASA,MAA) as well as the wider regulations (such as Anti Bribery and Corruption, Export Control).",
+      "dutyDetail": "Ensure work process and outcomes comply with any local, national or international regulatory or compliance requirements. Such as :- maintain\u00A0 compliance to Aerospace Regulatory bodies (CAA, EASA,MAA) as well as the wider regulations (such as Anti Bribery and Corruption, Export Control).",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "13455879-cd12-4376-870d-0c13e154294f",
@@ -716,7 +716,7 @@
     },
     {
       "dutyID": "d5950a02-1615-400b-91f1-fdd83ab21765",
-      "dutyDetail": "Resolve identified engineering and/or manufacturing problems such as:- contributing to the route cause analysis exercise applying appropriate levels of containment and corrective action.",
+      "dutyDetail": "Resolve identified engineering or manufacturing problems such as:- contributing to the route cause analysis exercise applying appropriate levels of containment and corrective action.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "aa56d651-c5ec-4423-b228-22f04b518ed0",
@@ -748,7 +748,7 @@
     },
     {
       "dutyID": "db1e2cb8-f510-4dc8-941d-2f202eb79b3a",
-      "dutyDetail": "Produce engineering and/or manufacturing documentation (such as:- Build Manuals, Standard Operating Instructions/processes, Bill of Materials) to aid and ensure consistent, compliant and cost effective manufacturing processes.",
+      "dutyDetail": "Produce engineering or manufacturing documentation (such as:- Build Manuals, Standard Operating Instructions and processes, Bill of Materials) to aid and ensure consistent, compliant and cost effective manufacturing processes.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "aa56d651-c5ec-4423-b228-22f04b518ed0",
@@ -771,7 +771,7 @@
     },
     {
       "dutyID": "657431c6-1e65-4dc3-849a-db978f937a43",
-      "dutyDetail": "Review engineering or manufacturing methods to determine the most effective and economical method whilst meeting drawing/specification requirements.",
+      "dutyDetail": "Review engineering or manufacturing methods to determine the most effective and economical method whilst meeting drawing and specification requirements.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "aa56d651-c5ec-4423-b228-22f04b518ed0",
