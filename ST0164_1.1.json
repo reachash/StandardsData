@@ -247,7 +247,28 @@
       "detail": "Communicate and co-ordinate engineering design options with relevant stakeholders, colleagues and clients using sketches, schemes, models, detailed drawings and reports"
     }
   ],
-  "options": [],
+  "options": [
+    {
+      "optionId": "c7ff7470-0e59-48d5-9cda-d9341a3459b3",
+      "title": "Electrical"
+    },
+    {
+      "optionId": "87fefffb-7f7a-4b13-9967-baf7d65937cf",
+      "title": "Control & Instrumentation"
+    },
+    {
+      "optionId": "251528aa-0951-4905-b83e-a16a03d24f60",
+      "title": "Mechanical"
+    },
+    {
+      "optionId": "20a79023-bf44-4608-aa49-0b2762693c36",
+      "title": "Piping"
+    },
+    {
+      "optionId": "3e7591ba-0106-486d-b029-7a3fe2e9930a",
+      "title": "Structural"
+    }
+  ],
   "optionsUnstructuredTemplate": [
     "Electrical",
     "Control & Instrumentation",
