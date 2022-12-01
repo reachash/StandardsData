@@ -7,7 +7,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/315",
   "versionNumber": "1.3",
   "change": "End-point assessment plan revised",
-  "changedDate": "2022-09-23T00:00:00",
+  "changedDate": "2022-11-30T00:00:00",
   "earliestStartDate": "2022-09-23T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -676,10 +676,6 @@
       "detail": "Clean equipment using high pressure water jets and refuel equipment from static and mobile sources"
     },
     {
-      "skillId": "1f9d2746-9b1f-4338-9fa2-e29658299d14",
-      "detail": "Carry out compaction task using Engineer Construction Plant"
-    },
-    {
       "skillId": "6ae15148-ab5d-4f03-aa2c-391dc1ea49b8",
       "detail": "Manoeuvre the Light Dump Truck on a construction site"
     },
@@ -744,7 +740,7 @@
   "pathway": "Onsite Construction",
   "cluster": "Core Building Tradesperson",
   "createdDate": "2020-11-18T16:47:40 +00:00",
-  "lastUpdated": "2022-09-23T00:00:00 +00:00",
+  "lastUpdated": "2022-11-30T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/military-engineering-construction-technician-v1-3?view=standard#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/military-engineering-construction-technician-v1-3",
   "qualifications": [],
