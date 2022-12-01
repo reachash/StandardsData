@@ -762,7 +762,60 @@
       "detail": "check and calibrate control and test equipment used in an engineering and/or manufacturing environment"
     }
   ],
-  "options": [],
+  "options": [
+    {
+      "optionId": "607ba23c-e869-43ed-9131-a23e6ab37180",
+      "title": "Aerospace Manufacturing Fitter"
+    },
+    {
+      "optionId": "d8662553-1803-4683-a0c5-49768a8ee729",
+      "title": "Aerospace Manufacturing Electrical / Mechanical & Systems Fitter"
+    },
+    {
+      "optionId": "593feb49-ca8d-403d-b4fc-26650576a5ec",
+      "title": "Aircraft Maintenance Fitter/Technician (Fixed & Rotary Wing)"
+    },
+    {
+      "optionId": "bd7da857-8efe-4d51-9fb0-b937d094f7c9",
+      "title": "Airworthiness, Planning, Quality & Safety Technician"
+    },
+    {
+      "optionId": "269e9fe3-082c-4f15-a05f-9fe07744efa7",
+      "title": "Maritime Electrical Fitter"
+    },
+    {
+      "optionId": "077047c6-4d24-4a61-8a84-12dba352bb0a",
+      "title": "Maritime Mechanical Fitter"
+    },
+    {
+      "optionId": "bdf5921c-8da3-4914-a04b-9ed07ed288de",
+      "title": "Maritime Fabricator"
+    },
+    {
+      "optionId": "ecb2eedf-d7f5-41e8-9fff-2acd69da120b",
+      "title": "Maritime Pipeworker"
+    },
+    {
+      "optionId": "ef05cb80-4367-4610-bc6b-12d5928454d6",
+      "title": "Machinist - Advanced Manufacturing Engineering"
+    },
+    {
+      "optionId": "3e8ddc53-ed8e-4409-87b7-8d79e2ab7920",
+      "title": "Mechatronics Maintenance Technician"
+    },
+    {
+      "optionId": "629e2b33-0089-42b7-8d3c-a0af43e13649",
+      "title": "Product Design & Development Technician"
+    },
+    {
+      "optionId": "2aec4318-f946-44cb-afc0-b8d54f6135e4",
+      "title": "Toolmaker & Tool & Die Maintenance Technician"
+    },
+    {
+      "optionId": "ee4ff555-7539-4e3e-a52b-369e57919f21",
+      "title": "Technical Support Technician"
+    }
+  ],
   "optionsUnstructuredTemplate": [
     "Aerospace Manufacturing Fitter",
     "Aerospace Manufacturing Electrical / Mechanical & Systems Fitter",
