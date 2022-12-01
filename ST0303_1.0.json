@@ -147,7 +147,24 @@
       "detail": "Select, install, test, commission, service and maintain solar thermal, heat pumps and water recycling systems"
     }
   ],
-  "options": [],
+  "options": [
+    {
+      "optionId": "34bab651-6ee2-492d-b9a8-077ed9530633",
+      "title": "Environmental Technologies"
+    },
+    {
+      "optionId": "cfcee13e-3161-40af-9517-3202127eb8ee",
+      "title": "Fossil Fuel - Natural Gas"
+    },
+    {
+      "optionId": "ff7364fd-7000-43d9-80eb-a075de5f101a",
+      "title": "Fossil Fuel - Oil"
+    },
+    {
+      "optionId": "ee41a351-99d6-42b1-8123-32427bff5cd3",
+      "title": "Fossil Fuel - Solid Fuel"
+    }
+  ],
   "optionsUnstructuredTemplate": [
     "Environmental Technologies",
     "Fossil Fuel - Natural Gas",
@@ -259,5 +276,5 @@
       ]
     }
   ],
-  "careerStarter": false
+  "careerStarter": true
 }
