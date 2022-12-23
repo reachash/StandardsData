@@ -168,7 +168,13 @@
   "standardApproved": "",
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
+  "eQAProvider": {
+    "providerName": "Office for Students",
+    "contactName": "Rob Stroud, Interim Director – Quality Assessment, England",
+    "contactAddress": "Southgate House, Southgate Street, Gloucester, GL1 1UB",
+    "contactEmail": "QAE@QAA.ac.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
+  },
   "approvedForDelivery": "",
   "integratedApprenticeship": null,
   "integratedDegree": "integrated degree",
