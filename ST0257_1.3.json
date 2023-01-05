@@ -7,7 +7,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/110",
   "versionNumber": "1.3",
   "change": "End-point assessment plan revised.",
-  "changedDate": "2022-11-28T00:00:00",
+  "changedDate": "2023-01-04T00:00:00",
   "earliestStartDate": "2022-11-28T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -228,11 +228,11 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "National Skills Academy for Rail (NSAR)",
-    "contactName": "Barry Smith",
-    "contactAddress": "NSAR Ltd<br>11 Carteret Street<br>London<br>SW1H 9DJ",
-    "contactEmail": "Barry.smith@nsar.co.uk",
-    "webLink": "https://www.nsar.co.uk/"
+    "providerName": "Ofqual",
+    "contactName": "Claire Gill / Steve Walker",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/ofqual"
   },
   "approvedForDelivery": "2016-06-24T00:00:00 +00:00",
   "integratedApprenticeship": false,
@@ -256,7 +256,7 @@
   "pathway": "Transport",
   "cluster": "Driver/Crewmember",
   "createdDate": "2022-11-28T15:21:00 +00:00",
-  "lastUpdated": "2022-11-28T00:00:00 +00:00",
+  "lastUpdated": "2023-01-04T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/large-goods-vehicle-lgv-driver-c-plus-e-v1-3?view=standard#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/large-goods-vehicle-lgv-driver-c-plus-e-v1-3",
   "qualifications": [
