@@ -1,5 +1,5 @@
 {
-  "templateType": "Structured Apprenticeship Standard",
+  "templateType": "Occupational Standard",
   "larsCode": 0,
   "referenceNumber": "ST0919",
   "title": "Craft assistant",
@@ -7,11 +7,11 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
   "versionNumber": "",
   "change": "",
-  "changedDate": "2022-02-25T00:00:00",
+  "changedDate": "2023-01-27T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Craft assistants make, service, restore and/or conserve individual hand-crafted items",
   "level": 3,
   "typicalDuration": 18,
   "maxFunding": 0,
@@ -27,264 +27,267 @@
     "Assistant maker",
     "Craft technician",
     "Design assistant",
-    "For example ceramics technician.",
+    "Ceramics technician",
     "Junior craft practitioner",
     "Studio assistant",
-    "These titles sometimes include direct reference to the specific craft that the ca is working in",
     "Workshop technician"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
-  "ssa1": "",
-  "ssa2": "",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/craft-assistant?view=epa",
+  "ssa1": "9 Arts, Media and Publishing",
+  "ssa2": "9.2 Crafts, creative arts and design",
   "version": "0.0",
-  "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in a range of settings including specialist craft businesses, design studios, production workshops, restoration and conservation businesses, training establishments, cultural institutions such as museums, galleries and heritage sites, corporate businesses, and the natural environment. Employers are typically known to be micro businesses and SMEs. However, Craft Assistants can occasionally be found in larger organisations in the public, private and charity sectors. Craft Assistants may also progress into freelance work and/or operate as sole traders once sufficient skills and experience are gained.&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to design and deliver hand-crafted products. Craft Assistants make, service, restore and/or conserve individual hand-crafted items and do so for customers/clients, public and/or private collections, and/or the built or natural environment. Craft Assistants will work with a range of materials such as textiles, moldable and rigid materials, paper, glass, clay etc. Typically, the businesses Craft Assistants are employed by specialise in a selected craft and an individual in this role will achieve occupational competence in that craft. Craft Assistants provide technical support to ensure new or existing items, to be made or restored by hand, are designed, developed, and created in line with company and client requirements. Increasingly, the integration of digital technologies across this sector will support production processes while retaining unique craft qualities through hybrid manufactured and handmade production. Craft Assistants must adhere to the organisation’s confidentiality requirements and understand basic copyrighting and intellectual property arrangements. Working with discretion, taking positive action in response to feedback, being solution focused, and maintaining awareness of the bigger picture, including budget and broader resource constraints and environmental impacts and ways to reduce these, are essential to a Craft Assistants approach.&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;\n&lt;p&gt;In their daily work, Craft Assistants are expected to work collaboratively with other designers and craft practitioners, customers/clients, wider team members such as administrators, distributors, marketers, retailers, suppliers and external stakeholders. Craft Assistants work to agreed deadlines as part of a team but are expected to work with autonomy once sufficient skill and knowledge is obtained. Whilst training, Craft Assistants work alongside, and under the instruction of, a master craftsperson and are sometimes responsible for creating component parts of a product that the master craftsperson would use to finish the product.&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for effective client communication, demonstrating sound project management and project delivery skills. They will be competent in the processes, materials, and tools used to create the specified hand-made products of the business they are employed by. Craft Assistants will demonstrate a sound understanding of sustainable practices including the sourcing, use, disposal, recycling and reuse of materials across the craft industry.&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;\n&lt;p&gt;Craft Assistants are responsible for maintaining the workspace and its contents in line with the business’ standards and health and safety requirements. They will also assist with the creation and managing of databases, client/customer information, and ongoing ordering and control of stock.&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;\n&lt;p&gt;Craft Assistants would be expected to have an understanding of working with customers/clients and may also be expected to liaise with customers/clients throughout the making process and/or to aid in any relevant item aftercare.&lt;/p&gt;",
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in a range of settings including specialist craft businesses, design studios, production workshops, restoration and conservation businesses, training establishments, cultural institutions such as museums, galleries and heritage sites, corporate businesses, and the natural environment. Employers are typically known to be micro businesses and SMEs. However, craft assistants can occasionally be found in larger organisations in the public, private and charity sectors. Craft assistants may also progress into freelance work or operate as sole traders once sufficient skills and experience are gained.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to design and deliver hand-crafted products. Craft assistants make, service, restore or conserve individual hand-crafted items and do so for customers, clients, public or private collections or the built or natural environment. Craft assistants will work with a range of materials such as textiles, moldable and rigid materials, paper, glass, clay etc. Typically, the businesses craft assistants are employed by specialise in a selected craft and an individual in this role will achieve occupational competence in that craft. Craft assistants provide technical support to ensure new or existing items, to be made or restored by hand, are designed, developed, and created in line with company and client requirements. Increasingly, the integration of digital technologies across this sector will support production processes while retaining unique craft qualities through hybrid manufactured and handmade production. Craft assistants must adhere to the organisation’s confidentiality requirements and understand basic copyrighting and intellectual property arrangements. Working with discretion, taking positive action in response to feedback, being solution focused, and maintaining awareness of the bigger picture, including budget and broader resource constraints and environmental impacts and ways to reduce these, are essential to a craft assistants approach.&lt;/p&gt;\n&lt;p&gt;In their daily work, craft assistants are expected to work collaboratively with other designers and craft practitioners, customers, clients, wider team members such as administrators, distributors, marketers, retailers, suppliers and external stakeholders. Craft assistants work to agreed deadlines as part of a team but are expected to work with autonomy once sufficient skill and knowledge is obtained. Whilst training, craft assistants work alongside, and under the instruction of, a master craftsperson and are sometimes responsible for creating component parts of a product that the master craftsperson would use to finish the product.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for effective client communication, demonstrating sound project management and project delivery skills. They will be competent in the processes, materials, and tools used to create the specified hand-made products of the business they are employed by. Craft assistants will demonstrate a sound understanding of sustainable practices including the sourcing, use, disposal, recycling and reuse of materials across the craft industry.&lt;/p&gt;\n&lt;p&gt;Craft assistants are responsible for maintaining the workspace and its contents in line with the business’ standards and health and safety requirements. They will also assist with the creation and managing of databases, client and customer information, and ongoing ordering and control of stock.&lt;/p&gt;\n&lt;p&gt;Craft assistants would be expected to have an understanding of working with customers and clients and may also be expected to liaise with them throughout the making process to aid in any relevant item aftercare.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "68dc300f-a6c7-475c-8a39-063deadde6b6",
-      "detail": "The history of craft and how craft has shaped places, communities, and wider society"
+      "detail": "Craft industry: the impact on places, communities, and society, and importance to individuals."
     },
     {
       "knowledgeId": "fd844dab-3887-4d1f-a29a-593de2a986b3",
-      "detail": "The history of your chosen craft"
+      "detail": "Key technological developments in the history of your chosen craft."
     },
     {
       "knowledgeId": "768f2418-ef5c-4453-981d-a0f19cc56b8e",
-      "detail": "The economic contribution of craft and the make-up of the craft workforce "
+      "detail": "The financial environment of the craft sector: external factors impacting it, the economic contribution craft makes."
     },
     {
       "knowledgeId": "da7921ce-98e2-481f-84c0-3e47a5b8ae3b",
-      "detail": "The different types of craft businesses including sole traders, publicly funded organisations, commercial operations, craft councils, associations and societies"
+      "detail": "The different types of craft businesses and support organisations."
     },
     {
       "knowledgeId": "49c8b3f2-0e4d-4711-a3ce-9cc1bc512f39",
-      "detail": "The financial environmentof the craft sector and external factors impacting on this, and the ways in which craft practitioners and craft businesses generate income, such as through public/private subsidy, teaching, community outreach, product sales "
+      "detail": "Craft industry income streams such as public and private subsidy, teaching. Community outreach, and product sales. "
     },
     {
       "knowledgeId": "64f05106-8a5f-465b-91f2-6f83a33553e9",
-      "detail": "The range of settings within which craft making is used to support the health, wellbeing and education of society e.g. in schools, hospitals, residential care homes, as part of community outreach projects, as well as the practical support craft practitioners can provide during a crisis e.g. the making of extra scrubs and face masks in the event of a pandemic"
+      "detail": "Craft and well being settings such as schools, hospitals, residential care homes, community outreach projects, historical sites and workplaces. Support that craft makers can provide."
     },
     {
       "knowledgeId": "54216c8a-32a5-4842-8132-ca96a35859b9",
-      "detail": "The environmental impact of different crafts and the steps being taken by craft practitioners and businesses to operate in a more environmentally sustainable way including circular economy concepts, sourcing of materials, sustainable production and distribution processes"
+      "detail": "The environmental impact of your chosen craft. The steps being taken by craft makers and businesses to operate in a more environmentally sustainable way such as sourcing of materials, sustainable production and distribution processes."
     },
     {
       "knowledgeId": "6c7196bd-079a-4464-8ca1-02e4478b2ca1",
-      "detail": "The range and type of hand and machine operated tools used by craft makers and identify the craft/s and/or materials they are typically used for"
+      "detail": "The types of hand and machine operated tools used by craft makers within your chosen craft. The crafts or materials they are typically used for."
     },
     {
       "knowledgeId": "617aeb64-9751-4e71-974c-2ea6281c7f09",
-      "detail": "The project life cycle and factors that aid successful progression including customer/client liaison, team working, budget management, project mapping and problem solving"
+      "detail": "The project lifecycle: the design brief or specification.  Factors that aid project success: customer and client liaison, team working, budget management, project mapping (production scheduling) and problem solving."
     },
     {
       "knowledgeId": "29b110be-8255-4714-8e4a-02037a9d44fc",
-      "detail": "The systems used to record and manage stock"
+      "detail": "Stock management and recording systems. "
     },
     {
       "knowledgeId": "b990f0ab-c9ff-404f-8a12-89d1580676e7",
-      "detail": "The range and type of suppliers used by your organisation and how to research and source suppliers for financial competitiveness, environmental sustainability, and quality"
+      "detail": "Types of suppliers. Supplier research and sourcing methods.  Supplier choice factors: financial competitiveness, environmental sustainability, and quality."
     },
     {
       "knowledgeId": "ccfac41e-51f5-4177-b330-fb34e7fedb6e",
-      "detail": "Know how to store tools, materials and products safely and appropriately "
+      "detail": "Storage for tools, materials and products."
     },
     {
       "knowledgeId": "c9db4a72-041b-4ebe-b196-0c6aa1204ea7",
-      "detail": "The key principles of excellent customer service"
+      "detail": "Stakeholder management key principles."
     },
     {
       "knowledgeId": "d145830d-e868-45ab-8b3d-327446829c99",
-      "detail": "How digital tools and technology, such as 3D printing and computer aided design can improve productivity and delivery"
+      "detail": "How digital tools and technology may be used to support productivity and delivery: CAD (computer-aided design) and 3D printing."
     },
     {
       "knowledgeId": "2d0ace0e-8906-4fd7-b4c6-66891e6424fd",
-      "detail": "The different routes to market, including galleries and exhibitions, craft markets, open studios, online platforms, physical shops, printed materials such as books and catalogues"
+      "detail": "The different routes to market such as physical retail, online retail, commissions, selling events (markets and fairs), galleries and exhibitions, open studios and catalogues."
+    },
+    {
+      "knowledgeId": "892b9799-40d2-40cc-902b-6af83655a831",
+      "detail": "Communication techniques: verbal, written, and digital; use industry terminology. "
     },
     {
       "knowledgeId": "ce383635-f5ab-4e83-b8eb-1b508c9c7881",
-      "detail": "The different communication channels and methods used to reach clients/customers, suppliers, and key stakeholders such as social media, press, specialist networking, open studios, web "
+      "detail": "Communication channels: specialist networking, social media, press, open studios, web "
     },
     {
       "knowledgeId": "eeadf248-a96f-469b-896f-0fd643dd2c7d",
-      "detail": "The basic principles that apply to copyrighting and Intellectual Property and how to protect craft items from external exploitation "
+      "detail": "Fundamentals that apply to copyrighting and intellectual property and how to protect craft items from external exploitation. "
     },
     {
       "knowledgeId": "c520bc4d-ecdf-452d-b2f5-07ffbf49c390",
-      "detail": "The quality assurance methods and associated stages deployed by your organisation prior to releasing hand-made items to market"
+      "detail": "Quality assurance, inspection, and sampling methods."
     },
     {
       "knowledgeId": "ec4e51c7-9bee-43a3-aa18-b48af6859e36",
-      "detail": "Benefits of eco-friendly/recycled materials including different packing materials, their properties and associated environmental impact/s "
-    },
-    {
-      "knowledgeId": "2811f562-d052-4d65-8506-674890f9609d",
-      "detail": "The 2010 Equality Act, 1998 Human Rights Act and the 1998 Equality, and the Equality and Human Rights Employer Code of Conduct for equality."
+      "detail": "The properties, environmental impact, and benefits of eco-friendly or recycled materials used in packing."
     },
     {
       "knowledgeId": "9e4c8b31-ee42-43a7-add5-f02c974bbbae",
-      "detail": "Health & Safety; regulations including the Control of Substances Hazardous to Health (COSHH), Provision and Use of Work Equipment Regulations (PUWER), the Health & Safety At Work Act (HASAWA), the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (RIDDOR), and manual handling."
+      "detail": "Health and Safety; regulations: the Control of Substances Hazardous to Health (COSHH), Provision and Use of Work Equipment Regulations (PUWER), the Health and Safety At Work Act (HASAWA), the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (RIDDOR), and manual handling as applicable to your craft activities."
     },
     {
       "knowledgeId": "e7e6f907-ca38-470c-b29c-34ab122300d3",
-      "detail": "Key factors associated with ceramic items such as use and function, size, shape, ergonomics, fitness for purpose, and production scale "
+      "detail": "Ceramic item manufacture key factors: use and function, size, shape, ergonomics, fitness for purpose, and production scale. "
     },
     {
       "knowledgeId": "206a623b-b488-438f-9e23-c9bf5f0f3482",
-      "detail": "The types of clay used to make ceramic items, the unique properties of each, and the types of items each is most suitable for, including white earthenware, red/iron terracotta earthenware, stoneware, porcelain, bone china, fine bone china, magnesium clay"
+      "detail": "The types of clay used to make ceramic items, their properties, and suitability for use such as: white earthenware, red or iron terracotta earthenware, stoneware, porcelain, bone china and fine bone china."
     },
     {
       "knowledgeId": "5e858771-caea-4e34-b299-ddead77c2326",
-      "detail": "Characteristics and states of clay for industrial or studio production including slip, wet clay, leather hard, bone dry, bisque fired, glaze fired, post firing techniques, vitrified"
+      "detail": "Characteristics and states of clay for industrial or studio production such as: slip, wet clay, leather hard, bone dry, bisque fired, glaze fired, post firing techniques, and vitrified."
     },
     {
       "knowledgeId": "537b919a-2164-4ad2-bcc2-860a3b05d226",
-      "detail": "Preparation methods of clay for use including wedging, kneading, pugging and filter pressing"
+      "detail": "Clay preparation methods such as: wedging, kneading, pugging and filter pressing."
     },
     {
       "knowledgeId": "9aa023ef-0639-42d5-a9b0-59578b4e6d2b",
-      "detail": "Different making/production techniques including throwing, slab work, coiling, press moulding, slip casting, jigger and jollying, ram pressing, high pressure casting, "
+      "detail": "Ceramic production techniques such as throwing, slab work, coiling, press moulding, slip casting, jigger and jollying, ram pressing and high pressure casting."
     },
     {
       "knowledgeId": "449becf9-ecc0-465e-a7fc-6d9563656c28",
-      "detail": "Different ways that decoration can be applied to ceramic items including stamping / embossing, sprig work, brushwork, decals, glaze and sgraffito "
+      "detail": "Ways that decorations can be applied to ceramic items such as: stamping, embossing, sprig work, brushwork, glaze, decals and sgraffito."
     },
     {
       "knowledgeId": "d1dfa9de-b305-4e52-826f-cb8fbc2f6c22",
-      "detail": "Different kiln and firing types including electric kiln, gas fired kilns, and wood/coal fired reduction firing, the use of different temperatures and the effect of different temperatures, and the stages of firing including bisque and glaze firings "
+      "detail": "Kiln and firing types such as: electric kiln, gas fired kilns, and wood or coal fired reduction firing. The use and effect of different temperatures. The stages of firing including bisque and glaze firings."
     },
     {
       "knowledgeId": "1be7f14e-a169-47a8-b59f-1354cfc6f02e",
-      "detail": "The range, types and properties of different glazes and which one/s to use for the type of clay and the specific item being made, knowing when to use pigments and underglazes, biaxal and triaxal glazes, and glaze ‘recipes’"
+      "detail": "The types and properties of glazes. Which to use for the type of clay or material being used. The use of pigments and underglazes, biaxal and triaxal glazes, and glaze recipes."
     },
     {
       "knowledgeId": "029d1a25-ed4b-4f7a-89a9-13f503760c16",
-      "detail": "The different production processes and uses for ceramic products including personal use items, bespoke commissions, batch production, limited run, and mass production "
+      "detail": "The different production processes: batch production, limited run, and mass production. "
+    },
+    {
+      "knowledgeId": "207c0783-9ec1-4838-8ec2-235d092554eb",
+      "detail": "Uses for ceramic products such as personal, public, commercial, industrial and bespoke commissions. "
     },
     {
       "knowledgeId": "1d593040-5060-44d5-90c2-45d1042a8da2",
-      "detail": "Design principles including line, texture, size, shape, form, colour, volume, proportion"
+      "detail": "Design principles such as line, texture, size, shape, form, colour, volume, proportion."
+    },
+    {
+      "knowledgeId": "c505b48d-ddc8-4490-aa9a-30538b6fa800",
+      "detail": "Read drawings and interpret prototypes or models."
     }
   ],
   "behaviours": [
     {
+      "behaviourId": "05223599-5178-4f83-a62a-fe1841693304",
+      "detail": "Puts safety first. "
+    },
+    {
       "behaviourId": "31c5b4ca-4c06-454a-bbca-e476aab1bb7a",
-      "detail": "Committed to keeping up to date with industry best practice"
+      "detail": "Committed to keeping up to date with new technologies and industry best practice."
     },
     {
       "behaviourId": "9d56b75a-64b2-4aaf-8986-5219293ff04c",
-      "detail": "Works effectively with colleagues and others"
+      "detail": "Acts in a way that builds and maintains positive relationships with colleagues and others. "
     },
     {
       "behaviourId": "f1959889-baee-4754-bb45-b45b59b214bf",
-      "detail": "Takes ownership of work"
+      "detail": "Takes ownership of work. "
     },
     {
       "behaviourId": "4d42e9ee-b729-4116-9e68-2dfc9f181a37",
-      "detail": "Sources solutions and seeks to continuously improve and develop"
+      "detail": "Sources solutions and seeks to continuously improve and develop. "
     },
     {
       "behaviourId": "b4dd60b0-f26e-479b-aa6a-54317840a5d9",
-      "detail": "Respectful of others"
-    },
-    {
-      "behaviourId": "05223599-5178-4f83-a62a-fe1841693304",
-      "detail": "Puts safety first for themselves and others"
-    },
-    {
-      "behaviourId": "b81f78dd-e79f-47a3-ad5c-829d1f12942f",
-      "detail": "Work in a time and budget conscious way"
+      "detail": "Acts in a professional and ethical manner, embracing equality, diversity and inclusion in the workplace."
     }
   ],
   "skills": [
     {
       "skillId": "033651da-a224-4f1d-9956-6d6021db5e5b",
-      "detail": "Select and safely use the most appropriate tools for your chosen craft"
+      "detail": "Select and use tools and equipment. "
     },
     {
       "skillId": "3c60b6dc-6568-472a-94fe-61ed23a5113f",
-      "detail": "Use technology as an enabler to make hand-crafted items, models and prototypes"
+      "detail": "Use technology as an enabler to make hand-crafted items, models or prototypes."
     },
     {
       "skillId": "b81a52e9-a187-4471-a7a7-e833671c84ac",
-      "detail": "Use green production techniques, processes and recycled materials to deliver hand-crafted items"
+      "detail": "Identify sustainable techniques to make hand crafted items."
     },
     {
       "skillId": "1569b424-7296-4694-870b-15980a5ce644",
-      "detail": "Store tools/materials safely and appropriately, ensuring they are protected from damage when not in use"
+      "detail": "Store tools and materials, ensuring they are protected from damage when not in use."
     },
     {
       "skillId": "0746cbec-9401-487d-a0cb-348ffb7f911c",
-      "detail": "Follow the appropriate Health & Safety procedures for your chosen craft, using tools, materials and personal protective equipment ( PPE) in a safe and secure way"
+      "detail": "Follow health and safety procedures."
     },
     {
       "skillId": "57452f48-4a5b-4e9b-acfb-5d0603d0efb7",
-      "detail": "Clean, maintain and prepare the craft workspace/workshop in line with the organisation’s requirements, contributing to a safe and heathy working environment"
+      "detail": "Clean, maintain and prepare the craft workspace or workshop."
     },
     {
       "skillId": "c45510a4-15cb-4082-b223-dae333607809",
-      "detail": "Identify the roles, responsibilities, and interdependencies of different parties in a project and your role within this"
+      "detail": "The roles, responsibilities and interdependencies of different parties in a project and your role within this. "
     },
     {
       "skillId": "7cd25ea1-a299-492a-bae8-00ff2d572b02",
-      "detail": "Undertake budget setting and deploy controls to enable effective budget management "
+      "detail": "Identify costs. Deploy controls to enable effective budget management. "
     },
     {
       "skillId": "17f38217-1f31-42e6-9dbd-adbfa7a8a5ed",
-      "detail": "Undertake duties in line with project timelines, demonstrating the reputational, financial, and legal risks of not completing a project to time or budget"
+      "detail": "Manage projects on time and budget. Maintain reputational standards and mitigate legal risks."
     },
     {
       "skillId": "0f59e75b-13bc-44ec-a773-1e9c9354b433",
-      "detail": "Demonstrate effective stock control and supplier liaison"
+      "detail": "Conduct stock control and liaise with suppliers. "
     },
     {
       "skillId": "801a90ed-b2b3-4736-8d36-6934d33efd47",
-      "detail": "Demonstrate effective verbal and written communication with colleagues, and/or customers/clients, and suppliers in line with the organisation’s expectations"
+      "detail": "Communicate with stakeholders, colleagues or customers. "
     },
     {
       "skillId": "f4c0e362-f322-4526-acda-b58e22d7b11d",
-      "detail": "Follow the organisation’s quality assurance procedures"
+      "detail": "Follow quality assurance procedures."
     },
     {
       "skillId": "331d47f0-19ed-477e-9801-f89ec298810c",
-      "detail": "Choose the most appropriate packaging for your craft items to protect them whilst in transit and to ensure items are presented as per the organisation’s and/or client/customer requirements "
+      "detail": "Select packaging for craft items to protect them whilst in transit. Present items as per the organisation’s or client or customer needs. "
     },
     {
       "skillId": "c9d45d47-00d6-44de-83a9-8bb2ab02fbed",
-      "detail": "Make ceramic items and/or prototypes in line with the organisation’s brief / private client / customer brief / own brief, ensuring close consideration is given to its chosen purpose, end user, market, and budget"
+      "detail": "Make ceramic items, prototypes or models in line with the brief. Consider: purpose, end user, market, and budget. "
     },
     {
       "skillId": "fdadd051-c0f9-415c-afbd-e76dc4ce717a",
-      "detail": "Select and use the most appropriate tools and equipment for the ceramic item/s being made such as a wheel, wire clay cutter, sponges, shapers, brushes, loop and ribbon tools, bats, calipers, glazing tongs, pugmill, filter press, blunder, extruder, kiln"
+      "detail": " Use specialist tools and equipment required for specific purposes."
     },
     {
       "skillId": "173b0207-bb0c-4eb4-af85-0e3e1181716b",
-      "detail": "Apply design principles in the making of ceramic items, relative to the brief including shape, size, proportion, colour and finish"
+      "detail": "Apply design principles to the making of ceramic items, in line with the brief including shape, size, proportion, colour and finish."
     },
     {
       "skillId": "b4a9b3a5-ffd8-437d-a1ae-94dff10ecea3",
-      "detail": "Select the most appropriate clay for the ceramic item being made to ensure the final item is fit for purpose"
+      "detail": "Select and use clay or material for the ceramic item being made."
     },
     {
       "skillId": "38096114-9a10-476a-98f6-063785ec0cd9",
-      "detail": "Employ a range of relevant making skills such as hand building, sculpting, throwing, casting, moulding, and tool crafting ensuring these are appropriately selected and applied to the chosen clay relevant to the final product"
+      "detail": "Use making skills for example hand building, sculpting, throwing, casting, moulding, and tool crafting or equivalent."
     },
     {
       "skillId": "57939f33-e2d0-49c5-9cbe-95e36ced4f64",
-      "detail": "Decide on decorative techniques and glazes to be applied to the final ceramic products"
+      "detail": "Select and use finishing techniques or glazes to be applied to the final ceramic product. "
     },
     {
       "skillId": "ee7e3c35-7fad-4930-b02a-05f48f844a53",
-      "detail": "Evaluate the extent to which the finished ceramic item meets the detail of the brief and against the production schedule including efficiency and wastage, quality, budget"
+      "detail": "Assess the finished ceramic item against the brief and the production schedule including efficiency and wastage, quality, budget."
     },
     {
       "skillId": "6d2abe52-7dc5-48f9-9ede-d4f28b41067c",
-      "detail": "Use technical drawings (created by hand and/or digital) to aid the making of a hand-made ceramic product"
+      "detail": "Use drawn plans (hand or digital), prototypes or models to aid the making of a hand-made ceramic product."
     }
   ],
   "options": [
     {
-      "optionId": "e540c7ee-0703-49f1-bf89-80eda6c4473e",
+      "optionId": "98d7d618-f43d-4134-aeb2-e92566f702ac",
       "title": "Ceramicist"
     }
   ],
@@ -293,13 +296,19 @@
   "standardApproved": "",
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "Claire Gill / Steve Walker",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+  },
   "approvedForDelivery": "",
   "integratedApprenticeship": false,
   "integratedDegree": "",
   "tbReference": "TB0583",
-  "tbMainContact": "",
-  "involvedEmployers": "Heritage Craft Association, Devon Guild of Craftsmen, 1882 Ltd, The Leach Pottery, Royal Crown Derby, Spode Museum, Creative and Cultural Skills\r\n",
+  "tbMainContact": "sara.whybrew@ccskills.org.uk",
+  "involvedEmployers": "Crafts Council, Heritage Crafts Association, Intitute for Apprenticeships and Technical Education, LADA/CC Skills, Savoir Beds Limited",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -307,19 +316,18 @@
     "Assistant maker",
     "Craft technician",
     "Design assistant",
-    "For example ceramics technician.",
+    "Ceramics technician",
     "Junior craft practitioner",
     "Studio assistant",
-    "These titles sometimes include direct reference to the specific craft that the ca is working in",
     "Workshop technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "<p>Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.</p>",
+  "englishAndMathsQualifications": "",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Craft and Design",
   "cluster": "Precision Manufacturing Craftsperson",
-  "createdDate": "2022-01-18T16:18:57 +00:00",
-  "lastUpdated": "2022-02-25T00:00:00 +00:00",
+  "createdDate": "2023-01-27T15:20:26 +00:00",
+  "lastUpdated": "2023-01-27T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/craft-assistant?view=standard#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/craft-assistant",
   "qualifications": [],
@@ -327,14 +335,13 @@
   "duties": [
     {
       "dutyID": "654354a8-06a8-4acb-99c9-60308ce2bb45",
-      "dutyDetail": "Utilise technology as an enabler to make hand crafted items within the social, cultural, economic, technological and environmental contexts impacting craft",
+      "dutyDetail": "Utilise technology as an enabler to make hand crafted items within the social, cultural, economic, technological and environmental contexts impacting craft.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
+        "05223599-5178-4f83-a62a-fe1841693304",
         "31c5b4ca-4c06-454a-bbca-e476aab1bb7a",
         "f1959889-baee-4754-bb45-b45b59b214bf",
-        "4d42e9ee-b729-4116-9e68-2dfc9f181a37",
-        "05223599-5178-4f83-a62a-fe1841693304",
-        "b81f78dd-e79f-47a3-ad5c-829d1f12942f"
+        "4d42e9ee-b729-4116-9e68-2dfc9f181a37"
       ],
       "mappedKnowledge": [
         "68dc300f-a6c7-475c-8a39-063deadde6b6",
@@ -345,7 +352,6 @@
         "64f05106-8a5f-465b-91f2-6f83a33553e9",
         "54216c8a-32a5-4842-8132-ca96a35859b9",
         "d145830d-e868-45ab-8b3d-327446829c99",
-        "2811f562-d052-4d65-8506-674890f9609d",
         "9e4c8b31-ee42-43a7-add5-f02c974bbbae"
       ],
       "mappedOptions": null,
@@ -358,14 +364,13 @@
     },
     {
       "dutyID": "fad522b4-3086-4580-84c1-2c6e4984f2ae",
-      "dutyDetail": "Make products or component parts of products by hand in line with the organisation’s quality standards, confidentiality policies and Intellectual Property requirements",
+      "dutyDetail": "Make products or component parts of products by hand in line with the settings quality standards, confidentiality policies and intellectual property requirements.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
+        "05223599-5178-4f83-a62a-fe1841693304",
         "31c5b4ca-4c06-454a-bbca-e476aab1bb7a",
         "f1959889-baee-4754-bb45-b45b59b214bf",
-        "4d42e9ee-b729-4116-9e68-2dfc9f181a37",
-        "05223599-5178-4f83-a62a-fe1841693304",
-        "b81f78dd-e79f-47a3-ad5c-829d1f12942f"
+        "4d42e9ee-b729-4116-9e68-2dfc9f181a37"
       ],
       "mappedKnowledge": [
         "68dc300f-a6c7-475c-8a39-063deadde6b6",
@@ -377,13 +382,14 @@
       "mappedSkills": [
         "033651da-a224-4f1d-9956-6d6021db5e5b",
         "b81a52e9-a187-4471-a7a7-e833671c84ac",
-        "0746cbec-9401-487d-a0cb-348ffb7f911c"
+        "0746cbec-9401-487d-a0cb-348ffb7f911c",
+        "fdadd051-c0f9-415c-afbd-e76dc4ce717a"
       ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "410bf627-27a5-4fe1-afdf-83d88c58510f",
-      "dutyDetail": "Focus on sustainability, research and develop green production techniques, processes and the use of recycled materials ",
+      "dutyDetail": "Focus on sustainability, research and develop green production techniques, processes and the use of recycled materials.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "31c5b4ca-4c06-454a-bbca-e476aab1bb7a",
@@ -401,7 +407,7 @@
     },
     {
       "dutyID": "431df0e5-86a7-4490-b086-66e5c34ee134",
-      "dutyDetail": "Maintain equipment and the workspace, and store tools in line with the organisation’s standards and Health and Safety requirements",
+      "dutyDetail": "Maintain equipment and the workspace, and store tools in line with the settings standards and health and safety requirements.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "05223599-5178-4f83-a62a-fe1841693304"
@@ -422,7 +428,7 @@
     },
     {
       "dutyID": "8696074b-8da8-404f-a648-253b96923565",
-      "dutyDetail": "Record and control materials, items, stock, products and suitably store these to maintain their fitness for use",
+      "dutyDetail": "Record and control materials, items, stock, products and suitably store these to maintain their fitness for use.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "05223599-5178-4f83-a62a-fe1841693304"
@@ -440,11 +446,9 @@
     },
     {
       "dutyID": "81e99ab8-a99f-4064-bc37-e3f27fe78f83",
-      "dutyDetail": "Order or recommend materials and/or tools in line with the organisation’s procurement policies/processes and stock management procedures as needed to achieve value for money",
+      "dutyDetail": "Order or recommend materials and tools in line with the settingss procurement policies and processes following stock management procedures as needed to achieve value for money.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [
-        "b81f78dd-e79f-47a3-ad5c-829d1f12942f"
-      ],
+      "mappedBehaviour": null,
       "mappedKnowledge": [
         "29b110be-8255-4714-8e4a-02037a9d44fc",
         "b990f0ab-c9ff-404f-8a12-89d1580676e7",
@@ -461,11 +465,10 @@
     },
     {
       "dutyID": "11f64797-0504-42a5-b19b-8ccf91df8b61",
-      "dutyDetail": "Follow agreed plans, designs or brief to aid the successful creation of a specified hand-made product within time and cost constraints",
+      "dutyDetail": "Follow agreed plans, designs or brief to aid the successful creation of a specified hand-made product within time and cost constraints.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
-        "f1959889-baee-4754-bb45-b45b59b214bf",
-        "b81f78dd-e79f-47a3-ad5c-829d1f12942f"
+        "f1959889-baee-4754-bb45-b45b59b214bf"
       ],
       "mappedKnowledge": [
         "54216c8a-32a5-4842-8132-ca96a35859b9",
@@ -474,13 +477,14 @@
       "mappedOptions": null,
       "mappedSkills": [
         "c45510a4-15cb-4082-b223-dae333607809",
-        "17f38217-1f31-42e6-9dbd-adbfa7a8a5ed"
+        "17f38217-1f31-42e6-9dbd-adbfa7a8a5ed",
+        "f4c0e362-f322-4526-acda-b58e22d7b11d"
       ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "69832738-17b1-4102-9e04-070e71aac9cf",
-      "dutyDetail": "Manage client expectations by maintaining regular client communication and delivering effective project management, budget tracking, troubleshooting, project delivery and timekeeping",
+      "dutyDetail": "Manage customer and client expectations by maintaining regular communication and delivering effective project management, budget tracking, troubleshooting, project delivery and timekeeping.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9d56b75a-64b2-4aaf-8986-5219293ff04c",
@@ -490,6 +494,7 @@
       "mappedKnowledge": [
         "617aeb64-9751-4e71-974c-2ea6281c7f09",
         "c9db4a72-041b-4ebe-b196-0c6aa1204ea7",
+        "892b9799-40d2-40cc-902b-6af83655a831",
         "ce383635-f5ab-4e83-b8eb-1b508c9c7881"
       ],
       "mappedOptions": null,
@@ -503,7 +508,7 @@
     },
     {
       "dutyID": "b53880a3-a9de-481c-9cf4-1911f26ad955",
-      "dutyDetail": "Utilise technology to communicate, market and sell hand-made items effectively",
+      "dutyDetail": "Utilise technology to communicate, market and sell hand-made items effectively.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9d56b75a-64b2-4aaf-8986-5219293ff04c",
@@ -523,7 +528,7 @@
     },
     {
       "dutyID": "a28ace75-8c60-48e8-b40d-eae1825b395f",
-      "dutyDetail": "Provide excellent and inclusive customer service and relationship management to a diverse range of clients",
+      "dutyDetail": "Provide excellent and inclusive service and relationship management to a diverse range of  customers and  clients .",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9d56b75a-64b2-4aaf-8986-5219293ff04c",
@@ -532,8 +537,8 @@
       "mappedKnowledge": [
         "617aeb64-9751-4e71-974c-2ea6281c7f09",
         "c9db4a72-041b-4ebe-b196-0c6aa1204ea7",
-        "ce383635-f5ab-4e83-b8eb-1b508c9c7881",
-        "2811f562-d052-4d65-8506-674890f9609d"
+        "892b9799-40d2-40cc-902b-6af83655a831",
+        "ce383635-f5ab-4e83-b8eb-1b508c9c7881"
       ],
       "mappedOptions": null,
       "mappedSkills": [
@@ -543,7 +548,7 @@
     },
     {
       "dutyID": "2905de6e-80f3-40e4-aaa6-88b3baa4396f",
-      "dutyDetail": "Package/present products in line with the organisation’s standards, procedures and/or client/customer requirements",
+      "dutyDetail": "Package and present products in line with the settings standards, procedures an customer or client requirements.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9d56b75a-64b2-4aaf-8986-5219293ff04c",
@@ -556,19 +561,20 @@
       ],
       "mappedOptions": null,
       "mappedSkills": [
+        "f4c0e362-f322-4526-acda-b58e22d7b11d",
         "331d47f0-19ed-477e-9801-f89ec298810c"
       ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "e6c2b5dc-128d-4659-acb3-32b449dd795c",
-      "dutyDetail": "Make, service, restore, and/or conserve ceramic items for customers/clients and/or public/private collections",
+      "dutyDetail": "Make, service, restore, and or conserve ceramic items for customers, clients public or private collections.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [
+        "05223599-5178-4f83-a62a-fe1841693304",
         "31c5b4ca-4c06-454a-bbca-e476aab1bb7a",
         "f1959889-baee-4754-bb45-b45b59b214bf",
-        "4d42e9ee-b729-4116-9e68-2dfc9f181a37",
-        "05223599-5178-4f83-a62a-fe1841693304"
+        "4d42e9ee-b729-4116-9e68-2dfc9f181a37"
       ],
       "mappedKnowledge": [
         "68dc300f-a6c7-475c-8a39-063deadde6b6",
@@ -588,17 +594,17 @@
         "d1dfa9de-b305-4e52-826f-cb8fbc2f6c22",
         "1be7f14e-a169-47a8-b59f-1354cfc6f02e",
         "029d1a25-ed4b-4f7a-89a9-13f503760c16",
-        "1d593040-5060-44d5-90c2-45d1042a8da2"
+        "1d593040-5060-44d5-90c2-45d1042a8da2",
+        "c505b48d-ddc8-4490-aa9a-30538b6fa800"
       ],
       "mappedOptions": [
-        "e540c7ee-0703-49f1-bf89-80eda6c4473e"
+        "98d7d618-f43d-4134-aeb2-e92566f702ac"
       ],
       "mappedSkills": [
         "033651da-a224-4f1d-9956-6d6021db5e5b",
         "3c60b6dc-6568-472a-94fe-61ed23a5113f",
         "b81a52e9-a187-4471-a7a7-e833671c84ac",
         "0746cbec-9401-487d-a0cb-348ffb7f911c",
-        "f4c0e362-f322-4526-acda-b58e22d7b11d",
         "c9d45d47-00d6-44de-83a9-8bb2ab02fbed",
         "fdadd051-c0f9-415c-afbd-e76dc4ce717a",
         "173b0207-bb0c-4eb4-af85-0e3e1181716b",
@@ -611,45 +617,46 @@
     },
     {
       "dutyID": "d5b45dd0-6210-471f-9321-ac7a53b19d4f",
-      "dutyDetail": "Manage the planning and/or design process for hand-made ceramic products",
+      "dutyDetail": "Manage the planning or design process for hand-made ceramic products.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": [
-        "b81f78dd-e79f-47a3-ad5c-829d1f12942f"
-      ],
+      "mappedBehaviour": null,
       "mappedKnowledge": [
         "6c7196bd-079a-4464-8ca1-02e4478b2ca1",
         "617aeb64-9751-4e71-974c-2ea6281c7f09",
         "e7e6f907-ca38-470c-b29c-34ab122300d3",
-        "9aa023ef-0639-42d5-a9b0-59578b4e6d2b"
+        "9aa023ef-0639-42d5-a9b0-59578b4e6d2b",
+        "207c0783-9ec1-4838-8ec2-235d092554eb"
       ],
       "mappedOptions": [
-        "e540c7ee-0703-49f1-bf89-80eda6c4473e"
+        "98d7d618-f43d-4134-aeb2-e92566f702ac"
       ],
       "mappedSkills": [
         "c45510a4-15cb-4082-b223-dae333607809",
-        "17f38217-1f31-42e6-9dbd-adbfa7a8a5ed"
+        "17f38217-1f31-42e6-9dbd-adbfa7a8a5ed",
+        "c9d45d47-00d6-44de-83a9-8bb2ab02fbed"
       ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "a76aeef9-1852-4d9e-9ac5-479bc031f1d6",
-      "dutyDetail": "Work with clients/customers to understand their requirements and creating technical and/or other drawings and plans (by hand or digital) for the product as needed",
+      "dutyDetail": "Work with customers and clients to understand their requirements, creating technical or other drawings and plans (by hand or digital) for the product as needed.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "9d56b75a-64b2-4aaf-8986-5219293ff04c",
         "f1959889-baee-4754-bb45-b45b59b214bf",
-        "b4dd60b0-f26e-479b-aa6a-54317840a5d9",
-        "b81f78dd-e79f-47a3-ad5c-829d1f12942f"
+        "b4dd60b0-f26e-479b-aa6a-54317840a5d9"
       ],
       "mappedKnowledge": [
         "617aeb64-9751-4e71-974c-2ea6281c7f09",
         "c9db4a72-041b-4ebe-b196-0c6aa1204ea7",
         "ce383635-f5ab-4e83-b8eb-1b508c9c7881",
         "e7e6f907-ca38-470c-b29c-34ab122300d3",
-        "1d593040-5060-44d5-90c2-45d1042a8da2"
+        "207c0783-9ec1-4838-8ec2-235d092554eb",
+        "1d593040-5060-44d5-90c2-45d1042a8da2",
+        "c505b48d-ddc8-4490-aa9a-30538b6fa800"
       ],
       "mappedOptions": [
-        "e540c7ee-0703-49f1-bf89-80eda6c4473e"
+        "98d7d618-f43d-4134-aeb2-e92566f702ac"
       ],
       "mappedSkills": [
         "c45510a4-15cb-4082-b223-dae333607809",
@@ -662,12 +669,12 @@
     },
     {
       "dutyID": "b37cf189-0811-4fed-b61c-04e946920a03",
-      "dutyDetail": "Create samples and/or prototypes to assist in the creation of hand-made ceramic products",
+      "dutyDetail": "Create samples or prototypes to assist in the creation of hand-made ceramic products.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [
+        "05223599-5178-4f83-a62a-fe1841693304",
         "f1959889-baee-4754-bb45-b45b59b214bf",
-        "4d42e9ee-b729-4116-9e68-2dfc9f181a37",
-        "05223599-5178-4f83-a62a-fe1841693304"
+        "4d42e9ee-b729-4116-9e68-2dfc9f181a37"
       ],
       "mappedKnowledge": [
         "d145830d-e868-45ab-8b3d-327446829c99",
@@ -679,17 +686,17 @@
         "449becf9-ecc0-465e-a7fc-6d9563656c28",
         "d1dfa9de-b305-4e52-826f-cb8fbc2f6c22",
         "1be7f14e-a169-47a8-b59f-1354cfc6f02e",
-        "1d593040-5060-44d5-90c2-45d1042a8da2"
+        "1d593040-5060-44d5-90c2-45d1042a8da2",
+        "c505b48d-ddc8-4490-aa9a-30538b6fa800"
       ],
       "mappedOptions": [
-        "e540c7ee-0703-49f1-bf89-80eda6c4473e"
+        "98d7d618-f43d-4134-aeb2-e92566f702ac"
       ],
       "mappedSkills": [
         "033651da-a224-4f1d-9956-6d6021db5e5b",
         "3c60b6dc-6568-472a-94fe-61ed23a5113f",
         "b81a52e9-a187-4471-a7a7-e833671c84ac",
         "0746cbec-9401-487d-a0cb-348ffb7f911c",
-        "f4c0e362-f322-4526-acda-b58e22d7b11d",
         "c9d45d47-00d6-44de-83a9-8bb2ab02fbed",
         "fdadd051-c0f9-415c-afbd-e76dc4ce717a",
         "173b0207-bb0c-4eb4-af85-0e3e1181716b",
