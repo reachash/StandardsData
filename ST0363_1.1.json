@@ -7,14 +7,14 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/144",
   "versionNumber": "",
   "change": "In revision",
-  "changedDate": "2022-11-04T00:00:00",
-  "earliestStartDate": "2023-02-04T00:00:00",
+  "changedDate": "2023-01-27T00:00:00",
+  "earliestStartDate": "2023-04-04T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "To ensure that organisations' operations comply with relevant legislation, regulation and policies through reviewing and implementing policies and procedures.",
   "level": 6,
   "typicalDuration": 36,
-  "maxFunding": 23000,
+  "maxFunding": 0,
   "route": "Legal, finance and accounting",
   "keywords": [
     "Internal audit",
@@ -272,8 +272,8 @@
   "reviewDetails": "",
   "pathway": "Financial",
   "cluster": "Compliance/Risk Specialist",
-  "createdDate": "2022-11-07T09:10:48 +00:00",
-  "lastUpdated": "2022-11-04T00:00:00 +00:00",
+  "createdDate": "2023-01-27T16:19:15 +00:00",
+  "lastUpdated": "2023-01-27T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/senior-compliance-and-risk-specialist-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/senior-compliance-and-risk-specialist-in-revision",
   "qualifications": [
@@ -359,7 +359,7 @@
     },
     {
       "bodyName": "The International Compliance Association",
-      "level": "access to full professional membership of the ICA and permits the use of the MICA designatory letters.  The experience gained and responsibility held by the apprentice on completion of the apprenticeship will either wholly or partially satisfy the requirements for registration at this level.",
+      "level": "access to full professional membership of the ICA and permits the use of the MICA designatory letters. ",
       "isPartial": "full",
       "partialFreeText": ""
     },
