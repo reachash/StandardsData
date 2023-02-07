@@ -3,28 +3,20 @@
   "larsCode": 144,
   "referenceNumber": "ST0363",
   "title": "Senior compliance and risk specialist",
-  "status": "In development",
+  "status": "Approved for delivery",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/144",
-  "versionNumber": "",
-  "change": "In revision",
-  "changedDate": "2023-01-27T00:00:00",
-  "earliestStartDate": "2023-04-04T00:00:00",
+  "versionNumber": "1.1",
+  "change": "Standard, funding and end-point assessment plan revised",
+  "changedDate": "2023-02-06T00:00:00",
+  "earliestStartDate": "2023-02-04T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "To ensure that organisations' operations comply with relevant legislation, regulation and policies through reviewing and implementing policies and procedures.",
   "level": 6,
   "typicalDuration": 36,
-  "maxFunding": 0,
+  "maxFunding": 23000,
   "route": "Legal, finance and accounting",
-  "keywords": [
-    "Internal audit",
-    "law",
-    "financial regulation",
-    "finance",
-    "risk",
-    "fraud",
-    "audit"
-  ],
+  "keywords": [],
   "jobRoles": [
     "Compliance manager",
     "Credit monitoring manager",
@@ -52,19 +44,19 @@
     },
     {
       "knowledgeId": "cab4a997-307c-43f3-abbe-1d4c23d6d3e7",
-      "detail": "The inter-relationships between different regulators and their organisation"
+      "detail": "The inter-relationships between different regulators and their organisation."
     },
     {
       "knowledgeId": "57df350c-c4d9-4284-a192-e077213b8a39",
-      "detail": "The implications of non-compliance on the organisation "
+      "detail": "The implications of non-compliance on the organisation."
     },
     {
       "knowledgeId": "0e3e5c43-7f3d-4e84-a7be-cd447a997587",
-      "detail": "The history of the industry and the role their organisation plays in the wellbeing of society "
+      "detail": "The history of the industry and the role their organisation plays in the wellbeing of society."
     },
     {
       "knowledgeId": "02dc50b5-b910-4479-9ad0-f042b0205c55",
-      "detail": "Factors that can change risk appetite in an organisation including competitor activity, political, social and environmental factors and how these can be mitigated"
+      "detail": "Factors that can change risk appetite in an organisation including competitor activity, political, social and environmental factors and how these can be mitigated."
     },
     {
       "knowledgeId": "b8130796-0e74-477b-aa9a-ffde938407c1",
@@ -76,19 +68,19 @@
     },
     {
       "knowledgeId": "ce68fb80-b3ec-40af-832f-1544062aae9c",
-      "detail": "Approaches to identify customer segments and needs"
+      "detail": "Approaches to identify customer segments and needs."
     },
     {
       "knowledgeId": "d7ee2c2d-054b-4b44-a975-912a9f5e0220",
-      "detail": "The policies and processes in place to ensure fair customer outcomes"
+      "detail": "The policies and processes in place to ensure fair customer outcomes."
     },
     {
       "knowledgeId": "1e33b6c2-6db3-4bc5-af7c-e3596a27d35c",
-      "detail": "Financial and compliance risks within the organisation’s products and services available to customers"
+      "detail": "Financial and compliance risks within the organisation’s products and services available to customers."
     },
     {
       "knowledgeId": "4feb969f-5ca8-4c61-9451-1cc0f9bbe99e",
-      "detail": "The principles of excellent stakeholder management relative to their role"
+      "detail": "The principles of excellent stakeholder management relative to their role."
     },
     {
       "knowledgeId": "58acbb48-d9b9-4014-8db5-605eddd784cd",
@@ -96,7 +88,7 @@
     },
     {
       "knowledgeId": "c341603f-eda9-4b12-9a5a-e9cb64705963",
-      "detail": "The features and principles of strategic planning relative to their role "
+      "detail": "The features and principles of strategic planning relative to their role."
     },
     {
       "knowledgeId": "c0e35b20-3651-425c-ade0-014971543ac1",
@@ -104,15 +96,15 @@
     },
     {
       "knowledgeId": "b77c9b44-f053-47d4-974c-4f71ce1fa363",
-      "detail": "The systems, tools and processes required in the role such as the impact of technology on risk management, cyber security, AI, blockchain, digital tools "
+      "detail": "The systems, tools and processes required in the role such as the impact of technology on risk management, cyber security, AI, blockchain, digital tools."
     },
     {
       "knowledgeId": "83f949d5-4346-4afb-b5d1-597e1392a71c",
-      "detail": "Internal and external audit requirements and the responsibilities of the auditor and auditee"
+      "detail": "Internal and external audit requirements and the responsibilities of the auditor and auditee."
     },
     {
       "knowledgeId": "f9eb9ada-8985-4056-87e6-62aa31719f1e",
-      "detail": "The impact of data protection legislation and the processes for sharing and storing information safely and securely including risks to data from cybercrime"
+      "detail": "The impact of data protection legislation and the processes for sharing and storing information safely and securely including risks to data from cybercrime."
     },
     {
       "knowledgeId": "19997b60-c826-48d2-8f85-bb60f4af12cb",
@@ -120,13 +112,13 @@
     },
     {
       "knowledgeId": "30a88152-1a63-4a5d-917a-fe87609ef557",
-      "detail": "The extent to which sustainable finance is incorporated in risk and compliance frameworks and the role of key stakeholders"
+      "detail": "The extent to which sustainable finance is incorporated in risk and compliance frameworks and the role of key stakeholders."
     }
   ],
   "behaviours": [
     {
       "behaviourId": "d8b8635f-dde1-44e9-9011-6c446f974583",
-      "detail": "Displays honesty and integrity - truthful in their actions. Shows integrity by doing the right thing, maintains confidentiality and acts with due care and diligence"
+      "detail": "Displays honesty and integrity - truthful in their actions. Shows integrity by doing the right thing, maintains confidentiality and acts with due care and diligence."
     },
     {
       "behaviourId": "a220d180-cef0-4ff5-a75e-5a18db8359e5",
@@ -138,7 +130,7 @@
     },
     {
       "behaviourId": "076832f2-c42b-4041-a3e0-d2af39be1618",
-      "detail": "Resilient in challenging, changing environments. Shows emotional intelligence to resolve conflicts when they arise"
+      "detail": "Resilient in challenging, changing environments. Shows emotional intelligence to resolve conflicts when they arise."
     },
     {
       "behaviourId": "8262ef71-b0b2-4793-a37b-36181d4e87d2",
@@ -146,11 +138,11 @@
     },
     {
       "behaviourId": "99aa3c0b-212b-432d-a218-4f98752840b9",
-      "detail": "Displays a growth mindset, learning from failures, spotting opportunities and overcoming challenges"
+      "detail": "Displays a growth mindset, learning from failures, spotting opportunities and overcoming challenges."
     },
     {
       "behaviourId": "d9055446-7b73-44b3-9c86-b81397feb746",
-      "detail": "Collaborates and promotes teamwork across diverse teams; internal, external and across disciplines"
+      "detail": "Collaborates and promotes teamwork across diverse teams; internal, external and across disciplines."
     }
   ],
   "skills": [
@@ -164,27 +156,27 @@
     },
     {
       "skillId": "fb23f348-9619-41cf-9daf-39b8360f4a8f",
-      "detail": "Plan and organise own work to meet legal, regulatory, organisational deadlines"
+      "detail": "Plan and organise own work to meet legal, regulatory, organisational deadlines."
     },
     {
       "skillId": "cbafaf1c-e03e-4dd3-a5f6-7b14061a042a",
-      "detail": "Analyse and interpret information to assess whether it meets legal, regulatory, process or policy requirements"
+      "detail": "Analyse and interpret information to assess whether it meets legal, regulatory, process or policy requirements."
     },
     {
       "skillId": "cc42d464-5193-46ff-a394-8b60417ce5cc",
-      "detail": "Analyse information to identify key issues, draw conclusions and make recommendations"
+      "detail": "Analyse information to identify key issues, draw conclusions and make recommendations."
     },
     {
       "skillId": "b411cf96-0e37-4dac-b8bf-8577397dee37",
-      "detail": "Demonstrate different communication methods and adapt communication style to their audience, being clear on purpose of communication and outputs required, for example; verbal, written, virtual communication, presentations"
+      "detail": "Demonstrate different communication methods and adapt communication style to their audience, being clear on purpose of communication and outputs required, for example; verbal, written, virtual communication, presentations."
     },
     {
       "skillId": "69200dd9-2f32-4c9a-b377-c435780ca8d7",
-      "detail": "Demonstrate different communication styles such as, active listening, team communications, business storytelling, negotiation techniques, conflict management, cross-cultural communications, equality and inclusivity considerations"
+      "detail": "Demonstrate different communication styles such as, active listening, team communications, business storytelling, negotiation techniques, conflict management, cross-cultural communications, equality and inclusivity considerations."
     },
     {
       "skillId": "01991dbb-2fdd-4983-9956-759a62569950",
-      "detail": "Maintain documents in line with current regulation and policy"
+      "detail": "Maintain documents in line with current regulation and policy."
     },
     {
       "skillId": "2cf77569-0960-4d3a-8f71-b2d3c6f15ddc",
@@ -196,27 +188,27 @@
     },
     {
       "skillId": "3ba99efc-a033-4de7-b929-1337baeee21d",
-      "detail": "Build trust with colleagues, collaborating to achieve results"
+      "detail": "Build trust with colleagues, collaborating to achieve results."
     },
     {
       "skillId": "557f5eea-eda3-4ed9-abf0-38edec049c2f",
-      "detail": "Manage conflict, demonstrating empathy and a desire to work towards win-win outcomes"
+      "detail": "Manage conflict, demonstrating empathy and a desire to work towards win-win outcomes."
     },
     {
       "skillId": "204d6a79-8cc4-404f-804b-a080090fbabe",
-      "detail": "Lead others to achieve desired outcomes"
+      "detail": "Lead others to achieve desired outcomes."
     },
     {
       "skillId": "f28d3b27-a7a1-41c2-b827-ea79381e8bd9",
-      "detail": "Apply continuous improvement techniques to deliver improved compliance and risk outcomes for the organisation,  for example seek feedback and respond to improve performance "
+      "detail": "Apply continuous improvement techniques to deliver improved compliance and risk outcomes for the organisation,  for example seek feedback and respond to improve performance."
     },
     {
       "skillId": "bb9c30de-e95a-4634-9a97-b8e29385c3a5",
-      "detail": "Develop strategies to implement change"
+      "detail": "Develop strategies to implement change."
     },
     {
       "skillId": "6a6e7796-a9eb-458a-bfde-8794e137f437",
-      "detail": "Network with others in the profession to keep up to date with changes in the industry, best practice and potential opportunities"
+      "detail": "Network with others in the profession to keep up to date with changes in the industry, best practice and potential opportunities."
     },
     {
       "skillId": "071c196f-b0ef-406c-b90d-84d2447e2cb8",
@@ -224,11 +216,11 @@
     },
     {
       "skillId": "52b183d5-b3b8-4df5-8286-093732c83ff5",
-      "detail": "Demonstrate technology to others and keeps up to date with developments in IT relative to their role"
+      "detail": "Demonstrate technology to others and keeps up to date with developments in IT relative to their role."
     },
     {
       "skillId": "285fe78c-dadc-4c69-a013-ca26d860fc5a",
-      "detail": "Handle data safely and securely and share information in compliance with data protection legislation and organisation’s policy"
+      "detail": "Handle data safely and securely and share information in compliance with data protection legislation and organisation’s policy."
     }
   ],
   "options": [],
@@ -249,7 +241,7 @@
     "contactEmail": "public.enquiries@ofqual.gov.uk",
     "webLink": "https://www.gov.uk/government/organisations/ofqual"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2016-09-19T00:00:00 +00:00",
   "integratedApprenticeship": null,
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0724",
@@ -273,9 +265,9 @@
   "pathway": "Financial",
   "cluster": "Compliance/Risk Specialist",
   "createdDate": "2023-01-27T16:19:15 +00:00",
-  "lastUpdated": "2023-01-27T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/senior-compliance-and-risk-specialist-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/senior-compliance-and-risk-specialist-in-revision",
+  "lastUpdated": "2023-02-06T00:00:00 +00:00",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/senior-compliance-and-risk-specialist-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/senior-compliance-and-risk-specialist-v1-1",
   "qualifications": [
     {
       "qualificationId": "ac745086-d0e8-4410-8cd7-41838e50518b",
@@ -373,7 +365,7 @@
   "duties": [
     {
       "dutyID": "101799b8-9f6d-4c78-b510-3139a7bd0b53",
-      "dutyDetail": "Safeguard the organisation from risks relevant to your role, for example, money laundering, terrorist financing risk, conduct risk, operational risk, climate change risk by ensuring monitoring structures and processes under your control are effective ",
+      "dutyDetail": "Safeguard the organisation from risks relevant to your role, for example, money laundering, terrorist financing risk, conduct risk, operational risk, climate change risk by ensuring monitoring structures and processes under your control are effective.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "d8b8635f-dde1-44e9-9011-6c446f974583"
@@ -560,7 +552,7 @@
     },
     {
       "dutyID": "aebde45b-7727-4b97-a5d7-2703c74bf7f1",
-      "dutyDetail": "Design and implement risk and/or compliance activity relevant to your area to support the organisation’s goals and legal and regulatory requirements, for example, Financial Conduct Authority, Prudential Regulation Authority",
+      "dutyDetail": "Design and implement risk and/or compliance activity relevant to your area to support the organisation’s goals and legal and regulatory requirements, for example, Financial Conduct Authority, Prudential Regulation Authority.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "8262ef71-b0b2-4793-a37b-36181d4e87d2",
@@ -697,7 +689,7 @@
     },
     {
       "dutyID": "f5a3d312-59a4-4c60-89a2-24276d8e542d",
-      "dutyDetail": "Adapt to technological advancements and changes which impact the compliance and risk management landscape",
+      "dutyDetail": "Adapt to technological advancements and changes which impact the compliance and risk management landscape.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "a220d180-cef0-4ff5-a75e-5a18db8359e5",
