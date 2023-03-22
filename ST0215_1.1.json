@@ -7,7 +7,7 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/102",
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised",
-  "changedDate": "2023-02-20T00:00:00",
+  "changedDate": "2023-03-21T00:00:00",
   "earliestStartDate": "2023-02-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -338,11 +338,11 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
-    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "providerName": "Office for Students",
+    "contactName": "Rob Stroud, Interim Director – Quality Assessment, England",
+    "contactAddress": "Southgate House, Southgate Street, Gloucester, GL1 1UB",
+    "contactEmail": "QAE@QAA.ac.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
   },
   "approvedForDelivery": "2016-05-19T00:00:00 +00:00",
   "integratedApprenticeship": true,
@@ -362,7 +362,7 @@
   "pathway": "Health",
   "cluster": "Health Practitioner",
   "createdDate": "2022-12-07T14:33:23 +00:00",
-  "lastUpdated": "2023-02-20T00:00:00 +00:00",
+  "lastUpdated": "2023-03-21T00:00:00 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/assistant-practitioner-health-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/assistant-practitioner-health-v1-1",
   "qualifications": [
