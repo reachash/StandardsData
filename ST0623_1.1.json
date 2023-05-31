@@ -16,7 +16,14 @@
   "typicalDuration": 36,
   "maxFunding": 12000,
   "route": "Engineering and manufacturing",
-  "keywords": [],
+  "keywords": [
+    "transport",
+    "operations",
+    "maintenance",
+    "marine",
+    "vessels",
+    "technical"
+  ],
   "jobRoles": [],
   "entryRequirements": "&lt;p&gt;Individual employers will set the selection criteria for their Apprenticeships. Entrants to the role should typically have a foundation level qualification (level 5) and experience in a maritime engineering discipline, preferably as a second engineer officer or electro-technical officer with equivalent experience. However, suitable candidates may also have a background in the management of ship-repair or experience as a classification society surveyor.&lt;/p&gt;",
   "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/6009/st0623_marine_technical_superintendent_l7_epa-for-publication_300322.pdf",
@@ -24,7 +31,7 @@
   "ssa2": "4.3 Transportation operations and maintenance",
   "version": "1.1",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;The Marine Technical Superintendent (MTS) is a shore-based, technical role responsible for the safe and economic operation of one or more vessels. They oversee vessel performance and are responsible for the technical and operational condition of vessels from an engineering perspective, including the planning and execution of refit and fleet time maintenance programmes, implementing and monitoring compliance and ensuring vessels are fully certified according to international maritime legislative requirements and classification society regulations.&lt;/p&gt;\r\n&lt;p&gt;The duties and responsibilities of the MTS are significantly broader than those of a sea-going engineer and require advanced skills in leadership and management, financial and commercial proficiency, project management expertise and the commitment to keep abreast of emerging technologies, including cybersecurity and ship automation. The MTS would also provide subject-matter expertise in the event of an emergency response situation. This is primarily a senior engineering management role, with typical progression routes from sea-going and shore-based occupations. Typically, the MTS reports to the Technical or Fleet Manager overseeing operations and all Chief Engineers in the fleet would typically report to the MTS.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;The Marine Technical Superintendent (MTS) is a shore-based, technical role responsible for the safe and economic operation of one or more vessels. They oversee vessel performance and are responsible for the technical and operational condition of vessels from an engineering perspective, including the planning and execution of refit and fleet time maintenance programmes, implementing and monitoring compliance and ensuring vessels are fully certified according to international maritime legislative requirements and classification society regulations.&lt;/p&gt;\n&lt;p&gt;The duties and responsibilities of the MTS are significantly broader than those of a sea-going engineer and require advanced skills in leadership and management, financial and commercial proficiency, project management expertise and the commitment to keep abreast of emerging technologies, including cybersecurity and ship automation. The MTS would also provide subject-matter expertise in the event of an emergency response situation. This is primarily a senior engineering management role, with typical progression routes from sea-going and shore-based occupations. Typically, the MTS reports to the Technical or Fleet Manager overseeing operations and all Chief Engineers in the fleet would typically report to the MTS.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "2be7f5f6-7bc1-43c7-98d0-4d6c2f5e8dd2",
@@ -188,7 +195,7 @@
   "integratedApprenticeship": null,
   "integratedDegree": "non-integrated degree",
   "tbReference": "TB0544",
-  "tbMainContact": "D.Fitch@ljmu.ac.uk",
+  "tbMainContact": "brendan.casey@education.gov.uk",
   "involvedEmployers": "Carmet Tug Co, Royal Fleet Auxiliary, Svitzer, Holyhead Towing, Brookes Bell, Stena / Northern Marine, Seatruck Ferries",
   "regulated": false,
   "regulatedBody": "",
