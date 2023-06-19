@@ -4,11 +4,11 @@
   "referenceNumber": "ST0695",
   "title": "Process leader",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/419",
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/419",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2019-03-04T00:00:00",
-  "earliestStartDate": "2019-03-04T00:00:00",
+  "changedDate": "2019-03-04T00:00:00Z",
+  "earliestStartDate": "2019-03-04T00:00:00Z",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Directing production activities and operations.",
@@ -31,12 +31,12 @@
     "Process lead manager"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/2712/st0695_process-leader_l4_epa-for-publication_280219.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/2712/st0695_process-leader_l4_epa-for-publication_280219.pdf",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.3 Business management",
   "version": "1.0",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;Process Leaders are found in organisations with high volume manufacturing or advanced manufacturing processes in which large volumes of products are made in assembly, moulding, metal processing, chemical processing, pharmaceutical, textiles, food and drink, or similar processes.&lt;/p&gt;\r\n&lt;p&gt;They are also found in organisations with engineering operations or low volume manufacturing processes in which lower volumes of products are made in a bespoke or workshop type environment. The core knowledge, skills and behaviours of this apprenticeship will be developed and demonstrated in a specific manufacturing context and are broadly transferable to other manufacturing sectors.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of this occupation&#160; is to undertake and direct production activities and operations and deliver against core production Key Performance Indicators (KPIs). Process Leaders effectively lead and manage large teams as well as providing technical/specialist input and direction to their own team and to others. Process Leader are responsible for determining and managing budgets and resources. They use core production KPIs as the basis of the continuous improvement cycle and undertake and manage quality resolutions. Process leaders manage health, safety and environment within their area of responsibility, ensuring staff are compliant with all requirements and driving improvements and use project management tools to plan, organise and manage resources, monitor progress, identify risks and mitigation. They develop, build and motivate team members as well as manage performance and industrial relations.&#160; As well as providing clear direction and leadership to their own team and others, Process Leaders build and maintain strong relationships across different disciplines, to ensure that the activities of functions such as HR, Purchasing, Planning, Finance focus on core production KPIs. Effective communication is a core responsibility of the Process Leader role, whether this be communication corporate vision and strategy or using data and information to create compelling presentations and drive management decisions&lt;/p&gt;\r\n&lt;p&gt;In their daily work, an employee in this occupation interacts with:&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Team leaders and their wider team&lt;/li&gt;\r\n&lt;li&gt;Quality Managers&lt;/li&gt;\r\n&lt;li&gt;Health and Safety Managers&lt;/li&gt;\r\n&lt;li&gt;HR Managers&lt;/li&gt;\r\n&lt;li&gt;Finance Managers&lt;/li&gt;\r\n&lt;li&gt;Quality Improvement Manager&lt;/li&gt;\r\n&lt;li&gt;Operational Directors&lt;/li&gt;\r\n&lt;li&gt;Directors&lt;/li&gt;\r\n&lt;li&gt;Managing Director/CEO&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;p&gt;Process Leaders act autonomously as part of a wider production team and are responsible for the delivery of core production KPIs, people, budgets, equipment, materials, supplies, health, safety, environment and risk.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;Process Leaders are found in organisations with high volume manufacturing or advanced manufacturing processes in which large volumes of products are made in assembly, moulding, metal processing, chemical processing, pharmaceutical, textiles, food and drink, or similar processes.&lt;/p&gt;\n&lt;p&gt;They are also found in organisations with engineering operations or low volume manufacturing processes in which lower volumes of products are made in a bespoke or workshop type environment. The core knowledge, skills and behaviours of this apprenticeship will be developed and demonstrated in a specific manufacturing context and are broadly transferable to other manufacturing sectors.&lt;/p&gt;\n&lt;p&gt;The broad purpose of this occupation&#160; is to undertake and direct production activities and operations and deliver against core production Key Performance Indicators (KPIs). Process Leaders effectively lead and manage large teams as well as providing technical/specialist input and direction to their own team and to others. Process Leader are responsible for determining and managing budgets and resources. They use core production KPIs as the basis of the continuous improvement cycle and undertake and manage quality resolutions. Process leaders manage health, safety and environment within their area of responsibility, ensuring staff are compliant with all requirements and driving improvements and use project management tools to plan, organise and manage resources, monitor progress, identify risks and mitigation. They develop, build and motivate team members as well as manage performance and industrial relations.&#160; As well as providing clear direction and leadership to their own team and others, Process Leaders build and maintain strong relationships across different disciplines, to ensure that the activities of functions such as HR, Purchasing, Planning, Finance focus on core production KPIs. Effective communication is a core responsibility of the Process Leader role, whether this be communication corporate vision and strategy or using data and information to create compelling presentations and drive management decisions&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Team leaders and their wider team&lt;/li&gt;\n&lt;li&gt;Quality Managers&lt;/li&gt;\n&lt;li&gt;Health and Safety Managers&lt;/li&gt;\n&lt;li&gt;HR Managers&lt;/li&gt;\n&lt;li&gt;Finance Managers&lt;/li&gt;\n&lt;li&gt;Quality Improvement Manager&lt;/li&gt;\n&lt;li&gt;Operational Directors&lt;/li&gt;\n&lt;li&gt;Directors&lt;/li&gt;\n&lt;li&gt;Managing Director/CEO&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Process Leaders act autonomously as part of a wider production team and are responsible for the delivery of core production KPIs, people, budgets, equipment, materials, supplies, health, safety, environment and risk.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "2cf8ff01-a61b-4e9d-9457-71d7eede5002",
@@ -268,14 +268,14 @@
     "Process lead manager"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "<p>Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.</p>",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing, Plant and Process Technologist",
   "createdDate": "2020-02-10T15:44:20 +00:00",
   "lastUpdated": "2019-03-04T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/process-leader-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/process-leader-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/process-leader-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/process-leader-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
