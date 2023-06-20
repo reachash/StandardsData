@@ -4,11 +4,11 @@
   "referenceNumber": "ST0248",
   "title": "Laboratory technician",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/14",
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/14",
   "versionNumber": "1.2",
   "change": "End-point assessment plan revised",
-  "changedDate": "2022-05-31T00:00:00",
-  "earliestStartDate": "2020-08-05T00:00:00",
+  "changedDate": "2022-05-31T00:00:00Z",
+  "earliestStartDate": "2020-08-05T00:00:00Z",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing routine and one-off testing and technical support in a scientific laboratory environment.",
@@ -35,12 +35,12 @@
     "Laboratory assistant (prefixed by sector)"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/6001/st0248_laboratory_technician_l3_ap_for_publication_210322-ap05.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/6001/st0248_laboratory_technician_l3_ap_for_publication_210322-ap05.pdf",
   "ssa1": "2 Science and Mathematics",
   "ssa2": "2.1 Science",
   "version": "1.2",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in a wide range of organisations, including but not exclusively, chemical, primary and secondary pharmaceutical, biotechnology, formulated products, nuclear companies; and analytical science services, dental laboratories and educational establishments. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is working at the forefront of technology to carry out both routine and one-off laboratory testing (and manufacturing where relevant) and perform a variety of technical support functions across the organisation. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with the laboratory manager and colleagues, internal departments such as manufacturing, procurement and quality, internal customers such as medical staff, teaching staff and students, external suppliers and customers such as service engineers, delivery drivers, regulatory bodies and inspection teams e.g. HSE. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for proactively finding solutions to problems and identifying areas for improving the business. Laboratory technicians are expected to work both individually and as part of a laboratory team. They are able to work with minimum supervision, taking responsibility for the quality and accuracy of their own work. In any context working safely and ethically is paramount and many companies operate under highly regulated conditions. Laboratory technicians therefore follow quality procedures to meet the requirements of quality standards relevant to their work. It is not a requirement, either to practise in this occupation or as part of this apprenticeship, for apprentices to achieve additional qualifications (other than the usual English and maths requirements for an apprenticeship at this level) or professional recognition. However, this apprenticeship standard has been carefully designed with some of the requirements of certain relevant professional bodies in mind. Apprentices and employers should speak to the professional bodies relevant to the industry or sector within which they are working to ascertain the additional requirements that must be met for professional recognition by these organisations. Recognition by those organisations will be dependent on the acquisition of learning as defined by them.&lt;/p&gt;\r\n&lt;p&gt;&lt;a href=&quot;https://sciencecouncil.org/careers-from-science/qualification-choices/apprenticeship-learning-guide-laboratory-technician/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Learning guides&lt;/a&gt; have been produced by the professional bodies to support the delivery of this apprenticeship.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in a wide range of organisations, including but not exclusively, chemical, primary and secondary pharmaceutical, biotechnology, formulated products, nuclear companies; and analytical science services, dental laboratories and educational establishments. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is working at the forefront of technology to carry out both routine and one-off laboratory testing (and manufacturing where relevant) and perform a variety of technical support functions across the organisation. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with the laboratory manager and colleagues, internal departments such as manufacturing, procurement and quality, internal customers such as medical staff, teaching staff and students, external suppliers and customers such as service engineers, delivery drivers, regulatory bodies and inspection teams e.g. HSE. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for proactively finding solutions to problems and identifying areas for improving the business. Laboratory technicians are expected to work both individually and as part of a laboratory team. They are able to work with minimum supervision, taking responsibility for the quality and accuracy of their own work. In any context working safely and ethically is paramount and many companies operate under highly regulated conditions. Laboratory technicians therefore follow quality procedures to meet the requirements of quality standards relevant to their work. It is not a requirement, either to practise in this occupation or as part of this apprenticeship, for apprentices to achieve additional qualifications (other than the usual English and maths requirements for an apprenticeship at this level) or professional recognition. However, this apprenticeship standard has been carefully designed with some of the requirements of certain relevant professional bodies in mind. Apprentices and employers should speak to the professional bodies relevant to the industry or sector within which they are working to ascertain the additional requirements that must be met for professional recognition by these organisations. Recognition by those organisations will be dependent on the acquisition of learning as defined by them.&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://sciencecouncil.org/careers-from-science/qualification-choices/apprenticeship-learning-guide-laboratory-technician/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Learning guides&lt;/a&gt; have been produced by the professional bodies to support the delivery of this apprenticeship.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "910558e2-81a7-49ce-b755-8a7aa1be6ead",
@@ -270,14 +270,14 @@
     "Laboratory assistant (prefixed by sector)"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "<p>Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.</p>",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Science",
   "cluster": "Science Technician",
   "createdDate": "2020-07-16T10:46:31 +00:00",
   "lastUpdated": "2022-05-31T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/laboratory-technician-v1-2?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/laboratory-technician-v1-2",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/laboratory-technician-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/laboratory-technician-v1-2",
   "qualifications": [],
   "professionalRecognition": [
     {
