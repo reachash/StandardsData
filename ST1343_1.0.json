@@ -8,7 +8,7 @@
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2023-03-01T00:00:00Z",
-  "earliestStartDate": "2023-03-01T00:00:00Z",
+  "earliestStartDate": "2023-02-01T00:00:00Z",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Support and manage the processing of digital evidence.",
@@ -255,7 +255,7 @@
     "contactEmail": "public.enquiries@ofqual.gov.uk",
     "webLink": "https://www.gov.uk/government/organisations/ofqual"
   },
-  "approvedForDelivery": "2023-02-02T00:00:00 +00:00",
+  "approvedForDelivery": "2023-03-01T00:00:00 +00:00",
   "integratedApprenticeship": false,
   "integratedDegree": "",
   "tbReference": "TB0821",
@@ -279,7 +279,7 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Digital Business Services",
   "cluster": "Data Analyst Advanced Technician",
-  "createdDate": "2023-07-25T07:54:00 +00:00",
+  "createdDate": "2023-08-03T07:39:06 +00:00",
   "lastUpdated": "2023-03-01T00:00:00 +00:00",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/digital-forensic-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/digital-forensic-technician-v1-0",
@@ -288,6 +288,12 @@
     {
       "bodyName": "BCS - Chartered Institute for IT ",
       "level": "Professional Registration ",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Chartered Institute of Information Security  ",
+      "level": "Associate",
       "isPartial": "full",
       "partialFreeText": ""
     }
