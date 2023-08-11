@@ -3,13 +3,13 @@
   "larsCode": 303,
   "referenceNumber": "ST0022",
   "title": "Asbestos analyst and surveyor",
-  "status": "Approved for delivery",
+  "status": "Retired",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/303",
   "versionNumber": "1.1",
   "change": "Funding band revised",
-  "changedDate": "2022-01-18T00:00:00Z",
+  "changedDate": "2023-08-10T00:00:00Z",
   "earliestStartDate": "2020-08-24T00:00:00Z",
-  "latestStartDate": null,
+  "latestStartDate": "2023-08-10T00:00:00Z",
   "latestEndDate": null,
   "overviewOfRole": "Performing an essential role in the identification, analysis and monitoring of asbestos materials.",
   "level": 3,
@@ -202,7 +202,7 @@
   "pathway": "Design, Surveying & Planning",
   "cluster": "Design & Surveying Technician",
   "createdDate": "2020-08-24T14:50:18 +00:00",
-  "lastUpdated": "2022-01-18T00:00:00 +00:00",
+  "lastUpdated": "2023-08-10T00:00:00 +00:00",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/asbestos-analyst-and-surveyor-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/asbestos-analyst-and-surveyor-v1-1",
   "qualifications": [],
@@ -210,5 +210,6 @@
   "duties": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
-  "careerStarter": false
+  "careerStarter": false,
+  "coronationEmblem": false
 }
