@@ -2,7 +2,7 @@
   "templateType": "Occupational Standard",
   "larsCode": 711,
   "referenceNumber": "ST1334",
-  "title": "Craft Bricklayer",
+  "title": "Craft bricklayer",
   "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/711",
   "versionNumber": "1.0",
@@ -1068,5 +1068,6 @@
   ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
-  "careerStarter": false
+  "careerStarter": false,
+  "coronationEmblem": false
 }
