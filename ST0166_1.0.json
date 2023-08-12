@@ -153,7 +153,28 @@
       "detail": "Assist with storage of supplies and stock rotation. Contribute to the organisation and maintenance of establishment. Engage with customers and identify their needs. Assist with appropriate office duties including answering the telephone, processing information and use workplace IT systems. Contribute to yard based records including passports, vaccinations, worming, farriery, dentistry etc. Assist and support Riding Grooms and provide non-ridden exercise regimes. Prepare for and lunge a horse for exercise in an enclosed area according to instruction."
     }
   ],
-  "options": [],
+  "options": [
+    {
+      "optionId": "4bb35b36-317e-42b8-ac0f-83a20dc90751",
+      "title": "Breeding"
+    },
+    {
+      "optionId": "06c72a0f-ec23-443b-bebd-c57d0071b2c5",
+      "title": "Driving"
+    },
+    {
+      "optionId": "05b46808-2636-4ece-a5f5-4f1b5ed53ca7",
+      "title": "Racing"
+    },
+    {
+      "optionId": "a7e302d7-4e6a-422d-b588-ffaec0e46c5d",
+      "title": "Riding"
+    },
+    {
+      "optionId": "12306ae7-ff63-45c5-a82d-33c8d812f99f",
+      "title": "Non-Riding"
+    }
+  ],
   "optionsUnstructuredTemplate": [
     "Breeding",
     "Driving",
