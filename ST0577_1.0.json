@@ -249,7 +249,20 @@
       "detail": "perform spatial analyses and produce maps that communicate data effectively"
     }
   ],
-  "options": [],
+  "options": [
+    {
+      "optionId": "69fed85a-0b04-4083-a214-31cabdfb959d",
+      "title": "Ecological Scientist"
+    },
+    {
+      "optionId": "252045e0-8e70-4d8d-9fa3-3a591422e6a5",
+      "title": "Consultant Ecologist"
+    },
+    {
+      "optionId": "3f3e7b2f-062f-407f-af96-aeaddfeb0d95",
+      "title": "Landscape Ecologist"
+    }
+  ],
   "optionsUnstructuredTemplate": [
     "Ecological Scientist",
     "Consultant Ecologist",
