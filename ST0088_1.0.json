@@ -261,7 +261,16 @@
       "detail": "Supports children, young people or vulnerable adults to identify and take action to deal with safeguarding risk"
     }
   ],
-  "options": [],
+  "options": [
+    {
+      "optionId": "164dc1f8-3975-49db-a35e-48ead78c6e5e",
+      "title": "Children, Young People & Families Practitioner within the Community"
+    },
+    {
+      "optionId": "5b25a900-e6df-4d9a-bf83-04dace359f4d",
+      "title": "Practitioner in Children's Residential Care"
+    }
+  ],
   "optionsUnstructuredTemplate": [
     "Children, Young People & Families Practitioner within the Community",
     "Practitioner in Children's Residential Care"
