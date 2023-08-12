@@ -308,7 +308,16 @@
       "detail": "Use basic IT systems appropriately and in line with organisational requirements, for example using emails and the internet; bar coding systems; records, checks and maintains data appropriate to the task"
     }
   ],
-  "options": [],
+  "options": [
+    {
+      "optionId": "5af2cc62-2b19-41b5-8fc8-ee5096436697",
+      "title": "Removals Operative"
+    },
+    {
+      "optionId": "5e7e02a6-da59-4709-aa85-b860799d5846",
+      "title": "Traffic Office"
+    }
+  ],
   "optionsUnstructuredTemplate": [
     "Removals Operative",
     "Traffic Office"
