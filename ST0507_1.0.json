@@ -302,7 +302,28 @@
       "detail": "Demonstrate the correct storage, handling and segregation of WEEE-derived materials in accordance with operating procedures, risk assessments, COSHH and relevant legislation."
     }
   ],
-  "options": [],
+  "options": [
+    {
+      "optionId": "26f733f2-cce1-4a7a-b4e9-e0379dadbb5a",
+      "title": "end-of-life vehicles operative"
+    },
+    {
+      "optionId": "eaca3d80-07f6-4cff-bfaa-6750c6274283",
+      "title": "weighbridge operative"
+    },
+    {
+      "optionId": "284d86e1-9027-46f9-bdda-ebeb1d3fa9b3",
+      "title": "material handler (specialist equipment) operative"
+    },
+    {
+      "optionId": "17ab5467-58ef-457e-8539-86ef4004e5b0",
+      "title": "material classification operative"
+    },
+    {
+      "optionId": "2c9c10ac-0694-4f2d-a563-e0825d3d4687",
+      "title": "weee waste electrical and electronic equipment operative"
+    }
+  ],
   "optionsUnstructuredTemplate": [
     "end-of-life vehicles operative",
     "weighbridge operative",
