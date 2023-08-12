@@ -181,7 +181,28 @@
       "detail": "Clean and prepare equipment for work and competition to the appropriate standard. Prepare horses for work and competition including selecting and fitting correct discipline specific saddlery and equipment. Coordinate and supervise maintenance programmes for the establishment. Monitor the choice and quality of supplies and suppliers. Promote the business through word of mouth, advertising, social media and the internet. Plan, organise and implement a variety of events/ shows or activities, whilst constantly looking for ways to diversify and improve the business. Deliver, monitor, review and improve customer care and satisfaction. Carry out office duties including using IT for budgets and record keeping. Implement, record and review a programme for recovery, recuperation or rehabilitation. Design and review work and fitness programmes and implement non-ridden exercise regimes. Prepare and long rein a horse for exercise."
     }
   ],
-  "options": [],
+  "options": [
+    {
+      "optionId": "a1cf2277-57f3-48c1-a902-920a3e52faf3",
+      "title": "Breeding"
+    },
+    {
+      "optionId": "78d05e54-a5bf-411a-9e5c-a4be78f16edf",
+      "title": "Driving"
+    },
+    {
+      "optionId": "a584f2c0-f31c-402a-938a-5b7d8c44a7ee",
+      "title": "Racing"
+    },
+    {
+      "optionId": "d68485ed-581c-4560-8bd2-a7b994642ebb",
+      "title": "Riding"
+    },
+    {
+      "optionId": "c4723760-01a1-444d-8424-89d75843dfca",
+      "title": "Non-Riding"
+    }
+  ],
   "optionsUnstructuredTemplate": [
     "Breeding",
     "Driving",
