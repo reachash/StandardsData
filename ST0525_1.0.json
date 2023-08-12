@@ -345,7 +345,24 @@
       "detail": "Manage touring productions including preparing seating and technical briefs and liaising with venue technical departments"
     }
   ],
-  "options": [],
+  "options": [
+    {
+      "optionId": "1a602100-2725-4981-a211-20256095fedd",
+      "title": "Live Performance Art Production"
+    },
+    {
+      "optionId": "6b30e58b-7412-42d9-b529-0d1dfafd86bc",
+      "title": "Production Accounting"
+    },
+    {
+      "optionId": "f31218bb-a3ad-4a2e-ba45-dae1513fd23e",
+      "title": "VFX, Post-Production & Animation"
+    },
+    {
+      "optionId": "9c603ef9-f2bd-4abf-9075-47a9e3b3c944",
+      "title": "Film, Television & Short Form Production"
+    }
+  ],
   "optionsUnstructuredTemplate": [
     "Live Performance Art Production",
     "Production Accounting",
