@@ -241,7 +241,36 @@
       "detail": "Undertake standards review, operational practice, approvals and assessment of relevant asset types in line with technical knowledge."
     }
   ],
-  "options": [],
+  "options": [
+    {
+      "optionId": "67796a15-29ca-4bea-8862-c79aa15f6c9b",
+      "title": "Rail Civil Engineering"
+    },
+    {
+      "optionId": "d523b907-5727-457b-9f20-dd9e4c1db60f",
+      "title": "Track Engineering"
+    },
+    {
+      "optionId": "3246696b-3b7d-464d-8fd2-06efb1069001",
+      "title": "Signalling & Control Systems"
+    },
+    {
+      "optionId": "1243ea93-b7cd-4d20-b2f0-65b111fa610b",
+      "title": "Rail Systems Integration"
+    },
+    {
+      "optionId": "685ee465-85cc-4fac-8b07-37041c138094",
+      "title": "Traction & Rolling Stock"
+    },
+    {
+      "optionId": "75c936d5-d06a-47f7-8f84-92a329d48e40",
+      "title": "Telecoms, Networks & Digital"
+    },
+    {
+      "optionId": "c61c26bb-e115-4388-89bb-511952f18d65",
+      "title": "Electrical, Mechanical or Building Services"
+    }
+  ],
   "optionsUnstructuredTemplate": [
     "Rail Civil Engineering",
     "Track Engineering",
