@@ -311,7 +311,20 @@
       "detail": "Work to tight deadlines, in a calm and professional manner whilst achieving deadlines."
     }
   ],
-  "options": [],
+  "options": [
+    {
+      "optionId": "8526ca89-39ec-449c-b219-b795d1b10c18",
+      "title": "Pre-Press\u00A0Technician"
+    },
+    {
+      "optionId": "94995ab8-c61d-475a-ae1c-93a067b3ff19",
+      "title": "Press Technician"
+    },
+    {
+      "optionId": "87c026d5-da07-479d-9a0e-9048614ba1a9",
+      "title": "Post-Press Technician"
+    }
+  ],
   "optionsUnstructuredTemplate": [
     "Pre-Press\u00A0Technician",
     "Press Technician",
