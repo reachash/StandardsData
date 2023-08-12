@@ -238,7 +238,16 @@
       "detail": "Using and maintaining a range of irrigation systems e.g. drip, sprinkler and rotary systems to ensure accurate and timely water application."
     }
   ],
-  "options": [],
+  "options": [
+    {
+      "optionId": "867b0370-3a72-4001-b46f-adb2f6a7503c",
+      "title": "Landscape construction"
+    },
+    {
+      "optionId": "0ffc85ff-7656-4433-84b9-c0e35dc9a5ab",
+      "title": "Horticulture"
+    }
+  ],
   "optionsUnstructuredTemplate": [
     "Landscape construction",
     "Horticulture"
