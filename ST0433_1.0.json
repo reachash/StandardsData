@@ -266,7 +266,16 @@
       "detail": "Inform the appropriate people when the load lifting and moving operation is complete"
     }
   ],
-  "options": [],
+  "options": [
+    {
+      "optionId": "085bf78c-dad1-467a-81a4-db88d8817164",
+      "title": "Engineering construction erector"
+    },
+    {
+      "optionId": "f26df2b5-ca56-4d16-973c-6a3b9d836adc",
+      "title": "Engineering construction rigger"
+    }
+  ],
   "optionsUnstructuredTemplate": [
     "Engineering construction erector",
     "Engineering construction rigger"
