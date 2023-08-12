@@ -329,7 +329,24 @@
       "detail": "Produce processed/finished products which comply with processing specification"
     }
   ],
-  "options": [],
+  "options": [
+    {
+      "optionId": "7cffb2dc-0f55-4504-9291-93476e64f3b6",
+      "title": "Inspection/Quality"
+    },
+    {
+      "optionId": "cdf6a5c8-19c6-41c0-8bf1-91f34d5a1269",
+      "title": "Logistics/Material"
+    },
+    {
+      "optionId": "cdf6a5c8-19c6-41c0-8bf1-91f34d5a1269",
+      "title": "Production Processing/Finishing"
+    },
+    {
+      "optionId": "c0110d21-4cd2-4fa1-b7a2-b69f43afe542",
+      "title": "Production/Assembly"
+    }
+  ],
   "optionsUnstructuredTemplate": [
     "Inspection/Quality",
     "Logistics/Material",
