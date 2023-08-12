@@ -163,7 +163,16 @@
       "detail": "Handle baggage using the most suitable method, identifying correct destination and any factors requiring special attention, following correct procedures for damaged, lost, unclaimed, unlabelled, unaccompanied, or suspect baggage promptly."
     }
   ],
-  "options": [],
+  "options": [
+    {
+      "optionId": "52c37d0b-03f6-4955-b246-b2d1d31949e2",
+      "title": "Cargo Operatives"
+    },
+    {
+      "optionId": "7509b134-02f3-4f09-8f46-9e39592a86e4",
+      "title": "Passenger, Ferry & Cruise Operatives"
+    }
+  ],
   "optionsUnstructuredTemplate": [
     "Cargo Operatives",
     "Passenger, Ferry & Cruise Operatives"
