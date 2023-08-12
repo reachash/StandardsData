@@ -276,7 +276,16 @@
       "detail": "Lead the validation process for tooling and build deviations and associated equipment/instrumentation"
     }
   ],
-  "options": [],
+  "options": [
+    {
+      "optionId": "ecc22880-08af-41fa-a2a3-2d0a6e5dc759",
+      "title": "Propulsion Test"
+    },
+    {
+      "optionId": "0cacba1e-1141-489d-988d-eda4782bba61",
+      "title": "Engine Build & Process Technician"
+    }
+  ],
   "optionsUnstructuredTemplate": [
     "Propulsion Test",
     "Engine Build & Process Technician"
