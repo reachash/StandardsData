@@ -285,7 +285,36 @@
       "detail": "Approve and certify electrical and mechanical and building services assets, as appropriate within the defined safety legislation e.g. building regulations"
     }
   ],
-  "options": [],
+  "options": [
+    {
+      "optionId": "2b075360-02e8-436a-b370-e95852dc4737",
+      "title": "Rail Civil Engineering"
+    },
+    {
+      "optionId": "472f985a-e9fc-4971-a320-f1d71da60dfe",
+      "title": "Track Engineering"
+    },
+    {
+      "optionId": "5d116c04-a049-48a4-9358-7c296a83ea75",
+      "title": "Signalling and control systems"
+    },
+    {
+      "optionId": "55341592-05b4-4542-a7be-c9df2a932d8c",
+      "title": "Rail Systems Integration"
+    },
+    {
+      "optionId": "612dd837-1203-4382-b636-c88d3ce49063",
+      "title": "Telecoms, Networks and Digital"
+    },
+    {
+      "optionId": "96a8ddc6-0129-43a5-8272-54d02eca32a6",
+      "title": "Traction and Rolling Stock"
+    },
+    {
+      "optionId": "63fe15a4-7b0e-4f75-9cae-eab5e93a1776",
+      "title": "Electrical, Mechanical or Building Services"
+    }
+  ],
   "optionsUnstructuredTemplate": [
     "Rail Civil Engineering",
     "Track Engineering",
