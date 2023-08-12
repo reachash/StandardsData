@@ -286,7 +286,24 @@
       "detail": "Use diagnostic equipment and software to locate, diagnose and rectify faults on mechanical and electrical components"
     }
   ],
-  "options": [],
+  "options": [
+    {
+      "optionId": "8b2c27d9-cf08-4de7-9d7d-c2853a3269b5",
+      "title": "Coach Builder"
+    },
+    {
+      "optionId": "12d4cfce-63d8-43b8-a1bb-1ca95e8966a4",
+      "title": "Electrical"
+    },
+    {
+      "optionId": "1da1c2a1-b9e4-4d99-8549-e2acd7467be8",
+      "title": "Mechanical"
+    },
+    {
+      "optionId": "3a44c313-b0d0-4a63-bf6b-932c991281d1",
+      "title": "Mechelec"
+    }
+  ],
   "optionsUnstructuredTemplate": [
     "Coach Builder",
     "Electrical",
