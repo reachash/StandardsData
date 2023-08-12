@@ -425,7 +425,28 @@
       "detail": "Effectively communicate using different ways of presenting results of trials and tests to the customer"
     }
   ],
-  "options": [],
+  "options": [
+    {
+      "optionId": "ca03f59c-1e22-4233-b5dd-77a407941a39",
+      "title": "Research and Development Professional"
+    },
+    {
+      "optionId": "3281f761-4784-4f9d-a46f-420062d9623e",
+      "title": "Safety Professional"
+    },
+    {
+      "optionId": "316e7c06-bf54-4ea8-bd3f-364e2f759fb0",
+      "title": "Manufacturing & Processing Professional"
+    },
+    {
+      "optionId": "df190805-cb18-42c5-87ec-3c4a85c8a85b",
+      "title": "Breakdown & Disposal Professional"
+    },
+    {
+      "optionId": "ab66b760-0ebb-4472-a532-22e013bc98f6",
+      "title": "Test & Evaluation Professional"
+    }
+  ],
   "optionsUnstructuredTemplate": [
     "Research and Development Professional",
     "Safety Professional",
