@@ -2,16 +2,16 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 471,
   "referenceNumber": "ST0300",
-  "title": "Pharmacy technician (Integrated)",
+  "title": "Pharmacy technician (integrated)",
   "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/471",
   "versionNumber": "1.1",
-  "change": "Standard, End-point assessment plan and funding band revised but funding remained the same.",
+  "change": "End-point assessment plan and funding band revised but remained the same",
   "changedDate": "2023-08-16T00:00:00Z",
   "earliestStartDate": "2023-08-16T00:00:00Z",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "Managing the supply of medicines and devices in a pharmacy and assisting pharmacists with advisory services.",
+  "overviewOfRole": "Assisting the pharmacist in chemists and hospital dispensaries.",
   "level": 3,
   "typicalDuration": 24,
   "maxFunding": 8000,
@@ -19,22 +19,19 @@
   "keywords": [
     "health",
     "science",
+    "social cre",
     "chemists",
     "hospital",
-    "pharmacy",
-    "technician",
-    "medicine"
+    "pharmacy"
   ],
-  "jobRoles": [
-    "Pharmacy Technician"
-  ],
+  "jobRoles": [],
   "entryRequirements": "",
   "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/kukj5xlf/st0300-pharmacy-technician_l3_fully-integrated_ap_for-publication_09082023.pdf",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.3 Health and social care",
   "version": "1.1",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;Pharmacy Technicians are registered professionals working within the regulatory standards for pharmacy, as set by the General Pharmaceutical Council (GPhC) Pharmacy Order 2010. &lt;br /&gt;&lt;br /&gt;Pharmacy Technicians work in a wide range of settings, including (but not exclusively): registered pharmacies, community services, justice (the Prison Service), GP Practices, dispensing doctors’ practices, care homes and clinical commissioning groups, hospitals, mental health, defence (HM Armed Services) and within the pharmaceutical industry.&lt;/p&gt;\n&lt;p&gt;Pharmacy technicians manage the supply of medicines and devices in a pharmacy and assist pharmacists with advisory services. The actual work setting will determine the specific areas of activity that the Pharmacy Technician undertakes, but typically their role will include the following:&lt;/p&gt;\n&lt;p&gt;&lt;br /&gt;• providing safe and effective pharmacy services&lt;br /&gt;• supply medicines and devices to patients, whether on prescription or over the counter&lt;br /&gt;• achieving the best outcomes through a patient’s medicines&lt;br /&gt;• assemble medicines for prescriptions&lt;br /&gt;• provide information to patients and other healthcare professionals.&lt;br /&gt;• manage areas of medicines supply such as dispensaries&lt;br /&gt;• supervise other pharmacy staff&lt;br /&gt;• answering customers questions face to face or by phone&lt;br /&gt;• pre-packing, assembling and labelling medicines&lt;br /&gt;• referring problems or queries to the pharmacist&lt;/p&gt;\n&lt;p&gt;&lt;br /&gt;A Pharmacy Technician is responsible for carrying out both routine and specialist services, including highly complex activities requiring them to use their professional judgement. They are expected to work both individually and as part of a multi-disciplinary team. They are able to work with minimum supervision, with a high degree of autonomy, taking responsibility for the quality and accuracy of the work that they have undertaken and that of others. Pharmacy Technicians are expected to communicate effectively with healthcare professionals, patients and the public, whilst respecting and maintaining confidentiality and privacy.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;Pharmacy Technicians are registered professionals working within the regulatory standards for pharmacy, as set by the General Pharmaceutical Council (GPhC) Pharmacy Order 2010.&lt;/p&gt;\n&lt;p&gt;Pharmacy Technicians work in a wide range of settings, including (but not exclusively): registered pharmacies, community services, justice (the Prison Service), GP Practices, dispensing doctors’ practices, care homes and clinical commissioning groups, hospitals, mental health, defence (HM Armed Services) and within the pharmaceutical industry&lt;/p&gt;\n&lt;p&gt;Pharmacy technicians manage the supply of medicines and devices in a pharmacy and assist pharmacists with advisory services. The actual work setting will determine the specific areas of activity that the Pharmacy Technician undertakes, but typically their role will include the following&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;providing safe and effective pharmacy services&lt;/li&gt;\n&lt;li&gt;supply medicines and devices to patients, whether on prescription or over the counter&lt;/li&gt;\n&lt;li&gt;achieving the best outcomes through a patient’s medicines&lt;/li&gt;\n&lt;li&gt;assemble medicines for prescriptions&lt;/li&gt;\n&lt;li&gt;provide information to patients and other healthcare professionals.&lt;/li&gt;\n&lt;li&gt;manage areas of medicines supply such as dispensaries&lt;/li&gt;\n&lt;li&gt;supervise other pharmacy staff&lt;/li&gt;\n&lt;li&gt;answering customers questions face to face or by phone&lt;/li&gt;\n&lt;li&gt;pre-packing, assembling and labelling medicines&lt;/li&gt;\n&lt;li&gt;referring problems or queries to the pharmacist&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;A Pharmacy Technician is responsible for carrying out both routine and specialist services, including highly complex activities requiring them to use their professional judgement. They are expected to work both individually and as part of a multi-disciplinary team. They are able to work with minimum supervision, with a high degree of autonomy, taking responsibility for the quality and accuracy of the work that they have undertaken and that of others.&lt;/p&gt;\n&lt;p&gt;Pharmacy Technicians are expected to communicate effectively with healthcare professionals, patients and the public, whilst respecting and maintaining confidentiality and privacy.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "e1b203a5-d85d-4933-a83c-3b0668cdc706",
@@ -311,31 +308,29 @@
     "webLink": ""
   },
   "approvedForDelivery": "2019-07-03T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": true,
   "integratedDegree": "",
   "tbReference": "TB0519",
-  "tbMainContact": "training@buttercups.co.uk",
+  "tbMainContact": "David.evans21@nhs.net",
   "involvedEmployers": "Daleacre Ltd, Lincolnshire Co-Operative Ltd, PCT Healthcare , Leeds Teaching Hospital, Herefordshire CCG, Guy's and St Thomas' NHS Foundation Trust, Bristol NHS Foundation Trust, Boots UK, APTUK, Tesco UK, Superdrug UK, Celesio UK, National Pharmacy Association, Association of Pharmacy Technicians UK",
   "regulated": true,
-  "regulatedBody": "",
+  "regulatedBody": "General Pharmaceuticals Council",
   "coreAndOptions": false,
-  "typicalJobTitles": [
-    "Pharmacy Technician"
-  ],
+  "typicalJobTitles": [],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Healthcare Science",
   "cluster": "Pharmacy Science Assistant",
-  "createdDate": "2023-08-16T07:51:14 +00:00",
+  "createdDate": "2023-08-31T12:45:26 +00:00",
   "lastUpdated": "2023-08-16T00:00:00 +00:00",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/pharmacy-technician-integrated-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/pharmacy-technician-integrated-v1-1",
   "qualifications": [
     {
-      "qualificationId": "a80a94c3-2f70-482d-ae2f-9c1a78d114ea",
+      "qualificationId": "073063f9-9d11-450b-ae66-2a02ea5e6580",
       "title": "General Pharmaceutical Council ",
-      "level": "Two",
+      "level": "3",
       "anyAdditionalInformation": ""
     }
   ],
@@ -539,7 +534,7 @@
   ],
   "regulationDetail": [
     {
-      "name": "Training Provider",
+      "name": "Training provider ",
       "webLink": ""
     },
     {
