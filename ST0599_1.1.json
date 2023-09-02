@@ -3,11 +3,11 @@
   "larsCode": 469,
   "referenceNumber": "ST0599",
   "title": "Dietitian (integrated degree)",
-  "status": "Approved for delivery",
+  "status": "Retired",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/469",
   "versionNumber": "1.1",
   "change": "Funding band and end-point assessment plan revised",
-  "changedDate": "2022-09-23T00:00:00Z",
+  "changedDate": "2023-09-01T00:00:00Z",
   "earliestStartDate": "2021-07-16T00:00:00Z",
   "latestStartDate": "2023-08-31T00:00:00Z",
   "latestEndDate": null,
@@ -266,14 +266,14 @@
   "pathway": "Health",
   "cluster": "Health Professional",
   "createdDate": "2021-07-16T07:18:45 +00:00",
-  "lastUpdated": "2022-09-23T00:00:00 +00:00",
+  "lastUpdated": "2023-09-01T00:00:00 +00:00",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/dietitian-integrated-degree-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/dietitian-integrated-degree-v1-1",
   "qualifications": [
     {
-      "qualificationId": "",
+      "qualificationId": "50849833-bb30-46eb-8955-7361b756907c",
       "title": "Apprentices will be required to complete a BSc (Hons) degree in Dietetics or Level 7 qualification approved  by the Health and Care Professions Council (HCPC) and accredited by the  British Dietetic Association where the apprentice already holds a Level 6 degree",
-      "level": "6 (integrated degree)",
+      "level": "Two",
       "anyAdditionalInformation": ""
     }
   ],
