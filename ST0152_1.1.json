@@ -3,18 +3,18 @@
   "larsCode": 5,
   "referenceNumber": "ST0152",
   "title": "Installation and maintenance electrician",
-  "status": "In development",
+  "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/5",
-  "versionNumber": "",
-  "change": "In revision",
-  "changedDate": "2023-06-05T00:00:00Z",
+  "versionNumber": "1.1",
+  "change": "Standard, End-point assessment plan and funding band revised",
+  "changedDate": "2023-09-04T00:00:00Z",
   "earliestStartDate": "2023-09-03T00:00:00Z",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Install, maintain and repair electrical systems in industrial, commercial and residential environments.",
   "level": 3,
   "typicalDuration": 48,
-  "maxFunding": 0,
+  "maxFunding": 20000,
   "route": "Construction and the built environment",
   "keywords": [
     "electrical systems",
@@ -234,7 +234,7 @@
     "contactEmail": "Carolyn.Mason@netservices.org.uk",
     "webLink": "https://www.netservices.org.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2015-09-10T00:00:00 +00:00",
   "integratedApprenticeship": false,
   "integratedDegree": "",
   "tbReference": "TB0160",
@@ -254,9 +254,9 @@
   "pathway": "Building Services Engineering",
   "cluster": "Building Services Engineering Operative/Technician",
   "createdDate": "2023-06-05T12:48:41 +00:00",
-  "lastUpdated": "2023-06-05T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/installation-and-maintenance-electrician-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/installation-and-maintenance-electrician-in-revision",
+  "lastUpdated": "2023-09-04T00:00:00 +00:00",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/installation-and-maintenance-electrician-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/installation-and-maintenance-electrician-v1-1",
   "qualifications": [
     {
       "qualificationId": "f1793527-d7cf-49e1-ab7e-c0a440e224d4",
@@ -628,5 +628,5 @@
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
-  "coronationEmblem": false
+  "coronationEmblem": true
 }
