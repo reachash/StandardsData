@@ -7,7 +7,7 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/421",
   "versionNumber": "1.2",
   "change": "Standard, end-point assessment plan and funding band revised.",
-  "changedDate": "2023-09-01T00:00:00Z",
+  "changedDate": "2023-09-13T00:00:00Z",
   "earliestStartDate": "2023-09-01T00:00:00Z",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -566,11 +566,11 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Office for Students",
-    "contactName": "Rob Stroud, Interim Director – Quality Assessment, England",
-    "contactAddress": "Southgate House, Southgate Street, Gloucester, GL1 1UB",
-    "contactEmail": "QAE@QAA.ac.uk",
-    "webLink": "https://www.officeforstudents.org.uk/"
+    "providerName": "Institute for Apprenticeships and Technical Education ",
+    "contactName": "",
+    "contactAddress": "London office: Sanctuary Buildings, 20 Great Smith Street, London SW1P 3BT<br>Coventry office: Level 2 Cheylesmore House, 5 Quinton Rd, Coventry CV1 2WT",
+    "contactEmail": "EQAQueries.IFA@education.gov.uk",
+    "webLink": ""
   },
   "approvedForDelivery": "2019-03-15T00:00:00 +00:00",
   "integratedApprenticeship": false,
@@ -593,7 +593,7 @@
   "pathway": "Health",
   "cluster": "Health Practitioner",
   "createdDate": "2023-08-16T10:32:20 +00:00",
-  "lastUpdated": "2023-09-01T00:00:00 +00:00",
+  "lastUpdated": "2023-09-13T00:00:00 +00:00",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/hearing-aid-dispenser-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/hearing-aid-dispenser-v1-2",
   "qualifications": [
