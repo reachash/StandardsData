@@ -7,7 +7,7 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/571",
   "versionNumber": "1.2",
   "change": "Standard and end-point assessment plan revised",
-  "changedDate": "2023-07-25T00:00:00Z",
+  "changedDate": "2023-09-13T00:00:00Z",
   "earliestStartDate": "2023-07-25T00:00:00Z",
   "latestStartDate": "2023-07-25T00:00:00Z",
   "latestEndDate": null,
@@ -274,11 +274,11 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
+    "providerName": "Ofqual",
     "contactName": "",
-    "contactAddress": "London office: Sanctuary Buildings, 20 Great Smith Street, London SW1P 3BT<br>Coventry office: Level 2 Cheylesmore House, 5 Quinton Rd, Coventry CV1 2WT",
-    "contactEmail": "EQAQueries.IFA@education.gov.uk",
-    "webLink": ""
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-07-10T00:00:00 +00:00",
   "integratedApprenticeship": false,
@@ -298,7 +298,7 @@
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Game and Pest Control Technician",
   "createdDate": "2023-07-25T14:44:54 +00:00",
-  "lastUpdated": "2023-07-25T00:00:00 +00:00",
+  "lastUpdated": "2023-09-13T00:00:00 +00:00",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/underkeeper-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/underkeeper-v1-2",
   "qualifications": [
