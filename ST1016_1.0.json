@@ -7,7 +7,7 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/716",
   "versionNumber": "1.0",
   "change": "Approved for delivery ",
-  "changedDate": "2023-07-27T00:00:00Z",
+  "changedDate": "2023-09-19T00:00:00Z",
   "earliestStartDate": "2023-07-27T00:00:00Z",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -515,11 +515,11 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual is the intended EQA provider",
+    "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
     "contactEmail": "",
-    "webLink": ""
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-07-27T00:00:00 +00:00",
   "integratedApprenticeship": false,
@@ -565,7 +565,7 @@
   "pathway": "Protective Services",
   "cluster": "Protective Service Officer",
   "createdDate": "2023-07-27T15:41:26 +00:00",
-  "lastUpdated": "2023-07-27T00:00:00 +00:00",
+  "lastUpdated": "2023-09-19T00:00:00 +00:00",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/professional-security-operative-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/professional-security-operative-v1-0",
   "qualifications": [
