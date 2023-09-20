@@ -14,7 +14,7 @@
   "overviewOfRole": "Installing a wide range of replacement and new build fenestration products in a property or structure.",
   "level": 2,
   "typicalDuration": 18,
-  "maxFunding": 6000,
+  "maxFunding": 0,
   "route": "Construction and the built environment",
   "keywords": [
     "fenestration installation",
@@ -325,11 +325,11 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
+    "providerName": "Ofqual",
     "contactName": "",
-    "contactAddress": "London office: Sanctuary Buildings, 20 Great Smith Street, London SW1P 3BT<br>Coventry office: Level 2 Cheylesmore House, 5 Quinton Rd, Coventry CV1 2WT",
-    "contactEmail": "EQAQueries.IFA@education.gov.uk",
-    "webLink": ""
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "",
   "integratedApprenticeship": false,
@@ -351,7 +351,7 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Onsite Construction",
   "cluster": "Core Building Tradesperson",
-  "createdDate": "2023-09-13T09:34:54 +00:00",
+  "createdDate": "2023-09-19T07:30:17 +00:00",
   "lastUpdated": "2023-09-13T00:00:00 +00:00",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/fenestration-installer-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/fenestration-installer-in-revision",
