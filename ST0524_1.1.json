@@ -11,12 +11,23 @@
   "earliestStartDate": "2022-11-17T00:00:00Z",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "Able to competently perform the professional sport in which they train such as; cricket, football, rugby league, rugby union and equestrianism.",
+  "overviewOfRole": "Able to competently perform the professional sport in which they train such as; cricket, football, rugby league, rugby union  and equestrianism.",
   "level": 3,
   "typicalDuration": 18,
   "maxFunding": 10000,
   "route": "Health and science",
-  "keywords": [],
+  "keywords": [
+    "sport",
+    "sporting",
+    "leisure",
+    "recreation",
+    "cricket",
+    "football",
+    "rugby",
+    "healthcare",
+    "Science",
+    "professional"
+  ],
   "jobRoles": [
     "Dressage rider",
     "Equestrian athlete",
@@ -480,7 +491,12 @@
       "title": "Equestrian"
     }
   ],
-  "optionsUnstructuredTemplate": [],
+  "optionsUnstructuredTemplate": [
+    "Cricket",
+    "Football",
+    "Rugby League",
+    "Rugby Union"
+  ],
   "proposalApproved": "",
   "standardApproved": "",
   "epaApprovalDate": "",
@@ -518,7 +534,7 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Community Exercise, Physical Activity, Sport and Health",
   "cluster": "Exercise, Fitness and Health Assistant",
-  "createdDate": "2022-11-17T15:30:31 +00:00",
+  "createdDate": "2023-10-03T06:55:46 +00:00",
   "lastUpdated": "2022-11-28T00:00:00 +00:00",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/sporting-excellence-professional-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/sporting-excellence-professional-v1-1",
@@ -1140,7 +1156,6 @@
       "isThisACoreDuty": 0,
       "mappedBehaviour": null,
       "mappedKnowledge": [
-        "b2f094e0-751b-4492-b569-804bf53a4f99",
         "58629f0c-d4d3-4855-aabe-094eef9e582e",
         "9befe3be-0279-4930-a9dd-76d2374e4cf2"
       ],
@@ -1187,7 +1202,38 @@
     }
   ],
   "regulationDetail": [],
-  "optionsUnstructuredKsbMapping": [],
+  "optionsUnstructuredKsbMapping": [
+    {
+      "coreOrOptionTitle": "Core",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Cricket",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Football",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Rugby League",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Rugby Union",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    }
+  ],
   "careerStarter": false,
   "coronationEmblem": false
 }
