@@ -7,11 +7,11 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/532",
   "versionNumber": "",
   "change": "In revision",
-  "changedDate": "2023-09-20T00:00:00Z",
-  "earliestStartDate": null,
+  "changedDate": "2023-10-26T00:00:00Z",
+  "earliestStartDate": "2024-01-01T00:00:00Z",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "Providing a hygienically clean healthcare environment in which service users, staff and other users can thrive, work and develop.",
+  "overviewOfRole": "Providing a hygienically clean environment in which service users, staff and other users can thrive, work and develop.",
   "level": 2,
   "typicalDuration": 12,
   "maxFunding": 0,
@@ -347,8 +347,8 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Healthcare Science",
   "cluster": "Healthcare Cleaning & Hygiene Operatives",
-  "createdDate": "2023-09-20T14:47:43 +00:00",
-  "lastUpdated": "2023-09-20T00:00:00 +00:00",
+  "createdDate": "2023-10-26T08:43:24 +00:00",
+  "lastUpdated": "2023-10-26T00:00:00 +00:00",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/cleaning-hygiene-operative-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/cleaning-hygiene-operative-in-revision",
   "qualifications": [],
@@ -356,7 +356,7 @@
   "duties": [
     {
       "dutyID": "fca52215-2eea-4b65-a5e2-488736911e49",
-      "dutyDetail": "Deliver services to contract specifications, cleaning schedules and follow processes for out-of-scope requests.",
+      "dutyDetail": "Deliver services to contract specifications, cleaning schedules and follow processes for out-of-scope requests",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c4c6fa9b-2351-4c59-9808-64a87b2974c3"
@@ -373,7 +373,7 @@
     },
     {
       "dutyID": "eee49c2e-08b1-4d83-9dd2-c634845551a8",
-      "dutyDetail": "Organise and prioritise workloads and respond to the changes of the working environment as required.",
+      "dutyDetail": "Organise and prioritise workloads and respond to the changes of the working environment as required",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "61635dd6-8ca1-4888-80db-efccc5ecec62",
@@ -391,7 +391,7 @@
     },
     {
       "dutyID": "07634a44-2c40-4130-982a-bf8b91e8168f",
-      "dutyDetail": "Comply with health and safety, environmental requirements and infection prevention and control policy and procedures.",
+      "dutyDetail": "Comply with health and safety, environmental requirements and infection prevention and control policy and procedures",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b6feff74-6c93-4633-b5c3-cd154bdbe26d"
@@ -414,7 +414,7 @@
     },
     {
       "dutyID": "ab448197-5b23-4b0e-b7c0-68f2a6935563",
-      "dutyDetail": "Select and apply techniques for safe removal of soil and contaminating material.",
+      "dutyDetail": "Select and apply techniques for safe removal of soil and contaminating material",
       "isThisACoreDuty": 1,
       "mappedBehaviour": null,
       "mappedKnowledge": [
@@ -428,7 +428,7 @@
     },
     {
       "dutyID": "a095a0a3-8111-4720-8d0a-b37bce507508",
-      "dutyDetail": "Carry out cleaning tasks using appropriate cleaning agents.",
+      "dutyDetail": "Carry out cleaning tasks using appropriate cleaning agents",
       "isThisACoreDuty": 1,
       "mappedBehaviour": null,
       "mappedKnowledge": [
@@ -443,7 +443,7 @@
     },
     {
       "dutyID": "0c669a43-7eec-4d99-b8be-9df4a82cd697",
-      "dutyDetail": "Use cleaning or disinfection procedures correctly.",
+      "dutyDetail": "Use cleaning or disinfection procedures correctly",
       "isThisACoreDuty": 1,
       "mappedBehaviour": null,
       "mappedKnowledge": [
@@ -458,7 +458,7 @@
     },
     {
       "dutyID": "302869d8-f806-4f03-8fce-90a612112db8",
-      "dutyDetail": "Monitor the environment for signs of pest infestation.",
+      "dutyDetail": "Monitor the environment for signs of pest infestation",
       "isThisACoreDuty": 1,
       "mappedBehaviour": null,
       "mappedKnowledge": [
@@ -472,7 +472,7 @@
     },
     {
       "dutyID": "8ff78b19-a0d5-4610-8a6b-d1267856b801",
-      "dutyDetail": "Safely use cleaning equipment, materials, personal protective equipment (PPE), and products in accordance with manufacturer’s instructions, legal and organisational requirements.",
+      "dutyDetail": "Safely use cleaning equipment, materials, personal protective equipment (PPE), and products in accordance with manufacturer’s instructions, legal and organisational requirements",
       "isThisACoreDuty": 1,
       "mappedBehaviour": null,
       "mappedKnowledge": [
@@ -490,7 +490,7 @@
     },
     {
       "dutyID": "6c4c8e25-0d10-4a0c-872e-b3a0ff89926b",
-      "dutyDetail": "Maintain working relationships and communicate effectively with customers in order to meet their needs.",
+      "dutyDetail": "Maintain working relationships and communicate effectively with customers in order to meet their needs",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d50e2efb-f6d2-41de-a981-cfd1322ef02e"
@@ -504,7 +504,7 @@
     },
     {
       "dutyID": "a34c015c-2e0d-427c-8062-f4f6af6e8f96",
-      "dutyDetail": "Maintain storage areas using housekeeping best practice.",
+      "dutyDetail": "Maintain storage areas using housekeeping best practice",
       "isThisACoreDuty": 1,
       "mappedBehaviour": null,
       "mappedKnowledge": [
@@ -519,7 +519,7 @@
     },
     {
       "dutyID": "7a10cc20-e251-4fb3-b30f-2995e24d5dd3",
-      "dutyDetail": "Dispose of cleaning products and materials in line with legal requirements.",
+      "dutyDetail": "Dispose of cleaning products and materials in line with legal requirements",
       "isThisACoreDuty": 1,
       "mappedBehaviour": null,
       "mappedKnowledge": [
@@ -534,7 +534,7 @@
     },
     {
       "dutyID": "facc1241-f31a-435f-b298-ceacb363299d",
-      "dutyDetail": "Accurately record and report work, using industry-standard methods.",
+      "dutyDetail": "Accurately record and report work, using industry-standard methods",
       "isThisACoreDuty": 1,
       "mappedBehaviour": null,
       "mappedKnowledge": [
@@ -550,7 +550,7 @@
     },
     {
       "dutyID": "fcd74007-ee60-4eb2-a1fb-08636d256681",
-      "dutyDetail": "Follow site-specific security protocols and data protection requirements.",
+      "dutyDetail": "Follow site-specific security protocols and data protection requirements",
       "isThisACoreDuty": 1,
       "mappedBehaviour": null,
       "mappedKnowledge": [
@@ -566,7 +566,7 @@
     },
     {
       "dutyID": "24873f3d-8a32-40f3-a5ae-8f75fa1417d5",
-      "dutyDetail": "Use data to support the cleaning process.",
+      "dutyDetail": "Use data to support the cleaning process",
       "isThisACoreDuty": 1,
       "mappedBehaviour": null,
       "mappedKnowledge": [
@@ -581,7 +581,7 @@
     },
     {
       "dutyID": "73493436-e2ac-422f-ba85-d95577c8aabb",
-      "dutyDetail": "Take account of service users’ mental, emotional, and physical needs while cleaning.",
+      "dutyDetail": "Take account of service users’ mental, emotional, and physical needs while cleaning",
       "isThisACoreDuty": 0,
       "mappedBehaviour": null,
       "mappedKnowledge": [
@@ -597,7 +597,7 @@
     },
     {
       "dutyID": "52925a3d-5666-4706-99e4-2387793dea5b",
-      "dutyDetail": "Disassemble and reassemble a range of service user equipment used in healthcare services.",
+      "dutyDetail": "Disassemble and reassemble a range of service user equipment used in healthcare services",
       "isThisACoreDuty": 0,
       "mappedBehaviour": null,
       "mappedKnowledge": [
@@ -613,7 +613,7 @@
     },
     {
       "dutyID": "71515112-ed08-46fc-bbd9-05c70d9df22b",
-      "dutyDetail": "Provide routine and specialist hygienic cleaning and decontamination of the healthcare environment in line with the National Standards of Healthcare Cleanliness and local standards, policies, guidelines, and operating procedures.",
+      "dutyDetail": "Provide routine and specialist hygienic cleaning and decontamination of the healthcare environment in line with the National Standards of Healthcare Cleanliness and local standards, policies, guidelines, and operating procedures",
       "isThisACoreDuty": 0,
       "mappedBehaviour": null,
       "mappedKnowledge": [
@@ -629,7 +629,7 @@
     },
     {
       "dutyID": "071b25ae-0b2e-49c6-b386-0b31a32fc22e",
-      "dutyDetail": "Prepare area or items to be cleaned in line with clients’ instructions and contract requirements.",
+      "dutyDetail": "Prepare area or items to be cleaned in line with clients’ instructions and contract requirements ",
       "isThisACoreDuty": 0,
       "mappedBehaviour": null,
       "mappedKnowledge": [
@@ -645,7 +645,7 @@
     },
     {
       "dutyID": "f9192a7f-78ff-47b4-8193-5dd5c333fe96",
-      "dutyDetail": "Deliver routine hygienic cleaning of the commercial environment in line with local standards, policies, guidelines, and operating procedures.",
+      "dutyDetail": "Deliver routine hygienic cleaning of the commercial environment in line with local standards, policies, guidelines, and operating procedures",
       "isThisACoreDuty": 0,
       "mappedBehaviour": null,
       "mappedKnowledge": [
@@ -661,7 +661,7 @@
     },
     {
       "dutyID": "ddfa7b0c-7ccd-4bff-9c15-227741dcb256",
-      "dutyDetail": "Undertake specialist cleaning projects in a commercial environment, both planned and reactive, in response to specific issues or incidents using the appropriate cleaning techniques.",
+      "dutyDetail": "Undertake specialist cleaning projects in a commercial environment, both planned and reactive, in response to specific issues or incidents using the appropriate cleaning techniques",
       "isThisACoreDuty": 0,
       "mappedBehaviour": null,
       "mappedKnowledge": [
