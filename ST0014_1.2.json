@@ -275,14 +275,7 @@
     }
   ],
   "options": [],
-  "optionsUnstructuredTemplate": [
-    "Act as Safety Person for Another Tradesperson Undertaking a Hazardous Maintenance Task",
-    "Assist with Aircraft Functional Checks on Non-Complex Systems",
-    "Undertake Aircraft Assisted Escape System (AAES)",
-    "Undertake Avionic Component Replacement",
-    "Undertake Mechanical Component Replacement",
-    "Work Safely with Others on Aircraft Armament Systems"
-  ],
+  "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
   "epaApprovalDate": "",
@@ -743,50 +736,7 @@
     }
   ],
   "regulationDetail": [],
-  "optionsUnstructuredKsbMapping": [
-    {
-      "coreOrOptionTitle": "Core",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Act as Safety Person for Another Tradesperson Undertaking a Hazardous Maintenance Task",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Assist with Aircraft Functional Checks on Non-Complex Systems",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Undertake Aircraft Assisted Escape System (AAES)",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Undertake Avionic Component Replacement",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Undertake Mechanical Component Replacement",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Work Safely with Others on Aircraft Armament Systems",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    }
-  ],
+  "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false
 }
