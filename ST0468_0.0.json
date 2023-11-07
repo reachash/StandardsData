@@ -7,7 +7,7 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/0",
   "versionNumber": "",
   "change": "Withdrawn",
-  "changedDate": "2023-07-06T00:00:00Z",
+  "changedDate": "2023-07-06T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
@@ -348,7 +348,6 @@
       "detail": "Application of insurance rules and safeguards to high value items, including third party property cover and professional indemnity."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -377,8 +376,11 @@
   "reviewDetails": "",
   "pathway": "Craft and Design",
   "cluster": "Heritage Specialist",
+  "clusterId": "182",
+  "clusterDescription": "A specialist in using traditional hand craft skills to shape and sculpt natural materials.",
   "createdDate": "2021-12-14T09:04:01 +00:00",
   "lastUpdated": "2023-07-06T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/journeyman-bookbinder?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/journeyman-bookbinder",
   "qualifications": [],
@@ -398,7 +400,7 @@
         "7efedf08-74f9-4cb0-96a7-f07b3cb1e966",
         "8c59aa3e-9671-47c8-b0f9-95a7d7c7ee7a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8c25f9bd-4ab3-4581-8989-7a655c171451",
         "437f8e6c-af28-4700-a75f-e19c522d1832",
@@ -428,7 +430,7 @@
         "6d1aabac-0468-4e8f-a622-b568cec3ea2b",
         "efe7eae4-9a5f-4d70-999e-2070d0866b19"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5b015c0d-294b-477b-b393-5f64be3ef16d",
         "fb49749b-5b28-4483-872b-7187fc6cf09c",
@@ -451,7 +453,7 @@
         "2ee45982-4402-4e37-a18a-d240d154c531",
         "1f281995-bf9d-4106-9dee-e6140767eb76"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "203b25a9-c152-423b-a945-ccf130c7f267",
         "c8795402-e76e-4664-aef0-6d035ee858fa",
@@ -477,7 +479,7 @@
         "9c93e4b8-1655-4128-bcfe-ecc383e78150",
         "3968c007-e17d-49b4-9d05-4148037f1835"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fb49749b-5b28-4483-872b-7187fc6cf09c",
         "3f15526b-038c-471a-8971-a559e1d11814",
@@ -508,7 +510,7 @@
         "9c93e4b8-1655-4128-bcfe-ecc383e78150",
         "8415a42f-200a-48fe-aa15-5c393f0b3d19"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3f15526b-038c-471a-8971-a559e1d11814",
         "8522e39a-61d8-41f0-89f9-0a5fb639e37c",
@@ -533,7 +535,7 @@
         "9c93e4b8-1655-4128-bcfe-ecc383e78150",
         "b2a084ea-e84f-4ffe-bee1-9530d5d01ede"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ae9db4c4-00f9-42d0-99c5-e3eaba7ce805",
         "3724678d-0209-405b-8088-e945ec87056f",
@@ -558,7 +560,7 @@
         "e8a8c9bb-b3ab-44b9-9ff5-5dc09e142a8e",
         "de9bc075-5208-46ef-9b79-c4d7db870f3d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "01415856-5e40-45c0-a817-789d97d67cb5",
         "4521ba86-f3ba-4ff2-806c-1896862f49cf",
@@ -582,7 +584,7 @@
         "4d87552c-273a-4dc6-a572-026bc2d3720a",
         "e8a8c9bb-b3ab-44b9-9ff5-5dc09e142a8e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3f15526b-038c-471a-8971-a559e1d11814",
         "4521ba86-f3ba-4ff2-806c-1896862f49cf",
@@ -610,7 +612,7 @@
         "3e81decd-c2e4-413b-a8ac-798af31759f7",
         "9fdceb00-4d92-4eb4-b3b9-5333889961f2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2d652ab2-3750-4d4f-949d-64b15fe95cdd",
         "0e5f27f3-cfeb-4129-9bc8-dd26756eaba0",
@@ -633,7 +635,7 @@
         "3e81decd-c2e4-413b-a8ac-798af31759f7",
         "9fdceb00-4d92-4eb4-b3b9-5333889961f2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7ea95371-2a8f-455c-83da-047a3647db6d",
         "43053738-f6a2-4307-b812-faa2f6276b15",
@@ -652,7 +654,7 @@
       "mappedKnowledge": [
         "6d1aabac-0468-4e8f-a622-b568cec3ea2b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fb49749b-5b28-4483-872b-7187fc6cf09c",
         "21b4c9f2-95d6-4349-9dc0-e0474bee38d5",
@@ -671,13 +673,14 @@
       "mappedKnowledge": [
         "15dbe155-f990-4ee2-b0a4-ec11462b8aa6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1d1132c6-575c-403f-913d-65cb9d668644"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
