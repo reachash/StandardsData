@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/151",
   "versionNumber": "1.2",
   "change": "The funding band for this standard has been reviewed as part of the apprenticeship funding band review. The new funding band is £5000.",
-  "changedDate": "2018-10-03T00:00:00Z",
-  "earliestStartDate": "2018-10-03T00:00:00Z",
-  "latestStartDate": "2022-10-31T00:00:00Z",
+  "changedDate": "2018-10-03T00:00:00",
+  "earliestStartDate": "2018-10-03T00:00:00",
+  "latestStartDate": "2022-10-31T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Providing high-quality and compassionate specialist health and social care for a range of people.",
   "level": 3,
@@ -1017,7 +1017,6 @@
       "detail": "use equipment and resources therapeutically in a safe, effective way in line with local policy and procedure"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [
     "Adult Nursing Support",
     "Allied Health Profession - Therapy Support",
@@ -1055,13 +1054,17 @@
   "reviewDetails": "",
   "pathway": "Health",
   "cluster": "Health Assistant",
+  "clusterId": "112",
+  "clusterDescription": "Provide direct patient contact and caring undertaking routine well defined clinical duties",
   "createdDate": "2020-09-08T07:43:46 +00:00",
   "lastUpdated": "2018-10-03T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/senior-healthcare-support-worker-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/senior-healthcare-support-worker-v1-2",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
