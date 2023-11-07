@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/606",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-10-18T00:00:00Z",
-  "earliestStartDate": "2020-11-09T00:00:00Z",
-  "latestStartDate": "2023-10-17T00:00:00Z",
+  "changedDate": "2023-10-18T00:00:00",
+  "earliestStartDate": "2020-11-09T00:00:00",
+  "latestStartDate": "2023-10-17T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "To support their organisation to identify costumes for short/long term performance plans and be responsible for the care, maintenance and usage of costumes, ensuring that all costume elements are at the standard of the designer’s specification.",
   "level": 3,
@@ -355,7 +355,6 @@
       "detail": "Follow Organisation’s financial processes for procurement of agreed good and services"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -387,8 +386,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Production Arts Assistant",
+  "clusterId": "60",
+  "clusterDescription": "Work from event/staging designs to create impactful and safe staging and lighting solutions along with props and costume support",
   "createdDate": "2020-03-03T09:57:58 +00:00",
   "lastUpdated": "2023-10-18T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/costume-performance-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/costume-performance-technician-v1-0",
   "qualifications": [],
@@ -428,7 +430,7 @@
         "5c7171ee-4cca-4cf9-941b-1547c71fb8db",
         "66db6a76-6e89-4f81-9166-c5eeb6786f8b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "78a3cd20-4e39-44bf-89cd-07f06f76a4fe",
         "9beb7e2e-3f4e-4a1d-9f1d-5239a59c2192",
@@ -486,7 +488,7 @@
         "55e8ef1b-7a57-4ee2-a402-557235c6e8d1",
         "dabc62f1-f025-47d2-8f15-26b22369af87"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9beb7e2e-3f4e-4a1d-9f1d-5239a59c2192",
         "e8306f3c-3e9b-48b4-abd7-2ae0329099e1",
@@ -545,7 +547,7 @@
         "5c7171ee-4cca-4cf9-941b-1547c71fb8db",
         "66db6a76-6e89-4f81-9166-c5eeb6786f8b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "78a3cd20-4e39-44bf-89cd-07f06f76a4fe",
         "9beb7e2e-3f4e-4a1d-9f1d-5239a59c2192",
@@ -589,7 +591,7 @@
         "55e8ef1b-7a57-4ee2-a402-557235c6e8d1",
         "dabc62f1-f025-47d2-8f15-26b22369af87"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9beb7e2e-3f4e-4a1d-9f1d-5239a59c2192",
         "e8306f3c-3e9b-48b4-abd7-2ae0329099e1",
@@ -643,7 +645,7 @@
         "731ecd5b-1630-4531-963c-7e36e563e7d1",
         "55e8ef1b-7a57-4ee2-a402-557235c6e8d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b056a245-3f53-417e-8be5-ed9bcca9abc0",
         "09860af8-1d96-44a7-9d96-1d99db8d25e4",
@@ -690,7 +692,7 @@
         "c597b714-d760-4b5e-9df8-3b74d31729b9",
         "55e8ef1b-7a57-4ee2-a402-557235c6e8d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b056a245-3f53-417e-8be5-ed9bcca9abc0",
         "09860af8-1d96-44a7-9d96-1d99db8d25e4",
@@ -745,7 +747,7 @@
         "55e8ef1b-7a57-4ee2-a402-557235c6e8d1",
         "dabc62f1-f025-47d2-8f15-26b22369af87"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "09860af8-1d96-44a7-9d96-1d99db8d25e4",
         "1a238914-d4d2-4aed-bbcb-77ec094f1643",
@@ -791,7 +793,7 @@
         "40b2fcf0-33c1-4619-b082-c3ec057bdc9f",
         "55e8ef1b-7a57-4ee2-a402-557235c6e8d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b056a245-3f53-417e-8be5-ed9bcca9abc0",
         "09860af8-1d96-44a7-9d96-1d99db8d25e4",
@@ -841,7 +843,7 @@
         "55e8ef1b-7a57-4ee2-a402-557235c6e8d1",
         "dabc62f1-f025-47d2-8f15-26b22369af87"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b056a245-3f53-417e-8be5-ed9bcca9abc0",
         "e8306f3c-3e9b-48b4-abd7-2ae0329099e1",
@@ -905,7 +907,7 @@
         "55e8ef1b-7a57-4ee2-a402-557235c6e8d1",
         "dabc62f1-f025-47d2-8f15-26b22369af87"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b056a245-3f53-417e-8be5-ed9bcca9abc0",
         "09860af8-1d96-44a7-9d96-1d99db8d25e4",
@@ -951,7 +953,7 @@
         "5c7171ee-4cca-4cf9-941b-1547c71fb8db",
         "66db6a76-6e89-4f81-9166-c5eeb6786f8b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b056a245-3f53-417e-8be5-ed9bcca9abc0",
         "e8306f3c-3e9b-48b4-abd7-2ae0329099e1",
@@ -997,7 +999,7 @@
         "55e8ef1b-7a57-4ee2-a402-557235c6e8d1",
         "66db6a76-6e89-4f81-9166-c5eeb6786f8b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b056a245-3f53-417e-8be5-ed9bcca9abc0",
         "09860af8-1d96-44a7-9d96-1d99db8d25e4",
@@ -1048,7 +1050,7 @@
         "dabc62f1-f025-47d2-8f15-26b22369af87",
         "66db6a76-6e89-4f81-9166-c5eeb6786f8b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b056a245-3f53-417e-8be5-ed9bcca9abc0",
         "e8306f3c-3e9b-48b4-abd7-2ae0329099e1",
@@ -1087,7 +1089,7 @@
         "dabc62f1-f025-47d2-8f15-26b22369af87",
         "66db6a76-6e89-4f81-9166-c5eeb6786f8b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b056a245-3f53-417e-8be5-ed9bcca9abc0",
         "09860af8-1d96-44a7-9d96-1d99db8d25e4",
@@ -1134,7 +1136,7 @@
         "5c7171ee-4cca-4cf9-941b-1547c71fb8db",
         "66db6a76-6e89-4f81-9166-c5eeb6786f8b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b056a245-3f53-417e-8be5-ed9bcca9abc0",
         "1a238914-d4d2-4aed-bbcb-77ec094f1643",
@@ -1175,7 +1177,7 @@
         "5c7171ee-4cca-4cf9-941b-1547c71fb8db",
         "66db6a76-6e89-4f81-9166-c5eeb6786f8b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9beb7e2e-3f4e-4a1d-9f1d-5239a59c2192",
         "b056a245-3f53-417e-8be5-ed9bcca9abc0",
@@ -1196,6 +1198,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
