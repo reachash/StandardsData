@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/728",
   "versionNumber": "1.0",
   "change": "Approved for delivery ",
-  "changedDate": "2023-09-20T00:00:00Z",
-  "earliestStartDate": "2023-09-20T00:00:00Z",
+  "changedDate": "2023-09-20T00:00:00",
+  "earliestStartDate": "2023-09-20T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Assessing the health needs of individuals, families, workplaces and the wider community.",
@@ -1365,20 +1365,6 @@
       "detail": "Evaluate, synthesise and communicate data and information to quantify and qualify the positive impact of occupational health interventions on workplace and business targets and outcomes."
     }
   ],
-  "options": [
-    {
-      "optionId": "88be59f7-839d-408b-8fd5-f43c88b5928a",
-      "title": "Health Visitor"
-    },
-    {
-      "optionId": "292e994c-5f45-408a-8a2a-7cbbda77bd6e",
-      "title": "Occupational Health Nurse"
-    },
-    {
-      "optionId": "61081ff1-14c7-4765-b71a-613a2c076624",
-      "title": "School Nurse"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -1411,8 +1397,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Health",
   "cluster": "Midwifery and Nursing Professional",
+  "clusterId": "211",
+  "clusterDescription": "Assess, plan, implement and evaluate patient care in multiple settings with specialist expertise often working independently",
   "createdDate": "2023-09-20T12:27:51 +00:00",
   "lastUpdated": "2023-09-20T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/specialist-community-public-health-nurse-nmc-2022-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/specialist-community-public-health-nurse-nmc-2022-v1-0",
   "qualifications": [
@@ -1445,7 +1434,7 @@
         "f6f00d3e-a1c1-4654-8f76-0e6ed79898a2",
         "2521ee07-2383-40c5-9a5a-632d3b6e4f4c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "69f3f4a4-9aa5-493e-8928-80e444e6dba7",
         "4ea7daa3-23a4-4443-9d7a-76eb6800355f",
@@ -1483,7 +1472,7 @@
         "3e0b0c2b-c720-4e4b-b96d-950e7737a189",
         "2857b9b9-9694-40c9-b3d4-099da7cb1bcc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "74d89293-4ade-47e8-a6b7-b6f682f5a3a7",
         "2ab862d8-0af9-4807-be15-35ae96c6a8c1",
@@ -2197,6 +2186,23 @@
         "a078f543-7b0b-4e77-b6e6-0b2f861f9ec0"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "88be59f7-839d-408b-8fd5-f43c88b5928a",
+      "title": "Health Visitor",
+      "occupationCode": null
+    },
+    {
+      "optionId": "292e994c-5f45-408a-8a2a-7cbbda77bd6e",
+      "title": "Occupational Health Nurse",
+      "occupationCode": null
+    },
+    {
+      "optionId": "61081ff1-14c7-4765-b71a-613a2c076624",
+      "title": "School Nurse",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [
