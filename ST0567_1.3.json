@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/318",
   "versionNumber": "1.3",
   "change": "Standard, end-point assessment plan and funding band revised.",
-  "changedDate": "2023-09-01T00:00:00Z",
-  "earliestStartDate": "2023-09-01T00:00:00Z",
+  "changedDate": "2023-09-01T00:00:00",
+  "earliestStartDate": "2023-09-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing high quality and compassionate care, responding to the needs of service users and carers across the lifespan.",
@@ -614,7 +614,6 @@
       "detail": "Carry out vehicle checks, to ensure that the vehicle is road worthy, clean and stocked."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -644,8 +643,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Health",
   "cluster": "Health Professional",
+  "clusterId": "6",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2023-06-23T08:59:46 +00:00",
   "lastUpdated": "2023-09-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/paramedic-v1-3?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/paramedic-v1-3",
   "qualifications": [
@@ -690,7 +692,7 @@
         "a00c9cdb-311a-40b5-948b-e8d2718dfdc5",
         "f42d1610-8185-4eb9-b824-7fe53b85a8c8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a958e2af-95e5-49ef-8ce8-ad754c650532",
         "4d686063-6a51-4b7c-96c9-b9a5b2874534",
@@ -713,13 +715,13 @@
       "dutyID": "e7e9bd81-99a2-4f4d-a066-3bc667ea3f49",
       "dutyDetail": "Look after own health and wellbeing, seeking appropriate support where necessary.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "c5a43024-9426-4a47-82fe-c8e32ef13cbb",
         "c7c8f306-22c2-4e04-85b1-0a66f363a6e7",
         "ce027fc3-417c-409b-a8d7-f0d790a102aa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "80a8b20d-6885-4eb7-be65-e22bbe380ca0",
         "e347126a-e2aa-4e5d-beb4-ac887d62d9af"
@@ -730,14 +732,14 @@
       "dutyID": "f8d59975-ee72-4869-ab61-dc1cf60c9211",
       "dutyDetail": "Practise as an autonomous professional, exercising professional judgement.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "c4d81540-6eda-41dc-a568-59f077cac548",
         "b0d353df-2534-4790-aad3-d860c988e96f",
         "62613d5e-f797-41df-9d6d-3b22e295d311",
         "273b2f27-adaf-4558-a69e-732750197450"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "84bef89c-57c5-4f84-a875-8d714e44313e",
         "99e2b3fc-d254-4cfa-93e7-dd04e847d93c",
@@ -759,8 +761,8 @@
         "6c280c96-8407-4105-b301-3f0d5edf9ce0",
         "6585c878-41cf-4d25-92b2-8ffc6addb5aa"
       ],
-      "mappedKnowledge": null,
-      "mappedOptions": null,
+      "mappedKnowledge": [],
+      "mappedOptions": [],
       "mappedSkills": [
         "444e944c-214d-4ce4-be49-32a3905dfc6a",
         "2a714215-d829-4f09-b419-241c83cf4d0f",
@@ -784,7 +786,7 @@
         "8d8939eb-4a74-4cf4-8231-4252707ef547",
         "79d57710-0793-4bf8-8321-0c862c5dea15"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "89fc8a47-2d17-46e3-a0fb-0cc6922b4568",
         "bc6938f7-b11f-46ad-8f66-ef84dcd03ec0",
@@ -803,7 +805,7 @@
       "dutyID": "9187ca8a-6561-41d2-8ef5-a43e64bc23df",
       "dutyDetail": "Work with others.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "f10fd779-65a9-4d66-9117-ffde568d6037",
         "83c57d16-f26f-4340-9b71-8dff4c535c8e",
@@ -811,7 +813,7 @@
         "81da7ff2-5d2e-4465-8395-dbff451388fd",
         "71b9f06a-809e-4977-954a-b92c0fb54c9f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "be9d9675-c0da-4b7f-8f26-dccabc8dd669",
         "a99ea15e-e1da-4a0d-9c8a-b43dbdb80e09",
@@ -827,13 +829,13 @@
       "dutyID": "0e9dece6-1c2b-4108-b369-cbbb8f88ae35",
       "dutyDetail": "Reflect on, review and assure the quality of own practice.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "5e84a5c5-97a4-4f3b-9fa8-11d791293581",
         "90a0c25f-ff7f-4a13-be85-0c947c459d2a",
         "0ca9f74f-01f5-49a6-85a7-7e254af2010f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "88debf91-661b-4e3c-8081-0ee86594b82d",
         "ac325abd-868a-4b7f-bd0b-87ffb88b0a52",
@@ -847,7 +849,7 @@
       "dutyID": "fd2dd249-7489-48df-b0ec-5f2faf7d66bb",
       "dutyDetail": "Draw on appropriate knowledge and skills to inform practice and apply the key concepts of the knowledge base relevant to the profession.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "7fa0cef0-1f8f-40bc-9a97-5206a5feb016",
         "61d01822-9a67-4cf0-aa9c-d8d9d98d361d",
@@ -869,7 +871,7 @@
         "7be7732d-a313-43c5-a843-2e1d6e0024b9",
         "2f212277-d3a0-461b-9625-931823a7bbca"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f2798464-daa0-4de1-bd7b-678015cd6c04",
         "bf135123-81a4-422d-9c7c-4f88bdca9d73",
@@ -893,7 +895,7 @@
       "dutyID": "458ab6c0-6669-43ff-a4b6-a12f2301b83f",
       "dutyDetail": "Establish and maintain a safe practice environment.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "842fa819-1bf2-477b-81ef-1b935ef4b843",
         "f89a8cce-21dd-4366-9ff6-af9fc5fefd46",
@@ -902,7 +904,7 @@
         "2b4c131e-6991-4827-b8fa-75431c73dda7",
         "3d4fcc44-f966-4d64-952c-b4475594e83b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "17f9988a-b8a1-4e51-bb4f-bdddb58bfe2a",
         "704b1b17-5145-40d3-b55f-fd99703b8859",
@@ -918,12 +920,12 @@
       "dutyID": "99a49932-2b76-4bf2-8e11-d2f502b9ff44",
       "dutyDetail": "Promote public health and prevent ill health.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "e8f09ba4-38c7-4d20-9164-95e8174e499e",
         "d77608bb-dbc9-48ca-bed4-8890686945a7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "39563302-de18-4a21-830b-764bb6d780f2",
         "78535417-950b-43b9-af68-5a708286b62c"
@@ -934,13 +936,13 @@
       "dutyID": "81fd9a0e-915d-4b27-9d04-c9c90f429871",
       "dutyDetail": "Drive an ambulance or rapid response vehicle under emergency and non-emergency driving conditions.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "9b7dd25a-43b0-4f1a-a10c-6fb911ff438f",
         "91f92036-1cba-4a9f-8704-c02a40817254",
         "9813a6de-3e13-47fd-950c-cdd3e35bf62f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "13b1707a-d83e-40a6-b7a2-a5653a7ad0e5",
         "71b3f9ea-b677-4eb2-aa48-65fa7260669c"
@@ -948,6 +950,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training Provider",
