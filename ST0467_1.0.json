@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/331",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-03-02T00:00:00Z",
-  "earliestStartDate": "2018-08-08T00:00:00Z",
+  "changedDate": "2023-03-02T00:00:00",
+  "earliestStartDate": "2018-08-08T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Raising animals with optimal welfare and consideration for their needs throughout the different stages of life",
@@ -269,28 +269,6 @@
       "detail": "Rear birds to suitable / target weight and condition for processing utilising people and resources as required. Assess and monitor that the growth of young birds meets production targets in line with organisational requirements"
     }
   ],
-  "options": [
-    {
-      "optionId": "c7663458-6541-48ec-ba66-75ec9e70a007",
-      "title": "Rearing"
-    },
-    {
-      "optionId": "23079e4a-df77-4a7c-8738-04006b6a1503",
-      "title": "Breeding"
-    },
-    {
-      "optionId": "7678c10f-56a6-43fe-aa95-08fdfaeb1fec",
-      "title": "Hatchery"
-    },
-    {
-      "optionId": "bc37c7bc-1d87-4ac2-a34e-5f4705894deb",
-      "title": "Egg Production"
-    },
-    {
-      "optionId": "405ac598-542a-42da-853f-54878cf774c2",
-      "title": "Growing"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Rearing",
     "Breeding",
@@ -324,13 +302,43 @@
   "reviewDetails": "",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Agricultural Operative/Technician",
+  "clusterId": "143",
+  "clusterDescription": "Undertake largely routine arable and livestock tasks with some specialisation in either area",
   "createdDate": "2017-11-14T17:08:53 +00:00",
   "lastUpdated": "2023-03-02T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/poultry-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/poultry-technician-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "c7663458-6541-48ec-ba66-75ec9e70a007",
+      "title": "Rearing",
+      "occupationCode": null
+    },
+    {
+      "optionId": "23079e4a-df77-4a7c-8738-04006b6a1503",
+      "title": "Breeding",
+      "occupationCode": null
+    },
+    {
+      "optionId": "7678c10f-56a6-43fe-aa95-08fdfaeb1fec",
+      "title": "Hatchery",
+      "occupationCode": null
+    },
+    {
+      "optionId": "bc37c7bc-1d87-4ac2-a34e-5f4705894deb",
+      "title": "Egg Production",
+      "occupationCode": null
+    },
+    {
+      "optionId": "405ac598-542a-42da-853f-54878cf774c2",
+      "title": "Growing",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
