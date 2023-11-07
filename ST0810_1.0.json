@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/590",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-05-31T00:00:00Z",
-  "earliestStartDate": "2020-08-24T00:00:00Z",
+  "changedDate": "2022-05-31T00:00:00",
+  "earliestStartDate": "2020-08-24T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "The process of procurement or buying low value goods and services.",
@@ -197,7 +197,6 @@
       "detail": "Able to support the contract negotiations and mini competitions with suppliers."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -229,8 +228,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Procurement",
   "cluster": "Procurement Officer",
+  "clusterId": "226",
+  "clusterDescription": "Applies key tasks associated with the work of procurement and supply",
   "createdDate": "2023-07-24T08:06:35 +00:00",
   "lastUpdated": "2022-05-31T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/procurement-and-supply-assistant-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/procurement-and-supply-assistant-v1-0",
   "qualifications": [
@@ -269,7 +271,7 @@
         "ec82dbf6-551e-413e-b8c9-4f26169cea85",
         "59d2215b-32a3-4b86-8614-14ce8d4f4929"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a73ef13e-0f7a-4853-bd5f-40da44ca3153",
         "c11a84f1-f33d-4c44-af3d-357ae1981a1e",
@@ -299,7 +301,7 @@
         "540cf91d-a459-4253-a5d4-544059a8a427",
         "58099632-12b8-443f-8e33-29f5a0923045"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a73ef13e-0f7a-4853-bd5f-40da44ca3153",
         "d62b84db-540d-42fd-8b83-b8447671b50f",
@@ -331,7 +333,7 @@
         "540cf91d-a459-4253-a5d4-544059a8a427",
         "58099632-12b8-443f-8e33-29f5a0923045"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c11a84f1-f33d-4c44-af3d-357ae1981a1e",
         "fe09d762-5aa9-488e-860e-ec45524a1087",
@@ -363,7 +365,7 @@
         "540cf91d-a459-4253-a5d4-544059a8a427",
         "58099632-12b8-443f-8e33-29f5a0923045"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9b498566-50a2-4bef-a6ec-4e9726c4162e",
         "fcf83d27-73ac-485a-864d-68c654a5b806",
@@ -401,7 +403,7 @@
         "540cf91d-a459-4253-a5d4-544059a8a427",
         "58099632-12b8-443f-8e33-29f5a0923045"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9b498566-50a2-4bef-a6ec-4e9726c4162e",
         "d62b84db-540d-42fd-8b83-b8447671b50f",
@@ -436,7 +438,7 @@
         "540cf91d-a459-4253-a5d4-544059a8a427",
         "58099632-12b8-443f-8e33-29f5a0923045"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9b498566-50a2-4bef-a6ec-4e9726c4162e",
         "c11a84f1-f33d-4c44-af3d-357ae1981a1e",
@@ -467,7 +469,7 @@
         "540cf91d-a459-4253-a5d4-544059a8a427",
         "58099632-12b8-443f-8e33-29f5a0923045"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9b498566-50a2-4bef-a6ec-4e9726c4162e",
         "d62b84db-540d-42fd-8b83-b8447671b50f",
@@ -492,7 +494,7 @@
         "59d2215b-32a3-4b86-8614-14ce8d4f4929",
         "540cf91d-a459-4253-a5d4-544059a8a427"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d62b84db-540d-42fd-8b83-b8447671b50f",
         "c9d1edc3-66ef-4525-966b-cd1331ce5a78",
@@ -522,7 +524,7 @@
         "ac2bf508-d554-4875-86b2-44472529e122",
         "540cf91d-a459-4253-a5d4-544059a8a427"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9b498566-50a2-4bef-a6ec-4e9726c4162e",
         "d62b84db-540d-42fd-8b83-b8447671b50f",
@@ -551,7 +553,7 @@
         "ec82dbf6-551e-413e-b8c9-4f26169cea85",
         "58099632-12b8-443f-8e33-29f5a0923045"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9b498566-50a2-4bef-a6ec-4e9726c4162e",
         "d62b84db-540d-42fd-8b83-b8447671b50f",
@@ -582,7 +584,7 @@
         "540cf91d-a459-4253-a5d4-544059a8a427",
         "58099632-12b8-443f-8e33-29f5a0923045"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a73ef13e-0f7a-4853-bd5f-40da44ca3153",
         "9b498566-50a2-4bef-a6ec-4e9726c4162e",
@@ -615,7 +617,7 @@
         "540cf91d-a459-4253-a5d4-544059a8a427",
         "58099632-12b8-443f-8e33-29f5a0923045"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fe09d762-5aa9-488e-860e-ec45524a1087",
         "225985bf-60a1-4af1-a788-caefa58b183a",
@@ -646,7 +648,7 @@
         "58099632-12b8-443f-8e33-29f5a0923045",
         "b748a593-9606-4163-aed9-1386bff2e543"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fe09d762-5aa9-488e-860e-ec45524a1087",
         "63595ef9-9e39-4ef7-87d0-706ee505a5b5",
@@ -657,6 +659,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
