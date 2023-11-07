@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/442",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-04-08T00:00:00Z",
-  "earliestStartDate": "2019-04-11T00:00:00Z",
+  "changedDate": "2022-04-08T00:00:00",
+  "earliestStartDate": "2019-04-11T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing support, assistance and delivery within the technical support operation of a post-production company",
@@ -437,7 +437,6 @@
       "detail": "Provide technical advice to clients and colleagues on the implications of using legacy format in contemporary workflows"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -476,8 +475,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media, Broadcast and Production Technician",
+  "clusterId": "76",
+  "clusterDescription": "Design, development and editing of audio visual and text content using technology to generate broadcasting materials along with its co-ordination and management",
   "createdDate": "2019-12-19T12:38:28 +00:00",
   "lastUpdated": "2022-04-08T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/post-production-technical-operator-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/post-production-technical-operator-v1-0",
   "qualifications": [],
@@ -500,7 +502,7 @@
         "cd4d475f-2f71-4895-94d2-510ece6c195b",
         "6aa2968f-99e0-4b23-89d0-17799f86fbf7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "534f8298-7516-4008-a520-908b8659ebcd",
         "c3ac4fed-992c-469d-835a-bd0e68e8b248",
@@ -525,7 +527,7 @@
         "9d80cd52-239b-4fd4-92f1-0ed02285f9d3",
         "fbfd9005-afd0-4075-9bba-3f88ced4e69c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a2669ca1-8652-4600-9674-9536a6a0a902",
         "693b2398-e8a8-43c8-b8b7-a26a1656ab59",
@@ -551,7 +553,7 @@
         "bfea3b45-5811-406c-aa5b-e8fcfaca5ab3",
         "c4d3eede-1143-4ba5-9a17-60a687f6dedb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b691560f-72e8-46c0-95bb-e0e8b8a93d7a",
         "ed69d64f-7a2c-4a08-b9d3-6c295ffb6976",
@@ -576,7 +578,7 @@
         "c4d3eede-1143-4ba5-9a17-60a687f6dedb",
         "f5edf7c6-51a6-43a8-9991-526e3dcd90f2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "476b2261-7755-43c0-85d1-dbb8b430b0de",
         "54d78f90-ae18-4aca-a57e-37d8585b29d0",
@@ -600,7 +602,7 @@
         "1a28c994-26b3-425d-a9ef-ff81bf72d4c5",
         "b5a99959-10e5-46f2-b86a-01d4b2429038"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "06eb8b87-8ae8-4291-8eee-14ec2758126e",
         "b1194349-2d12-422f-a8b6-e02f4b116775",
@@ -625,7 +627,7 @@
         "8b196fc6-bd40-458d-90f1-0f61f178666e",
         "58de1075-e506-40d3-af48-24586d4a50fe"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "47bf55a0-ce5d-43f8-b226-e69c2d13df44",
         "dcf05b48-773a-462a-be17-ce8712bbf2ec",
@@ -648,7 +650,7 @@
         "06c2190e-0d66-4841-ac5b-57acb111cf5f",
         "221efef5-7fc9-4a11-8c15-1208ba1b25c9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "47bf55a0-ce5d-43f8-b226-e69c2d13df44",
         "dcf05b48-773a-462a-be17-ce8712bbf2ec",
@@ -677,7 +679,7 @@
         "1b88799b-557d-4232-813d-987213fe242e",
         "6d350329-43b1-4f30-b6dd-f20e17345509"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ceef8f73-180a-43a0-ab36-534700d392a1",
         "1118341f-1bd0-4a24-b151-d872eea2f2ce",
@@ -698,7 +700,7 @@
       "mappedKnowledge": [
         "4b8b10e9-3a14-4369-b67f-0eb7c48a6d15"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a8d36bc7-1e60-4a66-a6cd-e9aea56eba1e",
         "3f8cbd7b-6570-4172-a909-df2a2916ae26"
@@ -717,7 +719,7 @@
         "8ad2d655-abbf-4322-935c-bc62703bf1ee",
         "729496bd-6f75-44f3-ac49-12702faf4347"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "47bf55a0-ce5d-43f8-b226-e69c2d13df44",
         "67791785-4b53-4472-8443-1b7928d4de71",
@@ -729,6 +731,7 @@
       "criteriaForMeasuringPerformance": "Demonstrate an ability to integrate legacy material into contemporary workflows"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
