@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/640",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-02-15T00:00:00Z",
-  "earliestStartDate": "2021-07-01T00:00:00Z",
+  "changedDate": "2023-02-15T00:00:00",
+  "earliestStartDate": "2021-07-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Harvest fish and shellfish.",
@@ -262,7 +262,6 @@
       "detail": "Prepare food for the crew and maintain cleanliness of living area."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -297,8 +296,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Agricultural Operative/Technician",
+  "clusterId": "143",
+  "clusterDescription": "Undertake largely routine arable and livestock tasks with some specialisation in either area",
   "createdDate": "2021-02-22T16:57:34 +00:00",
   "lastUpdated": "2023-02-15T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/fisher-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/fisher-v1-0",
   "qualifications": [
@@ -380,7 +382,7 @@
         "25a56a92-e76f-49ec-98c3-a3e733b33573",
         "3218249c-2d2a-4a00-a9bd-87cbfd48689e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cecebaa4-2f19-42a1-9c6d-cad8a3a94566",
         "72b470d8-cadc-43de-85bc-0e9f912ed9c3"
@@ -402,7 +404,7 @@
         "7b008c2e-92af-4e7a-8940-980767b0f454",
         "782ae2ad-410e-437f-b178-1851e33e53ce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4fe58b25-4214-4227-a2d7-40ec8649e308",
         "f14ed65c-2c48-49b6-aa0b-4a5ebf792ecf",
@@ -424,7 +426,7 @@
         "0e11ca99-e10f-4434-a517-e5ae9be65a3b",
         "1a8080a7-f962-4926-8424-11fa5d234c2d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4fe58b25-4214-4227-a2d7-40ec8649e308",
         "f3316f17-edbf-4411-8606-0db7e543e9a0",
@@ -444,7 +446,7 @@
       "mappedKnowledge": [
         "ae2002c9-a17a-40d2-aaf1-44bb1b0f5b9b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4bd62c3a-5ce5-4fb9-b5c9-7a8c2d02aff8",
         "7e193433-a6cb-4427-b0a7-29d30d0e0f03"
@@ -463,7 +465,7 @@
         "9420745f-b92d-4fb4-bea0-e62db6648a29",
         "7b008c2e-92af-4e7a-8940-980767b0f454"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7088986b-2d4f-4170-bf9c-e2741f0618f8"
       ],
@@ -481,7 +483,7 @@
         "8219b8e7-774d-439e-bda9-8ba5351b91e4",
         "9a615ede-910a-42a7-a548-73f456dcaf8c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2e704dfc-4523-4b07-934e-17e5b166eed5"
       ],
@@ -499,7 +501,7 @@
       "mappedKnowledge": [
         "736a9fae-832f-48be-b09d-6924607b9d05"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2e704dfc-4523-4b07-934e-17e5b166eed5",
         "c69386c5-f062-4054-a5d9-7e0742352d48"
@@ -519,7 +521,7 @@
         "0ad45c70-a50d-481d-b28b-a89d4c0803eb",
         "a5de8e51-011e-4efa-803c-b7f741f5d47d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c69386c5-f062-4054-a5d9-7e0742352d48",
         "a9cecb0d-448c-45f9-85e7-65f8b78bc170"
@@ -538,7 +540,7 @@
       "mappedKnowledge": [
         "0e11ca99-e10f-4434-a517-e5ae9be65a3b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5deb1753-09df-4f64-8f0d-df28e1c004cb"
       ],
@@ -560,7 +562,7 @@
         "04a83a49-7620-4a25-980d-816b3a585737",
         "1a8080a7-f962-4926-8424-11fa5d234c2d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a24e1890-7797-4e35-998e-e163a26db036",
         "e7a7b234-9534-4523-9f59-9c102c70c3a8"
@@ -579,7 +581,7 @@
         "5776916e-41f0-4887-af92-d0d286a6d95b",
         "9e154add-776e-4db5-bc2f-5b99c4a7449b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "47dbf106-6e91-4f4e-8f37-a8f1e4daf671"
       ],
@@ -595,7 +597,7 @@
       "mappedKnowledge": [
         "014516d3-6ef5-4ec8-a549-ea7e16f448a5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "83a9afee-bff1-411a-84b8-7345d6b5185a",
         "7c48a182-6770-44e1-9931-8508f57c2700"
@@ -613,7 +615,7 @@
         "2a902540-9549-45ba-a9fe-6d3bea289c0d",
         "d89bd4cd-a06d-4a13-a17d-372058c386af"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "83a9afee-bff1-411a-84b8-7345d6b5185a",
         "7c48a182-6770-44e1-9931-8508f57c2700",
@@ -632,13 +634,14 @@
       "mappedKnowledge": [
         "e8ca0cc8-37f9-4cef-af9a-4d4aa98d0729"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6015cd8e-a78e-429e-8e37-e462ccd0ca6c"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
