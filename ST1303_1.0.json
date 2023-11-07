@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/698",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-02-23T00:00:00Z",
-  "earliestStartDate": "2023-02-21T00:00:00Z",
+  "changedDate": "2023-02-23T00:00:00",
+  "earliestStartDate": "2023-02-21T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Manage and implement accounting, finance systems and processes.",
@@ -353,7 +353,6 @@
       "detail": "Evaluate the effectiveness of digital technology used to appraise, monitor and manage staff."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -393,8 +392,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Accountancy",
   "cluster": "Professional Accountant",
+  "clusterId": "237",
+  "clusterDescription": "Direct and oversee the creation, analysis and auditing of financial information for internal and external clients and the regulatory authorities often requiring specialist knowledge",
   "createdDate": "2023-02-21T10:55:29 +00:00",
   "lastUpdated": "2023-02-23T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/accounting-finance-manager-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/accounting-finance-manager-v1-0",
   "qualifications": [
@@ -430,7 +432,7 @@
         "0b0127f3-e436-4444-b3be-147f9d7db2d5",
         "8790f498-afac-4fab-ac49-217b28200ea3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dd8d8ec8-ed1a-46f7-b538-828cb1dc7b5b",
         "862e23f1-0c84-4c4d-8789-79535961a6ac"
@@ -451,7 +453,7 @@
         "b53e0373-27aa-4490-8984-080e8881cf83",
         "8884f364-0f32-4eb6-9e90-e426ab333a4b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "114bb925-1b0b-4a84-a71d-8123ad14a517",
         "c61815b6-179e-4420-8258-82c92639038f"
@@ -470,7 +472,7 @@
         "fb16c95d-d041-4cc7-8587-1bbf1cf4e46e",
         "2d24db30-0ffe-4c1f-8bda-58e1131d7491"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a7a572c5-cd22-40a4-8e50-6c3d1cf29e17",
         "654f9b3b-0000-446c-91d3-f79494589183"
@@ -489,7 +491,7 @@
         "4d83bcee-e1c5-45b7-aee6-6fba6e0af359",
         "23079657-75b8-4d54-acf4-ae4355700382"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e66c03cd-8c26-4703-b321-e9c479e07e1b",
         "4a0bfdb1-a54e-42be-8ecb-fcf932f544df"
@@ -507,7 +509,7 @@
       "mappedKnowledge": [
         "c2774d08-45e9-44af-a59b-4d74494936d4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7068adec-f46b-448d-905a-d7b1a96b0b1d"
       ],
@@ -527,7 +529,7 @@
         "7ad9e0b1-1e05-4113-9e71-e12e9f91a268",
         "c6e0ccfa-4b2d-4d10-9c07-c0ab8647abe7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c524c09e-0f4e-4416-a5e8-599905b4c7f9",
         "4e8493e4-334f-4908-af05-9f3b3710afd7"
@@ -538,12 +540,12 @@
       "dutyID": "20f579c8-6993-4e5a-bace-4b21b398fc42",
       "dutyDetail": "Proactively monitor, interpret, and control cash flows, spot trends and forecast requirements.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "fd6eaaa8-5bd7-4111-9d4e-1452f76ab236",
         "5b8ff916-a84e-47eb-ba6a-ed146f99c948"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "122654e1-d7c8-4d9d-a55d-a4e59b5252db",
         "60fc5887-860a-4daf-840e-65214447b35d"
@@ -563,7 +565,7 @@
         "79f3ee9b-a0ec-4ed3-b44c-c69bdacd729d",
         "6aa4d0e9-d25c-4bd2-8b45-7eefdd9ccc53"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1bb89ade-d797-4520-896e-7a5f89e4ab93",
         "51d771a2-2369-477c-9ae4-347ab925244f"
@@ -586,7 +588,7 @@
         "37069512-4b1b-41f0-a3e1-9da49fa5ccbc",
         "552cb48c-8045-43ca-8b58-4a0d234ba4ca"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1d91e7b4-4af1-4700-b3a9-cfb6e5ee60f3",
         "1e6b9008-3f4c-4abe-ada1-71e824870b39",
@@ -605,7 +607,7 @@
       "mappedKnowledge": [
         "2d5bca68-e3bb-4fce-b225-17e63b1a985f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f3df229e-a74a-48b6-b8ad-af5eb1f21272"
       ],
@@ -623,7 +625,7 @@
         "d389751f-b95e-470f-ab8d-9e962a5ea3e6",
         "4435d469-a9b0-402b-81da-9711c0d04b30"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f045df29-569a-434b-9b13-355b4c0fa5a2",
         "8a12cd65-8643-4746-a62b-f04be1618319"
@@ -639,9 +641,9 @@
         "02a900a4-aaba-463e-8d03-43782260b850",
         "34a20838-cf64-4a05-bcb3-d15ad305d332"
       ],
-      "mappedKnowledge": null,
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -658,7 +660,7 @@
         "5896847d-6028-47a5-ad39-647f731b2607",
         "23a7ff7a-0a0d-48f6-ae0c-982df78e7e99"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "de9969fc-b99e-4c9d-a721-1cf58a71baa7",
         "9b51b2a9-56c8-4c5b-bcee-1ed325d944ca"
@@ -682,7 +684,7 @@
         "67a43d33-27e9-42b8-922b-4eaa984e656f",
         "df66cce4-e506-460e-a938-a6859ba766fe"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fad234b4-fff0-4b93-89e3-6fd907a857ea",
         "dbaf63bf-869b-442c-aae6-92e823371ac3"
@@ -700,7 +702,7 @@
         "3ef30af3-52b9-4a5f-b0bf-12e6e50b2ab8",
         "5e917ee2-9daa-4d84-a417-e342f722eb3c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a1b47ba6-d326-40e3-bcbf-e97da2a86b62",
         "aac51972-e2e8-47a1-86f2-4ca5deecb70f"
@@ -720,7 +722,7 @@
         "19be9561-e4c4-46ef-9ac1-3f4f56cbc468",
         "b7f79f97-ebe0-4fb4-8f83-21a148b78619"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "30e93301-3f4c-431e-a5a4-c4575abbfc2f",
         "33e1866c-a0f1-45d0-8e52-21b41ff5e70b"
@@ -742,7 +744,7 @@
         "0e42b18e-a96b-420e-8b0a-8d8fac7dcfd3",
         "f156ba66-4571-429e-8a7f-a723cc691dc0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6cd35e80-9670-41f7-8524-daccdf5ca15a",
         "fc8f2285-b15c-4f61-8051-42b2274e487f"
@@ -761,7 +763,7 @@
         "402ae423-d52a-49db-934e-30c37fb61fff",
         "1e0ab052-85f1-4a6c-a278-68db058925fd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7f39ee8-11ab-4c0f-86e7-017e0612d263",
         "249ac902-6142-4e70-9af4-eebe259cb8c8"
@@ -769,6 +771,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
