@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/581",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-07-12T00:00:00Z",
-  "earliestStartDate": "2020-07-10T00:00:00Z",
-  "latestStartDate": "2023-07-11T00:00:00Z",
+  "changedDate": "2023-07-12T00:00:00",
+  "earliestStartDate": "2020-07-10T00:00:00",
+  "latestStartDate": "2023-07-11T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Provide a complete dentures direct to patients and other dental devices such as partial dentures to the prescription of a dentist.",
   "level": 5,
@@ -266,7 +266,6 @@
       "detail": "Manage your own time, resources and personal behaviour including being proactive in your own development."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -294,13 +293,17 @@
   "reviewDetails": "",
   "pathway": "Healthcare Science",
   "cluster": "Healthcare Science Practitioner",
+  "clusterId": "38",
+  "clusterDescription": "Provide technical and science-based diagnostic, therapeutic and monitoring services in support of patient care working largely unsupervised and also the manufacture of appliances and devices using specialist medical expertise",
   "createdDate": "2022-04-07T12:33:38 +00:00",
   "lastUpdated": "2023-07-12T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/clinical-dental-technician-integrated-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/clinical-dental-technician-integrated-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [
     {
       "name": "EPAO",
