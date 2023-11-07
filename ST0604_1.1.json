@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/296",
   "versionNumber": "1.1",
   "change": "standard, funding band and end-point assessment plan revised",
-  "changedDate": "2022-10-24T00:00:00Z",
-  "earliestStartDate": "2022-10-22T00:00:00Z",
+  "changedDate": "2022-10-24T00:00:00",
+  "earliestStartDate": "2022-10-22T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing laundry services to a wide range of sectors in the UK.",
@@ -252,7 +252,6 @@
       "detail": "Carry out and record learning and development activities."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -283,10 +282,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years&lt;/span&gt;&lt;/p&gt;",
-  "pathway": "Engineering, Manufacturing, Process and Control",
-  "cluster": "Food and Science Manufacturing Operative/Technician",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2022-10-28T09:13:19 +00:00",
   "lastUpdated": "2022-10-24T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/commercial-laundry-operative-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/commercial-laundry-operative-v1-1",
   "qualifications": [],
@@ -318,7 +320,7 @@
         "5a18aab6-efc4-4ee9-ab27-8ba538f70880",
         "dfa228df-4db0-40a7-b360-55b8d2c6d85f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5898a3fb-56d7-42f9-835b-facd2a79daa1",
         "bf8a616a-4fda-47e3-aa92-6c81bff87e96",
@@ -372,7 +374,7 @@
         "5a18aab6-efc4-4ee9-ab27-8ba538f70880",
         "dfa228df-4db0-40a7-b360-55b8d2c6d85f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5898a3fb-56d7-42f9-835b-facd2a79daa1",
         "bf8a616a-4fda-47e3-aa92-6c81bff87e96",
@@ -416,7 +418,7 @@
         "5a18aab6-efc4-4ee9-ab27-8ba538f70880",
         "dfa228df-4db0-40a7-b360-55b8d2c6d85f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5898a3fb-56d7-42f9-835b-facd2a79daa1",
         "bf8a616a-4fda-47e3-aa92-6c81bff87e96",
@@ -456,7 +458,7 @@
         "5a18aab6-efc4-4ee9-ab27-8ba538f70880",
         "dfa228df-4db0-40a7-b360-55b8d2c6d85f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5898a3fb-56d7-42f9-835b-facd2a79daa1",
         "bf8a616a-4fda-47e3-aa92-6c81bff87e96",
@@ -497,7 +499,7 @@
         "5a18aab6-efc4-4ee9-ab27-8ba538f70880",
         "dfa228df-4db0-40a7-b360-55b8d2c6d85f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5898a3fb-56d7-42f9-835b-facd2a79daa1",
         "5a5a1e7c-e1c7-4e59-b0b7-0f8c95cacdb3",
@@ -537,7 +539,7 @@
         "5a18aab6-efc4-4ee9-ab27-8ba538f70880",
         "dfa228df-4db0-40a7-b360-55b8d2c6d85f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5898a3fb-56d7-42f9-835b-facd2a79daa1",
         "5a5a1e7c-e1c7-4e59-b0b7-0f8c95cacdb3",
@@ -577,7 +579,7 @@
         "dfa228df-4db0-40a7-b360-55b8d2c6d85f",
         "42c74d1a-519e-4dd3-85a9-484444d2b26f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5898a3fb-56d7-42f9-835b-facd2a79daa1",
         "5a5a1e7c-e1c7-4e59-b0b7-0f8c95cacdb3",
@@ -616,7 +618,7 @@
         "5a18aab6-efc4-4ee9-ab27-8ba538f70880",
         "dfa228df-4db0-40a7-b360-55b8d2c6d85f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5898a3fb-56d7-42f9-835b-facd2a79daa1",
         "5a5a1e7c-e1c7-4e59-b0b7-0f8c95cacdb3",
@@ -630,6 +632,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
