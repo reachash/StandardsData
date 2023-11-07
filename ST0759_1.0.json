@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/457",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-05-31T00:00:00Z",
-  "earliestStartDate": "2019-05-13T00:00:00Z",
+  "changedDate": "2022-05-31T00:00:00",
+  "earliestStartDate": "2019-05-13T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Planning, leading and conducting scientific experiments and analysing results.",
@@ -130,7 +130,6 @@
       "detail": "Developing others: Apply a range of coaching and mentoring techniques with colleague’s peers and team members, selecting the correct method to suit the situation and the person being coached / mentored"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -158,8 +157,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Science",
   "cluster": "Science Professional",
+  "clusterId": "213",
+  "clusterDescription": "Define and lead science-based research projects to derive academic and applied information of value",
   "createdDate": "2021-11-03T16:12:37 +00:00",
   "lastUpdated": "2022-05-31T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/research-scientist-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/research-scientist-v1-0",
   "qualifications": [],
@@ -201,7 +203,7 @@
         "b7f21f98-24e1-404c-beef-996553ae2191",
         "1508f014-88b4-4738-a11b-8c3df5a1f8da"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e87dce85-784b-4058-915a-da79c8a4e1c6",
         "44ac32e6-30d9-4812-afcf-aa424d13442b",
@@ -227,7 +229,7 @@
         "b7f21f98-24e1-404c-beef-996553ae2191",
         "1508f014-88b4-4738-a11b-8c3df5a1f8da"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e87dce85-784b-4058-915a-da79c8a4e1c6",
         "b5239803-66cf-4527-b2fb-398ff4b8a1b8",
@@ -253,7 +255,7 @@
         "1508f014-88b4-4738-a11b-8c3df5a1f8da",
         "dc0c4165-d81f-4b8e-a837-3005b58f7de1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e87dce85-784b-4058-915a-da79c8a4e1c6",
         "b5239803-66cf-4527-b2fb-398ff4b8a1b8",
@@ -281,7 +283,7 @@
         "dc0c4165-d81f-4b8e-a837-3005b58f7de1",
         "199321c8-d3c3-4f2c-ac01-76d18f53f5ec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e87dce85-784b-4058-915a-da79c8a4e1c6",
         "b5239803-66cf-4527-b2fb-398ff4b8a1b8",
@@ -312,7 +314,7 @@
         "dc0c4165-d81f-4b8e-a837-3005b58f7de1",
         "199321c8-d3c3-4f2c-ac01-76d18f53f5ec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e87dce85-784b-4058-915a-da79c8a4e1c6",
         "44ac32e6-30d9-4812-afcf-aa424d13442b",
@@ -340,7 +342,7 @@
         "2406d9ee-0603-4414-bee1-423789ee421b",
         "599650e9-e8d7-4c98-a94f-26d7874c5825"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e87dce85-784b-4058-915a-da79c8a4e1c6",
         "44ac32e6-30d9-4812-afcf-aa424d13442b",
@@ -367,7 +369,7 @@
         "8638ec8a-39ef-4412-a952-8b41c5a1031a",
         "1508f014-88b4-4738-a11b-8c3df5a1f8da"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b5239803-66cf-4527-b2fb-398ff4b8a1b8",
         "44ac32e6-30d9-4812-afcf-aa424d13442b",
@@ -396,7 +398,7 @@
         "dc0c4165-d81f-4b8e-a837-3005b58f7de1",
         "199321c8-d3c3-4f2c-ac01-76d18f53f5ec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b5239803-66cf-4527-b2fb-398ff4b8a1b8",
         "44ac32e6-30d9-4812-afcf-aa424d13442b",
@@ -418,7 +420,7 @@
         "2406d9ee-0603-4414-bee1-423789ee421b",
         "8638ec8a-39ef-4412-a952-8b41c5a1031a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "44ac32e6-30d9-4812-afcf-aa424d13442b",
         "df1404b3-741a-420b-a5c9-7855aacfd998",
@@ -441,7 +443,7 @@
         "dc0c4165-d81f-4b8e-a837-3005b58f7de1",
         "199321c8-d3c3-4f2c-ac01-76d18f53f5ec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e87dce85-784b-4058-915a-da79c8a4e1c6",
         "b5239803-66cf-4527-b2fb-398ff4b8a1b8",
@@ -464,7 +466,7 @@
         "2406d9ee-0603-4414-bee1-423789ee421b",
         "1508f014-88b4-4738-a11b-8c3df5a1f8da"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "761cf003-9c54-401a-9e02-8ab3c191edeb",
         "df1404b3-741a-420b-a5c9-7855aacfd998"
@@ -484,7 +486,7 @@
         "ac095570-ac62-4a93-81f7-0dfb14e0deac",
         "599650e9-e8d7-4c98-a94f-26d7874c5825"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "761cf003-9c54-401a-9e02-8ab3c191edeb",
         "64d27d72-4ffe-4bd4-985a-336f394611d8",
@@ -511,7 +513,7 @@
         "199321c8-d3c3-4f2c-ac01-76d18f53f5ec",
         "599650e9-e8d7-4c98-a94f-26d7874c5825"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "44ac32e6-30d9-4812-afcf-aa424d13442b",
         "761cf003-9c54-401a-9e02-8ab3c191edeb",
@@ -521,6 +523,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
