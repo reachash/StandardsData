@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/54",
   "versionNumber": "1.1",
   "change": "Standard revised and end-point assessment plan revised. The funding band for this standard has been reviewed and remains at £9000. (Dec-2018)",
-  "changedDate": "2022-08-22T00:00:00Z",
-  "earliestStartDate": "2016-09-19T00:00:00Z",
+  "changedDate": "2022-08-22T00:00:00",
+  "earliestStartDate": "2016-09-19T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Working in a butchers, butchery department or meat processing plan.",
@@ -185,16 +185,6 @@
       "detail": "Plan & prepare for seasonal supply & demand (availability) of meat products ensuring best practice in the merchandising & promotion of seasonal foods"
     }
   ],
-  "options": [
-    {
-      "optionId": "953146c5-5680-421a-a11c-7c4dab11e287",
-      "title": "Process"
-    },
-    {
-      "optionId": "65213be5-7c36-4a14-aba5-a3a25d8059f9",
-      "title": "Retail"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Process",
     "Retail"
@@ -236,15 +226,30 @@
   ],
   "englishAndMathsQualifications": "",
   "reviewDetails": "",
-  "pathway": "Sales & Retail",
-  "cluster": "Specialist Retail Assistant",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2017-09-22T14:24:32 +00:00",
   "lastUpdated": "2022-08-22T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/butcher-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/butcher-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "953146c5-5680-421a-a11c-7c4dab11e287",
+      "title": "Process",
+      "occupationCode": null
+    },
+    {
+      "optionId": "65213be5-7c36-4a14-aba5-a3a25d8059f9",
+      "title": "Retail",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
