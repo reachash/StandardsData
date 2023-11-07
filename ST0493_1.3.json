@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/281",
   "versionNumber": "1.3",
   "change": "Standard, end-point assessment plan and funding band have been revised but funding remains the same.",
-  "changedDate": "2023-09-01T00:00:00Z",
-  "earliestStartDate": "2023-09-01T00:00:00Z",
+  "changedDate": "2023-09-01T00:00:00",
+  "earliestStartDate": "2023-09-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Diagnose and treat foot, ankle and leg problems.",
@@ -523,7 +523,6 @@
       "detail": "Engage in occupational health, including being aware of immunisation requirements."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -553,8 +552,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Health",
   "cluster": "Health Professional",
+  "clusterId": "6",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2023-07-12T08:49:51 +00:00",
   "lastUpdated": "2023-09-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/podiatrist-v1-3?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/podiatrist-v1-3",
   "qualifications": [
@@ -590,7 +592,7 @@
         "833502f1-9c65-495e-8dd2-f533dfc50fbf",
         "5b53ce18-f315-4c56-9ea5-ff05feb605a1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8b6c8331-e585-4a71-8f8d-357287428b5f",
         "004604ca-b7b7-4833-9f56-a54db5ab4972",
@@ -618,7 +620,7 @@
         "912527c9-4377-4293-9601-83608264f5e1",
         "b54d5aa3-9870-4441-bd2a-3898e59a9bf0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f10ace85-3437-4af7-bdda-9b16a51ac5d2",
         "1cab2e3c-d634-4eea-9204-6eed8234a940"
@@ -635,7 +637,7 @@
       "mappedKnowledge": [
         "c010f686-9dde-4564-9d46-7de39fc8a7b9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bb9471cb-aefa-43b4-82d5-e656fe950033",
         "d651caa1-ba81-490a-bd0d-64a5e728e08a",
@@ -660,7 +662,7 @@
         "e4da2a97-dc1d-4359-bb02-2edc6e18c56f",
         "724e86a8-0274-45f0-9ea0-17f733b1ebe7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4a98fe64-9665-434b-b01b-b337101624ab",
         "ac5a5c80-4424-4802-a42c-e4d3ec06c66e",
@@ -673,7 +675,7 @@
       "dutyID": "30a42428-91fe-4700-8059-6899dacce258",
       "dutyDetail": "Communicate effectively, maintaining confidentiality and records appropriately.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "9cb1d287-a857-4908-9d4f-2979c5677bd6",
         "4a05dd0b-40e5-4425-a66b-7d763aab60ba",
@@ -684,7 +686,7 @@
         "ad7c1d90-e0b0-46bb-8f7a-e098df4aafb4",
         "d197fbde-9f50-4772-ae0e-79dcb2fe2af6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "162d80ea-97a5-4914-9a02-2f2ed5ba021a",
         "69d167ff-1245-4966-8b62-2dcb3c62e4a0",
@@ -715,7 +717,7 @@
         "6e4200de-60dc-4cec-a553-eabd0c1819fb",
         "8b36d4a1-4499-474d-8c5a-0325cbeed6e6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "897fd610-2c97-40a4-9c9b-e401c43b6150",
         "0018a95f-a529-4e60-bc99-0ace124692df",
@@ -739,7 +741,7 @@
         "b4bfcd74-3770-4d29-b858-59117013ea4b",
         "fed334c6-8fda-4251-a881-e9cca319fee1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f33161d0-644c-46f7-a7e5-3303c3d9752d",
         "dc43c51b-2448-451e-a807-878841b026ab",
@@ -765,7 +767,7 @@
         "5d5993b0-187a-4f1b-bcda-ec0ba027b1dc",
         "d6742b1a-2a99-4eef-a9d5-60bda6427d7e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "38f57422-a328-4834-8a42-15bb323fa8f8",
         "c1b711d4-425b-4f8c-9ab5-e57953e1b6d8",
@@ -791,14 +793,14 @@
       "dutyID": "d152ec79-63bd-4dc2-87fa-f06ca2498d2c",
       "dutyDetail": "Establish and maintain a safe practice environment.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "5a2c5100-3e42-4e58-9b63-171249a6a54f",
         "c9519eef-73a0-4839-bed4-6c61f420b83e",
         "cf6a3515-aff5-4d35-b6d6-3e10a4f4e7ce",
         "b121f993-da5f-4c3b-b1af-ae8a5a3aeae2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "21c36d47-861a-49ad-bc4e-de9ea8c73f15",
         "7d85df75-ee83-4f5d-9bb7-25bf36f2defa",
@@ -813,12 +815,12 @@
       "dutyID": "5cf8ed09-2373-4442-8be9-a38df441cdc0",
       "dutyDetail": "Promote public health and prevent ill health.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "940e3768-cdba-4557-b48c-0d485fac03e8",
         "1108e808-f6ec-417b-a09e-5f6b783379a7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4ddd82f1-ed8f-4e9c-b695-c1cad10862db",
         "1e49a3a7-9164-4e39-a70f-b28e3f8b3004"
@@ -826,6 +828,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training Provider",
