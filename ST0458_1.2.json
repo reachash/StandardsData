@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/267",
   "versionNumber": "1.2",
   "change": "Occupational standard, End-point assessment plan and funding band revised",
-  "changedDate": "2023-10-23T00:00:00Z",
-  "earliestStartDate": "2023-10-23T00:00:00Z",
+  "changedDate": "2023-10-23T00:00:00",
+  "earliestStartDate": "2023-10-23T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Using machinery to spin natural and synthetic material into yarns and fabrics.",
@@ -287,7 +287,6 @@
       "detail": "Carry out and record learning and development activities."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -339,8 +338,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years.&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing Operative",
+  "clusterId": "264",
+  "clusterDescription": "Routine assembly of manufactured products",
   "createdDate": "2023-09-06T07:19:07 +00:00",
   "lastUpdated": "2023-10-23T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/textile-manufacturing-operative-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/textile-manufacturing-operative-v1-2",
   "qualifications": [],
@@ -369,7 +371,7 @@
         "28ec6dd6-7dec-45d6-889b-c7654673e5fb",
         "80f4fb98-b94b-4922-8638-7bb04ffefcb0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "da8aef02-ce41-41fa-87be-e2520b518b85",
         "50a72206-447b-45f3-9523-147a99edb8c9",
@@ -405,7 +407,7 @@
         "28ec6dd6-7dec-45d6-889b-c7654673e5fb",
         "80f4fb98-b94b-4922-8638-7bb04ffefcb0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b3b4ee9b-0bb4-455c-8e5c-3757111a37dd",
         "1629e808-e6b7-4fbd-ac25-616a8ca74fcf",
@@ -440,7 +442,7 @@
         "28ec6dd6-7dec-45d6-889b-c7654673e5fb",
         "80f4fb98-b94b-4922-8638-7bb04ffefcb0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b3b4ee9b-0bb4-455c-8e5c-3757111a37dd",
         "7e3ce063-7e99-4608-a655-5e362309fa1e",
@@ -473,7 +475,7 @@
         "28ec6dd6-7dec-45d6-889b-c7654673e5fb",
         "80f4fb98-b94b-4922-8638-7bb04ffefcb0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b3b4ee9b-0bb4-455c-8e5c-3757111a37dd",
         "b43e0a42-0a22-4b76-8e9f-b90b7c3adb24",
@@ -510,7 +512,7 @@
         "28ec6dd6-7dec-45d6-889b-c7654673e5fb",
         "80f4fb98-b94b-4922-8638-7bb04ffefcb0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "489f6642-5df1-4f88-823e-9d9036f061d5",
         "8ac25a5b-1b03-493d-9663-93d97d7217e1",
@@ -540,7 +542,7 @@
         "28ec6dd6-7dec-45d6-889b-c7654673e5fb",
         "80f4fb98-b94b-4922-8638-7bb04ffefcb0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b3b4ee9b-0bb4-455c-8e5c-3757111a37dd",
         "03ac536a-a8aa-466c-ab8c-6fb7a6b41c80",
@@ -571,7 +573,7 @@
         "28ec6dd6-7dec-45d6-889b-c7654673e5fb",
         "80f4fb98-b94b-4922-8638-7bb04ffefcb0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7712abb1-cfe2-4e6a-aac2-9dabb9d6901e",
         "e4d4a25e-158a-4824-8185-5108f59c60ce",
@@ -602,7 +604,7 @@
         "28ec6dd6-7dec-45d6-889b-c7654673e5fb",
         "80f4fb98-b94b-4922-8638-7bb04ffefcb0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8ac25a5b-1b03-493d-9663-93d97d7217e1",
         "0e37ea9d-19f9-416f-8ce9-6c85b73f0ac8",
@@ -615,6 +617,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
