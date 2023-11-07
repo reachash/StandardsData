@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/671",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-02-15T00:00:00Z",
-  "earliestStartDate": "2021-12-16T00:00:00Z",
+  "changedDate": "2023-02-15T00:00:00",
+  "earliestStartDate": "2021-12-16T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Transport goods by road to an agreed destination, quality and time standard.",
@@ -251,7 +251,6 @@
       "detail": "Comply with relevant legislation and regulation, both when driving and on site"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -284,8 +283,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years.&lt;/p&gt;",
   "pathway": "Transport",
   "cluster": "Driver/Crewmember",
+  "clusterId": "82",
+  "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
   "createdDate": "2021-11-18T13:34:37 +00:00",
   "lastUpdated": "2023-02-15T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/urban-driver-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/urban-driver-v1-0",
   "qualifications": [
@@ -329,7 +331,7 @@
         "20c9d071-5293-4ee8-83ad-8e83c98f8694",
         "0a87bd9d-a159-45eb-8e29-f5fa8c632416"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7b7af295-d4f9-4f4f-b2f5-8b8c6ca36941",
         "1c2aada2-c3e8-48ac-8424-38c47e1f2672",
@@ -366,7 +368,7 @@
         "63fa7d30-3e6f-4302-8abb-a57531fa4f95",
         "0a87bd9d-a159-45eb-8e29-f5fa8c632416"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cd4d985b-085b-4ca6-be79-ab85a1214532",
         "c4183ca7-b7eb-4312-9dc2-38044ef88e06",
@@ -401,7 +403,7 @@
         "0a87bd9d-a159-45eb-8e29-f5fa8c632416",
         "813205d6-2808-4849-a7c6-610af978d340"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0e0a24e0-1718-457e-898e-89a419e9a7bd",
         "cd4d985b-085b-4ca6-be79-ab85a1214532",
@@ -439,7 +441,7 @@
         "20c9d071-5293-4ee8-83ad-8e83c98f8694",
         "0a87bd9d-a159-45eb-8e29-f5fa8c632416"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b37d3ad2-c596-46e7-a04c-2ca8b3127395",
         "55429c10-08aa-4454-ba83-addebb67c3bb",
@@ -471,7 +473,7 @@
         "1e4063d2-0227-41e5-8b5b-6dcab3e50ec9",
         "0a87bd9d-a159-45eb-8e29-f5fa8c632416"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b37d3ad2-c596-46e7-a04c-2ca8b3127395",
         "55429c10-08aa-4454-ba83-addebb67c3bb",
@@ -507,7 +509,7 @@
         "29b7d633-f0af-4bd0-81e6-2bd0be90949b",
         "0a87bd9d-a159-45eb-8e29-f5fa8c632416"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0e0a24e0-1718-457e-898e-89a419e9a7bd",
         "b37d3ad2-c596-46e7-a04c-2ca8b3127395",
@@ -550,7 +552,7 @@
         "aee400d1-056c-40df-89b7-ea6d69661677",
         "0a87bd9d-a159-45eb-8e29-f5fa8c632416"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7b7af295-d4f9-4f4f-b2f5-8b8c6ca36941",
         "b88c5f93-676e-4bfb-a91f-fdf58d2f5c19",
@@ -570,7 +572,7 @@
       "dutyID": "78223147-957c-4b3c-b637-dc305369dd9e",
       "dutyDetail": "Uphold corporate values when driving, by considering the needs of vulnerable road users and other stakeholders.  ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "5d16a4dd-3ea9-428f-8239-bffaeb8a3dd8",
         "616c5975-9204-4a3e-8af4-438dfa33dae2",
@@ -582,8 +584,8 @@
         "b7995d96-cf65-40b6-bf91-39c361c0cc27",
         "aee400d1-056c-40df-89b7-ea6d69661677"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -608,7 +610,7 @@
         "1e4063d2-0227-41e5-8b5b-6dcab3e50ec9",
         "20c9d071-5293-4ee8-83ad-8e83c98f8694"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cd4d985b-085b-4ca6-be79-ab85a1214532",
         "c4183ca7-b7eb-4312-9dc2-38044ef88e06",
@@ -645,7 +647,7 @@
         "1e4063d2-0227-41e5-8b5b-6dcab3e50ec9",
         "20c9d071-5293-4ee8-83ad-8e83c98f8694"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "55429c10-08aa-4454-ba83-addebb67c3bb",
         "f6bfaedf-4e6f-4da9-ba21-9cfd552e010b",
@@ -682,7 +684,7 @@
         "63fa7d30-3e6f-4302-8abb-a57531fa4f95",
         "0a87bd9d-a159-45eb-8e29-f5fa8c632416"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cd4d985b-085b-4ca6-be79-ab85a1214532",
         "d7a782ea-4254-4269-8987-09d20d375020",
@@ -725,7 +727,7 @@
         "63fa7d30-3e6f-4302-8abb-a57531fa4f95",
         "0a87bd9d-a159-45eb-8e29-f5fa8c632416"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7b7af295-d4f9-4f4f-b2f5-8b8c6ca36941",
         "b88c5f93-676e-4bfb-a91f-fdf58d2f5c19",
@@ -764,7 +766,7 @@
         "813205d6-2808-4849-a7c6-610af978d340",
         "93a32f48-6bb8-4b8f-aa39-9d2014662ef0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0e0a24e0-1718-457e-898e-89a419e9a7bd",
         "6e4c08d7-2d44-42d2-bbac-90d19b909286",
@@ -799,7 +801,7 @@
         "813205d6-2808-4849-a7c6-610af978d340",
         "93a32f48-6bb8-4b8f-aa39-9d2014662ef0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0e0a24e0-1718-457e-898e-89a419e9a7bd",
         "cd4d985b-085b-4ca6-be79-ab85a1214532",
@@ -839,7 +841,7 @@
         "813205d6-2808-4849-a7c6-610af978d340",
         "93a32f48-6bb8-4b8f-aa39-9d2014662ef0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0e0a24e0-1718-457e-898e-89a419e9a7bd",
         "cd4d985b-085b-4ca6-be79-ab85a1214532",
@@ -876,7 +878,7 @@
         "813205d6-2808-4849-a7c6-610af978d340",
         "93a32f48-6bb8-4b8f-aa39-9d2014662ef0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0e0a24e0-1718-457e-898e-89a419e9a7bd",
         "d7a782ea-4254-4269-8987-09d20d375020",
@@ -911,7 +913,7 @@
         "813205d6-2808-4849-a7c6-610af978d340",
         "93a32f48-6bb8-4b8f-aa39-9d2014662ef0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7b7af295-d4f9-4f4f-b2f5-8b8c6ca36941",
         "1c2aada2-c3e8-48ac-8424-38c47e1f2672",
@@ -948,7 +950,7 @@
         "813205d6-2808-4849-a7c6-610af978d340",
         "93a32f48-6bb8-4b8f-aa39-9d2014662ef0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7b7af295-d4f9-4f4f-b2f5-8b8c6ca36941",
         "1c2aada2-c3e8-48ac-8424-38c47e1f2672",
@@ -965,6 +967,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
