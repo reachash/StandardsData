@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/220",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-11-16T00:00:00Z",
-  "earliestStartDate": "2017-12-27T00:00:00Z",
+  "changedDate": "2021-11-16T00:00:00",
+  "earliestStartDate": "2017-12-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing technical solutions across the construction, maintenance and operation of a high speed railway.",
@@ -808,36 +808,6 @@
       "detail": "Interpret financial reports and manage revenue sources."
     }
   ],
-  "options": [
-    {
-      "optionId": "ed67ff5c-8e55-409b-8cd1-f4d6f01decfc",
-      "title": "Civil Engineering Advanced Technician"
-    },
-    {
-      "optionId": "9d3892dd-0baf-4a19-9319-797e6a2e8bb6",
-      "title": "Track Advanced Technician"
-    },
-    {
-      "optionId": "d801b0d8-4a19-40cb-ba2b-8cc3375c5c57",
-      "title": "Systems Engineering Advanced Technician"
-    },
-    {
-      "optionId": "0d319231-327c-416a-9cf5-1a8aba09e752",
-      "title": "Command, Control and Communications (CCC) Advanced Technician"
-    },
-    {
-      "optionId": "bf8cbf3d-b28d-45c5-8eea-a9a3f21272c2",
-      "title": "Rolling Stock Advanced Technician"
-    },
-    {
-      "optionId": "e0b4e333-7288-4735-b73a-cc47882201c0",
-      "title": "Power Advanced Technician"
-    },
-    {
-      "optionId": "4406402e-9cfa-4cee-8693-0648350e76a5",
-      "title": "Operations Advanced Technician"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Civil Engineering Advanced Technician",
     "Track Advanced Technician",
@@ -876,13 +846,53 @@
   "reviewDetails": "",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Installation, Service, Repair and/or Overhaul Advanced Technician",
+  "clusterId": "97",
+  "clusterDescription": "Install, maintain and service plant and equipment using application and/or context specific expertise",
   "createdDate": "2017-11-14T17:11:23 +00:00",
   "lastUpdated": "2021-11-16T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/high-speed-rail-and-infrastructure-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/high-speed-rail-and-infrastructure-technician-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "ed67ff5c-8e55-409b-8cd1-f4d6f01decfc",
+      "title": "Civil Engineering Advanced Technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "9d3892dd-0baf-4a19-9319-797e6a2e8bb6",
+      "title": "Track Advanced Technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "d801b0d8-4a19-40cb-ba2b-8cc3375c5c57",
+      "title": "Systems Engineering Advanced Technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "0d319231-327c-416a-9cf5-1a8aba09e752",
+      "title": "Command, Control and Communications (CCC) Advanced Technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "bf8cbf3d-b28d-45c5-8eea-a9a3f21272c2",
+      "title": "Rolling Stock Advanced Technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "e0b4e333-7288-4735-b73a-cc47882201c0",
+      "title": "Power Advanced Technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "4406402e-9cfa-4cee-8693-0648350e76a5",
+      "title": "Operations Advanced Technician",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
