@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/223",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-01-30T00:00:00Z",
-  "earliestStartDate": "2018-01-10T00:00:00Z",
+  "changedDate": "2023-01-30T00:00:00",
+  "earliestStartDate": "2018-01-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Working across a variety of organisations focusing on ensuring excellent customer experience.",
@@ -505,40 +505,6 @@
       "detail": "Manage the team and resources to ensure that the needs of the customer are met whilst maintaining business / brand standards"
     }
   ],
-  "options": [
-    {
-      "optionId": "034d0f9a-609b-4e40-b10a-13b2693561af",
-      "title": "Conference & Events Management"
-    },
-    {
-      "optionId": "c20b0ebf-588a-4ae9-bb12-4dfcf9016301",
-      "title": "Food & Beverage Service Management"
-    },
-    {
-      "optionId": "760b1db5-f83f-402a-9b9e-00f64bb86fde",
-      "title": "Front Office Management"
-    },
-    {
-      "optionId": "6110ce98-7d17-4c18-8b49-b64012a4acdf",
-      "title": "Hospitality Outlet Management"
-    },
-    {
-      "optionId": "e9680467-fc61-4ae5-a4ad-37ca26b6d3ab",
-      "title": "House Keeping Management"
-    },
-    {
-      "optionId": "843b6dd7-6f86-4b96-928f-a0bf73b1c6b2",
-      "title": "Kitchen Management"
-    },
-    {
-      "optionId": "8d8b0b7c-beb5-4a93-9fba-afc02c4367cf",
-      "title": "Multi-functional Management"
-    },
-    {
-      "optionId": "ca0e1ab1-741c-43ed-9abe-37c1c06f2b1b",
-      "title": "Revenue Management"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Conference & Events Management",
     "Food & Beverage Service Management",
@@ -575,13 +541,58 @@
   "reviewDetails": "",
   "pathway": "Hospitality",
   "cluster": "Hospitality Manager",
+  "clusterId": "169",
+  "clusterDescription": "Management and improvement of core hospitality services of food and beverages, cleaning and housekeeping, reservations and events",
   "createdDate": "2017-11-14T17:10:11 +00:00",
   "lastUpdated": "2023-01-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/hospitality-manager-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/hospitality-manager-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "034d0f9a-609b-4e40-b10a-13b2693561af",
+      "title": "Conference & Events Management",
+      "occupationCode": null
+    },
+    {
+      "optionId": "c20b0ebf-588a-4ae9-bb12-4dfcf9016301",
+      "title": "Food & Beverage Service Management",
+      "occupationCode": null
+    },
+    {
+      "optionId": "760b1db5-f83f-402a-9b9e-00f64bb86fde",
+      "title": "Front Office Management",
+      "occupationCode": null
+    },
+    {
+      "optionId": "6110ce98-7d17-4c18-8b49-b64012a4acdf",
+      "title": "Hospitality Outlet Management",
+      "occupationCode": null
+    },
+    {
+      "optionId": "e9680467-fc61-4ae5-a4ad-37ca26b6d3ab",
+      "title": "House Keeping Management",
+      "occupationCode": null
+    },
+    {
+      "optionId": "843b6dd7-6f86-4b96-928f-a0bf73b1c6b2",
+      "title": "Kitchen Management",
+      "occupationCode": null
+    },
+    {
+      "optionId": "8d8b0b7c-beb5-4a93-9fba-afc02c4367cf",
+      "title": "Multi-functional Management",
+      "occupationCode": null
+    },
+    {
+      "optionId": "ca0e1ab1-741c-43ed-9abe-37c1c06f2b1b",
+      "title": "Revenue Management",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
