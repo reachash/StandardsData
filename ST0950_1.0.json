@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/630",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-02-20T00:00:00Z",
-  "earliestStartDate": "2021-05-27T00:00:00Z",
+  "changedDate": "2023-02-20T00:00:00",
+  "earliestStartDate": "2021-05-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "To ensure service continuity for specialist healthcare medical devices or healthcare estates.",
@@ -404,16 +404,6 @@
       "detail": "Option 2: Healthcare estates technician. Design and cut, drill, weld as appropriate to produce basic parts, spares or components where consent to manufacture is given. "
     }
   ],
-  "options": [
-    {
-      "optionId": "5065bd71-ff94-46e3-a66d-b6bd3abad478",
-      "title": "Healthcare medical devices technician"
-    },
-    {
-      "optionId": "b9338500-2fa4-4b0a-a86c-a92894278317",
-      "title": "Healthcare estates technician"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -456,8 +446,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2021-03-18T08:56:16 +00:00",
   "lastUpdated": "2023-02-20T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/healthcare-engineering-specialist-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/healthcare-engineering-specialist-technician-v1-0",
   "qualifications": [],
@@ -504,7 +497,7 @@
         "42d8dcb0-0fc6-4ce9-a792-044e3ab96fda",
         "aa008d88-60e1-40f2-825a-22c34e319126"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf093d8d-922d-4135-bc63-5aacac122fd7",
         "32de003f-3049-4f2d-969f-9c106e9fd86c",
@@ -544,7 +537,7 @@
         "1eb0ed1f-75d7-495b-878d-d7940615587f",
         "f4ccf212-ff3c-4358-93fd-fd581149e8b3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fa2c7739-74ae-46e7-b9b8-992ecf46d798",
         "deb63df2-d937-4932-86a1-6ff2164608b9",
@@ -584,7 +577,7 @@
         "49dad83c-185f-41e7-9b63-7b8eaf76fe47",
         "f4ccf212-ff3c-4358-93fd-fd581149e8b3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fa2c7739-74ae-46e7-b9b8-992ecf46d798",
         "deb63df2-d937-4932-86a1-6ff2164608b9",
@@ -623,7 +616,7 @@
         "d17f4d93-4c97-4189-895e-8831963e3a18",
         "5cc24d73-5aac-4ba3-a95e-cf418b31da19"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fd7def3f-0eb6-4fd8-afdd-45581df5cb41",
         "25f59b6c-3519-462a-bbcd-fdcad1cb370c",
@@ -652,7 +645,7 @@
         "d17f4d93-4c97-4189-895e-8831963e3a18",
         "c56eccd7-8b55-4982-a977-9e56cc4b4295"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fd7def3f-0eb6-4fd8-afdd-45581df5cb41",
         "7cda0bed-363d-4cf8-bf7b-97c41655a67a",
@@ -681,7 +674,7 @@
         "8f727b77-939e-43eb-afaa-5c3066ea4b53",
         "aa008d88-60e1-40f2-825a-22c34e319126"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7ac4cf85-a804-48a4-93e8-44c9fe8c44fe",
         "3791c09f-b864-423e-9277-3aba1955084c",
@@ -715,7 +708,7 @@
         "aa008d88-60e1-40f2-825a-22c34e319126",
         "f4ccf212-ff3c-4358-93fd-fd581149e8b3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf093d8d-922d-4135-bc63-5aacac122fd7",
         "deb63df2-d937-4932-86a1-6ff2164608b9",
@@ -755,7 +748,7 @@
         "aa008d88-60e1-40f2-825a-22c34e319126",
         "d708f86d-f600-47b9-8657-834099880e3a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "25f59b6c-3519-462a-bbcd-fdcad1cb370c",
         "7ac4cf85-a804-48a4-93e8-44c9fe8c44fe",
@@ -783,7 +776,7 @@
         "d17f4d93-4c97-4189-895e-8831963e3a18",
         "c56eccd7-8b55-4982-a977-9e56cc4b4295"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7ac4cf85-a804-48a4-93e8-44c9fe8c44fe",
         "74b9c22e-c794-4d59-b2eb-1e6a11c8c626"
@@ -807,7 +800,7 @@
         "24124e77-ea6f-4d06-99c5-ea08d524316e",
         "d01ede8d-3723-43b5-b4bd-f431e6f1444a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4b80f79c-5491-4b7d-8212-1fb84fa6ca70",
         "31f4847f-3733-49dc-95ef-1e244e909564",
@@ -856,7 +849,7 @@
         "1eb0ed1f-75d7-495b-878d-d7940615587f",
         "f4ccf212-ff3c-4358-93fd-fd581149e8b3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fa2c7739-74ae-46e7-b9b8-992ecf46d798",
         "deb63df2-d937-4932-86a1-6ff2164608b9",
@@ -907,7 +900,7 @@
         "5eafcc25-9066-44db-9a30-3b249dadc23b",
         "f4ccf212-ff3c-4358-93fd-fd581149e8b3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fa2c7739-74ae-46e7-b9b8-992ecf46d798",
         "deb63df2-d937-4932-86a1-6ff2164608b9",
@@ -947,7 +940,7 @@
         "ebb1bda0-40b3-47a5-ae94-4bd90ad13afb",
         "f4ccf212-ff3c-4358-93fd-fd581149e8b3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "deb63df2-d937-4932-86a1-6ff2164608b9",
         "fd7def3f-0eb6-4fd8-afdd-45581df5cb41",
@@ -1623,6 +1616,18 @@
         "b797ef6c-f301-403d-82d5-a928b228091d"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "5065bd71-ff94-46e3-a66d-b6bd3abad478",
+      "title": "Healthcare medical devices technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "b9338500-2fa4-4b0a-a86c-a92894278317",
+      "title": "Healthcare estates technician",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
