@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/526",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-02-25T00:00:00Z",
-  "earliestStartDate": "2019-12-18T00:00:00Z",
+  "changedDate": "2022-02-25T00:00:00",
+  "earliestStartDate": "2019-12-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Supporting the design, manufacture and performance of puppets.",
@@ -207,7 +207,6 @@
       "detail": " Organise workload effectively to ensure time is used wisely and tasks are completed in agreed priority order"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -239,8 +238,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Craft and Design",
   "cluster": "Design Technician",
+  "clusterId": "232",
+  "clusterDescription": "Apply creative skills and crafting techniques to the design and development of products and graphics.",
   "createdDate": "2020-02-28T10:13:47 +00:00",
   "lastUpdated": "2022-02-25T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/assistant-puppet-maker-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/assistant-puppet-maker-v1-0",
   "qualifications": [],
@@ -250,9 +252,9 @@
       "dutyID": "814f9602-1b64-4630-83a6-992b8e4c53e3",
       "dutyDetail": "Make puppets so they have the technical performance functions required to meet the production brief",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
-      "mappedKnowledge": null,
-      "mappedOptions": null,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
       "mappedSkills": [
         "e933afbe-cbc1-4302-8caa-9ca2621716f9",
         "8e164bbb-23ac-4c1a-b3d4-8352fbf18069"
@@ -274,7 +276,7 @@
         "f40c268f-0e28-4daf-bbf1-be053240bfc4",
         "2f2c302d-0c23-4c9c-8a47-0faaf57ef017"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "046719d5-74a0-4599-bc2e-cb30f2883710",
         "8253dbc6-cfb4-4c41-be99-dd4df48a12ae",
@@ -301,7 +303,7 @@
         "6173f265-4400-4416-bf12-4fc6fd53231d",
         "85000e65-51e5-4bef-b13b-497c52c4c4a9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3da5a0d5-5752-4b16-85d6-65b95e3cffbb",
         "458886a7-f687-4970-99e0-47657b9d0aa6"
@@ -319,7 +321,7 @@
       "mappedKnowledge": [
         "feb3b3b0-eeec-423a-af7b-4b332a299368"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2a929019-bae8-4db1-86e6-eccf4c9daafc",
         "b4856ced-3140-4959-828d-9676029ab696",
@@ -340,7 +342,7 @@
         "89f89865-0ad4-477e-90a4-10a0a08f44a5",
         "afa847b5-a228-4b3b-8ba3-ae53d1146790"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "407f1f7f-c695-4918-8e72-e3a200ecd05b",
         "cda23bf1-a46e-49ab-8799-4adb4cb43bb9"
@@ -354,8 +356,8 @@
       "mappedBehaviour": [
         "282ec19b-ce37-4e2e-ae40-9970a9ac9c8c"
       ],
-      "mappedKnowledge": null,
-      "mappedOptions": null,
+      "mappedKnowledge": [],
+      "mappedOptions": [],
       "mappedSkills": [
         "3b970d8a-e04e-4bc7-bba8-af0d5d0c229e",
         "1625cc86-2dc5-423f-a1b0-e05300daaf5f",
@@ -378,13 +380,14 @@
         "f39d3c89-9d45-4893-a1bf-4956062c1019",
         "698d0344-a45b-4ca4-9c18-aa21a306fe82"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "98380f62-6cd9-4523-b570-c8a308382c42"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
