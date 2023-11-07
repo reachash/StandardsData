@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/189",
   "versionNumber": "1.1",
   "change": "Standard and end-point assessment plan revised",
-  "changedDate": "2023-03-01T00:00:00Z",
-  "earliestStartDate": "2018-08-07T00:00:00Z",
+  "changedDate": "2023-03-01T00:00:00",
+  "earliestStartDate": "2018-08-07T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Operating buses, coaches or trams, making sure passengers get where they're going safely and on time.",
@@ -312,16 +312,6 @@
       "detail": "Be able to bring trams into service safely and in accordance with relevant company procedures"
     }
   ],
-  "options": [
-    {
-      "optionId": "f6d26531-382e-4591-bd21-20c7ae9e96b2",
-      "title": "Bus & Coach Driver"
-    },
-    {
-      "optionId": "60027eee-aeb3-4b6b-a45f-d75b02190e43",
-      "title": "Tram Driver"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Bus & Coach Driver",
     "Tram Driver"
@@ -363,13 +353,28 @@
   "reviewDetails": "",
   "pathway": "Transport",
   "cluster": "Driver/Crewmember",
+  "clusterId": "82",
+  "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
   "createdDate": "2020-09-23T08:05:23 +00:00",
   "lastUpdated": "2023-03-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/passenger-transport-driver-bus-coach-and-tram-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/passenger-transport-driver-bus-coach-and-tram-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "f6d26531-382e-4591-bd21-20c7ae9e96b2",
+      "title": "Bus & Coach Driver",
+      "occupationCode": null
+    },
+    {
+      "optionId": "60027eee-aeb3-4b6b-a45f-d75b02190e43",
+      "title": "Tram Driver",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
