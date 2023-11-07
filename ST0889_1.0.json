@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/677",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-07-27T00:00:00Z",
-  "earliestStartDate": "2022-03-30T00:00:00Z",
+  "changedDate": "2022-07-27T00:00:00",
+  "earliestStartDate": "2022-03-30T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Ensure the effective operation of the mortuary and to assist colleagues in providing dignified care of the deceased.",
@@ -347,16 +347,6 @@
       "detail": "Carry out procedures for tissue retrieval and recording under the direction of supervisory staff"
     }
   ],
-  "options": [
-    {
-      "optionId": "2981610f-764e-4021-b27b-916a59f1bcbb",
-      "title": "Funeral mortuary technician"
-    },
-    {
-      "optionId": "32d05fde-4b75-4813-820a-98f0c3e5b5d2",
-      "title": "Anatomical pathology technologist"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -389,8 +379,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Health",
   "cluster": "Health Assistant",
+  "clusterId": "112",
+  "clusterDescription": "Provide direct patient contact and caring undertaking routine well defined clinical duties",
   "createdDate": "2022-02-04T08:52:24 +00:00",
   "lastUpdated": "2022-07-27T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/mortuary-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/mortuary-technician-v1-0",
   "qualifications": [
@@ -431,7 +424,7 @@
         "d4b5ee26-7efa-491a-929d-9f71e2fd5463",
         "16dea393-4464-471d-9fbe-55f8a5db355f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "35255b6c-a219-417c-994a-8345e3df0b70",
         "a5865b51-0373-4214-8777-4cf1916e1b20",
@@ -488,7 +481,7 @@
         "70ae339d-b47a-4c24-b935-1f2fc651a6c1",
         "16dea393-4464-471d-9fbe-55f8a5db355f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "35255b6c-a219-417c-994a-8345e3df0b70",
         "a5865b51-0373-4214-8777-4cf1916e1b20",
@@ -554,7 +547,7 @@
         "b8d4bfaf-0f17-4d38-abee-905d91dc70c1",
         "16dea393-4464-471d-9fbe-55f8a5db355f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "35255b6c-a219-417c-994a-8345e3df0b70",
         "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
@@ -618,7 +611,7 @@
         "461c0364-876d-4721-9b29-7ce8a626ffd0",
         "9107e7b8-7552-4be1-aceb-b9241f702738"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "35255b6c-a219-417c-994a-8345e3df0b70",
         "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
@@ -682,7 +675,7 @@
         "e880ed92-ebb3-4c93-a495-bc813ac4766e",
         "16dea393-4464-471d-9fbe-55f8a5db355f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "35255b6c-a219-417c-994a-8345e3df0b70",
         "a5865b51-0373-4214-8777-4cf1916e1b20",
@@ -749,7 +742,7 @@
         "9105668d-1ce1-4766-be3c-e18e0d30f6ae",
         "5b3f0f9a-900e-462d-9f96-f74b4e674a97"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "35255b6c-a219-417c-994a-8345e3df0b70",
         "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
@@ -815,7 +808,7 @@
         "9107e7b8-7552-4be1-aceb-b9241f702738",
         "16dea393-4464-471d-9fbe-55f8a5db355f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "35255b6c-a219-417c-994a-8345e3df0b70",
         "a5865b51-0373-4214-8777-4cf1916e1b20",
@@ -864,7 +857,7 @@
         "81d6a22e-ff50-4783-a802-57cfb112e038",
         "1f0f3c30-a799-4597-9398-fe2cbba804a5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
         "4f6408ff-3177-4303-b207-a4ac2b62c2f6",
@@ -905,7 +898,7 @@
         "b8d4bfaf-0f17-4d38-abee-905d91dc70c1",
         "16dea393-4464-471d-9fbe-55f8a5db355f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "35255b6c-a219-417c-994a-8345e3df0b70",
         "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
@@ -951,7 +944,7 @@
         "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
         "16dea393-4464-471d-9fbe-55f8a5db355f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "35255b6c-a219-417c-994a-8345e3df0b70",
         "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
@@ -1013,7 +1006,7 @@
         "e880ed92-ebb3-4c93-a495-bc813ac4766e",
         "16dea393-4464-471d-9fbe-55f8a5db355f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "35255b6c-a219-417c-994a-8345e3df0b70",
         "a5865b51-0373-4214-8777-4cf1916e1b20",
@@ -1075,7 +1068,7 @@
         "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
         "b2cab2b0-718f-4af6-b827-0a597c99b4b9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "35255b6c-a219-417c-994a-8345e3df0b70",
         "a5865b51-0373-4214-8777-4cf1916e1b20",
@@ -1111,7 +1104,7 @@
         "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
         "b2cab2b0-718f-4af6-b827-0a597c99b4b9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
         "2776c904-3729-457b-aa9b-27ece7755783",
@@ -1655,6 +1648,18 @@
         "3a733c86-8dd3-433f-9429-854c1292e981"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "2981610f-764e-4021-b27b-916a59f1bcbb",
+      "title": "Funeral mortuary technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "32d05fde-4b75-4813-820a-98f0c3e5b5d2",
+      "title": "Anatomical pathology technologist",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
