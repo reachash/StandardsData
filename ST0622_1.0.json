@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/339",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-03-10T00:00:00Z",
-  "earliestStartDate": "2018-08-22T00:00:00Z",
-  "latestStartDate": "2023-03-09T00:00:00Z",
+  "changedDate": "2023-03-10T00:00:00",
+  "earliestStartDate": "2018-08-22T00:00:00",
+  "latestStartDate": "2023-03-09T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Building, repairing and servicing all kinds of bicycles.",
   "level": 2,
@@ -258,7 +258,6 @@
       "detail": "Maintain proper tool maintenance and general workshop cleanliness and tidiness"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -290,8 +289,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2020-01-07T15:56:36 +00:00",
   "lastUpdated": "2023-03-10T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/bicycle-mechanic-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/bicycle-mechanic-v1-0",
   "qualifications": [],
@@ -317,7 +319,7 @@
         "8551633e-a82d-4360-9c51-7dbcc482e2d9",
         "09b6fb5a-1d4a-45c9-8b9d-997c795c3dcc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1eb414f1-24e9-4e6e-adb9-4a352711a610",
         "571557df-1c4e-4376-ab3d-b8d418006b90",
@@ -367,7 +369,7 @@
         "0fc2643d-ec06-41bf-9c70-99ee68851b5c",
         "8862abb0-dd4b-45da-bd1c-d76e5f11ab8f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1eb414f1-24e9-4e6e-adb9-4a352711a610",
         "5d2f7c5d-a04b-4d21-8c30-84f42bba781e",
@@ -398,7 +400,7 @@
         "a5a38d4e-a8b4-416c-b008-1b1956731ca5",
         "1caf94ca-86c5-4bfd-a770-00f1f4e1c4bd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5d2f7c5d-a04b-4d21-8c30-84f42bba781e",
         "9367a6cb-0b0a-4e6a-85a3-605dcc09ddfd",
@@ -430,7 +432,7 @@
         "09b6fb5a-1d4a-45c9-8b9d-997c795c3dcc",
         "cd371cea-dbad-4eeb-a6e3-b2ce3a76f7b7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1eb414f1-24e9-4e6e-adb9-4a352711a610",
         "571557df-1c4e-4376-ab3d-b8d418006b90",
@@ -479,7 +481,7 @@
         "09b6fb5a-1d4a-45c9-8b9d-997c795c3dcc",
         "cd371cea-dbad-4eeb-a6e3-b2ce3a76f7b7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1eb414f1-24e9-4e6e-adb9-4a352711a610",
         "571557df-1c4e-4376-ab3d-b8d418006b90",
@@ -530,7 +532,7 @@
         "2aa59d85-a694-4905-8ed6-b1312e9c1328",
         "ffb1a45e-3923-4276-b0d1-8fd92e4d16d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a6939907-f585-4d95-a4eb-9fccbdd68d54",
         "9d402f69-343e-4066-a57f-c9f5f10a0dbf"
@@ -561,7 +563,7 @@
         "f5ee8e7e-3329-4809-ada8-5ee0d0e9d6be",
         "ab9aa19b-0413-45c6-8e48-4b6af25bf700"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5d2f7c5d-a04b-4d21-8c30-84f42bba781e",
         "9367a6cb-0b0a-4e6a-85a3-605dcc09ddfd",
@@ -592,7 +594,7 @@
         "22403dce-92c0-4260-aa13-952f3aa0655f",
         "bcd45083-0a80-4e11-83eb-670ca94de71e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5d2f7c5d-a04b-4d21-8c30-84f42bba781e",
         "9367a6cb-0b0a-4e6a-85a3-605dcc09ddfd",
@@ -621,7 +623,7 @@
         "09b6fb5a-1d4a-45c9-8b9d-997c795c3dcc",
         "25873f0f-e466-4bd5-a924-8a4272340998"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1eb414f1-24e9-4e6e-adb9-4a352711a610",
         "571557df-1c4e-4376-ab3d-b8d418006b90",
@@ -671,7 +673,7 @@
         "4d73e3ce-3281-453d-aa13-22c249061b5b",
         "911f255a-1a6d-483c-8b33-541939bf2acf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a6939907-f585-4d95-a4eb-9fccbdd68d54",
         "9d402f69-343e-4066-a57f-c9f5f10a0dbf"
@@ -691,13 +693,14 @@
       "mappedKnowledge": [
         "2aa59d85-a694-4905-8ed6-b1312e9c1328"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9d402f69-343e-4066-a57f-c9f5f10a0dbf"
       ],
       "criteriaForMeasuringPerformance": "Adherence to employer procedures\n\nAdherence to hazardous materials legislation\n\nAdherence to recycling rules and regulations"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
