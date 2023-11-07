@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/533",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-03-25T00:00:00Z",
-  "earliestStartDate": "2020-02-03T00:00:00Z",
+  "changedDate": "2021-03-25T00:00:00",
+  "earliestStartDate": "2020-02-03T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Service, repair and manufacture components for a range of clocks as well as being able to manufacture a complete clock.",
@@ -321,7 +321,6 @@
       "detail": "Apply the historical knowledge and use clear explanations, providing options and solutions to influence and help customers make choices and agree next steps."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -354,8 +353,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Craft and Design",
   "cluster": "Precision Manufacturing Craftsperson",
+  "clusterId": "72",
+  "clusterDescription": "Use traditional craft hand engineering and metal working skills to manufacture and restore precision items often with a high artistic merit and value",
   "createdDate": "2020-02-26T09:08:42 +00:00",
   "lastUpdated": "2021-03-25T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/clock-maker-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/clock-maker-v1-0",
   "qualifications": [],
@@ -388,7 +390,7 @@
         "f51c968a-76cb-43af-ad74-cd843197ef2e",
         "6a025cfb-3bed-490a-a4da-3754bbb325bb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "62676524-299a-40a7-bb52-4d915604054b",
         "4b09dfd6-a3fa-4961-9763-94934242589b",
@@ -408,7 +410,7 @@
       "mappedKnowledge": [
         "45725725-e996-47cf-a372-4ed1f3c77a00"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a35c52d5-3125-4f9d-8c81-d12a02934a73",
         "80c56500-7c27-4048-9717-af382df9676b"
@@ -431,7 +433,7 @@
         "06b93b92-6309-42d7-a676-de5613bc2c25",
         "dd181f37-318b-4559-8960-794a5164966a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b0d7917c-ba4f-4613-a1be-66ac4729809a",
         "fb8840cb-80da-42fd-92b1-7a31548874d0",
@@ -458,7 +460,7 @@
         "ae485ec9-775b-4c11-b184-b03d2bf3f4a3",
         "8fe355a2-d9e1-48d0-9776-394c6eba9278"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "36ae7b70-e113-4d66-8ab0-9a4778cbc58c",
         "b2fb7312-c198-4f0c-a3cb-88ea2b030a10",
@@ -489,7 +491,7 @@
       "mappedKnowledge": [
         "bade7926-dab0-4b67-8aec-382fb81c9b9c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ed785222-265d-415b-bce9-d3218a823338"
       ],
@@ -507,7 +509,7 @@
         "964f35f9-8b90-4494-b0e6-61e648ccae14",
         "19c68291-ee50-4d36-877d-b01b9d1fbb59"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3e69504a-c0ec-4d2d-9041-35166dbfd4c5"
       ],
@@ -527,7 +529,7 @@
         "f7108ec9-2c69-4887-aa93-9d9e4ea2e709",
         "122c218b-296d-4a62-9a5b-ee9f856692d3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f3d2f01d-32d2-43c8-911d-b25fe50c9436",
         "4f570c94-38f6-4bf2-8c44-91094522876d"
@@ -535,6 +537,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
