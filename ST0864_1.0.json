@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/546",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-01-05T00:00:00Z",
-  "earliestStartDate": "2020-02-25T00:00:00Z",
+  "changedDate": "2023-01-05T00:00:00",
+  "earliestStartDate": "2020-02-25T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Develop new recipes, products and product lines.",
@@ -217,7 +217,6 @@
       "detail": "Research and respond timely to sector trends when maintaining and reviewing the culinary offer"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -252,8 +251,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Catering",
   "cluster": "Catering Manager",
+  "clusterId": "110",
+  "clusterDescription": "Management of a whole kitchen along with staff, menus and waste",
   "createdDate": "2019-08-02T08:23:03 +00:00",
   "lastUpdated": "2023-01-05T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/senior-culinary-chef-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/senior-culinary-chef-v1-0",
   "qualifications": [],
@@ -282,7 +284,7 @@
         "956aa169-02fb-4eab-8a72-d2caf0d00416",
         "2b9c774a-3193-4d80-b256-eaf61760abdc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2335bdac-5eba-4312-aa82-d1b86d9d36ad",
         "688f6c45-aa85-4b8f-8e8a-8a0427801144",
@@ -327,7 +329,7 @@
         "956aa169-02fb-4eab-8a72-d2caf0d00416",
         "580a37fb-7c69-4f86-a3bf-071c3e0b101a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2335bdac-5eba-4312-aa82-d1b86d9d36ad",
         "688f6c45-aa85-4b8f-8e8a-8a0427801144",
@@ -376,7 +378,7 @@
         "d6c13156-f960-4a91-b45e-a0046e0aa546",
         "956aa169-02fb-4eab-8a72-d2caf0d00416"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d908fc71-8b06-4473-b69f-1227c66387ad",
         "d9d34cc3-e57a-42b9-a944-a2199caa7867",
@@ -406,7 +408,7 @@
         "f807e2da-3bfe-4916-ba7c-dbfdd7098e30",
         "956aa169-02fb-4eab-8a72-d2caf0d00416"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5da45835-b398-4f2e-b6d8-74e2a59590cf",
         "b128e960-5641-4503-a8ff-92b943f00665",
@@ -442,7 +444,7 @@
         "d6c13156-f960-4a91-b45e-a0046e0aa546",
         "580a37fb-7c69-4f86-a3bf-071c3e0b101a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2335bdac-5eba-4312-aa82-d1b86d9d36ad",
         "688f6c45-aa85-4b8f-8e8a-8a0427801144",
@@ -482,7 +484,7 @@
         "99d160b4-e4c8-49e8-8389-606caf0faf4f",
         "f807e2da-3bfe-4916-ba7c-dbfdd7098e30"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2335bdac-5eba-4312-aa82-d1b86d9d36ad",
         "5da45835-b398-4f2e-b6d8-74e2a59590cf",
@@ -519,7 +521,7 @@
         "f807e2da-3bfe-4916-ba7c-dbfdd7098e30",
         "d6c13156-f960-4a91-b45e-a0046e0aa546"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2335bdac-5eba-4312-aa82-d1b86d9d36ad",
         "688f6c45-aa85-4b8f-8e8a-8a0427801144",
@@ -561,7 +563,7 @@
         "d6c13156-f960-4a91-b45e-a0046e0aa546",
         "580a37fb-7c69-4f86-a3bf-071c3e0b101a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "84788100-1102-4931-8b75-2b1b09030eee",
         "8235bfa4-a038-4dd0-82e0-eab01d47fb65",
@@ -593,7 +595,7 @@
         "956aa169-02fb-4eab-8a72-d2caf0d00416",
         "2b9c774a-3193-4d80-b256-eaf61760abdc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5d4a3cd4-40e5-4ca9-bfb3-e46b8274047f",
         "84788100-1102-4931-8b75-2b1b09030eee",
@@ -633,7 +635,7 @@
         "580a37fb-7c69-4f86-a3bf-071c3e0b101a",
         "2b9c774a-3193-4d80-b256-eaf61760abdc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2335bdac-5eba-4312-aa82-d1b86d9d36ad",
         "5da45835-b398-4f2e-b6d8-74e2a59590cf",
@@ -671,7 +673,7 @@
         "d6c13156-f960-4a91-b45e-a0046e0aa546",
         "2b9c774a-3193-4d80-b256-eaf61760abdc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "84788100-1102-4931-8b75-2b1b09030eee",
         "71ec96e3-99ba-4370-9c58-0c52dae04801",
@@ -709,7 +711,7 @@
         "d6c13156-f960-4a91-b45e-a0046e0aa546",
         "956aa169-02fb-4eab-8a72-d2caf0d00416"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2335bdac-5eba-4312-aa82-d1b86d9d36ad",
         "5da45835-b398-4f2e-b6d8-74e2a59590cf",
@@ -726,6 +728,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
