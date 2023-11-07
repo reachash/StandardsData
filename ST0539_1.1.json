@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/264",
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised but remained the same.",
-  "changedDate": "2023-09-18T00:00:00Z",
-  "earliestStartDate": "2023-09-18T00:00:00Z",
+  "changedDate": "2023-09-18T00:00:00",
+  "earliestStartDate": "2023-09-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Helping organise large-scale freight imports and exports.",
@@ -312,20 +312,6 @@
       "detail": "Road. Select and use documentation appropriate to the road freight industry. "
     }
   ],
-  "options": [
-    {
-      "optionId": "51fc373b-ba89-4e41-9f07-f83ad57e7338",
-      "title": "Air"
-    },
-    {
-      "optionId": "f0155800-c08d-4b1b-b9c0-2e11fb281020",
-      "title": "Ocean"
-    },
-    {
-      "optionId": "0d06c13f-10e2-427b-9518-f61bf6548c81",
-      "title": "Road"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Air Freight",
     "Ocean Freight",
@@ -369,8 +355,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Logistics",
   "cluster": "Supply Chain Operative/Technician",
+  "clusterId": "37",
+  "clusterDescription": "Undertake routine materials movement, plan and administer logistics",
   "createdDate": "2023-09-18T09:19:13 +00:00",
   "lastUpdated": "2023-09-18T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/international-freight-forwarding-specialist-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/international-freight-forwarding-specialist-v1-1",
   "qualifications": [],
@@ -398,7 +387,7 @@
         "8b6f4505-c66c-40f6-a1af-0207073ceb17",
         "e30048d0-7df5-45ba-9dc1-76e62f595d00"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5eccf25b-11b9-4a79-a6fe-87e022ce14f4",
         "be02bde8-bd50-4f19-a44e-7d2e64747265",
@@ -410,9 +399,9 @@
       "dutyID": "9bef2df6-152e-4ca4-801c-778b38d2a4c2",
       "dutyDetail": "Monitor the progress of shipments to ensure they are on time and in line with the requirements of the booking.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
-      "mappedKnowledge": null,
-      "mappedOptions": null,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
       "mappedSkills": [
         "be02bde8-bd50-4f19-a44e-7d2e64747265",
         "2fb78a30-0323-4d6f-be30-eef6259be0c6",
@@ -424,14 +413,14 @@
       "dutyID": "e9b477a1-a72d-428a-963f-827470547607",
       "dutyDetail": "Use appropriate methods of communication to keep customers informed about shipment progress in line with the booking and advise customers in the event of delays to enable them to make contingency plans.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0eebb531-3af5-43a5-b34a-337a8dd60129",
         "e0b05c01-3ff4-4887-a723-94cb4a088869",
         "26575269-982d-42bc-8def-d6be8b918dd8",
         "e13f454a-ed42-490b-9e6f-d8150788b80d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d523a976-aa3f-4cee-93bb-c1f7ec95b3b8",
         "2fb78a30-0323-4d6f-be30-eef6259be0c6",
@@ -474,7 +463,7 @@
         "e30048d0-7df5-45ba-9dc1-76e62f595d00",
         "f7bd956b-643b-4aec-b6f1-749cd834cf3a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d523a976-aa3f-4cee-93bb-c1f7ec95b3b8",
         "ff09617b-be63-4a5a-841a-636d3a79f158",
@@ -487,13 +476,13 @@
       "dutyID": "cfe9388a-a279-4f79-8174-e929e79f7829",
       "dutyDetail": "Enter details of booked shipments into own organisation's electronic operating system.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "38d774b4-7c74-4b83-a471-260a6d457876",
         "0eebb531-3af5-43a5-b34a-337a8dd60129",
         "e0b05c01-3ff4-4887-a723-94cb4a088869"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5eccf25b-11b9-4a79-a6fe-87e022ce14f4",
         "be02bde8-bd50-4f19-a44e-7d2e64747265",
@@ -514,7 +503,7 @@
         "e0b05c01-3ff4-4887-a723-94cb4a088869",
         "26575269-982d-42bc-8def-d6be8b918dd8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6ef025ef-af69-42c5-8ebc-a01aa24ef172",
         "2fb78a30-0323-4d6f-be30-eef6259be0c6",
@@ -542,7 +531,7 @@
         "e30048d0-7df5-45ba-9dc1-76e62f595d00",
         "f7bd956b-643b-4aec-b6f1-749cd834cf3a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d523a976-aa3f-4cee-93bb-c1f7ec95b3b8",
         "be02bde8-bd50-4f19-a44e-7d2e64747265",
@@ -557,7 +546,7 @@
       "dutyID": "a6222786-994e-4b3d-bf69-28c2646c3012",
       "dutyDetail": "Ensure that any specific documents required by a destination country are available at time of shipment.  (e.g. Certificate of Origin, Carnet).",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "e6fdaed8-6b57-4982-8954-0fa6f7e42298",
         "f84a0b35-cecd-4f2d-be4d-b693ea4506fc",
@@ -565,7 +554,7 @@
         "432ae817-6212-42ae-9dac-30874bca3e14",
         "14eb1987-db21-46bc-a901-a4b83302523e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "be02bde8-bd50-4f19-a44e-7d2e64747265"
       ],
@@ -586,7 +575,7 @@
         "26575269-982d-42bc-8def-d6be8b918dd8",
         "e13f454a-ed42-490b-9e6f-d8150788b80d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6ef025ef-af69-42c5-8ebc-a01aa24ef172",
         "2fb78a30-0323-4d6f-be30-eef6259be0c6",
@@ -610,7 +599,7 @@
         "26575269-982d-42bc-8def-d6be8b918dd8",
         "e13f454a-ed42-490b-9e6f-d8150788b80d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6ef025ef-af69-42c5-8ebc-a01aa24ef172"
       ],
@@ -620,7 +609,7 @@
       "dutyID": "bf9f1c23-b59e-41d3-aed8-1658e4afa368",
       "dutyDetail": "Submit a customs declaration and/or provide clearance instructions to a third-party customs broker.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "b1acf40f-8b55-4cfd-aa54-e7e5162a1f97",
         "e6fdaed8-6b57-4982-8954-0fa6f7e42298",
@@ -629,7 +618,7 @@
         "432ae817-6212-42ae-9dac-30874bca3e14",
         "0ed677f7-5c00-4fff-ac57-5ddf0d6b5e6b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b6c17c21-efd9-4306-919d-eaba74dda82c",
         "5bc3ab04-8c62-48f1-a626-dfc9ac7079a6"
@@ -714,7 +703,7 @@
       "dutyID": "c4f64bba-e355-42ec-b4b3-5b7b2630bc43",
       "dutyDetail": "Arrange and ensure the security of goods during international air transit to required standards, both in terms of the contract and in accordance with international aviation security rules and regulations.   ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "f84a0b35-cecd-4f2d-be4d-b693ea4506fc",
         "a6eead09-cb03-487d-a8ab-8242521e4fa6",
@@ -804,7 +793,7 @@
       "dutyID": "470388d3-659e-45b7-aa60-df971e6e5fe0",
       "dutyDetail": "Create and handle the correct Bill of Lading for export and imports (contract of carriage), thereby helping to ensure the cargo can be released to the customer as applicable.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "42d885cf-7c1e-427f-b0f8-d46f067d50ed"
       ],
@@ -892,7 +881,7 @@
       "dutyID": "11f3382f-1466-4755-a49e-b103aec99c5c",
       "dutyDetail": "Monitor the impact of international road transit times, road conditions and road features, providing guidance to colleagues and customers as required. For example, this could involve the impact on permitted driver hours and associated service solutions. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "f80feae4-b567-4c46-adff-1a376cd59b46"
       ],
@@ -905,6 +894,23 @@
         "5b8422d5-97d5-456f-bbcd-f8094163d076"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "51fc373b-ba89-4e41-9f07-f83ad57e7338",
+      "title": "Air",
+      "occupationCode": null
+    },
+    {
+      "optionId": "f0155800-c08d-4b1b-b9c0-2e11fb281020",
+      "title": "Ocean",
+      "occupationCode": null
+    },
+    {
+      "optionId": "0d06c13f-10e2-427b-9518-f61bf6548c81",
+      "title": "Road",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
