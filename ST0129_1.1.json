@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/91",
   "versionNumber": "1.1",
   "change": "Standard, end-point assessment plan and funding revised.",
-  "changedDate": "2022-07-28T00:00:00Z",
-  "earliestStartDate": "2022-05-16T00:00:00Z",
+  "changedDate": "2022-07-28T00:00:00",
+  "earliestStartDate": "2022-05-16T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Carrying out tests to make sure computer software works as intended and is fit for purpose.",
@@ -219,7 +219,6 @@
       "detail": "Design and follow tests to achieve coverage criteria"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -254,8 +253,11 @@
   "reviewDetails": "",
   "pathway": "Digital Production, Design and Development",
   "cluster": "Software Development Advanced Technician",
+  "clusterId": "197",
+  "clusterDescription": "Build and test simple, high quality codes across various layers (front end, logic and database) and interpret design documents and specifications",
   "createdDate": "2022-05-20T08:29:30 +00:00",
   "lastUpdated": "2022-07-28T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/software-tester-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/software-tester-v1-1",
   "qualifications": [],
@@ -288,7 +290,7 @@
         "da38d8bd-8ba0-4c20-b1e6-8e3bd385354a",
         "c482951b-c309-4282-b8e9-cc8e414e9793"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ae507ce3-be2d-4541-aef5-1db6f757ce4c",
         "38769488-3e2d-4327-b64b-8cb85cd46f56",
@@ -331,7 +333,7 @@
         "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a",
         "c482951b-c309-4282-b8e9-cc8e414e9793"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
         "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
@@ -372,7 +374,7 @@
         "da38d8bd-8ba0-4c20-b1e6-8e3bd385354a",
         "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
         "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
@@ -410,7 +412,7 @@
         "da38d8bd-8ba0-4c20-b1e6-8e3bd385354a",
         "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
         "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
@@ -445,7 +447,7 @@
         "4f9be0d4-9e87-4ac1-87c9-4f15792e102e",
         "c482951b-c309-4282-b8e9-cc8e414e9793"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "38769488-3e2d-4327-b64b-8cb85cd46f56",
         "c2a06770-471b-4918-b434-d0c43313b5a2",
@@ -490,7 +492,7 @@
         "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a",
         "c482951b-c309-4282-b8e9-cc8e414e9793"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
         "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
@@ -543,7 +545,7 @@
         "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a",
         "c482951b-c309-4282-b8e9-cc8e414e9793"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
         "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
@@ -596,7 +598,7 @@
         "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a",
         "c482951b-c309-4282-b8e9-cc8e414e9793"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
         "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
@@ -644,7 +646,7 @@
         "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a",
         "c482951b-c309-4282-b8e9-cc8e414e9793"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
         "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
@@ -684,7 +686,7 @@
         "d25a7668-b766-4480-835c-babad4069b7f",
         "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
         "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
@@ -728,7 +730,7 @@
         "4f9be0d4-9e87-4ac1-87c9-4f15792e102e",
         "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
         "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
@@ -773,7 +775,7 @@
         "1d2a8952-1914-45b7-b3b6-406afd5eb278",
         "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
         "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
@@ -819,7 +821,7 @@
         "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a",
         "c482951b-c309-4282-b8e9-cc8e414e9793"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
         "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
@@ -857,7 +859,7 @@
         "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a",
         "c482951b-c309-4282-b8e9-cc8e414e9793"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "38769488-3e2d-4327-b64b-8cb85cd46f56",
         "8f2cbb08-af43-4353-9fbe-3ef955889516",
@@ -894,7 +896,7 @@
         "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a",
         "c482951b-c309-4282-b8e9-cc8e414e9793"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
         "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
@@ -913,6 +915,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
