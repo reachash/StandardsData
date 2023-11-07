@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/605",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-08-22T00:00:00Z",
-  "earliestStartDate": "2020-10-30T00:00:00Z",
+  "changedDate": "2022-08-22T00:00:00",
+  "earliestStartDate": "2020-10-30T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Engaged with the production of fine and detailed items that are made from precious metals and adorned with precious stones and other materials.",
@@ -1128,44 +1128,6 @@
       "detail": "Store polished stones in a manner that preserves their finish"
     }
   ],
-  "options": [
-    {
-      "optionId": "5e307d54-5a65-48a6-b048-ffcc776d609c",
-      "title": "CAD/CAM Processes"
-    },
-    {
-      "optionId": "d3a01adb-7560-445a-a128-ec879118948d",
-      "title": "Casting"
-    },
-    {
-      "optionId": "17d2ed6f-5bcb-4e1b-93d5-eb4112af6a4e",
-      "title": "Enamelling"
-    },
-    {
-      "optionId": "5adadfc2-48c0-4e12-9e79-62c45acfab68",
-      "title": "Engraving"
-    },
-    {
-      "optionId": "e3d227bc-89ac-49df-adb7-896ecdada461",
-      "title": "Mounting"
-    },
-    {
-      "optionId": "240a4b23-ec63-42ed-a9d5-95b890c33c17",
-      "title": "Polishing/Finishing"
-    },
-    {
-      "optionId": "3e25dcc7-fc5d-4980-ab85-78160f67500a",
-      "title": "Silversmithing"
-    },
-    {
-      "optionId": "812c219a-4fae-455d-973f-096b284159ec",
-      "title": "Stone Setting"
-    },
-    {
-      "optionId": "98446095-cba0-4c17-9acd-db3b2e06e47b",
-      "title": "Lapidary"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "CAD/CAM Processes",
     "Casting",
@@ -1230,13 +1192,63 @@
   "reviewDetails": "",
   "pathway": "Craft and Design",
   "cluster": "Heritage Craftsperson",
+  "clusterId": "63",
+  "clusterDescription": "Use traditional hand craft skills to shape and sculpt natural materials",
   "createdDate": "2017-11-14T17:10:55 +00:00",
   "lastUpdated": "2022-08-22T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/jewellery-silversmithing-and-allied-trades-professional-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/jewellery-silversmithing-and-allied-trades-professional-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "5e307d54-5a65-48a6-b048-ffcc776d609c",
+      "title": "CAD/CAM Processes",
+      "occupationCode": null
+    },
+    {
+      "optionId": "d3a01adb-7560-445a-a128-ec879118948d",
+      "title": "Casting",
+      "occupationCode": null
+    },
+    {
+      "optionId": "17d2ed6f-5bcb-4e1b-93d5-eb4112af6a4e",
+      "title": "Enamelling",
+      "occupationCode": null
+    },
+    {
+      "optionId": "5adadfc2-48c0-4e12-9e79-62c45acfab68",
+      "title": "Engraving",
+      "occupationCode": null
+    },
+    {
+      "optionId": "e3d227bc-89ac-49df-adb7-896ecdada461",
+      "title": "Mounting",
+      "occupationCode": null
+    },
+    {
+      "optionId": "240a4b23-ec63-42ed-a9d5-95b890c33c17",
+      "title": "Polishing/Finishing",
+      "occupationCode": null
+    },
+    {
+      "optionId": "3e25dcc7-fc5d-4980-ab85-78160f67500a",
+      "title": "Silversmithing",
+      "occupationCode": null
+    },
+    {
+      "optionId": "812c219a-4fae-455d-973f-096b284159ec",
+      "title": "Stone Setting",
+      "occupationCode": null
+    },
+    {
+      "optionId": "98446095-cba0-4c17-9acd-db3b2e06e47b",
+      "title": "Lapidary",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
