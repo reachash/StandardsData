@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/514",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-04-08T00:00:00Z",
-  "earliestStartDate": "2019-09-27T00:00:00Z",
+  "changedDate": "2022-04-08T00:00:00",
+  "earliestStartDate": "2019-09-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Constructing garments - bringing the design to life, following specifications and quality standards.",
@@ -286,16 +286,6 @@
       "detail": "Make and apply collars for example shirt collar and stand, convertible collar, shawl collar or mandarin collar"
     }
   ],
-  "options": [
-    {
-      "optionId": "40b9cbfd-d855-45b2-8da6-ad2487901cc9",
-      "title": "Structured Garment Production"
-    },
-    {
-      "optionId": "7e849cb8-6194-47fe-b96e-8f4febdb12b7",
-      "title": "Non-structured Garment Production"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -358,8 +348,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Craft and Design",
   "cluster": "Heritage Craftsperson",
+  "clusterId": "63",
+  "clusterDescription": "Use traditional hand craft skills to shape and sculpt natural materials",
   "createdDate": "2019-07-11T10:58:01 +00:00",
   "lastUpdated": "2022-04-08T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/garment-maker-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/garment-maker-v1-0",
   "qualifications": [],
@@ -382,7 +375,7 @@
         "e8c06e31-766c-438a-8054-d89d9ad62be1",
         "b891463e-d3ac-49cd-aba0-07f578b8d2ba"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5972f239-befe-479d-bfd2-121774b6ff10",
         "656c0902-72ee-4002-8bb9-31e6ac62744a",
@@ -407,7 +400,7 @@
         "45cf9c45-03d8-4991-9013-8e79b93d5e23",
         "161fa93e-3ecd-418e-86fd-4ca3732bc5ee"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d516d2e7-16d4-4950-aa84-9692901a549c",
         "656c0902-72ee-4002-8bb9-31e6ac62744a",
@@ -439,7 +432,7 @@
         "8948b7b2-248d-4e94-9a30-db509e4a0cc2",
         "e0427c1e-fecb-4363-9974-b6632a2e509f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "11361f13-c679-4a65-813c-82fb1edd4b2a",
         "364ea5ee-8643-490c-ad3c-1fc1ae208c36",
@@ -473,7 +466,7 @@
         "5c520664-9b4d-4748-b440-6b5e49ecae48",
         "8948b7b2-248d-4e94-9a30-db509e4a0cc2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5972f239-befe-479d-bfd2-121774b6ff10",
         "d516d2e7-16d4-4950-aa84-9692901a549c",
@@ -511,7 +504,7 @@
         "5c520664-9b4d-4748-b440-6b5e49ecae48",
         "abadb7c4-1841-4e49-bb3e-e8a2e99ab0f4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5972f239-befe-479d-bfd2-121774b6ff10",
         "9e03f8df-e88d-49f1-b0a4-1e84c5776213"
@@ -542,7 +535,7 @@
         "abadb7c4-1841-4e49-bb3e-e8a2e99ab0f4",
         "8948b7b2-248d-4e94-9a30-db509e4a0cc2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "11361f13-c679-4a65-813c-82fb1edd4b2a",
         "364ea5ee-8643-490c-ad3c-1fc1ae208c36",
@@ -582,7 +575,7 @@
         "161fa93e-3ecd-418e-86fd-4ca3732bc5ee",
         "b891463e-d3ac-49cd-aba0-07f578b8d2ba"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5972f239-befe-479d-bfd2-121774b6ff10",
         "d516d2e7-16d4-4950-aa84-9692901a549c",
@@ -616,7 +609,7 @@
         "26bf5a2b-95e9-4631-8bbb-7dba6e7e47a8",
         "5c520664-9b4d-4748-b440-6b5e49ecae48"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5972f239-befe-479d-bfd2-121774b6ff10",
         "876aaf35-f9c7-4bbd-9a98-2c42e91e2bf9",
@@ -650,7 +643,7 @@
         "5c520664-9b4d-4748-b440-6b5e49ecae48",
         "4de2b5e0-5a02-49ba-ab7a-9a722797010d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5972f239-befe-479d-bfd2-121774b6ff10",
         "11361f13-c679-4a65-813c-82fb1edd4b2a",
@@ -681,7 +674,7 @@
         "5c520664-9b4d-4748-b440-6b5e49ecae48",
         "01dd6270-681b-4492-b32c-36c3a85287c6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d516d2e7-16d4-4950-aa84-9692901a549c",
         "11361f13-c679-4a65-813c-82fb1edd4b2a",
@@ -691,6 +684,18 @@
         "2287a952-cfc6-497c-afd1-87898b69e3eb"
       ],
       "criteriaForMeasuringPerformance": "Garments are under pressed and pressed appropriately, in the right sequecne  with no creases, marks or over pressing"
+    }
+  ],
+  "options": [
+    {
+      "optionId": "40b9cbfd-d855-45b2-8da6-ad2487901cc9",
+      "title": "Structured Garment Production",
+      "occupationCode": null
+    },
+    {
+      "optionId": "7e849cb8-6194-47fe-b96e-8f4febdb12b7",
+      "title": "Non-structured Garment Production",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
