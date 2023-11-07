@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/709",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-05-30T00:00:00Z",
-  "earliestStartDate": "2023-05-25T00:00:00Z",
+  "changedDate": "2023-05-30T00:00:00",
+  "earliestStartDate": "2023-05-25T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "A digital designer works closely with colleagues to deliver high-quality learning activities.",
@@ -204,7 +204,6 @@
       "detail": "Assimilate and use evaluative information to contribute to the review of organisational policies, processes and systems."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -239,8 +238,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Digital Business Services",
   "cluster": "Digital Solutions Advanced Technician",
+  "clusterId": "194",
+  "clusterDescription": "Facilitate and instigate direct communication online between the end user or customer and the organisation, implementing communication strategies to support business objectives.",
   "createdDate": "2023-04-21T10:11:07 +00:00",
   "lastUpdated": "2023-05-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/digital-learning-designer-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/digital-learning-designer-v1-0",
   "qualifications": [],
@@ -267,7 +269,7 @@
         "78c81cf2-4024-4871-8a94-3130a7074cbd",
         "56bc488d-88fc-48eb-98d9-4619b98fa467"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1dd05b14-d691-4bdd-8995-23cf892f39a6",
         "5d11d0c6-cf5d-4811-b17e-6dd7e8486a63"
@@ -278,12 +280,12 @@
       "dutyID": "138e3bcd-24b2-47a1-889a-5ded63e65196",
       "dutyDetail": "Analyse learning requirements to inform and agree learning objectives in line with organisational need.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "72cb7b34-9cec-4a76-ada5-a4fcb7ce7d70",
         "56bc488d-88fc-48eb-98d9-4619b98fa467"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5d11d0c6-cf5d-4811-b17e-6dd7e8486a63",
         "68523c4a-8f08-4779-bb2b-55ddc1f5f65b"
@@ -294,11 +296,11 @@
       "dutyID": "25186919-065f-43c2-927a-023fb643639e",
       "dutyDetail": "Write learning outcomes to appropriate level, and format.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "c3af066c-d785-496d-8bdd-dfd9d8c27c19"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8abe39b4-96e0-4c64-ad91-26df365337b8",
         "b2929d67-5216-4897-8f6b-084c083c97f5",
@@ -310,13 +312,13 @@
       "dutyID": "760ed13d-eada-41a1-9d07-bec6e8f2cb01",
       "dutyDetail": "Develop and map the curriculum, to structure content, formative learning activities, and summative assessment strategy. Whilst being mindful of the differences between pedagogy and andragogy, and other appropriate learning theories.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "6ef72a2c-f911-40d8-b025-5a09eabe4352",
         "12859619-db69-42f4-948c-7595b5aa0af6",
         "c3af066c-d785-496d-8bdd-dfd9d8c27c19"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "551a7e1b-4e9d-43e3-b051-56e9785e7538",
         "8abe39b4-96e0-4c64-ad91-26df365337b8",
@@ -343,7 +345,7 @@
         "57554ede-ee75-4c92-b861-6a46967dad9d",
         "e2628dae-49ca-4027-b950-de55708f8f12"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1dd05b14-d691-4bdd-8995-23cf892f39a6",
         "551a7e1b-4e9d-43e3-b051-56e9785e7538",
@@ -370,7 +372,7 @@
         "57554ede-ee75-4c92-b861-6a46967dad9d",
         "e2628dae-49ca-4027-b950-de55708f8f12"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5d11d0c6-cf5d-4811-b17e-6dd7e8486a63",
         "551a7e1b-4e9d-43e3-b051-56e9785e7538",
@@ -394,7 +396,7 @@
         "12859619-db69-42f4-948c-7595b5aa0af6",
         "cdb76590-10d8-4c02-98b3-b2cd414b31bd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5d11d0c6-cf5d-4811-b17e-6dd7e8486a63",
         "551a7e1b-4e9d-43e3-b051-56e9785e7538",
@@ -422,7 +424,7 @@
         "57554ede-ee75-4c92-b861-6a46967dad9d",
         "e2628dae-49ca-4027-b950-de55708f8f12"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "476c7e52-d5a9-47a9-92e9-6045f4d98f43",
         "1dd05b14-d691-4bdd-8995-23cf892f39a6",
@@ -446,7 +448,7 @@
         "4c29c782-076d-4214-a951-e7fb43838d09",
         "78c81cf2-4024-4871-8a94-3130a7074cbd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "476c7e52-d5a9-47a9-92e9-6045f4d98f43",
         "1dd05b14-d691-4bdd-8995-23cf892f39a6",
@@ -460,12 +462,12 @@
       "dutyID": "64077364-d2fa-4c3a-9e63-d5c950fe0087",
       "dutyDetail": "Design digital learning outputs aligned with learning outcomes and objectives.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "307e7bb5-1361-4404-935f-bd308d1e023e",
         "e2628dae-49ca-4027-b950-de55708f8f12"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8abe39b4-96e0-4c64-ad91-26df365337b8",
         "bde34a02-439c-4757-a556-499b9719f103",
@@ -477,11 +479,11 @@
       "dutyID": "936b164e-0a99-482a-9feb-60fcfc0405d8",
       "dutyDetail": "Create digital media and other digital assets to agreed specifications using specialist learning technologies",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "307e7bb5-1361-4404-935f-bd308d1e023e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8abe39b4-96e0-4c64-ad91-26df365337b8",
         "bde34a02-439c-4757-a556-499b9719f103",
@@ -493,12 +495,12 @@
       "dutyID": "e4efb21b-11d1-407f-b65a-875203d75a53",
       "dutyDetail": "Present learning design proposals, storyboards and outputs at various iterative stages, using appropriate digital formats and tools to appropriate stakeholders.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "78c81cf2-4024-4871-8a94-3130a7074cbd",
         "307e7bb5-1361-4404-935f-bd308d1e023e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "476c7e52-d5a9-47a9-92e9-6045f4d98f43",
         "1dd05b14-d691-4bdd-8995-23cf892f39a6",
@@ -518,7 +520,7 @@
       "mappedKnowledge": [
         "e2628dae-49ca-4027-b950-de55708f8f12"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "476c7e52-d5a9-47a9-92e9-6045f4d98f43",
         "1dd05b14-d691-4bdd-8995-23cf892f39a6",
@@ -541,7 +543,7 @@
         "cdb76590-10d8-4c02-98b3-b2cd414b31bd",
         "57554ede-ee75-4c92-b861-6a46967dad9d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bde34a02-439c-4757-a556-499b9719f103",
         "99fc440e-3d8c-4506-96d9-2d642e136e8c",
@@ -556,8 +558,8 @@
       "mappedBehaviour": [
         "95f85ac8-163b-453a-b8b2-a9abb9d393ad"
       ],
-      "mappedKnowledge": null,
-      "mappedOptions": null,
+      "mappedKnowledge": [],
+      "mappedOptions": [],
       "mappedSkills": [
         "476c7e52-d5a9-47a9-92e9-6045f4d98f43",
         "1dd05b14-d691-4bdd-8995-23cf892f39a6",
@@ -571,12 +573,12 @@
       "dutyID": "bde40a16-6004-46c5-9a67-f7d28d79d664",
       "dutyDetail": "Populate and configure digital learning platforms to deliver, facilitate, and track learning experiences for different learning objectives and contexts. Whilst conforming to relevant organisational and regulatory data security protocols.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "cdb76590-10d8-4c02-98b3-b2cd414b31bd",
         "75469d2d-c60b-44c7-9121-659b6dc25412"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5d11d0c6-cf5d-4811-b17e-6dd7e8486a63",
         "b2929d67-5216-4897-8f6b-084c083c97f5",
@@ -588,11 +590,11 @@
       "dutyID": "c2101b46-f8ed-4543-b48b-2f9f5b784e25",
       "dutyDetail": "Review, quality check and test digital resources and platforms to ensure they meet project and compliance requirements including relevant legal, professional, technical, and organisational standards. Such as accessibility, inclusivity, branding, relevant data protection regulation, and intellectual property regulations.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "75469d2d-c60b-44c7-9121-659b6dc25412"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "99fc440e-3d8c-4506-96d9-2d642e136e8c",
         "6da4abec-e572-44da-a9e9-74864d3a3b3c",
@@ -607,8 +609,8 @@
       "mappedBehaviour": [
         "3a7e96d8-893b-45eb-8409-8f08041e2385"
       ],
-      "mappedKnowledge": null,
-      "mappedOptions": null,
+      "mappedKnowledge": [],
+      "mappedOptions": [],
       "mappedSkills": [
         "476c7e52-d5a9-47a9-92e9-6045f4d98f43",
         "929ba7f7-6e87-48de-bb4f-53e7dd7a9689",
@@ -632,7 +634,7 @@
         "02de2b43-a19b-4a8f-adf8-9bc187d667ca",
         "75469d2d-c60b-44c7-9121-659b6dc25412"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5d11d0c6-cf5d-4811-b17e-6dd7e8486a63",
         "b2929d67-5216-4897-8f6b-084c083c97f5",
@@ -646,9 +648,9 @@
       "dutyID": "17681a9b-cd70-470f-b895-fde457ee5ffd",
       "dutyDetail": "Organise and manage the storage of project outputs, files and documentation, and facilitate handover of assets to project owner/client, including development notes and maintenance and review recommendations.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
-      "mappedKnowledge": null,
-      "mappedOptions": null,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
       "mappedSkills": [
         "cc6821a4-9953-4e8c-9397-077f1caa7c34"
       ],
@@ -668,8 +670,8 @@
       "mappedKnowledge": [
         "d8b6b409-7bbf-4ab7-b178-2b535124bfed"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -689,13 +691,14 @@
       "mappedKnowledge": [
         "d8b6b409-7bbf-4ab7-b178-2b535124bfed"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f87aa8b5-3630-4f7a-bc28-efd7fa3e8e58"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
