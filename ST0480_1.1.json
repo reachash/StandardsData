@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/236",
   "versionNumber": "1.1",
   "change": "End-point assessment plan and standard revised.",
-  "changedDate": "2023-06-07T00:00:00Z",
-  "earliestStartDate": "2021-03-29T00:00:00Z",
-  "latestStartDate": "2023-06-06T00:00:00Z",
+  "changedDate": "2023-06-07T00:00:00",
+  "earliestStartDate": "2021-03-29T00:00:00",
+  "latestStartDate": "2023-06-06T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "A leader who has senior management responsibility.",
   "level": 7,
@@ -234,7 +234,6 @@
       "detail": "Shape and manage the communications strategy for their area of responsibility."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -274,8 +273,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Management and Administration",
   "cluster": "Management Professional",
+  "clusterId": "68",
+  "clusterDescription": "Leader of a business process and/or unit requiring the ability to analyse and improve complex business-wide processes and risks. Also includes the ability to provide a full range of company legal and financial knowledge relevant to running a company",
   "createdDate": "2022-01-24T11:51:02 +00:00",
   "lastUpdated": "2023-06-07T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/senior-leader-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/senior-leader-v1-1",
   "qualifications": [],
@@ -308,7 +310,7 @@
         "4c3526bd-a155-4c35-a93a-e67ef615c1ed",
         "36b9ac0b-a378-4772-a7b0-ee8bf7fc2fab"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8eac069d-b722-4b9d-b484-d691a85a38af",
         "72730a63-4d89-4ad2-8a38-6f9efbc5d822",
@@ -330,7 +332,7 @@
         "f74b9fc6-e8fe-4b88-b5c6-1a9c7b50ed96",
         "33f5f336-eb9b-4029-a288-a85e2c389121"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "72730a63-4d89-4ad2-8a38-6f9efbc5d822",
         "450d2f07-5959-4804-af92-9ca09d600c6a",
@@ -355,7 +357,7 @@
         "36b9ac0b-a378-4772-a7b0-ee8bf7fc2fab",
         "54dfcc93-39e7-4265-a92d-e8c263d40f33"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "72730a63-4d89-4ad2-8a38-6f9efbc5d822",
         "aa959d27-fc11-4247-b7c5-36e17fd8f1c3",
@@ -377,7 +379,7 @@
         "55c15b84-02e7-4253-935e-b29c07f10c25",
         "25c3244b-652f-4396-b64b-286438b01f22"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f65531c0-fd3e-4918-857d-cbd63ab75da8",
         "450d2f07-5959-4804-af92-9ca09d600c6a",
@@ -400,7 +402,7 @@
         "bcc6b5a2-57ad-4f73-bb87-7af7d0acbb15",
         "33f5f336-eb9b-4029-a288-a85e2c389121"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f41d7d8c-62dc-4e43-80b7-ecb8de862a38",
         "f65531c0-fd3e-4918-857d-cbd63ab75da8",
@@ -423,7 +425,7 @@
         "a79e8f1a-caae-4d3b-942c-fbc7e8e52e1f",
         "c400b2e1-b5aa-44a9-a669-e2eb74861616"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "72730a63-4d89-4ad2-8a38-6f9efbc5d822",
         "b99f850c-5970-4a79-ba00-5a406af5f552",
@@ -449,7 +451,7 @@
         "5aebc101-22ab-4054-8c84-5bcce3956cdc",
         "a79e8f1a-caae-4d3b-942c-fbc7e8e52e1f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f41d7d8c-62dc-4e43-80b7-ecb8de862a38",
         "b99f850c-5970-4a79-ba00-5a406af5f552",
@@ -473,7 +475,7 @@
         "70fc10ad-8f9d-4ddf-a041-e1364d2cd216",
         "4c3526bd-a155-4c35-a93a-e67ef615c1ed"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5836cc5e-0fb6-402a-8a71-efd7d7efe0ca",
         "456db5cb-bb7f-4fd8-beca-c570d51e448a"
@@ -493,7 +495,7 @@
         "70fc10ad-8f9d-4ddf-a041-e1364d2cd216",
         "4c3526bd-a155-4c35-a93a-e67ef615c1ed"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "72730a63-4d89-4ad2-8a38-6f9efbc5d822",
         "04d5a9f6-9c8f-454c-9cbf-fc8b15621ee9",
@@ -512,7 +514,7 @@
         "54dfcc93-39e7-4265-a92d-e8c263d40f33",
         "3b48013c-5499-449f-a2b1-214015263d83"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "72730a63-4d89-4ad2-8a38-6f9efbc5d822",
         "1605b943-0b4b-4a00-b182-a0bc6e626e28"
@@ -532,7 +534,7 @@
         "9b95cca0-a372-4063-9046-0cd50d1085ca",
         "33f5f336-eb9b-4029-a288-a85e2c389121"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aa959d27-fc11-4247-b7c5-36e17fd8f1c3",
         "f41d7d8c-62dc-4e43-80b7-ecb8de862a38",
@@ -553,7 +555,7 @@
         "6630a577-cd05-49c6-ae75-71fe47682824",
         "25c3244b-652f-4396-b64b-286438b01f22"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aa959d27-fc11-4247-b7c5-36e17fd8f1c3",
         "101e4948-02b5-4326-aa0f-b766244294de",
@@ -562,6 +564,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
