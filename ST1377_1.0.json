@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/693",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-03-09T00:00:00Z",
-  "earliestStartDate": "2023-01-01T00:00:00Z",
+  "changedDate": "2023-03-09T00:00:00",
+  "earliestStartDate": "2023-01-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Helping customers in the optical retail environment.",
@@ -480,20 +480,6 @@
       "detail": "Maintain team communications when working remotely"
     }
   ],
-  "options": [
-    {
-      "optionId": "a5d504e1-8823-4dd1-a406-7895a58c863d",
-      "title": "Option 1: Screening Assistant"
-    },
-    {
-      "optionId": "82306cea-ed64-4e88-ae9c-38829c7f1dc9",
-      "title": "Option 2: Contact Lens Assistant"
-    },
-    {
-      "optionId": "25ef4af2-8b81-4a94-b28e-8e7bf9241322",
-      "title": "Option 3: Domiciliary Optical Assistant"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -523,8 +509,11 @@
   "reviewDetails": "",
   "pathway": "Healthcare Science",
   "cluster": "Healthcare Science Assistant",
+  "clusterId": "43",
+  "clusterDescription": "Provide technical and science-based support to patients delivering testing, diagnosis, monitoring services etc. of a low risk, routine nature and also the manufacture of appliances and devices",
   "createdDate": "2022-09-26T15:41:44 +00:00",
   "lastUpdated": "2023-03-09T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/optical-assistant-2022-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/optical-assistant-2022-v1-0",
   "qualifications": [],
@@ -548,7 +537,7 @@
         "41e9f481-c63a-4a40-abd4-cc619fbd9bd8",
         "de3d5562-1ff3-4e3f-ad62-2adebcb10719"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d11deb3f-8e6c-4517-a75c-2b510abc6f51",
         "3ffa44b1-a745-4750-8ccf-3b005ce3b377",
@@ -575,7 +564,7 @@
         "df008994-455a-436c-aaec-21542bf017f6",
         "d60408ec-68c9-404d-b9ff-e06720e02cfd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1e8405bb-c829-4f1a-9f08-c102faa860d7",
         "b5dabe77-1a6a-4c93-98ef-e583fe58bcac",
@@ -600,7 +589,7 @@
         "d60408ec-68c9-404d-b9ff-e06720e02cfd",
         "02b1e3f1-0080-4f99-bcba-dcea97bc8ff1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "daa77516-ceae-47b1-ae43-fe0c203ebe43",
         "bee0dd10-3601-4433-8614-062684ea12fb",
@@ -633,7 +622,7 @@
         "55842e26-2cea-424f-b403-7bbde680b018",
         "76100166-57f3-4068-a23f-96658d7f6e62"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d11deb3f-8e6c-4517-a75c-2b510abc6f51",
         "3ffa44b1-a745-4750-8ccf-3b005ce3b377",
@@ -672,7 +661,7 @@
         "2f8f7880-775e-417f-800a-e6a01a543484",
         "f131a0cc-bc46-4bd3-9974-4b42bff7222d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d11deb3f-8e6c-4517-a75c-2b510abc6f51",
         "3ffa44b1-a745-4750-8ccf-3b005ce3b377",
@@ -718,7 +707,7 @@
         "b383fd87-bd8d-4f97-b71f-5a085ea3bdb3",
         "78d6dc66-42b5-4e3e-a58e-a0a4a1502763"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d11deb3f-8e6c-4517-a75c-2b510abc6f51",
         "bd8645a7-1334-499e-be25-8a66acb5428b",
@@ -763,7 +752,7 @@
         "43baa7f8-a8f3-4a48-ba0f-4ecc9e26c73a",
         "6c114644-2821-423b-b607-5c29f77d4548"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bee0dd10-3601-4433-8614-062684ea12fb",
         "7660da86-a9fb-4e94-9e41-55d6469368b8",
@@ -820,7 +809,7 @@
         "7d40f6f1-03e5-4f07-94b2-d4156b2b2d60",
         "6c114644-2821-423b-b607-5c29f77d4548"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d11deb3f-8e6c-4517-a75c-2b510abc6f51",
         "3ffa44b1-a745-4750-8ccf-3b005ce3b377",
@@ -886,7 +875,7 @@
         "6c114644-2821-423b-b607-5c29f77d4548",
         "5e4a0e92-aa13-4a20-9500-065c6eb238b3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d11deb3f-8e6c-4517-a75c-2b510abc6f51",
         "3ffa44b1-a745-4750-8ccf-3b005ce3b377",
@@ -956,7 +945,7 @@
         "241dfab3-fbd1-4bca-9450-298f5f3dc931",
         "a155e8bc-cf74-436f-ba79-5c01e598d7ec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d11deb3f-8e6c-4517-a75c-2b510abc6f51",
         "3ffa44b1-a745-4750-8ccf-3b005ce3b377",
@@ -1014,7 +1003,7 @@
         "4fc0588c-e35c-432e-8b6f-77fa13834849",
         "8d7c5811-2233-4f70-a6a2-0525a4ee77ab"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d11deb3f-8e6c-4517-a75c-2b510abc6f51",
         "4be7ad93-a6b4-4d47-9a30-46c3ff1995c7",
@@ -1175,6 +1164,23 @@
         "4f4b7f3c-aab1-4a13-abdd-752dce7a5770"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "a5d504e1-8823-4dd1-a406-7895a58c863d",
+      "title": "Option 1: Screening Assistant",
+      "occupationCode": null
+    },
+    {
+      "optionId": "82306cea-ed64-4e88-ae9c-38829c7f1dc9",
+      "title": "Option 2: Contact Lens Assistant",
+      "occupationCode": null
+    },
+    {
+      "optionId": "25ef4af2-8b81-4a94-b28e-8e7bf9241322",
+      "title": "Option 3: Domiciliary Optical Assistant",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
