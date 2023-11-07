@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/529",
   "versionNumber": "2.0",
   "change": "Standard and end-point assessment plan revised",
-  "changedDate": "2023-02-15T00:00:00Z",
-  "earliestStartDate": "2019-12-18T00:00:00Z",
+  "changedDate": "2023-02-15T00:00:00",
+  "earliestStartDate": "2019-12-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Preparing walls and ceilings for decoration and finishing.",
@@ -172,16 +172,6 @@
       "detail": "Restoration of existing mouldings: Take squeezes of different types of mouldings using plaster, clay and silicone rubber to reproduce mouldings to match the original; produce and install mouldings for the repair of existing mouldings."
     }
   ],
-  "options": [
-    {
-      "optionId": "bc996b30-2041-410c-a949-7ec7597e482c",
-      "title": "Solid Plastering"
-    },
-    {
-      "optionId": "a52417ed-881c-4ab4-a88b-9765f1bb1080",
-      "title": "Fibrous Plastering"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -209,10 +199,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Onsite Construction",
-  "cluster": "Core Building Tradesperson",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2019-12-16T11:50:30 +00:00",
   "lastUpdated": "2023-02-15T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/plasterer-v2-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/plasterer-v2-0",
   "qualifications": [],
@@ -230,19 +223,19 @@
         "23c37b8e-d638-4979-9676-94fedc0e331f",
         "f3bbd2a3-6a82-4c32-8611-7e8482bb1c2d"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "ef9cc716-ed94-4337-8e64-ea1945ab5308",
       "dutyDetail": "Locate, handle, store, load, transport and position plastering materials and components safely, minimising damage so they are ready for application and where applicable, in accordance with Working at Height regulations.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "dfa61a9a-5864-4ffa-a298-b765fb98f923"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c1cd7e6a-77ce-4677-8391-c8d2cb147916",
         "9c7ce0a4-bf42-4003-bc33-9440e5de729d"
@@ -253,11 +246,11 @@
       "dutyID": "dd411ce9-952b-46bb-906d-4e7723f6bdc2",
       "dutyDetail": "Prepare the site/work area (including access equipment when necessary), power and hand tools appropriate to the project.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "dfa61a9a-5864-4ffa-a298-b765fb98f923"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9c7ce0a4-bf42-4003-bc33-9440e5de729d",
         "23f7ad8e-30ef-45b9-8c19-b4bb5c551f29"
@@ -268,7 +261,7 @@
       "dutyID": "2dc9d350-03f2-41cc-94cb-0d3eb39f12ec",
       "dutyDetail": "Prepare background substrates for internal solid plastering, dry lining and external rendering.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "4b179357-08fa-4214-8823-92e924081f6b",
         "23c37b8e-d638-4979-9676-94fedc0e331f",
@@ -276,7 +269,7 @@
         "6ae2e7c5-4f65-497a-bb2f-03e8bf906ce1",
         "8112c4ce-b7a9-4ac6-869c-c9aea9a764b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c1cd7e6a-77ce-4677-8391-c8d2cb147916"
       ],
@@ -286,13 +279,13 @@
       "dutyID": "809e6090-48e7-4b1f-b666-00695b3d1cb8",
       "dutyDetail": "Apply sealers and bonding agents to ensure plaster and render adhesion in line with the manufactures instructions.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "23c37b8e-d638-4979-9676-94fedc0e331f",
         "6ae2e7c5-4f65-497a-bb2f-03e8bf906ce1",
         "8112c4ce-b7a9-4ac6-869c-c9aea9a764b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c1cd7e6a-77ce-4677-8391-c8d2cb147916"
       ],
@@ -302,14 +295,14 @@
       "dutyID": "318896e0-39a9-4091-b2a4-d0aeb9f3c127",
       "dutyDetail": "Identify and select appropriate plastering materials, modern pre-blended and loose plasters, renders and additives including compounds, fixings, performance plasterboards, reinforcements and beads to carry out the plastering work in line with specifications and manufactures instructions.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "23c37b8e-d638-4979-9676-94fedc0e331f",
         "f3bbd2a3-6a82-4c32-8611-7e8482bb1c2d",
         "5936beae-3850-4ce7-a68b-1953ff48f4bc",
         "c5fc9598-a54a-4965-b767-bdd1f064efc7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c1cd7e6a-77ce-4677-8391-c8d2cb147916",
         "cd97f1a3-481c-4050-ba9b-7dc6da0f2f98",
@@ -328,11 +321,11 @@
       "dutyID": "e6a96b4f-c8f8-4223-9a70-fe694e267a85",
       "dutyDetail": "For internal plastering cut and fix a range of standard and thin coat beads/trims to form true surfaces such as corners/returns for openings,",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "6ae2e7c5-4f65-497a-bb2f-03e8bf906ce1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "37f3ac0d-f167-4787-8c88-3c80016c279f",
         "ba026e9d-22a5-4c62-a187-ba7d688baa35",
@@ -345,13 +338,13 @@
       "dutyID": "ef869fe5-d16d-4d25-beef-107df517a2a5",
       "dutyDetail": "For external rendering fix and form stops/expansion joints and bell casts to form drips for weathering",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "4b179357-08fa-4214-8823-92e924081f6b",
         "23c37b8e-d638-4979-9676-94fedc0e331f",
         "8112c4ce-b7a9-4ac6-869c-c9aea9a764b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9c7ce0a4-bf42-4003-bc33-9440e5de729d",
         "23f7ad8e-30ef-45b9-8c19-b4bb5c551f29",
@@ -363,13 +356,13 @@
       "dutyID": "9a904d44-3618-4cb6-a884-32f8da37aec8",
       "dutyDetail": "Mix plasters and rendering materials including additives to a workable consistency. Select correct additives and reinforcements.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "23c37b8e-d638-4979-9676-94fedc0e331f",
         "6ae2e7c5-4f65-497a-bb2f-03e8bf906ce1",
         "8112c4ce-b7a9-4ac6-869c-c9aea9a764b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e9058da0-ae8f-4ad3-be75-ae3e72c788a7",
         "b89d4c36-2a6e-4f10-a6ab-c53e8c1bc9f9",
@@ -381,12 +374,12 @@
       "dutyID": "35e2414e-8d01-4fdb-9ed8-056673b2750c",
       "dutyDetail": "Cut, fix and install metal framed partitions, wall linings and openings.Cut and fix plasterboard mechanically and by direct bond in accordance with drawings and specifications.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "23c37b8e-d638-4979-9676-94fedc0e331f",
         "5936beae-3850-4ce7-a68b-1953ff48f4bc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cd97f1a3-481c-4050-ba9b-7dc6da0f2f98"
       ],
@@ -396,11 +389,11 @@
       "dutyID": "4e932e5d-9608-40b6-8ec0-7b57b18e73ee",
       "dutyDetail": "Finish plasterboard surfaces by tape and joint or finishing plasters.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "23c37b8e-d638-4979-9676-94fedc0e331f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cd97f1a3-481c-4050-ba9b-7dc6da0f2f98"
       ],
@@ -410,13 +403,13 @@
       "dutyID": "dced2603-9558-4432-ab02-1ab8c49da24b",
       "dutyDetail": "Apply one and two coat plastering systems to plain and window walls and ceilings, protecting the work area and making good when necessary.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "7f0982cd-8334-4108-a95c-df2365fc8ed3",
         "23c37b8e-d638-4979-9676-94fedc0e331f",
         "6ae2e7c5-4f65-497a-bb2f-03e8bf906ce1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "23f7ad8e-30ef-45b9-8c19-b4bb5c551f29",
         "e9058da0-ae8f-4ad3-be75-ae3e72c788a7"
@@ -427,13 +420,13 @@
       "dutyID": "732e569d-2ad4-4444-8796-cd0e8decf5f6",
       "dutyDetail": "Apply and finish a range of rendering systems to external elevations",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "7f0982cd-8334-4108-a95c-df2365fc8ed3",
         "23c37b8e-d638-4979-9676-94fedc0e331f",
         "8112c4ce-b7a9-4ac6-869c-c9aea9a764b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "23f7ad8e-30ef-45b9-8c19-b4bb5c551f29",
         "55d4b8c7-1e45-44bd-847f-de6c4a7acc3c"
@@ -444,12 +437,12 @@
       "dutyID": "17a10f4c-4389-4c20-b6b9-21a0f4ed3222",
       "dutyDetail": "Clear away leftover materials on completion of project and disposal of waste appropriately according to the appropriate code of practice.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "dfa61a9a-5864-4ffa-a298-b765fb98f923",
         "7f0982cd-8334-4108-a95c-df2365fc8ed3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9c7ce0a4-bf42-4003-bc33-9440e5de729d",
         "23f7ad8e-30ef-45b9-8c19-b4bb5c551f29"
@@ -468,7 +461,7 @@
       "mappedKnowledge": [
         "73b00ea9-4a55-4b86-9930-342861671056"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9c7ce0a4-bf42-4003-bc33-9440e5de729d",
         "23f7ad8e-30ef-45b9-8c19-b4bb5c551f29"
@@ -479,12 +472,12 @@
       "dutyID": "e54933b1-a256-4d8c-bd30-a1fd5415e28a",
       "dutyDetail": "Repair existing plasterwork, making good, restoring it to its original state.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "4b179357-08fa-4214-8823-92e924081f6b",
         "23c37b8e-d638-4979-9676-94fedc0e331f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a095de8d-e277-4591-bfbb-504cf131257d"
       ],
@@ -494,11 +487,11 @@
       "dutyID": "aae0454a-b609-4fef-9747-6a97456eddb1",
       "dutyDetail": "Construct positive or negative running moulds according to specifications and drawings.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "23c37b8e-d638-4979-9676-94fedc0e331f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "37f3ac0d-f167-4787-8c88-3c80016c279f",
         "ba026e9d-22a5-4c62-a187-ba7d688baa35"
@@ -509,11 +502,11 @@
       "dutyID": "83e0d872-8ce3-474d-8586-6d6236b89d26",
       "dutyDetail": "Install cast mouldings according to specifications and customer requirements.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "23c37b8e-d638-4979-9676-94fedc0e331f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "22d8f534-5b35-4718-a678-c315fd9011dc"
       ],
@@ -546,7 +539,7 @@
       "dutyID": "7c49afd4-5268-44af-b6b1-9d266c25f24b",
       "dutyDetail": "Apply a range of plastering coats and finishes including heritage lime mortars according to specifications.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "6ae2e7c5-4f65-497a-bb2f-03e8bf906ce1",
         "8112c4ce-b7a9-4ac6-869c-c9aea9a764b4"
@@ -554,14 +547,14 @@
       "mappedOptions": [
         "bc996b30-2041-410c-a949-7ec7597e482c"
       ],
-      "mappedSkills": null,
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "f579af4f-65e4-42ea-8c78-5dd7f9514439",
       "dutyDetail": "Apply and finish a range of plastering and rendering systems according to specifications.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "8112c4ce-b7a9-4ac6-869c-c9aea9a764b4"
       ],
@@ -577,7 +570,7 @@
       "dutyID": "93e3868c-ffbf-4aa7-a48f-c454a158f92a",
       "dutyDetail": "Apply ancillary works according to drawings and specifications. e.g lathing, beads and trims",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "c5fc9598-a54a-4965-b767-bdd1f064efc7"
       ],
@@ -604,14 +597,14 @@
       "mappedOptions": [
         "bc996b30-2041-410c-a949-7ec7597e482c"
       ],
-      "mappedSkills": null,
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "abc23728-5f19-4230-b035-d930fa669b5f",
       "dutyDetail": "Produce reverse moulds according to drawings and specifications",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "53f3dc9f-150f-4961-b426-ea3071e5c56d"
       ],
@@ -627,7 +620,7 @@
       "dutyID": "ecb30fd6-4575-4e61-931e-8ec998aa49ef",
       "dutyDetail": "Cast mouldings from a range of materials including fibrous plaster, GRG and GRC (glass fibre reinforced cement)",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0ef01def-971f-4e1d-8a19-ce58065d76fa"
       ],
@@ -643,7 +636,7 @@
       "dutyID": "4aeb2587-b448-46a9-b9e7-dc905fc1d0ec",
       "dutyDetail": "Install a range of cast mouldings according to drawings and customer requirements e.g. arches and columns",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "5930646d-60a2-41b5-9d0b-c9e726f0ffe0"
       ],
@@ -659,7 +652,7 @@
       "dutyID": "37236f7d-b746-4b8d-b973-4f9b83781185",
       "dutyDetail": "Restore existing mouldings, considering different types, materials and appropriateness to building structure and age.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "8668011a-40ee-4260-8ebd-35dbde674d5a"
       ],
@@ -670,6 +663,18 @@
         "27e085cb-eacc-4f20-b723-bb6a5bac0310"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "bc996b30-2041-410c-a949-7ec7597e482c",
+      "title": "Solid Plastering",
+      "occupationCode": null
+    },
+    {
+      "optionId": "a52417ed-881c-4ab4-a88b-9765f1bb1080",
+      "title": "Fibrous Plastering",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
