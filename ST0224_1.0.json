@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/182",
   "versionNumber": "1.0",
   "change": "Retired",
-  "changedDate": "2022-11-03T00:00:00Z",
-  "earliestStartDate": "2017-06-27T00:00:00Z",
-  "latestStartDate": "2022-11-10T00:00:00Z",
+  "changedDate": "2022-11-03T00:00:00",
+  "earliestStartDate": "2017-06-27T00:00:00",
+  "latestStartDate": "2022-11-10T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Managing trees, plants and the environment in forests and woodland.",
   "level": 2,
@@ -162,7 +162,6 @@
       "detail": "Carry out brashing, formative pruning and high pruning"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [
     "Harvesting",
     "Establishment and Maintenance"
@@ -198,13 +197,17 @@
   "reviewDetails": "",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Arboriculture and Forestry Operative",
+  "clusterId": "111",
+  "clusterDescription": "Full range of routine work to layout, plant, maintain and harvest woodland",
   "createdDate": "2017-09-22T14:24:31 +00:00",
   "lastUpdated": "2022-11-03T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/forest-operative-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/forest-operative-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
