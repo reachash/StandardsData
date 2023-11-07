@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/416",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-09-20T00:00:00Z",
-  "earliestStartDate": "2019-02-18T00:00:00Z",
+  "changedDate": "2022-09-20T00:00:00",
+  "earliestStartDate": "2019-02-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Responsible for the development, installation and maintenance of water treatment programmes for water systems.",
@@ -308,24 +308,6 @@
       "detail": "Produce a method statement and control scheme to manage the health, safety and environment during the various phases of a project."
     }
   ],
-  "options": [
-    {
-      "optionId": "d78adadb-58c6-4832-a1e2-bb6f274634bd",
-      "title": "Water Treatment Technician"
-    },
-    {
-      "optionId": "8ae27bfe-a54a-4f89-8c18-ad3e2076830a",
-      "title": "Water Treatment Equipment Technician"
-    },
-    {
-      "optionId": "a3da3571-dfc0-4e39-9eb9-9a1eb67cc8b3",
-      "title": "Legionella Risk Assessor"
-    },
-    {
-      "optionId": "61458369-3c95-47f9-9cb4-1e900c685f5f",
-      "title": "Water Treatment Operations Supervisor"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Water Treatment Technician",
     "Water Treatment Equipment Technician",
@@ -360,13 +342,38 @@
   "reviewDetails": "",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Manufacturing/Process Maintenance Operative/Technician",
+  "clusterId": "71",
+  "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2017-11-14T17:11:23 +00:00",
   "lastUpdated": "2022-09-20T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/water-treatment-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/water-treatment-technician-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "d78adadb-58c6-4832-a1e2-bb6f274634bd",
+      "title": "Water Treatment Technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "8ae27bfe-a54a-4f89-8c18-ad3e2076830a",
+      "title": "Water Treatment Equipment Technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "a3da3571-dfc0-4e39-9eb9-9a1eb67cc8b3",
+      "title": "Legionella Risk Assessor",
+      "occupationCode": null
+    },
+    {
+      "optionId": "61458369-3c95-47f9-9cb4-1e900c685f5f",
+      "title": "Water Treatment Operations Supervisor",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
