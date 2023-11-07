@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/688",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-02-23T00:00:00Z",
-  "earliestStartDate": "2022-09-21T00:00:00Z",
+  "changedDate": "2023-02-23T00:00:00",
+  "earliestStartDate": "2022-09-21T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Operating the signals and electrical controls needed to keep trains running safely and on time.",
@@ -242,7 +242,6 @@
       "detail": "Prioritise workload, for example balancing incident and event recovery with maintaining other services."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -279,8 +278,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Transport",
   "cluster": "Transport Operations Operative/Technician",
+  "clusterId": "16",
+  "clusterDescription": "Support a transport facility's operation and/or support the loading and movement of a freight or passenger vehicle or vessel",
   "createdDate": "2022-09-21T15:34:59 +00:00",
   "lastUpdated": "2023-02-23T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/rail-infrastructure-operator-2022-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/rail-infrastructure-operator-2022-v1-0",
   "qualifications": [],
@@ -330,7 +332,7 @@
         "22fa4e27-7432-4915-821e-dcfb47223e22",
         "db796022-f288-4543-ba1e-b13332fd9733"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf0286bd-00bf-46de-a908-6bc4dfa206b9",
         "92221a05-db09-4355-8c17-00db503a6b29",
@@ -392,7 +394,7 @@
         "22fa4e27-7432-4915-821e-dcfb47223e22",
         "db796022-f288-4543-ba1e-b13332fd9733"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf0286bd-00bf-46de-a908-6bc4dfa206b9",
         "92221a05-db09-4355-8c17-00db503a6b29",
@@ -454,7 +456,7 @@
         "22fa4e27-7432-4915-821e-dcfb47223e22",
         "db796022-f288-4543-ba1e-b13332fd9733"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf0286bd-00bf-46de-a908-6bc4dfa206b9",
         "92221a05-db09-4355-8c17-00db503a6b29",
@@ -516,7 +518,7 @@
         "22fa4e27-7432-4915-821e-dcfb47223e22",
         "db796022-f288-4543-ba1e-b13332fd9733"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf0286bd-00bf-46de-a908-6bc4dfa206b9",
         "92221a05-db09-4355-8c17-00db503a6b29",
@@ -578,7 +580,7 @@
         "22fa4e27-7432-4915-821e-dcfb47223e22",
         "db796022-f288-4543-ba1e-b13332fd9733"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf0286bd-00bf-46de-a908-6bc4dfa206b9",
         "92221a05-db09-4355-8c17-00db503a6b29",
@@ -640,7 +642,7 @@
         "22fa4e27-7432-4915-821e-dcfb47223e22",
         "db796022-f288-4543-ba1e-b13332fd9733"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf0286bd-00bf-46de-a908-6bc4dfa206b9",
         "92221a05-db09-4355-8c17-00db503a6b29",
@@ -702,7 +704,7 @@
         "22fa4e27-7432-4915-821e-dcfb47223e22",
         "db796022-f288-4543-ba1e-b13332fd9733"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf0286bd-00bf-46de-a908-6bc4dfa206b9",
         "92221a05-db09-4355-8c17-00db503a6b29",
@@ -764,7 +766,7 @@
         "22fa4e27-7432-4915-821e-dcfb47223e22",
         "db796022-f288-4543-ba1e-b13332fd9733"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf0286bd-00bf-46de-a908-6bc4dfa206b9",
         "92221a05-db09-4355-8c17-00db503a6b29",
@@ -826,7 +828,7 @@
         "22fa4e27-7432-4915-821e-dcfb47223e22",
         "db796022-f288-4543-ba1e-b13332fd9733"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf0286bd-00bf-46de-a908-6bc4dfa206b9",
         "92221a05-db09-4355-8c17-00db503a6b29",
@@ -888,7 +890,7 @@
         "22fa4e27-7432-4915-821e-dcfb47223e22",
         "db796022-f288-4543-ba1e-b13332fd9733"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf0286bd-00bf-46de-a908-6bc4dfa206b9",
         "92221a05-db09-4355-8c17-00db503a6b29",
@@ -950,7 +952,7 @@
         "22fa4e27-7432-4915-821e-dcfb47223e22",
         "db796022-f288-4543-ba1e-b13332fd9733"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf0286bd-00bf-46de-a908-6bc4dfa206b9",
         "92221a05-db09-4355-8c17-00db503a6b29",
@@ -1012,7 +1014,7 @@
         "22fa4e27-7432-4915-821e-dcfb47223e22",
         "db796022-f288-4543-ba1e-b13332fd9733"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf0286bd-00bf-46de-a908-6bc4dfa206b9",
         "92221a05-db09-4355-8c17-00db503a6b29",
@@ -1038,6 +1040,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
