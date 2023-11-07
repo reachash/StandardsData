@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/393",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-03-07T00:00:00Z",
-  "earliestStartDate": "2018-12-14T00:00:00Z",
+  "changedDate": "2023-03-07T00:00:00",
+  "earliestStartDate": "2018-12-14T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Producing or manufacturing leather goods for a number of markets.",
@@ -161,7 +161,6 @@
       "detail": "Effectively self-manage their time and work load to meet deadlines."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -192,10 +191,13 @@
   ],
   "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Craft and Design",
-  "cluster": "Heritage Craftsperson",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2020-01-06T15:30:17 +00:00",
   "lastUpdated": "2023-03-07T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/leather-craftsperson-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/leather-craftsperson-v1-0",
   "qualifications": [],
@@ -228,7 +230,7 @@
         "88ca3fe7-a8e6-4479-9821-731c46b2a7ba",
         "41b53eaa-f0be-4734-899f-5f327c4bf128"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "81ae1a28-0e04-48bf-9d7f-52ca0b416f95",
         "082440f6-4db0-4173-a444-e192b298a329",
@@ -263,7 +265,7 @@
         "42af115c-976e-48ea-a218-77a8da3bbb94",
         "d5604227-e1cd-4ab8-8ed7-a7fafdc1e5e6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "81ae1a28-0e04-48bf-9d7f-52ca0b416f95",
         "082440f6-4db0-4173-a444-e192b298a329",
@@ -305,7 +307,7 @@
         "88ca3fe7-a8e6-4479-9821-731c46b2a7ba",
         "41b53eaa-f0be-4734-899f-5f327c4bf128"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "81ae1a28-0e04-48bf-9d7f-52ca0b416f95",
         "082440f6-4db0-4173-a444-e192b298a329",
@@ -345,7 +347,7 @@
         "88ca3fe7-a8e6-4479-9821-731c46b2a7ba",
         "41b53eaa-f0be-4734-899f-5f327c4bf128"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "81ae1a28-0e04-48bf-9d7f-52ca0b416f95",
         "082440f6-4db0-4173-a444-e192b298a329",
@@ -384,7 +386,7 @@
         "88ca3fe7-a8e6-4479-9821-731c46b2a7ba",
         "41b53eaa-f0be-4734-899f-5f327c4bf128"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "81ae1a28-0e04-48bf-9d7f-52ca0b416f95",
         "082440f6-4db0-4173-a444-e192b298a329",
@@ -423,7 +425,7 @@
         "88ca3fe7-a8e6-4479-9821-731c46b2a7ba",
         "41b53eaa-f0be-4734-899f-5f327c4bf128"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "81ae1a28-0e04-48bf-9d7f-52ca0b416f95",
         "082440f6-4db0-4173-a444-e192b298a329",
@@ -463,7 +465,7 @@
         "88ca3fe7-a8e6-4479-9821-731c46b2a7ba",
         "41b53eaa-f0be-4734-899f-5f327c4bf128"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "81ae1a28-0e04-48bf-9d7f-52ca0b416f95",
         "082440f6-4db0-4173-a444-e192b298a329",
@@ -499,7 +501,7 @@
         "d5604227-e1cd-4ab8-8ed7-a7fafdc1e5e6",
         "88ca3fe7-a8e6-4479-9821-731c46b2a7ba"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "81ae1a28-0e04-48bf-9d7f-52ca0b416f95",
         "082440f6-4db0-4173-a444-e192b298a329",
@@ -538,7 +540,7 @@
         "d5604227-e1cd-4ab8-8ed7-a7fafdc1e5e6",
         "88ca3fe7-a8e6-4479-9821-731c46b2a7ba"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "81ae1a28-0e04-48bf-9d7f-52ca0b416f95",
         "082440f6-4db0-4173-a444-e192b298a329",
@@ -574,7 +576,7 @@
         "42af115c-976e-48ea-a218-77a8da3bbb94",
         "88ca3fe7-a8e6-4479-9821-731c46b2a7ba"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "81ae1a28-0e04-48bf-9d7f-52ca0b416f95",
         "082440f6-4db0-4173-a444-e192b298a329",
@@ -591,6 +593,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
