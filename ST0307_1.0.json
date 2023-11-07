@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/350",
   "versionNumber": "1.0",
   "change": "",
-  "changedDate": "2018-09-24T00:00:00Z",
-  "earliestStartDate": "2018-09-24T00:00:00Z",
+  "changedDate": "2018-09-24T00:00:00",
+  "earliestStartDate": "2018-09-24T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Carrying out a range of tasks involving handling cargo, passengers or marine craft.",
@@ -163,16 +163,6 @@
       "detail": "Handle baggage using the most suitable method, identifying correct destination and any factors requiring special attention, following correct procedures for damaged, lost, unclaimed, unlabelled, unaccompanied, or suspect baggage promptly."
     }
   ],
-  "options": [
-    {
-      "optionId": "52c37d0b-03f6-4955-b246-b2d1d31949e2",
-      "title": "Cargo Operatives"
-    },
-    {
-      "optionId": "7509b134-02f3-4f09-8f46-9e39592a86e4",
-      "title": "Passenger, Ferry & Cruise Operatives"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Cargo Operatives",
     "Passenger, Ferry & Cruise Operatives"
@@ -213,13 +203,28 @@
   "reviewDetails": "",
   "pathway": "Transport",
   "cluster": "Transport Operations Operative/Technician",
+  "clusterId": "16",
+  "clusterDescription": "Support a transport facility's operation and/or support the loading and movement of a freight or passenger vehicle or vessel",
   "createdDate": "2017-11-14T17:09:00 +00:00",
   "lastUpdated": "2018-09-24T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/port-operative-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/port-operative-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "52c37d0b-03f6-4955-b246-b2d1d31949e2",
+      "title": "Cargo Operatives",
+      "occupationCode": null
+    },
+    {
+      "optionId": "7509b134-02f3-4f09-8f46-9e39592a86e4",
+      "title": "Passenger, Ferry & Cruise Operatives",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
