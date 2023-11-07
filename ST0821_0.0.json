@@ -7,7 +7,7 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/0",
   "versionNumber": "",
   "change": "",
-  "changedDate": "2019-09-05T00:00:00Z",
+  "changedDate": "2019-09-05T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
@@ -176,7 +176,6 @@
       "detail": "Carry out thatching works where it adjoins with other materials such as lead and brickwork."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -198,10 +197,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
-  "pathway": "Onsite Construction",
-  "cluster": "Core Building Tradesperson",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2019-09-05T11:29:34 +00:00",
   "lastUpdated": "2019-09-05T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/thatcher?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/thatcher",
   "qualifications": [],
@@ -225,7 +227,7 @@
         "f1c1fa58-95a0-408a-b1b2-9e17aa6107fc",
         "5379d055-b9ef-44bf-8aef-998bb9d0cae1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1cc68cbe-e206-486a-bfad-f860cfa573f4",
         "3b5817df-7e50-4cb9-931e-5d63cf6ee3ba",
@@ -256,7 +258,7 @@
         "0ef3d38a-18e5-4845-8beb-e9d287bcc3af",
         "72e8f297-3245-4fee-8ac1-5bda7e2aa258"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3b5817df-7e50-4cb9-931e-5d63cf6ee3ba",
         "0a0be092-8ce6-4d43-85c6-84040c5dbfa2",
@@ -280,7 +282,7 @@
         "c68d8627-4b0a-4e8a-b25b-e8152ca5eaeb",
         "5379d055-b9ef-44bf-8aef-998bb9d0cae1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1cc68cbe-e206-486a-bfad-f860cfa573f4",
         "3b5817df-7e50-4cb9-931e-5d63cf6ee3ba",
@@ -309,7 +311,7 @@
         "c68d8627-4b0a-4e8a-b25b-e8152ca5eaeb",
         "5379d055-b9ef-44bf-8aef-998bb9d0cae1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0a0be092-8ce6-4d43-85c6-84040c5dbfa2",
         "583a1f99-f0a7-4c1e-9022-2d586046c6dc",
@@ -338,7 +340,7 @@
         "f1c1fa58-95a0-408a-b1b2-9e17aa6107fc",
         "5379d055-b9ef-44bf-8aef-998bb9d0cae1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1cc68cbe-e206-486a-bfad-f860cfa573f4",
         "3b5817df-7e50-4cb9-931e-5d63cf6ee3ba",
@@ -369,7 +371,7 @@
         "ad538166-170b-4910-8ffd-704f15c8731f",
         "a1867302-b54d-449d-8a4a-0e6cad5c3994"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1cc68cbe-e206-486a-bfad-f860cfa573f4",
         "3b5817df-7e50-4cb9-931e-5d63cf6ee3ba",
@@ -400,7 +402,7 @@
         "ad538166-170b-4910-8ffd-704f15c8731f",
         "a1867302-b54d-449d-8a4a-0e6cad5c3994"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1cc68cbe-e206-486a-bfad-f860cfa573f4",
         "3b5817df-7e50-4cb9-931e-5d63cf6ee3ba",
@@ -427,7 +429,7 @@
         "5f55e6f8-1366-47f2-8fd5-1a83788736fc",
         "f1c1fa58-95a0-408a-b1b2-9e17aa6107fc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3d0abd3-ea6e-4d7b-924b-ab70c8d16161",
         "1128f9df-4990-48fc-9a8d-33e503c8fcda",
@@ -449,7 +451,7 @@
         "51f85079-298a-4c56-8471-30b0023f9907",
         "a1867302-b54d-449d-8a4a-0e6cad5c3994"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0a0be092-8ce6-4d43-85c6-84040c5dbfa2",
         "583a1f99-f0a7-4c1e-9022-2d586046c6dc",
@@ -475,7 +477,7 @@
         "5379d055-b9ef-44bf-8aef-998bb9d0cae1",
         "72e8f297-3245-4fee-8ac1-5bda7e2aa258"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1cc68cbe-e206-486a-bfad-f860cfa573f4",
         "3b5817df-7e50-4cb9-931e-5d63cf6ee3ba",
@@ -489,6 +491,7 @@
       "criteriaForMeasuringPerformance": "Ability to work out how much materials and time required to complete a thatching job efficiently"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
