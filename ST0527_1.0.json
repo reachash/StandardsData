@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/510",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2019-09-27T00:00:00Z",
-  "earliestStartDate": "2019-09-27T00:00:00Z",
+  "changedDate": "2019-09-27T00:00:00",
+  "earliestStartDate": "2019-09-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Offering leadership to local churches and supporting and supervising other practitioners in areas such as leading worship, preaching, pastoral care, facilitating faith development and community action.",
@@ -193,7 +193,6 @@
       "detail": "Apply reflective practice skills to develop their faith and ministry, drawing on their biblical and theological understanding to inform their reflection"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -221,8 +220,11 @@
   "reviewDetails": "&lt;p&gt;This standard will be reviewed after three years.&lt;/p&gt;",
   "pathway": "Care Services",
   "cluster": "Care Services Professional",
+  "clusterId": "44",
+  "clusterDescription": "Lead, manage and deliver a whole care process to support clients including their assurance and improvement often requiring specialist care expertise.",
   "createdDate": "2021-12-15T10:00:44 +00:00",
   "lastUpdated": "2019-09-27T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/church-minister-integrated-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/church-minister-integrated-degree-v1-0",
   "qualifications": [
@@ -254,7 +256,7 @@
         "124bf655-f071-4b11-abdd-3befa887c69a",
         "d0cdccfe-a5b1-4ebd-b9f6-d6763196986c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "efd0a34d-7b34-4c4f-9594-9da0dec42f0b",
         "6a4e203d-1fbb-48ea-b4e7-aa8d8eae6bd4",
@@ -287,7 +289,7 @@
         "124bf655-f071-4b11-abdd-3befa887c69a",
         "d0cdccfe-a5b1-4ebd-b9f6-d6763196986c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "efd0a34d-7b34-4c4f-9594-9da0dec42f0b",
         "6a4e203d-1fbb-48ea-b4e7-aa8d8eae6bd4",
@@ -320,7 +322,7 @@
         "02fb0ca3-357a-42da-b7bb-da268456253b",
         "0c8bcd20-a87c-4ee5-94d4-8e2ee06ee590"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8f29040c-a509-46f9-8ef8-eb6dcf9cfe53",
         "7e1a5855-37cb-4782-bc82-4acd1f614989",
@@ -347,7 +349,7 @@
         "02fb0ca3-357a-42da-b7bb-da268456253b",
         "0c8bcd20-a87c-4ee5-94d4-8e2ee06ee590"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6a4e203d-1fbb-48ea-b4e7-aa8d8eae6bd4",
         "939a9b5d-390b-4dbc-955f-8004f4d45bf2",
@@ -376,7 +378,7 @@
         "4e4c4c76-f899-4390-8b06-807fb54dc697",
         "d0cdccfe-a5b1-4ebd-b9f6-d6763196986c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "efd0a34d-7b34-4c4f-9594-9da0dec42f0b",
         "0d331a79-e466-480e-94f0-7bca6b17623c",
@@ -403,7 +405,7 @@
         "4e4c4c76-f899-4390-8b06-807fb54dc697",
         "d0cdccfe-a5b1-4ebd-b9f6-d6763196986c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "efd0a34d-7b34-4c4f-9594-9da0dec42f0b",
         "6a4e203d-1fbb-48ea-b4e7-aa8d8eae6bd4",
@@ -435,7 +437,7 @@
         "2b80c3ee-f218-434e-bb0d-142b51964d67",
         "188b34fc-4bd0-4796-873c-e58d547a4bf5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65f09d07-8a5c-47a0-b21c-7866e8afcbf2",
         "efcf98b2-750b-4c78-9f06-ed4d937b4cbc",
@@ -462,7 +464,7 @@
         "02fb0ca3-357a-42da-b7bb-da268456253b",
         "0c8bcd20-a87c-4ee5-94d4-8e2ee06ee590"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65f09d07-8a5c-47a0-b21c-7866e8afcbf2",
         "7e1a5855-37cb-4782-bc82-4acd1f614989",
@@ -489,7 +491,7 @@
         "02fb0ca3-357a-42da-b7bb-da268456253b",
         "f60738d8-c1a6-43d3-9a61-3204cd6439ff"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8f29040c-a509-46f9-8ef8-eb6dcf9cfe53",
         "7e1a5855-37cb-4782-bc82-4acd1f614989",
@@ -514,7 +516,7 @@
         "1bc7a89b-e9fa-4e79-a7ec-1de51bd80a59",
         "0c8bcd20-a87c-4ee5-94d4-8e2ee06ee590"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d1475e32-d462-4a16-bf4c-685cb9cb71e6",
         "f466f617-31ee-4bfd-8a43-c0b8080c55f4",
@@ -540,7 +542,7 @@
         "02fb0ca3-357a-42da-b7bb-da268456253b",
         "0c8bcd20-a87c-4ee5-94d4-8e2ee06ee590"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "19e01778-8502-46f2-9573-06f099ea8f74",
         "d1475e32-d462-4a16-bf4c-685cb9cb71e6",
@@ -550,6 +552,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
