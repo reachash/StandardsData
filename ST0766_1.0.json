@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/552",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-03-25T00:00:00Z",
-  "earliestStartDate": "2020-04-02T00:00:00Z",
+  "changedDate": "2021-03-25T00:00:00",
+  "earliestStartDate": "2020-04-02T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Assess a customers full circumstances and provide suitable advice to enable the customer to best manage their debts.",
@@ -148,7 +148,6 @@
       "detail": "Recognise, monitor and respond to debt advice events (such as change in circumstances) that will trigger a new or updated assessment."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -185,8 +184,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Financial",
   "cluster": "Financial Services Administrator",
+  "clusterId": "240",
+  "clusterDescription": "Provide highly accurate support to operations and administration across wide areas of financial service areas including research and analysis compliant with relevant regulations. Deliver support to clients and to client account management (risk, collection, enforcement, recovery)",
   "createdDate": "2019-11-27T09:03:21 +00:00",
   "lastUpdated": "2021-03-25T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/debt-adviser-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/debt-adviser-v1-0",
   "qualifications": [],
@@ -207,7 +209,7 @@
         "b9eff7e9-e572-454d-8dfe-2ca7283b567a",
         "bde47f4d-8d9a-4454-b105-9980abf2e2f6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f700b4db-8934-424f-bdc0-6548642dee76",
         "b5e875c8-f653-4a85-a673-505fc40cc6ae",
@@ -233,7 +235,7 @@
         "5b69225f-8258-4552-a39d-aae734680130",
         "bde47f4d-8d9a-4454-b105-9980abf2e2f6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f700b4db-8934-424f-bdc0-6548642dee76"
       ],
@@ -257,7 +259,7 @@
         "b9eff7e9-e572-454d-8dfe-2ca7283b567a",
         "bde47f4d-8d9a-4454-b105-9980abf2e2f6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b5e875c8-f653-4a85-a673-505fc40cc6ae",
         "32ef1386-1bf9-4d75-a1e1-14843fd90a95",
@@ -285,7 +287,7 @@
         "bde47f4d-8d9a-4454-b105-9980abf2e2f6",
         "eac945fe-84d8-4d67-affc-ae4e92401763"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "33298254-9bc3-4b1a-951c-42b9f78ee3ed",
         "32ef1386-1bf9-4d75-a1e1-14843fd90a95",
@@ -308,7 +310,7 @@
         "bde47f4d-8d9a-4454-b105-9980abf2e2f6",
         "f49cd7ff-1148-447e-91b1-c467615270e5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b5e875c8-f653-4a85-a673-505fc40cc6ae",
         "cb542351-aeee-463f-ba3a-9bab6d39b9d4",
@@ -334,7 +336,7 @@
         "bde47f4d-8d9a-4454-b105-9980abf2e2f6",
         "eac945fe-84d8-4d67-affc-ae4e92401763"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "33298254-9bc3-4b1a-951c-42b9f78ee3ed",
         "df9dfc93-dd88-4d61-87ef-0aceaab435cf",
@@ -359,7 +361,7 @@
         "bde47f4d-8d9a-4454-b105-9980abf2e2f6",
         "eac945fe-84d8-4d67-affc-ae4e92401763"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "df9dfc93-dd88-4d61-87ef-0aceaab435cf",
         "cb542351-aeee-463f-ba3a-9bab6d39b9d4",
@@ -381,7 +383,7 @@
         "bde47f4d-8d9a-4454-b105-9980abf2e2f6",
         "f49cd7ff-1148-447e-91b1-c467615270e5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cb542351-aeee-463f-ba3a-9bab6d39b9d4",
         "02a2a689-adf2-4bd6-b742-515229f66562",
@@ -404,7 +406,7 @@
         "eac945fe-84d8-4d67-affc-ae4e92401763",
         "f49cd7ff-1148-447e-91b1-c467615270e5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "33298254-9bc3-4b1a-951c-42b9f78ee3ed",
         "32ef1386-1bf9-4d75-a1e1-14843fd90a95",
@@ -433,7 +435,7 @@
         "bde47f4d-8d9a-4454-b105-9980abf2e2f6",
         "eac945fe-84d8-4d67-affc-ae4e92401763"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b5e875c8-f653-4a85-a673-505fc40cc6ae",
         "33298254-9bc3-4b1a-951c-42b9f78ee3ed",
@@ -443,6 +445,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
