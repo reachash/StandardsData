@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/188",
   "versionNumber": "1.0",
   "change": "Retired",
-  "changedDate": "2022-12-07T00:00:00Z",
-  "earliestStartDate": "2017-08-17T00:00:00Z",
-  "latestStartDate": "2022-09-20T00:00:00Z",
+  "changedDate": "2022-12-07T00:00:00",
+  "earliestStartDate": "2017-08-17T00:00:00",
+  "latestStartDate": "2022-09-20T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Operating the signals and electrical controls needed to keep trains running safely and on time.",
   "level": 2,
@@ -214,7 +214,6 @@
       "detail": "Incident responder: Follow a defined set of procedures which outline the basic response to an incident, such as arrive on site, assess, make safe, report and liaise with others as necessary."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [
     "Electrical Controller",
     "Incident Responder",
@@ -255,13 +254,17 @@
   "reviewDetails": "",
   "pathway": "Transport",
   "cluster": "Transport Operations Operative/Technician",
+  "clusterId": "16",
+  "clusterDescription": "Support a transport facility's operation and/or support the loading and movement of a freight or passenger vehicle or vessel",
   "createdDate": "2022-04-11T14:04:15 +00:00",
   "lastUpdated": "2022-12-07T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/rail-infrastructure-operator-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/rail-infrastructure-operator-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
