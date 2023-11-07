@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/654",
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised",
-  "changedDate": "2022-11-18T00:00:00Z",
-  "earliestStartDate": "2022-11-18T00:00:00Z",
+  "changedDate": "2022-11-18T00:00:00",
+  "earliestStartDate": "2022-11-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Manage the day to day operations involved in supply chain.",
@@ -296,16 +296,6 @@
       "detail": "identify and propose innovative business improvements"
     }
   ],
-  "options": [
-    {
-      "optionId": "634e7e33-6cd9-4f96-90a4-e19b29af06aa",
-      "title": "Transport Operations Supervisor"
-    },
-    {
-      "optionId": "7df34aa3-5d1f-48b1-8f01-bc0e0be4ac48",
-      "title": "Warehouse Operations Supervisor"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -343,8 +333,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Logistics",
   "cluster": "Supply Chain Operative/Technician",
+  "clusterId": "37",
+  "clusterDescription": "Undertake routine materials movement, plan and administer logistics",
   "createdDate": "2022-11-18T11:12:55 +00:00",
   "lastUpdated": "2022-11-18T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/transport-and-warehouse-operations-supervisor-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/transport-and-warehouse-operations-supervisor-v1-1",
   "qualifications": [
@@ -385,7 +378,7 @@
       "mappedKnowledge": [
         "6d8d2baa-fe16-409e-85c6-843f74145b28"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9515b89-294c-4d3d-8f3c-0511f3984183",
         "87fb6a90-f786-4b23-b471-1c184e34ef6a"
@@ -412,7 +405,7 @@
         "b6dee806-791a-47f1-873c-430060fe774c",
         "4c2b087d-4c4b-49b9-a614-81021d0f257f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "67c02367-8fde-4daf-97b0-6a38760b099d",
         "3fa7e425-51cd-46ce-897a-309d81e9dd4f",
@@ -438,7 +431,7 @@
         "531df6f3-173e-4de2-81c7-f769cc559a06",
         "bc41e313-ee3c-4589-b7aa-56dc9c2666ea"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "861affdd-3c5f-466b-89e4-487a49fd4f16",
         "d5934929-6144-46fa-a3c8-72613ed896a6"
@@ -461,7 +454,7 @@
       "mappedKnowledge": [
         "531df6f3-173e-4de2-81c7-f769cc559a06"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "67c02367-8fde-4daf-97b0-6a38760b099d",
         "d9515b89-294c-4d3d-8f3c-0511f3984183"
@@ -484,7 +477,7 @@
         "9ad41194-e74b-4982-9d6c-070f3673a2de",
         "3e239eb2-da77-4209-aac0-4271efc31481"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "67c02367-8fde-4daf-97b0-6a38760b099d",
         "3fa7e425-51cd-46ce-897a-309d81e9dd4f",
@@ -509,7 +502,7 @@
         "9ad41194-e74b-4982-9d6c-070f3673a2de",
         "413bebb3-8551-4309-97e5-0e533927f4c1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d512baa7-81d1-4cf5-8731-71a64ed1698a",
         "8991a012-1e7e-4a1d-b97c-d258becacb97"
@@ -529,7 +522,7 @@
       "mappedKnowledge": [
         "531df6f3-173e-4de2-81c7-f769cc559a06"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "861affdd-3c5f-466b-89e4-487a49fd4f16"
       ],
@@ -550,7 +543,7 @@
         "531df6f3-173e-4de2-81c7-f769cc559a06",
         "fcd3c2b1-1ddd-4dfd-92ca-57b26f0e9e62"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8811b0b4-7b46-4eea-9d0e-f18b9450abb3",
         "861affdd-3c5f-466b-89e4-487a49fd4f16"
@@ -572,7 +565,7 @@
         "6d8d2baa-fe16-409e-85c6-843f74145b28",
         "9ad41194-e74b-4982-9d6c-070f3673a2de"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d512baa7-81d1-4cf5-8731-71a64ed1698a"
       ],
@@ -590,7 +583,7 @@
       "mappedKnowledge": [
         "d66dc5b2-2ce4-4814-8fdb-9d52b2fc634e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "67c02367-8fde-4daf-97b0-6a38760b099d",
         "b8afb111-a332-462d-b629-77207508a48f",
@@ -921,7 +914,7 @@
       "dutyID": "af71d3f7-c7cd-4546-beaf-a1ccb5f01beb",
       "dutyDetail": "Carry out stock control and stock checks to ensure that appropriate stock levels are maintained.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "db018b82-b5df-4f50-8ebe-b404269c3253"
       ],
@@ -979,14 +972,14 @@
       "dutyID": "6705819a-25f3-4a58-aaad-ea206db3b74d",
       "dutyDetail": "Supervise the process of bespoke/ direct orders and deal with any problems.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "76baaeeb-d9fd-4289-ba6a-a8a4b9c58423"
       ],
       "mappedOptions": [
         "7df34aa3-5d1f-48b1-8f01-bc0e0be4ac48"
       ],
-      "mappedSkills": null,
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -1010,6 +1003,18 @@
         "227fbac3-b627-46a5-adfa-494bef182430"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "634e7e33-6cd9-4f96-90a4-e19b29af06aa",
+      "title": "Transport Operations Supervisor",
+      "occupationCode": null
+    },
+    {
+      "optionId": "7df34aa3-5d1f-48b1-8f01-bc0e0be4ac48",
+      "title": "Warehouse Operations Supervisor",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [
