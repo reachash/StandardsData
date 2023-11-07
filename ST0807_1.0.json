@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/480",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2019-07-03T00:00:00Z",
-  "earliestStartDate": "2019-07-03T00:00:00Z",
+  "changedDate": "2019-07-03T00:00:00",
+  "earliestStartDate": "2019-07-03T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Supporting customer focused marketing activities through awareness raising and/or perception building.",
@@ -204,7 +204,6 @@
       "detail": "Compile a report from a marketing system/software, e.g. CRM, Google Analytics, Dotmailer"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -238,8 +237,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Marketing",
   "cluster": "Marketing Assistant",
+  "clusterId": "124",
+  "clusterDescription": "Plan, organise and deliver key marketing actions and events",
   "createdDate": "2020-01-16T11:56:14 +00:00",
   "lastUpdated": "2019-07-03T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/marketing-assistant-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/marketing-assistant-v1-0",
   "qualifications": [],
@@ -274,7 +276,7 @@
         "8144101e-981d-4f9c-a74c-4210b00299e2",
         "7a703a6b-706c-4bed-ad61-5a60c4892720"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "091a9689-5559-4cae-a85a-f31ee54e2d4f",
         "8ff37be0-f4d3-4e23-b3eb-112692e0f7e6",
@@ -305,7 +307,7 @@
         "8144101e-981d-4f9c-a74c-4210b00299e2",
         "7a703a6b-706c-4bed-ad61-5a60c4892720"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "091a9689-5559-4cae-a85a-f31ee54e2d4f",
         "8ff37be0-f4d3-4e23-b3eb-112692e0f7e6",
@@ -333,7 +335,7 @@
         "bfce0dd9-fd94-411c-b470-62f3c9ae2680",
         "b8ec58f1-8ef9-462d-89aa-17b9e755d647"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cae271c0-b68e-44b8-8e91-2c2a14411d80",
         "f051a628-4135-4e6e-a5e7-76c5c131f716",
@@ -356,7 +358,7 @@
         "c8568aa2-6072-4b3e-97d1-b5c1216efc46",
         "451293a0-30c3-4829-ac86-9b9bc592c694"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7813247d-fca2-47a8-a1ed-b7203d122349",
         "7e88d519-c6aa-46e2-aecc-3b23590fe453"
@@ -383,7 +385,7 @@
         "8667dfb6-64ae-43e3-b983-b8afeaa3c9ad",
         "7a703a6b-706c-4bed-ad61-5a60c4892720"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "efda95da-e4c1-462a-8eea-f013ceec256f",
         "c1ab4ff7-0439-4e43-9aee-84792ce8a7a0",
@@ -415,7 +417,7 @@
         "c8568aa2-6072-4b3e-97d1-b5c1216efc46",
         "8667dfb6-64ae-43e3-b983-b8afeaa3c9ad"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "efda95da-e4c1-462a-8eea-f013ceec256f",
         "c1ab4ff7-0439-4e43-9aee-84792ce8a7a0",
@@ -446,7 +448,7 @@
         "8144101e-981d-4f9c-a74c-4210b00299e2",
         "7a703a6b-706c-4bed-ad61-5a60c4892720"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "091a9689-5559-4cae-a85a-f31ee54e2d4f",
         "8ff37be0-f4d3-4e23-b3eb-112692e0f7e6",
@@ -475,7 +477,7 @@
         "c9770d16-1ee4-4527-a8a5-55987424e415",
         "8667dfb6-64ae-43e3-b983-b8afeaa3c9ad"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "efda95da-e4c1-462a-8eea-f013ceec256f",
         "c1ab4ff7-0439-4e43-9aee-84792ce8a7a0",
@@ -500,7 +502,7 @@
         "bfce0dd9-fd94-411c-b470-62f3c9ae2680",
         "b8ec58f1-8ef9-462d-89aa-17b9e755d647"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7e88d519-c6aa-46e2-aecc-3b23590fe453"
       ],
@@ -525,7 +527,7 @@
         "bfce0dd9-fd94-411c-b470-62f3c9ae2680",
         "451293a0-30c3-4829-ac86-9b9bc592c694"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7813247d-fca2-47a8-a1ed-b7203d122349",
         "cae271c0-b68e-44b8-8e91-2c2a14411d80",
@@ -551,7 +553,7 @@
         "bfce0dd9-fd94-411c-b470-62f3c9ae2680",
         "09d88d3d-8bbf-4aa2-8d92-dabb74764335"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f051a628-4135-4e6e-a5e7-76c5c131f716",
         "c1ab4ff7-0439-4e43-9aee-84792ce8a7a0",
@@ -581,7 +583,7 @@
         "02e9c928-ef93-4019-9e54-583b8193a853",
         "b8ec58f1-8ef9-462d-89aa-17b9e755d647"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7813247d-fca2-47a8-a1ed-b7203d122349",
         "cae271c0-b68e-44b8-8e91-2c2a14411d80",
@@ -595,6 +597,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
