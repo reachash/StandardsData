@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/719",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-08-16T00:00:00Z",
-  "earliestStartDate": "2023-08-16T00:00:00Z",
-  "latestStartDate": "2023-11-01T00:00:00Z",
+  "changedDate": "2023-08-16T00:00:00",
+  "earliestStartDate": "2023-08-16T00:00:00",
+  "latestStartDate": "2023-11-01T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Carry out a range of laboratory and scientific tests to support the diagnosis and treatment of disease.",
   "level": 6,
@@ -615,7 +615,6 @@
       "detail": "Engage in occupational health, including being aware of immunisation requirements."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -645,8 +644,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Healthcare Science",
   "cluster": "Healthcare Science Professional",
+  "clusterId": "21",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2023-08-16T09:02:29 +00:00",
   "lastUpdated": "2023-08-16T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/biomedical-scientist-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/biomedical-scientist-v1-0",
   "qualifications": [
@@ -688,7 +690,7 @@
         "a9a5f986-9223-41bd-8ca0-2838085057e4",
         "84512f33-6464-4b7f-974f-0bf507274fce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d99ca6e8-b9a1-4e56-a739-9d31cbe8069c",
         "68be4325-1893-4f74-913b-85ca61d7e5fa",
@@ -721,7 +723,7 @@
         "bb1e44d9-351a-489a-8047-4f5be20b268d",
         "d0b9b06c-4b9b-402e-94ac-3294123c928d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "90215b76-2143-4d79-a157-1d6d170c519f",
         "5ef5febb-158e-41ce-b559-e9b0d0c82e5d",
@@ -744,7 +746,7 @@
         "2bc6c63e-36a8-4ae8-a94d-38a956977ea7",
         "d1c1cc19-5c17-4526-9523-6dc812132856"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "70e3d35e-66e5-4562-ac6e-c35d9db19894",
         "a62139a8-150a-4da5-beb7-e36fdd32ab4b",
@@ -773,7 +775,7 @@
         "887671b6-e368-4c1e-a199-b0e530ee5b69",
         "6ec4a701-158d-4277-addf-1b7ad9a5f686"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3242757-eb8f-4a4f-8101-182aff013496",
         "544609c3-a49b-4817-b74e-300d9616eff1",
@@ -805,7 +807,7 @@
         "06310f63-76ea-45e3-805e-dd99e35c1cfd",
         "12de4e26-8a25-445b-93ab-995240213eea"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "57eedb0f-a683-4e3d-8f4b-a6dc11d7a7a8",
         "33476247-13a8-4596-ad5e-cff4c7fa079b",
@@ -841,7 +843,7 @@
         "f1794f2d-d7e6-4316-b9dd-d96e1f801484",
         "2edcae56-1a06-4a51-8f1c-c95ef0f13855"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aad5d77b-825f-48be-9937-6030e912f1cf",
         "0574b924-49ff-4124-ac08-4fa5b5aefbd6",
@@ -870,7 +872,7 @@
         "47677995-5001-490f-9526-917ca45ab44b",
         "72c6c01c-6f1b-4a9b-ac50-656aec7cb639"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8131469b-1a9c-49fd-a0cc-ca9f12b7c978",
         "23b3302d-20c5-4f12-a3a1-761614b5ff58",
@@ -909,7 +911,7 @@
         "5861b546-188a-43ff-a4f9-a2ed6a7a48f9",
         "63adeae7-0566-4ca5-9ad2-a70cd57956b1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e14f6c39-8afa-49db-b5f7-fe403a9e73a4",
         "332d96f1-255a-44b9-b6d2-584c81250399",
@@ -959,7 +961,7 @@
         "84512f33-6464-4b7f-974f-0bf507274fce",
         "3f6c8dcf-e4ea-4557-9619-85749ec35d6e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "93bcbd12-9e9d-4906-bcc7-3ba75da3bf9b",
         "42f4506e-32b9-4076-942a-52a9654515a7",
@@ -983,7 +985,7 @@
         "9587f108-e8bb-431e-a0bf-0a6d5d551887",
         "62ba33d6-3bad-4a15-8e02-06cbf453e6fa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5eeb63b5-7cf4-4440-be9f-d928f7d067be",
         "1bc12395-2d01-457f-bd34-b42348555fe4"
@@ -991,6 +993,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training Provider",
