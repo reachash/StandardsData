@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/568",
   "versionNumber": "1.1",
   "change": "Standard and end-point assessment plan revised",
-  "changedDate": "2023-01-24T00:00:00Z",
-  "earliestStartDate": "2022-11-11T00:00:00Z",
+  "changedDate": "2023-01-24T00:00:00",
+  "earliestStartDate": "2022-11-11T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Construct, maintain and repair water network infrastructure, to provide a reliable supply/service to domestic, commercial and industrial users.",
@@ -311,16 +311,6 @@
       "detail": "Decontaminate equipment, tooling and PPE."
     }
   ],
-  "options": [
-    {
-      "optionId": "21060680-89ad-49bf-8d77-40a4a63cd4d8",
-      "title": "Clean water network operative"
-    },
-    {
-      "optionId": "36f32460-9e39-47dc-b04b-9416e928f7bb",
-      "title": "Waste water network operative"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -348,8 +338,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Manufacturing/Process Maintenance Operative/Technician",
+  "clusterId": "71",
+  "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2022-11-11T10:14:53 +00:00",
   "lastUpdated": "2023-01-24T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/water-network-operative-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/water-network-operative-v1-1",
   "qualifications": [],
@@ -374,7 +367,7 @@
         "b5f3f4fc-a0e4-428c-9eff-667fbaadf643",
         "6ead6974-d6dd-4da9-893a-1967e6acd607"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8dfcc0a4-9759-4e57-8de7-fbac40488529",
         "809f894b-603a-4123-94b4-ef92cd6ea9f1",
@@ -398,7 +391,7 @@
         "decede38-eb4d-43a7-83f5-bfc382c5b9a4",
         "6ead6974-d6dd-4da9-893a-1967e6acd607"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "75069bbf-7bbd-4c91-a457-a4891b1ab969",
         "e2a6c887-8b13-4a5b-8e76-95bfbf62b54d"
@@ -422,7 +415,7 @@
         "1d23017f-de4e-416d-899b-7759449dc5a1",
         "0eb20535-9855-4372-ac40-eb2d2fa42e54"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "89e3ef21-74f1-4652-b0d9-0ea2d83185d5",
         "0a2c43c4-14dc-40e3-95da-51a0f88f9c8f",
@@ -448,7 +441,7 @@
         "fc5f84c9-2231-47ab-b9e4-b477012f9c12",
         "bab3543d-abbe-4880-8a40-ae15d80b70c5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8dfcc0a4-9759-4e57-8de7-fbac40488529",
         "e2a6c887-8b13-4a5b-8e76-95bfbf62b54d",
@@ -475,7 +468,7 @@
         "f0fa779b-b289-4ca0-a40f-5eb21ab1889a",
         "decede38-eb4d-43a7-83f5-bfc382c5b9a4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8dfcc0a4-9759-4e57-8de7-fbac40488529",
         "e2a6c887-8b13-4a5b-8e76-95bfbf62b54d",
@@ -499,7 +492,7 @@
         "8418ab48-19ed-4bd6-9bf2-ffb27be1182a",
         "9037f641-2ef0-4e3e-95a5-e6539f34d1bb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "63c4c2ea-30e6-45fa-bb13-3ed6305badcc"
       ],
@@ -517,7 +510,7 @@
         "6ead6974-d6dd-4da9-893a-1967e6acd607",
         "8418ab48-19ed-4bd6-9bf2-ffb27be1182a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e4ccaa26-4607-47d5-a6e8-f92c7fa3fbda"
       ],
@@ -539,7 +532,7 @@
         "fc5f84c9-2231-47ab-b9e4-b477012f9c12",
         "b5f3f4fc-a0e4-428c-9eff-667fbaadf643"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cd702524-7555-4200-a1a6-ffe0340685b7",
         "5aae3d0a-1b09-438e-a6da-05b27375b1fa"
@@ -902,6 +895,18 @@
         "dcd9479f-01a3-4fde-a70d-4f72193d0cc6"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "21060680-89ad-49bf-8d77-40a4a63cd4d8",
+      "title": "Clean water network operative",
+      "occupationCode": null
+    },
+    {
+      "optionId": "36f32460-9e39-47dc-b04b-9416e928f7bb",
+      "title": "Waste water network operative",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
