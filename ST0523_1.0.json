@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/410",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-01-03T00:00:00Z",
-  "earliestStartDate": "2019-02-18T00:00:00Z",
+  "changedDate": "2023-01-03T00:00:00",
+  "earliestStartDate": "2019-02-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Support aircraft captains and commanders during flights.",
@@ -330,7 +330,6 @@
       "detail": "Drive the team to maintain brand / organisational standards at all times, and identify and address any potential risks according to organisational procedures"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -361,8 +360,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Transport",
   "cluster": "Pilot",
+  "clusterId": "230",
+  "clusterDescription": "Fly commercial aircraft",
   "createdDate": "2019-10-25T14:33:06 +00:00",
   "lastUpdated": "2023-01-03T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/first-officer-pilot-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/first-officer-pilot-v1-0",
   "qualifications": [],
@@ -381,7 +383,7 @@
         "60c7f2db-3b06-4e01-849e-4ab9e53d2aa7",
         "7a911d2e-8a5d-4d0c-8177-04715b9435c0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b7c7d28c-4312-485b-96d6-9e1f5595cb15",
         "ee39fc40-32b2-442f-94db-04ef00f3bd49",
@@ -415,7 +417,7 @@
         "ba5fde8d-8ad0-44e7-b71b-9eed2c3903b0",
         "85da51c8-f320-423b-906e-6f8ebb185c98"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3b179092-0ffc-4cd8-8631-db5bc44351ee",
         "575bca55-2cd8-4062-bcf4-23846b458420",
@@ -467,7 +469,7 @@
         "c0585c16-4d5f-42ac-8464-009cc453e07e",
         "ba5fde8d-8ad0-44e7-b71b-9eed2c3903b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b7c7d28c-4312-485b-96d6-9e1f5595cb15",
         "51861955-cb2f-45a6-b7c1-a1041323ab6b",
@@ -529,7 +531,7 @@
         "a0f7f56e-07ec-4162-bcd9-58f533173253",
         "ba5fde8d-8ad0-44e7-b71b-9eed2c3903b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3b179092-0ffc-4cd8-8631-db5bc44351ee",
         "b7c7d28c-4312-485b-96d6-9e1f5595cb15",
@@ -582,7 +584,7 @@
         "a0f7f56e-07ec-4162-bcd9-58f533173253",
         "ba5fde8d-8ad0-44e7-b71b-9eed2c3903b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3b179092-0ffc-4cd8-8631-db5bc44351ee",
         "b7c7d28c-4312-485b-96d6-9e1f5595cb15",
@@ -635,7 +637,7 @@
         "a0f7f56e-07ec-4162-bcd9-58f533173253",
         "ba5fde8d-8ad0-44e7-b71b-9eed2c3903b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3b179092-0ffc-4cd8-8631-db5bc44351ee",
         "b7c7d28c-4312-485b-96d6-9e1f5595cb15",
@@ -673,7 +675,7 @@
         "93ab37b7-4c76-4a79-a2ef-fc7e75b7918b",
         "7a911d2e-8a5d-4d0c-8177-04715b9435c0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4613abd7-db1e-48d0-b9bd-63e90c7038e7",
         "56742e23-7e57-443b-b45b-5558123f5559",
@@ -706,7 +708,7 @@
         "a0f7f56e-07ec-4162-bcd9-58f533173253",
         "ba5fde8d-8ad0-44e7-b71b-9eed2c3903b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3b179092-0ffc-4cd8-8631-db5bc44351ee",
         "4613abd7-db1e-48d0-b9bd-63e90c7038e7",
@@ -736,7 +738,7 @@
         "a0f7f56e-07ec-4162-bcd9-58f533173253",
         "ba5fde8d-8ad0-44e7-b71b-9eed2c3903b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "51861955-cb2f-45a6-b7c1-a1041323ab6b",
         "3e8940a6-a7b6-44ca-94a8-1d08b67027ae",
@@ -769,7 +771,7 @@
         "a0f7f56e-07ec-4162-bcd9-58f533173253",
         "ba5fde8d-8ad0-44e7-b71b-9eed2c3903b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3e8940a6-a7b6-44ca-94a8-1d08b67027ae",
         "4613abd7-db1e-48d0-b9bd-63e90c7038e7",
@@ -782,6 +784,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
