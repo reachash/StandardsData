@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/697",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-10-20T00:00:00Z",
-  "earliestStartDate": "2023-02-17T00:00:00Z",
-  "latestStartDate": "2023-10-19T00:00:00Z",
+  "changedDate": "2023-10-20T00:00:00",
+  "earliestStartDate": "2023-02-17T00:00:00",
+  "latestStartDate": "2023-10-19T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Specify, design, build, program and test robotic systems or solutions intended to do automated jobs.",
   "level": 6,
@@ -235,7 +235,6 @@
       "detail": "Perform measurements and analyse data using measurement devices and analytical software"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -272,8 +271,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Engineer",
+  "clusterId": "253",
+  "clusterDescription": "Design and develop a range of products and/or process technologies using discipline and applications specific expertise",
   "createdDate": "2023-02-17T14:51:09 +00:00",
   "lastUpdated": "2023-10-20T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/robotics-engineer-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/robotics-engineer-v1-0",
   "qualifications": [
@@ -333,7 +335,7 @@
         "30df2cf9-ae42-41f9-8815-214894cba6a8",
         "1b1a10df-a396-4210-9a84-353b86e23346"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c1321630-4eec-4836-b59f-b2cb43b0af59",
         "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
@@ -382,7 +384,7 @@
         "30df2cf9-ae42-41f9-8815-214894cba6a8",
         "1b1a10df-a396-4210-9a84-353b86e23346"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c1321630-4eec-4836-b59f-b2cb43b0af59",
         "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
@@ -429,7 +431,7 @@
         "1c30d546-155d-4978-a71d-5b875ef9d9c6",
         "1b1a10df-a396-4210-9a84-353b86e23346"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b7485a10-6108-4f3d-ae98-4aca2cc8a87f",
         "2b8c3c65-b4d5-49cf-a0bc-c76ad8555cf8",
@@ -481,7 +483,7 @@
         "30df2cf9-ae42-41f9-8815-214894cba6a8",
         "1b1a10df-a396-4210-9a84-353b86e23346"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c1321630-4eec-4836-b59f-b2cb43b0af59",
         "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
@@ -532,7 +534,7 @@
         "30df2cf9-ae42-41f9-8815-214894cba6a8",
         "1b1a10df-a396-4210-9a84-353b86e23346"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c1321630-4eec-4836-b59f-b2cb43b0af59",
         "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
@@ -586,7 +588,7 @@
         "30df2cf9-ae42-41f9-8815-214894cba6a8",
         "1b1a10df-a396-4210-9a84-353b86e23346"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c1321630-4eec-4836-b59f-b2cb43b0af59",
         "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
@@ -641,7 +643,7 @@
         "30df2cf9-ae42-41f9-8815-214894cba6a8",
         "1b1a10df-a396-4210-9a84-353b86e23346"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
         "b7485a10-6108-4f3d-ae98-4aca2cc8a87f",
@@ -691,7 +693,7 @@
         "30df2cf9-ae42-41f9-8815-214894cba6a8",
         "1b1a10df-a396-4210-9a84-353b86e23346"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
         "4cd80f51-a7fb-4526-84c0-a60f6d0318cc",
@@ -734,7 +736,7 @@
         "30df2cf9-ae42-41f9-8815-214894cba6a8",
         "1b1a10df-a396-4210-9a84-353b86e23346"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
         "4cd80f51-a7fb-4526-84c0-a60f6d0318cc",
@@ -781,7 +783,7 @@
         "30df2cf9-ae42-41f9-8815-214894cba6a8",
         "1b1a10df-a396-4210-9a84-353b86e23346"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c1321630-4eec-4836-b59f-b2cb43b0af59",
         "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
@@ -834,7 +836,7 @@
         "30df2cf9-ae42-41f9-8815-214894cba6a8",
         "1b1a10df-a396-4210-9a84-353b86e23346"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
         "4cd80f51-a7fb-4526-84c0-a60f6d0318cc",
@@ -880,7 +882,7 @@
         "c9b02b9a-50d5-4fbe-a7d1-a6f645651469",
         "1b1a10df-a396-4210-9a84-353b86e23346"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c1321630-4eec-4836-b59f-b2cb43b0af59",
         "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
@@ -924,7 +926,7 @@
         "c9b02b9a-50d5-4fbe-a7d1-a6f645651469",
         "1b1a10df-a396-4210-9a84-353b86e23346"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c1321630-4eec-4836-b59f-b2cb43b0af59",
         "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
@@ -974,7 +976,7 @@
         "30df2cf9-ae42-41f9-8815-214894cba6a8",
         "1b1a10df-a396-4210-9a84-353b86e23346"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c1321630-4eec-4836-b59f-b2cb43b0af59",
         "b7485a10-6108-4f3d-ae98-4aca2cc8a87f",
@@ -1023,7 +1025,7 @@
         "30df2cf9-ae42-41f9-8815-214894cba6a8",
         "1b1a10df-a396-4210-9a84-353b86e23346"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c1321630-4eec-4836-b59f-b2cb43b0af59",
         "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
@@ -1072,7 +1074,7 @@
         "d6020b92-65a2-4904-b157-28cd549f2959",
         "1b1a10df-a396-4210-9a84-353b86e23346"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c1321630-4eec-4836-b59f-b2cb43b0af59",
         "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
@@ -1112,7 +1114,7 @@
         "d6020b92-65a2-4904-b157-28cd549f2959",
         "1b1a10df-a396-4210-9a84-353b86e23346"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c1321630-4eec-4836-b59f-b2cb43b0af59",
         "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
@@ -1127,6 +1129,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
