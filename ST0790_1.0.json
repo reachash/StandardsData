@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/587",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-01-18T00:00:00Z",
-  "earliestStartDate": "2020-08-07T00:00:00Z",
+  "changedDate": "2022-01-18T00:00:00",
+  "earliestStartDate": "2020-08-07T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Design and develop, operate and maintain gas turbine systems.",
@@ -238,16 +238,6 @@
       "detail": "Demonstrate negotiating skills, deal with uncertainty to allow technological innovation and change to flourish."
     }
   ],
-  "options": [
-    {
-      "optionId": "f0b59ee3-9ca7-4cd7-aff9-5107469bc635",
-      "title": "Aircraft Propulsion"
-    },
-    {
-      "optionId": "d505e1ef-5836-4be3-b523-7c1058e2c248",
-      "title": "Rotating Machinery Applications"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -287,8 +277,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Engineer",
+  "clusterId": "253",
+  "clusterDescription": "Design and develop a range of products and/or process technologies using discipline and applications specific expertise",
   "createdDate": "2019-11-06T15:17:15 +00:00",
   "lastUpdated": "2022-01-18T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/power-and-propulsion-gas-turbine-engineer-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/power-and-propulsion-gas-turbine-engineer-v1-0",
   "qualifications": [],
@@ -319,7 +312,7 @@
       "mappedKnowledge": [
         "ba463c7f-48a2-45a3-9afb-c803d12479b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "97cbdfc4-a756-48f5-99dc-beca7c44257f",
         "b04fbe64-444e-4886-8427-843a6f62ab77"
@@ -339,7 +332,7 @@
         "ba463c7f-48a2-45a3-9afb-c803d12479b4",
         "b723e5e8-ed59-40bd-be3d-a84dd4318469"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "97cbdfc4-a756-48f5-99dc-beca7c44257f",
         "b04fbe64-444e-4886-8427-843a6f62ab77",
@@ -362,7 +355,7 @@
         "b723e5e8-ed59-40bd-be3d-a84dd4318469",
         "5b7b6e23-d06d-4a3c-a4dc-258c8807fe88"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "97cbdfc4-a756-48f5-99dc-beca7c44257f",
         "b04fbe64-444e-4886-8427-843a6f62ab77",
@@ -385,7 +378,7 @@
         "ba463c7f-48a2-45a3-9afb-c803d12479b4",
         "d901d50a-b1e7-4e8f-9374-755ea4f19cb2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d1723010-357a-4c2f-b9a7-ffd229ea29fb"
       ],
@@ -404,7 +397,7 @@
         "ba463c7f-48a2-45a3-9afb-c803d12479b4",
         "3a5477dd-74d5-4734-9347-98b59fd4d08a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "38c06e57-b897-4b37-b6f5-e6865d800a77",
         "55ca6f55-11c5-4662-bb25-7d480fe96747"
@@ -426,7 +419,7 @@
         "3a5477dd-74d5-4734-9347-98b59fd4d08a",
         "3dea2f03-74b0-40ee-933b-e6eb9e756f08"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3874560d-c1b6-4d8a-b2a1-f93a2c021f49",
         "c05d8249-8b7d-4ff2-9462-bf3de523c3e1"
@@ -447,7 +440,7 @@
         "9316d8cf-55bd-4e4c-b31f-d311dc7d4e1c",
         "b7acc47a-f949-4f5d-9f03-adbcbb799a6b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "09a07e7b-4816-4a7d-a6c5-0e39e2af8218",
         "143741af-660f-4ca2-b977-58f7f37ab662",
@@ -648,6 +641,18 @@
         "ce8c65ca-d8b7-4c86-8470-f0f3e03ba580"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "f0b59ee3-9ca7-4cd7-aff9-5107469bc635",
+      "title": "Aircraft Propulsion",
+      "occupationCode": null
+    },
+    {
+      "optionId": "d505e1ef-5836-4be3-b523-7c1058e2c248",
+      "title": "Rotating Machinery Applications",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
