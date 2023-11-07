@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/93",
   "versionNumber": "1.3",
   "change": "Funding band revised",
-  "changedDate": "2023-06-26T00:00:00Z",
-  "earliestStartDate": "2023-06-26T00:00:00Z",
+  "changedDate": "2023-06-26T00:00:00",
+  "earliestStartDate": "2023-06-26T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Preparing food and basic cooking tasks in a kitchen under the supervision. \n\n",
@@ -297,7 +297,6 @@
       "detail": "Follow safe systems of work reporting risks in the appropriate manner"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -327,8 +326,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Catering",
   "cluster": "Caterer",
+  "clusterId": "18",
+  "clusterDescription": "Preparation and cooking of food through to the management of either part of or the whole kitchen",
   "createdDate": "2023-06-26T09:34:21 +00:00",
   "lastUpdated": "2023-06-26T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/commis-chef-v1-3?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/commis-chef-v1-3",
   "qualifications": [],
@@ -378,7 +380,7 @@
         "0a3dc18a-0ed4-4498-93a3-b18435375a9c",
         "5bbaa90c-ab13-4d35-8fd6-dabea0aa9528"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9cbef3f6-7afb-415e-abcd-fad32f7bdcbe",
         "89e3a712-cb6f-4b6d-a738-78b16fd2009d",
@@ -433,7 +435,7 @@
         "0a3dc18a-0ed4-4498-93a3-b18435375a9c",
         "5bbaa90c-ab13-4d35-8fd6-dabea0aa9528"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9cbef3f6-7afb-415e-abcd-fad32f7bdcbe",
         "89e3a712-cb6f-4b6d-a738-78b16fd2009d",
@@ -483,7 +485,7 @@
         "0a3dc18a-0ed4-4498-93a3-b18435375a9c",
         "5bbaa90c-ab13-4d35-8fd6-dabea0aa9528"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9cbef3f6-7afb-415e-abcd-fad32f7bdcbe",
         "89e3a712-cb6f-4b6d-a738-78b16fd2009d",
@@ -520,7 +522,7 @@
         "0a3dc18a-0ed4-4498-93a3-b18435375a9c",
         "5bbaa90c-ab13-4d35-8fd6-dabea0aa9528"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9cbef3f6-7afb-415e-abcd-fad32f7bdcbe",
         "a3ccb921-5889-4c17-a564-9df6a283cac7",
@@ -555,7 +557,7 @@
         "0a3dc18a-0ed4-4498-93a3-b18435375a9c",
         "5bbaa90c-ab13-4d35-8fd6-dabea0aa9528"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a3ccb921-5889-4c17-a564-9df6a283cac7",
         "26e8da61-47c6-4ddf-aaba-67d11de729e2",
@@ -586,7 +588,7 @@
         "0a3dc18a-0ed4-4498-93a3-b18435375a9c",
         "5bbaa90c-ab13-4d35-8fd6-dabea0aa9528"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a3ccb921-5889-4c17-a564-9df6a283cac7",
         "89e3a712-cb6f-4b6d-a738-78b16fd2009d",
@@ -637,7 +639,7 @@
         "0a3dc18a-0ed4-4498-93a3-b18435375a9c",
         "5bbaa90c-ab13-4d35-8fd6-dabea0aa9528"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9cbef3f6-7afb-415e-abcd-fad32f7bdcbe",
         "89e3a712-cb6f-4b6d-a738-78b16fd2009d",
@@ -677,7 +679,7 @@
         "0a3dc18a-0ed4-4498-93a3-b18435375a9c",
         "5bbaa90c-ab13-4d35-8fd6-dabea0aa9528"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a3ccb921-5889-4c17-a564-9df6a283cac7",
         "89e3a712-cb6f-4b6d-a738-78b16fd2009d",
@@ -712,7 +714,7 @@
         "0a3dc18a-0ed4-4498-93a3-b18435375a9c",
         "5bbaa90c-ab13-4d35-8fd6-dabea0aa9528"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "328d262e-e407-4a12-9006-001df63f31b1",
         "9cbef3f6-7afb-415e-abcd-fad32f7bdcbe",
@@ -753,7 +755,7 @@
         "bdcfdab4-98c4-4267-9e72-15218bda293f",
         "0a3dc18a-0ed4-4498-93a3-b18435375a9c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "328d262e-e407-4a12-9006-001df63f31b1",
         "d9c9b019-de01-4687-82c5-f0b8a894b2c7",
@@ -781,7 +783,7 @@
         "bdcfdab4-98c4-4267-9e72-15218bda293f",
         "0a3dc18a-0ed4-4498-93a3-b18435375a9c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "328d262e-e407-4a12-9006-001df63f31b1",
         "3b45672d-ec4c-4a23-9018-edcbab6391b0",
@@ -791,6 +793,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
