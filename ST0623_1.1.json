@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/455",
   "versionNumber": "1.1",
   "change": "Standard revised",
-  "changedDate": "2022-04-01T00:00:00Z",
-  "earliestStartDate": "2019-07-19T00:00:00Z",
+  "changedDate": "2022-04-01T00:00:00",
+  "earliestStartDate": "2019-07-19T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Overseeing vessel performance and the technical and operational condition of vessels.",
@@ -178,7 +178,6 @@
       "detail": "Effectively scope, allocate accurate budgetary costs and present a business case for vessel upgrades or the adoption of emerging technologies to optimise performance."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -206,8 +205,11 @@
   "reviewDetails": "&lt;p&gt;This standard will be reviewed after three years.&lt;/p&gt;",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Installation & Service Engineer",
+  "clusterId": "53",
+  "clusterDescription": "Build and install plant and equipment using application and/or context specific expertise",
   "createdDate": "2022-03-30T09:24:44 +00:00",
   "lastUpdated": "2022-04-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/marine-technical-superintendent-degree-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/marine-technical-superintendent-degree-v1-1",
   "qualifications": [
@@ -243,7 +245,7 @@
         "aee989a5-f859-4518-bbe3-516849f1acab",
         "b9a7e546-16e2-4b94-b2f8-5f555727e80b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d2d7a563-38c5-4ef7-b258-f47b280e6f5a",
         "05043a10-b47a-4f28-8fba-e764b31a031f",
@@ -267,7 +269,7 @@
         "b9d4bdf8-b50e-4389-85cd-5d6ef78fd2bb",
         "beba17f3-73b2-4099-91a8-d242593bc959"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "088110fb-5ab5-49ac-87f5-d581bc457d42"
       ],
@@ -288,7 +290,7 @@
         "8436be86-348b-4f40-8048-bcf4c9e2d585",
         "410f531f-3ad8-4348-86b6-4e3d261e9d5e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "394d7656-f4c1-4b03-b3e2-7f1867a360ed",
         "6692f62f-7423-4fd3-abb8-8ae0b2fee097"
@@ -306,7 +308,7 @@
       "mappedKnowledge": [
         "21cf6f91-a0e9-42ee-9d4d-93888fe053dd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "be38e7fe-703c-460d-999d-435c411259dc",
         "088110fb-5ab5-49ac-87f5-d581bc457d42"
@@ -326,7 +328,7 @@
         "aee989a5-f859-4518-bbe3-516849f1acab",
         "ea92447e-9565-4e5d-a225-15b1e0975636"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aed8aa85-3fb7-4f0b-959e-7a0eb18e632e",
         "bec1aac0-f3e2-4172-9d34-17b4f2873d14"
@@ -344,7 +346,7 @@
         "ff368253-de56-4851-9a1c-baf3d1303e75",
         "aee989a5-f859-4518-bbe3-516849f1acab"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aed8aa85-3fb7-4f0b-959e-7a0eb18e632e",
         "bec1aac0-f3e2-4172-9d34-17b4f2873d14"
@@ -363,7 +365,7 @@
       "mappedKnowledge": [
         "b9d4bdf8-b50e-4389-85cd-5d6ef78fd2bb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "db959f0e-d1a2-43e7-b5c9-a2d98b9fa812",
         "f702a5d4-2a10-43da-93a7-24488da60478",
@@ -382,7 +384,7 @@
         "beba17f3-73b2-4099-91a8-d242593bc959",
         "617f5b7d-a317-4a9b-a902-50441dbe9d13"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bec1aac0-f3e2-4172-9d34-17b4f2873d14",
         "033942c6-a120-4a4b-802b-e879db8445e4"
@@ -403,7 +405,7 @@
         "aee989a5-f859-4518-bbe3-516849f1acab",
         "617f5b7d-a317-4a9b-a902-50441dbe9d13"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "db959f0e-d1a2-43e7-b5c9-a2d98b9fa812"
       ],
@@ -420,7 +422,7 @@
       "mappedKnowledge": [
         "a575daa9-b17f-4957-968e-25b2e5c5be32"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d2d7a563-38c5-4ef7-b258-f47b280e6f5a",
         "05043a10-b47a-4f28-8fba-e764b31a031f",
@@ -440,13 +442,14 @@
         "ff368253-de56-4851-9a1c-baf3d1303e75",
         "b9a7e546-16e2-4b94-b2f8-5f555727e80b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aed8aa85-3fb7-4f0b-959e-7a0eb18e632e"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
