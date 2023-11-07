@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/625",
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised",
-  "changedDate": "2022-01-20T00:00:00Z",
-  "earliestStartDate": "2022-01-20T00:00:00Z",
+  "changedDate": "2022-01-20T00:00:00",
+  "earliestStartDate": "2022-01-20T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Conduct a wide range of marine electrical work.",
@@ -260,7 +260,6 @@
       "detail": "Check, test, and diagnose battery condition and alternating current (ac) power systems and record results."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -294,8 +293,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2022-01-20T11:54:55 +00:00",
   "lastUpdated": "2022-01-20T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/marine-electrician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/marine-electrician-v1-1",
   "qualifications": [
@@ -356,7 +358,7 @@
         "f0b7f263-9eb3-42eb-a76f-be7a11aef851",
         "2a8c395f-68c3-41eb-9988-5c2d1ebabc71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "507564b5-b02b-4992-ba38-b2fd7b62367f",
         "873fc633-8d5a-4588-8626-ea33ffa47f69",
@@ -400,7 +402,7 @@
         "5a9ce4e4-84be-4475-b92c-a9df58f76c69",
         "04979314-43f5-49d5-933b-491809c2b275"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2af2004d-ab97-4c85-9545-d148fb137315",
         "829c7d95-b046-40ca-bc27-d6e5bc3c5122",
@@ -446,7 +448,7 @@
         "296e4cd7-6804-4c06-b96d-4648fea8e5bf",
         "2a8c395f-68c3-41eb-9988-5c2d1ebabc71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "873fc633-8d5a-4588-8626-ea33ffa47f69",
         "2af2004d-ab97-4c85-9545-d148fb137315",
@@ -486,7 +488,7 @@
         "6ec333ca-8726-4273-91b1-a40c03aba7cb",
         "feed1e33-b22b-47d6-a7a1-59e8762f7cbc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "507564b5-b02b-4992-ba38-b2fd7b62367f",
         "873fc633-8d5a-4588-8626-ea33ffa47f69",
@@ -534,7 +536,7 @@
         "5a9ce4e4-84be-4475-b92c-a9df58f76c69",
         "2a8c395f-68c3-41eb-9988-5c2d1ebabc71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2af2004d-ab97-4c85-9545-d148fb137315",
         "829c7d95-b046-40ca-bc27-d6e5bc3c5122",
@@ -586,7 +588,7 @@
         "296e4cd7-6804-4c06-b96d-4648fea8e5bf",
         "2a8c395f-68c3-41eb-9988-5c2d1ebabc71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2af2004d-ab97-4c85-9545-d148fb137315",
         "829c7d95-b046-40ca-bc27-d6e5bc3c5122",
@@ -644,7 +646,7 @@
         "a2810adc-8c0a-4dbd-bfab-b9455d1f9522",
         "2a8c395f-68c3-41eb-9988-5c2d1ebabc71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "873fc633-8d5a-4588-8626-ea33ffa47f69",
         "2af2004d-ab97-4c85-9545-d148fb137315",
@@ -695,7 +697,7 @@
         "a2810adc-8c0a-4dbd-bfab-b9455d1f9522",
         "2a8c395f-68c3-41eb-9988-5c2d1ebabc71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "873fc633-8d5a-4588-8626-ea33ffa47f69",
         "2af2004d-ab97-4c85-9545-d148fb137315",
@@ -749,7 +751,7 @@
         "a2810adc-8c0a-4dbd-bfab-b9455d1f9522",
         "2a8c395f-68c3-41eb-9988-5c2d1ebabc71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "507564b5-b02b-4992-ba38-b2fd7b62367f",
         "873fc633-8d5a-4588-8626-ea33ffa47f69",
@@ -809,7 +811,7 @@
         "04979314-43f5-49d5-933b-491809c2b275",
         "a2810adc-8c0a-4dbd-bfab-b9455d1f9522"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "873fc633-8d5a-4588-8626-ea33ffa47f69",
         "2af2004d-ab97-4c85-9545-d148fb137315",
@@ -865,7 +867,7 @@
         "a2810adc-8c0a-4dbd-bfab-b9455d1f9522",
         "2a8c395f-68c3-41eb-9988-5c2d1ebabc71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "873fc633-8d5a-4588-8626-ea33ffa47f69",
         "2af2004d-ab97-4c85-9545-d148fb137315",
@@ -924,7 +926,7 @@
         "04979314-43f5-49d5-933b-491809c2b275",
         "a2810adc-8c0a-4dbd-bfab-b9455d1f9522"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "873fc633-8d5a-4588-8626-ea33ffa47f69",
         "2af2004d-ab97-4c85-9545-d148fb137315",
@@ -973,7 +975,7 @@
         "07e19e69-1f79-4548-b479-7e9a1e817e49",
         "2a8c395f-68c3-41eb-9988-5c2d1ebabc71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "507564b5-b02b-4992-ba38-b2fd7b62367f",
         "873fc633-8d5a-4588-8626-ea33ffa47f69",
@@ -1011,7 +1013,7 @@
         "6ec333ca-8726-4273-91b1-a40c03aba7cb",
         "feed1e33-b22b-47d6-a7a1-59e8762f7cbc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2af2004d-ab97-4c85-9545-d148fb137315",
         "829c7d95-b046-40ca-bc27-d6e5bc3c5122",
@@ -1045,7 +1047,7 @@
         "07e19e69-1f79-4548-b479-7e9a1e817e49",
         "d53ed531-a63e-4d46-85a9-847c884a5383"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a6869f5a-9049-4172-9bfb-b4ff17e10f63",
         "060f1367-b31b-4505-be12-60bffeb88843",
@@ -1058,6 +1060,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
