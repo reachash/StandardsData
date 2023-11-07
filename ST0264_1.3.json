@@ -7,15 +7,15 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/239",
   "versionNumber": "1.3",
   "change": "Standard, end-point assessment plan and funding band revised",
-  "changedDate": "2023-08-21T00:00:00Z",
-  "earliestStartDate": "2023-08-19T00:00:00Z",
+  "changedDate": "2023-08-21T00:00:00",
+  "earliestStartDate": "2023-08-19T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Using timber products to create and install building components.",
   "level": 2,
   "typicalDuration": 24,
   "maxFunding": 13000,
-  "route": "Construction and the built environment",
+  "route": "Construction",
   "keywords": [
     "timber",
     "building",
@@ -341,16 +341,6 @@
       "detail": "Architectural joiner: Inspect, prepare and operate fixed machinery."
     }
   ],
-  "options": [
-    {
-      "optionId": "98e3409f-4b72-43bb-95bc-d5e4cd7ce981",
-      "title": "Site Carpenter"
-    },
-    {
-      "optionId": "64b537f8-b5c2-44e8-a3f2-bf24e09612ea",
-      "title": "Architectural Joiner"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -381,8 +371,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Onsite Construction",
   "cluster": "Core Building Tradesperson",
+  "clusterId": "5",
+  "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
   "createdDate": "2023-07-21T09:03:13 +00:00",
   "lastUpdated": "2023-08-21T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/carpentry-and-joinery-v1-3?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/carpentry-and-joinery-v1-3",
   "qualifications": [],
@@ -408,7 +401,7 @@
         "38bbc905-e3e6-4744-a142-e7d700c3d025",
         "f926eab7-380e-48c6-8d0d-32e9b4f962dd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "de2b02e7-8649-40c5-a96d-ed292858cdd8",
         "a860cbbd-b18b-46d1-b50a-8b9ace0f3f7a",
@@ -434,7 +427,7 @@
         "a2911685-37e0-48a2-bccb-2143a9bf5cfd",
         "050bf20e-f8ee-4bdf-ac84-82b14a4f7f3b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "de2b02e7-8649-40c5-a96d-ed292858cdd8",
         "9536ad85-f6be-4416-b98d-4c4f1f0127e3"
@@ -462,7 +455,7 @@
         "3aec1714-ba17-43f5-abd7-93553b557c52",
         "ea3ef0b5-2e52-4629-a799-e017e35bb594"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "de2b02e7-8649-40c5-a96d-ed292858cdd8",
         "a860cbbd-b18b-46d1-b50a-8b9ace0f3f7a",
@@ -486,7 +479,7 @@
         "ea3ef0b5-2e52-4629-a799-e017e35bb594",
         "8fb9c55e-b10a-4bd5-84d1-5bb56eea98b2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "de2b02e7-8649-40c5-a96d-ed292858cdd8",
         "a860cbbd-b18b-46d1-b50a-8b9ace0f3f7a",
@@ -514,7 +507,7 @@
         "38bbc905-e3e6-4744-a142-e7d700c3d025",
         "f926eab7-380e-48c6-8d0d-32e9b4f962dd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b8f08d98-a41f-4c41-99f6-02bbedc4453c",
         "63190b13-f732-4c8c-8055-354395b12cc7"
@@ -532,7 +525,7 @@
         "c9d056bd-fbac-4933-8c03-362dae032b79",
         "2df0e149-2de4-44de-a941-269fd5a97e31"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "de2b02e7-8649-40c5-a96d-ed292858cdd8",
         "a860cbbd-b18b-46d1-b50a-8b9ace0f3f7a"
@@ -552,7 +545,7 @@
         "57423a43-69ee-4167-a734-15cc5c2b63e4",
         "a2911685-37e0-48a2-bccb-2143a9bf5cfd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "de2b02e7-8649-40c5-a96d-ed292858cdd8",
         "db4fc8d4-c18a-422a-9a6b-ae9941d58859",
@@ -574,15 +567,15 @@
         "f926eab7-380e-48c6-8d0d-32e9b4f962dd",
         "0d64d25c-439f-4bf5-a786-f96c626221e5"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "fcf6b057-03cd-46c1-8c9b-dcb6b68f6698",
       "dutyDetail": "Use the appropriate tools, materials and equipment to carry out first and second fix site carpenter tasks including roofs",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "a6143c8a-b9d7-4655-9a09-6581e95ac2a5",
         "1b0271e9-ab88-4838-b7d2-f0f539897e19",
@@ -622,7 +615,7 @@
       "dutyID": "f3ece219-4fa3-4774-97ca-4100129b5c11",
       "dutyDetail": "Carry out minor repairs or modifications.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "8fb9c55e-b10a-4bd5-84d1-5bb56eea98b2",
         "36dec9a6-e175-4dac-ae8b-f796bbabb37b",
@@ -643,7 +636,7 @@
       "dutyID": "bc50fe1c-6e7d-46fc-af42-c18c4d2875de",
       "dutyDetail": "Carry out their work conforming to all current and relevant building regulations, quality standards and work instructions",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "c9d056bd-fbac-4933-8c03-362dae032b79",
         "2df0e149-2de4-44de-a941-269fd5a97e31",
@@ -674,7 +667,7 @@
       "dutyID": "3df5e0d1-0e05-4df7-abdc-64375fac7bf8",
       "dutyDetail": "Use the appropriate fixed workshop machinery, tools, materials and equipment to carry out architectural joinery tasks including setting, marking out and manufacturing timber products  ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "eb507c50-ee97-4c25-a30c-9fa2cba0866a",
         "55a8c972-2171-478c-b81c-f42dfab417b7",
@@ -705,7 +698,7 @@
       "dutyID": "f31f8834-6710-41cd-9466-90ae73da99ab",
       "dutyDetail": "Assemble and fit components to timber products",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "a6143c8a-b9d7-4655-9a09-6581e95ac2a5",
         "e211f7b4-65ec-4afd-af36-5150942caa79",
@@ -738,7 +731,7 @@
       "dutyID": "4c207be1-8462-4357-99b0-b740682f1400",
       "dutyDetail": "Carry out their work conforming to all current and relevant building regulations, quality standards and work instructions",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "c9d056bd-fbac-4933-8c03-362dae032b79",
         "2df0e149-2de4-44de-a941-269fd5a97e31",
@@ -764,6 +757,18 @@
         "78718d5f-a2e6-4018-adcb-209ab8bbe408"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "98e3409f-4b72-43bb-95bc-d5e4cd7ce981",
+      "title": "Site Carpenter",
+      "occupationCode": null
+    },
+    {
+      "optionId": "64b537f8-b5c2-44e8-a3f2-bf24e09612ea",
+      "title": "Architectural Joiner",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
