@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/445",
   "versionNumber": "1.3",
   "change": "Standard, end-point assessment plan and funding band revised but funding remained the same",
-  "changedDate": "2023-09-01T00:00:00Z",
-  "earliestStartDate": "2023-09-01T00:00:00Z",
+  "changedDate": "2023-09-01T00:00:00",
+  "earliestStartDate": "2023-09-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing excellent care to patients diagnosed with cancer by delivering high quality and accurate radiotherapy.",
@@ -765,7 +765,6 @@
       "detail": "Engage in occupational health, including being aware of immunisation requirements."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -795,8 +794,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Health",
   "cluster": "Health Professional",
+  "clusterId": "6",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2023-06-23T08:26:54 +00:00",
   "lastUpdated": "2023-09-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/therapeutic-radiographer-v1-3?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/therapeutic-radiographer-v1-3",
   "qualifications": [
@@ -827,7 +829,7 @@
         "8daf9eff-9a02-4956-a86e-e83b327de1c5",
         "78d2677b-d66f-4ff3-b373-c79ec0702415"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5447e487-c454-45a8-91c2-78944638495d",
         "8c8c6ddb-9450-4d90-b7cc-797a598a1dbb",
@@ -857,7 +859,7 @@
         "273264e4-d882-4ac9-ba20-c32331413558",
         "d572c698-3aa6-43cd-9352-9f938d50195b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f285e9a1-7df2-426d-9568-c0382f3ca0f1",
         "93d64452-bd1c-483a-88d9-8ddc23eb1ea1",
@@ -875,7 +877,7 @@
       "mappedKnowledge": [
         "6479649a-8d1c-43c7-9e37-e9620ecad925"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8def7997-8bab-46a6-96c3-8c8f6101a629",
         "ce5697bd-444a-45cf-b83b-f4bf28c06ffc",
@@ -900,7 +902,7 @@
         "11886589-a589-4911-a65f-7dfe3ee5310d",
         "f632fa16-3b5f-4537-9b1d-41b6e7c79d42"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "920592c3-6ab1-4897-a757-488064583516",
         "c48355e2-804f-4aeb-ac9f-27bbc2db74c5",
@@ -913,7 +915,7 @@
       "dutyID": "f534c46c-e769-4156-b778-8f2a13c45bad",
       "dutyDetail": "Communicate effectively, maintaining confidentiality and records appropriately.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "972c4adf-3318-4e72-860d-9f41aa2fa715",
         "511ebc22-1da1-4129-929a-9f0cceaffaa4",
@@ -923,7 +925,7 @@
         "c691f715-015d-4b42-959e-bb661e5b7a5e",
         "e014adc1-1f73-455f-aa98-17390820a7dc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1d897926-2af9-4b2f-a0ae-b628bbc935e9",
         "ddc9e4c7-6846-42f7-a371-5f1b74e474f7",
@@ -958,7 +960,7 @@
         "506aec04-08ff-410c-b365-0de81d71970d",
         "7cb4f014-1769-4650-9402-319919f1c1e4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ca76329b-81f0-482b-af03-764b395b4e03",
         "eebd4b58-251a-45db-b717-5830c769a7dd",
@@ -978,7 +980,7 @@
       "dutyID": "d04c6041-9b13-4a0e-98e6-a833d42cf21d",
       "dutyDetail": "Reflect on, review and assure the quality of own practice.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "ea850861-a51c-4137-94fb-886c2b804171",
         "95a38757-3af3-4e42-bba2-1c11e6c76c85",
@@ -986,7 +988,7 @@
         "b00b23b4-03f1-45e8-bbf2-9f6c77c59f7f",
         "f590e63b-63ff-4e71-8321-a63218e24be7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fff66448-769f-4031-85e5-aefd7eb13869",
         "3322eb29-46e7-416c-9a26-0b93a812dff9",
@@ -1000,7 +1002,7 @@
       "dutyID": "d90c66f8-d4e4-4acd-8081-fda6a2628a2e",
       "dutyDetail": "Draw on appropriate knowledge and skills to inform practice and apply the key concepts of the knowledge base relevant to the profession.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "e7b3df10-9d44-48a9-a3d3-1bb808ab5206",
         "4dddf489-9d53-4a64-afeb-8757f1b4f1b3",
@@ -1030,7 +1032,7 @@
         "18d2af50-ebb9-42e2-aecb-4254713f51f5",
         "22f85c9f-5001-4e84-8171-a30b695eb79b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3548a3de-acb7-4a15-8f58-d2479a0b913d",
         "96fd0551-f068-4da5-ad6b-7fab926f01d2",
@@ -1080,14 +1082,14 @@
       "dutyID": "bd74c9da-7795-464a-ba6b-a3af2562432b",
       "dutyDetail": "Establish and maintain a safe practice environment.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "8719faa3-289d-4173-8e87-2cd9c0c1a40d",
         "8076abdf-7344-4db6-a1ec-58958d3f647b",
         "5dcf75ff-79ef-4603-8df9-ada1e0b80b6c",
         "c41f00f5-8e51-4c17-be3d-cdb8c9e6541c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ba5b4cad-4610-4b65-92c8-c85978383826",
         "4044ebee-caed-4d4a-ba1e-398e5a459f3d",
@@ -1103,12 +1105,12 @@
       "dutyID": "a0c23533-ff13-41d5-9f0c-092bc40e0bc4",
       "dutyDetail": "Promote public health and prevent ill health.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "deaff2e8-28e6-4c58-9b32-555fb4d8234b",
         "382708bf-1c0c-447d-a823-a3e3ec1d1e3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aef84162-e877-4e54-9f68-9144747453e4",
         "51ef4d76-4605-4f8a-8000-d79947df1320"
@@ -1116,6 +1118,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training Provider",
