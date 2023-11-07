@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/712",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-06-20T00:00:00Z",
-  "earliestStartDate": "2023-06-20T00:00:00Z",
+  "changedDate": "2023-06-20T00:00:00",
+  "earliestStartDate": "2023-06-20T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Create high quality, performant visuals within budgets. ",
@@ -449,20 +449,6 @@
       "detail": "VFX3D: Create accurate point tracks and planar tracks in line with production requirements"
     }
   ],
-  "options": [
-    {
-      "optionId": "c1478042-d60c-46b7-9200-6788cf8dcea0",
-      "title": "Junior VFX Artist (2D)"
-    },
-    {
-      "optionId": "2066e8be-c5b6-4547-9c6f-2dc61214e6ae",
-      "title": "Junior VFX Artist (CG/3D)"
-    },
-    {
-      "optionId": "f087de00-42df-4459-b568-afa76e2bf5ba",
-      "title": "Assistant Technical Director (VFX)"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -505,8 +491,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": null,
   "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2023-06-20T14:19:36 +00:00",
   "lastUpdated": "2023-06-20T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/junior-visual-effects-vfx-artist-or-assistant-technical-director-atd-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/junior-visual-effects-vfx-artist-or-assistant-technical-director-atd-v1-0",
   "qualifications": [],
@@ -524,7 +513,7 @@
         "6e8a5c79-784a-4759-8945-ddfbb9fec35e",
         "ba785d37-6af7-47ed-8422-8ed1cce40073"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e88aab51-6c5c-4188-9612-4b61c6b6b478",
         "73e0edd5-a98c-4e61-a136-939f38870c7b",
@@ -551,7 +540,7 @@
         "15f40da2-7af5-4c79-a54c-ed5913b94315",
         "ba785d37-6af7-47ed-8422-8ed1cce40073"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "73e0edd5-a98c-4e61-a136-939f38870c7b",
         "aa6d3174-0738-4c58-bce2-9d76b012b19b",
@@ -575,7 +564,7 @@
         "e0d3bcce-d35e-4b37-a375-c7d778e41cc2",
         "ba785d37-6af7-47ed-8422-8ed1cce40073"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7fdb03fe-7476-4c10-b54f-e362d9399b63",
         "aa6d3174-0738-4c58-bce2-9d76b012b19b",
@@ -601,7 +590,7 @@
         "17b55adb-49dd-4265-8977-3a5b32ab6762",
         "880c3e03-cced-43b1-a04b-74edf9b3ebcf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f54a5e5f-270f-4bde-bdb5-bb5e79768975",
         "0f736c65-0da5-4c1d-8f9f-128ce6b7a2d4",
@@ -621,7 +610,7 @@
       "mappedKnowledge": [
         "f2c17493-2aab-4aa0-b534-85a7e612a2c7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "81bbb87e-3842-42e0-8f3d-6b40781461bb"
       ],
@@ -641,7 +630,7 @@
         "7e9fdf02-2e4b-4755-9662-1a3e3a760926",
         "e0d3bcce-d35e-4b37-a375-c7d778e41cc2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "73e0edd5-a98c-4e61-a136-939f38870c7b",
         "b6b88da9-4b33-42d5-b679-1587c9b0d9a2",
@@ -653,7 +642,7 @@
       "dutyID": "5fd41dd6-8a29-40f3-803c-ce662af4d3e9",
       "dutyDetail": "Recreate physical systems or manipulate computer generated geometry to create or develop a VFX asset.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "17b55adb-49dd-4265-8977-3a5b32ab6762",
         "d9814986-6d1e-45ec-96da-7efbb1adedc7",
@@ -663,7 +652,7 @@
         "bfd88373-bf41-4364-a494-99cb39cfe879",
         "15f40da2-7af5-4c79-a54c-ed5913b94315"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "50e3c526-e9b4-4a55-8d5c-f0e2385a371e",
         "1afc604b-0569-4d8a-a7c4-4b83cc8ea215"
@@ -682,7 +671,7 @@
         "17b55adb-49dd-4265-8977-3a5b32ab6762",
         "43dde1b9-5447-4c9f-9047-2a2291fe333a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0f736c65-0da5-4c1d-8f9f-128ce6b7a2d4",
         "6beeee2d-e5e5-4e05-a879-4734d09c3e76",
@@ -724,7 +713,7 @@
       "dutyID": "c1a0e6c0-8e08-423c-8eae-b7b1797de815",
       "dutyDetail": "Remove erroneous objects within live action footage, such as camera/lighting equipment and safety stunt wires and rigs",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "b22c0754-ebf9-4398-9076-ab2c23cddc94",
         "e5af1fbc-1321-49aa-a443-2699d2d1e31f"
@@ -743,7 +732,7 @@
       "dutyID": "9293fc8e-e651-49cf-9746-cf51515690ef",
       "dutyDetail": "Produce basic composites that could be for editorial purposes for test screenings of the film, or for use in the final production",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "d9814986-6d1e-45ec-96da-7efbb1adedc7",
         "00086528-960a-4574-810b-48ab6bf22a8c",
@@ -765,7 +754,7 @@
       "dutyID": "5d3c048b-c749-4128-bab5-725ae939d5f2",
       "dutyDetail": "Apply the principles of colour space within the VFX colour pipeline",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "56f8dc97-a28a-4211-8796-5ab271623730",
         "2afebd37-110b-4a5f-abe1-bfce26ad7350",
@@ -786,7 +775,7 @@
       "dutyID": "d8a843b4-3012-4044-94bc-85b266982f11",
       "dutyDetail": "Select and use appropriate technology to render VFX assets for pre-rendered or real-time productions",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "f2c17493-2aab-4aa0-b534-85a7e612a2c7",
         "bfd88373-bf41-4364-a494-99cb39cfe879",
@@ -832,7 +821,7 @@
       "dutyID": "8f396953-a7c5-43bc-a93d-150b78038278",
       "dutyDetail": "Create and manipulate 3D assets in line with production requirements/ the brief. These may include models, textures, cameras, environmental elements, rigs.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "537bd36c-75b1-426e-8c45-f78b8fa18437",
         "00086528-960a-4574-810b-48ab6bf22a8c",
@@ -863,7 +852,7 @@
       "dutyID": "1e0ff1df-f1c8-4ea9-9b15-0b8672d3ee64",
       "dutyDetail": "Evaluate VFX assets in line with feedback from multiple sources including dailies, to ensure production requirements are met and own practice continuously improves",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "00086528-960a-4574-810b-48ab6bf22a8c",
         "56f8dc97-a28a-4211-8796-5ab271623730",
@@ -884,7 +873,7 @@
       "dutyID": "f078808f-ddc3-48d0-a3dd-dfadc5b61457",
       "dutyDetail": "Set up and/or follow file management protocols, convert files, file and store data securely, undertake file archiving and restoration\t",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "537bd36c-75b1-426e-8c45-f78b8fa18437",
         "9c505068-8400-4883-8992-d0ab4895527f",
@@ -904,7 +893,7 @@
       "dutyID": "e76f8e6f-ac1a-4f7a-8d5b-c1913b21753d",
       "dutyDetail": "Monitor, manage, manipulate, problem solve, escalate and report on render queues and track resource usage",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "9c505068-8400-4883-8992-d0ab4895527f",
         "7e9fdf02-2e4b-4755-9662-1a3e3a760926",
@@ -929,7 +918,7 @@
       "dutyID": "51946d00-5e63-4de6-840b-511b82d42e29",
       "dutyDetail": "Perform bespoke database/ library queries or searches. Identify, collect and migrate information from data sources to meet production requirements.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "7e9fdf02-2e4b-4755-9662-1a3e3a760926",
         "581f2911-21d0-4eaa-a678-b8cec909aa00",
@@ -969,6 +958,23 @@
         "1f182da6-2b63-47dd-9a8a-6b926a6965ef"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "c1478042-d60c-46b7-9200-6788cf8dcea0",
+      "title": "Junior VFX Artist (2D)",
+      "occupationCode": null
+    },
+    {
+      "optionId": "2066e8be-c5b6-4547-9c6f-2dc61214e6ae",
+      "title": "Junior VFX Artist (CG/3D)",
+      "occupationCode": null
+    },
+    {
+      "optionId": "f087de00-42df-4459-b568-afa76e2bf5ba",
+      "title": "Assistant Technical Director (VFX)",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
