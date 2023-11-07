@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/0",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-10-27T00:00:00Z",
-  "earliestStartDate": "2023-10-26T00:00:00Z",
+  "changedDate": "2023-10-27T00:00:00",
+  "earliestStartDate": "2023-10-26T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Ensure the maintenance of heritage properties through construction projects that repair, restore, adapt, alter or retrofit historic buildings and heritage assets.",
@@ -230,7 +230,6 @@
       "detail": "Use information technology and digital systems. Comply with cyber security."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -262,8 +261,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Onsite Construction",
   "cluster": "Construction Site Supervisor",
+  "clusterId": "139",
+  "clusterDescription": "Decide on construction methods and materials, project management approach and systems, quality monitoring, cost and resource management",
   "createdDate": "2023-09-08T07:13:15 +00:00",
   "lastUpdated": "2023-10-27T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/heritage-construction-specialist-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/heritage-construction-specialist-v1-0",
   "qualifications": [],
@@ -307,7 +309,7 @@
         "1235fa95-006f-4fbf-aa5e-4f94bcb6879b",
         "19b73d0f-f374-4fcd-9417-19c839a34f40"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2517f8ef-d7ec-4b03-8299-0960042f5104",
         "7859f36d-f419-4209-9eca-8e6206e95233",
@@ -367,7 +369,7 @@
         "1235fa95-006f-4fbf-aa5e-4f94bcb6879b",
         "19b73d0f-f374-4fcd-9417-19c839a34f40"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2517f8ef-d7ec-4b03-8299-0960042f5104",
         "7859f36d-f419-4209-9eca-8e6206e95233",
@@ -427,7 +429,7 @@
         "1235fa95-006f-4fbf-aa5e-4f94bcb6879b",
         "19b73d0f-f374-4fcd-9417-19c839a34f40"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2517f8ef-d7ec-4b03-8299-0960042f5104",
         "7859f36d-f419-4209-9eca-8e6206e95233",
@@ -487,7 +489,7 @@
         "1235fa95-006f-4fbf-aa5e-4f94bcb6879b",
         "19b73d0f-f374-4fcd-9417-19c839a34f40"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2517f8ef-d7ec-4b03-8299-0960042f5104",
         "7859f36d-f419-4209-9eca-8e6206e95233",
@@ -547,7 +549,7 @@
         "1235fa95-006f-4fbf-aa5e-4f94bcb6879b",
         "19b73d0f-f374-4fcd-9417-19c839a34f40"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2517f8ef-d7ec-4b03-8299-0960042f5104",
         "7859f36d-f419-4209-9eca-8e6206e95233",
@@ -607,7 +609,7 @@
         "1235fa95-006f-4fbf-aa5e-4f94bcb6879b",
         "19b73d0f-f374-4fcd-9417-19c839a34f40"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2517f8ef-d7ec-4b03-8299-0960042f5104",
         "7859f36d-f419-4209-9eca-8e6206e95233",
@@ -667,7 +669,7 @@
         "1235fa95-006f-4fbf-aa5e-4f94bcb6879b",
         "19b73d0f-f374-4fcd-9417-19c839a34f40"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2517f8ef-d7ec-4b03-8299-0960042f5104",
         "7859f36d-f419-4209-9eca-8e6206e95233",
@@ -727,7 +729,7 @@
         "1235fa95-006f-4fbf-aa5e-4f94bcb6879b",
         "19b73d0f-f374-4fcd-9417-19c839a34f40"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2517f8ef-d7ec-4b03-8299-0960042f5104",
         "7859f36d-f419-4209-9eca-8e6206e95233",
@@ -787,7 +789,7 @@
         "1235fa95-006f-4fbf-aa5e-4f94bcb6879b",
         "19b73d0f-f374-4fcd-9417-19c839a34f40"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2517f8ef-d7ec-4b03-8299-0960042f5104",
         "7859f36d-f419-4209-9eca-8e6206e95233",
@@ -847,7 +849,7 @@
         "1235fa95-006f-4fbf-aa5e-4f94bcb6879b",
         "19b73d0f-f374-4fcd-9417-19c839a34f40"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2517f8ef-d7ec-4b03-8299-0960042f5104",
         "7859f36d-f419-4209-9eca-8e6206e95233",
@@ -907,7 +909,7 @@
         "1235fa95-006f-4fbf-aa5e-4f94bcb6879b",
         "19b73d0f-f374-4fcd-9417-19c839a34f40"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2517f8ef-d7ec-4b03-8299-0960042f5104",
         "7859f36d-f419-4209-9eca-8e6206e95233",
@@ -967,7 +969,7 @@
         "1235fa95-006f-4fbf-aa5e-4f94bcb6879b",
         "19b73d0f-f374-4fcd-9417-19c839a34f40"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2517f8ef-d7ec-4b03-8299-0960042f5104",
         "7859f36d-f419-4209-9eca-8e6206e95233",
@@ -1027,7 +1029,7 @@
         "1235fa95-006f-4fbf-aa5e-4f94bcb6879b",
         "19b73d0f-f374-4fcd-9417-19c839a34f40"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2517f8ef-d7ec-4b03-8299-0960042f5104",
         "7859f36d-f419-4209-9eca-8e6206e95233",
@@ -1050,6 +1052,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
