@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/466",
   "versionNumber": "1.0",
   "change": "",
-  "changedDate": "2022-05-31T00:00:00Z",
-  "earliestStartDate": "2019-06-28T00:00:00Z",
+  "changedDate": "2022-05-31T00:00:00",
+  "earliestStartDate": "2019-06-28T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Studying the relationships between living things and their environment to help to resolve potentially conflicting demands between economic development and the environment.",
@@ -249,20 +249,6 @@
       "detail": "perform spatial analyses and produce maps that communicate data effectively"
     }
   ],
-  "options": [
-    {
-      "optionId": "69fed85a-0b04-4083-a214-31cabdfb959d",
-      "title": "Ecological Scientist"
-    },
-    {
-      "optionId": "252045e0-8e70-4d8d-9fa3-3a591422e6a5",
-      "title": "Consultant Ecologist"
-    },
-    {
-      "optionId": "3f3e7b2f-062f-407f-af96-aeaddfeb0d95",
-      "title": "Landscape Ecologist"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Ecological Scientist",
     "Consultant Ecologist",
@@ -292,15 +278,35 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "",
-  "pathway": "Agriculture, Land Management and Production",
-  "cluster": "Environment Professional",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2017-11-14T17:08:57 +00:00",
   "lastUpdated": "2022-05-31T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/ecologist-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/ecologist-degree-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "69fed85a-0b04-4083-a214-31cabdfb959d",
+      "title": "Ecological Scientist",
+      "occupationCode": null
+    },
+    {
+      "optionId": "252045e0-8e70-4d8d-9fa3-3a591422e6a5",
+      "title": "Consultant Ecologist",
+      "occupationCode": null
+    },
+    {
+      "optionId": "3f3e7b2f-062f-407f-af96-aeaddfeb0d95",
+      "title": "Landscape Ecologist",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
