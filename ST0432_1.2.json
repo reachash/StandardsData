@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/377",
   "versionNumber": "1.2",
   "change": "Standard and end-point assessment plan revised.",
-  "changedDate": "2023-08-15T00:00:00Z",
-  "earliestStartDate": "2023-08-15T00:00:00Z",
+  "changedDate": "2023-08-15T00:00:00",
+  "earliestStartDate": "2023-08-15T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Producing complex high value, low volume components or assemblies.",
@@ -198,7 +198,6 @@
       "detail": "Operating in line with quality, health and safety and environmental policy and procedures; identifying risks and hazards and identifying control measures where applicable."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -233,8 +232,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing and Process Operative/Technician",
+  "clusterId": "262",
+  "clusterDescription": "Assemble and construct complex engineering products",
   "createdDate": "2023-08-15T08:45:43 +00:00",
   "lastUpdated": "2023-08-15T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/engineering-fitter-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/engineering-fitter-v1-2",
   "qualifications": [
@@ -283,7 +285,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -328,7 +330,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -377,7 +379,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -425,7 +427,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -473,7 +475,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -518,7 +520,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -567,7 +569,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -607,7 +609,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -654,7 +656,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ef5d663a-aabe-4913-a150-04213e1ffdd5",
         "9112be76-54bb-4b30-b911-b18b21ad2cdb",
@@ -692,7 +694,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -712,6 +714,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
