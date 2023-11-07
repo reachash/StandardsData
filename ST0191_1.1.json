@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/177",
   "versionNumber": "1.1",
   "change": "Funding band, standard and End-point assessment plan revised. The funding band was revised but remained.",
-  "changedDate": "2023-02-15T00:00:00Z",
-  "earliestStartDate": "2020-12-22T00:00:00Z",
+  "changedDate": "2023-02-15T00:00:00",
+  "earliestStartDate": "2020-12-22T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Making bakery products in a craft, plant or retail bakery.",
@@ -305,20 +305,6 @@
       "detail": "Retail baker. Display and replenish bakery products."
     }
   ],
-  "options": [
-    {
-      "optionId": "94bea4dd-9831-4572-b91b-35c536c9417e",
-      "title": "Craft baker"
-    },
-    {
-      "optionId": "16f4ef17-d507-4ae5-a11c-cd8d5d2f1452",
-      "title": "Plant baker"
-    },
-    {
-      "optionId": "511f30cc-089a-4fa2-8b8f-dcdd646f33fa",
-      "title": "Retail baker"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -352,8 +338,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Catering",
   "cluster": "Caterer",
+  "clusterId": "18",
+  "clusterDescription": "Preparation and cooking of food through to the management of either part of or the whole kitchen",
   "createdDate": "2020-12-22T08:40:38 +00:00",
   "lastUpdated": "2023-02-15T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/baker-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/baker-v1-1",
   "qualifications": [],
@@ -381,7 +370,7 @@
         "efd03072-5c7e-434a-9270-756438bf2f26",
         "76260814-b5d9-4f2d-9533-915db4e09ad7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "efb24d3f-e218-4d42-8e23-6ec26cda7583",
         "61cfb018-07ad-4326-85f3-98516e169977",
@@ -408,7 +397,7 @@
         "efd03072-5c7e-434a-9270-756438bf2f26",
         "76260814-b5d9-4f2d-9533-915db4e09ad7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "85a079db-a1ab-4f89-8b4f-601c646974d4",
         "0da9ed44-d233-4316-ba54-44304f6d3e3b",
@@ -434,7 +423,7 @@
         "efd03072-5c7e-434a-9270-756438bf2f26",
         "76260814-b5d9-4f2d-9533-915db4e09ad7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "efb24d3f-e218-4d42-8e23-6ec26cda7583",
         "3f7c7709-fb66-4fa6-ba20-d637c9a6d6a9",
@@ -459,7 +448,7 @@
         "1ed93ae5-0cdd-4eed-8d7f-c20d54389dde",
         "76260814-b5d9-4f2d-9533-915db4e09ad7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "075698a5-091e-475e-aba0-f13454dcba15",
         "f78d9b44-6c0e-452d-8679-4ca49bbbabb2",
@@ -483,7 +472,7 @@
         "efd03072-5c7e-434a-9270-756438bf2f26",
         "76260814-b5d9-4f2d-9533-915db4e09ad7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "075698a5-091e-475e-aba0-f13454dcba15",
         "f78d9b44-6c0e-452d-8679-4ca49bbbabb2",
@@ -992,6 +981,23 @@
         "aeeb91fc-4901-411f-870f-e05c39049e3d"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "94bea4dd-9831-4572-b91b-35c536c9417e",
+      "title": "Craft baker",
+      "occupationCode": null
+    },
+    {
+      "optionId": "16f4ef17-d507-4ae5-a11c-cd8d5d2f1452",
+      "title": "Plant baker",
+      "occupationCode": null
+    },
+    {
+      "optionId": "511f30cc-089a-4fa2-8b8f-dcdd646f33fa",
+      "title": "Retail baker",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
