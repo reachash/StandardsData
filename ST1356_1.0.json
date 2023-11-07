@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/731",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-10-16T00:00:00Z",
-  "earliestStartDate": "2023-10-16T00:00:00Z",
+  "changedDate": "2023-10-16T00:00:00",
+  "earliestStartDate": "2023-10-16T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "To guide sustainable development and stewardship of the natural and built environment.",
@@ -269,7 +269,6 @@
       "detail": "Produce recommendations that align to client requirements and organisational objectives that demonstrate the application of ethical, environmental sustainability and compliance with relevant legislation."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -313,8 +312,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Science",
   "cluster": "Science Professional",
+  "clusterId": "213",
+  "clusterDescription": "Define and lead science-based research projects to derive academic and applied information of value",
   "createdDate": "2023-10-16T14:35:00 +00:00",
   "lastUpdated": "2023-10-16T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/geoscientist-integrated-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/geoscientist-integrated-degree-v1-0",
   "qualifications": [
@@ -381,7 +383,7 @@
         "3d507915-a643-4383-9f69-06f21f4693b3",
         "6de699d1-e0e2-4846-a820-0c79547be6f9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "632ed6f5-0d46-4558-b562-79b994896a4b",
         "bad70c58-daaf-4a2e-af89-1238e105a9ff",
@@ -435,7 +437,7 @@
         "cb68e18b-bb2a-44c4-bdba-62736b6d2b76",
         "6de699d1-e0e2-4846-a820-0c79547be6f9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "632ed6f5-0d46-4558-b562-79b994896a4b",
         "bad70c58-daaf-4a2e-af89-1238e105a9ff",
@@ -487,7 +489,7 @@
         "cb68e18b-bb2a-44c4-bdba-62736b6d2b76",
         "6de699d1-e0e2-4846-a820-0c79547be6f9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "632ed6f5-0d46-4558-b562-79b994896a4b",
         "bad70c58-daaf-4a2e-af89-1238e105a9ff",
@@ -540,7 +542,7 @@
         "cb68e18b-bb2a-44c4-bdba-62736b6d2b76",
         "6de699d1-e0e2-4846-a820-0c79547be6f9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "632ed6f5-0d46-4558-b562-79b994896a4b",
         "bad70c58-daaf-4a2e-af89-1238e105a9ff",
@@ -589,7 +591,7 @@
         "cb68e18b-bb2a-44c4-bdba-62736b6d2b76",
         "6de699d1-e0e2-4846-a820-0c79547be6f9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "632ed6f5-0d46-4558-b562-79b994896a4b",
         "bad70c58-daaf-4a2e-af89-1238e105a9ff",
@@ -641,7 +643,7 @@
         "cb68e18b-bb2a-44c4-bdba-62736b6d2b76",
         "6de699d1-e0e2-4846-a820-0c79547be6f9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "632ed6f5-0d46-4558-b562-79b994896a4b",
         "bad70c58-daaf-4a2e-af89-1238e105a9ff",
@@ -684,7 +686,7 @@
         "0fe2e28f-75a2-4491-a4d1-7ad1e3ec7409",
         "3d507915-a643-4383-9f69-06f21f4693b3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "632ed6f5-0d46-4558-b562-79b994896a4b",
         "bad70c58-daaf-4a2e-af89-1238e105a9ff",
@@ -735,7 +737,7 @@
         "3d507915-a643-4383-9f69-06f21f4693b3",
         "6de699d1-e0e2-4846-a820-0c79547be6f9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "632ed6f5-0d46-4558-b562-79b994896a4b",
         "bad70c58-daaf-4a2e-af89-1238e105a9ff",
@@ -788,7 +790,7 @@
         "3d507915-a643-4383-9f69-06f21f4693b3",
         "6de699d1-e0e2-4846-a820-0c79547be6f9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "632ed6f5-0d46-4558-b562-79b994896a4b",
         "bad70c58-daaf-4a2e-af89-1238e105a9ff",
@@ -843,7 +845,7 @@
         "3d507915-a643-4383-9f69-06f21f4693b3",
         "6de699d1-e0e2-4846-a820-0c79547be6f9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "632ed6f5-0d46-4558-b562-79b994896a4b",
         "bad70c58-daaf-4a2e-af89-1238e105a9ff",
@@ -886,7 +888,7 @@
         "0fe2e28f-75a2-4491-a4d1-7ad1e3ec7409",
         "3d507915-a643-4383-9f69-06f21f4693b3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "403de82a-8270-479f-be55-7b369a5fd8d1",
         "6ede2753-9ee8-4e74-866b-f6175d733007",
@@ -920,7 +922,7 @@
         "0fe2e28f-75a2-4491-a4d1-7ad1e3ec7409",
         "3d507915-a643-4383-9f69-06f21f4693b3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bad70c58-daaf-4a2e-af89-1238e105a9ff",
         "403de82a-8270-479f-be55-7b369a5fd8d1",
@@ -954,7 +956,7 @@
         "0fe2e28f-75a2-4491-a4d1-7ad1e3ec7409",
         "3d507915-a643-4383-9f69-06f21f4693b3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "632ed6f5-0d46-4558-b562-79b994896a4b",
         "bad70c58-daaf-4a2e-af89-1238e105a9ff",
@@ -993,7 +995,7 @@
         "3d507915-a643-4383-9f69-06f21f4693b3",
         "06b65134-2249-4d6d-b3bb-0456cecd1438"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "632ed6f5-0d46-4558-b562-79b994896a4b",
         "403de82a-8270-479f-be55-7b369a5fd8d1",
@@ -1010,6 +1012,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
