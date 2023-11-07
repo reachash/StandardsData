@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/683",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-11-04T00:00:00Z",
-  "earliestStartDate": "2022-08-18T00:00:00Z",
+  "changedDate": "2022-11-04T00:00:00",
+  "earliestStartDate": "2022-08-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Carry out the practical operations required to create, maintain and harvest forests and woodlands.",
@@ -254,16 +254,6 @@
       "detail": "(Harvesting) Calculate timber volumes using mensuration techniques."
     }
   ],
-  "options": [
-    {
-      "optionId": "e859b533-169c-4c73-9d48-9fb5503fd2a5",
-      "title": "Forest establishment and maintenance craftsperson"
-    },
-    {
-      "optionId": "fed1a8c6-838d-4fac-88d4-4fe7c569cacd",
-      "title": "Forest harvesting craftsperson"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -300,8 +290,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Arboriculture and Forestry Operative",
+  "clusterId": "111",
+  "clusterDescription": "A full range of work to plant, maintain, manage and remove or harvest trees and/or woodland",
   "createdDate": "2023-05-18T08:57:20 +00:00",
   "lastUpdated": "2022-11-04T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/forest-craftsperson-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/forest-craftsperson-v1-0",
   "qualifications": [
@@ -383,7 +376,7 @@
         "56a43b79-f91b-4dc2-9bf4-202b8a55e674",
         "ca2f5683-3447-42e8-a86b-fe92cca8c88e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "07946225-17e8-4a9d-92c3-24262d4f4330",
         "d2f6b3e2-7d25-4bdd-817f-831569753bb6",
@@ -418,7 +411,7 @@
         "56a43b79-f91b-4dc2-9bf4-202b8a55e674",
         "ca2f5683-3447-42e8-a86b-fe92cca8c88e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "825e4338-aee3-4239-a557-15c3f103b39b",
         "d2f6b3e2-7d25-4bdd-817f-831569753bb6",
@@ -437,13 +430,13 @@
       "dutyID": "a3abd1be-33db-4cdc-831c-a55961ddb4ae",
       "dutyDetail": "Implement pollution control in line with legislation, industry guidance and organisational policies, (for example  positioning a spill-kit appropriately prior to refuelling a chainsaw.)",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "da6c83b0-0e5e-4dfb-a773-e877f27477f3",
         "6e1a5904-d9d7-41f2-9662-12f5d3354224",
         "0c8b7736-511a-4ec0-aa68-48e9e19220b2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "825e4338-aee3-4239-a557-15c3f103b39b",
         "d2f6b3e2-7d25-4bdd-817f-831569753bb6",
@@ -481,7 +474,7 @@
         "7ad042d9-1141-4d4c-a0d6-542c96cfabc9",
         "d1b31865-b3f2-4482-a814-3d6d34339b6b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "07946225-17e8-4a9d-92c3-24262d4f4330",
         "825e4338-aee3-4239-a557-15c3f103b39b",
@@ -514,7 +507,7 @@
         "dd93e9d0-c43f-4ede-b65c-19958e809167",
         "7ad042d9-1141-4d4c-a0d6-542c96cfabc9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "07946225-17e8-4a9d-92c3-24262d4f4330",
         "825e4338-aee3-4239-a557-15c3f103b39b",
@@ -532,7 +525,7 @@
       "dutyID": "555bd6fa-62a9-4bd1-8add-e2d4b972f19a",
       "dutyDetail": "Measure and select trees for removal.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "da6c83b0-0e5e-4dfb-a773-e877f27477f3",
         "abd85d18-2f3b-46c7-8a2b-08495c255c65",
@@ -542,7 +535,7 @@
         "250a7de4-6bcc-4d88-8120-08255d08eb88",
         "dd93e9d0-c43f-4ede-b65c-19958e809167"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "825e4338-aee3-4239-a557-15c3f103b39b",
         "8416d022-0776-4dea-a28b-e931b70c8c6f",
@@ -578,7 +571,7 @@
         "dd93e9d0-c43f-4ede-b65c-19958e809167",
         "7ad042d9-1141-4d4c-a0d6-542c96cfabc9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "07946225-17e8-4a9d-92c3-24262d4f4330",
         "825e4338-aee3-4239-a557-15c3f103b39b",
@@ -613,7 +606,7 @@
         "dd93e9d0-c43f-4ede-b65c-19958e809167",
         "7ad042d9-1141-4d4c-a0d6-542c96cfabc9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "07946225-17e8-4a9d-92c3-24262d4f4330",
         "825e4338-aee3-4239-a557-15c3f103b39b",
@@ -645,7 +638,7 @@
         "7ad042d9-1141-4d4c-a0d6-542c96cfabc9",
         "56a43b79-f91b-4dc2-9bf4-202b8a55e674"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "07946225-17e8-4a9d-92c3-24262d4f4330",
         "8416d022-0776-4dea-a28b-e931b70c8c6f",
@@ -660,12 +653,12 @@
       "dutyID": "83ad64bc-1358-43d1-9e0e-3bd3df4acd26",
       "dutyDetail": "Monitor and control the impact of pests, diseases and disorders.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "da6c83b0-0e5e-4dfb-a773-e877f27477f3",
         "dd93e9d0-c43f-4ede-b65c-19958e809167"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "825e4338-aee3-4239-a557-15c3f103b39b",
         "4454822d-115c-4795-a296-2db3fc1bf3b2",
@@ -678,11 +671,11 @@
       "dutyID": "62189958-3821-42a1-b44b-e9442112f1b7",
       "dutyDetail": "Maintain records including digital records and reports.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "03a0e2ed-8c21-407a-9873-df6826b40e50"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1bb43e23-c494-4fd9-8518-365f6ccc735f"
       ],
@@ -704,7 +697,7 @@
         "d1b31865-b3f2-4482-a814-3d6d34339b6b",
         "03516bc1-77a9-48f1-8cbd-67d8d798be59"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1bb43e23-c494-4fd9-8518-365f6ccc735f",
         "4454822d-115c-4795-a296-2db3fc1bf3b2",
@@ -724,7 +717,7 @@
       "mappedKnowledge": [
         "03a0e2ed-8c21-407a-9873-df6826b40e50"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1bb43e23-c494-4fd9-8518-365f6ccc735f",
         "1a5de322-2abe-463f-a946-0770c8aa1c9b",
@@ -848,7 +841,7 @@
       "mappedOptions": [
         "fed1a8c6-838d-4fac-88d4-4fe7c569cacd"
       ],
-      "mappedSkills": null,
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -922,6 +915,18 @@
         "f3c8b55b-5160-4d83-a339-ccae35d8f36f"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "e859b533-169c-4c73-9d48-9fb5503fd2a5",
+      "title": "Forest establishment and maintenance craftsperson",
+      "occupationCode": null
+    },
+    {
+      "optionId": "fed1a8c6-838d-4fac-88d4-4fe7c569cacd",
+      "title": "Forest harvesting craftsperson",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
