@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/513",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-10-16T00:00:00Z",
-  "earliestStartDate": "2019-09-27T00:00:00Z",
-  "latestStartDate": "2023-11-08T00:00:00Z",
+  "changedDate": "2023-10-16T00:00:00",
+  "earliestStartDate": "2019-09-27T00:00:00",
+  "latestStartDate": "2023-11-08T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Installing a wide range of replacement and new build fenestration products in a property or structure.",
   "level": 2,
@@ -266,7 +266,6 @@
       "detail": "Post Installation Activities such as interaction with customer or site manager, completion of paperwork, demonstration, handover of booklet or manuals"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -299,8 +298,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Onsite Construction",
   "cluster": "Core Building Tradesperson",
+  "clusterId": "5",
+  "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
   "createdDate": "2020-01-14T11:44:03 +00:00",
   "lastUpdated": "2023-10-16T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/fenestration-installer-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/fenestration-installer-v1-0",
   "qualifications": [],
@@ -322,7 +324,7 @@
         "e05f63c4-7fa4-4395-9aef-e762efa8bd25",
         "30da7603-748a-4353-b699-53f66d4c1872"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e130aa4d-8ac1-4349-96c5-f0e99cf99446",
         "12bcb5ce-a0ad-4a3e-821c-bd5c7f58b223",
@@ -353,7 +355,7 @@
         "41cfdcfa-89f9-4817-b6dd-3c9b64049dfb",
         "ed7f98ba-1dcf-409d-9f6b-4401620321eb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e130aa4d-8ac1-4349-96c5-f0e99cf99446",
         "12bcb5ce-a0ad-4a3e-821c-bd5c7f58b223",
@@ -376,7 +378,7 @@
         "a7f65889-7ce6-4df1-9ab5-1e54fa4833ce",
         "6f3edfbf-ec2b-4d4e-bd8f-54e015f5159a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f028a5aa-d813-4f96-87d6-3a4be1c13f7d",
         "ba77a1b8-e6be-48a2-ac0a-8ffc90fcbe62"
@@ -395,7 +397,7 @@
         "ebc72965-0731-44c9-b562-f93cfc5557b7",
         "41cfdcfa-89f9-4817-b6dd-3c9b64049dfb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7c051791-2b40-4e72-bfc7-aba37a80538b",
         "2a809188-37b8-4648-baa9-850a09fd4224"
@@ -415,7 +417,7 @@
         "e05f63c4-7fa4-4395-9aef-e762efa8bd25",
         "1c290473-651c-42ec-8c49-3420354be8ec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7c051791-2b40-4e72-bfc7-aba37a80538b",
         "7a42780e-ee74-48d5-9f05-671c15371288",
@@ -437,7 +439,7 @@
         "1c290473-651c-42ec-8c49-3420354be8ec",
         "ebc72965-0731-44c9-b562-f93cfc5557b7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6112612a-87e8-4c63-aa78-225979bff52f",
         "ba77a1b8-e6be-48a2-ac0a-8ffc90fcbe62"
@@ -456,7 +458,7 @@
         "bdff397c-07df-42fd-8e13-7ed49044fede",
         "e05f63c4-7fa4-4395-9aef-e762efa8bd25"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f5d1ecca-65d0-442d-9080-69ca3a65f660",
         "7c051791-2b40-4e72-bfc7-aba37a80538b",
@@ -480,7 +482,7 @@
         "fd77162a-f82a-41bf-9cab-b9a7a0df4c2c",
         "1581f230-d261-4236-8c05-4adf0a8eea86"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7a42780e-ee74-48d5-9f05-671c15371288",
         "39b0b79d-4ff3-4aed-911d-8ddb9574962a",
@@ -500,7 +502,7 @@
         "0d4d9771-9969-4dde-b658-487d9111ff63",
         "955e0cd9-08b3-40a6-a84d-3316454958a2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7a42780e-ee74-48d5-9f05-671c15371288",
         "39b0b79d-4ff3-4aed-911d-8ddb9574962a",
@@ -513,12 +515,12 @@
       "dutyID": "97b6526b-e4fa-4ed4-a8db-71d3825eee5e",
       "dutyDetail": "Apply internal finishing’s such as trims, decorators caulk, window boards. Protect the work area and make good when necessary",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0d4d9771-9969-4dde-b658-487d9111ff63",
         "1f976c80-5306-4457-a98d-05f12e65e11c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d6e3ca23-dd68-49d5-a3dd-ce3faf9e1805",
         "d954dbd2-21dc-42f2-bc75-b768ecc280e9",
@@ -530,7 +532,7 @@
       "dutyID": "737ae119-333c-4a74-b72e-75b0f55b9184",
       "dutyDetail": "Apply external finishing’s such as silicone, mastic, cement, plaster or beading, taking into account fire regulations (fire stopping), environmental performance",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0d4d9771-9969-4dde-b658-487d9111ff63",
         "19b0633b-d75e-4f8a-8f3a-8225cb224d3d",
@@ -538,7 +540,7 @@
         "e05f63c4-7fa4-4395-9aef-e762efa8bd25",
         "8fa92108-6219-4f97-942e-5f27a5040b3d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d6e3ca23-dd68-49d5-a3dd-ce3faf9e1805",
         "d954dbd2-21dc-42f2-bc75-b768ecc280e9",
@@ -560,7 +562,7 @@
         "bdff397c-07df-42fd-8e13-7ed49044fede",
         "205002a9-d932-4b74-99ee-736647708bae"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ba77a1b8-e6be-48a2-ac0a-8ffc90fcbe62",
         "8da94c96-f441-4663-b5d5-d22674410676",
@@ -584,7 +586,7 @@
         "7e8306af-da0d-4632-9939-3cb5e2e8daea",
         "ed7f98ba-1dcf-409d-9f6b-4401620321eb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "08006501-122a-4c8a-b973-11a90214e578"
       ],
@@ -603,7 +605,7 @@
         "2bfb43a5-f28a-48a9-891b-d01b5f14acdd",
         "0ef898a1-4fb9-4c5f-8b82-9712bdd909f4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "be8d83df-3934-4cc4-8b2e-b0707aa34987",
         "b535ec5e-8ec3-47c8-be19-2eb183e8c293",
@@ -614,6 +616,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
