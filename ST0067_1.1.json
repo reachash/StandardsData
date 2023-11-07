@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/134",
   "versionNumber": "1.1",
   "change": "The funding band for this standard has been reviewed as part of the apprenticeship funding band review. The new funding band is £16000",
-  "changedDate": "2022-08-22T00:00:00Z",
-  "earliestStartDate": "2019-07-01T00:00:00Z",
-  "latestStartDate": "2022-08-21T00:00:00Z",
+  "changedDate": "2022-08-22T00:00:00",
+  "earliestStartDate": "2019-07-01T00:00:00",
+  "latestStartDate": "2022-08-21T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Carrying out a range of engineering work on buses and coaches for bus and coach operators.",
   "level": 3,
@@ -286,7 +286,6 @@
       "detail": "O4: Use diagnostic equipment and software to locate, diagnose and rectify faults on mechanical and electrical components"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [
     "Coach Builder",
     "Electrical",
@@ -319,13 +318,17 @@
   "reviewDetails": "",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2017-09-22T14:24:08 +00:00",
   "lastUpdated": "2022-08-22T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/bus-and-coach-engineering-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/bus-and-coach-engineering-technician-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
