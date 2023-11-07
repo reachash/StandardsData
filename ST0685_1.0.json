@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/617",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-02-03T00:00:00Z",
-  "earliestStartDate": "2021-02-24T00:00:00Z",
+  "changedDate": "2022-02-03T00:00:00",
+  "earliestStartDate": "2021-02-24T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Create, implement and adapt tailored holistic and wellbeing experiences.",
@@ -361,7 +361,6 @@
       "detail": "Manage own continuing professional development (CPD) incorporating research, professional practice and progression"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -393,8 +392,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Hair, Beauty and Aesthetics",
   "cluster": "Beauty Therapist",
+  "clusterId": "271",
+  "clusterDescription": "Carry out detailed and confidential beauty consultations with clients to select the most appropriate services, treatments and products",
   "createdDate": "2021-03-03T08:53:08 +00:00",
   "lastUpdated": "2022-02-03T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/wellbeing-and-holistic-therapist-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/wellbeing-and-holistic-therapist-v1-0",
   "qualifications": [],
@@ -435,7 +437,7 @@
         "1c9242e4-512d-41df-ad0c-d7dbf6832653",
         "80f463ad-7132-47c2-8564-9f6e19b28b68"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "986145a9-8043-49e8-873f-d53f4056baaf",
         "5f7b713a-63b2-4797-812d-20a2bcbe0a8c",
@@ -483,7 +485,7 @@
         "1478c60c-97e9-403e-acfc-c5cc89e1ccde",
         "4e7e80c4-8274-4706-a2b4-5ce5a24d0aff"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5f7b713a-63b2-4797-812d-20a2bcbe0a8c",
         "e4c42bd7-2e25-4575-bf8c-1bc6504e7442",
@@ -528,7 +530,7 @@
         "80f463ad-7132-47c2-8564-9f6e19b28b68",
         "07c1c1d3-f3c5-43fb-be5d-1ef329377e82"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "986145a9-8043-49e8-873f-d53f4056baaf",
         "5f7b713a-63b2-4797-812d-20a2bcbe0a8c",
@@ -605,7 +607,7 @@
         "07c1c1d3-f3c5-43fb-be5d-1ef329377e82",
         "1d452689-1ae8-4665-a7ac-ef80b28321ed"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "986145a9-8043-49e8-873f-d53f4056baaf",
         "5f7b713a-63b2-4797-812d-20a2bcbe0a8c",
@@ -685,7 +687,7 @@
         "07c1c1d3-f3c5-43fb-be5d-1ef329377e82",
         "1d452689-1ae8-4665-a7ac-ef80b28321ed"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "986145a9-8043-49e8-873f-d53f4056baaf",
         "5f7b713a-63b2-4797-812d-20a2bcbe0a8c",
@@ -731,7 +733,7 @@
         "1c9242e4-512d-41df-ad0c-d7dbf6832653",
         "80f463ad-7132-47c2-8564-9f6e19b28b68"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "baca1a08-ad23-4e11-8020-4cb5cb7b3256",
         "d3f21d83-e3c6-4545-9bfa-ea1b87a13644",
@@ -772,7 +774,7 @@
         "5a337ea3-bfd0-4546-b891-2eda44a7eaef",
         "07c1c1d3-f3c5-43fb-be5d-1ef329377e82"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "baca1a08-ad23-4e11-8020-4cb5cb7b3256",
         "d3f21d83-e3c6-4545-9bfa-ea1b87a13644",
@@ -818,7 +820,7 @@
         "5a337ea3-bfd0-4546-b891-2eda44a7eaef",
         "87f1c38d-7aed-4e4b-a1c6-a586173df019"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5f7b713a-63b2-4797-812d-20a2bcbe0a8c",
         "e0157f8b-9a9f-4b3d-9f8f-afb54ee9e1ad",
@@ -859,7 +861,7 @@
         "5a337ea3-bfd0-4546-b891-2eda44a7eaef",
         "87f1c38d-7aed-4e4b-a1c6-a586173df019"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fb2920db-a3d7-4095-821f-e93bc0b75823",
         "bbd01c4c-5534-4728-af45-07b8274dd432",
@@ -886,7 +888,7 @@
         "2d2d2582-f530-4695-9546-6aafb52c6d00",
         "80f463ad-7132-47c2-8564-9f6e19b28b68"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e0157f8b-9a9f-4b3d-9f8f-afb54ee9e1ad",
         "fb2920db-a3d7-4095-821f-e93bc0b75823",
@@ -911,7 +913,7 @@
         "e17165e5-06f1-42d0-95fc-7a32d916583b",
         "2fd21691-6003-4fdd-bfea-c588dfdfb817"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f20b45de-8a5e-4023-99b9-8d5dbbcaed08",
         "e97f1eac-d2d9-4d67-9cce-7a48195a1187",
@@ -942,7 +944,7 @@
         "80f463ad-7132-47c2-8564-9f6e19b28b68",
         "2fd21691-6003-4fdd-bfea-c588dfdfb817"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d3f21d83-e3c6-4545-9bfa-ea1b87a13644"
       ],
@@ -961,7 +963,7 @@
         "d2d7fa8a-56e4-4135-856c-bea0722311c4",
         "adbed5b6-f955-4ca9-ae4e-6e3e6681d42e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c2d64a84-e5ac-47f4-bc1a-d93c7b5a95de"
       ],
@@ -978,7 +980,7 @@
       "mappedKnowledge": [
         "62684398-39da-4833-9adf-7064b5385695"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f20b45de-8a5e-4023-99b9-8d5dbbcaed08",
         "e97f1eac-d2d9-4d67-9cce-7a48195a1187",
@@ -989,6 +991,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
