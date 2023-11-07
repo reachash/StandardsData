@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/431",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-09-21T00:00:00Z",
-  "earliestStartDate": "2019-04-05T00:00:00Z",
-  "latestStartDate": "2020-11-08T00:00:00Z",
+  "changedDate": "2022-09-21T00:00:00",
+  "earliestStartDate": "2019-04-05T00:00:00",
+  "latestStartDate": "2020-11-08T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Obtaining images of a high diagnostic quality using a range of complex imaging equipment.",
   "level": 6,
@@ -253,7 +253,6 @@
       "detail": "Read and critically analyse research articles, utilise basic research skills and apply research findings to practice."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -283,8 +282,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Health",
   "cluster": "Health Professional",
+  "clusterId": "6",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2020-11-19T08:56:44 +00:00",
   "lastUpdated": "2022-09-21T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/diagnostic-radiographer-integrated-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/diagnostic-radiographer-integrated-degree-v1-0",
   "qualifications": [
@@ -330,7 +332,7 @@
         "fdf8d7f5-9227-44d0-aae8-a7318bc5f8a5",
         "de58847c-0461-4cc7-96bf-0866831d5b4b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f3d5ff67-eb52-4e7c-b719-afed1ffa63ba",
         "ece0363d-88ed-41c8-9afc-4a8dde52a0f7",
@@ -354,7 +356,7 @@
         "e0c16060-556b-434c-a3c0-b6f6f7b44bc0",
         "e8abea06-19be-4c4d-a2aa-968c0d4ddedc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f3d5ff67-eb52-4e7c-b719-afed1ffa63ba",
         "7c154917-2997-41d8-a7a5-33de58007806",
@@ -377,7 +379,7 @@
         "2e9a58e7-3929-4c48-82b0-e22ba92f7df5",
         "fdf8d7f5-9227-44d0-aae8-a7318bc5f8a5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7c154917-2997-41d8-a7a5-33de58007806",
         "e2a7bf6a-bb49-4616-8cef-b8a056b48920"
@@ -397,7 +399,7 @@
         "fdf8d7f5-9227-44d0-aae8-a7318bc5f8a5",
         "a01e4845-fc9a-419c-8ef4-384563797b3d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7c154917-2997-41d8-a7a5-33de58007806"
       ],
@@ -420,7 +422,7 @@
         "fb6687cd-e484-4433-9d6f-ad74fb82dec0",
         "de58847c-0461-4cc7-96bf-0866831d5b4b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ee100dcb-0f76-497a-8a50-27d34d5f9796",
         "d6ff3ddb-4d51-4072-a929-25831b9bba9b",
@@ -443,7 +445,7 @@
         "de58847c-0461-4cc7-96bf-0866831d5b4b",
         "a240b275-7c25-4254-b882-fdbc48a885d2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d6ff3ddb-4d51-4072-a929-25831b9bba9b",
         "9ac75699-0da9-4382-b396-4ffeba85515e"
@@ -464,7 +466,7 @@
         "f0b1dd70-b219-46e9-b2a6-7255cbbbbb4a",
         "a01e4845-fc9a-419c-8ef4-384563797b3d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7c154917-2997-41d8-a7a5-33de58007806",
         "b5f9eb64-a4c6-4aa7-9c61-2865aac9f930",
@@ -486,7 +488,7 @@
         "f30e39c9-cf28-4e75-8565-7ea631abee9e",
         "14fe73f6-3cd8-4e67-806f-cf838e323e39"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a18d4191-bc2d-4323-8e26-12ce227c7219",
         "09cfa5ba-bf5a-4ddc-8142-6ea8e890becc"
@@ -506,7 +508,7 @@
         "fc0df0a9-6854-4c7b-8c45-a33099c368c7",
         "ef1aac3d-0588-4547-91df-0c4f87395e31"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9f9d4df-6ee9-4793-b48b-38b95a38f849",
         "7c154917-2997-41d8-a7a5-33de58007806",
@@ -529,7 +531,7 @@
         "fdf8d7f5-9227-44d0-aae8-a7318bc5f8a5",
         "de58847c-0461-4cc7-96bf-0866831d5b4b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7c154917-2997-41d8-a7a5-33de58007806",
         "2d53b4d3-e6e3-4ff4-93c6-865e92c3adf9",
@@ -552,7 +554,7 @@
         "bef86e96-bd14-473f-b4d2-4cdb374232ca",
         "fdf8d7f5-9227-44d0-aae8-a7318bc5f8a5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "87c57312-e481-4758-a3ce-023c31e81d70"
       ],
@@ -575,7 +577,7 @@
         "20f2fdfe-3acf-4e17-a6d7-0e7b45d64c64",
         "c42ca783-2b6b-42fe-b3cc-46cc48f35347"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7c154917-2997-41d8-a7a5-33de58007806",
         "f48eac22-fba1-4fbe-87e7-079deddf2a38"
@@ -596,7 +598,7 @@
         "b4bfd1aa-056a-4711-a624-29480904fb26",
         "aacc5dcb-73b7-4b85-adb3-dabc701647be"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ece0363d-88ed-41c8-9afc-4a8dde52a0f7",
         "a18d4191-bc2d-4323-8e26-12ce227c7219",
@@ -621,7 +623,7 @@
         "c42ca783-2b6b-42fe-b3cc-46cc48f35347",
         "b4bfd1aa-056a-4711-a624-29480904fb26"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ece0363d-88ed-41c8-9afc-4a8dde52a0f7",
         "09cfa5ba-bf5a-4ddc-8142-6ea8e890becc",
@@ -649,7 +651,7 @@
         "b4bfd1aa-056a-4711-a624-29480904fb26",
         "aacc5dcb-73b7-4b85-adb3-dabc701647be"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f3d5ff67-eb52-4e7c-b719-afed1ffa63ba",
         "b9f9d4df-6ee9-4793-b48b-38b95a38f849",
@@ -676,7 +678,7 @@
         "fb6687cd-e484-4433-9d6f-ad74fb82dec0",
         "f30e39c9-cf28-4e75-8565-7ea631abee9e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f3d5ff67-eb52-4e7c-b719-afed1ffa63ba",
         "7c154917-2997-41d8-a7a5-33de58007806",
@@ -703,7 +705,7 @@
         "fb6687cd-e484-4433-9d6f-ad74fb82dec0",
         "e293c4ec-ab4a-43f0-a9be-518f1e0546b1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7c154917-2997-41d8-a7a5-33de58007806",
         "c8b51a58-cfc4-40be-8c40-615cd7f65489",
@@ -715,6 +717,7 @@
       "criteriaForMeasuringPerformance": "Comply with Health and Care Professions Council Standards of Proficiency and Society and College\nof Radiographers guidance"
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training provider",
