@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/585",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-05-05T00:00:00Z",
-  "earliestStartDate": "2020-08-07T00:00:00Z",
-  "latestStartDate": "2023-05-04T00:00:00Z",
+  "changedDate": "2023-05-05T00:00:00",
+  "earliestStartDate": "2020-08-07T00:00:00",
+  "latestStartDate": "2023-05-04T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Provide daily management, maintenance, conservation and protection of the natural environment and inspire people about the natural environment.",
   "level": 4,
@@ -285,7 +285,6 @@
       "detail": "Make decisions based on the organisations principles and relevant and accurate information."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -320,10 +319,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Agriculture, Land Management and Production",
-  "cluster": "Environment Specialist",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2020-01-24T11:44:25 +00:00",
   "lastUpdated": "2023-05-05T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/countryside-ranger-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/countryside-ranger-v1-0",
   "qualifications": [
@@ -376,7 +378,7 @@
         "b879d310-adcc-4c40-9f00-15711f0f188d",
         "947154d4-5bff-4ccf-b8e1-b6d0bd92086b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "07cad57e-bd98-4935-a926-dbb51c7cabfe",
         "8925ad21-556e-4938-87ad-1ff7bb039aa8",
@@ -409,7 +411,7 @@
         "947154d4-5bff-4ccf-b8e1-b6d0bd92086b",
         "7b86bc78-ec54-445e-ac32-2b38567aaeea"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8925ad21-556e-4938-87ad-1ff7bb039aa8",
         "9d2dd039-19c4-4b67-a9a2-05f7e03ec928",
@@ -438,7 +440,7 @@
         "33196eb2-4bff-4511-8011-d889974d9d00",
         "f4954ffd-f35a-48c7-919d-db035d88643b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7e6bb51a-62e2-43fe-a40e-74712976ae05",
         "a4c9f398-bbbc-4341-b72d-9439e05107f1",
@@ -462,7 +464,7 @@
         "33196eb2-4bff-4511-8011-d889974d9d00",
         "3e8eaa1d-afed-4163-a6de-d7885e264379"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "eb4fe66c-5898-4981-a2e1-39717b63f127",
         "dbecf492-26fb-457c-afb5-78245ed8721a",
@@ -485,7 +487,7 @@
         "33196eb2-4bff-4511-8011-d889974d9d00",
         "3e8eaa1d-afed-4163-a6de-d7885e264379"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dbecf492-26fb-457c-afb5-78245ed8721a",
         "fe649726-4905-4ff7-baf0-112303c7a636",
@@ -508,7 +510,7 @@
         "b879d310-adcc-4c40-9f00-15711f0f188d",
         "947154d4-5bff-4ccf-b8e1-b6d0bd92086b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b36f98b1-548a-469f-a2bc-b6a86ebe406e",
         "e38a34a9-feb3-4433-8eaa-4366e17c26a7",
@@ -536,7 +538,7 @@
         "91e4010c-fd73-49eb-8051-40b32765d115",
         "7b86bc78-ec54-445e-ac32-2b38567aaeea"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "39561685-648c-40a9-bf53-670f171ca080",
         "e38a34a9-feb3-4433-8eaa-4366e17c26a7",
@@ -561,7 +563,7 @@
         "b879d310-adcc-4c40-9f00-15711f0f188d",
         "7b86bc78-ec54-445e-ac32-2b38567aaeea"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "39561685-648c-40a9-bf53-670f171ca080",
         "e131ab31-0e9e-4f6a-b3ee-afaeba1df506",
@@ -587,7 +589,7 @@
         "f21fa41e-cd0e-490b-a9d2-d5dacb42b3fb",
         "7b86bc78-ec54-445e-ac32-2b38567aaeea"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b36f98b1-548a-469f-a2bc-b6a86ebe406e",
         "e38a34a9-feb3-4433-8eaa-4366e17c26a7",
@@ -611,7 +613,7 @@
         "304d5eaa-9533-436f-9ddc-de7f2c235c51",
         "61e839b6-5f46-4af2-9a4c-cfb53097e455"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fe649726-4905-4ff7-baf0-112303c7a636",
         "692f9011-705a-4b57-97f7-55b5d0542de8",
@@ -635,7 +637,7 @@
         "eefa8944-048c-49c1-ab60-07887ccac76b",
         "3aa3f72a-bee8-43f7-9681-ae92ea87966f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8925ad21-556e-4938-87ad-1ff7bb039aa8",
         "88e865ff-8c87-465e-b61f-f87881a0e7ad",
@@ -660,7 +662,7 @@
         "5dea7141-bec0-4d65-99a7-2947694406de",
         "947154d4-5bff-4ccf-b8e1-b6d0bd92086b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "39561685-648c-40a9-bf53-670f171ca080",
         "e131ab31-0e9e-4f6a-b3ee-afaeba1df506",
@@ -683,7 +685,7 @@
       "mappedKnowledge": [
         "947154d4-5bff-4ccf-b8e1-b6d0bd92086b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "718e1d36-a155-4340-b60e-bd42babfe17c",
         "24accb9d-23f0-4c5e-b752-a457f8e5a442"
@@ -703,13 +705,14 @@
       "mappedKnowledge": [
         "f4954ffd-f35a-48c7-919d-db035d88643b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "979fb4b9-1a8a-4c0b-a916-96e85493460a"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
