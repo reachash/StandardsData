@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/254",
   "versionNumber": "1.0",
   "change": "",
-  "changedDate": "2022-09-21T00:00:00Z",
-  "earliestStartDate": "2018-03-27T00:00:00Z",
+  "changedDate": "2022-09-21T00:00:00",
+  "earliestStartDate": "2018-03-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Analysing geographic data for things like maps, satellite navigation systems (satnav) and global positioning systems (GPS).",
@@ -173,24 +173,6 @@
       "detail": "Undertake surveys using appropriate instrumentation including a theodolite and a total station. Evaluate information to meet client requirements and explain complex survey issues such as 3D modelling and visualisation, boundary issues and the impact of survey findings on construction plans to clients."
     }
   ],
-  "options": [
-    {
-      "optionId": "94ad6456-80d5-46a0-88ab-3b01a545a6f7",
-      "title": "Geospatial Engineering"
-    },
-    {
-      "optionId": "72a25b2d-1045-42ff-a7b6-4193b60c7f6a",
-      "title": "Hydrography"
-    },
-    {
-      "optionId": "f95f2668-a9b2-440b-a4cf-318bbd57e420",
-      "title": "Utilities"
-    },
-    {
-      "optionId": "e0761a9d-0b8f-443e-ae59-4c59d2c3718f",
-      "title": "Geospatial Surveying"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Geospatial Engineering",
     "Hydrography",
@@ -221,15 +203,40 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "",
-  "pathway": "Design, Surveying & Planning",
-  "cluster": "Design & Surveying Professional",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2017-11-14T17:09:27 +00:00",
   "lastUpdated": "2022-09-21T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/geospatial-mapping-and-science-specialist-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/geospatial-mapping-and-science-specialist-degree-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "94ad6456-80d5-46a0-88ab-3b01a545a6f7",
+      "title": "Geospatial Engineering",
+      "occupationCode": null
+    },
+    {
+      "optionId": "72a25b2d-1045-42ff-a7b6-4193b60c7f6a",
+      "title": "Hydrography",
+      "occupationCode": null
+    },
+    {
+      "optionId": "f95f2668-a9b2-440b-a4cf-318bbd57e420",
+      "title": "Utilities",
+      "occupationCode": null
+    },
+    {
+      "optionId": "e0761a9d-0b8f-443e-ae59-4c59d2c3718f",
+      "title": "Geospatial Surveying",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
