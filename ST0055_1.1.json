@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/72",
   "versionNumber": "1.1",
   "change": "Occupation standard, end-point assessment plan and funding band revised.",
-  "changedDate": "2023-10-18T00:00:00Z",
-  "earliestStartDate": "2023-10-18T00:00:00Z",
+  "changedDate": "2023-10-18T00:00:00",
+  "earliestStartDate": "2023-10-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Producing tailored garments that are cut and made to a unique pattern for an individual.",
@@ -375,16 +375,6 @@
       "detail": "Inspect the quality of construction during the bespoke process."
     }
   ],
-  "options": [
-    {
-      "optionId": "8ea85eac-7a7b-4615-b454-984ca38a4f8b",
-      "title": "Cutter"
-    },
-    {
-      "optionId": "80dc5ab0-0d28-4e48-b64a-524af5bfb4c3",
-      "title": "Tailor"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Cutter",
     "Tailor"
@@ -418,8 +408,11 @@
   "reviewDetails": "",
   "pathway": "Craft and Design",
   "cluster": "Heritage Specialist",
+  "clusterId": "182",
+  "clusterDescription": "A specialist in using traditional hand craft skills to shape and sculpt natural materials.",
   "createdDate": "2023-10-18T11:15:40 +00:00",
   "lastUpdated": "2023-10-18T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/bespoke-cutter-and-tailor-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/bespoke-cutter-and-tailor-v1-1",
   "qualifications": [],
@@ -440,7 +433,7 @@
         "1a3bb614-a83f-407e-9d63-2485efd27c37",
         "21805cc3-6c53-4ab0-bea4-5329ac61c520"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "58823250-a3e1-4916-b26d-04884be463b7",
         "0dfba2b5-c32d-4e49-afe7-ad1ec0c429e9"
@@ -458,7 +451,7 @@
         "805deb95-f382-4ad0-aa92-8ab627148ded",
         "07937cd1-943b-4bfd-9b07-72f7853f7354"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f743dab7-586f-4e1f-b6bf-52a48ff8512e",
         "c0ee9b23-a52b-4830-bc45-090c38983c81",
@@ -477,7 +470,7 @@
         "7c73994c-7e0f-4457-84f3-e78ede63327e",
         "7738d353-38c7-4dff-bb91-649be2327824"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f56b4b1a-8394-44eb-9b2c-0fc7536c9412",
         "a402230b-8dd8-4ad8-9d2d-cc90f1dcc1ec"
@@ -495,7 +488,7 @@
         "bc1b790c-5445-478c-aaac-d43874711180",
         "31059ffd-cb4b-4e39-961a-ad7f52e9826d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9abd558e-4505-450d-bd9a-91dfd93c9c7f",
         "1413d757-3c84-4739-9c55-2e7847154a62"
@@ -513,7 +506,7 @@
         "25584c3c-9ae6-4fd2-8444-0f7afc08dc5d",
         "ba106058-7de7-42e8-b7d8-17f67f152108"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e4716b94-421b-4612-ab75-9dcc0ec59d03"
       ],
@@ -523,9 +516,9 @@
       "dutyID": "956cf07f-45aa-472a-ac03-b05e4b5dc896",
       "dutyDetail": "Prepare, test and use hand tools, machinery and other equipment to enable the formation of the bespoke garment.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
-      "mappedKnowledge": null,
-      "mappedOptions": null,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
       "mappedSkills": [
         "44632e9f-1e75-4007-bd5d-e838c7e2c081",
         "42eda83b-7d3e-4cfa-93a9-351600569883"
@@ -544,7 +537,7 @@
         "943a8463-34a5-4cd9-9dec-7fdaf0e09eaa",
         "74f449e5-b565-47da-8f35-aae156139d6f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65ef9589-935a-4df5-9577-72a72287b8bd"
       ],
@@ -563,7 +556,7 @@
         "eae35b79-e55a-45dc-ae25-7b3f86379f9d",
         "db182464-832a-43ba-9b7a-66006d002824"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e10fb8a6-52b6-4617-acee-b77d5214136b",
         "74afa3db-11c9-44eb-ab62-78f98c7ca184"
@@ -580,7 +573,7 @@
       "mappedKnowledge": [
         "f704a526-2355-4228-915b-1d642771fe10"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3168bc6f-3629-40d7-a70c-fb3040440f35"
       ],
@@ -612,7 +605,7 @@
       "dutyID": "1c017e6e-ede3-463f-90ac-35d01ce9d8a8",
       "dutyDetail": "Liaise with suppliers to order and recommend cloth, materials and trimmings ensuring timely provision. Control items, stock, products and suitably store these to maintain their fitness for use.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "ed4b8408-001d-4e1a-8210-2849df46f0e7",
         "820b0a45-ae4f-49e9-b6d2-6c37095fc853"
@@ -630,7 +623,7 @@
       "dutyID": "1d4fdc82-7958-449f-a221-2f9e7909c035",
       "dutyDetail": "Quality check bespoke components, cloth, materials and trimmings before the bespoke tailoring process begins. For example, the number of components, cloth and material quality, pattern match and trimmings.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "962d332b-c0bf-4b8e-b4c9-7117e9515bf8",
         "2ae66053-43b9-46ae-8b18-47cf1498c2b2"
@@ -711,7 +704,7 @@
       "dutyID": "00824364-b76a-4d0e-92b0-ab19bbbe6d2f",
       "dutyDetail": "Apply a variety of preparation, sewing, handling techniques and construction methods to assemble and finish bespoke garments or parts of bespoke garments that meet quality requirements.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "699f9844-6d74-45ba-a377-a38cc1af85c2",
         "5d8c2133-96be-4e0e-8565-4b742dc2ae97",
@@ -737,7 +730,7 @@
       "dutyID": "a3aed542-618f-4d13-8274-77eb6873b735",
       "dutyDetail": "Inspect finished bespoke garment against quality standards and bespoke specification.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "9ec9f1c9-ee0f-43ba-8dfc-93d88f232ea6"
       ],
@@ -748,6 +741,18 @@
         "caf30bb9-174b-475e-ad7e-ca1c221dd552"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "8ea85eac-7a7b-4615-b454-984ca38a4f8b",
+      "title": "Cutter",
+      "occupationCode": null
+    },
+    {
+      "optionId": "80dc5ab0-0d28-4e48-b64a-524af5bfb4c3",
+      "title": "Tailor",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
