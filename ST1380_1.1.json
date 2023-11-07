@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/695",
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised",
-  "changedDate": "2023-09-12T00:00:00Z",
-  "earliestStartDate": "2023-09-12T00:00:00Z",
+  "changedDate": "2023-09-12T00:00:00",
+  "earliestStartDate": "2023-09-12T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Assessing vocational learners, usually on a one-to-one basis, in a range of learning environments.",
@@ -161,7 +161,6 @@
       "detail": "Identify and implement professional development opportunities to maintain occupational competency, including sustainable practice and digital literacy."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -193,8 +192,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Education and Childcare",
   "cluster": "Primary/Secondary/Tertiary Teaching and Support Assistant",
+  "clusterId": "176",
+  "clusterDescription": "Supports the development of a students' learning skills, behaviours and overall knowledge both one-to-one and in a small group",
   "createdDate": "2023-09-15T14:34:12 +00:00",
   "lastUpdated": "2023-09-12T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/learning-and-skills-assessor-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/learning-and-skills-assessor-v1-1",
   "qualifications": [],
@@ -217,7 +219,7 @@
         "bfbecdf5-5297-437e-ae7a-41bf8aae26d0",
         "65893bd1-c27a-4700-b22b-c29c256127b3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bb83a7f3-5a0f-4fe8-b788-2b1a1981f6db",
         "b2f1afbf-73a0-4e8b-be0e-a1f2d7ccaff9",
@@ -241,7 +243,7 @@
         "286c4c2c-e355-4ccc-bb51-eb4826f8b1e5",
         "9138f79f-22ef-4088-a27b-c98151a15e66"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2399da39-64b6-4c47-a79d-b951a3d535ba",
         "50eb6a72-8dd8-43d6-b4bb-207a5116024a"
@@ -264,7 +266,7 @@
         "705426b5-81e5-4e1d-bd6b-908285444d33",
         "61c545a4-5fb8-4725-a955-7d4e12e9fc57"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7d888557-288c-4f45-8898-9d6122a9f63f"
       ],
@@ -285,7 +287,7 @@
         "286c4c2c-e355-4ccc-bb51-eb4826f8b1e5",
         "047b4425-a6fd-4a18-8d85-150c4b61bbed"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7e1b114a-f1d9-449b-84b4-4acec14894fb"
       ],
@@ -310,7 +312,7 @@
         "047b4425-a6fd-4a18-8d85-150c4b61bbed",
         "596047c4-510b-413e-bfe4-aeb88ae12dc4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bb83a7f3-5a0f-4fe8-b788-2b1a1981f6db",
         "6f83e79a-e983-409c-82fc-7375449fd1cc",
@@ -332,7 +334,7 @@
       "mappedKnowledge": [
         "0497c909-081a-4e33-afdc-9b59a8940260"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9b3470f3-78bc-4e9d-824b-7915d3945aed"
       ],
@@ -352,7 +354,7 @@
         "65893bd1-c27a-4700-b22b-c29c256127b3",
         "57c04da6-07aa-44aa-b877-303b72d34c5b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6f83e79a-e983-409c-82fc-7375449fd1cc",
         "721b1e2a-478c-46a8-8a55-84bcfeb459c5"
@@ -372,7 +374,7 @@
       "mappedKnowledge": [
         "e40d4058-aaba-479e-8e88-4dac3e3a2093"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bb83a7f3-5a0f-4fe8-b788-2b1a1981f6db",
         "abaa05cc-eaa8-46fa-8880-fdc3c512b904"
@@ -392,13 +394,14 @@
       "mappedKnowledge": [
         "2fbf39a9-cffe-418b-bd4e-8f52494e7b7b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "662324c6-e095-490e-8e48-adbfea6cc6bb"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
