@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/572",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-05-31T00:00:00Z",
-  "earliestStartDate": "2020-07-10T00:00:00Z",
+  "changedDate": "2022-05-31T00:00:00",
+  "earliestStartDate": "2020-07-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Consult with and provide technical advice to farmers and growers to help them support their crop husbandry, based on latest scientific thinking, environmental requirements and in line with legislation and policy.",
@@ -412,16 +412,6 @@
       "detail": "Engage with the sprayer operator of each Farmer or Grower client (as part of NPTC’s operator training requirement to earn CPD points) and share the rationale about the recommendations and inputs made which the sprayer operator subsequently applied to the crops"
     }
   ],
-  "options": [
-    {
-      "optionId": "8e6474f8-d258-4dad-be44-d0eaa7039a9a",
-      "title": "Agronomy and precision farming adviser"
-    },
-    {
-      "optionId": "8a7bcca0-a999-4306-89b7-4ba3c8c72227",
-      "title": "Nutrition and fertiliser adviser"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -456,8 +446,11 @@
   "reviewDetails": "&lt;p&gt;This standard will be reviewed after three years.&lt;/p&gt;",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Agricultural Professional",
+  "clusterId": "155",
+  "clusterDescription": "Provide expert technical support to agricultural business",
   "createdDate": "2019-06-28T07:55:05 +00:00",
   "lastUpdated": "2022-05-31T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/agriculture-or-horticulture-professional-adviser-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/agriculture-or-horticulture-professional-adviser-v1-0",
   "qualifications": [
@@ -501,7 +494,7 @@
         "508c51ca-a167-428e-aded-2c6ef6c15bb4",
         "6786546b-465b-4da6-81ac-6c2a11bd7ceb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e3ee3a9-88be-4320-9bdc-2dd79c078d65",
         "2d5f7ba9-e71f-44e6-932e-8745e93af720",
@@ -536,7 +529,7 @@
         "6e634309-430a-4501-97e9-fe815cd83569",
         "cfd6d031-8d1d-4ea8-b3a2-81a77b525830"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e3ee3a9-88be-4320-9bdc-2dd79c078d65",
         "7bca59a2-b6ae-489b-aefc-83bc2a3282b1",
@@ -570,7 +563,7 @@
         "6e634309-430a-4501-97e9-fe815cd83569",
         "cfd6d031-8d1d-4ea8-b3a2-81a77b525830"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e3ee3a9-88be-4320-9bdc-2dd79c078d65",
         "2d5f7ba9-e71f-44e6-932e-8745e93af720",
@@ -598,7 +591,7 @@
         "67d4bf1f-9e1a-41b1-965b-f34bdced98c2",
         "fc70b16d-ac2e-466d-ba66-964f1df9423b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bda6e035-9e2c-473c-9aac-c923f5eef2cc",
         "a18f9688-e3cf-4ec8-a802-4262069a6f23",
@@ -627,7 +620,7 @@
         "2d1df54e-ffbc-48be-a091-1675c46c3a27",
         "c505fcda-bf62-4567-a9a4-ba449f82cf51"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e3ee3a9-88be-4320-9bdc-2dd79c078d65",
         "bda6e035-9e2c-473c-9aac-c923f5eef2cc",
@@ -662,7 +655,7 @@
         "f864a3b0-d9d2-415f-9adf-415ff4d6d8df",
         "637bdbe7-a377-4213-9956-a2c72513634b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e3ee3a9-88be-4320-9bdc-2dd79c078d65",
         "12666701-dbe1-4003-b121-c4d24bd73a47",
@@ -686,7 +679,7 @@
         "c10fc5e1-9a03-4b2c-a1c6-b96c5b2ea223",
         "4ba02bad-983d-49bf-a559-3acba295d5a9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "afdcad72-563e-4fbe-b42c-e60fe3b30bc9",
         "a9c45493-a38a-4374-ac05-b30e9c28b8fc",
@@ -718,7 +711,7 @@
         "04dd090c-32c7-4ebe-9e9d-ffb5a4a3d0f6",
         "4ba02bad-983d-49bf-a559-3acba295d5a9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aca80c16-a2dc-4a63-bad9-3ab2301caa34",
         "12666701-dbe1-4003-b121-c4d24bd73a47",
@@ -756,7 +749,7 @@
         "a5e23faa-eac1-4268-a989-b1220930576e",
         "7a2ec98e-f32e-4045-8323-74a8d29b93fc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e3ee3a9-88be-4320-9bdc-2dd79c078d65",
         "2d5f7ba9-e71f-44e6-932e-8745e93af720",
@@ -790,7 +783,7 @@
         "4414aeef-4329-46e4-8528-9fcbbe77c0a8",
         "3aa4d011-0382-45bf-b704-e9d14cd78b29"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e3ee3a9-88be-4320-9bdc-2dd79c078d65",
         "25492ac6-0e72-45a7-b1c7-8b01d983f1e8",
@@ -903,6 +896,18 @@
         "ebb794d8-1964-4b3e-89d5-d6b48fda2ca4"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "8e6474f8-d258-4dad-be44-d0eaa7039a9a",
+      "title": "Agronomy and precision farming adviser",
+      "occupationCode": null
+    },
+    {
+      "optionId": "8a7bcca0-a999-4306-89b7-4ba3c8c72227",
+      "title": "Nutrition and fertiliser adviser",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
