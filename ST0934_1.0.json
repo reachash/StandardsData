@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/622",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-08-22T00:00:00Z",
-  "earliestStartDate": "2021-05-20T00:00:00Z",
+  "changedDate": "2022-08-22T00:00:00",
+  "earliestStartDate": "2021-05-20T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Be a social conscience for the organisation, helping innovate and drive ambitions for social and environmental change.",
@@ -279,7 +279,6 @@
       "detail": "Identify and apply relevant IT solutions to CR&S issues. "
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -330,8 +329,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Management and Administration",
   "cluster": "Business Manager",
+  "clusterId": "25",
+  "clusterDescription": "Lead and manage a project (business/process improvement), business support services and/or run a practice using the full range of business systems, procedures and accounting practice. Includes the ability to set-up and develop a new business",
   "createdDate": "2021-01-22T09:53:13 +00:00",
   "lastUpdated": "2022-08-22T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/corporate-responsibility-and-sustainability-practitioner-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/corporate-responsibility-and-sustainability-practitioner-v1-0",
   "qualifications": [],
@@ -359,7 +361,7 @@
         "a94b9d54-5294-4c8a-839e-29695ff74741",
         "82aa43ed-3998-49fc-be38-228d9a8e3186"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1e8874ca-6cd9-4bdd-8043-23269b3c5b52",
         "cd4cb66f-ad3a-4b3f-9728-5c6f36922877",
@@ -393,7 +395,7 @@
         "80d7c260-39e3-4da8-90ce-87892128205f",
         "65a47df3-be20-491c-95df-81caaa7e894b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bdf06290-ee62-4eb1-bd17-2b132d905a74",
         "78adaf50-68a3-41c6-a6d1-00277dc7fe56",
@@ -422,7 +424,7 @@
         "80d7c260-39e3-4da8-90ce-87892128205f",
         "65a47df3-be20-491c-95df-81caaa7e894b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "78adaf50-68a3-41c6-a6d1-00277dc7fe56",
         "cecf730e-2910-46a4-b781-748c088d7db9",
@@ -449,7 +451,7 @@
         "7f71c9ef-66d3-4b1d-9b78-f1395fe92f40",
         "695fe6f7-60b9-41a0-81c3-5025f0158517"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cd4cb66f-ad3a-4b3f-9728-5c6f36922877",
         "1d694aec-4821-4d10-9950-15dbeef3fbfb",
@@ -483,7 +485,7 @@
         "55cf9060-c88d-405d-8eba-5c5ea5f2fa2f",
         "d4b6c923-3453-4a5c-a80a-2ba838529178"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cd4cb66f-ad3a-4b3f-9728-5c6f36922877",
         "bdf06290-ee62-4eb1-bd17-2b132d905a74",
@@ -498,7 +500,7 @@
       "dutyID": "777d82f7-ebb8-4539-b1a3-dbb3a2a9703b",
       "dutyDetail": "Collect and input CR&S data from across the business in order to contribute said data to industry and mandatory reporting requirements e.g. Modern Slavery Act, Gender Pay Gap etc.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "72d7fc80-ddc5-44fb-91ec-538d5bc2178f",
         "a00e3244-5fcc-406e-bd9d-e0e38aceab44",
@@ -506,7 +508,7 @@
         "14c27eb8-a411-431e-9c94-66cc1a081c79",
         "5159ee07-134c-4b31-a2c8-43abb4c0034a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "70c92caa-4e53-4e08-81f6-725ca5b5c494",
         "dc40b67c-1a1d-4848-9794-43b9eb6e9bda",
@@ -537,7 +539,7 @@
         "a94b9d54-5294-4c8a-839e-29695ff74741",
         "82aa43ed-3998-49fc-be38-228d9a8e3186"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1e8874ca-6cd9-4bdd-8043-23269b3c5b52",
         "cd4cb66f-ad3a-4b3f-9728-5c6f36922877",
@@ -570,7 +572,7 @@
         "82aa43ed-3998-49fc-be38-228d9a8e3186",
         "55cf9060-c88d-405d-8eba-5c5ea5f2fa2f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1e8874ca-6cd9-4bdd-8043-23269b3c5b52",
         "cecf730e-2910-46a4-b781-748c088d7db9",
@@ -600,7 +602,7 @@
         "7531597b-aa0c-4efb-b72d-c65fbff67024",
         "55cf9060-c88d-405d-8eba-5c5ea5f2fa2f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cd4cb66f-ad3a-4b3f-9728-5c6f36922877",
         "70c92caa-4e53-4e08-81f6-725ca5b5c494",
@@ -630,7 +632,7 @@
         "7531597b-aa0c-4efb-b72d-c65fbff67024",
         "55cf9060-c88d-405d-8eba-5c5ea5f2fa2f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "78adaf50-68a3-41c6-a6d1-00277dc7fe56",
         "1d694aec-4821-4d10-9950-15dbeef3fbfb",
@@ -658,7 +660,7 @@
         "5159ee07-134c-4b31-a2c8-43abb4c0034a",
         "82aa43ed-3998-49fc-be38-228d9a8e3186"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9cce563-ca2c-41dd-bad0-60be209113df",
         "cecf730e-2910-46a4-b781-748c088d7db9",
@@ -689,7 +691,7 @@
         "65a47df3-be20-491c-95df-81caaa7e894b",
         "695fe6f7-60b9-41a0-81c3-5025f0158517"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bdf06290-ee62-4eb1-bd17-2b132d905a74",
         "78adaf50-68a3-41c6-a6d1-00277dc7fe56",
@@ -719,7 +721,7 @@
         "65a47df3-be20-491c-95df-81caaa7e894b",
         "7531597b-aa0c-4efb-b72d-c65fbff67024"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9cce563-ca2c-41dd-bad0-60be209113df",
         "1d694aec-4821-4d10-9950-15dbeef3fbfb",
@@ -748,7 +750,7 @@
         "7531597b-aa0c-4efb-b72d-c65fbff67024",
         "695fe6f7-60b9-41a0-81c3-5025f0158517"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "78adaf50-68a3-41c6-a6d1-00277dc7fe56",
         "cecf730e-2910-46a4-b781-748c088d7db9",
@@ -773,7 +775,7 @@
       "mappedKnowledge": [
         "9a789d4f-622e-4cb9-bbd1-b5ec2286c115"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "15e5414f-cae5-49c0-9684-524b58f1781d",
         "a5d8b4f7-2164-4757-a79b-4151cb63d13d",
@@ -782,6 +784,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
