@@ -7,7 +7,7 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/0",
   "versionNumber": "",
   "change": "",
-  "changedDate": "2021-05-27T00:00:00Z",
+  "changedDate": "2021-05-27T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
@@ -209,7 +209,6 @@
       "detail": "Recover an asset when the evidence requires it."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -245,8 +244,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Financial",
   "cluster": "Financial Services Customer Advisor",
+  "clusterId": "242",
+  "clusterDescription": "Handle enquiries coming directly from customers in all forms across a range of financial products and services and suppor sales generation using product/service specialisms commonly driven by regulations",
   "createdDate": "2020-10-08T08:26:26 +00:00",
   "lastUpdated": "2021-05-27T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/asset-finance-practitioner?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/asset-finance-practitioner",
   "qualifications": [],
@@ -272,7 +274,7 @@
         "f652bfb8-a40c-41d9-ac53-794671b349cd",
         "6e57f663-1689-44db-8370-0e9691da62d9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "75941089-d596-443c-b053-91c061e78028",
         "8607c410-3178-4ff1-93f2-81d385a68eb7",
@@ -300,7 +302,7 @@
         "6bbd6d8e-38b9-4d95-99a4-7d568f72e3df",
         "b63406f4-dbb4-4cdd-a8d4-110552649533"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "75941089-d596-443c-b053-91c061e78028",
         "f1251799-65cb-4cf4-86a8-3dd6d895551f",
@@ -329,7 +331,7 @@
         "b63406f4-dbb4-4cdd-a8d4-110552649533",
         "c122b9ba-ffcb-49a1-ad27-3ce86474eda0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f1251799-65cb-4cf4-86a8-3dd6d895551f",
         "8607c410-3178-4ff1-93f2-81d385a68eb7",
@@ -356,7 +358,7 @@
         "6bbd6d8e-38b9-4d95-99a4-7d568f72e3df",
         "f652bfb8-a40c-41d9-ac53-794671b349cd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8607c410-3178-4ff1-93f2-81d385a68eb7",
         "47a4e42a-538e-4a65-82cb-c64a1ebcd5bc",
@@ -378,7 +380,7 @@
         "b63406f4-dbb4-4cdd-a8d4-110552649533",
         "f652bfb8-a40c-41d9-ac53-794671b349cd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8607c410-3178-4ff1-93f2-81d385a68eb7",
         "47a4e42a-538e-4a65-82cb-c64a1ebcd5bc",
@@ -406,7 +408,7 @@
         "6e57f663-1689-44db-8370-0e9691da62d9",
         "eb5f7a60-ff68-4436-ad33-a6cf0436514a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e1645a60-127f-40d6-b379-15e68c572e8b",
         "8e40acf2-b4dd-490a-9383-40d8db0dd995",
@@ -429,7 +431,7 @@
         "f652bfb8-a40c-41d9-ac53-794671b349cd",
         "0d95cacd-8170-4a73-9327-9c650a7b3fcb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f1251799-65cb-4cf4-86a8-3dd6d895551f",
         "153028a1-d961-4f2b-8d0a-6af990a73119",
@@ -452,7 +454,7 @@
         "f652bfb8-a40c-41d9-ac53-794671b349cd",
         "0d95cacd-8170-4a73-9327-9c650a7b3fcb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "153028a1-d961-4f2b-8d0a-6af990a73119",
         "a2f3d992-2d23-4ca5-9ef4-577f8f4e127b",
@@ -479,7 +481,7 @@
         "6e57f663-1689-44db-8370-0e9691da62d9",
         "0d95cacd-8170-4a73-9327-9c650a7b3fcb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "75941089-d596-443c-b053-91c061e78028",
         "f1251799-65cb-4cf4-86a8-3dd6d895551f",
@@ -511,7 +513,7 @@
         "0d95cacd-8170-4a73-9327-9c650a7b3fcb",
         "eb5f7a60-ff68-4436-ad33-a6cf0436514a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "75941089-d596-443c-b053-91c061e78028",
         "f1251799-65cb-4cf4-86a8-3dd6d895551f",
@@ -540,7 +542,7 @@
         "c122b9ba-ffcb-49a1-ad27-3ce86474eda0",
         "eb5f7a60-ff68-4436-ad33-a6cf0436514a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "75941089-d596-443c-b053-91c061e78028",
         "8607c410-3178-4ff1-93f2-81d385a68eb7",
@@ -568,7 +570,7 @@
         "6e57f663-1689-44db-8370-0e9691da62d9",
         "9fb4de4d-3b85-4c1c-a3a1-42156155122a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "75941089-d596-443c-b053-91c061e78028",
         "8e40acf2-b4dd-490a-9383-40d8db0dd995",
@@ -578,6 +580,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
