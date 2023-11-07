@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/273",
   "versionNumber": "1.2",
   "change": "End-point assessment plan. funding and standard revised.",
-  "changedDate": "2023-06-29T00:00:00Z",
-  "earliestStartDate": "2023-06-29T00:00:00Z",
+  "changedDate": "2023-06-29T00:00:00",
+  "earliestStartDate": "2023-06-29T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Erecting, altering and dismantling scaffolding, to allow other trades to work safely at height from secure working platforms.",
@@ -287,7 +287,6 @@
       "detail": "Follow equity, diversity and inclusion guidelines."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -315,10 +314,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "",
-  "pathway": "Onsite Construction",
-  "cluster": "Construction Specialist Operative/Technician",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2023-05-30T07:55:09 +00:00",
   "lastUpdated": "2023-06-29T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/scaffolder-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/scaffolder-v1-2",
   "qualifications": [
@@ -386,7 +388,7 @@
         "7e9b305a-28b8-4989-b0af-6d2ac13ce10c",
         "73b52438-0be9-4556-974b-3336994a3f16"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a92a7e69-35f3-4e82-b31c-4a5f68392c68",
         "e9f4d73d-0a83-4a69-a483-9f4d3204455d",
@@ -413,7 +415,7 @@
       "dutyID": "c4336599-d327-4855-a2b2-00623a864bc3",
       "dutyDetail": "Check and maintain tools equipment and components before and after use to erect, alter and dismantle scaffolding; and store them.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "da71efda-4da8-463f-8e59-686c54feeed9",
         "0a4bad21-91f8-40d7-9591-040d87dd7666",
@@ -422,7 +424,7 @@
         "9262926b-0f68-4525-9a18-220d61bffb9f",
         "9abc3bf8-cdc7-4b9d-ac79-fa06f96b307a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "07ffd94e-6fb3-4d7a-858e-167c1e962910",
         "219a8e66-0bd4-44b0-a77a-624a884d2e02",
@@ -454,7 +456,7 @@
         "a9842080-a389-423f-a97b-98f55c668575",
         "7e9b305a-28b8-4989-b0af-6d2ac13ce10c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d319306d-174f-492d-a1aa-f19464fedfb7",
         "219a8e66-0bd4-44b0-a77a-624a884d2e02",
@@ -497,7 +499,7 @@
         "cbcacfa5-e218-44f8-8c86-6b1243d05ad9",
         "7e9b305a-28b8-4989-b0af-6d2ac13ce10c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e9f4d73d-0a83-4a69-a483-9f4d3204455d",
         "d319306d-174f-492d-a1aa-f19464fedfb7",
@@ -519,7 +521,7 @@
       "dutyID": "eec53eb8-6acb-4c28-9247-ec7ac1b8803f",
       "dutyDetail": "Maintain a clear and tidy workspace and ensure that waste materials are disposed of in accordance with current legislation and sustainably.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "da71efda-4da8-463f-8e59-686c54feeed9",
         "0a4bad21-91f8-40d7-9591-040d87dd7666",
@@ -531,7 +533,7 @@
         "a9842080-a389-423f-a97b-98f55c668575",
         "94087b30-efae-4c64-b0b1-e2800faf4c2a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a92a7e69-35f3-4e82-b31c-4a5f68392c68",
         "6aac212e-8326-4c99-8ce0-7886ac8baa7b",
@@ -545,7 +547,7 @@
       "dutyID": "38ea924c-76cc-49b8-bc90-2ad9f4de176b",
       "dutyDetail": "Undertake appropriate inspection of finished ready for use scaffold structures and take remedial action.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "da71efda-4da8-463f-8e59-686c54feeed9",
         "0a4bad21-91f8-40d7-9591-040d87dd7666",
@@ -557,7 +559,7 @@
         "e2588647-60ab-4ce6-8a60-2924cfc7b858",
         "73b52438-0be9-4556-974b-3336994a3f16"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "655c2215-230e-4d72-99dc-4d0e65519070"
       ],
@@ -567,7 +569,7 @@
       "dutyID": "4defe338-c8e7-49ca-a202-5c68db2cab73",
       "dutyDetail": "Complete accurate records of work undertaken in accordance with company policies and procedures.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "804370db-611e-4a5a-b50d-dcbe7810e94f",
         "be3a1d60-0f29-4ab4-a712-56a8cdda3124",
@@ -578,7 +580,7 @@
         "7e9b305a-28b8-4989-b0af-6d2ac13ce10c",
         "73b52438-0be9-4556-974b-3336994a3f16"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "61115b08-33a1-48cc-9124-6a9f97e4e755"
       ],
@@ -599,7 +601,7 @@
         "a8711399-45d1-4522-9de3-d826ea587867",
         "7e9b305a-28b8-4989-b0af-6d2ac13ce10c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9017250d-6a54-49a3-a9e4-83ea32d66469",
         "66d6b867-dd81-4769-8c9c-341bfaa6f44b",
@@ -626,7 +628,7 @@
         "8622e9a5-a7b7-46d9-b35b-02b59856984c",
         "982599ca-5495-4a0d-bb1b-a99c1aaa2a73"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fc674ba6-6431-4579-a718-957dc6cfdbc0",
         "66d6b867-dd81-4769-8c9c-341bfaa6f44b",
@@ -648,11 +650,12 @@
         "982599ca-5495-4a0d-bb1b-a99c1aaa2a73",
         "afd5b5b0-567e-4408-b5e5-6048ecbec6f9"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
