@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/148",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-11-22T00:00:00Z",
-  "earliestStartDate": "2016-10-31T00:00:00Z",
+  "changedDate": "2022-11-22T00:00:00",
+  "earliestStartDate": "2016-10-31T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Managing credit and collecting debt for businesses and other organisation.",
@@ -126,20 +126,6 @@
       "detail": "Analysis and decision making: Able to review and analyse the customer’s situation and make decisions on appropriate enforcement and/or recovery action in line with regulatory and organisational requirements. Takes decisions that maximise the outcome for the organisation and are appropriate given the customer’s engagement."
     }
   ],
-  "options": [
-    {
-      "optionId": "cc380f7a-cd51-4f97-a9e2-98c5fe073f79",
-      "title": "Advance Collections"
-    },
-    {
-      "optionId": "28301764-99ab-4f09-be91-3d117e7a14a8",
-      "title": "Credit Risk"
-    },
-    {
-      "optionId": "7002d32c-c4c8-462b-a59a-171c0592f06d",
-      "title": "Enforcement and Recovery"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Advance Collections",
     "Credit Risk",
@@ -175,13 +161,33 @@
   "reviewDetails": "",
   "pathway": "Financial",
   "cluster": "Financial Services Administrator",
+  "clusterId": "240",
+  "clusterDescription": "Provide highly accurate support to operations and administration across wide areas of financial service areas including research and analysis compliant with relevant regulations. Deliver support to clients and to client account management (risk, collection, enforcement, recovery)",
   "createdDate": "2017-09-22T14:24:54 +00:00",
   "lastUpdated": "2022-11-22T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/advanced-credit-controller-and-debt-collection-specialist-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/advanced-credit-controller-and-debt-collection-specialist-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "cc380f7a-cd51-4f97-a9e2-98c5fe073f79",
+      "title": "Advance Collections",
+      "occupationCode": null
+    },
+    {
+      "optionId": "28301764-99ab-4f09-be91-3d117e7a14a8",
+      "title": "Credit Risk",
+      "occupationCode": null
+    },
+    {
+      "optionId": "7002d32c-c4c8-462b-a59a-171c0592f06d",
+      "title": "Enforcement and Recovery",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
