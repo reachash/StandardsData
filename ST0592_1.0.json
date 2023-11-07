@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/394",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2018-12-17T00:00:00Z",
-  "earliestStartDate": "2018-12-17T00:00:00Z",
+  "changedDate": "2018-12-17T00:00:00",
+  "earliestStartDate": "2018-12-17T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Delivering a variety of operations and services that include vessel handling.",
@@ -272,24 +272,6 @@
       "detail": "Complete relevant maintenance and repair logs, including the effective planning for scheduled maintenance work whilst managing the impact of customer needs and vessel movements."
     }
   ],
-  "options": [
-    {
-      "optionId": "ccf2a4e9-18fc-4061-9cf4-46d26dd57063",
-      "title": "Chandlery & Retail"
-    },
-    {
-      "optionId": "5acef4f7-6c0c-4bac-8b07-047e659f89ed",
-      "title": "Fuel & Pump Out"
-    },
-    {
-      "optionId": "0e24eacc-9444-454d-8e7b-5ea1f84eb594",
-      "title": "Lock & Bridge Operation"
-    },
-    {
-      "optionId": "50ea6f52-6646-4d84-85ff-59e1f5702f67",
-      "title": "Rigging"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Chandlery & Retail",
     "Fuel & Pump Out",
@@ -322,13 +304,38 @@
   "reviewDetails": "",
   "pathway": "Transport",
   "cluster": "Transport Operations Operative/Technician",
+  "clusterId": "16",
+  "clusterDescription": "Support a transport facility's operation and/or support the loading and movement of a freight or passenger vehicle or vessel",
   "createdDate": "2017-11-14T17:10:35 +00:00",
   "lastUpdated": "2018-12-17T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/marina-and-boatyard-operative-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/marina-and-boatyard-operative-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "ccf2a4e9-18fc-4061-9cf4-46d26dd57063",
+      "title": "Chandlery & Retail",
+      "occupationCode": null
+    },
+    {
+      "optionId": "5acef4f7-6c0c-4bac-8b07-047e659f89ed",
+      "title": "Fuel & Pump Out",
+      "occupationCode": null
+    },
+    {
+      "optionId": "0e24eacc-9444-454d-8e7b-5ea1f84eb594",
+      "title": "Lock & Bridge Operation",
+      "occupationCode": null
+    },
+    {
+      "optionId": "50ea6f52-6646-4d84-85ff-59e1f5702f67",
+      "title": "Rigging",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
