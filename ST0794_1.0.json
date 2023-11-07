@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/387",
   "versionNumber": "1.0",
   "change": "Retired. The funding band for this standard has been reviewed and remains at £27000 (2020-05-20)",
-  "changedDate": "2021-11-10T00:00:00Z",
-  "earliestStartDate": "2018-12-05T00:00:00Z",
-  "latestStartDate": "2021-11-09T00:00:00Z",
+  "changedDate": "2021-11-10T00:00:00",
+  "earliestStartDate": "2018-12-05T00:00:00",
+  "latestStartDate": "2021-11-09T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Giving the necessary support, care and advice during pregnancy, labour and the postnatal period.",
   "level": 6,
@@ -477,7 +477,6 @@
       "detail": "Supervise or monitor the work of other members of the team"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "2019-10-10T00:00:00 +00:00",
   "standardApproved": "2019-10-10T00:00:00 +00:00",
@@ -507,8 +506,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span style=&quot;color: #334047; font-family: &#39;Open Sans&#39;, Arial, sans-serif; font-size: 15px;&quot;&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Health",
   "cluster": "Midwifery and Nursing Professional",
+  "clusterId": "211",
+  "clusterDescription": "Assess, plan, implement and evaluate patient care in multiple settings with specialist expertise often working independently",
   "createdDate": "2020-01-07T10:57:47 +00:00",
   "lastUpdated": "2021-11-10T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/midwife-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/midwife-degree-v1-0",
   "qualifications": [
@@ -541,7 +543,7 @@
         "9c48544c-688e-4805-a356-a25022de76b4",
         "7c94b117-0876-4d05-b236-7ab1219907b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fa6979f1-016a-4f33-beb7-e4ed2ec2a3bc",
         "ea90b7d0-8681-4702-8c21-b6bbbc7a4197",
@@ -567,7 +569,7 @@
         "723042aa-1d4c-4cd8-ad6b-5c8dc16276e3",
         "c9d19692-4204-4a4b-8739-4ba65e4b524f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "36c27a58-d12d-41ff-ae5e-f6eaec2f88c6",
         "278b2de0-e07c-4cac-8f78-d3c80565b55d",
@@ -590,7 +592,7 @@
         "99491ccc-0ec4-4038-8ffb-0d6e7cd0dc19",
         "fcda4a93-8c85-4733-86ee-1ca3544edca1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b1c5396f-f65b-4513-92c9-22a2acf51d0b",
         "83077fa0-d68f-4db4-8e6a-e4749e3de99d",
@@ -620,7 +622,7 @@
         "850450a3-7073-48a2-b999-aa6daf0dddfa",
         "0151ad77-dc24-4613-958f-d88f20facb7d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9ae7b280-58dc-42c0-a1d6-049f922bc3c1",
         "604d7a1c-bd9f-4a64-873c-e067ffc35241",
@@ -646,7 +648,7 @@
         "7169b78d-1ea7-40fc-8579-995c21c85158",
         "15c680f8-9e8a-4a9b-8ebb-ecd44a89e44f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "acbf4540-0981-4ff5-9efd-3d82e1444e7e",
         "9a327f26-74d8-4177-ba3e-6af0d16d1847",
@@ -669,7 +671,7 @@
         "c3160dd4-829f-4128-8287-708b19ed91a7",
         "a6980b16-abc4-472e-b19a-6f95e47f0c2c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ac61a850-7220-4e1c-9cd9-e104c04c7967",
         "762475a1-f8b9-407c-ba96-46dc8ecf7c82"
@@ -692,7 +694,7 @@
         "04ee26c5-81c6-4f4c-894a-dcd8212974ad",
         "a560f215-5926-49a9-b781-963a82d83d7e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65ac7663-3b3b-425a-987c-e41083126c15",
         "97dc9d45-2654-4798-8a68-6b09d50d8bba",
@@ -717,7 +719,7 @@
         "aec0a4fe-0883-45a0-94d7-12926feb4442",
         "59e5f75e-edec-42ad-b39d-ad1e2ae0b45e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a92a0c4f-8d7f-4a29-a82c-915e2b0d6bb1",
         "d5f3ec24-b680-45cd-83c3-dfbf6a305e08",
@@ -741,7 +743,7 @@
         "f5a7410f-5cc9-4f03-8a79-cd959c1b0da9",
         "1c380313-c33d-4255-b0f2-0fcc77dfea11"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5774fbb0-2fc2-4d6c-b83f-0d4974615a91",
         "995318ac-db02-4502-ab3e-89adb1a9b424",
@@ -768,7 +770,7 @@
         "93e3eae2-8731-45e5-8230-18f9803bed86",
         "5696c194-7e39-4987-b8ca-7a7871aa5b57"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ab4ca081-afcc-4706-bc9a-f4d67cf0464d",
         "29a13432-84c2-4921-9618-3d6f8eb0b01e",
@@ -791,7 +793,7 @@
         "1df03040-5dde-4d36-8444-9db0d5088133",
         "2f3ff858-7443-49aa-aa2c-76fceeace3a9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "14306ec2-4854-49ed-a3d3-e1b3044ace36"
       ],
@@ -809,7 +811,7 @@
         "2f3ff858-7443-49aa-aa2c-76fceeace3a9",
         "4a5bfdf5-f33e-4811-bd02-d9ab77d1402f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d8d14643-cf5b-45b0-8c52-85c306f87071"
       ],
@@ -832,7 +834,7 @@
         "1bc018ea-13f4-4cd2-ada4-5f611b2710b4",
         "61aab3cc-b56c-4124-b0db-bf796a803c16"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d32ceaa4-e0e8-43c4-85ff-cb649ecc0208",
         "bc57dd25-fc6c-4e81-a421-a0666c8daea2",
@@ -842,6 +844,7 @@
       "criteriaForMeasuringPerformance": "Works in line with legislation, standards, codes of conduct, national and local policies and procedures relevant to practice as a midwife\n\nWorks in partnership with the woman, her partner, family and members of the multi-disciplinary\nteam"
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training provider",
