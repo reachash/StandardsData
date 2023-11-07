@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/14",
   "versionNumber": "1.1",
   "change": "Standard revised",
-  "changedDate": "2022-05-31T00:00:00Z",
-  "earliestStartDate": "2020-05-06T00:00:00Z",
-  "latestStartDate": "2020-08-04T00:00:00Z",
+  "changedDate": "2022-05-31T00:00:00",
+  "earliestStartDate": "2020-05-06T00:00:00",
+  "latestStartDate": "2020-08-04T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Providing routine and one-off testing and technical support in a scientific laboratory environment.",
   "level": 3,
@@ -243,7 +243,6 @@
       "detail": "Evaluate data, recognise and call attention to anomalous or unusual results"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -274,8 +273,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Science",
   "cluster": "Science Technician",
+  "clusterId": "102",
+  "clusterDescription": "Provide routine and non-routine laboratory testing, experimenting and support to a research brief",
   "createdDate": "2020-09-09T10:54:36 +00:00",
   "lastUpdated": "2022-05-31T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/laboratory-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/laboratory-technician-v1-1",
   "qualifications": [],
@@ -292,7 +294,7 @@
       "dutyID": "b18f8137-b2fc-496f-833f-eaa964ee8bc5",
       "dutyDetail": "Work safely in a laboratory, maintaining excellent housekeeping whilst following appropriate safety, environment and risk management systems.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "e95df32a-61bb-45a1-a811-792556488aab",
         "7509d2ea-64e6-4f5f-8f99-02d5f7c0802f",
@@ -302,7 +304,7 @@
         "2f620e22-1c13-4454-b513-ad53b9364b91",
         "62c76963-25f9-4eea-9176-9bde5fc00823"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "43f7b981-66ca-4569-a6f2-e61873f93249",
         "4f84f049-8c93-4537-9d61-e2ee78c267eb"
@@ -313,14 +315,14 @@
       "dutyID": "85451a39-4dc4-4dae-a3db-69577d26cd5c",
       "dutyDetail": "Follow quality procedures to meet the requirements of quality standards relevant to the workplace.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "910558e2-81a7-49ce-b755-8a7aa1be6ead",
         "6023cf42-1783-4052-9a86-a5a28793cb01",
         "b16a4d2f-1339-4335-8b8e-3d50b87ae80e",
         "620ca157-030f-4618-ae47-0fd3fb0797dd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d36271c1-6bdb-4072-a541-8ac859a7c64b",
         "b744468e-ea6e-4c6a-acb2-edd4f17e2ae2"
@@ -331,13 +333,13 @@
       "dutyID": "2236c88b-3af8-4613-9d41-e533b2b6a990",
       "dutyDetail": "Prepare for laboratory tasks using the appropriate scientific techniques, procedures and methods",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "3a0ed2ca-5b7f-419d-824c-b21d890a6c4f",
         "0d2a296c-27ca-463e-93af-85d75633bf9b",
         "f7c75b94-fa4c-4c7a-9884-da046ca90777"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7b487dfa-4dc8-4e87-833c-1f4170a2a88e",
         "05d12342-ea3b-4f1d-99b3-4c87e6978ef9",
@@ -360,7 +362,7 @@
         "910558e2-81a7-49ce-b755-8a7aa1be6ead",
         "b16a4d2f-1339-4335-8b8e-3d50b87ae80e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "079e7774-4a4f-4a28-9d59-7ccdf73f673a",
         "396db869-a236-404b-9b74-0ea9667f45bc"
@@ -371,12 +373,12 @@
       "dutyID": "17e95441-8fb8-41cf-91ea-9a56d339c0a4",
       "dutyDetail": "Use of specified instrumentation and laboratory equipment, including calibration where required.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "f7c75b94-fa4c-4c7a-9884-da046ca90777",
         "62c76963-25f9-4eea-9176-9bde5fc00823"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "396db869-a236-404b-9b74-0ea9667f45bc",
         "b744468e-ea6e-4c6a-acb2-edd4f17e2ae2",
@@ -388,12 +390,12 @@
       "dutyID": "6d112217-2ec9-4f9e-a67b-1b909ddb2e98",
       "dutyDetail": "Produce reliable, accurate data and keep accurate records of laboratory work undertaken and results.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "d46c3cf7-828b-4924-bd0d-e456ab97cad6",
         "62c76963-25f9-4eea-9176-9bde5fc00823"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "91b84c15-a7f1-409f-80c0-bbb4621a3fb9",
         "440fa269-eccd-44fb-bde7-6ce180d4e969",
@@ -414,7 +416,7 @@
         "fe4b09d5-bf3b-4b9c-9afc-3c07ffa35144",
         "f7c75b94-fa4c-4c7a-9884-da046ca90777"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cbda131d-60db-4e7a-9e0b-c127241ca308",
         "c623412b-cf2e-4ec5-817b-2fb57ef86b2b",
@@ -433,7 +435,7 @@
       "mappedKnowledge": [
         "38228830-eb58-4a17-a5b4-b06bf31c4f95"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "91b84c15-a7f1-409f-80c0-bbb4621a3fb9",
         "440fa269-eccd-44fb-bde7-6ce180d4e969",
@@ -446,11 +448,11 @@
       "dutyID": "cc460951-8940-4268-b0c8-52abd5d14e6a",
       "dutyDetail": "Apply scientific techniques for data presentation. e.g. statistics",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "6214dfec-fa36-42cb-bdc9-32ac67a1245b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c9725ccf-849b-45a8-b127-ec868075c29c",
         "bdf7011c-0ef1-460f-b906-210d90a33775",
@@ -462,13 +464,13 @@
       "dutyID": "7e2a117d-fd2f-407f-b340-37cb8b3554c4",
       "dutyDetail": "Recognise problems and apply appropriate scientific methods to identify causes and achieve solutions.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "cc7a3eca-99ca-46e8-8f97-df1eff0a669f",
         "fe4b09d5-bf3b-4b9c-9afc-3c07ffa35144",
         "7bab3adc-255e-4e20-9b62-bd895d84a4eb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0674c9a7-b6ad-4209-85a5-61811f692a7f",
         "cbda131d-60db-4e7a-9e0b-c127241ca308",
@@ -488,13 +490,14 @@
         "6023cf42-1783-4052-9a86-a5a28793cb01",
         "84690edd-abc4-4e88-9968-a71198a917ea"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c623412b-cf2e-4ec5-817b-2fb57ef86b2b"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
