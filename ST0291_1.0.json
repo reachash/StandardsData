@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/227",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-05-31T00:00:00Z",
-  "earliestStartDate": "2018-01-22T00:00:00Z",
+  "changedDate": "2022-05-31T00:00:00",
+  "earliestStartDate": "2018-01-22T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Responsible for the operation of plant systems and equipment on nuclear facilities.",
@@ -236,16 +236,6 @@
       "detail": "Operate and control equipment to conduct nuclear plant processes and control evolutions precisely (including outage and shutdown)"
     }
   ],
-  "options": [
-    {
-      "optionId": "57adcde9-d448-400a-ab28-8794d1331e6f",
-      "title": "Nuclear Decommissioning Operative"
-    },
-    {
-      "optionId": "b2f15173-67ec-4a81-9c74-626067b63cbf",
-      "title": "Nuclear Process Operative"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Nuclear Decommissioning Operative",
     "Nuclear Process Operative"
@@ -279,13 +269,28 @@
   "reviewDetails": "",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Plant Operative/Technician",
+  "clusterId": "267",
+  "clusterDescription": "Operate plant and equipment for a part/sub process",
   "createdDate": "2017-11-14T17:09:49 +00:00",
   "lastUpdated": "2022-05-31T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/nuclear-operative-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/nuclear-operative-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "57adcde9-d448-400a-ab28-8794d1331e6f",
+      "title": "Nuclear Decommissioning Operative",
+      "occupationCode": null
+    },
+    {
+      "optionId": "b2f15173-67ec-4a81-9c74-626067b63cbf",
+      "title": "Nuclear Process Operative",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
