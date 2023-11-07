@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/308",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2018-06-29T00:00:00Z",
-  "earliestStartDate": "2018-06-29T00:00:00Z",
+  "changedDate": "2018-06-29T00:00:00",
+  "earliestStartDate": "2018-06-29T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Manage teams to help and advise families that need support.",
@@ -313,16 +313,6 @@
       "detail": "Leads and develops new approaches to early intervention in a partnership practice"
     }
   ],
-  "options": [
-    {
-      "optionId": "3837f2de-ebb1-4d2f-96c4-5b2cfbdeac03",
-      "title": "Children, Young People & Families Manager within the Community"
-    },
-    {
-      "optionId": "eba09843-3a11-48c9-8d8a-5fbee7b13c1b",
-      "title": "Manager in Children's Residential Care"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Children, Young People & Families Manager within the Community",
     "Manager in Children's Residential Care"
@@ -353,13 +343,28 @@
   "reviewDetails": "",
   "pathway": "Care Services",
   "cluster": "Children, Young People and Families Manager",
+  "clusterId": "168",
+  "clusterDescription": "Achieve a positive and lasting change in the status of client's lives and seek to raise the effectiveness of the services provided through regular reviews assisted by supervision",
   "createdDate": "2017-11-14T17:09:57 +00:00",
   "lastUpdated": "2018-06-29T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/children-young-people-and-families-manager-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/children-young-people-and-families-manager-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "3837f2de-ebb1-4d2f-96c4-5b2cfbdeac03",
+      "title": "Children, Young People & Families Manager within the Community",
+      "occupationCode": null
+    },
+    {
+      "optionId": "eba09843-3a11-48c9-8d8a-5fbee7b13c1b",
+      "title": "Manager in Children's Residential Care",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
