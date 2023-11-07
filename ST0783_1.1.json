@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/606",
   "versionNumber": "1.1",
   "change": "Occupational standard, End-point assessment plan and funding band revised.",
-  "changedDate": "2023-10-18T00:00:00Z",
-  "earliestStartDate": "2023-10-18T00:00:00Z",
+  "changedDate": "2023-10-18T00:00:00",
+  "earliestStartDate": "2023-10-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "To support their organisation to identify costumes for short/long term performance plans and be responsible for the care, maintenance and usage of costumes, ensuring that all costume elements are at the standard of the designer’s specification.",
@@ -230,7 +230,6 @@
       "detail": "Assist with post-fitting labelling for remake workrooms or alterations. "
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -265,8 +264,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Production Arts Assistant",
+  "clusterId": "60",
+  "clusterDescription": "Work from event/staging designs to create impactful and safe staging and lighting solutions along with props and costume support",
   "createdDate": "2023-10-18T11:46:00 +00:00",
   "lastUpdated": "2023-10-18T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/costume-technician-stage-and-screen-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/costume-technician-stage-and-screen-v1-1",
   "qualifications": [],
@@ -276,7 +278,7 @@
       "dutyID": "ba54762d-2b78-4f39-9a06-30f57dbf72ce",
       "dutyDetail": "Interpret the brief, production schedule, costume breakdown and plot in relation to costume or wardrobe requirements.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "466b756b-e535-4b66-b849-c2bd54f92a28",
         "0250311e-a729-4c74-9bde-79ba7df95b48",
@@ -285,7 +287,7 @@
         "39ff7c9d-f3b0-467d-b543-6f29cacb07f4",
         "00b71b54-71ba-49a4-b0e3-657491b00f69"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "029dc9fd-12de-44a5-a5b2-83def5c3cd6d",
         "9664c734-390c-41b9-ba9a-5b76980ef81d",
@@ -307,7 +309,7 @@
         "0250311e-a729-4c74-9bde-79ba7df95b48",
         "3866ebd7-b0f8-4cd1-ad4a-ac812189ba5c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "029dc9fd-12de-44a5-a5b2-83def5c3cd6d",
         "9664c734-390c-41b9-ba9a-5b76980ef81d",
@@ -320,13 +322,13 @@
       "dutyID": "e1209f82-6f0e-440f-a90d-85701ec68799",
       "dutyDetail": "Assist with costume continuity, according to context.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "132ba63d-c10e-4d05-aec9-7c2e71e239f4",
         "2e19cbaa-bf23-4580-9c3e-7e99f5c0410f",
         "14ff5632-78f8-4bc1-98ff-a71bb5e060f3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d6008b51-6cc7-4b24-8180-840daba5d5ff"
       ],
@@ -344,7 +346,7 @@
         "8716c383-9cdd-401d-a18b-b4aa8ef13684",
         "132ba63d-c10e-4d05-aec9-7c2e71e239f4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3b129053-af64-42a7-baba-082ea58c6b1c"
       ],
@@ -364,7 +366,7 @@
         "11e47828-ab6f-4993-986a-0c0df5ebafcf",
         "14ff5632-78f8-4bc1-98ff-a71bb5e060f3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6367a6e0-baca-4f43-aa61-2aa620f624c2",
         "00b5c500-1686-41d7-8ff3-aa6608c8caec",
@@ -383,8 +385,8 @@
         "e20d213d-45d0-4ff1-8479-9f60170c093b",
         "6e437588-6924-449d-8b8e-d128827f1f83"
       ],
-      "mappedKnowledge": null,
-      "mappedOptions": null,
+      "mappedKnowledge": [],
+      "mappedOptions": [],
       "mappedSkills": [
         "ad43fac8-f991-4d85-80f1-a195b3ff4ee7",
         "6027be93-6b06-490d-b9a4-319fc4cdd6fa",
@@ -405,8 +407,8 @@
       "mappedKnowledge": [
         "3866ebd7-b0f8-4cd1-ad4a-ac812189ba5c"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -425,7 +427,7 @@
         "39ff7c9d-f3b0-467d-b543-6f29cacb07f4",
         "2c75af35-ed28-4cc4-aa5f-ac012355a83b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d8cb6603-de39-4013-8d93-f8b5551be0d6",
         "6027be93-6b06-490d-b9a4-319fc4cdd6fa",
@@ -447,7 +449,7 @@
         "fa8a3ff2-c8c1-4a74-adc1-b4cba90ac95f",
         "14ff5632-78f8-4bc1-98ff-a71bb5e060f3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b79fd4f1-4811-4161-9494-20056a7482d1",
         "b2167cb8-23bf-45b3-b214-18cb0a10093a",
@@ -461,11 +463,11 @@
       "dutyID": "20d42074-ba34-4f9c-ba01-04cd9b90872a",
       "dutyDetail": "Inform supervisors about wardrobe consumables and running wardrobe supplies stock levels. Assist in the purchasing and delivery of items if required.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "fa8a3ff2-c8c1-4a74-adc1-b4cba90ac95f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "583dfebd-c608-4c4e-bd7a-202c058779fe",
         "90f76df2-c736-4c52-8b85-0c6641e81fe4",
@@ -486,7 +488,7 @@
         "b5b84e76-0205-4a55-ad7d-cbe441f34508",
         "11e47828-ab6f-4993-986a-0c0df5ebafcf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d8cb6603-de39-4013-8d93-f8b5551be0d6",
         "6367a6e0-baca-4f43-aa61-2aa620f624c2",
@@ -501,13 +503,13 @@
       "dutyID": "ff221e76-0259-4fd8-a86e-6609598bbbfd",
       "dutyDetail": "Pack and store costumes in accordance with production or performance requirements.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "3866ebd7-b0f8-4cd1-ad4a-ac812189ba5c",
         "b5b84e76-0205-4a55-ad7d-cbe441f34508",
         "ea88d4e6-4875-490f-aefb-62afb5e7b47f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d8cb6603-de39-4013-8d93-f8b5551be0d6",
         "b79fd4f1-4811-4161-9494-20056a7482d1",
@@ -532,7 +534,7 @@
         "abf76a5a-b8e7-41e0-9833-b7a7252b44f7",
         "14ff5632-78f8-4bc1-98ff-a71bb5e060f3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "029dc9fd-12de-44a5-a5b2-83def5c3cd6d",
         "00b5c500-1686-41d7-8ff3-aa6608c8caec",
@@ -548,6 +550,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
