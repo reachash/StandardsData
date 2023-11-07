@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/446",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-11-17T00:00:00Z",
-  "earliestStartDate": "2019-05-07T00:00:00Z",
-  "latestStartDate": "2022-11-16T00:00:00Z",
+  "changedDate": "2022-11-17T00:00:00",
+  "earliestStartDate": "2019-05-07T00:00:00",
+  "latestStartDate": "2022-11-16T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Able to competently perform the professional sport in which they train such as&nbsp;cricket, football, rugby league and rugby union.",
   "level": 3,
@@ -438,7 +438,6 @@
       "detail": "Constantly monitor the development of play and positions effectively relating to the situation and area of the pitch."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [
     "Football",
     "Cricket",
@@ -471,13 +470,17 @@
   "reviewDetails": "",
   "pathway": "Community Exercise, Physical Activity, Sport and Health",
   "cluster": "Exercise, Fitness and Health Assistant",
+  "clusterId": "214",
+  "clusterDescription": "Initiate behaviour change and performance improvement to achieve a series of health and fitness goals for an individual or community. Usually working one-to-one or small groups",
   "createdDate": "2017-11-14T17:10:30 +00:00",
   "lastUpdated": "2022-11-17T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/sporting-excellence-professional-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/sporting-excellence-professional-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
