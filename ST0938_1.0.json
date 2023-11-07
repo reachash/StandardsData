@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/636",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-04-22T00:00:00Z",
-  "earliestStartDate": "2021-06-29T00:00:00Z",
+  "changedDate": "2022-04-22T00:00:00",
+  "earliestStartDate": "2021-06-29T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Manage the livestock related tasks on the farm.",
@@ -208,7 +208,6 @@
       "detail": "Identify need for euthanasia, contact relevant professionals and complete necessary paperwork"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -242,8 +241,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Agricultural Operative/Technician",
+  "clusterId": "143",
+  "clusterDescription": "Undertake largely routine arable and livestock tasks with some specialisation in either area",
   "createdDate": "2022-04-22T14:06:17 +00:00",
   "lastUpdated": "2022-04-22T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/livestock-unit-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/livestock-unit-technician-v1-0",
   "qualifications": [
@@ -283,7 +285,7 @@
         "e6929fe2-d9b3-4ff1-9069-7b20f5afe0ee",
         "b9c8ad9e-4746-46b6-8545-35c965c768b1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e514ed4c-703b-457c-a7e4-a4f44333de6e",
         "86fde7d9-ada4-463c-b178-087f96363c97"
@@ -305,7 +307,7 @@
         "0a0a56be-5cec-42bd-ba8d-bd4a7b17193a",
         "00a3aec3-28ad-4c9e-b198-3b06ef9ede36"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "08614de1-6c3c-4576-af26-d82b95c40566",
         "cf3c7f32-0b2e-4804-959b-dbb2173ba01e"
@@ -326,7 +328,7 @@
         "fe68c642-f85a-4818-aa55-24efe40af8b0",
         "367b7029-7242-4adb-80d8-e03b85e0a46b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "08614de1-6c3c-4576-af26-d82b95c40566",
         "08145010-d287-46dd-b852-0012d787362e",
@@ -348,7 +350,7 @@
         "8f8dbb79-a370-4a5d-8725-68fb087f6600",
         "270f6d43-981c-4175-817b-1d302b358dd0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e514ed4c-703b-457c-a7e4-a4f44333de6e",
         "86fde7d9-ada4-463c-b178-087f96363c97",
@@ -366,7 +368,7 @@
       "mappedKnowledge": [
         "11524ebe-e462-479e-846a-24e51bbfaa08"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1954fb76-4f35-4ab5-ba6f-a7b5beb74ee4"
       ],
@@ -385,7 +387,7 @@
         "d5250966-2903-477d-ae6b-a4508c4dab8f",
         "5a8751dc-7488-4c92-9e8d-44dd84745511"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9de788e4-cab6-4ae7-afcd-f5d7d0ca0ba6"
       ],
@@ -408,7 +410,7 @@
       "mappedKnowledge": [
         "367b7029-7242-4adb-80d8-e03b85e0a46b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "002eccd8-dc94-486f-8d3e-6d012440aef0"
       ],
@@ -431,7 +433,7 @@
         "8f8dbb79-a370-4a5d-8725-68fb087f6600",
         "478c7ac8-1e3b-45a1-ac27-ce0928c8b8a7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8d78e33a-5267-42b1-a09a-008f5989c255",
         "d43e722b-d753-4267-908d-8706520a7fdc"
@@ -448,7 +450,7 @@
       "mappedKnowledge": [
         "00a3aec3-28ad-4c9e-b198-3b06ef9ede36"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf3c7f32-0b2e-4804-959b-dbb2173ba01e"
       ],
@@ -468,7 +470,7 @@
       "mappedKnowledge": [
         "303a182d-0cbf-4d42-bc9c-2c2d39019617"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9e427e11-ac05-420a-ab48-433484a3eb13"
       ],
@@ -485,7 +487,7 @@
         "270f6d43-981c-4175-817b-1d302b358dd0",
         "478c7ac8-1e3b-45a1-ac27-ce0928c8b8a7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5f8a92b0-d344-4267-ac31-153a5d77463e"
       ],
@@ -502,7 +504,7 @@
         "9aa3eb95-f3c4-4a26-8a7b-62bc059d5a28",
         "b9c8ad9e-4746-46b6-8545-35c965c768b1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "149fbea8-bdbb-45c5-8a00-f022100839ef"
       ],
@@ -521,7 +523,7 @@
       "mappedKnowledge": [
         "72929758-b98c-473d-a1ae-92c75dc0636f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b33a0778-7857-4e6c-8ad5-d4d1de0600db"
       ],
@@ -539,13 +541,14 @@
       "mappedKnowledge": [
         "4bead2b7-e335-4633-83ee-0ab80df2d003"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3cda05b4-81be-4da1-931e-288aa798621b"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
