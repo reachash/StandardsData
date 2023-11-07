@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/420",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-04-08T00:00:00Z",
-  "earliestStartDate": "2019-03-01T00:00:00Z",
+  "changedDate": "2022-04-08T00:00:00",
+  "earliestStartDate": "2019-03-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Understanding, investigating and negotiating with individuals and organisations who, by accident or with intent, may not be complying with or are deliberately evading regulation or law.",
@@ -130,7 +130,6 @@
       "detail": "IT Skills\n\nUses appropriate organisational technology with confidence to meet the diverse needs of customers and stakeholders"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -165,8 +164,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Management and Administration",
   "cluster": "Administrator",
+  "clusterId": "45",
+  "clusterDescription": "Co-ordination, management and delivery of specific business processes and also their direct provision to users",
   "createdDate": "2019-09-12T14:14:41 +00:00",
   "lastUpdated": "2022-04-08T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/public-sector-compliance-investigator-and-officer-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/public-sector-compliance-investigator-and-officer-v1-0",
   "qualifications": [],
@@ -183,7 +185,7 @@
         "0e39f2fb-c49a-467b-95df-e8dc8cf99217",
         "0633c6ca-a40d-4b27-b3ea-bc6254eda30d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dd07c6e1-c599-4818-a229-9e7766520895",
         "5ded32b3-ddd3-4675-ba2b-08ed996227a1",
@@ -207,7 +209,7 @@
         "0e39f2fb-c49a-467b-95df-e8dc8cf99217",
         "0633c6ca-a40d-4b27-b3ea-bc6254eda30d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "527f6424-a15a-4eaf-b39f-37b5f72d0433",
         "dd07c6e1-c599-4818-a229-9e7766520895",
@@ -228,7 +230,7 @@
         "ae0daa72-b015-4215-bd2e-cf0b72a26a79",
         "a4bfed44-4b9b-4b29-8fe8-9467ccb99025"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "527f6424-a15a-4eaf-b39f-37b5f72d0433",
         "dd07c6e1-c599-4818-a229-9e7766520895"
@@ -247,7 +249,7 @@
       "mappedKnowledge": [
         "0633c6ca-a40d-4b27-b3ea-bc6254eda30d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5ded32b3-ddd3-4675-ba2b-08ed996227a1",
         "d645f4f0-b532-4d50-9345-a7c1b255d357",
@@ -267,7 +269,7 @@
         "ae0daa72-b015-4215-bd2e-cf0b72a26a79",
         "d3ac787f-01cf-4f04-bf5f-1535bd0cd185"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4edd4ffd-24c0-4f73-9c4d-4f394cc0f67b",
         "6b47a34e-ec2e-4f4e-8b3a-0e719ee5b42f",
@@ -286,7 +288,7 @@
       "mappedKnowledge": [
         "d3ac787f-01cf-4f04-bf5f-1535bd0cd185"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dd07c6e1-c599-4818-a229-9e7766520895",
         "4c2c31d4-68c7-45b9-b144-ed41b10bda91",
@@ -307,7 +309,7 @@
         "0e39f2fb-c49a-467b-95df-e8dc8cf99217",
         "0633c6ca-a40d-4b27-b3ea-bc6254eda30d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "527f6424-a15a-4eaf-b39f-37b5f72d0433",
         "dd07c6e1-c599-4818-a229-9e7766520895",
@@ -328,7 +330,7 @@
         "ae0daa72-b015-4215-bd2e-cf0b72a26a79",
         "d3ac787f-01cf-4f04-bf5f-1535bd0cd185"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dd07c6e1-c599-4818-a229-9e7766520895",
         "c4c7d9a7-81b4-4e66-8fd5-8802c59381bc",
@@ -346,7 +348,7 @@
       "mappedKnowledge": [
         "d3ac787f-01cf-4f04-bf5f-1535bd0cd185"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6b47a34e-ec2e-4f4e-8b3a-0e719ee5b42f",
         "d645f4f0-b532-4d50-9345-a7c1b255d357",
@@ -364,7 +366,7 @@
       "mappedKnowledge": [
         "0e39f2fb-c49a-467b-95df-e8dc8cf99217"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dd07c6e1-c599-4818-a229-9e7766520895",
         "c4c7d9a7-81b4-4e66-8fd5-8802c59381bc",
@@ -387,7 +389,7 @@
         "0633c6ca-a40d-4b27-b3ea-bc6254eda30d",
         "d3ac787f-01cf-4f04-bf5f-1535bd0cd185"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5ded32b3-ddd3-4675-ba2b-08ed996227a1",
         "4edd4ffd-24c0-4f73-9c4d-4f394cc0f67b",
@@ -408,7 +410,7 @@
       "mappedKnowledge": [
         "ae0daa72-b015-4215-bd2e-cf0b72a26a79"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "527f6424-a15a-4eaf-b39f-37b5f72d0433",
         "5ded32b3-ddd3-4675-ba2b-08ed996227a1",
@@ -431,7 +433,7 @@
         "0e39f2fb-c49a-467b-95df-e8dc8cf99217",
         "0633c6ca-a40d-4b27-b3ea-bc6254eda30d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "527f6424-a15a-4eaf-b39f-37b5f72d0433",
         "5ded32b3-ddd3-4675-ba2b-08ed996227a1",
@@ -455,7 +457,7 @@
         "0e39f2fb-c49a-467b-95df-e8dc8cf99217",
         "d3ac787f-01cf-4f04-bf5f-1535bd0cd185"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4edd4ffd-24c0-4f73-9c4d-4f394cc0f67b",
         "6b47a34e-ec2e-4f4e-8b3a-0e719ee5b42f",
@@ -466,6 +468,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
