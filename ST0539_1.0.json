@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/264",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-09-18T00:00:00Z",
-  "earliestStartDate": "2018-04-20T00:00:00Z",
-  "latestStartDate": "2023-09-17T00:00:00Z",
+  "changedDate": "2023-09-18T00:00:00",
+  "earliestStartDate": "2018-04-20T00:00:00",
+  "latestStartDate": "2023-09-17T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Helping organise large-scale freight imports and exports.",
   "level": 3,
@@ -360,20 +360,6 @@
       "detail": "Complete all the relevant transport documentation required for the road freight industry and the operations of own organisation."
     }
   ],
-  "options": [
-    {
-      "optionId": "30958eab-4f37-4a02-b764-b170266ba9e2",
-      "title": "Air Freight"
-    },
-    {
-      "optionId": "6a962a0d-e424-44ed-b958-fc3137b51034",
-      "title": "Ocean Freight"
-    },
-    {
-      "optionId": "fde4cbbb-4b36-4db9-b035-59a7ff46e10b",
-      "title": "Road Freight"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Air Freight",
     "Ocean Freight",
@@ -405,13 +391,33 @@
   "reviewDetails": "",
   "pathway": "Logistics",
   "cluster": "Supply Chain Operative/Technician",
+  "clusterId": "37",
+  "clusterDescription": "Undertake routine materials movement, plan and administer logistics",
   "createdDate": "2017-11-14T17:08:48 +00:00",
   "lastUpdated": "2023-09-18T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/international-freight-forwarding-specialist-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/international-freight-forwarding-specialist-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "30958eab-4f37-4a02-b764-b170266ba9e2",
+      "title": "Air Freight",
+      "occupationCode": null
+    },
+    {
+      "optionId": "6a962a0d-e424-44ed-b958-fc3137b51034",
+      "title": "Ocean Freight",
+      "occupationCode": null
+    },
+    {
+      "optionId": "fde4cbbb-4b36-4db9-b035-59a7ff46e10b",
+      "title": "Road Freight",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
