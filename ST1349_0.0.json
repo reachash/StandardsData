@@ -275,7 +275,6 @@
       "detail": "Assist in the resolution of feedback and complaints and implement changes for improvement. "
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -313,8 +312,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Catering",
   "cluster": "Caterer",
+  "clusterId": "18",
+  "clusterDescription": "Preparation and cooking of food through to the management of either part of or the whole kitchen",
   "createdDate": "2023-07-12T08:40:28 +00:00",
   "lastUpdated": "",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/lead-baker?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/lead-baker",
   "qualifications": [],
@@ -344,7 +346,7 @@
         "8da61a47-c91e-401a-86e9-53271dd23d3e",
         "4fa745b2-4e08-4cdb-9a25-575ea7ce023d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a00bf100-345b-4cc3-8103-df8406a78f54",
         "7b1b6146-8a27-4e52-b589-5b2a59d63f5b",
@@ -372,7 +374,7 @@
         "c53aba51-cf8d-4e20-a362-c6622c267a5b",
         "2869f9cc-77ac-4873-98ae-dd6947ff5f08"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "779ac17e-1639-41d5-9924-1ade38609891",
         "67530a20-56e2-4975-96c3-4fd5b5cdb695"
@@ -393,7 +395,7 @@
         "dbb2e4f1-bd7a-4d81-8ca0-c7c2a5ba6ea8",
         "347808ad-ffeb-47d8-8234-79483df579a1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3a01f7ea-4779-409a-bb36-b6fcf324db5f",
         "a91324d5-386f-40c7-bc4b-72f18b08d9b5",
@@ -415,7 +417,7 @@
         "b6f003a3-eeee-4c21-8819-d0f905af5518",
         "c262e7ed-ddce-4ef5-b660-143f7dec9436"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f187e58c-8687-4c94-875c-f98ea54cf927"
       ],
@@ -431,7 +433,7 @@
       "mappedKnowledge": [
         "57aea421-d84b-4083-9808-b64d70b1ea18"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0c8fa3ab-04fd-4010-8311-8256e11770ee",
         "f955bc68-2a25-4a7a-902c-867fe4d65a83"
@@ -453,7 +455,7 @@
         "9657c534-9d79-4bed-a112-1cd0d2b192e0",
         "f772d2d6-0b9d-441c-a369-f3441320a25d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "faa7bbda-6910-4145-9279-e91d21c34019"
       ],
@@ -472,7 +474,7 @@
       "mappedKnowledge": [
         "283856f8-238e-43f2-bf2c-5f3e34e2ad3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bd0b3ada-2cd3-4f46-a57b-1b3c8e88c79f"
       ],
@@ -491,8 +493,8 @@
         "fe3daf91-b46e-43b0-9fc3-226f51e1d5e6",
         "f772d2d6-0b9d-441c-a369-f3441320a25d"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -509,7 +511,7 @@
         "143bfd18-8523-408f-a4d4-d58734431fe4",
         "c1b9666d-ff3f-4c7e-94db-6931cb9d4cc4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8e4fb0c6-3a12-47f3-a5e3-b9316e93a210"
       ],
@@ -528,13 +530,14 @@
         "168e6905-ff86-4a2c-b121-6b903e55e8e9",
         "dbb2e4f1-bd7a-4d81-8ca0-c7c2a5ba6ea8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3a01f7ea-4779-409a-bb36-b6fcf324db5f"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
