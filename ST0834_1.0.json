@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/583",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-01-22T00:00:00Z",
-  "earliestStartDate": "2020-07-10T00:00:00Z",
+  "changedDate": "2021-01-22T00:00:00",
+  "earliestStartDate": "2020-07-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Provide specialist expertise, advice and guidance and direction towards delivering complex scientific and technical OME solutions to directly evolve the UK OME defence and security capability in existing and emerging technologies.",
@@ -162,7 +162,6 @@
       "detail": "Exploit research and development outputs to achieve operational goals and objectives."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -198,8 +197,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing Engineer",
+  "clusterId": "263",
+  "clusterDescription": "Introduce complex technologies into the manufacturing environment and improve manufacturing technologies",
   "createdDate": "2019-10-18T12:57:21 +00:00",
   "lastUpdated": "2021-01-22T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/ordnance-munitions-and-explosives-specialist-integrated-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/ordnance-munitions-and-explosives-specialist-integrated-degree-v1-0",
   "qualifications": [
@@ -247,7 +249,7 @@
         "9ef6c110-f71b-4ff1-9754-0bcaaa13641c",
         "94bc4795-8c0b-4569-8c10-a50423a28c24"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "326fd459-d205-4b37-947a-8ac3f6a3f204",
         "d0ca2d5e-be30-4338-b448-9d91e1560737",
@@ -284,7 +286,7 @@
         "9ef6c110-f71b-4ff1-9754-0bcaaa13641c",
         "94bc4795-8c0b-4569-8c10-a50423a28c24"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "326fd459-d205-4b37-947a-8ac3f6a3f204",
         "d0ca2d5e-be30-4338-b448-9d91e1560737",
@@ -322,7 +324,7 @@
         "9ef6c110-f71b-4ff1-9754-0bcaaa13641c",
         "94bc4795-8c0b-4569-8c10-a50423a28c24"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "326fd459-d205-4b37-947a-8ac3f6a3f204",
         "d0ca2d5e-be30-4338-b448-9d91e1560737",
@@ -363,7 +365,7 @@
         "9ef6c110-f71b-4ff1-9754-0bcaaa13641c",
         "94bc4795-8c0b-4569-8c10-a50423a28c24"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "326fd459-d205-4b37-947a-8ac3f6a3f204",
         "d0ca2d5e-be30-4338-b448-9d91e1560737",
@@ -399,7 +401,7 @@
         "22a64e94-ecf0-4ed6-ac2a-a6b38beb59db",
         "9ef6c110-f71b-4ff1-9754-0bcaaa13641c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c91e8e57-a669-467a-91e4-e092ca4e7539",
         "0b0da996-f8c2-4b90-ab3d-3841b668c00a",
@@ -431,7 +433,7 @@
         "9ef6c110-f71b-4ff1-9754-0bcaaa13641c",
         "94bc4795-8c0b-4569-8c10-a50423a28c24"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "326fd459-d205-4b37-947a-8ac3f6a3f204",
         "d0ca2d5e-be30-4338-b448-9d91e1560737",
@@ -463,7 +465,7 @@
         "9ef6c110-f71b-4ff1-9754-0bcaaa13641c",
         "94bc4795-8c0b-4569-8c10-a50423a28c24"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c91e8e57-a669-467a-91e4-e092ca4e7539",
         "0b0da996-f8c2-4b90-ab3d-3841b668c00a",
@@ -492,7 +494,7 @@
         "9ef6c110-f71b-4ff1-9754-0bcaaa13641c",
         "94bc4795-8c0b-4569-8c10-a50423a28c24"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "326fd459-d205-4b37-947a-8ac3f6a3f204",
         "d0ca2d5e-be30-4338-b448-9d91e1560737",
@@ -523,7 +525,7 @@
         "26b9222f-5eae-4a65-8b6a-73459cad55e3",
         "94bc4795-8c0b-4569-8c10-a50423a28c24"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "326fd459-d205-4b37-947a-8ac3f6a3f204",
         "0b0da996-f8c2-4b90-ab3d-3841b668c00a",
@@ -551,7 +553,7 @@
         "9ef6c110-f71b-4ff1-9754-0bcaaa13641c",
         "94bc4795-8c0b-4569-8c10-a50423a28c24"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7fbdcecf-1fe4-4a0a-a01f-fc89f0bdb617",
         "857a1ad0-6651-4f5d-9184-b76bad922efc",
@@ -576,7 +578,7 @@
         "26b9222f-5eae-4a65-8b6a-73459cad55e3",
         "94bc4795-8c0b-4569-8c10-a50423a28c24"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c91e8e57-a669-467a-91e4-e092ca4e7539",
         "f96f07d4-f16c-4759-a01c-f19cb2370f0b"
@@ -600,7 +602,7 @@
         "9ef6c110-f71b-4ff1-9754-0bcaaa13641c",
         "94bc4795-8c0b-4569-8c10-a50423a28c24"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c91e8e57-a669-467a-91e4-e092ca4e7539",
         "0b0da996-f8c2-4b90-ab3d-3841b668c00a",
@@ -630,7 +632,7 @@
         "9ef6c110-f71b-4ff1-9754-0bcaaa13641c",
         "94bc4795-8c0b-4569-8c10-a50423a28c24"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "326fd459-d205-4b37-947a-8ac3f6a3f204",
         "d0ca2d5e-be30-4338-b448-9d91e1560737",
@@ -644,6 +646,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
