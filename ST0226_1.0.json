@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/392",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-09-26T00:00:00Z",
-  "earliestStartDate": "2018-12-12T00:00:00Z",
-  "latestStartDate": "2023-10-29T00:00:00Z",
+  "changedDate": "2023-09-26T00:00:00",
+  "earliestStartDate": "2018-12-12T00:00:00",
+  "latestStartDate": "2023-10-29T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Planning and maintaining large gardens, parks and other green spaces.",
   "level": 3,
@@ -238,16 +238,6 @@
       "detail": "Using and maintaining a range of irrigation systems e.g. drip, sprinkler and rotary systems to ensure accurate and timely water application."
     }
   ],
-  "options": [
-    {
-      "optionId": "867b0370-3a72-4001-b46f-adb2f6a7503c",
-      "title": "Landscape construction"
-    },
-    {
-      "optionId": "0ffc85ff-7656-4433-84b9-c0e35dc9a5ab",
-      "title": "Horticulture"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Landscape construction",
     "Horticulture"
@@ -281,13 +271,28 @@
   "reviewDetails": "",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Landscape Horticulture Operative/Technician",
+  "clusterId": "161",
+  "clusterDescription": "The design, construction and maintenance of gardens, designed landscapes and sports turf facilities for private, commercial and community use",
   "createdDate": "2017-11-14T17:09:14 +00:00",
   "lastUpdated": "2023-09-26T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/landscape-or-horticulture-supervisor-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/landscape-or-horticulture-supervisor-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "867b0370-3a72-4001-b46f-adb2f6a7503c",
+      "title": "Landscape construction",
+      "occupationCode": null
+    },
+    {
+      "optionId": "0ffc85ff-7656-4433-84b9-c0e35dc9a5ab",
+      "title": "Horticulture",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
