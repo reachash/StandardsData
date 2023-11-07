@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/235",
   "versionNumber": "1.1",
   "change": "End-point assessment plan, standard and funding revised",
-  "changedDate": "2022-01-10T00:00:00Z",
-  "earliestStartDate": "2022-01-10T00:00:00Z",
+  "changedDate": "2022-01-10T00:00:00",
+  "earliestStartDate": "2022-01-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Make, service and repair watches.",
@@ -246,7 +246,6 @@
       "detail": "Uses information technology for record-keeping, self-learning and continuous development.\u2003"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -277,8 +276,11 @@
   "reviewDetails": "",
   "pathway": "Craft and Design",
   "cluster": "Precision Manufacturing Craftsperson",
+  "clusterId": "72",
+  "clusterDescription": "Use traditional craft hand engineering and metal working skills to manufacture and restore precision items often with a high artistic merit and value",
   "createdDate": "2022-01-10T13:55:25 +00:00",
   "lastUpdated": "2022-01-10T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/watchmaker-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/watchmaker-v1-1",
   "qualifications": [],
@@ -327,7 +329,7 @@
         "efbfaaf9-4eb2-4ae3-93a4-3f359799c5e8",
         "2352f501-8b29-4bd7-bb9a-f11f388b8489"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "876eef8a-4a03-4479-8de1-6916e57277c5",
         "26585b83-c18c-43f8-9a8d-d5453e215ff1",
@@ -366,7 +368,7 @@
         "66dfdcb0-8a6e-499b-8800-465ef98d63fa",
         "39f7685d-b9fe-4422-bed5-a6ae6fa83693"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "876eef8a-4a03-4479-8de1-6916e57277c5",
         "26585b83-c18c-43f8-9a8d-d5453e215ff1",
@@ -398,7 +400,7 @@
         "9dc0b663-2f89-4971-b77a-a6107f5f596c",
         "46112708-86c5-4c59-9272-20b69d18b290"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "876eef8a-4a03-4479-8de1-6916e57277c5",
         "26585b83-c18c-43f8-9a8d-d5453e215ff1",
@@ -430,7 +432,7 @@
         "eaaa83a3-2403-4992-b2bd-a05ebfea0d91",
         "01e74419-a153-4503-a324-a3170aacdbda"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "876eef8a-4a03-4479-8de1-6916e57277c5",
         "26585b83-c18c-43f8-9a8d-d5453e215ff1",
@@ -456,7 +458,7 @@
         "39f7685d-b9fe-4422-bed5-a6ae6fa83693",
         "6187046a-6fd9-4c16-85d4-aafe9f997b79"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "876eef8a-4a03-4479-8de1-6916e57277c5",
         "26585b83-c18c-43f8-9a8d-d5453e215ff1",
@@ -477,7 +479,7 @@
       "mappedKnowledge": [
         "cb0d0d0a-be08-46fd-8e3e-fa795e96b77d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "614f8a3c-bdce-4a69-affd-1ef07994791d",
         "6d20fec9-e480-41c3-b862-4c62893bc82e"
@@ -500,7 +502,7 @@
         "66dfdcb0-8a6e-499b-8800-465ef98d63fa",
         "eaaa83a3-2403-4992-b2bd-a05ebfea0d91"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "876eef8a-4a03-4479-8de1-6916e57277c5",
         "26585b83-c18c-43f8-9a8d-d5453e215ff1",
@@ -528,7 +530,7 @@
         "66dfdcb0-8a6e-499b-8800-465ef98d63fa",
         "01e74419-a153-4503-a324-a3170aacdbda"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "876eef8a-4a03-4479-8de1-6916e57277c5",
         "26585b83-c18c-43f8-9a8d-d5453e215ff1",
@@ -556,7 +558,7 @@
         "9dc0b663-2f89-4971-b77a-a6107f5f596c",
         "46112708-86c5-4c59-9272-20b69d18b290"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "876eef8a-4a03-4479-8de1-6916e57277c5",
         "26585b83-c18c-43f8-9a8d-d5453e215ff1",
@@ -577,7 +579,7 @@
         "cb0d0d0a-be08-46fd-8e3e-fa795e96b77d",
         "f02a6911-5ffe-4a1c-ae63-0c0bce623dee"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9fd59c8a-bb1a-4bb7-b12d-e2512cc3b4ff",
         "55518483-873b-4438-b580-f3990ef6f3da",
@@ -606,7 +608,7 @@
         "e71ffb0d-2bb7-40d7-b135-bb1a54e27fc4",
         "f02a6911-5ffe-4a1c-ae63-0c0bce623dee"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "876eef8a-4a03-4479-8de1-6916e57277c5",
         "26585b83-c18c-43f8-9a8d-d5453e215ff1",
@@ -643,7 +645,7 @@
         "cb0d0d0a-be08-46fd-8e3e-fa795e96b77d",
         "f02a6911-5ffe-4a1c-ae63-0c0bce623dee"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7892e7bb-0677-4966-8c19-40dcf437048d",
         "1608a8a7-2015-4377-84d3-2127b1690e67",
@@ -667,13 +669,14 @@
         "43c695e1-b63d-42ff-8286-b1e7ecdee6ac",
         "2352f501-8b29-4bd7-bb9a-f11f388b8489"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6d20fec9-e480-41c3-b862-4c62893bc82e"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
