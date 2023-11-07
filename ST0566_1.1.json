@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/365",
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised",
-  "changedDate": "2023-08-18T00:00:00Z",
-  "earliestStartDate": "2023-08-18T00:00:00Z",
+  "changedDate": "2023-08-18T00:00:00",
+  "earliestStartDate": "2023-08-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Casting is the process from which solid metal shapes (castings) are produced by filling voids in molds with liquid metal",
@@ -238,36 +238,6 @@
       "detail": "To report findings relating to quality and compliance to management and to customer specifications and standards."
     }
   ],
-  "options": [
-    {
-      "optionId": "9b9d7495-a77a-4795-8c9b-c823361bd9d8",
-      "title": "Pattern & Model Making Technician"
-    },
-    {
-      "optionId": "3bf0ff70-320d-44a4-95fd-39b432107134",
-      "title": "Methods Development Technician"
-    },
-    {
-      "optionId": "8e882041-d80b-4d12-adc8-073cc44f6232",
-      "title": "Foundry Material & Process Control Technician"
-    },
-    {
-      "optionId": "6f25a6e4-cd2d-4f45-b4f0-f1080269cadd",
-      "title": "Foundry Production Technician"
-    },
-    {
-      "optionId": "73591aec-911e-4b0b-b81b-d8662afb6be8",
-      "title": "Metal Casting Furnace and Ladle Technician"
-    },
-    {
-      "optionId": "62da83be-6015-4b46-a2ec-b6562b50af3d",
-      "title": "Foundry Post Casting Technician"
-    },
-    {
-      "optionId": "3d5311f3-6d5a-47d8-8ed8-269129dd924c",
-      "title": "Inspection & Quality Assurance Technician"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Pattern & Model Making Technician",
     "Methods Development Technician",
@@ -311,13 +281,53 @@
   "reviewDetails": "",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing Operative",
+  "clusterId": "264",
+  "clusterDescription": "Routine assembly of manufactured products",
   "createdDate": "2023-08-18T09:50:33 +00:00",
   "lastUpdated": "2023-08-18T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/metal-casting-foundry-and-patternmaking-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/metal-casting-foundry-and-patternmaking-technician-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "9b9d7495-a77a-4795-8c9b-c823361bd9d8",
+      "title": "Pattern & Model Making Technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "3bf0ff70-320d-44a4-95fd-39b432107134",
+      "title": "Methods Development Technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "8e882041-d80b-4d12-adc8-073cc44f6232",
+      "title": "Foundry Material & Process Control Technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "6f25a6e4-cd2d-4f45-b4f0-f1080269cadd",
+      "title": "Foundry Production Technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "73591aec-911e-4b0b-b81b-d8662afb6be8",
+      "title": "Metal Casting Furnace and Ladle Technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "62da83be-6015-4b46-a2ec-b6562b50af3d",
+      "title": "Foundry Post Casting Technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "3d5311f3-6d5a-47d8-8ed8-269129dd924c",
+      "title": "Inspection & Quality Assurance Technician",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
