@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/206",
   "versionNumber": "1.1",
   "change": "Standard and end-point assessment plan revised. Funding band revised but remains.",
-  "changedDate": "2021-11-25T00:00:00Z",
-  "earliestStartDate": "2021-11-25T00:00:00Z",
+  "changedDate": "2021-11-25T00:00:00",
+  "earliestStartDate": "2021-11-25T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Ensuring the safe travel of passengers, their customers, themselves and their colleagues.",
@@ -319,20 +319,6 @@
       "detail": "Stop a vehicle to reduce the risk to those potentially affected by an emergency situation. "
     }
   ],
-  "options": [
-    {
-      "optionId": "d0a6f723-cda9-444a-b933-71d672950069",
-      "title": "Ticketing operative"
-    },
-    {
-      "optionId": "f4a0ebf0-2545-45af-9bb6-e9142088bfb8",
-      "title": "Onboard operative"
-    },
-    {
-      "optionId": "d346905b-10eb-4d16-8bb3-32593ab5ffde",
-      "title": "Dispatch operative"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -368,8 +354,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Transport",
   "cluster": "Driver/Crewmember",
+  "clusterId": "82",
+  "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
   "createdDate": "2021-11-25T10:04:07 +00:00",
   "lastUpdated": "2021-11-25T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/passenger-transport-operative-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/passenger-transport-operative-v1-1",
   "qualifications": [],
@@ -401,7 +390,7 @@
         "b7de0513-2a5b-4caf-91aa-43b46eeb20a8",
         "ae9232e0-70e6-42e8-86b5-b87d441f7bd8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f4d3827b-e6a6-44f1-86f0-f378ac69846c",
         "b8463510-8e32-4bb4-970e-c702851983de",
@@ -442,7 +431,7 @@
         "14b888b8-9024-4fb1-a92f-fe9e88728dbe",
         "5f1a653a-9499-49a1-a76e-ca1f727ffa09"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4fafa34b-9495-47fc-a159-6c8dc71eac9f",
         "0157c1a6-ac2a-4888-a211-4c9c4c9639d7",
@@ -479,7 +468,7 @@
         "14b888b8-9024-4fb1-a92f-fe9e88728dbe",
         "5f1a653a-9499-49a1-a76e-ca1f727ffa09"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6bf9be1e-0649-4312-90c4-e55d6b401817",
         "3c5b9c1b-113e-479d-8fef-05916402c6c7",
@@ -509,7 +498,7 @@
         "d0f6910c-9e67-4b0f-b972-9aa0594ee5ef",
         "dae90eee-2cbc-466c-ab02-b27d2dcd54d2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f4d3827b-e6a6-44f1-86f0-f378ac69846c",
         "b8463510-8e32-4bb4-970e-c702851983de",
@@ -547,7 +536,7 @@
         "5f1a653a-9499-49a1-a76e-ca1f727ffa09",
         "b7de0513-2a5b-4caf-91aa-43b46eeb20a8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f4d3827b-e6a6-44f1-86f0-f378ac69846c",
         "b8463510-8e32-4bb4-970e-c702851983de",
@@ -587,7 +576,7 @@
         "b7de0513-2a5b-4caf-91aa-43b46eeb20a8",
         "d995c253-b519-4805-a897-93c1e10b8001"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f4d3827b-e6a6-44f1-86f0-f378ac69846c",
         "4fafa34b-9495-47fc-a159-6c8dc71eac9f",
@@ -623,7 +612,7 @@
         "b7de0513-2a5b-4caf-91aa-43b46eeb20a8",
         "d995c253-b519-4805-a897-93c1e10b8001"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f4d3827b-e6a6-44f1-86f0-f378ac69846c",
         "4fafa34b-9495-47fc-a159-6c8dc71eac9f",
@@ -663,7 +652,7 @@
         "b8d0af6f-db56-4a57-ad14-5bdcff1480c7",
         "dae90eee-2cbc-466c-ab02-b27d2dcd54d2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f4d3827b-e6a6-44f1-86f0-f378ac69846c",
         "0157c1a6-ac2a-4888-a211-4c9c4c9639d7",
@@ -690,7 +679,7 @@
         "5f1a653a-9499-49a1-a76e-ca1f727ffa09",
         "ae9232e0-70e6-42e8-86b5-b87d441f7bd8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f4d3827b-e6a6-44f1-86f0-f378ac69846c",
         "b8463510-8e32-4bb4-970e-c702851983de",
@@ -725,7 +714,7 @@
         "87f493ca-aca6-43fb-a678-7df0375264c0",
         "b7de0513-2a5b-4caf-91aa-43b46eeb20a8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f4d3827b-e6a6-44f1-86f0-f378ac69846c",
         "4fafa34b-9495-47fc-a159-6c8dc71eac9f",
@@ -738,7 +727,7 @@
       "dutyID": "39474a6d-1661-44db-bb83-747fe5a05244",
       "dutyDetail": "Diagnose passenger circumstances and travel requirements across the UK network.  (including travel within and beyond own organisations services). Offer appropriate and impartial advice.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "cd1295cd-4d13-40a5-b575-d06d3986c196",
         "fad699cb-83db-47ac-99e1-bdc5082e3943",
@@ -795,7 +784,7 @@
       "dutyID": "0e54e54b-3922-4363-a2d0-c4392fe340ce",
       "dutyDetail": "Handle different forms of payment and provide accurate transactions for customer. Reconcile financial accounts within limits of own responsibility, for example, accurately calculating the sum total of sales during a shift. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "cd1295cd-4d13-40a5-b575-d06d3986c196",
         "fad699cb-83db-47ac-99e1-bdc5082e3943",
@@ -966,6 +955,23 @@
         "ac3c599b-4304-4eba-b7b9-48059143ac23"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "d0a6f723-cda9-444a-b933-71d672950069",
+      "title": "Ticketing operative",
+      "occupationCode": null
+    },
+    {
+      "optionId": "f4a0ebf0-2545-45af-9bb6-e9142088bfb8",
+      "title": "Onboard operative",
+      "occupationCode": null
+    },
+    {
+      "optionId": "d346905b-10eb-4d16-8bb3-32593ab5ffde",
+      "title": "Dispatch operative",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
