@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/377",
   "versionNumber": "1.0",
   "change": "Retired",
-  "changedDate": "2022-05-31T00:00:00Z",
-  "earliestStartDate": "2018-11-20T00:00:00Z",
-  "latestStartDate": "2021-08-31T00:00:00Z",
+  "changedDate": "2022-05-31T00:00:00",
+  "earliestStartDate": "2018-11-20T00:00:00",
+  "latestStartDate": "2021-08-31T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Producing complex high value, low volume components or assemblies.",
   "level": 3,
@@ -198,7 +198,6 @@
       "detail": "Operating in line with quality, health & safety and environmental policy and procedures; identifying risks and hazards and identifying control measure where applicable"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -233,8 +232,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing and Process Operative/Technician",
+  "clusterId": "262",
+  "clusterDescription": "Assemble and construct complex engineering products",
   "createdDate": "2019-12-24T10:51:53 +00:00",
   "lastUpdated": "2022-05-31T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/engineering-fitter-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/engineering-fitter-v1-0",
   "qualifications": [
@@ -295,7 +297,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -340,7 +342,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -389,7 +391,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -437,7 +439,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -485,7 +487,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -530,7 +532,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -579,7 +581,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -619,7 +621,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -666,7 +668,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ef5d663a-aabe-4913-a150-04213e1ffdd5",
         "9112be76-54bb-4b30-b911-b18b21ad2cdb",
@@ -704,7 +706,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -724,6 +726,7 @@
       "criteriaForMeasuringPerformance": "• Maintains a professional working relationship with team and stakeholders\n• Suggests improvements where appropriate to production or assembly techniques"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
