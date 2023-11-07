@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/117",
   "versionNumber": "1.1",
   "change": "The funding band for this standard has been reviewed as part of the apprenticeship funding band review. The new funding band is £8000",
-  "changedDate": "2022-04-08T00:00:00Z",
-  "earliestStartDate": "2019-03-04T00:00:00Z",
+  "changedDate": "2022-04-08T00:00:00",
+  "earliestStartDate": "2019-03-04T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Working as an accountant or bookkeeper for an accounting practice, business, organisations or HMRC.",
@@ -124,16 +124,6 @@
       "detail": "Understand the systems and processes of the organisation sufficiently, as applicable to the role. Proficient in the IT systems applicable to the role."
     }
   ],
-  "options": [
-    {
-      "optionId": "dbcb28df-cb21-44b8-b787-821ef03112ae",
-      "title": "Accounting"
-    },
-    {
-      "optionId": "2784c826-3c91-4126-8e1a-108a2353ccb6",
-      "title": "Tax"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Accounting",
     "Tax"
@@ -175,13 +165,28 @@
   "reviewDetails": "",
   "pathway": "Accountancy",
   "cluster": "Accounting/Tax Technician",
+  "clusterId": "238",
+  "clusterDescription": "Create, analyse and audit financial information for internal and external clients and the regulatory authorities",
   "createdDate": "2017-09-22T14:24:59 +00:00",
   "lastUpdated": "2022-04-08T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/professional-accounting-or-taxation-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/professional-accounting-or-taxation-technician-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "dbcb28df-cb21-44b8-b787-821ef03112ae",
+      "title": "Accounting",
+      "occupationCode": null
+    },
+    {
+      "optionId": "2784c826-3c91-4126-8e1a-108a2353ccb6",
+      "title": "Tax",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
