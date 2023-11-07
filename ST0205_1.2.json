@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/57",
   "versionNumber": "1.2",
   "change": "End-point assessment plan revised.",
-  "changedDate": "2018-05-22T00:00:00Z",
-  "earliestStartDate": "2018-05-22T00:00:00Z",
+  "changedDate": "2018-05-22T00:00:00",
+  "earliestStartDate": "2018-05-22T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Building, maintaining and repairing parts for the country's gas network, to provide a reliable supply of gas to domestic, commercial and industrial users.",
@@ -581,24 +581,6 @@
       "detail": "Organise additional resources to facilitate repairs as required"
     }
   ],
-  "options": [
-    {
-      "optionId": "2e9b799f-ed17-494b-82e9-6cdf2721c6fc",
-      "title": "Network Maintenance Craftsperson (Electrical & Instrumentation)"
-    },
-    {
-      "optionId": "dacdb3dd-9515-423a-9ca2-7d8bf8ccecf5",
-      "title": "Network Maintenance Craftsperson (Pressure Management)"
-    },
-    {
-      "optionId": "797b8577-3099-4df9-bed2-c3a4baccb464",
-      "title": "Network Pipelines Maintenance Craftsperson"
-    },
-    {
-      "optionId": "204f0495-3478-448c-8c13-b1483cde011b",
-      "title": "Emergency Response Craftsperson"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Network Maintenance Craftsperson (Electrical & Instrumentation)",
     "Network Maintenance Craftsperson (Pressure Management)",
@@ -634,13 +616,38 @@
   "reviewDetails": "",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Manufacturing/Process Maintenance Operative/Technician",
+  "clusterId": "71",
+  "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2017-09-22T14:24:15 +00:00",
   "lastUpdated": "2018-05-22T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/gas-network-craftsperson-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/gas-network-craftsperson-v1-2",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "2e9b799f-ed17-494b-82e9-6cdf2721c6fc",
+      "title": "Network Maintenance Craftsperson (Electrical & Instrumentation)",
+      "occupationCode": null
+    },
+    {
+      "optionId": "dacdb3dd-9515-423a-9ca2-7d8bf8ccecf5",
+      "title": "Network Maintenance Craftsperson (Pressure Management)",
+      "occupationCode": null
+    },
+    {
+      "optionId": "797b8577-3099-4df9-bed2-c3a4baccb464",
+      "title": "Network Pipelines Maintenance Craftsperson",
+      "occupationCode": null
+    },
+    {
+      "optionId": "204f0495-3478-448c-8c13-b1483cde011b",
+      "title": "Emergency Response Craftsperson",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
