@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/520",
   "versionNumber": "1.0",
   "change": "Retired",
-  "changedDate": "2021-05-14T00:00:00Z",
-  "earliestStartDate": "2019-11-05T00:00:00Z",
-  "latestStartDate": "2021-08-31T00:00:00Z",
+  "changedDate": "2021-05-14T00:00:00",
+  "earliestStartDate": "2019-11-05T00:00:00",
+  "latestStartDate": "2021-08-31T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Assessing the health needs of individuals, families, workplaces and the wider community.",
   "level": 7,
@@ -637,16 +637,6 @@
       "detail": "Identify, network, engage and collaborate with staff and stakeholders, and work with partners and other professionals to achieve effective working relationships and influence organisational and individual health and wellbeing"
     }
   ],
-  "options": [
-    {
-      "optionId": "88be59f7-839d-408b-8fd5-f43c88b5928a",
-      "title": "Health Visitor and School Nurse"
-    },
-    {
-      "optionId": "292e994c-5f45-408a-8a2a-7cbbda77bd6e",
-      "title": "Occupational Health Nurse"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -679,8 +669,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Health",
   "cluster": "Midwifery and Nursing Professional",
+  "clusterId": "211",
+  "clusterDescription": "Assess, plan, implement and evaluate patient care in multiple settings with specialist expertise often working independently",
   "createdDate": "2020-03-05T09:58:50 +00:00",
   "lastUpdated": "2021-05-14T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/specialist-community-public-health-nurse-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/specialist-community-public-health-nurse-v1-0",
   "qualifications": [
@@ -717,7 +710,7 @@
         "d8c02b8e-1884-4aa3-b034-c0bdbb39c857",
         "d9143dea-deff-418c-9454-58d01a793d80"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "69f3f4a4-9aa5-493e-8928-80e444e6dba7",
         "4ea7daa3-23a4-4443-9d7a-76eb6800355f",
@@ -748,7 +741,7 @@
         "9aa7e1d5-23cc-4fac-803e-b3f8819b49f5",
         "77d61fd3-3c1b-436f-a16a-384235135168"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b0757616-b47a-4c25-9fff-7b362cf1f937",
         "52eadb97-9edb-44bd-818f-0f69abbea951",
@@ -781,7 +774,7 @@
         "3e0b0c2b-c720-4e4b-b96d-950e7737a189",
         "2857b9b9-9694-40c9-b3d4-099da7cb1bcc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "af3d6f30-2ed5-4123-9864-b3ac71e0d044",
         "e0e02671-4bc6-4e72-9362-fdcf700ed756",
@@ -807,7 +800,7 @@
         "05908413-353d-48f1-9fe8-7dbaf2dfb3ea",
         "15fa8587-b55e-49b9-af74-52e3c8326fb3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "99b8b8a3-dda5-491a-a4f8-8397a960fe52",
         "2b279266-32fe-4d78-9d53-c411beb2dcc5",
@@ -838,7 +831,7 @@
         "562dee15-f282-4148-af2c-8bfd098ed51c",
         "12a8bd30-7a11-4243-9ab4-3092a624d51f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e712c866-42c1-41da-9885-a771c7c87ba5",
         "4ebd188a-b6a1-4d70-a768-e8dc133dc0f8",
@@ -1113,6 +1106,18 @@
         "1a6b447b-93a9-4c43-a1a4-b205fbb77a7f"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "88be59f7-839d-408b-8fd5-f43c88b5928a",
+      "title": "Health Visitor and School Nurse",
+      "occupationCode": null
+    },
+    {
+      "optionId": "292e994c-5f45-408a-8a2a-7cbbda77bd6e",
+      "title": "Occupational Health Nurse",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [
