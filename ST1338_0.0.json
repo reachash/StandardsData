@@ -483,24 +483,6 @@
       "detail": "Option 4. Monitor fire risks."
     }
   ],
-  "options": [
-    {
-      "optionId": "5a5a34b5-7129-4774-ac63-4300e2bc8f1e",
-      "title": "Electrode technician"
-    },
-    {
-      "optionId": "6f5f3616-ed8d-4faf-9cb0-107a7bc316c2",
-      "title": "Cell assembly technician"
-    },
-    {
-      "optionId": "de803404-397c-4d56-9db0-cd57a1d40819",
-      "title": "Formation, ageing and testing technician"
-    },
-    {
-      "optionId": "f6ecaac3-8f80-4e75-afc9-44db6c3d15ed",
-      "title": "Module and pack technician"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -528,8 +510,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing and Process Operative/Technician",
+  "clusterId": "262",
+  "clusterDescription": "Assemble and construct complex engineering products",
   "createdDate": "2023-09-06T07:34:39 +00:00",
   "lastUpdated": "",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/battery-manufacturing-technician?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/battery-manufacturing-technician",
   "qualifications": [],
@@ -574,7 +559,7 @@
         "a208b16b-5bf2-48c8-b887-6b7342072a4c",
         "2e64e672-9de8-454d-9bc4-cf6e0b0c759a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bcb1e0c4-f2b3-4382-8c7e-59d182c902e9",
         "e972472f-c400-438f-9ab3-d507114aa954",
@@ -604,7 +589,7 @@
         "a208b16b-5bf2-48c8-b887-6b7342072a4c",
         "fb888e3d-c118-4ed0-91b6-0561595a5a1e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ced29ae1-5586-44ac-9183-a13c833c5db9",
         "49ccab31-c4dc-4dcf-8bb6-10ffe96f00c7",
@@ -635,7 +620,7 @@
         "e7861faf-4f55-4398-9100-f17d23f34ea9",
         "a208b16b-5bf2-48c8-b887-6b7342072a4c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "72011d26-432b-4de0-bb4b-7d743f4ad554",
         "59cccb2f-7b1d-4359-b710-5de9c9cb2ad2",
@@ -664,7 +649,7 @@
         "a208b16b-5bf2-48c8-b887-6b7342072a4c",
         "f97f1024-9ebb-47ec-9feb-63a8efe4a9d4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "72011d26-432b-4de0-bb4b-7d743f4ad554",
         "597fc411-0336-48c0-86d3-06afaf19765b",
@@ -693,7 +678,7 @@
         "e7861faf-4f55-4398-9100-f17d23f34ea9",
         "a208b16b-5bf2-48c8-b887-6b7342072a4c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "72011d26-432b-4de0-bb4b-7d743f4ad554",
         "4c3838fc-a0bb-4f81-9d47-8ae6fed0b06a",
@@ -721,7 +706,7 @@
         "e7861faf-4f55-4398-9100-f17d23f34ea9",
         "a208b16b-5bf2-48c8-b887-6b7342072a4c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "72011d26-432b-4de0-bb4b-7d743f4ad554",
         "3963554d-7812-4614-a298-5c77ad81940d",
@@ -757,7 +742,7 @@
         "e7861faf-4f55-4398-9100-f17d23f34ea9",
         "a208b16b-5bf2-48c8-b887-6b7342072a4c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "72011d26-432b-4de0-bb4b-7d743f4ad554",
         "dd1a4237-8512-41c3-be54-bab0df8f0a69",
@@ -788,7 +773,7 @@
         "e7861faf-4f55-4398-9100-f17d23f34ea9",
         "a208b16b-5bf2-48c8-b887-6b7342072a4c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "72011d26-432b-4de0-bb4b-7d743f4ad554",
         "4c3838fc-a0bb-4f81-9d47-8ae6fed0b06a",
@@ -1225,6 +1210,28 @@
         "39f227a6-b81a-4c99-a163-52d8995a0b05"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "5a5a34b5-7129-4774-ac63-4300e2bc8f1e",
+      "title": "Electrode technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "6f5f3616-ed8d-4faf-9cb0-107a7bc316c2",
+      "title": "Cell assembly technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "de803404-397c-4d56-9db0-cd57a1d40819",
+      "title": "Formation, ageing and testing technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "f6ecaac3-8f80-4e75-afc9-44db6c3d15ed",
+      "title": "Module and pack technician",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
