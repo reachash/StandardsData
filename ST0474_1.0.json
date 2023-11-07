@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/210",
   "versionNumber": "1.0",
   "change": "",
-  "changedDate": "2017-12-04T00:00:00Z",
-  "earliestStartDate": "2017-12-04T00:00:00Z",
+  "changedDate": "2017-12-04T00:00:00",
+  "earliestStartDate": "2017-12-04T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Offering and administering finance packages to customers buying vehicles.",
@@ -128,16 +128,6 @@
       "detail": "Consultative Selling: Demonstrate good customer listening and understanding skills to match product features to their needs and requirements, in order to create benefits for the customer. Follow and maintain processes to ensure compliance whilst enabling customers to make informed decisions.\nDemonstrate they can follow a defined sales process."
     }
   ],
-  "options": [
-    {
-      "optionId": "38cc1d1d-ee05-4b98-8712-eef438379fe0",
-      "title": "Finance Company"
-    },
-    {
-      "optionId": "c5534d7e-e269-451f-842a-46fcbfe6a225",
-      "title": "Retailer Consultant"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Finance Company",
     "Retailer Consultant"
@@ -171,13 +161,28 @@
   "reviewDetails": "",
   "pathway": "Financial",
   "cluster": "Financial Services Customer Advisor",
+  "clusterId": "242",
+  "clusterDescription": "Handle enquiries coming directly from customers in all forms across a range of financial products and services and suppor sales generation using product/service specialisms commonly driven by regulations",
   "createdDate": "2017-11-14T17:11:15 +00:00",
   "lastUpdated": "2017-12-04T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/motor-finance-specialist-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/motor-finance-specialist-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "38cc1d1d-ee05-4b98-8712-eef438379fe0",
+      "title": "Finance Company",
+      "occupationCode": null
+    },
+    {
+      "optionId": "c5534d7e-e269-451f-842a-46fcbfe6a225",
+      "title": "Retailer Consultant",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
