@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/579",
   "versionNumber": "1.1",
   "change": "Standard, end-point assessment plan and funding have been revised.",
-  "changedDate": "2023-03-24T00:00:00Z",
-  "earliestStartDate": "2023-04-07T00:00:00Z",
+  "changedDate": "2023-03-24T00:00:00",
+  "earliestStartDate": "2023-04-07T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Service, repair and maintain lift trucks and powered access vehicles.",
@@ -203,7 +203,6 @@
       "detail": "Store and maintain tools, workshop equipment, diagnostic and measuring equipment for maintenance and repairs."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -236,8 +235,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2023-03-24T14:21:41 +00:00",
   "lastUpdated": "2023-03-24T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/lift-truck-and-powered-access-engineering-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/lift-truck-and-powered-access-engineering-technician-v1-1",
   "qualifications": [],
@@ -283,7 +285,7 @@
         "0277481f-da01-4d9d-afc4-9cb53c8f8982",
         "a8656213-24a6-45d9-b596-453fcb841e27"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c11b674-98cc-4c2b-b334-0b5d323d58d2",
         "514cb5fc-1507-40cc-bcd3-037b84e0604c",
@@ -328,7 +330,7 @@
         "0277481f-da01-4d9d-afc4-9cb53c8f8982",
         "a8656213-24a6-45d9-b596-453fcb841e27"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c11b674-98cc-4c2b-b334-0b5d323d58d2",
         "514cb5fc-1507-40cc-bcd3-037b84e0604c",
@@ -373,7 +375,7 @@
         "0277481f-da01-4d9d-afc4-9cb53c8f8982",
         "a8656213-24a6-45d9-b596-453fcb841e27"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c11b674-98cc-4c2b-b334-0b5d323d58d2",
         "514cb5fc-1507-40cc-bcd3-037b84e0604c",
@@ -418,7 +420,7 @@
         "0277481f-da01-4d9d-afc4-9cb53c8f8982",
         "a8656213-24a6-45d9-b596-453fcb841e27"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c11b674-98cc-4c2b-b334-0b5d323d58d2",
         "514cb5fc-1507-40cc-bcd3-037b84e0604c",
@@ -463,7 +465,7 @@
         "0277481f-da01-4d9d-afc4-9cb53c8f8982",
         "a8656213-24a6-45d9-b596-453fcb841e27"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c11b674-98cc-4c2b-b334-0b5d323d58d2",
         "514cb5fc-1507-40cc-bcd3-037b84e0604c",
@@ -507,7 +509,7 @@
         "0277481f-da01-4d9d-afc4-9cb53c8f8982",
         "a8656213-24a6-45d9-b596-453fcb841e27"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c11b674-98cc-4c2b-b334-0b5d323d58d2",
         "514cb5fc-1507-40cc-bcd3-037b84e0604c",
@@ -547,7 +549,7 @@
         "90273a99-fe0f-4512-a74e-47280fb9abe3",
         "dc60807a-44c6-432e-91de-ffbb13d7d7db"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c11b674-98cc-4c2b-b334-0b5d323d58d2",
         "514cb5fc-1507-40cc-bcd3-037b84e0604c",
@@ -586,7 +588,7 @@
         "a8656213-24a6-45d9-b596-453fcb841e27",
         "dc60807a-44c6-432e-91de-ffbb13d7d7db"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f3a65cc0-a3aa-4701-8f91-cc05185a130b",
         "2984257d-3ce8-4d32-a9f9-cce5ea9c5f39",
@@ -617,7 +619,7 @@
         "049a19da-e1f6-411f-ae5b-b31770214224",
         "dc60807a-44c6-432e-91de-ffbb13d7d7db"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c11b674-98cc-4c2b-b334-0b5d323d58d2",
         "100fcaff-81fc-4a4a-ac81-4d4a31a26db0",
@@ -653,7 +655,7 @@
         "dc60807a-44c6-432e-91de-ffbb13d7d7db",
         "61230e2b-e2d1-4832-852d-b3ad566fff0e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c11b674-98cc-4c2b-b334-0b5d323d58d2",
         "100fcaff-81fc-4a4a-ac81-4d4a31a26db0",
@@ -687,7 +689,7 @@
         "dc60807a-44c6-432e-91de-ffbb13d7d7db",
         "61230e2b-e2d1-4832-852d-b3ad566fff0e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "386bb79e-50f6-4580-bce0-f5a07c79df79",
         "d8b5a150-5942-4d43-a4c3-664ee24d8591",
@@ -714,7 +716,7 @@
         "ced6de68-2b0a-41fb-ba8b-c1a244dc29b4",
         "90273a99-fe0f-4512-a74e-47280fb9abe3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c11b674-98cc-4c2b-b334-0b5d323d58d2",
         "100fcaff-81fc-4a4a-ac81-4d4a31a26db0",
@@ -725,6 +727,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
