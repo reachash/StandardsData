@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/706",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-05-11T00:00:00Z",
-  "earliestStartDate": "2023-05-11T00:00:00Z",
+  "changedDate": "2023-05-11T00:00:00",
+  "earliestStartDate": "2023-05-11T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "To make systems, products, tasks, jobs, organisations and work environments better for their intended users.",
@@ -211,7 +211,6 @@
       "detail": "Teamwork and leadership skills including: negotiation techniques, conflict management, development techniques, and diversity, equality and inclusivity considerations."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -245,8 +244,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Engineer",
+  "clusterId": "253",
+  "clusterDescription": "Design and develop a range of products and/or process technologies using discipline and applications specific expertise",
   "createdDate": "2023-02-20T13:08:41 +00:00",
   "lastUpdated": "2023-05-11T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/human-factors-specialist-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/human-factors-specialist-v1-0",
   "qualifications": [
@@ -298,7 +300,7 @@
         "d2669141-5306-4a49-bcb9-57b0f368fc02",
         "c06b381f-96df-4943-bfa1-722a22a96751"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65001760-57c0-4eba-9e92-752c6ef29e7c",
         "c2ec643f-83bf-402c-bbed-4d5458dc9a78",
@@ -346,7 +348,7 @@
         "8fef49c1-1727-4a0d-b34b-3b71a1b25b3c",
         "d2669141-5306-4a49-bcb9-57b0f368fc02"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65001760-57c0-4eba-9e92-752c6ef29e7c",
         "db230410-1f1b-4028-89cc-b37d810a5f0a",
@@ -388,7 +390,7 @@
         "d2669141-5306-4a49-bcb9-57b0f368fc02",
         "c06b381f-96df-4943-bfa1-722a22a96751"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65001760-57c0-4eba-9e92-752c6ef29e7c",
         "441c5d62-e157-4efc-8dee-c28dd27f1f7b",
@@ -428,7 +430,7 @@
         "42281ae1-cc62-4f60-9fc6-1e1d6633c693",
         "d2669141-5306-4a49-bcb9-57b0f368fc02"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65001760-57c0-4eba-9e92-752c6ef29e7c",
         "db230410-1f1b-4028-89cc-b37d810a5f0a",
@@ -464,7 +466,7 @@
         "8fef49c1-1727-4a0d-b34b-3b71a1b25b3c",
         "d2669141-5306-4a49-bcb9-57b0f368fc02"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65001760-57c0-4eba-9e92-752c6ef29e7c",
         "c2ec643f-83bf-402c-bbed-4d5458dc9a78",
@@ -501,7 +503,7 @@
         "16c5fecc-bc29-49fc-907d-4120711c80bc",
         "8fef49c1-1727-4a0d-b34b-3b71a1b25b3c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65001760-57c0-4eba-9e92-752c6ef29e7c",
         "c2ec643f-83bf-402c-bbed-4d5458dc9a78",
@@ -535,7 +537,7 @@
         "acca46d4-70fd-44b1-b31e-fc0fcef0f327",
         "d2669141-5306-4a49-bcb9-57b0f368fc02"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c2ec643f-83bf-402c-bbed-4d5458dc9a78",
         "cb45e644-5312-4823-90ba-59396299566c",
@@ -573,7 +575,7 @@
         "8fef49c1-1727-4a0d-b34b-3b71a1b25b3c",
         "d2669141-5306-4a49-bcb9-57b0f368fc02"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65001760-57c0-4eba-9e92-752c6ef29e7c",
         "c2ec643f-83bf-402c-bbed-4d5458dc9a78",
@@ -615,7 +617,7 @@
         "8fef49c1-1727-4a0d-b34b-3b71a1b25b3c",
         "d2669141-5306-4a49-bcb9-57b0f368fc02"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65001760-57c0-4eba-9e92-752c6ef29e7c",
         "c2ec643f-83bf-402c-bbed-4d5458dc9a78",
@@ -654,7 +656,7 @@
         "f6eea177-76be-427a-b9f7-7d35c1579053",
         "fc100dae-da9e-4efa-aa5c-9cee9cc4158e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65001760-57c0-4eba-9e92-752c6ef29e7c",
         "441c5d62-e157-4efc-8dee-c28dd27f1f7b",
@@ -692,7 +694,7 @@
         "d2669141-5306-4a49-bcb9-57b0f368fc02",
         "c06b381f-96df-4943-bfa1-722a22a96751"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65001760-57c0-4eba-9e92-752c6ef29e7c",
         "c2ec643f-83bf-402c-bbed-4d5458dc9a78",
@@ -736,7 +738,7 @@
         "bea57c44-8113-46e9-9b44-d1b9cc21d401",
         "8fef49c1-1727-4a0d-b34b-3b71a1b25b3c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65001760-57c0-4eba-9e92-752c6ef29e7c",
         "c2ec643f-83bf-402c-bbed-4d5458dc9a78",
@@ -756,6 +758,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
