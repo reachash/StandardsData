@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/241",
   "versionNumber": "1.2",
   "change": "Standard, Funding and End-point assessment plan revised.",
-  "changedDate": "2022-05-31T00:00:00Z",
-  "earliestStartDate": "2020-12-16T00:00:00Z",
+  "changedDate": "2022-05-31T00:00:00",
+  "earliestStartDate": "2020-12-16T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Tackling a wide range of emergency situations such as tackling fires, searching, rescuing and protecting people and animals.",
@@ -185,7 +185,6 @@
       "detail": "Communicate effectively, through listening, writing, speaking and presenting information"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -217,8 +216,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Protective Services",
   "cluster": "Protective Service Officer",
+  "clusterId": "15",
+  "clusterDescription": "Provide safety, security, prevention, enforcement, protection and investigation services largely on behalf of society",
   "createdDate": "2020-12-22T10:29:59 +00:00",
   "lastUpdated": "2022-05-31T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/operational-firefighter-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/operational-firefighter-v1-2",
   "qualifications": [],
@@ -242,7 +244,7 @@
         "f10658b9-11a7-432e-8c20-7b9bb9914ca5",
         "8ee5ccfa-d224-4676-9dc7-d46fa368aa6a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8848adab-5c62-48d0-ae7f-47a571727dee",
         "59976a7e-fd6d-41f8-8708-48491a324403",
@@ -262,7 +264,7 @@
       "mappedKnowledge": [
         "a2352b6d-03fe-47e4-9b84-ea1be1be013c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8848adab-5c62-48d0-ae7f-47a571727dee",
         "ca906204-11f9-49ba-a63c-f4b3ad71dfe7",
@@ -285,7 +287,7 @@
         "50a768f1-923c-4000-94bb-c62c6a8ac451",
         "f10658b9-11a7-432e-8c20-7b9bb9914ca5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ecb4d1ac-f163-4e74-885a-d923ef304da2",
         "c050c652-92c6-4403-ba4d-87094a126513"
@@ -310,7 +312,7 @@
         "9a610e6a-d18b-468c-858f-e67a2a486c36",
         "230537ee-0840-4694-bed4-1fe3a78cab8f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8848adab-5c62-48d0-ae7f-47a571727dee",
         "ca906204-11f9-49ba-a63c-f4b3ad71dfe7",
@@ -342,7 +344,7 @@
         "f10658b9-11a7-432e-8c20-7b9bb9914ca5",
         "8ee5ccfa-d224-4676-9dc7-d46fa368aa6a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8848adab-5c62-48d0-ae7f-47a571727dee",
         "ca906204-11f9-49ba-a63c-f4b3ad71dfe7",
@@ -376,7 +378,7 @@
         "c6bdc37b-4692-46ad-96c9-51dc63cd27fb",
         "230537ee-0840-4694-bed4-1fe3a78cab8f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8848adab-5c62-48d0-ae7f-47a571727dee",
         "ca906204-11f9-49ba-a63c-f4b3ad71dfe7",
@@ -412,7 +414,7 @@
         "c6bdc37b-4692-46ad-96c9-51dc63cd27fb",
         "8ee5ccfa-d224-4676-9dc7-d46fa368aa6a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8848adab-5c62-48d0-ae7f-47a571727dee",
         "ca906204-11f9-49ba-a63c-f4b3ad71dfe7",
@@ -449,7 +451,7 @@
         "c6bdc37b-4692-46ad-96c9-51dc63cd27fb",
         "8ee5ccfa-d224-4676-9dc7-d46fa368aa6a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8848adab-5c62-48d0-ae7f-47a571727dee",
         "ca906204-11f9-49ba-a63c-f4b3ad71dfe7",
@@ -488,7 +490,7 @@
         "c6bdc37b-4692-46ad-96c9-51dc63cd27fb",
         "8ee5ccfa-d224-4676-9dc7-d46fa368aa6a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8848adab-5c62-48d0-ae7f-47a571727dee",
         "ca906204-11f9-49ba-a63c-f4b3ad71dfe7",
@@ -521,7 +523,7 @@
         "8ee5ccfa-d224-4676-9dc7-d46fa368aa6a",
         "230537ee-0840-4694-bed4-1fe3a78cab8f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8848adab-5c62-48d0-ae7f-47a571727dee",
         "ca906204-11f9-49ba-a63c-f4b3ad71dfe7",
@@ -545,7 +547,7 @@
       "mappedKnowledge": [
         "6fb2b2cb-0fdd-48b2-967f-2b23d79ae456"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8848adab-5c62-48d0-ae7f-47a571727dee",
         "ecb4d1ac-f163-4e74-885a-d923ef304da2",
@@ -569,7 +571,7 @@
         "dc7abd45-a66b-464d-8ca8-7514696a26fc",
         "8ee5ccfa-d224-4676-9dc7-d46fa368aa6a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ca906204-11f9-49ba-a63c-f4b3ad71dfe7",
         "4dfe5b48-db7f-4dfe-8239-5f0c07dc0056",
@@ -596,7 +598,7 @@
       "mappedKnowledge": [
         "50a768f1-923c-4000-94bb-c62c6a8ac451"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8848adab-5c62-48d0-ae7f-47a571727dee",
         "59976a7e-fd6d-41f8-8708-48491a324403",
@@ -622,7 +624,7 @@
         "dc7abd45-a66b-464d-8ca8-7514696a26fc",
         "8ee5ccfa-d224-4676-9dc7-d46fa368aa6a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8848adab-5c62-48d0-ae7f-47a571727dee",
         "59976a7e-fd6d-41f8-8708-48491a324403",
@@ -631,6 +633,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
