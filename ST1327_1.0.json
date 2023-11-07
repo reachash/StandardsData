@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/715",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-06-30T00:00:00Z",
-  "earliestStartDate": "2023-06-26T00:00:00Z",
+  "changedDate": "2023-06-30T00:00:00",
+  "earliestStartDate": "2023-06-26T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Install, service and repair transport refrigeration units.",
@@ -272,7 +272,6 @@
       "detail": "Follow and apply equity, diversity, and inclusion rules and procedures. "
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -303,8 +302,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2023-06-30T12:55:04 +00:00",
   "lastUpdated": "2023-06-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/mobile-transport-refrigeration-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/mobile-transport-refrigeration-technician-v1-0",
   "qualifications": [
@@ -334,7 +336,7 @@
         "6ca3e8a0-493b-4963-a0fe-4c33531ea4ef",
         "4b95a9db-e8fd-4700-99c5-102898970ca7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6df48171-8a44-4e92-a6ff-059e2d98b3ab",
         "266bb4e7-8f40-4164-aa72-35ecbe57b91d",
@@ -379,7 +381,7 @@
         "3442b27b-81fb-4d6d-83fa-1a1204a06f3d",
         "4b95a9db-e8fd-4700-99c5-102898970ca7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5c9ebe54-e792-4965-90c2-7adf42f78d0c",
         "29cdc3ae-a26d-4934-8bc7-5ce9c66784b4",
@@ -424,7 +426,7 @@
         "3442b27b-81fb-4d6d-83fa-1a1204a06f3d",
         "4b95a9db-e8fd-4700-99c5-102898970ca7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5cc6e460-e10c-4a67-9390-3fcff681c3e4",
         "29cdc3ae-a26d-4934-8bc7-5ce9c66784b4",
@@ -473,7 +475,7 @@
         "3442b27b-81fb-4d6d-83fa-1a1204a06f3d",
         "4b95a9db-e8fd-4700-99c5-102898970ca7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7347b5e2-7cfd-455a-8013-1a9f3ab81254",
         "ab6c7efe-1ea9-4f11-b8ca-b929633091b0",
@@ -515,7 +517,7 @@
         "954fe3ba-9458-4058-a1c5-aa51101aad1f",
         "4b95a9db-e8fd-4700-99c5-102898970ca7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "29cdc3ae-a26d-4934-8bc7-5ce9c66784b4",
         "641dc9c0-fe5e-4273-b247-e72203ec55b4",
@@ -550,7 +552,7 @@
         "446b7352-5e60-4880-862e-494802f64c62",
         "4b95a9db-e8fd-4700-99c5-102898970ca7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "29cdc3ae-a26d-4934-8bc7-5ce9c66784b4",
         "641dc9c0-fe5e-4273-b247-e72203ec55b4",
@@ -564,13 +566,13 @@
       "dutyID": "5baaa817-a9bc-4fcc-bd13-e1e4b2b39abe",
       "dutyDetail": "Complete legal documentation for customers and employer.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "398a14fc-c748-48ee-93b9-90202764999b",
         "4aa5d0be-4f4f-4db1-b94a-ffbb2f80d08c",
         "05656d9d-d300-479d-8328-95f96c4c77ee"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "70bd6381-9336-49b2-b335-3877bfd963ec",
         "fca48f51-a765-40c7-b4fe-e89bb05b72b8"
@@ -589,7 +591,7 @@
         "79c8d10c-92ff-408a-8428-5a61f003c87b",
         "4f9c69e7-dabd-4da4-8ed6-68484853d085"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7e8de668-809c-4878-81c9-cb23527a14d5",
         "d9a1be1a-ffc8-4831-a2ba-61f5ef748247",
@@ -601,10 +603,10 @@
       "dutyID": "fada2f60-4c20-46e3-a651-a8c0026effdc",
       "dutyDetail": "Maintain a complete stock of base level equipment.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
-      "mappedKnowledge": null,
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -618,13 +620,14 @@
         "79c8d10c-92ff-408a-8428-5a61f003c87b",
         "4f9c69e7-dabd-4da4-8ed6-68484853d085"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9a1be1a-ffc8-4831-a2ba-61f5ef748247"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
