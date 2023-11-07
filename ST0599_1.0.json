@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/469",
   "versionNumber": "1.0",
   "change": "Retired",
-  "changedDate": "2021-07-16T00:00:00Z",
-  "earliestStartDate": "2019-07-03T00:00:00Z",
-  "latestStartDate": "2021-07-15T00:00:00Z",
+  "changedDate": "2021-07-16T00:00:00",
+  "earliestStartDate": "2019-07-03T00:00:00",
+  "latestStartDate": "2021-07-15T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Using advanced communication and behaviour-change skills to enable people to make lifestyle and food choices to improve their health.",
   "level": 6,
@@ -235,7 +235,6 @@
       "detail": "Appraise and use food labelling and health claims appropriately in the practical advice delivered to individuals, groups and populations"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -265,8 +264,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Health",
   "cluster": "Health Professional",
+  "clusterId": "6",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2019-12-20T16:09:32 +00:00",
   "lastUpdated": "2021-07-16T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/dietitian-integrated-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/dietitian-integrated-degree-v1-0",
   "qualifications": [
@@ -303,7 +305,7 @@
         "e02f5d9e-35ca-46b9-bb6f-d6893166d016",
         "5b432998-bb25-492f-8f4a-22cb29b84172"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "55cf97dd-d8c6-4827-a7a6-17f66d4eaab2",
         "0810985d-f654-4b64-b00a-88c590ede6d2",
@@ -333,7 +335,7 @@
         "dd54e54d-7e08-40ae-8b07-6555428e0d84",
         "056137c0-9bef-4000-8b8e-7847470cc598"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "55cf97dd-d8c6-4827-a7a6-17f66d4eaab2",
         "6aadce15-187e-4515-8dbf-2f8fd2a5e30d",
@@ -361,7 +363,7 @@
         "46c5131a-3b3b-46bd-965d-fd478c6418be",
         "c867fbb1-f3aa-45af-bf7b-172a5067c41b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3163d85-e178-4c0d-b2ab-1a3ea0dcf67f",
         "f1ca71f8-8b41-4744-a6d8-3a7e8cd84ed3",
@@ -390,7 +392,7 @@
         "3217a10c-ba2f-4f0f-9c4f-ad23a8813b3d",
         "dd54e54d-7e08-40ae-8b07-6555428e0d84"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0810985d-f654-4b64-b00a-88c590ede6d2",
         "f1ca71f8-8b41-4744-a6d8-3a7e8cd84ed3",
@@ -415,7 +417,7 @@
         "fc229ef7-7f00-4cf4-8802-5ee3998e7aa6",
         "a02a834e-8d0d-4f2e-b0f4-7871d49ff8af"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "55cf97dd-d8c6-4827-a7a6-17f66d4eaab2",
         "af29f2e1-dd1d-484a-b518-7cbe719de0c4",
@@ -441,7 +443,7 @@
         "3217a10c-ba2f-4f0f-9c4f-ad23a8813b3d",
         "dd54e54d-7e08-40ae-8b07-6555428e0d84"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f1ca71f8-8b41-4744-a6d8-3a7e8cd84ed3",
         "06d99151-ff5c-4175-a9ba-4c07bc0c94ff",
@@ -466,7 +468,7 @@
         "e02f5d9e-35ca-46b9-bb6f-d6893166d016",
         "5b432998-bb25-492f-8f4a-22cb29b84172"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "55cf97dd-d8c6-4827-a7a6-17f66d4eaab2",
         "8c365745-67ae-4fcc-9ce9-23ab192ab899",
@@ -494,7 +496,7 @@
         "090fefc5-fde2-4978-9889-dcb6a58d7dfa",
         "c867fbb1-f3aa-45af-bf7b-172a5067c41b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0810985d-f654-4b64-b00a-88c590ede6d2",
         "06d99151-ff5c-4175-a9ba-4c07bc0c94ff",
@@ -524,7 +526,7 @@
         "fc229ef7-7f00-4cf4-8802-5ee3998e7aa6",
         "090fefc5-fde2-4978-9889-dcb6a58d7dfa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8c365745-67ae-4fcc-9ce9-23ab192ab899",
         "af29f2e1-dd1d-484a-b518-7cbe719de0c4",
@@ -547,7 +549,7 @@
         "8049abc2-911b-40e1-925e-098d5e528ed7",
         "b74e84f8-cb7f-485a-b2ae-d3bad0f57ebd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f1ca71f8-8b41-4744-a6d8-3a7e8cd84ed3",
         "d07f4fc7-b635-4d08-8acc-02c94ca3bb33",
@@ -569,7 +571,7 @@
         "bd853a4d-2275-4440-a534-37feb051f68c",
         "e02f5d9e-35ca-46b9-bb6f-d6893166d016"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "55cf97dd-d8c6-4827-a7a6-17f66d4eaab2",
         "af29f2e1-dd1d-484a-b518-7cbe719de0c4"
@@ -588,7 +590,7 @@
         "bd853a4d-2275-4440-a534-37feb051f68c",
         "32b29f4e-042e-437f-8a32-796b838dcfdf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "55cf97dd-d8c6-4827-a7a6-17f66d4eaab2",
         "c69a7e1e-69c8-4334-b079-04dec01569fb"
@@ -610,7 +612,7 @@
         "b74e84f8-cb7f-485a-b2ae-d3bad0f57ebd",
         "090fefc5-fde2-4978-9889-dcb6a58d7dfa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "55cf97dd-d8c6-4827-a7a6-17f66d4eaab2",
         "ba7fdabe-a912-4add-bc6d-01d54b1f0caf",
@@ -621,6 +623,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training provider ",
