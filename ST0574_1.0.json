@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/328",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-01-22T00:00:00Z",
-  "earliestStartDate": "2018-08-08T00:00:00Z",
+  "changedDate": "2021-01-22T00:00:00",
+  "earliestStartDate": "2018-08-08T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Analysing, interpreting and evaluating technical information, concepts and ideas to propose solutions to problems",
@@ -425,28 +425,6 @@
       "detail": "Effectively communicate using different ways of presenting results of trials and tests to the customer"
     }
   ],
-  "options": [
-    {
-      "optionId": "ca03f59c-1e22-4233-b5dd-77a407941a39",
-      "title": "Research and Development Professional"
-    },
-    {
-      "optionId": "3281f761-4784-4f9d-a46f-420062d9623e",
-      "title": "Safety Professional"
-    },
-    {
-      "optionId": "316e7c06-bf54-4ea8-bd3f-364e2f759fb0",
-      "title": "Manufacturing & Processing Professional"
-    },
-    {
-      "optionId": "df190805-cb18-42c5-87ec-3c4a85c8a85b",
-      "title": "Breakdown & Disposal Professional"
-    },
-    {
-      "optionId": "ab66b760-0ebb-4472-a532-22e013bc98f6",
-      "title": "Test & Evaluation Professional"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Research and Development Professional",
     "Safety Professional",
@@ -480,13 +458,43 @@
   "reviewDetails": "",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing Engineer",
+  "clusterId": "263",
+  "clusterDescription": "Introduce complex technologies into the manufacturing environment and improve manufacturing technologies",
   "createdDate": "2017-11-14T17:10:50 +00:00",
   "lastUpdated": "2021-01-22T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/ordnance-munitions-and-explosives-ome-professional-integrated-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/ordnance-munitions-and-explosives-ome-professional-integrated-degree-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "ca03f59c-1e22-4233-b5dd-77a407941a39",
+      "title": "Research and Development Professional",
+      "occupationCode": null
+    },
+    {
+      "optionId": "3281f761-4784-4f9d-a46f-420062d9623e",
+      "title": "Safety Professional",
+      "occupationCode": null
+    },
+    {
+      "optionId": "316e7c06-bf54-4ea8-bd3f-364e2f759fb0",
+      "title": "Manufacturing & Processing Professional",
+      "occupationCode": null
+    },
+    {
+      "optionId": "df190805-cb18-42c5-87ec-3c4a85c8a85b",
+      "title": "Breakdown & Disposal Professional",
+      "occupationCode": null
+    },
+    {
+      "optionId": "ab66b760-0ebb-4472-a532-22e013bc98f6",
+      "title": "Test & Evaluation Professional",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
