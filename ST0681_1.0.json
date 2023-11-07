@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/475",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2019-07-03T00:00:00Z",
-  "earliestStartDate": "2019-07-03T00:00:00Z",
+  "changedDate": "2019-07-03T00:00:00",
+  "earliestStartDate": "2019-07-03T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Leading on complex Electronic Systems projects from conception through the whole design-implement-operation life cycle to obsolescence.",
@@ -122,7 +122,6 @@
       "detail": " Apply effective time management techniques and be able to multi-task whilst meeting deadlines"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -150,8 +149,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Engineer",
+  "clusterId": "253",
+  "clusterDescription": "Design and develop a range of products and/or process technologies using discipline and applications specific expertise",
   "createdDate": "2020-02-10T13:05:35 +00:00",
   "lastUpdated": "2019-07-03T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/electronic-systems-principal-engineer-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/electronic-systems-principal-engineer-v1-0",
   "qualifications": [],
@@ -177,7 +179,7 @@
         "d8593709-9a46-4f71-8118-6476dc6b0632",
         "5653190d-32f0-48d3-bb5e-26f95b0f19d0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8bc3c038-7d8c-4c0b-a302-8c7b611f39a8",
         "5a84db5a-762c-4ba9-ba1d-8a466548dfda",
@@ -199,7 +201,7 @@
         "4e659c7a-b54f-426e-9d0d-9fba94547cdf",
         "b14b1db5-747c-412e-81b7-3e6a63068674"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8bc3c038-7d8c-4c0b-a302-8c7b611f39a8",
         "b2b99443-5852-46ad-96b0-c362cbc375cb"
@@ -218,7 +220,7 @@
         "b14b1db5-747c-412e-81b7-3e6a63068674",
         "0d66fd77-288e-47d4-ac1d-ed85a3833ccb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8bc3c038-7d8c-4c0b-a302-8c7b611f39a8",
         "5a84db5a-762c-4ba9-ba1d-8a466548dfda",
@@ -241,7 +243,7 @@
         "d8593709-9a46-4f71-8118-6476dc6b0632",
         "5653190d-32f0-48d3-bb5e-26f95b0f19d0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8bc3c038-7d8c-4c0b-a302-8c7b611f39a8",
         "5a84db5a-762c-4ba9-ba1d-8a466548dfda",
@@ -263,7 +265,7 @@
         "d8593709-9a46-4f71-8118-6476dc6b0632",
         "4e659c7a-b54f-426e-9d0d-9fba94547cdf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8bc3c038-7d8c-4c0b-a302-8c7b611f39a8",
         "5a84db5a-762c-4ba9-ba1d-8a466548dfda",
@@ -284,7 +286,7 @@
         "d8593709-9a46-4f71-8118-6476dc6b0632",
         "4e659c7a-b54f-426e-9d0d-9fba94547cdf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8bc3c038-7d8c-4c0b-a302-8c7b611f39a8",
         "5a84db5a-762c-4ba9-ba1d-8a466548dfda",
@@ -305,7 +307,7 @@
         "b14b1db5-747c-412e-81b7-3e6a63068674",
         "0d66fd77-288e-47d4-ac1d-ed85a3833ccb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8bc3c038-7d8c-4c0b-a302-8c7b611f39a8",
         "b2b99443-5852-46ad-96b0-c362cbc375cb"
@@ -326,7 +328,7 @@
         "b14b1db5-747c-412e-81b7-3e6a63068674",
         "0d66fd77-288e-47d4-ac1d-ed85a3833ccb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8e8e63ee-16f9-4a3d-b13f-5b79255fa8d5",
         "49ce398b-7858-4fb9-860e-a0bda0af8236",
@@ -349,7 +351,7 @@
         "5653190d-32f0-48d3-bb5e-26f95b0f19d0",
         "b14b1db5-747c-412e-81b7-3e6a63068674"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8e8e63ee-16f9-4a3d-b13f-5b79255fa8d5",
         "49ce398b-7858-4fb9-860e-a0bda0af8236",
@@ -371,7 +373,7 @@
         "5653190d-32f0-48d3-bb5e-26f95b0f19d0",
         "b14b1db5-747c-412e-81b7-3e6a63068674"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b2b99443-5852-46ad-96b0-c362cbc375cb",
         "77158a04-5d9a-4593-9524-407d04fe0d1c"
@@ -393,7 +395,7 @@
         "4e659c7a-b54f-426e-9d0d-9fba94547cdf",
         "0d66fd77-288e-47d4-ac1d-ed85a3833ccb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "77158a04-5d9a-4593-9524-407d04fe0d1c",
         "6d8e424c-9eab-4b19-81a0-4a697fc7e329",
@@ -414,7 +416,7 @@
         "4e659c7a-b54f-426e-9d0d-9fba94547cdf",
         "b14b1db5-747c-412e-81b7-3e6a63068674"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6d8e424c-9eab-4b19-81a0-4a697fc7e329",
         "eec7e744-ad2e-432b-973d-3aa8c82f2aed"
@@ -422,6 +424,7 @@
       "criteriaForMeasuringPerformance": "Successful development of individual and team capability and performance"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
