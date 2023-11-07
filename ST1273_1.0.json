@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/708",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-05-22T00:00:00Z",
-  "earliestStartDate": "2023-05-22T00:00:00Z",
+  "changedDate": "2023-05-22T00:00:00",
+  "earliestStartDate": "2023-05-22T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Demonstrate a range of Barbering skills tailored to client requirements, whilst providing an outstanding service.",
@@ -272,7 +272,6 @@
       "detail": "Evaluate the results of the service. "
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -303,8 +302,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Hair, Beauty and Aesthetics",
   "cluster": "Hair Specialist",
+  "clusterId": "113",
+  "clusterDescription": "Clean, condition, cut, style, finish, and colour hair including facial hair",
   "createdDate": "2023-05-22T12:01:00 +00:00",
   "lastUpdated": "2023-05-22T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/barbering-professional-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/barbering-professional-v1-0",
   "qualifications": [
@@ -357,7 +359,7 @@
         "fcedb809-702a-45a7-93c4-08442d13845d",
         "8d64da2f-2e6c-46db-9afe-80fb10ae480a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f5b5722f-ec34-40f4-b3fb-3811e2f35aa9",
         "27f9fcdf-f952-457c-8142-652bd8ebb186",
@@ -418,7 +420,7 @@
         "e3010ebd-82c1-403b-a59a-1667f8e65ade",
         "8d64da2f-2e6c-46db-9afe-80fb10ae480a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f5b5722f-ec34-40f4-b3fb-3811e2f35aa9",
         "27f9fcdf-f952-457c-8142-652bd8ebb186",
@@ -474,7 +476,7 @@
         "e3010ebd-82c1-403b-a59a-1667f8e65ade",
         "8d64da2f-2e6c-46db-9afe-80fb10ae480a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f5b5722f-ec34-40f4-b3fb-3811e2f35aa9",
         "27f9fcdf-f952-457c-8142-652bd8ebb186",
@@ -529,7 +531,7 @@
         "e3010ebd-82c1-403b-a59a-1667f8e65ade",
         "8d64da2f-2e6c-46db-9afe-80fb10ae480a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f5b5722f-ec34-40f4-b3fb-3811e2f35aa9",
         "27f9fcdf-f952-457c-8142-652bd8ebb186",
@@ -578,7 +580,7 @@
         "1fa84b60-ba56-4122-a090-25dccbe7febf",
         "8d64da2f-2e6c-46db-9afe-80fb10ae480a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f5b5722f-ec34-40f4-b3fb-3811e2f35aa9",
         "27f9fcdf-f952-457c-8142-652bd8ebb186",
@@ -624,7 +626,7 @@
         "e3010ebd-82c1-403b-a59a-1667f8e65ade",
         "8d64da2f-2e6c-46db-9afe-80fb10ae480a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f5b5722f-ec34-40f4-b3fb-3811e2f35aa9",
         "27f9fcdf-f952-457c-8142-652bd8ebb186",
@@ -668,7 +670,7 @@
         "46a9a335-9069-4d3d-8e93-a9446c8239de",
         "8d64da2f-2e6c-46db-9afe-80fb10ae480a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f5b5722f-ec34-40f4-b3fb-3811e2f35aa9",
         "27f9fcdf-f952-457c-8142-652bd8ebb186",
@@ -713,7 +715,7 @@
         "46a9a335-9069-4d3d-8e93-a9446c8239de",
         "8d64da2f-2e6c-46db-9afe-80fb10ae480a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f5b5722f-ec34-40f4-b3fb-3811e2f35aa9",
         "27f9fcdf-f952-457c-8142-652bd8ebb186",
@@ -751,7 +753,7 @@
         "fcedb809-702a-45a7-93c4-08442d13845d",
         "8d64da2f-2e6c-46db-9afe-80fb10ae480a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b73c373d-415c-48db-ba26-b164efafb023",
         "3e59014c-e36e-4b1c-b79b-387265ce91d3",
@@ -766,13 +768,14 @@
       "dutyID": "1172c1e1-b2bb-4539-9242-1728dd811ec4",
       "dutyDetail": "Maintain up to date knowledge and skills of new and emerging hairstyles, trends, techniques, products, tools and equipment.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
-      "mappedKnowledge": null,
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
