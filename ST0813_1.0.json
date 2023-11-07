@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/615",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-01-07T00:00:00Z",
-  "earliestStartDate": "2021-01-07T00:00:00Z",
+  "changedDate": "2021-01-07T00:00:00",
+  "earliestStartDate": "2021-01-07T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Improve people practices in organisations in order to drive organisational performance and effectiveness.",
@@ -274,20 +274,6 @@
       "detail": "(HR) Select, evaluate and apply appropriate performance management approaches and use relevant data to drive improvement."
     }
   ],
-  "options": [
-    {
-      "optionId": "7c8c1f47-4480-446a-b937-9727ab155356",
-      "title": "Senior Human Resources (HR) Professional"
-    },
-    {
-      "optionId": "2339d92a-adeb-4e38-b3a3-97807f188fd1",
-      "title": "Senior Learning & Development (L&D) Professional"
-    },
-    {
-      "optionId": "fb3fd21e-b7e5-42d0-8eaa-2708428e76dd",
-      "title": "Senior Organisation Development (OD) Professional"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -315,8 +301,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Human Resources",
   "cluster": "Human Resources Professional",
+  "clusterId": "7",
+  "clusterDescription": "Provision of high level human resource advice and leadership across an organisation combined with the ability to define strategic and operational organisation-wide human resource challenges and to develop lasting solutions",
   "createdDate": "2023-07-20T14:27:08 +00:00",
   "lastUpdated": "2021-01-07T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/senior-people-professional-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/senior-people-professional-v1-0",
   "qualifications": [],
@@ -345,7 +334,7 @@
         "caa93c77-0b78-4c16-bc8e-a259568a6c20",
         "efab350a-5496-4d6d-897f-3b5fad08501f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ec730d64-e374-45a1-b70f-acdd158edcad",
         "3541efe5-572a-458a-8218-14e48ec6faaa",
@@ -369,7 +358,7 @@
         "0a5eb26c-fc36-465e-8960-027c68a25385",
         "efab350a-5496-4d6d-897f-3b5fad08501f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3541efe5-572a-458a-8218-14e48ec6faaa",
         "59db88ab-ec14-43a1-a35e-23ed85eb19e2",
@@ -395,7 +384,7 @@
         "e3d5d193-3533-4513-aa71-3c3cb2a6da7b",
         "c072b3da-276b-4d52-8cd4-a78119f15e52"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ddf859b5-039f-48cd-ac90-5174a343e52e",
         "12511e9d-883c-4ec2-ac32-a997ed7d9948",
@@ -419,7 +408,7 @@
         "efab350a-5496-4d6d-897f-3b5fad08501f",
         "00a06a35-4fdf-4360-973a-3be366174d53"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "831a0639-c01f-44b0-a3e4-6a0b376aa12d",
         "abc60aa2-c058-4542-9f5f-387e207c1d94",
@@ -442,7 +431,7 @@
         "00a06a35-4fdf-4360-973a-3be366174d53",
         "abbf8236-04d0-4bb3-a85a-dae05419f972"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3541efe5-572a-458a-8218-14e48ec6faaa",
         "59db88ab-ec14-43a1-a35e-23ed85eb19e2",
@@ -466,7 +455,7 @@
         "05be48bc-983c-43a8-9133-1e02613154d9",
         "abbf8236-04d0-4bb3-a85a-dae05419f972"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1faa3121-f7ce-4437-bdd5-22db489c26d1",
         "59db88ab-ec14-43a1-a35e-23ed85eb19e2",
@@ -488,7 +477,7 @@
         "331b5197-50c3-4c3b-875a-a0febd628529",
         "cc6989c3-3dcd-4e4e-af15-f834410ababd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "59db88ab-ec14-43a1-a35e-23ed85eb19e2",
         "831a0639-c01f-44b0-a3e4-6a0b376aa12d",
@@ -511,7 +500,7 @@
         "0a5eb26c-fc36-465e-8960-027c68a25385",
         "abbf8236-04d0-4bb3-a85a-dae05419f972"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3541efe5-572a-458a-8218-14e48ec6faaa",
         "59db88ab-ec14-43a1-a35e-23ed85eb19e2",
@@ -533,7 +522,7 @@
         "ac1b289c-9d7c-4a2e-b7c4-17492a73eb8f",
         "efab350a-5496-4d6d-897f-3b5fad08501f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2a4516ee-b2a5-4326-bf94-5f35f8aca225",
         "eac38bd2-6bdf-49e4-9374-58bb2c7712fe"
@@ -553,7 +542,7 @@
         "ac1b289c-9d7c-4a2e-b7c4-17492a73eb8f",
         "efab350a-5496-4d6d-897f-3b5fad08501f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2a4516ee-b2a5-4326-bf94-5f35f8aca225",
         "eac38bd2-6bdf-49e4-9374-58bb2c7712fe"
@@ -571,7 +560,7 @@
         "331b5197-50c3-4c3b-875a-a0febd628529",
         "00a06a35-4fdf-4360-973a-3be366174d53"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "831a0639-c01f-44b0-a3e4-6a0b376aa12d",
         "62f1d930-7bf0-45b9-8671-04b5ad6f9a82"
@@ -589,7 +578,7 @@
         "70b56e89-0106-4407-a54a-87c640a94d08",
         "cc6989c3-3dcd-4e4e-af15-f834410ababd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ec730d64-e374-45a1-b70f-acdd158edcad",
         "ddf859b5-039f-48cd-ac90-5174a343e52e"
@@ -1058,6 +1047,23 @@
         "268b3479-7837-45a1-9962-a311386258f9"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "7c8c1f47-4480-446a-b937-9727ab155356",
+      "title": "Senior Human Resources (HR) Professional",
+      "occupationCode": null
+    },
+    {
+      "optionId": "2339d92a-adeb-4e38-b3a3-97807f188fd1",
+      "title": "Senior Learning & Development (L&D) Professional",
+      "occupationCode": null
+    },
+    {
+      "optionId": "fb3fd21e-b7e5-42d0-8eaa-2708428e76dd",
+      "title": "Senior Organisation Development (OD) Professional",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
