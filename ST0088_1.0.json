@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/309",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2018-06-29T00:00:00Z",
-  "earliestStartDate": "2018-06-29T00:00:00Z",
+  "changedDate": "2018-06-29T00:00:00",
+  "earliestStartDate": "2018-06-29T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Working with children, young people and families, including carers, to achieve positive and sustainable change in their lives.",
@@ -261,16 +261,6 @@
       "detail": "Supports children, young people or vulnerable adults to identify and take action to deal with safeguarding risk"
     }
   ],
-  "options": [
-    {
-      "optionId": "164dc1f8-3975-49db-a35e-48ead78c6e5e",
-      "title": "Children, Young People & Families Practitioner within the Community"
-    },
-    {
-      "optionId": "5b25a900-e6df-4d9a-bf83-04dace359f4d",
-      "title": "Practitioner in Children's Residential Care"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Children, Young People & Families Practitioner within the Community",
     "Practitioner in Children's Residential Care"
@@ -303,13 +293,28 @@
   "reviewDetails": "",
   "pathway": "Care Services",
   "cluster": "Children, Young People and Families Manager",
+  "clusterId": "168",
+  "clusterDescription": "Achieve a positive and lasting change in the status of client's lives and seek to raise the effectiveness of the services provided through regular reviews assisted by supervision",
   "createdDate": "2017-11-14T17:10:24 +00:00",
   "lastUpdated": "2018-06-29T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/children-young-people-and-families-practitioner-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/children-young-people-and-families-practitioner-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "164dc1f8-3975-49db-a35e-48ead78c6e5e",
+      "title": "Children, Young People & Families Practitioner within the Community",
+      "occupationCode": null
+    },
+    {
+      "optionId": "5b25a900-e6df-4d9a-bf83-04dace359f4d",
+      "title": "Practitioner in Children's Residential Care",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
