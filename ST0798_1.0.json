@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/604",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-01-22T00:00:00Z",
-  "earliestStartDate": "2020-10-23T00:00:00Z",
+  "changedDate": "2021-01-22T00:00:00",
+  "earliestStartDate": "2020-10-23T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Design, analyse, interpret and report clinical research and clinical trials.",
@@ -154,7 +154,6 @@
       "detail": "Learning and development\n\n- Research, critique and assess new techniques and methodologies \n- Listen to learners to assess their understanding and adapt techniques to their needs, using ethical and safe practices when mentoring, coaching and training others"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -187,8 +186,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Healthcare Science",
   "cluster": "Healthcare Science Professional",
+  "clusterId": "21",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2020-03-05T15:43:56 +00:00",
   "lastUpdated": "2021-01-22T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/clinical-pharmacology-scientist-integrated-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/clinical-pharmacology-scientist-integrated-degree-v1-0",
   "qualifications": [
@@ -225,7 +227,7 @@
         "df1b77ed-1667-4614-b4ac-35b9ecb87396",
         "6b29292a-52c5-4a00-80e8-3810edda803d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6eac3947-5b38-42ed-abb2-479fecce10aa",
         "89fbd6df-19aa-46d6-a53d-6f686a2c98e3",
@@ -254,7 +256,7 @@
         "6b29292a-52c5-4a00-80e8-3810edda803d",
         "8167aaf8-b0cb-4fc7-a7c9-4f1970e3cfde"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a4a50c74-b87f-4aa7-b3c3-739f71290d95",
         "769e923e-f661-46dd-be90-f63ee241b049",
@@ -285,7 +287,7 @@
         "8aaaa13c-c0ed-40af-8096-e49c51d95a71",
         "8167aaf8-b0cb-4fc7-a7c9-4f1970e3cfde"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a4a50c74-b87f-4aa7-b3c3-739f71290d95",
         "769e923e-f661-46dd-be90-f63ee241b049",
@@ -309,7 +311,7 @@
       "mappedKnowledge": [
         "2adb3991-c4e0-4d97-be60-8e208ff6fd03"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ed848164-975a-42c5-bae1-e4d7363d51b6",
         "513ceefa-e87d-4f62-a72f-32046196e575"
@@ -329,7 +331,7 @@
       "mappedKnowledge": [
         "2adb3991-c4e0-4d97-be60-8e208ff6fd03"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ed848164-975a-42c5-bae1-e4d7363d51b6",
         "513ceefa-e87d-4f62-a72f-32046196e575"
@@ -354,7 +356,7 @@
         "6b29292a-52c5-4a00-80e8-3810edda803d",
         "8167aaf8-b0cb-4fc7-a7c9-4f1970e3cfde"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6eac3947-5b38-42ed-abb2-479fecce10aa",
         "89fbd6df-19aa-46d6-a53d-6f686a2c98e3",
@@ -378,7 +380,7 @@
         "8aaaa13c-c0ed-40af-8096-e49c51d95a71",
         "8167aaf8-b0cb-4fc7-a7c9-4f1970e3cfde"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "769e923e-f661-46dd-be90-f63ee241b049",
         "89fbd6df-19aa-46d6-a53d-6f686a2c98e3",
@@ -404,7 +406,7 @@
         "8aaaa13c-c0ed-40af-8096-e49c51d95a71",
         "8167aaf8-b0cb-4fc7-a7c9-4f1970e3cfde"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "769e923e-f661-46dd-be90-f63ee241b049",
         "9a5969dd-979b-4aa9-a12c-97abe295901d",
@@ -428,7 +430,7 @@
         "bc7471dc-808f-4ca4-b2e6-3c4e110d91ed",
         "6b29292a-52c5-4a00-80e8-3810edda803d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6eac3947-5b38-42ed-abb2-479fecce10aa",
         "a4a50c74-b87f-4aa7-b3c3-739f71290d95",
@@ -450,7 +452,7 @@
       "mappedKnowledge": [
         "d54d6a9e-0b44-4125-950e-a77ba803fd16"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e609ddb6-2621-4a8a-b4b2-8500ce38a8f6"
       ],
@@ -468,7 +470,7 @@
       "mappedKnowledge": [
         "8aaaa13c-c0ed-40af-8096-e49c51d95a71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "21a99419-09f1-496a-b2cb-afd71dc8840c"
       ],
@@ -488,7 +490,7 @@
         "d54d6a9e-0b44-4125-950e-a77ba803fd16",
         "8167aaf8-b0cb-4fc7-a7c9-4f1970e3cfde"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7921513e-f27d-4cd2-825f-316b085eafae",
         "21a99419-09f1-496a-b2cb-afd71dc8840c"
@@ -509,7 +511,7 @@
       "mappedKnowledge": [
         "8aaaa13c-c0ed-40af-8096-e49c51d95a71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e609ddb6-2621-4a8a-b4b2-8500ce38a8f6"
       ],
@@ -530,7 +532,7 @@
         "8aaaa13c-c0ed-40af-8096-e49c51d95a71",
         "d54d6a9e-0b44-4125-950e-a77ba803fd16"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "21a99419-09f1-496a-b2cb-afd71dc8840c",
         "e609ddb6-2621-4a8a-b4b2-8500ce38a8f6"
@@ -538,6 +540,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
