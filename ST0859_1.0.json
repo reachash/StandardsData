@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/642",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-07-07T00:00:00Z",
-  "earliestStartDate": "2021-07-01T00:00:00Z",
+  "changedDate": "2021-07-07T00:00:00",
+  "earliestStartDate": "2021-07-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Provide specialist, fire-related information across the built environment to protect people and property from the destructive effects of fire by applying science and engineering principles.",
@@ -181,7 +181,6 @@
       "detail": "Apply acquired knowledge to develop and or review fire safety solutions and be able to objectively review, identify issues or offer alternative solutions/opinions including, fire engineered analysis, means of escape calculations, smoke ventilation calculations, heat transfer calculations and hazard identification and fire risk assessments."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -210,10 +209,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Building Services Engineering",
-  "cluster": "Building Services Engineering Professional",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2020-03-16T15:55:32 +00:00",
   "lastUpdated": "2021-07-07T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/fire-safety-engineer-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/fire-safety-engineer-degree-v1-0",
   "qualifications": [
@@ -237,14 +239,14 @@
       "dutyID": "a5484207-7a5b-4948-ab83-7a542c620009",
       "dutyDetail": "Research and critically evaluate complex fire engineering systems, products and processes",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "b3efc069-16ab-4160-9d8b-2660cc227856",
         "56fbb424-ef37-47fb-a917-c7acf04bf347",
         "162f2eb0-760e-490c-967f-e8df5dca7c95",
         "2d34e261-12e8-4d84-9108-c9867d3dfe5b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8481ed58-d066-4ff0-a508-f9a1edcbde26",
         "59268a0f-ebff-42bb-b922-8e7fc86307e7",
@@ -258,14 +260,14 @@
       "dutyID": "3114f741-c6d5-4953-9f7b-1f4113e05c65",
       "dutyDetail": "Apply advanced mathematical, scientific and engineering principles, methods and modelling to the design of fire engineering solutions",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "b3efc069-16ab-4160-9d8b-2660cc227856",
         "56fbb424-ef37-47fb-a917-c7acf04bf347",
         "162f2eb0-760e-490c-967f-e8df5dca7c95",
         "2d34e261-12e8-4d84-9108-c9867d3dfe5b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8481ed58-d066-4ff0-a508-f9a1edcbde26",
         "8bb17b31-f472-4f66-8a2c-dab515a5f26c",
@@ -290,7 +292,7 @@
         "43af18c3-7de9-47d0-9234-54345ebf2770",
         "28319e82-28b8-4cb7-8dfc-91d0ec22f37a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8481ed58-d066-4ff0-a508-f9a1edcbde26",
         "59268a0f-ebff-42bb-b922-8e7fc86307e7",
@@ -322,7 +324,7 @@
         "43af18c3-7de9-47d0-9234-54345ebf2770",
         "28319e82-28b8-4cb7-8dfc-91d0ec22f37a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8481ed58-d066-4ff0-a508-f9a1edcbde26",
         "59268a0f-ebff-42bb-b922-8e7fc86307e7",
@@ -351,7 +353,7 @@
         "76697d54-feb0-4f0b-80ba-24914f04e55c",
         "43af18c3-7de9-47d0-9234-54345ebf2770"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8481ed58-d066-4ff0-a508-f9a1edcbde26",
         "59268a0f-ebff-42bb-b922-8e7fc86307e7",
@@ -379,7 +381,7 @@
         "d0b16c96-6cd6-4541-a512-ba29a79e025a",
         "54733b8a-ab3f-4c28-b6c2-d32ccadf9788"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8bb17b31-f472-4f66-8a2c-dab515a5f26c",
         "499a4af7-c634-423d-9b6b-1c9c75ddc9cc"
@@ -390,12 +392,12 @@
       "dutyID": "a08bd5e8-1e76-4b13-84a6-a56ab73d9f10",
       "dutyDetail": "Contribute to production and review of technical fire safety reports following appropriate methodologies",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "162f2eb0-760e-490c-967f-e8df5dca7c95",
         "2d34e261-12e8-4d84-9108-c9867d3dfe5b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "59268a0f-ebff-42bb-b922-8e7fc86307e7",
         "885b7d0b-5ee0-418f-b998-ed398e51f925",
@@ -418,7 +420,7 @@
         "5ef7c678-8eaa-4a07-a3fd-f5f666e7350d",
         "8f2cfbe0-e55d-4c07-97f4-6c37801bb0ba"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "885b7d0b-5ee0-418f-b998-ed398e51f925",
         "e7d5f474-23f7-4017-9734-767903cf87a2",
@@ -438,7 +440,7 @@
         "5ef7c678-8eaa-4a07-a3fd-f5f666e7350d",
         "8f2cfbe0-e55d-4c07-97f4-6c37801bb0ba"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "885b7d0b-5ee0-418f-b998-ed398e51f925",
         "b1f1ed21-d8e9-4575-84ee-3dc6e4ad0e6f",
@@ -451,12 +453,12 @@
       "dutyID": "bf30c9d5-2a06-4dca-9f5f-b7a3f98f6982",
       "dutyDetail": "Communicate complex subjects to technical and non- technical people",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "5ef7c678-8eaa-4a07-a3fd-f5f666e7350d",
         "8f2cfbe0-e55d-4c07-97f4-6c37801bb0ba"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "885b7d0b-5ee0-418f-b998-ed398e51f925",
         "e7d5f474-23f7-4017-9734-767903cf87a2",
@@ -468,21 +470,21 @@
       "dutyID": "b5fe8848-2256-43bf-8c40-fa7c97352eb4",
       "dutyDetail": "Use risk assessment and safe systems of work to keep self and others safe",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "162f2eb0-760e-490c-967f-e8df5dca7c95",
         "d0b16c96-6cd6-4541-a512-ba29a79e025a",
         "beceddb8-80b9-47bd-8423-6fb589abd71b"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "81dd0fdd-2f49-485c-a1fa-39fe533248a5",
       "dutyDetail": "Undertake specialist fire safety engineering activities in a way that contributes to sustainable development",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0ea05c26-9a57-46bb-96a8-eed380d24ba4",
         "4a7f6ad3-e835-4e59-8ff2-9b965eae9c5d",
@@ -492,7 +494,7 @@
         "76697d54-feb0-4f0b-80ba-24914f04e55c",
         "28319e82-28b8-4cb7-8dfc-91d0ec22f37a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7d5f474-23f7-4017-9734-767903cf87a2",
         "499a4af7-c634-423d-9b6b-1c9c75ddc9cc",
@@ -504,13 +506,13 @@
       "dutyID": "d4661b08-545c-4ed0-85d2-b9c5e34c4e14",
       "dutyDetail": "Carry out and record CPD necessary to maintain and enhance competence in own area of practice",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "76697d54-feb0-4f0b-80ba-24914f04e55c",
         "5ef7c678-8eaa-4a07-a3fd-f5f666e7350d",
         "54733b8a-ab3f-4c28-b6c2-d32ccadf9788"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b1f1ed21-d8e9-4575-84ee-3dc6e4ad0e6f",
         "cdaa5fc5-9337-4fa5-85d3-fc05488e5c5b",
@@ -528,8 +530,8 @@
       "mappedKnowledge": [
         "54733b8a-ab3f-4c28-b6c2-d32ccadf9788"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -545,7 +547,7 @@
         "2d34e261-12e8-4d84-9108-c9867d3dfe5b",
         "76697d54-feb0-4f0b-80ba-24914f04e55c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8481ed58-d066-4ff0-a508-f9a1edcbde26",
         "59268a0f-ebff-42bb-b922-8e7fc86307e7",
@@ -555,6 +557,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
