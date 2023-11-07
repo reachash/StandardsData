@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/496",
   "versionNumber": "1.0",
   "change": "Retired",
-  "changedDate": "2021-11-30T00:00:00Z",
-  "earliestStartDate": "2019-08-20T00:00:00Z",
-  "latestStartDate": "2021-12-10T00:00:00Z",
+  "changedDate": "2021-11-30T00:00:00",
+  "earliestStartDate": "2019-08-20T00:00:00",
+  "latestStartDate": "2021-12-10T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Working with offenders to make communities safer.",
   "level": 3,
@@ -176,7 +176,6 @@
       "detail": "Maintain records securely in line with data protection and security of information and use information to support delivery of services."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -206,8 +205,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Protective Services",
   "cluster": "Protective Service Officer",
+  "clusterId": "15",
+  "clusterDescription": "Provide safety, security, prevention, enforcement, protection and investigation services largely on behalf of society",
   "createdDate": "2019-12-23T10:33:00 +00:00",
   "lastUpdated": "2021-11-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/probation-services-practitioner-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/probation-services-practitioner-v1-0",
   "qualifications": [],
@@ -233,7 +235,7 @@
         "597c8713-4996-48d4-bc91-eb5ab3230920",
         "03233d67-46bb-4e0b-8091-03090aabed3d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5758f601-29ce-4532-812b-b881809666d4",
         "87528026-9e51-48b7-9d6b-c464cddab6f9",
@@ -258,7 +260,7 @@
         "7031f9d6-135d-4e3b-ba29-7f3709802087",
         "597c8713-4996-48d4-bc91-eb5ab3230920"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5758f601-29ce-4532-812b-b881809666d4",
         "87528026-9e51-48b7-9d6b-c464cddab6f9",
@@ -283,7 +285,7 @@
         "33db101f-53c7-4e71-92f9-f6a67711bcb0",
         "3cb4bb46-99db-43f4-a05c-a4c7bfb69fc9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "87528026-9e51-48b7-9d6b-c464cddab6f9",
         "6d5e29c6-2b9c-4c6d-9659-524010aac73c",
@@ -308,7 +310,7 @@
         "425bef63-edea-48a8-b397-23f6c8289258",
         "33db101f-53c7-4e71-92f9-f6a67711bcb0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5e88c6b8-4de4-41a4-9845-c3a44efed945",
         "d2befa3d-13d1-427c-b0c1-963c0f397dc3"
@@ -333,7 +335,7 @@
         "03233d67-46bb-4e0b-8091-03090aabed3d",
         "f668260a-52aa-499d-9c18-0cf8c283fcc8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65dd1c1a-c0b2-4a03-b254-77d0d33021ea"
       ],
@@ -357,7 +359,7 @@
         "03233d67-46bb-4e0b-8091-03090aabed3d",
         "f668260a-52aa-499d-9c18-0cf8c283fcc8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65dd1c1a-c0b2-4a03-b254-77d0d33021ea"
       ],
@@ -381,7 +383,7 @@
         "33db101f-53c7-4e71-92f9-f6a67711bcb0",
         "3cb4bb46-99db-43f4-a05c-a4c7bfb69fc9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3d101399-9626-47ba-89c4-57a6ca0995d0",
         "502953c8-c5df-4aee-b7ce-1bbf96d54874",
@@ -403,7 +405,7 @@
         "33db101f-53c7-4e71-92f9-f6a67711bcb0",
         "3cb4bb46-99db-43f4-a05c-a4c7bfb69fc9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3d101399-9626-47ba-89c4-57a6ca0995d0",
         "502953c8-c5df-4aee-b7ce-1bbf96d54874",
@@ -423,7 +425,7 @@
         "dc5eaa0d-c20a-48c0-884b-f883a736cb76",
         "abde9216-6785-49bb-b09c-2126f23831b1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "17cfe67b-2a22-4cfd-b89d-830801d57b84"
       ],
@@ -440,7 +442,7 @@
         "dc5eaa0d-c20a-48c0-884b-f883a736cb76",
         "4f741110-c2e8-45e9-8c36-1ee9c7dc2c32"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ea833702-f335-4850-b322-7023720590d9",
         "a7d854e9-393b-4847-bbb6-fd8a8564711e"
@@ -448,6 +450,7 @@
       "criteriaForMeasuringPerformance": "1. Adherence to legislative requirements\n2. Compliance with employer policies and procedures"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
