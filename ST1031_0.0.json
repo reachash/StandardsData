@@ -7,7 +7,7 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/0",
   "versionNumber": "",
   "change": "",
-  "changedDate": "2023-10-16T00:00:00Z",
+  "changedDate": "2023-10-16T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
@@ -233,7 +233,6 @@
       "detail": "Use data analysis tools to record, interpret and analyse customer or campaign data."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -269,8 +268,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Marketing",
   "cluster": "Marketing Assistant",
+  "clusterId": "124",
+  "clusterDescription": "Plan, organise and deliver key marketing actions and events",
   "createdDate": "2023-11-01T12:16:35 +00:00",
   "lastUpdated": "2023-10-16T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/multi-channel-marketer?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/multi-channel-marketer",
   "qualifications": [],
@@ -319,7 +321,7 @@
         "f79ad62c-7392-4aa6-9b02-3563afc82a43",
         "09289bd2-f270-4106-bfe6-0b6d482dec54"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fb82a134-732f-4c05-ab00-cc16b84411e1",
         "68b56c47-4f0f-4705-b66f-3e95fd857acc",
@@ -345,7 +347,7 @@
         "f3c6278f-6d45-4ab9-a79e-381e42220921",
         "5b468e15-ee51-4ea9-9787-ea3c21b842b5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5104bbe5-b1cb-443a-bb08-bc12cd8120e8"
       ],
@@ -365,7 +367,7 @@
         "f3c6278f-6d45-4ab9-a79e-381e42220921",
         "9166173c-2508-4478-b0bf-b7ec2ef4e246"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fb82a134-732f-4c05-ab00-cc16b84411e1",
         "68b56c47-4f0f-4705-b66f-3e95fd857acc",
@@ -396,7 +398,7 @@
         "46e0c989-4d49-42c9-b682-d18ebc23fb34",
         "4b153546-9b6f-455f-97f9-ff40206e194f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c6e6757e-d2a3-4588-8164-07a32f20db62",
         "59829fc5-d288-4c6f-ad69-df3f150957b8",
@@ -421,7 +423,7 @@
         "360c27f1-7a5e-4f37-bc83-24e8a1b7a31c",
         "4b153546-9b6f-455f-97f9-ff40206e194f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3bf17976-21a8-4d21-9e6e-4cb4f6bdd3a1",
         "edf40387-6528-43e6-9f8d-4a318379a6c2"
@@ -448,7 +450,7 @@
         "09289bd2-f270-4106-bfe6-0b6d482dec54",
         "4b153546-9b6f-455f-97f9-ff40206e194f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "59829fc5-d288-4c6f-ad69-df3f150957b8",
         "ced72a47-5278-4b0e-ba5b-0432c3837284",
@@ -480,7 +482,7 @@
         "46e0c989-4d49-42c9-b682-d18ebc23fb34",
         "5b468e15-ee51-4ea9-9787-ea3c21b842b5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "68b56c47-4f0f-4705-b66f-3e95fd857acc",
         "59829fc5-d288-4c6f-ad69-df3f150957b8",
@@ -508,7 +510,7 @@
         "09289bd2-f270-4106-bfe6-0b6d482dec54",
         "4b153546-9b6f-455f-97f9-ff40206e194f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3bf17976-21a8-4d21-9e6e-4cb4f6bdd3a1",
         "3667b294-2a19-40ac-8f3e-bf24ad3f2a40",
@@ -533,7 +535,7 @@
         "452762bc-0b7d-4ae2-9722-21406cc2f41b",
         "5b468e15-ee51-4ea9-9787-ea3c21b842b5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "68b56c47-4f0f-4705-b66f-3e95fd857acc",
         "59829fc5-d288-4c6f-ad69-df3f150957b8",
@@ -548,14 +550,14 @@
       "dutyID": "fc989678-ea4f-4ccd-938d-4e8f3e97bfd4",
       "dutyDetail": "Contribute to the monitoring of marketing expenditure and activities to a specified budget and plan in line with company processes.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "f4c5f7c1-7dc4-43b7-a7a6-0c3a4e917de7",
         "360c27f1-7a5e-4f37-bc83-24e8a1b7a31c",
         "f3c6278f-6d45-4ab9-a79e-381e42220921",
         "5b468e15-ee51-4ea9-9787-ea3c21b842b5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3667b294-2a19-40ac-8f3e-bf24ad3f2a40",
         "edf40387-6528-43e6-9f8d-4a318379a6c2",
@@ -582,7 +584,7 @@
         "f79ad62c-7392-4aa6-9b02-3563afc82a43",
         "09289bd2-f270-4106-bfe6-0b6d482dec54"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5104bbe5-b1cb-443a-bb08-bc12cd8120e8",
         "ced72a47-5278-4b0e-ba5b-0432c3837284",
@@ -595,6 +597,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
