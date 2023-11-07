@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/681",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-07-20T00:00:00Z",
-  "earliestStartDate": "2022-07-20T00:00:00Z",
+  "changedDate": "2022-07-20T00:00:00",
+  "earliestStartDate": "2022-07-20T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Represent the vessel operators or owners to facilitate the efficient arrival, working, and departure of their vessels in a port.",
@@ -279,7 +279,6 @@
       "detail": "Problem solves changes in circumstances impacting vessel progress."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -311,8 +310,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Transport",
   "cluster": "Transport Operations Operative/Technician",
+  "clusterId": "16",
+  "clusterDescription": "Support a transport facility's operation and/or support the loading and movement of a freight or passenger vehicle or vessel",
   "createdDate": "2022-05-05T07:50:22 +00:00",
   "lastUpdated": "2022-07-20T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/port-agent-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/port-agent-v1-0",
   "qualifications": [
@@ -341,7 +343,7 @@
         "8a85371a-aeef-4ef1-adc2-56a86512faed",
         "8d9bb354-389e-4d41-96e3-88f313822cbb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0149dc3a-8690-4ffd-b842-093fcf4d040b",
         "476bde22-bd89-4955-a83a-fc69547582e4",
@@ -374,7 +376,7 @@
         "8d9bb354-389e-4d41-96e3-88f313822cbb",
         "fe849c7a-d8c4-4e3c-9933-6fdfa743355d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
         "0149dc3a-8690-4ffd-b842-093fcf4d040b",
@@ -416,7 +418,7 @@
         "8d9bb354-389e-4d41-96e3-88f313822cbb",
         "fe849c7a-d8c4-4e3c-9933-6fdfa743355d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
         "0149dc3a-8690-4ffd-b842-093fcf4d040b",
@@ -462,7 +464,7 @@
         "8d9bb354-389e-4d41-96e3-88f313822cbb",
         "fe849c7a-d8c4-4e3c-9933-6fdfa743355d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
         "fce7000c-ff49-4e1d-93c0-f42006a2e0f3",
@@ -505,7 +507,7 @@
         "8d9bb354-389e-4d41-96e3-88f313822cbb",
         "fe849c7a-d8c4-4e3c-9933-6fdfa743355d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
         "fce7000c-ff49-4e1d-93c0-f42006a2e0f3",
@@ -546,7 +548,7 @@
         "8d9bb354-389e-4d41-96e3-88f313822cbb",
         "fe849c7a-d8c4-4e3c-9933-6fdfa743355d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
         "fce7000c-ff49-4e1d-93c0-f42006a2e0f3",
@@ -588,7 +590,7 @@
         "8a85371a-aeef-4ef1-adc2-56a86512faed",
         "8d9bb354-389e-4d41-96e3-88f313822cbb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
         "fce7000c-ff49-4e1d-93c0-f42006a2e0f3",
@@ -630,7 +632,7 @@
         "1f0c116f-0680-4182-bdca-ba6a58d49765",
         "8d9bb354-389e-4d41-96e3-88f313822cbb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
         "32b9e8e6-ccb8-40de-a2f3-926d8445dcd4",
@@ -668,7 +670,7 @@
         "8a85371a-aeef-4ef1-adc2-56a86512faed",
         "8d9bb354-389e-4d41-96e3-88f313822cbb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aacba502-06eb-4391-a5e2-ae85b4280379",
         "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
@@ -705,7 +707,7 @@
         "8d9bb354-389e-4d41-96e3-88f313822cbb",
         "fe849c7a-d8c4-4e3c-9933-6fdfa743355d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
         "fce7000c-ff49-4e1d-93c0-f42006a2e0f3",
@@ -745,7 +747,7 @@
         "8a85371a-aeef-4ef1-adc2-56a86512faed",
         "8d9bb354-389e-4d41-96e3-88f313822cbb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aacba502-06eb-4391-a5e2-ae85b4280379",
         "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
@@ -784,7 +786,7 @@
         "8d9bb354-389e-4d41-96e3-88f313822cbb",
         "fe849c7a-d8c4-4e3c-9933-6fdfa743355d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
         "fce7000c-ff49-4e1d-93c0-f42006a2e0f3",
@@ -817,7 +819,7 @@
         "04252990-36c0-4f5c-8c86-2cc4142a24ff",
         "8d9bb354-389e-4d41-96e3-88f313822cbb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fce7000c-ff49-4e1d-93c0-f42006a2e0f3",
         "2382f818-2e5b-4f8a-bb29-093a623daf15",
@@ -849,7 +851,7 @@
         "04252990-36c0-4f5c-8c86-2cc4142a24ff",
         "8d9bb354-389e-4d41-96e3-88f313822cbb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f8941a25-c917-420b-b7e4-3c07ee667edb",
         "2382f818-2e5b-4f8a-bb29-093a623daf15",
@@ -880,7 +882,7 @@
         "04252990-36c0-4f5c-8c86-2cc4142a24ff",
         "8d9bb354-389e-4d41-96e3-88f313822cbb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f8941a25-c917-420b-b7e4-3c07ee667edb",
         "2382f818-2e5b-4f8a-bb29-093a623daf15",
@@ -910,7 +912,7 @@
         "8d9bb354-389e-4d41-96e3-88f313822cbb",
         "fe849c7a-d8c4-4e3c-9933-6fdfa743355d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "32b9e8e6-ccb8-40de-a2f3-926d8445dcd4",
         "6b33ef36-850e-4a98-a270-a30172dda89f",
@@ -942,7 +944,7 @@
         "04252990-36c0-4f5c-8c86-2cc4142a24ff",
         "8d9bb354-389e-4d41-96e3-88f313822cbb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0149dc3a-8690-4ffd-b842-093fcf4d040b",
         "c676bc0d-0dfe-48ab-a62c-b356df40a6dc",
@@ -973,7 +975,7 @@
         "7ce6dc6f-3ce0-4fcc-83e5-8f1ccc94f908",
         "8d9bb354-389e-4d41-96e3-88f313822cbb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f8941a25-c917-420b-b7e4-3c07ee667edb",
         "fe67c84f-e649-4a4f-8b33-c8ddfcfb8dde",
@@ -984,6 +986,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
