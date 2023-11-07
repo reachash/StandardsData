@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/126",
   "versionNumber": "1.0",
   "change": "Approved for delivery. The funding band for this standard has been reviewed and remains at £18000 (Dec- 2018)",
-  "changedDate": "2022-04-08T00:00:00Z",
-  "earliestStartDate": "2016-08-19T00:00:00Z",
+  "changedDate": "2022-04-08T00:00:00",
+  "earliestStartDate": "2016-08-19T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Designing, installing and maintaining electronic systems to protect businesses, homes and properties against fires, break-ins and other emergencies.",
@@ -173,24 +173,6 @@
       "detail": "Apply and implement system design, planning,\u00A0installation, testing, commissioning and handover. \u00A0Carry out preventative and corrective maintenance, diagnosis and repair faults, of\u00A0 fire detection and alarm, and other emergency \u00A0systems\u00A0 and \u00A0components, Intruder \u00A0and holdup alarms, Access Control, video surveillance (CCTV) and other electronic security systems and components."
     }
   ],
-  "options": [
-    {
-      "optionId": "f8e786be-1aa5-40e2-a493-7bb1f8c00048",
-      "title": "Fire"
-    },
-    {
-      "optionId": "b1b42acc-7631-47f7-9119-d7db98551847",
-      "title": "Security"
-    },
-    {
-      "optionId": "f46d6912-0ba4-446c-994c-4dab1004f8d5",
-      "title": "Fire and emergency lighting"
-    },
-    {
-      "optionId": "c83c1ab7-e9b1-48c0-9b9c-b75144d5b5ce",
-      "title": "Fire and Security"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Fire",
     "Security",
@@ -238,15 +220,40 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "",
-  "pathway": "Building Services Engineering",
-  "cluster": "Building Services Engineering Operative/Technician",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2017-09-22T14:24:20 +00:00",
   "lastUpdated": "2022-04-08T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/fire-emergency-and-security-systems-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/fire-emergency-and-security-systems-technician-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "f8e786be-1aa5-40e2-a493-7bb1f8c00048",
+      "title": "Fire",
+      "occupationCode": null
+    },
+    {
+      "optionId": "b1b42acc-7631-47f7-9119-d7db98551847",
+      "title": "Security",
+      "occupationCode": null
+    },
+    {
+      "optionId": "f46d6912-0ba4-446c-994c-4dab1004f8d5",
+      "title": "Fire and emergency lighting",
+      "occupationCode": null
+    },
+    {
+      "optionId": "c83c1ab7-e9b1-48c0-9b9c-b75144d5b5ce",
+      "title": "Fire and Security",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
