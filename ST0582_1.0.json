@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/306",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-11-30T00:00:00Z",
-  "earliestStartDate": "2018-06-28T00:00:00Z",
-  "latestStartDate": "2022-10-31T00:00:00Z",
+  "changedDate": "2022-11-30T00:00:00",
+  "earliestStartDate": "2018-06-28T00:00:00",
+  "latestStartDate": "2022-10-31T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Supporting operating theatre staff and providing care to patients at all stages of an operation.",
   "level": 6,
@@ -374,7 +374,6 @@
       "detail": "Analyse & critically evaluate information collected & appropriately act upon it"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -402,13 +401,17 @@
   "reviewDetails": "",
   "pathway": "Health",
   "cluster": "Health Professional",
+  "clusterId": "6",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2017-11-14T17:10:55 +00:00",
   "lastUpdated": "2022-11-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/operating-department-practitioner-integrated-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/operating-department-practitioner-integrated-degree-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training provider",
