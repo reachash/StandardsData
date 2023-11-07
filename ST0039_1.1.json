@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/123",
   "versionNumber": "1.1",
   "change": "The funding band for this standard has been reviewed as part of the apprenticeship funding band review. The new funding band is £7000",
-  "changedDate": "2019-05-07T00:00:00Z",
-  "earliestStartDate": "2019-05-07T00:00:00Z",
+  "changedDate": "2019-05-07T00:00:00",
+  "earliestStartDate": "2019-05-07T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Managing the environment, facilities and services at airports, military bases, heliports and other airfields - including the safe arrival, turnaround and departure of aircraft.",
@@ -394,32 +394,6 @@
       "detail": "Monitor performance against standards, investigating and addressing poor performance, anticipating future trends and adapting products and procedures to ensure consistent performance, maintain brand standards and anticipate and manage changes to aviation operations as a consequence of external factors and ensure effective communication with customers"
     }
   ],
-  "options": [
-    {
-      "optionId": "169f678e-405b-4210-ad45-994c1cd2bdb6",
-      "title": "Flight Operations Manager - Air Traffic Control (ATC)"
-    },
-    {
-      "optionId": "857c5c2c-3a0e-482f-b440-8ea5c99314cb",
-      "title": "Flight Operations Manager - Operations"
-    },
-    {
-      "optionId": "b81e849d-0ae2-4a7f-8e33-d8c6f6b87989",
-      "title": "Aircraft Movement Manager"
-    },
-    {
-      "optionId": "8f285af9-4602-436e-97ae-b44c9bd833a0",
-      "title": "Fire Service Watch Manager"
-    },
-    {
-      "optionId": "e869894a-c667-4245-a24b-f9bed6911a26",
-      "title": "Aircraft Handling Manager"
-    },
-    {
-      "optionId": "b4bbbc03-2b67-411f-b8f4-36863d1169a3",
-      "title": "Passenger Operations Manager"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Flight Operations Manager - Air Traffic Control (ATC)",
     "Flight Operations Manager - Operations",
@@ -461,13 +435,48 @@
   "reviewDetails": "",
   "pathway": "Transport",
   "cluster": "Transport Operations Manager",
+  "clusterId": "13",
+  "clusterDescription": "Manage and lead the operation of a transport facility",
   "createdDate": "2017-09-22T14:24:27 +00:00",
   "lastUpdated": "2019-05-07T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/aviation-operations-manager-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/aviation-operations-manager-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "169f678e-405b-4210-ad45-994c1cd2bdb6",
+      "title": "Flight Operations Manager - Air Traffic Control (ATC)",
+      "occupationCode": null
+    },
+    {
+      "optionId": "857c5c2c-3a0e-482f-b440-8ea5c99314cb",
+      "title": "Flight Operations Manager - Operations",
+      "occupationCode": null
+    },
+    {
+      "optionId": "b81e849d-0ae2-4a7f-8e33-d8c6f6b87989",
+      "title": "Aircraft Movement Manager",
+      "occupationCode": null
+    },
+    {
+      "optionId": "8f285af9-4602-436e-97ae-b44c9bd833a0",
+      "title": "Fire Service Watch Manager",
+      "occupationCode": null
+    },
+    {
+      "optionId": "e869894a-c667-4245-a24b-f9bed6911a26",
+      "title": "Aircraft Handling Manager",
+      "occupationCode": null
+    },
+    {
+      "optionId": "b4bbbc03-2b67-411f-b8f4-36863d1169a3",
+      "title": "Passenger Operations Manager",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
