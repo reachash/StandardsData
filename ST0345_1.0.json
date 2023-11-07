@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/491",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-04-30T00:00:00Z",
-  "earliestStartDate": "2019-08-14T00:00:00Z",
+  "changedDate": "2021-04-30T00:00:00",
+  "earliestStartDate": "2019-08-14T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Facilitate and instigate direct communication online between the end user or customer and the organisation.",
@@ -187,7 +187,6 @@
       "detail": "Analyse and evaluate the information created by data analytics to review the effectives of their actions"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -219,8 +218,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Digital Business Services",
   "cluster": "Digital Solutions Advanced Technician",
+  "clusterId": "194",
+  "clusterDescription": "Facilitate and instigate direct communication online between the end user or customer and the organisation, implementing communication strategies to support business objectives.",
   "createdDate": "2021-01-18T09:44:05 +00:00",
   "lastUpdated": "2021-04-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/digital-community-manager-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/digital-community-manager-v1-0",
   "qualifications": [],
@@ -236,7 +238,7 @@
       "mappedKnowledge": [
         "fbbf194e-3fcc-475c-89aa-a13fe39258cb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f1871f9f-50c8-415b-b057-e22e42f5fa0d"
       ],
@@ -252,7 +254,7 @@
       "mappedKnowledge": [
         "8bbfd015-9f6c-4650-8b6e-1c07cecc8a90"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ebd161fe-69e0-4b0c-9b68-1c8b2059a74c"
       ],
@@ -270,7 +272,7 @@
         "197aa8b1-b302-4bbd-ac14-83d036bd20b4",
         "92d3feda-425d-453b-aac6-a3a5489067e2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "75a7adff-61b5-4ff3-826a-91c10df4faf5",
         "76a0f3ad-bb8e-4f0d-a4be-17a7ec59424b"
@@ -288,7 +290,7 @@
         "31cb21d2-7017-4a43-a73e-24dbe8d843ff",
         "197aa8b1-b302-4bbd-ac14-83d036bd20b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "673facca-555d-4799-9b34-c2d380dce86b",
         "474a4c58-774c-45c8-97a6-4bc94e4444ed"
@@ -305,7 +307,7 @@
       "mappedKnowledge": [
         "44815731-a8eb-4558-8aca-61bbb633b581"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bb65faa5-5d06-4e2a-8e29-52cc2aa8ab3f"
       ],
@@ -324,7 +326,7 @@
         "3d892bdb-e397-4165-8666-47a0f3129fc2",
         "b0f863e3-0465-4196-a7e7-4fc72810883c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "41c4bf25-cc11-4c3e-b779-46d131dd734c"
       ],
@@ -341,7 +343,7 @@
         "31cb21d2-7017-4a43-a73e-24dbe8d843ff",
         "197aa8b1-b302-4bbd-ac14-83d036bd20b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "474a4c58-774c-45c8-97a6-4bc94e4444ed",
         "e46236c2-2617-4665-a32a-78d42a7b8bd8",
@@ -361,7 +363,7 @@
         "31cb21d2-7017-4a43-a73e-24dbe8d843ff",
         "197aa8b1-b302-4bbd-ac14-83d036bd20b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aedda3e2-0953-430b-808e-db1a0526d22b",
         "416e4fe9-77bf-4fa8-b8b6-a9f5af90ae02"
@@ -379,7 +381,7 @@
         "92d3feda-425d-453b-aac6-a3a5489067e2",
         "151533d5-2fc5-4369-a8c3-7ce7a583de84"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "76a0f3ad-bb8e-4f0d-a4be-17a7ec59424b",
         "a1f2b85b-3e9e-41e1-a568-99eb93076bd5"
@@ -401,7 +403,7 @@
         "0334eee6-9741-4d1e-95a4-e027f82643e9",
         "26572817-8db2-4b4a-a778-331dac01a54f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "85cb96ae-4577-406b-a944-3854cb062563",
         "8a062ecb-92c3-48ce-9555-8335194f5fdb"
@@ -421,7 +423,7 @@
         "756cd61e-22a5-4168-82d6-3e8eae469fd2",
         "eac458ee-e265-46cd-800e-b959bb584b30"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e46236c2-2617-4665-a32a-78d42a7b8bd8",
         "8a062ecb-92c3-48ce-9555-8335194f5fdb"
@@ -440,7 +442,7 @@
         "31cb21d2-7017-4a43-a73e-24dbe8d843ff",
         "7869e35c-14be-4c78-b86a-e8d418b5994d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f1871f9f-50c8-415b-b057-e22e42f5fa0d",
         "ebd161fe-69e0-4b0c-9b68-1c8b2059a74c"
@@ -448,6 +450,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
