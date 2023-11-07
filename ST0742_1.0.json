@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/641",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-07-06T00:00:00Z",
-  "earliestStartDate": "2021-07-01T00:00:00Z",
+  "changedDate": "2021-07-06T00:00:00",
+  "earliestStartDate": "2021-07-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Lead the design, creation, maintenance or management of spaces in both natural and built environment.",
@@ -194,20 +194,6 @@
       "detail": "Landscape assessment:\nLead on the contribution to or use of the findings of formal landscape assessments such as (but not limited to) Landscape and Visual Impact Assessments and Landscape Sensitivity Assessments."
     }
   ],
-  "options": [
-    {
-      "optionId": "6aac0583-c195-4bfd-baa7-a94ed66cf832",
-      "title": "Landscape Design"
-    },
-    {
-      "optionId": "6288359d-019f-4df1-ac1c-6e89abdf9caf",
-      "title": "Landscape and Parks Management"
-    },
-    {
-      "optionId": "0b4f3264-5e97-411b-a3f5-a17c75811f44",
-      "title": "Landscape Planning"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -244,10 +230,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Design, Surveying & Planning",
-  "cluster": "Design & Surveying Professional",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2020-10-07T13:15:19 +00:00",
   "lastUpdated": "2021-07-06T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/chartered-landscape-professional-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/chartered-landscape-professional-v1-0",
   "qualifications": [],
@@ -283,7 +272,7 @@
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed",
         "d043cb90-d928-4756-a95e-52c78e104d3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e42d295-b754-47fa-9f5a-1fff037cc692",
         "d7f6c76f-e9c5-4e6a-bca5-d90058e9772a",
@@ -315,7 +304,7 @@
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed",
         "d043cb90-d928-4756-a95e-52c78e104d3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e42d295-b754-47fa-9f5a-1fff037cc692",
         "d7f6c76f-e9c5-4e6a-bca5-d90058e9772a",
@@ -348,7 +337,7 @@
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed",
         "d043cb90-d928-4756-a95e-52c78e104d3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e42d295-b754-47fa-9f5a-1fff037cc692",
         "92888f80-3476-4074-a839-3c209c06b099",
@@ -383,7 +372,7 @@
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed",
         "d043cb90-d928-4756-a95e-52c78e104d3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e42d295-b754-47fa-9f5a-1fff037cc692",
         "d7f6c76f-e9c5-4e6a-bca5-d90058e9772a",
@@ -417,7 +406,7 @@
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed",
         "d043cb90-d928-4756-a95e-52c78e104d3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e42d295-b754-47fa-9f5a-1fff037cc692",
         "d7f6c76f-e9c5-4e6a-bca5-d90058e9772a",
@@ -452,7 +441,7 @@
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed",
         "d043cb90-d928-4756-a95e-52c78e104d3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e42d295-b754-47fa-9f5a-1fff037cc692",
         "d7f6c76f-e9c5-4e6a-bca5-d90058e9772a",
@@ -482,7 +471,7 @@
         "58206e9e-1cb1-403f-ab22-6880337c7fd8",
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5125d465-adee-41ec-a006-9c096cc4f3af"
       ],
@@ -511,7 +500,7 @@
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed",
         "d043cb90-d928-4756-a95e-52c78e104d3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e42d295-b754-47fa-9f5a-1fff037cc692",
         "d7f6c76f-e9c5-4e6a-bca5-d90058e9772a",
@@ -543,7 +532,7 @@
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed",
         "d043cb90-d928-4756-a95e-52c78e104d3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e42d295-b754-47fa-9f5a-1fff037cc692",
         "d7f6c76f-e9c5-4e6a-bca5-d90058e9772a",
@@ -575,7 +564,7 @@
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed",
         "d043cb90-d928-4756-a95e-52c78e104d3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "92888f80-3476-4074-a839-3c209c06b099",
         "81a6cce3-b1fd-44ef-b585-6ae940abb59e",
@@ -605,7 +594,7 @@
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed",
         "d043cb90-d928-4756-a95e-52c78e104d3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "92888f80-3476-4074-a839-3c209c06b099",
         "81a6cce3-b1fd-44ef-b585-6ae940abb59e",
@@ -860,12 +849,29 @@
         "58206e9e-1cb1-403f-ab22-6880337c7fd8",
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "92888f80-3476-4074-a839-3c209c06b099",
         "206bd611-d39f-47c8-8ca4-0bf994b1b1b3"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "6aac0583-c195-4bfd-baa7-a94ed66cf832",
+      "title": "Landscape Design",
+      "occupationCode": null
+    },
+    {
+      "optionId": "6288359d-019f-4df1-ac1c-6e89abdf9caf",
+      "title": "Landscape and Parks Management",
+      "occupationCode": null
+    },
+    {
+      "optionId": "0b4f3264-5e97-411b-a3f5-a17c75811f44",
+      "title": "Landscape Planning",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
