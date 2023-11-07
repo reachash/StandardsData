@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/181",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-09-21T00:00:00Z",
-  "earliestStartDate": "2017-06-27T00:00:00Z",
-  "latestStartDate": "2022-09-20T00:00:00Z",
+  "changedDate": "2022-09-21T00:00:00",
+  "earliestStartDate": "2017-06-27T00:00:00",
+  "latestStartDate": "2022-09-20T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Planning and maintaining large gardens, parks and other green spaces.",
   "level": 2,
@@ -200,7 +200,6 @@
       "detail": "Work without causing damage to features present such as irrigation, turf and aquatic environments."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [
     "Landscape construction role",
     "Horticulture role"
@@ -234,13 +233,17 @@
   "reviewDetails": "",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Landscape Horticulture Operative/Technician",
+  "clusterId": "161",
+  "clusterDescription": "The design, construction and maintenance of gardens, designed landscapes and sports turf facilities for private, commercial and community use",
   "createdDate": "2017-09-22T14:24:17 +00:00",
   "lastUpdated": "2022-09-21T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/horticulture-or-landscape-operative-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/horticulture-or-landscape-operative-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
