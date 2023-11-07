@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/157",
   "versionNumber": "1.1",
   "change": "The funding band for this standard has been reviewed as part of the apprenticeship funding band review. The new funding band is £7000",
-  "changedDate": "2023-05-23T00:00:00Z",
-  "earliestStartDate": "2018-10-03T00:00:00Z",
-  "latestStartDate": "2023-05-22T00:00:00Z",
+  "changedDate": "2023-05-23T00:00:00",
+  "earliestStartDate": "2018-10-03T00:00:00",
+  "latestStartDate": "2023-05-22T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Working as a barber or hairdresser to provide hair cutting, styling and grooming services for men and women.",
   "level": 2,
@@ -172,7 +172,6 @@
       "detail": "Shaving services: Prepare the hair and skin for shaving, products, tools and equipment, full shave and partial shave including hot towels, lathering products, face massage, and finishing products"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [
     "Barbering",
     "Hairdressing"
@@ -210,13 +209,17 @@
   "reviewDetails": "",
   "pathway": "Hair, Beauty and Aesthetics",
   "cluster": "Hair Specialist",
+  "clusterId": "113",
+  "clusterDescription": "Clean, condition, cut, style, finish, and colour hair including facial hair",
   "createdDate": "2017-09-22T14:24:10 +00:00",
   "lastUpdated": "2023-05-23T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/hair-professional-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/hair-professional-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
