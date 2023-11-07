@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/639",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-12-01T00:00:00Z",
-  "earliestStartDate": "2021-07-01T00:00:00Z",
+  "changedDate": "2021-12-01T00:00:00",
+  "earliestStartDate": "2021-07-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Provide skilled technical support in teaching, learning and research environments.",
@@ -276,16 +276,6 @@
       "detail": "HE only: Attention to detail when collating or producing information for higher education activities such as teaching and research."
     }
   ],
-  "options": [
-    {
-      "optionId": "e2eba925-ecb9-4ca0-9745-5d4684a3f470",
-      "title": "Higher education  assistant technician"
-    },
-    {
-      "optionId": "f17a021a-5229-4522-90ed-43a02e9d88b8",
-      "title": "Simulation-based education technician"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -317,10 +307,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Education and Childcare",
-  "cluster": "Primary/Secondary/Tertiary Teaching and Support Assistant",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2020-09-23T12:29:51 +00:00",
   "lastUpdated": "2021-12-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/education-technician-he-assistant-technician-and-simulation-based-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/education-technician-he-assistant-technician-and-simulation-based-technician-v1-0",
   "qualifications": [],
@@ -356,7 +349,7 @@
         "217ee22f-90fe-4aff-864a-d97993679095",
         "380276e7-5eb1-4688-9811-424b90085ca5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8a073cb6-ce81-4c4d-a655-886198df0e7c",
         "29fe080f-78a5-4b24-9f4d-44ea0df0a21d",
@@ -387,7 +380,7 @@
         "217ee22f-90fe-4aff-864a-d97993679095",
         "380276e7-5eb1-4688-9811-424b90085ca5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3051ab95-a78e-4b1f-8c8e-61ad6c49ddf1",
         "8f5815bb-033a-41e6-b8bf-876b7d1a3634",
@@ -420,7 +413,7 @@
         "99f200e3-a821-40e0-b250-0f028c549ad9",
         "380276e7-5eb1-4688-9811-424b90085ca5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3051ab95-a78e-4b1f-8c8e-61ad6c49ddf1",
         "dd1fd7f3-ae7c-489e-9e50-0bc91f5a5c28",
@@ -447,7 +440,7 @@
         "b0912460-e330-4357-8bd8-025de4828a14",
         "1ae4380e-e2cb-43a7-aed9-8ec4273de0f4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3f74c958-6874-4fa0-9937-2cb8f0f6d499",
         "3889e400-3c04-4d36-83ed-dab893f3fabc",
@@ -473,7 +466,7 @@
         "adab858a-7c5c-44cb-a1de-c616674baee1",
         "380276e7-5eb1-4688-9811-424b90085ca5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "29fe080f-78a5-4b24-9f4d-44ea0df0a21d",
         "3051ab95-a78e-4b1f-8c8e-61ad6c49ddf1",
@@ -501,7 +494,7 @@
         "ea3d7e00-1495-453b-8e44-241ad96283b6",
         "380276e7-5eb1-4688-9811-424b90085ca5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3051ab95-a78e-4b1f-8c8e-61ad6c49ddf1",
         "c4c207c4-5e3f-4d29-a6f8-152e336029c7",
@@ -524,7 +517,7 @@
         "ea3d7e00-1495-453b-8e44-241ad96283b6",
         "380276e7-5eb1-4688-9811-424b90085ca5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3051ab95-a78e-4b1f-8c8e-61ad6c49ddf1",
         "3f74c958-6874-4fa0-9937-2cb8f0f6d499",
@@ -553,7 +546,7 @@
         "99f200e3-a821-40e0-b250-0f028c549ad9",
         "1ae4380e-e2cb-43a7-aed9-8ec4273de0f4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3051ab95-a78e-4b1f-8c8e-61ad6c49ddf1",
         "8f5815bb-033a-41e6-b8bf-876b7d1a3634",
@@ -581,7 +574,7 @@
         "b0912460-e330-4357-8bd8-025de4828a14",
         "1ae4380e-e2cb-43a7-aed9-8ec4273de0f4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8a073cb6-ce81-4c4d-a655-886198df0e7c",
         "16003e0e-1dce-455c-8a47-5be2f50dc0ac",
@@ -609,7 +602,7 @@
         "1ae4380e-e2cb-43a7-aed9-8ec4273de0f4",
         "380276e7-5eb1-4688-9811-424b90085ca5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "97d83477-c469-495e-913a-8357e188a16b",
         "815392cb-5c0d-4c52-9150-f36e47fb446e",
@@ -787,6 +780,18 @@
         "5a40104f-1746-4747-95a0-03573d603065"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "e2eba925-ecb9-4ca0-9745-5d4684a3f470",
+      "title": "Higher education  assistant technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "f17a021a-5229-4522-90ed-43a02e9d88b8",
+      "title": "Simulation-based education technician",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
