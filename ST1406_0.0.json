@@ -7,7 +7,7 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/0",
   "versionNumber": "",
   "change": "In development",
-  "changedDate": "2023-11-01T00:00:00Z",
+  "changedDate": "2023-11-01T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
@@ -524,16 +524,6 @@
       "detail": "Option 2. Calibrate analytical equipment."
     }
   ],
-  "options": [
-    {
-      "optionId": "a9969fbf-609a-41fc-82fa-a6c1e0d9ebf3",
-      "title": "Biotechnology manufacturing technician"
-    },
-    {
-      "optionId": "085a5a64-b11b-4abe-9022-d870764f0d61",
-      "title": "Aseptic pharmaceuticals manufacturing technician"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -574,8 +564,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Manufacturing/Process Maintenance Operative/Technician",
+  "clusterId": "71",
+  "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2023-11-01T11:36:28 +00:00",
   "lastUpdated": "2023-11-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/science-manufacturing-technician-2023?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/science-manufacturing-technician-2023",
   "qualifications": [],
@@ -604,7 +597,7 @@
         "6ac86b4a-17bc-4e1a-8e24-56cbbffe7f4a",
         "79d8efea-e8c9-41fe-b6cc-d857a550b741"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f5206034-a907-4035-b098-dce0389a5258",
         "54a444ae-1480-4d36-aade-995c0d7b098a",
@@ -636,7 +629,7 @@
         "e5b10273-cdaa-44cb-a08d-64099fab7c6c",
         "a1bea70d-2a40-4d30-b68e-fa073c77dff8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1ead702d-65bc-439f-aa3f-857558cf6455",
         "418bfa59-316a-4597-aa9e-b09c100e3512",
@@ -651,13 +644,13 @@
       "dutyID": "fa994050-d0be-42da-b88e-16d08eed6a01",
       "dutyDetail": "Undertake quality assurance processes. ",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "d6f9696c-42bd-4891-aac8-af2501fd4fe2",
         "546df56d-6ddb-4a85-b700-8fae2e97ac27",
         "8f22abef-5a2e-434a-83cc-6582de867e26"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d67bc5f1-1d7e-47ac-8cab-13f267d8e502",
         "33c40152-6dd0-4bb2-b092-f5648fd90bc9"
@@ -687,7 +680,7 @@
         "ea15f074-6b48-4cf5-836d-82ea687deb03",
         "6ac86b4a-17bc-4e1a-8e24-56cbbffe7f4a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5e97ace6-de5c-48cc-809e-14245a69e496",
         "6a722c55-e12e-427f-b610-b2708451e9c7",
@@ -703,13 +696,13 @@
       "dutyID": "4f77e5bd-0c13-40b2-b02a-7b98f798d02c",
       "dutyDetail": "Complete process documentation - digital or paper based. For example, process and production records, traceability records, and quality assurance records.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "164fb2d9-6001-4566-b626-b72c36e1e09f",
         "8c935f39-8e6b-4e8d-9991-b4e06b90e3df",
         "ea15f074-6b48-4cf5-836d-82ea687deb03"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8db0ab07-d92a-4f03-9dee-7aebeadbb337",
         "927a522a-bc3b-406d-8bdf-1fc5ca762f7e",
@@ -721,11 +714,11 @@
       "dutyID": "16bbad6b-52ec-4536-a5e5-0e5f11ea0158",
       "dutyDetail": "Conduct first line routine maintenance and testing of process and plant equipment. ",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "cc0a1f34-f9d1-4b67-b83f-38178f7dc28c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f38c818d-d86a-48c6-871c-0199b97b6814"
       ],
@@ -749,7 +742,7 @@
         "ea15f074-6b48-4cf5-836d-82ea687deb03",
         "6ac86b4a-17bc-4e1a-8e24-56cbbffe7f4a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5e97ace6-de5c-48cc-809e-14245a69e496",
         "6a722c55-e12e-427f-b610-b2708451e9c7",
@@ -775,7 +768,7 @@
         "ea15f074-6b48-4cf5-836d-82ea687deb03",
         "6ac86b4a-17bc-4e1a-8e24-56cbbffe7f4a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1ead702d-65bc-439f-aa3f-857558cf6455",
         "8db0ab07-d92a-4f03-9dee-7aebeadbb337",
@@ -799,7 +792,7 @@
         "ea15f074-6b48-4cf5-836d-82ea687deb03",
         "6ac86b4a-17bc-4e1a-8e24-56cbbffe7f4a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bfbd26c9-e91a-44c4-91d0-9ec4a9a00adb",
         "ce6814a8-8768-411d-a093-ce7216d38c20",
@@ -1179,6 +1172,18 @@
         "43159f79-b4c0-4ac2-ba3f-81ddc4e5444c"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "a9969fbf-609a-41fc-82fa-a6c1e0d9ebf3",
+      "title": "Biotechnology manufacturing technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "085a5a64-b11b-4abe-9022-d870764f0d61",
+      "title": "Aseptic pharmaceuticals manufacturing technician",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
