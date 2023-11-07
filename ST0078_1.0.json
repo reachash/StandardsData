@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/54",
   "versionNumber": "1.0",
   "change": "Retired",
-  "changedDate": "2022-01-18T00:00:00Z",
-  "earliestStartDate": "2015-09-24T00:00:00Z",
-  "latestStartDate": "2016-09-18T00:00:00Z",
+  "changedDate": "2022-01-18T00:00:00",
+  "earliestStartDate": "2015-09-24T00:00:00",
+  "latestStartDate": "2016-09-18T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Working in a butchers, butchery department or meat processing plan.",
   "level": 2,
@@ -34,7 +34,6 @@
   "knowledges": [],
   "behaviours": [],
   "skills": [],
-  "options": [],
   "optionsUnstructuredTemplate": [
     "Process",
     "Retail"
@@ -65,13 +64,17 @@
   "reviewDetails": "",
   "pathway": "Retail",
   "cluster": "Specialist Retail Assistant",
+  "clusterId": "93",
+  "clusterDescription": "Meet customer needs through making a product or service sale and dealing with domestic and commercial customers. Create displays, layouts and operations in the sales environment. Also covers craft trades in retail",
   "createdDate": "2020-09-10T15:37:56 +00:00",
   "lastUpdated": "2022-01-18T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/butcher-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/butcher-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
