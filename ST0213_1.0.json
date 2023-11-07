@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/157",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2018-10-02T00:00:00Z",
-  "earliestStartDate": "2016-12-21T00:00:00Z",
-  "latestStartDate": "2018-10-02T00:00:00Z",
+  "changedDate": "2018-10-02T00:00:00",
+  "earliestStartDate": "2016-12-21T00:00:00",
+  "latestStartDate": "2018-10-02T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Working as a barber or hairdresser to provide hair cutting, styling and grooming services for men and women.",
   "level": 2,
@@ -42,7 +42,6 @@
   "knowledges": [],
   "behaviours": [],
   "skills": [],
-  "options": [],
   "optionsUnstructuredTemplate": [
     "Barbering",
     "Hairdressing"
@@ -80,13 +79,17 @@
   "reviewDetails": "",
   "pathway": "Hair, Beauty and Aesthetics",
   "cluster": "Hair Specialist",
+  "clusterId": "113",
+  "clusterDescription": "Clean, condition, cut, style, finish, and colour hair including facial hair",
   "createdDate": "2020-10-02T10:11:04 +00:00",
   "lastUpdated": "2018-10-02T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/hair-professional-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/hair-professional-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
