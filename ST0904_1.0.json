@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/668",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-06-08T00:00:00Z",
-  "earliestStartDate": "2021-11-12T00:00:00Z",
+  "changedDate": "2022-06-08T00:00:00",
+  "earliestStartDate": "2021-11-12T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Using professional judgement and support of others to ensure the delivery, security and accessibility of records and other materials.",
@@ -271,7 +271,6 @@
       "detail": "Apply the people/volunteer management policies for example assessing work plans and training needs and managing performance"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -310,8 +309,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Cultural Heritage and Visitor Attractions",
   "cluster": "Collections and Conservation Expert",
+  "clusterId": "183",
+  "clusterDescription": "Manage the physical and digital preservation of collections of cultural collections",
   "createdDate": "2022-04-29T15:02:08 +00:00",
   "lastUpdated": "2022-06-08T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/archivist-and-records-manager-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/archivist-and-records-manager-v1-0",
   "qualifications": [],
@@ -348,7 +350,7 @@
         "49be8b0c-64ee-4f84-bf65-523f256d417e",
         "c2552a91-bc41-4314-b311-85a9a1a6c501"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5e922f2d-d2d8-4d5f-99d4-41ced2cf66d7",
         "fa96ea28-265f-4333-ad0d-1d30834a892d",
@@ -374,7 +376,7 @@
         "06798f2f-cca6-491b-9274-49f1b8ce0b4c",
         "49be8b0c-64ee-4f84-bf65-523f256d417e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "36086163-502a-48d6-a5e1-4632e0a95717",
         "5e922f2d-d2d8-4d5f-99d4-41ced2cf66d7",
@@ -402,7 +404,7 @@
         "71f98bc6-4548-4326-b487-7eaee03a4498",
         "49be8b0c-64ee-4f84-bf65-523f256d417e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e34e4c95-e6af-4c5b-bee1-a92de522d633",
         "5e922f2d-d2d8-4d5f-99d4-41ced2cf66d7",
@@ -429,7 +431,7 @@
         "1c618f05-c72b-4a2c-b204-f9b3e1dae091",
         "49be8b0c-64ee-4f84-bf65-523f256d417e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5e922f2d-d2d8-4d5f-99d4-41ced2cf66d7",
         "c085f3a1-4b36-41df-a8ef-959d8d42e6db",
@@ -457,7 +459,7 @@
         "6211508c-fd80-4f75-bf60-54b6b294ef58",
         "c2552a91-bc41-4314-b311-85a9a1a6c501"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c085f3a1-4b36-41df-a8ef-959d8d42e6db",
         "f9a10a30-41e6-4e37-8639-cc8fae7b8eed",
@@ -489,7 +491,7 @@
         "02862701-4dac-4fb8-bb4b-baf59d7b5df5",
         "49be8b0c-64ee-4f84-bf65-523f256d417e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e34e4c95-e6af-4c5b-bee1-a92de522d633",
         "f9a10a30-41e6-4e37-8639-cc8fae7b8eed",
@@ -520,7 +522,7 @@
         "6211508c-fd80-4f75-bf60-54b6b294ef58",
         "49be8b0c-64ee-4f84-bf65-523f256d417e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e34e4c95-e6af-4c5b-bee1-a92de522d633",
         "36086163-502a-48d6-a5e1-4632e0a95717",
@@ -554,7 +556,7 @@
         "68ae3d4b-49be-4578-b8f9-06fd4f615d1c",
         "49be8b0c-64ee-4f84-bf65-523f256d417e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e34e4c95-e6af-4c5b-bee1-a92de522d633",
         "36086163-502a-48d6-a5e1-4632e0a95717",
@@ -583,7 +585,7 @@
         "02862701-4dac-4fb8-bb4b-baf59d7b5df5",
         "49be8b0c-64ee-4f84-bf65-523f256d417e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e02de6fe-f961-421b-8ab3-13eea7de715b",
         "6cb7320a-8c7d-45af-aea1-744aae24516f",
@@ -605,7 +607,7 @@
         "49be8b0c-64ee-4f84-bf65-523f256d417e",
         "d21f191a-1bf7-4470-b45e-47309b177639"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9a10a30-41e6-4e37-8639-cc8fae7b8eed",
         "dd065e69-edd2-408d-a42b-7eec7ae3eaf9",
@@ -629,7 +631,7 @@
         "02862701-4dac-4fb8-bb4b-baf59d7b5df5",
         "49be8b0c-64ee-4f84-bf65-523f256d417e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9a10a30-41e6-4e37-8639-cc8fae7b8eed",
         "b35ee074-817a-45da-ac1d-1fadb9e156cc",
@@ -657,7 +659,7 @@
         "1c618f05-c72b-4a2c-b204-f9b3e1dae091",
         "c7cc7164-766e-469e-81d3-a36ec254f264"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6cb7320a-8c7d-45af-aea1-744aae24516f",
         "be4bd24b-4ae8-48e8-aef3-bc712554718a",
@@ -687,7 +689,7 @@
         "c2552a91-bc41-4314-b311-85a9a1a6c501",
         "d21f191a-1bf7-4470-b45e-47309b177639"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "be4bd24b-4ae8-48e8-aef3-bc712554718a",
         "3e722e1d-ef8c-4d72-8653-d49a078a4de5",
@@ -713,7 +715,7 @@
         "49be8b0c-64ee-4f84-bf65-523f256d417e",
         "c2552a91-bc41-4314-b311-85a9a1a6c501"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cd395a72-1c1e-4c8e-a000-aedd9a16ca4b",
         "399b1c62-986f-4222-972f-0c41defb29ea",
@@ -726,6 +728,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
