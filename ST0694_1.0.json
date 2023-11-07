@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/453",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-04-07T00:00:00Z",
-  "earliestStartDate": "2019-05-10T00:00:00Z",
+  "changedDate": "2022-04-07T00:00:00",
+  "earliestStartDate": "2019-05-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Assisting individuals or organisations before or during career transitions to develop long and short term career strategies.",
@@ -249,7 +249,6 @@
       "detail": "Understand and apply appropriate research strategies to obtain, interpret and tailor information to meet the needs of clients and others, including the appropriate use of  primary, and secondary sources, and information technology, e.g. social media and web-based information sources"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -288,8 +287,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Human Resources",
   "cluster": "Human Resources Professional",
+  "clusterId": "7",
+  "clusterDescription": "Provision of high level human resource advice and leadership across an organisation combined with the ability to define strategic and operational organisation-wide human resource challenges and to develop lasting solutions",
   "createdDate": "2019-12-20T14:06:20 +00:00",
   "lastUpdated": "2022-04-07T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/career-development-professional-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/career-development-professional-v1-0",
   "qualifications": [
@@ -322,7 +324,7 @@
         "f93c3b61-15fb-4c15-97c8-234758b59985",
         "32054f57-8503-4e59-8d0d-d7292b8c403c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "712eb554-f4df-4921-aea4-e4b60371eba7",
         "09d24eaa-b711-45b9-925f-f9c9606a8232",
@@ -355,7 +357,7 @@
         "32054f57-8503-4e59-8d0d-d7292b8c403c",
         "ecbacae0-6ae0-4061-9826-f2e0c283a8f0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "13c247c5-a602-4de6-9572-71626379a64e",
         "a332ffe4-1374-42a1-8431-ad1d935be5b7",
@@ -382,7 +384,7 @@
       "mappedKnowledge": [
         "5c3bdeac-afa2-4991-9eff-76a1b7d86507"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "13c247c5-a602-4de6-9572-71626379a64e",
         "255b1ee5-d73a-4924-98f6-3f210ad28854",
@@ -403,7 +405,7 @@
         "a473548d-0c4f-4d3c-8b39-878d9ebc9928",
         "61c4a687-10e6-434f-9cfb-b1ef8760fac0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1d282bac-ef1c-4da6-8a0d-b82f1c14bef2",
         "f379fe21-b83b-4dbd-8179-e92333716721",
@@ -424,7 +426,7 @@
         "a473548d-0c4f-4d3c-8b39-878d9ebc9928",
         "5e6c676c-92c3-4797-9df9-392abaffaa8a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1d282bac-ef1c-4da6-8a0d-b82f1c14bef2",
         "511612b3-7322-42fd-9b27-17f14579283e"
@@ -443,7 +445,7 @@
         "747de321-3d57-407a-8bf4-84334d912c35",
         "f1abb559-6a09-497a-a516-e466fd5efb99"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "13c247c5-a602-4de6-9572-71626379a64e",
         "a332ffe4-1374-42a1-8431-ad1d935be5b7",
@@ -463,7 +465,7 @@
       "mappedKnowledge": [
         "747de321-3d57-407a-8bf4-84334d912c35"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "09d24eaa-b711-45b9-925f-f9c9606a8232",
         "f379fe21-b83b-4dbd-8179-e92333716721",
@@ -490,7 +492,7 @@
         "34e3a19d-961d-4866-8f3a-415e8bd5a490",
         "32054f57-8503-4e59-8d0d-d7292b8c403c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "54b09ff5-1244-4853-a402-e97d5ddd7f21",
         "15a62551-90e8-4f23-b096-9ba6bc306f22",
@@ -519,7 +521,7 @@
         "34e3a19d-961d-4866-8f3a-415e8bd5a490",
         "ecbacae0-6ae0-4061-9826-f2e0c283a8f0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c73f2b82-a3cb-42d8-b172-27e657ee7ff3",
         "3bfab8c5-b71b-437d-aa80-91ceb59469ff",
@@ -529,6 +531,7 @@
       "criteriaForMeasuringPerformance": "A CDP should demonstrate a practical understanding of the policy framework,  current research, and expectations of clients and organisations, that enables them to critically evaluate and promote wider career development services"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
