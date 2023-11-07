@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/397",
   "versionNumber": "1.1",
   "change": "Funding band revised but remains £24000. End-point assessment plan revised.",
-  "changedDate": "2023-09-01T00:00:00Z",
-  "earliestStartDate": "2021-11-10T00:00:00Z",
-  "latestStartDate": "2023-08-31T00:00:00Z",
+  "changedDate": "2023-09-01T00:00:00",
+  "earliestStartDate": "2021-11-10T00:00:00",
+  "latestStartDate": "2023-08-31T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Delivering programmes and interventions to help people affected by injury, ageing, illness or disability.",
   "level": 6,
@@ -286,7 +286,6 @@
       "detail": "Respect and engage with the role and contributions of others who contribute to meeting health and social care needs."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -316,13 +315,17 @@
   "reviewDetails": "",
   "pathway": "Health",
   "cluster": "Health Professional",
+  "clusterId": "6",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2021-11-10T13:29:01 +00:00",
   "lastUpdated": "2023-09-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/physiotherapist-integrated-degree-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/physiotherapist-integrated-degree-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training provider",
