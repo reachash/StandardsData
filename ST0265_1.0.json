@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/467",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-02-20T00:00:00Z",
-  "earliestStartDate": "2019-07-03T00:00:00Z",
+  "changedDate": "2023-02-20T00:00:00",
+  "earliestStartDate": "2019-07-03T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Assembling and installing manufactured components to agreed design specification and tolerance.",
@@ -407,24 +407,6 @@
       "detail": "Apply finishing products to quality standard in accordance with drawings and project specifications."
     }
   ],
-  "options": [
-    {
-      "optionId": "d89b4252-0440-4556-8563-7b3512c4cf53",
-      "title": "Concrete "
-    },
-    {
-      "optionId": "23bb69bd-e756-400e-9c33-e1ebf3ea5758",
-      "title": "Timber"
-    },
-    {
-      "optionId": "aff57db8-31e0-45fd-ae98-eeb89f55092d",
-      "title": "Relocateable modular and portable"
-    },
-    {
-      "optionId": "582c7921-34cd-4b2b-b7d7-37cae8294ab1",
-      "title": "Permanent modular"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -464,10 +446,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
-  "pathway": "Onsite Construction",
-  "cluster": "Core Building Tradesperson",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2022-02-11T13:20:59 +00:00",
   "lastUpdated": "2023-02-20T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/construction-assembly-and-installation-operative-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/construction-assembly-and-installation-operative-v1-0",
   "qualifications": [
@@ -492,7 +477,7 @@
         "d278ba8f-fb4b-4d62-92ca-b5ad91440ac7",
         "aea19db5-6497-4f30-be41-5a2acb2f0c06"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "82731746-2883-4f98-a6a9-8dac524a2376",
         "7f9ef692-ed06-4084-b153-6edc88f107c8"
@@ -510,7 +495,7 @@
         "0292dc76-14fa-4fb1-bd6d-17530865118f",
         "d278ba8f-fb4b-4d62-92ca-b5ad91440ac7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "be2e4423-b5c2-4cba-a57a-5cbc46058c3b"
       ],
@@ -526,7 +511,7 @@
       "mappedKnowledge": [
         "15a1d819-b19b-407a-a5b3-b56a7920117a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0adc84b1-8aaa-459c-b42f-b17c1da537e9"
       ],
@@ -545,7 +530,7 @@
         "15a1d819-b19b-407a-a5b3-b56a7920117a",
         "b22d7857-370e-424c-9eda-19670dfe6112"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0adc84b1-8aaa-459c-b42f-b17c1da537e9",
         "be2e4423-b5c2-4cba-a57a-5cbc46058c3b",
@@ -566,7 +551,7 @@
         "aea19db5-6497-4f30-be41-5a2acb2f0c06",
         "d5f4c0f3-fae6-4e2d-a736-fcb5b003567e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4f066d60-47ef-441d-b982-10ed9e4da8a9",
         "960006f4-b9b8-4c9e-9d77-fe9c4988916e",
@@ -588,7 +573,7 @@
         "d278ba8f-fb4b-4d62-92ca-b5ad91440ac7",
         "aea19db5-6497-4f30-be41-5a2acb2f0c06"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0adc84b1-8aaa-459c-b42f-b17c1da537e9",
         "be2e4423-b5c2-4cba-a57a-5cbc46058c3b",
@@ -608,7 +593,7 @@
         "e0bdd2d4-88e5-44ad-8d44-93812b805e44",
         "da6418b0-9200-444d-ba0f-ab5567e2178b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "be2e4423-b5c2-4cba-a57a-5cbc46058c3b",
         "9cb55feb-6ca2-4b33-91ff-74b88d80ff69",
@@ -628,7 +613,7 @@
         "b22d7857-370e-424c-9eda-19670dfe6112",
         "d5f4c0f3-fae6-4e2d-a736-fcb5b003567e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "be2e4423-b5c2-4cba-a57a-5cbc46058c3b",
         "960006f4-b9b8-4c9e-9d77-fe9c4988916e"
@@ -652,7 +637,7 @@
         "5a9070a7-8eb0-4c25-b481-667e5f8a7ee4",
         "2c422263-2677-43c5-9a24-5767c9f354fa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fb6fafca-a8b3-4c3f-b59e-7a50a37a7d3c",
         "0992b06b-dae8-4106-b589-792af49aa371"
@@ -674,7 +659,7 @@
         "2c422263-2677-43c5-9a24-5767c9f354fa",
         "c70d4b50-0a9c-49aa-99a6-98dde3bbadbe"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ce8b5d15-c4c5-4295-bf61-e35085979c93",
         "7f9ef692-ed06-4084-b153-6edc88f107c8",
@@ -698,7 +683,7 @@
         "ec345eb3-4b77-41c5-a48e-9f856230c145",
         "d5f4c0f3-fae6-4e2d-a736-fcb5b003567e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7f9ef692-ed06-4084-b153-6edc88f107c8",
         "960006f4-b9b8-4c9e-9d77-fe9c4988916e",
@@ -720,7 +705,7 @@
         "abae83d3-6e28-4f50-8c68-950daef6a5d1",
         "c70d4b50-0a9c-49aa-99a6-98dde3bbadbe"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9cb55feb-6ca2-4b33-91ff-74b88d80ff69",
         "fb6fafca-a8b3-4c3f-b59e-7a50a37a7d3c",
@@ -740,7 +725,7 @@
         "da6418b0-9200-444d-ba0f-ab5567e2178b",
         "c70d4b50-0a9c-49aa-99a6-98dde3bbadbe"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fb6fafca-a8b3-4c3f-b59e-7a50a37a7d3c",
         "0992b06b-dae8-4106-b589-792af49aa371"
@@ -759,7 +744,7 @@
         "0292dc76-14fa-4fb1-bd6d-17530865118f",
         "abae83d3-6e28-4f50-8c68-950daef6a5d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0adc84b1-8aaa-459c-b42f-b17c1da537e9"
       ],
@@ -769,7 +754,7 @@
       "dutyID": "f67a0246-e307-4040-aeeb-e03585d26dd1",
       "dutyDetail": "Carry out dimensional checks of the slab and mark up positions e.g. starter bars and rails according to specifications and drawings. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "231211fb-00b0-46ea-91b1-4726f8711f41",
         "40fb530a-b6b9-4578-9c68-a31075497d36",
@@ -787,7 +772,7 @@
       "dutyID": "a98fb49d-c7b9-4019-93b1-a9d4786f47b5",
       "dutyDetail": "Erect components such as panels, large format block work, staircases, columns, flooring, lintels and pods according to specifications and drawings.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "72f356cf-afe9-4612-81da-1a0a764ee748",
         "99edf696-5597-443c-9ee2-0dd5327005b9",
@@ -806,7 +791,7 @@
       "dutyID": "90d8eee2-376a-4067-b4fe-fbe93a6a1b66",
       "dutyDetail": "Install propping and other temporary works such as edge protection as per specifications and drawings.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "40fb530a-b6b9-4578-9c68-a31075497d36",
         "cd2c414e-d0de-41f2-bacf-b9a94d76ae81"
@@ -823,7 +808,7 @@
       "dutyID": "0febd2a8-ebec-41e1-8070-3315b91e62bc",
       "dutyDetail": "Carry out structural connections using items such as, rebar, strand, grout and specialist fixings as per specifications and drawings. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "99edf696-5597-443c-9ee2-0dd5327005b9",
         "45f60ce5-dcad-4bce-a135-e5c0d94992c0"
@@ -841,7 +826,7 @@
       "dutyID": "79fde78a-d502-4736-b771-2804696a7783",
       "dutyDetail": "Carry out finishing works and installation of the ancillary items such as window formers, cavity trays and insulation products.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "45f60ce5-dcad-4bce-a135-e5c0d94992c0",
         "f48a5bb9-aa88-4bdb-a7e6-e76d419f6402"
@@ -859,7 +844,7 @@
       "dutyID": "5d232cd3-f57e-403e-a519-066f1d31e6f6",
       "dutyDetail": "Survey, position, fit, level and fix soleplates according to specifications and drawings. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "1d8c2d84-7380-4f47-8884-2cc73f479b92"
       ],
@@ -875,7 +860,7 @@
       "dutyID": "c34ce745-2d01-44ca-9a1a-42d60bcb4ec7",
       "dutyDetail": "Erect timber frame panels to create walls on-site according to specifications and drawings",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "782c8eb4-a8cf-40cd-8015-ecb718fe7ab3",
         "e26920e0-4998-41da-bc91-8cf2ee494827"
@@ -892,7 +877,7 @@
       "dutyID": "39660f78-35f4-4639-8753-fa0e3d0bdcd1",
       "dutyDetail": "Install and lay cassette floor decks and/or install floor joists according to specifications and drawings. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "782c8eb4-a8cf-40cd-8015-ecb718fe7ab3",
         "1da41cee-c7d0-402b-9984-645f488272ad",
@@ -911,7 +896,7 @@
       "dutyID": "91809f6b-fe5a-46a6-ae85-9154685662b7",
       "dutyDetail": "Erect timber roof structures and components, in-situ roofs and pre-assembled roof structures according to drawings and specifications. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "782c8eb4-a8cf-40cd-8015-ecb718fe7ab3",
         "12bbcd36-76f1-4ef6-b606-4b2d2d9e7dc8",
@@ -933,7 +918,7 @@
       "dutyID": "c02f9768-ff90-46ca-aea2-1ded086af0e6",
       "dutyDetail": "Install ancillary items e.g. air tightness measures, damp-proofing, membranes, fire stops, cavity barriers according to drawings and specifications",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "782c8eb4-a8cf-40cd-8015-ecb718fe7ab3",
         "ea9e919d-998a-4c8e-bb66-fad328d69fc6"
@@ -951,7 +936,7 @@
       "dutyID": "a07e82e5-f220-471d-baa3-63cdf369ed5e",
       "dutyDetail": "Follow organisational procedures to prepare the exterior building to meet customer specifications e.g. shot blasting, repainting the exterior, windows, stairways, linkways, doors, ironmongery, trims",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "61f0ea4f-a599-49da-9df6-50acd5b3a193",
         "1ecc0c85-d8a7-4776-9301-dc97ef5ebf63",
@@ -971,8 +956,8 @@
       "dutyID": "ecd815a3-1134-43dc-83e2-c7011b6036b2",
       "dutyDetail": "Prepare the unit for safe transport e.g. temporary stability panels, temporary seals, covers. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
-      "mappedKnowledge": null,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
       "mappedOptions": [
         "aff57db8-31e0-45fd-ae98-eeb89f55092d"
       ],
@@ -985,7 +970,7 @@
       "dutyID": "cadc0e97-53db-46e6-9268-1f0646b7c7b5",
       "dutyDetail": "Apply internal finishings e.g. internal partitions, trims, configure interior layout, painting, electrical and plumbing, tiling. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "1ecc0c85-d8a7-4776-9301-dc97ef5ebf63"
       ],
@@ -1001,7 +986,7 @@
       "dutyID": "436086c3-28c6-45d6-b716-4f8cd1eb24de",
       "dutyDetail": "Demonstrate the product and handover installation paperwork to customer. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "1ecc0c85-d8a7-4776-9301-dc97ef5ebf63"
       ],
@@ -1017,7 +1002,7 @@
       "dutyID": "700c7a5a-89fc-4148-86e4-45f6c938d3f2",
       "dutyDetail": "Carry out maintenance to buildings in accordance with the planned schedule or in reaction to customer feedback e.g. broken component, different layout required. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "1ecc0c85-d8a7-4776-9301-dc97ef5ebf63"
       ],
@@ -1033,7 +1018,7 @@
       "dutyID": "82c7fccf-f79f-4d85-865b-563c077697db",
       "dutyDetail": "Dismantle the building e.g. removing connections to utilities, removing staircases, removing linkways following the supplied lift plan to move the building onto transport. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "1ecc0c85-d8a7-4776-9301-dc97ef5ebf63"
       ],
@@ -1049,7 +1034,7 @@
       "dutyID": "ec337b22-af45-4f8e-bff7-43d9067de350",
       "dutyDetail": "Carry out after hire inspections and report findings once the building is returned to the depot in order to prepare invoice for damages. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "61f0ea4f-a599-49da-9df6-50acd5b3a193"
       ],
@@ -1065,7 +1050,7 @@
       "dutyID": "ab27647f-6a07-4328-8693-06a327fd8637",
       "dutyDetail": "Carry out dimensional checks of the slab and mark up positions, e.g.: grid, anchorages, ground cleats, services and drainage, according to specifications and drawings.    ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "83eea7d7-9338-4512-9563-93b93246ad91",
         "6dfb4afd-fef5-48da-a31f-f7aed9eaa706"
@@ -1082,7 +1067,7 @@
       "dutyID": "f37bc58f-634d-4f72-976f-4a2e03425d58",
       "dutyDetail": "Erect components such as modular units, panelised elements and secondary structures e.g.: support systems and balconies, bracketry, columns, lintels, external and internal fire stopping, service connections, internal fabric finishing materials according to specifications and drawings. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "2319c24d-a5db-4424-a569-e8a2cf092cf5"
       ],
@@ -1101,7 +1086,7 @@
       "dutyID": "b2f6723a-0421-472f-b09d-e5e8074d7f98",
       "dutyDetail": "Install temporary works for transportation such as bracing, temporary seals and covers. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "eb2193f9-0148-4b18-9d27-725301a2d75f"
       ],
@@ -1117,7 +1102,7 @@
       "dutyID": "aaba856d-dd35-494c-9ba9-04564c6b6e12",
       "dutyDetail": "Carry out structural connections using items such as inter-modular bracketry, tie cleats, core cleat connections, ground anchors, grout and specialist fixings as per specifications and drawings. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "ca0bb95d-220e-49ef-a51d-edd0b53104c0"
       ],
@@ -1134,7 +1119,7 @@
       "dutyID": "85e13b84-b886-4096-a7e1-4a2bd8ddb6ce",
       "dutyDetail": "Carry out internal finishing works and installation of the ancillary items such as bay joints, service connections and completions, suspended ceilings, flooring, thresholds, internal fabric items, cavity trays, insulation products and decorative finishes. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "15a1d819-b19b-407a-a5b3-b56a7920117a",
         "0292dc76-14fa-4fb1-bd6d-17530865118f",
@@ -1148,6 +1133,28 @@
         "8ad6bb90-5e94-401f-9938-301e6aaeaaf1"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "d89b4252-0440-4556-8563-7b3512c4cf53",
+      "title": "Concrete ",
+      "occupationCode": null
+    },
+    {
+      "optionId": "23bb69bd-e756-400e-9c33-e1ebf3ea5758",
+      "title": "Timber",
+      "occupationCode": null
+    },
+    {
+      "optionId": "aff57db8-31e0-45fd-ae98-eeb89f55092d",
+      "title": "Relocateable modular and portable",
+      "occupationCode": null
+    },
+    {
+      "optionId": "582c7921-34cd-4b2b-b7d7-37cae8294ab1",
+      "title": "Permanent modular",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
