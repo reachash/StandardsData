@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/656",
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised",
-  "changedDate": "2023-03-17T00:00:00Z",
-  "earliestStartDate": "2023-03-17T00:00:00Z",
+  "changedDate": "2023-03-17T00:00:00",
+  "earliestStartDate": "2023-03-17T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Groom a range of dog breeds and coat types.",
@@ -250,7 +250,6 @@
       "detail": "Clean and disinfect the work area and dispose of waste in accordance with COSHH regulations"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -284,8 +283,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Animal Care and Management",
   "cluster": "Animal Care and Welfare Assistant",
+  "clusterId": "148",
+  "clusterDescription": "Routine and detailed care, handling and training of animals",
   "createdDate": "2023-03-17T09:27:47 +00:00",
   "lastUpdated": "2023-03-17T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/dog-groomer-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/dog-groomer-v1-1",
   "qualifications": [],
@@ -319,7 +321,7 @@
         "ad422cfc-a5af-4911-92a0-6e91edb196f3",
         "fed65256-3a44-49ee-b75d-5138df4916cd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "69f90772-bd8d-4b1c-aefd-6940b8c3136b",
         "915e0d53-786d-4625-a62b-98d13e150203",
@@ -348,7 +350,7 @@
         "896f6965-f60c-48ff-8502-ab17d9de3fa2",
         "4ededb1c-a5f3-4b31-970f-303a11b58892"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "69f90772-bd8d-4b1c-aefd-6940b8c3136b",
         "915e0d53-786d-4625-a62b-98d13e150203",
@@ -380,7 +382,7 @@
         "905f4611-a7be-40fb-8c68-ade0b6b13300",
         "0657e123-e786-4217-b0c2-f840ea8b8bac"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "915e0d53-786d-4625-a62b-98d13e150203",
         "93e2352c-84b7-4354-8ac6-5e2026ba046f",
@@ -406,7 +408,7 @@
         "c13ff8e0-d3cc-4c0f-8f06-4722700e5d3c",
         "dd823102-6b95-4c40-8aa2-e7587aea6a31"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "69f90772-bd8d-4b1c-aefd-6940b8c3136b",
         "12818dcd-ce5f-416f-b0eb-839845ffc92d",
@@ -430,7 +432,7 @@
         "c13ff8e0-d3cc-4c0f-8f06-4722700e5d3c",
         "dd823102-6b95-4c40-8aa2-e7587aea6a31"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "69f90772-bd8d-4b1c-aefd-6940b8c3136b",
         "915e0d53-786d-4625-a62b-98d13e150203",
@@ -455,7 +457,7 @@
         "905f4611-a7be-40fb-8c68-ade0b6b13300",
         "c13ff8e0-d3cc-4c0f-8f06-4722700e5d3c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "69f90772-bd8d-4b1c-aefd-6940b8c3136b",
         "93e2352c-84b7-4354-8ac6-5e2026ba046f",
@@ -479,7 +481,7 @@
         "61ab796b-6e20-4e0b-a78f-5138af46431a",
         "896f6965-f60c-48ff-8502-ab17d9de3fa2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "69f90772-bd8d-4b1c-aefd-6940b8c3136b",
         "915e0d53-786d-4625-a62b-98d13e150203",
@@ -505,7 +507,7 @@
         "61ab796b-6e20-4e0b-a78f-5138af46431a",
         "98dba279-864c-48df-9be4-09dbef8cd0aa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "915e0d53-786d-4625-a62b-98d13e150203",
         "93e2352c-84b7-4354-8ac6-5e2026ba046f",
@@ -538,7 +540,7 @@
         "896f6965-f60c-48ff-8502-ab17d9de3fa2",
         "630c7133-90b9-42ca-8c0f-d3b82bea26af"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "69f90772-bd8d-4b1c-aefd-6940b8c3136b",
         "915e0d53-786d-4625-a62b-98d13e150203",
@@ -571,7 +573,7 @@
         "630c7133-90b9-42ca-8c0f-d3b82bea26af",
         "4ededb1c-a5f3-4b31-970f-303a11b58892"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "69f90772-bd8d-4b1c-aefd-6940b8c3136b",
         "915e0d53-786d-4625-a62b-98d13e150203",
@@ -596,7 +598,7 @@
         "0a4daf9a-7bd1-45c9-8245-09ce4fec75a5",
         "0da43dce-c3bd-4b96-86e5-4b998f9778fc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c0fe6745-d7af-4cac-9d73-ec2933ed2c42",
         "5ecbc5f2-6201-4faa-9bdc-a571c04cd6ff",
@@ -622,7 +624,7 @@
         "ad422cfc-a5af-4911-92a0-6e91edb196f3",
         "fed65256-3a44-49ee-b75d-5138df4916cd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c39cbb3c-bb09-4b5b-9d35-b49263c674e1",
         "22e41aac-6707-4ca4-9672-0e94dc7ea1c6",
@@ -646,7 +648,7 @@
         "ad422cfc-a5af-4911-92a0-6e91edb196f3",
         "fed65256-3a44-49ee-b75d-5138df4916cd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "22e41aac-6707-4ca4-9672-0e94dc7ea1c6",
         "509a1190-e392-4b82-a7c6-c8448495afb8"
@@ -673,7 +675,7 @@
         "ad422cfc-a5af-4911-92a0-6e91edb196f3",
         "fed65256-3a44-49ee-b75d-5138df4916cd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "22e41aac-6707-4ca4-9672-0e94dc7ea1c6",
         "509a1190-e392-4b82-a7c6-c8448495afb8"
@@ -699,7 +701,7 @@
         "896f6965-f60c-48ff-8502-ab17d9de3fa2",
         "0da43dce-c3bd-4b96-86e5-4b998f9778fc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6edfc82c-f82f-4536-8154-2a91b4d0c6a0",
         "c39cbb3c-bb09-4b5b-9d35-b49263c674e1",
@@ -727,7 +729,7 @@
         "ad422cfc-a5af-4911-92a0-6e91edb196f3",
         "fed65256-3a44-49ee-b75d-5138df4916cd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "509a1190-e392-4b82-a7c6-c8448495afb8",
         "b02daf4f-51da-4468-862c-b85e50200dc4"
@@ -735,6 +737,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
