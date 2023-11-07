@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/499",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-12-09T00:00:00Z",
-  "earliestStartDate": "2019-08-21T00:00:00Z",
+  "changedDate": "2021-12-09T00:00:00",
+  "earliestStartDate": "2019-08-21T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Develop and deliver the support services that keep engineered assets working better and for longer.",
@@ -196,7 +196,6 @@
       "detail": "Service change Management: plan and execute a programme of change within a complex service delivery system."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -235,8 +234,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Quality Improvement, Health & Safety Professional",
+  "clusterId": "257",
+  "clusterDescription": "Direct and manage overall product and process integrity and quality, and the health and safety of a whole workplace",
   "createdDate": "2019-12-23T12:06:14 +00:00",
   "lastUpdated": "2021-12-09T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/through-life-engineering-services-specialist-integrated-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/through-life-engineering-services-specialist-integrated-degree-v1-0",
   "qualifications": [
@@ -284,7 +286,7 @@
         "d648f735-8122-4885-90c3-479cf941566c",
         "bbc68f08-71e9-4b85-a928-c4c2da39433c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6f3bd478-18a3-41aa-a397-ec0c656c55f2",
         "6071bc60-8e8d-480a-88da-d19226018209",
@@ -317,7 +319,7 @@
         "fe458e9c-0978-4a29-9b02-0e7a177caad9",
         "2cfdae6a-4f9d-4834-88fa-1bb1f6513b2a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6f3bd478-18a3-41aa-a397-ec0c656c55f2",
         "6071bc60-8e8d-480a-88da-d19226018209",
@@ -349,7 +351,7 @@
         "edb73b02-7130-4c7b-bc42-0331e3bc0cd8",
         "bbc68f08-71e9-4b85-a928-c4c2da39433c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c3e35f7d-1217-4526-a746-00f7d5438672",
         "3d57c8c5-9738-4b6b-834a-de488cb0c29e",
@@ -380,7 +382,7 @@
         "edb73b02-7130-4c7b-bc42-0331e3bc0cd8",
         "bbc68f08-71e9-4b85-a928-c4c2da39433c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c3e35f7d-1217-4526-a746-00f7d5438672",
         "18905ce9-b6fb-4559-95a8-ff73b78a4fff",
@@ -408,7 +410,7 @@
         "6f9cfcb8-93b0-4820-a915-5167f5a0c081",
         "ae8dfc3e-0a97-408e-8bf2-14c3ab8cf2a6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6071bc60-8e8d-480a-88da-d19226018209",
         "c3e35f7d-1217-4526-a746-00f7d5438672",
@@ -435,7 +437,7 @@
         "6f9cfcb8-93b0-4820-a915-5167f5a0c081",
         "ae8dfc3e-0a97-408e-8bf2-14c3ab8cf2a6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6071bc60-8e8d-480a-88da-d19226018209",
         "c3e35f7d-1217-4526-a746-00f7d5438672",
@@ -466,7 +468,7 @@
         "2cfdae6a-4f9d-4834-88fa-1bb1f6513b2a",
         "b9ac0b5e-9af8-4232-9b4e-94c2d1445bb3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9b974c4d-c1b8-4771-82b0-053cb8e5c5dc",
         "1883ae53-ca7d-4302-a617-8c1afbe7a6ab",
@@ -496,7 +498,7 @@
         "fe458e9c-0978-4a29-9b02-0e7a177caad9",
         "2cfdae6a-4f9d-4834-88fa-1bb1f6513b2a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "18905ce9-b6fb-4559-95a8-ff73b78a4fff",
         "9dbf4fc0-cc0f-45e2-8d51-1748aacf8429",
@@ -540,7 +542,7 @@
         "2cfdae6a-4f9d-4834-88fa-1bb1f6513b2a",
         "b9ac0b5e-9af8-4232-9b4e-94c2d1445bb3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6f3bd478-18a3-41aa-a397-ec0c656c55f2",
         "6071bc60-8e8d-480a-88da-d19226018209",
@@ -574,7 +576,7 @@
         "ae8dfc3e-0a97-408e-8bf2-14c3ab8cf2a6",
         "517426b9-8781-472c-bdd6-eb4153c057f9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9dbf4fc0-cc0f-45e2-8d51-1748aacf8429",
         "1883ae53-ca7d-4302-a617-8c1afbe7a6ab",
@@ -610,7 +612,7 @@
         "e92caa10-7071-45a5-90ad-d383f6d3295c",
         "fe458e9c-0978-4a29-9b02-0e7a177caad9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c3e35f7d-1217-4526-a746-00f7d5438672",
         "3d57c8c5-9738-4b6b-834a-de488cb0c29e",
@@ -636,7 +638,7 @@
         "03df82b7-d468-43c7-ba8e-842441333959",
         "b9ac0b5e-9af8-4232-9b4e-94c2d1445bb3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6f3bd478-18a3-41aa-a397-ec0c656c55f2",
         "6071bc60-8e8d-480a-88da-d19226018209",
@@ -683,7 +685,7 @@
         "2cfdae6a-4f9d-4834-88fa-1bb1f6513b2a",
         "b9ac0b5e-9af8-4232-9b4e-94c2d1445bb3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6f3bd478-18a3-41aa-a397-ec0c656c55f2",
         "6071bc60-8e8d-480a-88da-d19226018209",
@@ -732,7 +734,7 @@
         "2cfdae6a-4f9d-4834-88fa-1bb1f6513b2a",
         "b9ac0b5e-9af8-4232-9b4e-94c2d1445bb3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6f3bd478-18a3-41aa-a397-ec0c656c55f2",
         "6071bc60-8e8d-480a-88da-d19226018209",
@@ -781,7 +783,7 @@
         "2cfdae6a-4f9d-4834-88fa-1bb1f6513b2a",
         "b9ac0b5e-9af8-4232-9b4e-94c2d1445bb3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6f3bd478-18a3-41aa-a397-ec0c656c55f2",
         "6071bc60-8e8d-480a-88da-d19226018209",
@@ -830,8 +832,8 @@
         "2cfdae6a-4f9d-4834-88fa-1bb1f6513b2a",
         "b9ac0b5e-9af8-4232-9b4e-94c2d1445bb3"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": "Delivery performance: cost of support"
     },
     {
@@ -862,7 +864,7 @@
         "2cfdae6a-4f9d-4834-88fa-1bb1f6513b2a",
         "b9ac0b5e-9af8-4232-9b4e-94c2d1445bb3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6071bc60-8e8d-480a-88da-d19226018209",
         "c3e35f7d-1217-4526-a746-00f7d5438672",
@@ -874,6 +876,7 @@
       "criteriaForMeasuringPerformance": "Timeliness of capability, robustness of capability, cost effectiveness of capability"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
