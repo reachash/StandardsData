@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/332",
   "versionNumber": "1.1",
   "change": "Revised standard",
-  "changedDate": "2022-11-17T00:00:00Z",
-  "earliestStartDate": "2018-11-20T00:00:00Z",
+  "changedDate": "2022-11-17T00:00:00",
+  "earliestStartDate": "2018-11-20T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Looking after the routine day to day care of domestic and/or wild animals.",
@@ -609,40 +609,6 @@
       "detail": "support, as directed, a veterinary surgeon / veterinary nurse in a clinical environment with:\ndealing with potential and actual emergency situations\npre and post-operative care\npatient monitoring for example anaesthetic monitoring\nin-patient care\ndiagnostic care/tests/X-rays – positioning and exposing\nthe dispensing and administration of medication\nend of life care for pets and providing support for the owner"
     }
   ],
-  "options": [
-    {
-      "optionId": "0097f9a4-5faf-4ae6-8bfb-066433e227f3",
-      "title": "Animal Interaction and Handling"
-    },
-    {
-      "optionId": "48b9633e-59d9-41fb-8f5e-d54d81681617",
-      "title": "Rehoming"
-    },
-    {
-      "optionId": "213eec93-e1f0-46b7-9140-b4c3c40e8f0b",
-      "title": "Movement and Transportation"
-    },
-    {
-      "optionId": "a52d627a-a27e-4cb0-891e-0f84c3277017",
-      "title": "Operational/Reception Duties"
-    },
-    {
-      "optionId": "471271a2-6d61-44b3-8e3a-28ba53162636",
-      "title": "Breeding"
-    },
-    {
-      "optionId": "15377771-c1a5-4332-979b-a50b4b196ca1",
-      "title": "Working Dog Handler"
-    },
-    {
-      "optionId": "f56d111d-1e4e-418f-aa2d-cddc3595c6ec",
-      "title": "Wildlife Rehabilitation"
-    },
-    {
-      "optionId": "7502c724-c875-420c-bb22-e76fc9dc1a16",
-      "title": "Veterinary Care Support"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Animal Interaction and Handling",
     "Rehoming",
@@ -691,13 +657,58 @@
   "reviewDetails": "",
   "pathway": "Animal Care and Management",
   "cluster": "Animal Care and Welfare Assistant",
+  "clusterId": "148",
+  "clusterDescription": "Routine and detailed care, handling and training of animals",
   "createdDate": "2017-11-14T17:09:23 +00:00",
   "lastUpdated": "2022-11-17T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/animal-care-and-welfare-assistant-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/animal-care-and-welfare-assistant-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "0097f9a4-5faf-4ae6-8bfb-066433e227f3",
+      "title": "Animal Interaction and Handling",
+      "occupationCode": null
+    },
+    {
+      "optionId": "48b9633e-59d9-41fb-8f5e-d54d81681617",
+      "title": "Rehoming",
+      "occupationCode": null
+    },
+    {
+      "optionId": "213eec93-e1f0-46b7-9140-b4c3c40e8f0b",
+      "title": "Movement and Transportation",
+      "occupationCode": null
+    },
+    {
+      "optionId": "a52d627a-a27e-4cb0-891e-0f84c3277017",
+      "title": "Operational/Reception Duties",
+      "occupationCode": null
+    },
+    {
+      "optionId": "471271a2-6d61-44b3-8e3a-28ba53162636",
+      "title": "Breeding",
+      "occupationCode": null
+    },
+    {
+      "optionId": "15377771-c1a5-4332-979b-a50b4b196ca1",
+      "title": "Working Dog Handler",
+      "occupationCode": null
+    },
+    {
+      "optionId": "f56d111d-1e4e-418f-aa2d-cddc3595c6ec",
+      "title": "Wildlife Rehabilitation",
+      "occupationCode": null
+    },
+    {
+      "optionId": "7502c724-c875-420c-bb22-e76fc9dc1a16",
+      "title": "Veterinary Care Support",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
