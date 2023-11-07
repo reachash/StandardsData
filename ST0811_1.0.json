@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/732",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-10-18T00:00:00Z",
-  "earliestStartDate": "2023-10-18T00:00:00Z",
+  "changedDate": "2023-10-18T00:00:00",
+  "earliestStartDate": "2023-10-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Set the procurement and supply chain strategy.",
@@ -261,7 +261,6 @@
       "detail": "Coach and mentor individuals within their business."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -296,8 +295,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Procurement",
   "cluster": "Procurement Professional",
+  "clusterId": "227",
+  "clusterDescription": "Formulates direction and advice, manages change, and leads and influences both internal and external stakeholders in procurement and supply",
   "createdDate": "2023-10-20T08:49:58 +00:00",
   "lastUpdated": "2023-10-18T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/senior-procurement-and-supply-chain-professional-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/senior-procurement-and-supply-chain-professional-v1-0",
   "qualifications": [
@@ -331,7 +333,7 @@
         "e9c44ef7-2434-4a97-8d6a-e81249419fdc",
         "9c66acff-e032-4e29-97a4-8242826acb90"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "020b72f6-bd97-481c-84be-b02ba098c2c8",
         "02513873-192b-47a0-b914-aa97c3e86808",
@@ -343,7 +345,7 @@
       "dutyID": "57d7db42-65aa-44f7-a89d-b2648630ffe1",
       "dutyDetail": "Lead on procurement and supply organisational objectives and use key performance indicators to measure activities which drive and improve performance and sustainability objectives.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "8cb732cd-d122-4123-b31c-5ca01d3b6895",
         "8a2f92ba-50bc-4318-8b8a-df7f60a8407f",
@@ -351,7 +353,7 @@
         "f1297214-0837-4eb8-a767-9586652ca14c",
         "e4ea57fa-4f3b-48a4-aba4-9c23c598575e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "311dedba-9dee-4beb-ba23-61c96d9a59dc",
         "020b72f6-bd97-481c-84be-b02ba098c2c8",
@@ -376,7 +378,7 @@
         "b1cabfc1-647b-4113-ad98-0676169bee28",
         "f1297214-0837-4eb8-a767-9586652ca14c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2bd1a6cf-3ba8-4cd6-b142-e9b0658be195",
         "8d264771-f8ba-4174-8516-f5e43deec2c8",
@@ -400,7 +402,7 @@
         "d632f3b0-363b-4bae-97bf-74124ba72f60",
         "f1297214-0837-4eb8-a767-9586652ca14c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "311dedba-9dee-4beb-ba23-61c96d9a59dc",
         "d9dd48dd-7822-4275-b97c-0a8a9c0ac2c3",
@@ -425,7 +427,7 @@
         "f1297214-0837-4eb8-a767-9586652ca14c",
         "e4ea57fa-4f3b-48a4-aba4-9c23c598575e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8d264771-f8ba-4174-8516-f5e43deec2c8",
         "aa5629d1-4e8a-4111-b1b3-eab3ab298481",
@@ -439,7 +441,7 @@
       "dutyID": "a5c59d73-db64-4dab-a84b-f9de81fbe5ac",
       "dutyDetail": "Apply relevant legislation and contract management initiatives with the objective of delivering optimal value and meeting business needs and drive success throughout contract life.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "b96d3064-94ce-432e-9475-b877e243e681",
         "288d3889-4ecf-4a83-b1cc-4c5fda78303b",
@@ -449,7 +451,7 @@
         "94b47fe5-0972-4d0c-b96f-58a7f8e57754",
         "475a491b-e375-47f1-9e2d-0925124b111b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8d264771-f8ba-4174-8516-f5e43deec2c8",
         "37b20061-6bae-4b4e-b07d-aea07470b962",
@@ -472,7 +474,7 @@
         "475a491b-e375-47f1-9e2d-0925124b111b",
         "e4ea57fa-4f3b-48a4-aba4-9c23c598575e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "02513873-192b-47a0-b914-aa97c3e86808",
         "3181ba33-238f-4e43-94cd-23729f44db3e",
@@ -495,7 +497,7 @@
         "b1cabfc1-647b-4113-ad98-0676169bee28",
         "9c66acff-e032-4e29-97a4-8242826acb90"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2bd1a6cf-3ba8-4cd6-b142-e9b0658be195",
         "fe84afc3-fd9d-4bf0-aab1-171ff5f02e34",
@@ -521,7 +523,7 @@
         "19cdbad1-e912-4104-8261-335df4894653",
         "94b47fe5-0972-4d0c-b96f-58a7f8e57754"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "988bb949-9052-466d-9ad3-22268e6b294a",
         "af5738ca-03a4-4255-a4cd-6d90c45b1202",
@@ -544,7 +546,7 @@
         "b133000b-fd07-42c1-a744-6c58dee1cfd3",
         "ea8f5fb8-1a74-49a7-976c-df3a91cad160"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9dd48dd-7822-4275-b97c-0a8a9c0ac2c3",
         "633830bd-57e7-446a-a49f-a97e92969b9f",
@@ -556,7 +558,7 @@
       "dutyID": "56e79bbe-5fbd-4c15-8f12-e3098b8aca11",
       "dutyDetail": "Embed quality management systems and improvement methodologies to optimise procurement spend and deliver procurement and supply chain objectives including improved sustainability outcomes.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "1494811c-cc38-41a4-bb3a-826b34aa4d84",
         "3c671412-cdeb-40c2-baba-d7d93b928773",
@@ -566,7 +568,7 @@
         "e4ea57fa-4f3b-48a4-aba4-9c23c598575e",
         "9c66acff-e032-4e29-97a4-8242826acb90"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9dd48dd-7822-4275-b97c-0a8a9c0ac2c3",
         "fe84afc3-fd9d-4bf0-aab1-171ff5f02e34",
@@ -592,7 +594,7 @@
         "8cb732cd-d122-4123-b31c-5ca01d3b6895",
         "cd7f3286-1fd9-4c10-843c-4b05b9accb99"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "311dedba-9dee-4beb-ba23-61c96d9a59dc",
         "37b20061-6bae-4b4e-b07d-aea07470b962",
@@ -612,7 +614,7 @@
         "3c671412-cdeb-40c2-baba-d7d93b928773",
         "cd7f3286-1fd9-4c10-843c-4b05b9accb99"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aa5629d1-4e8a-4111-b1b3-eab3ab298481",
         "ba302814-8454-41a1-960a-fd10cd3f191c"
@@ -634,7 +636,7 @@
         "44e3bc3f-60ad-4825-9c6a-0f2d749243ae",
         "94b47fe5-0972-4d0c-b96f-58a7f8e57754"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "af5738ca-03a4-4255-a4cd-6d90c45b1202",
         "fe84afc3-fd9d-4bf0-aab1-171ff5f02e34",
@@ -643,6 +645,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
