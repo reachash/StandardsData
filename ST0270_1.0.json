@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/518",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-03-27T00:00:00Z",
-  "earliestStartDate": "2019-09-30T00:00:00Z",
-  "latestStartDate": "2023-03-26T00:00:00Z",
+  "changedDate": "2023-03-27T00:00:00",
+  "earliestStartDate": "2019-09-30T00:00:00",
+  "latestStartDate": "2023-03-26T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Installing a range of roofing materials and products.",
   "level": 2,
@@ -287,7 +287,6 @@
       "detail": "Work around penetrations and upstands"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [
     "Roof Slater & Tiler",
     "Waterproof Membranes Installer",
@@ -321,15 +320,19 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "",
-  "pathway": "Onsite Construction",
-  "cluster": "Core Building Tradesperson",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2017-11-14T17:08:51 +00:00",
   "lastUpdated": "2023-03-27T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/roofer-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/roofer-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
