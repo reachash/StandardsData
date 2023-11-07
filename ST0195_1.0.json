@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/16",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-05-05T00:00:00Z",
-  "earliestStartDate": "2014-12-09T00:00:00Z",
-  "latestStartDate": "2022-07-03T00:00:00Z",
+  "changedDate": "2022-05-05T00:00:00",
+  "earliestStartDate": "2014-12-09T00:00:00",
+  "latestStartDate": "2022-07-03T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Maintaining machinery and equipment in the food and drinks industry, finding and resolving faults, to optimise production levels.",
   "level": 3,
@@ -34,7 +34,6 @@
   "knowledges": [],
   "behaviours": [],
   "skills": [],
-  "options": [],
   "optionsUnstructuredTemplate": [
     "Mechanical Maintenance Engineer",
     "Multi-skilled Maintenance Engineer"
@@ -65,13 +64,17 @@
   "reviewDetails": "",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Manufacturing/Process Maintenance Operative/Technician",
+  "clusterId": "71",
+  "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2017-09-22T14:24:18 +00:00",
   "lastUpdated": "2022-05-05T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/food-and-drink-maintenance-engineer-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/food-and-drink-maintenance-engineer-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
