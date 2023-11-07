@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/548",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2020-03-12T00:00:00Z",
-  "earliestStartDate": "2020-03-12T00:00:00Z",
+  "changedDate": "2020-03-12T00:00:00",
+  "earliestStartDate": "2020-03-12T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Enabling organisations to get valuable working software out in front of active users and improving the quality of digital services.",
@@ -251,7 +251,6 @@
       "detail": "Incremental refactoring by applying small behaviour-preserving code changes to evolve the architecture."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -289,8 +288,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Digital Production, Design and Development",
   "cluster": "Software Development Advanced Technician",
+  "clusterId": "197",
+  "clusterDescription": "Build and test simple, high quality codes across various layers (front end, logic and database) and interpret design documents and specifications",
   "createdDate": "2020-03-12T12:42:01 +00:00",
   "lastUpdated": "2020-03-12T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/devops-engineer-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/devops-engineer-v1-0",
   "qualifications": [],
@@ -316,7 +318,7 @@
         "0cdaa332-0f0e-42c2-b5f9-14a008afe320",
         "7f114758-5145-4284-8f30-d0b0b4dc9ce6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b1a34aa6-2db9-4f6a-b20d-dd617159cfb3",
         "5d9a1807-9a68-49da-bde5-7f3682ce2748",
@@ -347,7 +349,7 @@
         "3da8f361-92b4-47c1-8024-49187f61c976",
         "619f28db-ad65-4e0f-a3bf-9ce3723b48f4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9b5f2589-04ca-43d4-a5da-5fb1dc61f464",
         "cf6a7b06-2ac3-4c02-a7c9-8826fc638f6f",
@@ -373,7 +375,7 @@
         "a587a84c-86f1-4008-ab3a-71af7a5bcd53",
         "7f114758-5145-4284-8f30-d0b0b4dc9ce6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9b5f2589-04ca-43d4-a5da-5fb1dc61f464",
         "ea4d4425-179b-4e6b-bb4a-3739a9a5d576",
@@ -403,7 +405,7 @@
         "50a23f86-67e5-4264-ac6d-256d6c6b034a",
         "619f28db-ad65-4e0f-a3bf-9ce3723b48f4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9b5f2589-04ca-43d4-a5da-5fb1dc61f464",
         "cf6a7b06-2ac3-4c02-a7c9-8826fc638f6f",
@@ -430,7 +432,7 @@
         "281249f6-70d0-4fb7-b197-fb48278fb2d7",
         "970e7088-fbae-4ebe-ac40-89b328757c88"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a775ba6b-73b5-432c-bc1c-7a28892f5516",
         "b1a34aa6-2db9-4f6a-b20d-dd617159cfb3",
@@ -457,7 +459,7 @@
         "f4cefcce-deda-4da8-bfe5-d67454cd82c9",
         "970e7088-fbae-4ebe-ac40-89b328757c88"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a775ba6b-73b5-432c-bc1c-7a28892f5516",
         "549ce19f-92ed-4b3a-947b-ec54062ceed7",
@@ -492,7 +494,7 @@
         "f6dc64dd-c0e5-4ea1-a08c-17704b704213",
         "970e7088-fbae-4ebe-ac40-89b328757c88"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a775ba6b-73b5-432c-bc1c-7a28892f5516",
         "549ce19f-92ed-4b3a-947b-ec54062ceed7",
@@ -530,7 +532,7 @@
         "f6dc64dd-c0e5-4ea1-a08c-17704b704213",
         "970e7088-fbae-4ebe-ac40-89b328757c88"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9b5f2589-04ca-43d4-a5da-5fb1dc61f464",
         "cf6a7b06-2ac3-4c02-a7c9-8826fc638f6f",
@@ -569,7 +571,7 @@
         "721d3800-fca8-4e6a-9afe-d57ac9ce2fbb",
         "ef339342-bd69-4050-8a96-8b53a8951cfd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6b7e8c84-3f45-442a-aeae-c739466ef48e",
         "a775ba6b-73b5-432c-bc1c-7a28892f5516",
@@ -599,7 +601,7 @@
         "6920da28-147b-43a0-b0f8-c5a34edf41eb",
         "970e7088-fbae-4ebe-ac40-89b328757c88"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6b7e8c84-3f45-442a-aeae-c739466ef48e",
         "a775ba6b-73b5-432c-bc1c-7a28892f5516",
@@ -631,7 +633,7 @@
         "970e7088-fbae-4ebe-ac40-89b328757c88",
         "581599e4-a9dd-44cf-94c4-b595f0bfe065"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a775ba6b-73b5-432c-bc1c-7a28892f5516",
         "2fce42f5-820f-40a1-b1c3-c0d5683843ff"
@@ -657,7 +659,7 @@
         "281249f6-70d0-4fb7-b197-fb48278fb2d7",
         "f4cefcce-deda-4da8-bfe5-d67454cd82c9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a775ba6b-73b5-432c-bc1c-7a28892f5516",
         "549ce19f-92ed-4b3a-947b-ec54062ceed7",
@@ -687,7 +689,7 @@
         "619f28db-ad65-4e0f-a3bf-9ce3723b48f4",
         "970e7088-fbae-4ebe-ac40-89b328757c88"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9b5f2589-04ca-43d4-a5da-5fb1dc61f464",
         "cf6a7b06-2ac3-4c02-a7c9-8826fc638f6f",
@@ -702,6 +704,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
