@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/246",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-04-08T00:00:00Z",
-  "earliestStartDate": "2018-02-27T00:00:00Z",
+  "changedDate": "2022-04-08T00:00:00",
+  "earliestStartDate": "2018-02-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Supporting the safe and efficient operation of the bus, coach and rail transport networks.",
@@ -195,16 +195,6 @@
       "detail": "Monitor the performance of transport services to ensure the standard of provision (including frequency, punctuality and capacity where relevant) meet stakeholder needs and expectations."
     }
   ],
-  "options": [
-    {
-      "optionId": "1c21e6a9-b6b3-4753-8f48-b57254a3e80c",
-      "title": "Network Performance Operators"
-    },
-    {
-      "optionId": "2ca5117f-d207-41b1-9646-619bbfed0b77",
-      "title": "Schedulers"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Network Performance Operators",
     "Schedulers"
@@ -241,13 +231,28 @@
   "reviewDetails": "",
   "pathway": "Transport",
   "cluster": "Transport Operations Operative/Technician",
+  "clusterId": "16",
+  "clusterDescription": "Support a transport facility's operation and/or support the loading and movement of a freight or passenger vehicle or vessel",
   "createdDate": "2017-11-14T17:08:52 +00:00",
   "lastUpdated": "2022-04-08T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/network-operations-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/network-operations-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "1c21e6a9-b6b3-4753-8f48-b57254a3e80c",
+      "title": "Network Performance Operators",
+      "occupationCode": null
+    },
+    {
+      "optionId": "2ca5117f-d207-41b1-9646-619bbfed0b77",
+      "title": "Schedulers",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
