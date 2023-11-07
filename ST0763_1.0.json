@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/561",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-04-30T00:00:00Z",
-  "earliestStartDate": "2020-05-13T00:00:00Z",
+  "changedDate": "2021-04-30T00:00:00",
+  "earliestStartDate": "2020-05-13T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Discover new artificial intelligence solutions that use data to improve and automate business processes.",
@@ -306,7 +306,6 @@
       "detail": "Undertakes independent, impartial decision-making respecting the opinions and views of others in complex, unpredictable and changing circumstances"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -341,8 +340,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Digital Business Services",
   "cluster": "Digital Solutions Professional",
+  "clusterId": "235",
+  "clusterDescription": "Provide and implement technology enabled solutions to internal and external customers",
   "createdDate": "2019-08-28T09:53:53 +00:00",
   "lastUpdated": "2021-04-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/artificial-intelligence-ai-data-specialist-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/artificial-intelligence-ai-data-specialist-v1-0",
   "qualifications": [],
@@ -366,7 +368,7 @@
         "7a702923-8557-4478-ae26-fc75d4066dc9",
         "596706b7-cec9-4cee-87bc-b729658c2e94"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d1e1a16e-5fbe-4778-a271-5ee1981cd7a0",
         "5fb38e34-8148-4275-8ddb-40d9e8133473",
@@ -400,7 +402,7 @@
         "26f6453a-1f0d-4903-bdbd-af2daad5ff66",
         "4eeb8b05-4197-4879-863a-d4295dcb90b6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4be2e298-a177-4fd5-a86e-b22ff17a6fee",
         "24fbbb50-1f4d-406f-b557-973d5bc41ae9",
@@ -434,7 +436,7 @@
         "4eeb8b05-4197-4879-863a-d4295dcb90b6",
         "51cd0953-b387-470b-8a4b-3fa536388075"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4be2e298-a177-4fd5-a86e-b22ff17a6fee",
         "24fbbb50-1f4d-406f-b557-973d5bc41ae9",
@@ -467,7 +469,7 @@
         "bd0cbd73-4bf9-4f91-b018-a4dba20274d9",
         "596706b7-cec9-4cee-87bc-b729658c2e94"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "99911efd-443f-4484-8b25-0c90eeb7e3d7",
         "b7de9068-ae20-4f6a-a7da-0acb39a41ef8",
@@ -493,7 +495,7 @@
         "4eeb8b05-4197-4879-863a-d4295dcb90b6",
         "596706b7-cec9-4cee-87bc-b729658c2e94"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4a452966-b9ea-4a6f-b4d1-e111a092edf2",
         "5c6bfb03-923a-473c-90b6-5483022b9d6d",
@@ -520,7 +522,7 @@
         "0a95f13b-314b-4f41-9055-3b7b301dc6d4",
         "596706b7-cec9-4cee-87bc-b729658c2e94"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "24fbbb50-1f4d-406f-b557-973d5bc41ae9",
         "99911efd-443f-4484-8b25-0c90eeb7e3d7",
@@ -547,7 +549,7 @@
         "4931d527-5397-42d1-96d8-6fcc1f3849b5",
         "cb3d6b52-7170-4a7a-b8a6-994600e7ec8e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5c6bfb03-923a-473c-90b6-5483022b9d6d",
         "eb8c4dcb-1a66-4f5e-86d5-b5ee4e5a4aa0",
@@ -579,7 +581,7 @@
         "cb3d6b52-7170-4a7a-b8a6-994600e7ec8e",
         "51cd0953-b387-470b-8a4b-3fa536388075"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d1e1a16e-5fbe-4778-a271-5ee1981cd7a0",
         "075cfa31-144d-4187-98e8-4c19ea1afc3e",
@@ -608,7 +610,7 @@
         "3189ca18-4e48-41b8-a9d2-6e8adcd145c1",
         "e72b40ff-d2ea-4ce0-b4d5-474521a62ebf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0b0c2432-e6f8-4332-af1d-59b11def4b6c",
         "4be2e298-a177-4fd5-a86e-b22ff17a6fee",
@@ -639,7 +641,7 @@
         "7f8c920f-b72f-4ee8-b2fb-51fd9bc6c587",
         "1ea6d5bb-49c4-4b62-b907-5ae53a4fca53"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0b0c2432-e6f8-4332-af1d-59b11def4b6c",
         "a56bbb66-dd52-4030-93d1-bf19d08492a6",
@@ -665,7 +667,7 @@
         "26f6453a-1f0d-4903-bdbd-af2daad5ff66",
         "3abc8cf9-ddd6-4886-b936-4dda7522279b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b7de9068-ae20-4f6a-a7da-0acb39a41ef8",
         "f6c9cf5a-5db5-4cfd-ab1a-d66cc1cbb472",
@@ -694,7 +696,7 @@
         "3189ca18-4e48-41b8-a9d2-6e8adcd145c1",
         "bd0cbd73-4bf9-4f91-b018-a4dba20274d9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0b0c2432-e6f8-4332-af1d-59b11def4b6c",
         "4be2e298-a177-4fd5-a86e-b22ff17a6fee",
@@ -723,7 +725,7 @@
         "bd0cbd73-4bf9-4f91-b018-a4dba20274d9",
         "4931d527-5397-42d1-96d8-6fcc1f3849b5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "27651021-35d7-4415-a845-bbf4c6a12c47",
         "b333548c-9862-41c2-84e2-be3a4d0f63a4",
@@ -780,7 +782,7 @@
         "1ea6d5bb-49c4-4b62-b907-5ae53a4fca53",
         "60a6105c-4152-4434-8ed1-8319898bb6d9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "075cfa31-144d-4187-98e8-4c19ea1afc3e",
         "b333548c-9862-41c2-84e2-be3a4d0f63a4"
@@ -788,6 +790,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
