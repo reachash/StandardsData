@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/32",
   "versionNumber": "1.1",
   "change": "Standard, end-point assessment plan and funding band revised but stayed the same.",
-  "changedDate": "2023-08-22T00:00:00Z",
-  "earliestStartDate": "2023-08-12T00:00:00Z",
+  "changedDate": "2023-08-22T00:00:00",
+  "earliestStartDate": "2023-08-12T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing information on pensions schemes for an organisation's employees or clients.",
@@ -177,7 +177,6 @@
       "detail": "Maintain robust and accurate schedules, records and systems of pension administrative activities."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -209,8 +208,11 @@
   "reviewDetails": "",
   "pathway": "Financial",
   "cluster": "Financial Services Administrator",
+  "clusterId": "240",
+  "clusterDescription": "Provide highly accurate support to operations and administration across wide areas of financial service areas including research and analysis compliant with relevant regulations. Deliver support to clients and to client account management (risk, collection, enforcement, recovery)",
   "createdDate": "2023-06-30T13:15:59 +00:00",
   "lastUpdated": "2023-08-22T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/pensions-administrator-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/pensions-administrator-v1-1",
   "qualifications": [],
@@ -240,7 +242,7 @@
         "5a47b06e-2aba-49db-b060-8022cb344854",
         "b494671c-bd2a-4a20-81b1-2efd16350596"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ccf7ce8a-569e-4c07-9b76-b48c0f394c1d",
         "26175f3f-2c07-4318-91e9-6792194148f3",
@@ -269,7 +271,7 @@
         "5a47b06e-2aba-49db-b060-8022cb344854",
         "b494671c-bd2a-4a20-81b1-2efd16350596"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ccf7ce8a-569e-4c07-9b76-b48c0f394c1d",
         "26175f3f-2c07-4318-91e9-6792194148f3",
@@ -299,7 +301,7 @@
         "3c544e9b-3ff4-40e1-ba33-ed039ad596be",
         "5a47b06e-2aba-49db-b060-8022cb344854"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ccf7ce8a-569e-4c07-9b76-b48c0f394c1d",
         "26175f3f-2c07-4318-91e9-6792194148f3",
@@ -330,7 +332,7 @@
         "3c544e9b-3ff4-40e1-ba33-ed039ad596be",
         "5a47b06e-2aba-49db-b060-8022cb344854"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ccf7ce8a-569e-4c07-9b76-b48c0f394c1d",
         "26175f3f-2c07-4318-91e9-6792194148f3",
@@ -356,7 +358,7 @@
         "a635a42a-1c9e-4ae8-a8f2-86f1d85b2047",
         "3c544e9b-3ff4-40e1-ba33-ed039ad596be"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ccf7ce8a-569e-4c07-9b76-b48c0f394c1d",
         "26175f3f-2c07-4318-91e9-6792194148f3",
@@ -387,7 +389,7 @@
         "a635a42a-1c9e-4ae8-a8f2-86f1d85b2047",
         "3c544e9b-3ff4-40e1-ba33-ed039ad596be"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ccf7ce8a-569e-4c07-9b76-b48c0f394c1d",
         "26175f3f-2c07-4318-91e9-6792194148f3",
@@ -415,7 +417,7 @@
         "644304fa-6ec4-4a0b-abf7-cdfbaca40844",
         "5a47b06e-2aba-49db-b060-8022cb344854"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "26175f3f-2c07-4318-91e9-6792194148f3",
         "6a6a7fa6-28a0-4b77-b3c2-d88bee85423f",
@@ -443,7 +445,7 @@
         "3af6a28f-75e5-46fc-9286-6c6995bca243",
         "56ca62d5-2eb9-4e2a-a577-85b399f07c74"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ccf7ce8a-569e-4c07-9b76-b48c0f394c1d",
         "26175f3f-2c07-4318-91e9-6792194148f3",
@@ -457,7 +459,7 @@
       "dutyID": "5e88a7a4-73af-4a44-a0cb-f9b6a895183b",
       "dutyDetail": "Use digital systems to deliver accurate and efficient pensions administration activities safely and securely. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "9722a6aa-3998-4e5c-ae80-ae64d77ca217",
         "7eaeee69-e9b1-4369-85f5-645286f13258",
@@ -469,7 +471,7 @@
         "af47bbd9-69b7-4639-bf50-6b03054b067f",
         "3c544e9b-3ff4-40e1-ba33-ed039ad596be"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "26175f3f-2c07-4318-91e9-6792194148f3",
         "6a6a7fa6-28a0-4b77-b3c2-d88bee85423f",
@@ -498,7 +500,7 @@
         "a635a42a-1c9e-4ae8-a8f2-86f1d85b2047",
         "af47bbd9-69b7-4639-bf50-6b03054b067f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ccf7ce8a-569e-4c07-9b76-b48c0f394c1d",
         "26175f3f-2c07-4318-91e9-6792194148f3",
@@ -522,7 +524,7 @@
       "mappedKnowledge": [
         "ba4c3c83-01eb-4740-baa1-9cef42af8403"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ccf7ce8a-569e-4c07-9b76-b48c0f394c1d",
         "26175f3f-2c07-4318-91e9-6792194148f3",
@@ -551,7 +553,7 @@
         "644304fa-6ec4-4a0b-abf7-cdfbaca40844",
         "5a47b06e-2aba-49db-b060-8022cb344854"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d750a6d9-66cc-4391-89cb-54da0ac9c6ec",
         "099b1c23-0894-4808-bcda-3bd6ae9e15f9",
@@ -583,7 +585,7 @@
         "3c544e9b-3ff4-40e1-ba33-ed039ad596be",
         "b494671c-bd2a-4a20-81b1-2efd16350596"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ccf7ce8a-569e-4c07-9b76-b48c0f394c1d",
         "26175f3f-2c07-4318-91e9-6792194148f3",
@@ -614,7 +616,7 @@
         "af47bbd9-69b7-4639-bf50-6b03054b067f",
         "5a47b06e-2aba-49db-b060-8022cb344854"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ccf7ce8a-569e-4c07-9b76-b48c0f394c1d",
         "26175f3f-2c07-4318-91e9-6792194148f3",
@@ -625,6 +627,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
