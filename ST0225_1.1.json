@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/181",
   "versionNumber": "1.1",
   "change": "Funding band, standard and end-point assessment plan revised",
-  "changedDate": "2022-09-21T00:00:00Z",
-  "earliestStartDate": "2022-09-21T00:00:00Z",
+  "changedDate": "2022-09-21T00:00:00",
+  "earliestStartDate": "2022-09-21T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Building and managing parks, greenspaces and other areas.",
@@ -334,16 +334,6 @@
       "detail": "(Landscape construction) Construct horizontal landscape features (excluding paving).  "
     }
   ],
-  "options": [
-    {
-      "optionId": "3892f709-6585-4955-8c04-324c4126d42a",
-      "title": "Landscape construction operative"
-    },
-    {
-      "optionId": "5f623699-3f7b-4d93-a406-608cef64c90a",
-      "title": "Horticulture operative"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Horticulture role",
     "Landscape construction role"
@@ -379,8 +369,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years.&lt;/p&gt;",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Landscape Horticulture Operative/Technician",
+  "clusterId": "161",
+  "clusterDescription": "The design, construction and maintenance of gardens, designed landscapes and sports turf facilities for private, commercial and community use",
   "createdDate": "2023-07-26T12:08:38 +00:00",
   "lastUpdated": "2022-09-21T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/horticulture-or-landscape-construction-operative-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/horticulture-or-landscape-construction-operative-v1-1",
   "qualifications": [
@@ -423,7 +416,7 @@
         "8d0874f4-0fd5-4c58-b846-1fcf85380ee1",
         "c05da438-5eec-4944-8359-5430fafad170"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fbf9560c-5f5b-46a4-baaa-023d8210275f",
         "ac29cdea-db36-49ad-a1cd-d2cb1d46a982",
@@ -435,7 +428,7 @@
       "dutyID": "4547985d-a845-47e5-abc9-10459b9fbb5a",
       "dutyDetail": "Carry out operations to minimise the adverse environmental impact (including pollution control) in line with legislation, industry guidance and organisational policies.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "248e179d-de5f-4ba9-b7f2-e7a3db4de125",
         "704d0324-7ab3-4d7d-bebf-bb15f7f7bed2",
@@ -447,7 +440,7 @@
         "7f43890e-9ddd-4908-9f99-4ad2901b8836",
         "f7b15e28-8a2c-43e3-a6f6-66fc8c1b1fe3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e32c96d1-88e1-4f27-8d05-4e772c8f6e2b",
         "ac29cdea-db36-49ad-a1cd-d2cb1d46a982",
@@ -472,7 +465,7 @@
         "8d0874f4-0fd5-4c58-b846-1fcf85380ee1",
         "c05da438-5eec-4944-8359-5430fafad170"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fbf9560c-5f5b-46a4-baaa-023d8210275f",
         "e32c96d1-88e1-4f27-8d05-4e772c8f6e2b",
@@ -485,7 +478,7 @@
       "dutyID": "071fdb47-9118-4695-a630-4e5e071a1f0d",
       "dutyDetail": "Process waste from horticultural activities.  ",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "ab1b3994-4af3-411a-b534-8d39455f50f0",
         "248e179d-de5f-4ba9-b7f2-e7a3db4de125",
@@ -496,7 +489,7 @@
         "7f43890e-9ddd-4908-9f99-4ad2901b8836",
         "f7b15e28-8a2c-43e3-a6f6-66fc8c1b1fe3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fbf9560c-5f5b-46a4-baaa-023d8210275f",
         "e32c96d1-88e1-4f27-8d05-4e772c8f6e2b",
@@ -510,11 +503,11 @@
       "dutyID": "f03024a3-ec58-4d05-a5cf-b52cd9e0a6b4",
       "dutyDetail": "Record keeping including digital records and written.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "8d0874f4-0fd5-4c58-b846-1fcf85380ee1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e35d6add-c905-449e-b4dd-ef1c821d881e"
       ],
@@ -530,7 +523,7 @@
       "mappedKnowledge": [
         "c05da438-5eec-4944-8359-5430fafad170"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8471f05c-eab6-4ba1-87cb-f2a70a7e484f"
       ],
@@ -540,7 +533,7 @@
       "dutyID": "9dcb72cb-429c-4fe9-b13f-67593e181002",
       "dutyDetail": "Comply with biosecurity and invasive species legislation, industry guidance and organisational policies.  ",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "248e179d-de5f-4ba9-b7f2-e7a3db4de125",
         "704d0324-7ab3-4d7d-bebf-bb15f7f7bed2",
@@ -552,7 +545,7 @@
         "7f43890e-9ddd-4908-9f99-4ad2901b8836",
         "f7b15e28-8a2c-43e3-a6f6-66fc8c1b1fe3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e32c96d1-88e1-4f27-8d05-4e772c8f6e2b",
         "ab6772c3-4759-40ea-9225-1eb85fddd0fd",
@@ -565,7 +558,7 @@
       "dutyID": "242bf271-b61d-4bd7-8f99-b1930709c7f8",
       "dutyDetail": "Maintain plant health including pests, pathogens and disorders.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "55edaf08-4aa5-42e3-a6dc-05bce325e490",
         "e71ed553-4fcb-49a5-b599-3434676fcfd2",
@@ -577,7 +570,7 @@
         "79c5c46e-2c91-404e-af0a-4adff3d741ac",
         "27e9b0d1-5810-4202-9c79-a3439b33687b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ab6772c3-4759-40ea-9225-1eb85fddd0fd",
         "d6905fd7-ca76-4dbb-905a-c0be9bb5315e",
@@ -593,7 +586,7 @@
       "dutyID": "6343854e-9d51-4550-b03b-86ed374c9f97",
       "dutyDetail": "Prepare site for planting, carry out planting and provide appropriate care to plants during and immediately after planting.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "55edaf08-4aa5-42e3-a6dc-05bce325e490",
         "e71ed553-4fcb-49a5-b599-3434676fcfd2",
@@ -606,7 +599,7 @@
         "d9575138-febd-4886-a0c1-497815fd896b",
         "310c4de3-03c8-4818-8a06-0828dc00a9ab"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d6905fd7-ca76-4dbb-905a-c0be9bb5315e",
         "5646c909-a333-48d2-a741-73a7aea51ca1",
@@ -620,7 +613,7 @@
       "dutyID": "43948578-75d9-4d75-9811-be5c77482066",
       "dutyDetail": "Control vegetation including site clearance, weed management, pruning and basic turf management.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "ab1b3994-4af3-411a-b534-8d39455f50f0",
         "248e179d-de5f-4ba9-b7f2-e7a3db4de125",
@@ -634,7 +627,7 @@
         "27e9b0d1-5810-4202-9c79-a3439b33687b",
         "4bab3e2e-aae9-4246-b7fd-3fc7825e9355"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fbf9560c-5f5b-46a4-baaa-023d8210275f",
         "e32c96d1-88e1-4f27-8d05-4e772c8f6e2b",
@@ -650,7 +643,7 @@
       "dutyID": "00078f92-98a2-48d1-9375-199a97e694ae",
       "dutyDetail": "Install soft landscape materials for example shrubs, trees, turf and seeds. ",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "ab1b3994-4af3-411a-b534-8d39455f50f0",
         "248e179d-de5f-4ba9-b7f2-e7a3db4de125",
@@ -668,7 +661,7 @@
         "310c4de3-03c8-4818-8a06-0828dc00a9ab",
         "39b2ce98-2b33-4c83-aa4c-8225993ca6e1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fbf9560c-5f5b-46a4-baaa-023d8210275f",
         "e32c96d1-88e1-4f27-8d05-4e772c8f6e2b",
@@ -687,11 +680,11 @@
       "dutyID": "6a52b632-d307-4a4d-a0c9-c5652b36ef8a",
       "dutyDetail": "Maintain hard surfaces, features or structures.  ",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "1b027e1d-b367-46c7-a335-b7a63157f2f3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d7e21a34-c852-45d6-a50c-2a3425f0608b"
       ],
@@ -717,15 +710,15 @@
         "269ee2a1-4c81-4dbe-b882-5da4949eb05a",
         "cb691e12-263b-460b-9faf-79fb2745cd6c"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "d80c7432-fec5-4585-a4d6-0550321a97b3",
       "dutyDetail": "Produce plants through propagation. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "e0f1546b-9f7f-4c29-b51d-47e49aeb6759"
       ],
@@ -741,7 +734,7 @@
       "dutyID": "77e08259-665b-4650-8185-5bbb6feba84a",
       "dutyDetail": "Manage ornamental turf.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "4d7d3aa7-c086-4cb9-ae03-857e5ad720b2",
         "c0deba59-abb3-4204-a129-889a7d8ec1a6",
@@ -760,7 +753,7 @@
       "dutyID": "9a02c619-a0c8-45a8-924c-77bfa8b5d368",
       "dutyDetail": "Establish and maintain soft landscape elements (for example, herbaceous perennials and annual displays).",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "6b743c84-95b6-4cfa-865e-3ae383d52f8b",
         "77e82b57-af2e-4e22-9c24-33347b0c1eac",
@@ -781,7 +774,7 @@
       "dutyID": "738bda89-9079-48a8-8ead-082cd78ad004",
       "dutyDetail": "Prepare site for landscape construction activities including measuring and setting out site.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "e23dda41-afe3-4538-b86e-cca4f82545b7"
       ],
@@ -797,7 +790,7 @@
       "dutyID": "c3cf8592-3a50-42ae-8449-8810baba4ede",
       "dutyDetail": "Construct hard landscape surfaces, structures and features for example paths, patios, decking.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0e19e8c2-19a8-4182-bc55-c6d7e6bb02b1",
         "6dea61b3-244d-4037-b994-81b1f6fc7f3a",
@@ -822,7 +815,7 @@
       "dutyID": "a3313526-8210-4024-b81e-d64312c23fde",
       "dutyDetail": "Assess and repair hard structures or take appropriate other action.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "3fe97749-38cb-4da5-9e4c-9bfb20226f0e"
       ],
@@ -833,6 +826,18 @@
         "b3c6f7b6-c807-4d25-8c26-0dbed0529cbf"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "3892f709-6585-4955-8c04-324c4126d42a",
+      "title": "Landscape construction operative",
+      "occupationCode": null
+    },
+    {
+      "optionId": "5f623699-3f7b-4d93-a406-608cef64c90a",
+      "title": "Horticulture operative",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
