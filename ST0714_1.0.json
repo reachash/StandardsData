@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/464",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-01-17T00:00:00Z",
-  "earliestStartDate": "2019-06-14T00:00:00Z",
+  "changedDate": "2023-01-17T00:00:00",
+  "earliestStartDate": "2019-06-14T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Promoting a safe and healthy environment for the public and businesses, through education and enforcement.",
@@ -274,7 +274,6 @@
       "detail": "Plan, organise and prioritise workload to meet deadlines"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -310,8 +309,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Health",
   "cluster": "Health Professional",
+  "clusterId": "6",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2019-12-23T09:27:44 +00:00",
   "lastUpdated": "2023-01-17T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/environmental-health-practitioner-integrated-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/environmental-health-practitioner-integrated-degree-v1-0",
   "qualifications": [
@@ -349,7 +351,7 @@
         "9befde68-c346-4512-8600-c7bbb98e9966",
         "ab68bce3-d9ed-4c82-821a-36e4b2e11fba"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4a5da16d-2fde-4dce-a82a-d5545237cdf8",
         "4ebe3eba-6b0d-4ada-b9b6-80b9c492904b",
@@ -376,7 +378,7 @@
         "9befde68-c346-4512-8600-c7bbb98e9966",
         "ab68bce3-d9ed-4c82-821a-36e4b2e11fba"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ccfc8c99-2787-47a3-a289-4114f90de2b0",
         "520f6916-51ed-41ee-a866-f353670f5cee",
@@ -402,7 +404,7 @@
         "9befde68-c346-4512-8600-c7bbb98e9966",
         "356d47bb-b258-4b6b-9336-76a941db9300"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "520f6916-51ed-41ee-a866-f353670f5cee",
         "4ebe3eba-6b0d-4ada-b9b6-80b9c492904b",
@@ -430,7 +432,7 @@
         "f2a51e32-b5a3-457a-9130-45fb36d2e7d7",
         "f95c9769-0995-49c5-88b8-133db4d72109"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "51889405-3ad1-43b6-bc00-70d50ec78e32",
         "ec5ccfa9-b5d3-45c4-8905-2657672330cc",
@@ -459,7 +461,7 @@
         "1c72cbf3-c7a8-4b2d-9bf8-3ff778bceee4",
         "5a271f72-e670-42cb-a666-5a176ee6eba1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "520f6916-51ed-41ee-a866-f353670f5cee",
         "ec5ccfa9-b5d3-45c4-8905-2657672330cc",
@@ -487,7 +489,7 @@
         "d4f4b565-f1d8-4c0d-b340-600a74bb2605",
         "aa112698-9dc7-46a4-a1d6-711c7801ea62"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "51889405-3ad1-43b6-bc00-70d50ec78e32",
         "4720f28c-0384-46ef-b475-34baaa7c6106",
@@ -513,7 +515,7 @@
         "6665a343-e917-4b88-8ab9-282a7be57382",
         "aa112698-9dc7-46a4-a1d6-711c7801ea62"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bb870d8d-a013-4f00-a4fd-3294d15ce11b",
         "d3683171-02e1-47e7-807b-51495f2b100b",
@@ -540,7 +542,7 @@
         "3c2748fc-1095-445e-a008-2fff638c71a9",
         "f2a51e32-b5a3-457a-9130-45fb36d2e7d7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "51889405-3ad1-43b6-bc00-70d50ec78e32",
         "520f6916-51ed-41ee-a866-f353670f5cee",
@@ -570,7 +572,7 @@
         "356d47bb-b258-4b6b-9336-76a941db9300",
         "2c57fe4a-f499-4506-9ed8-aa5b8ef2bc6f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "51889405-3ad1-43b6-bc00-70d50ec78e32",
         "b7567417-e46c-4125-aee8-2190de2db272",
@@ -596,7 +598,7 @@
         "f95c9769-0995-49c5-88b8-133db4d72109",
         "2c57fe4a-f499-4506-9ed8-aa5b8ef2bc6f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4720f28c-0384-46ef-b475-34baaa7c6106",
         "d3683171-02e1-47e7-807b-51495f2b100b"
@@ -618,7 +620,7 @@
         "980e979b-3952-4d58-92c8-f1224206e515",
         "ec13d5ba-cc20-46b9-bd73-6f3c7323bb07"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e2526a98-75ab-483c-aaea-e072c7ca36d4",
         "ecd66ee4-3308-4779-b0fd-60d83ab7fa80",
@@ -643,7 +645,7 @@
         "aaabf6b4-a851-4f1b-970f-fe1b0a0e1f49",
         "3f2a4811-ea34-4e1e-afce-f8cfa3ec509c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4a5da16d-2fde-4dce-a82a-d5545237cdf8",
         "e2526a98-75ab-483c-aaea-e072c7ca36d4",
@@ -677,7 +679,7 @@
         "934c9abf-cfdd-4603-8468-4fb55e829e35",
         "d4f4b565-f1d8-4c0d-b340-600a74bb2605"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a74a301b-f679-4df1-906c-b66275cd97e8",
         "4f9565a4-6ca7-494b-b9a1-92a4c4cc61bf",
@@ -702,7 +704,7 @@
         "aaabf6b4-a851-4f1b-970f-fe1b0a0e1f49",
         "aa112698-9dc7-46a4-a1d6-711c7801ea62"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fb664661-c349-4e00-9ca6-e1b4c670bab5",
         "877fb49c-cb46-41ef-b264-9e078357a865"
@@ -710,6 +712,7 @@
       "criteriaForMeasuringPerformance": "Compliance with legislation; In line with policies, procedures and codes of practice; Accuracy"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
