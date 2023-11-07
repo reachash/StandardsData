@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/421",
   "versionNumber": "1.2",
   "change": "Standard, end-point assessment plan and funding band revised.",
-  "changedDate": "2023-09-13T00:00:00Z",
-  "earliestStartDate": "2023-09-01T00:00:00Z",
+  "changedDate": "2023-09-13T00:00:00",
+  "earliestStartDate": "2023-09-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Assess hearing and provide aftercare for hearing aids.",
@@ -559,7 +559,6 @@
       "detail": "Engage in occupational health, including being aware of immunisation requirements."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -592,8 +591,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Health",
   "cluster": "Health Practitioner",
+  "clusterId": "10",
+  "clusterDescription": "Provide direct patient contact and high quality care with in-depth knowledge of the factors influencing health and ill-health using specialist expertise",
   "createdDate": "2023-08-16T10:32:20 +00:00",
   "lastUpdated": "2023-09-13T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/hearing-aid-dispenser-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/hearing-aid-dispenser-v1-2",
   "qualifications": [
@@ -637,7 +639,7 @@
         "bb587462-6c80-40ab-a5cc-4bb0f144f627",
         "b5814681-abd7-49db-97d5-3bbe796217d4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "57aadf3a-9c1e-42cf-98a4-d234006eaf1b",
         "f5dda7b5-96b9-48a9-87cb-c5cb590324a8",
@@ -656,12 +658,12 @@
       "dutyID": "3cf9727c-ca57-4544-b8ba-265d97cd7084",
       "dutyDetail": "Look after own health and wellbeing, seeking appropriate support where necessary.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "15ab5401-93ae-4157-b831-37bb0e5f622b",
         "e7e49fb5-379b-4980-8374-f4cf6ed392d6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7c61dd37-6dc0-4737-852e-f606ef3edc56",
         "fdd17549-649c-4d4b-a576-af16f00cb68e"
@@ -672,11 +674,11 @@
       "dutyID": "9c9078b1-270a-4c7e-873b-b45144c8961d",
       "dutyDetail": "Practise as an autonomous professional, exercising professional judgement.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "c0a90644-65d9-452e-8632-888cafd9a0d3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "095cc974-a6eb-4c42-bfb7-91854777146d",
         "94b94b54-be7a-4c5c-bddc-e6679780a96f",
@@ -703,7 +705,7 @@
         "ca6d0acd-6e90-4e15-b7b6-eaec22d353dc",
         "c3a75d18-9cb0-4f2b-8dc8-b37cb076ca1f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3308ae87-76bd-4bd1-bc82-5a400d70e7c0",
         "c2847450-5eec-40a9-a874-e0d9a4dcff4e",
@@ -731,7 +733,7 @@
         "564c570a-353e-40fd-9868-2bb073ba54be",
         "fe8c7d3f-ef1f-4d38-a8ae-01817727ebb5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6a9144eb-cfa3-4106-a62e-1929c8328542",
         "a97b1354-a2bb-4bab-abbf-dc78042810ff",
@@ -752,7 +754,7 @@
       "dutyID": "03e1129e-2279-4819-960d-40ffbcff7e90",
       "dutyDetail": "Work with others.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "c3a42059-aff5-4d10-987d-109a254baeec",
         "2925f1f4-3d24-47be-968c-11b68456ce97",
@@ -760,7 +762,7 @@
         "6410d9bc-54e5-45fe-ad8b-c5e13174f475",
         "a2d5a830-a24d-4223-9c0d-a7bff9c30fdf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1b73eff7-d847-437e-ba40-70bcb367f6b9",
         "28520705-99d2-43fa-890c-f1447897133c",
@@ -778,13 +780,13 @@
       "dutyID": "c533d2c5-eb97-4d7d-a2bc-5d9959f3a008",
       "dutyDetail": "Reflect on, review and assure the quality of own practice.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "adc574c7-3842-403c-8ff1-40ae1d78e033",
         "01ed479d-7c6a-4a66-80bd-5e82d63615f1",
         "41e3856e-c35b-4e5c-acbc-88023f1027f5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "55fdd146-be7f-4966-9c34-2e63b791eee9",
         "f0ab974c-0ead-42d6-b658-03d38f7218bf",
@@ -799,7 +801,7 @@
       "dutyID": "0f20d895-9357-49ac-98d1-5ffec2e2ab1a",
       "dutyDetail": "Draw on appropriate knowledge and skills to inform practice and apply the key concepts of the knowledge base relevant to the profession.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "5a41bd13-f383-4d92-b65f-979b95a24e4c",
         "ed969577-de1e-4f1b-af58-2532b990ec4d",
@@ -811,7 +813,7 @@
         "14aab594-d5fc-42fd-a368-3387c2e64c3e",
         "8e6ffef1-a8e2-4952-aa9e-a092684b2a16"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d6b8b756-c93b-4e41-be60-5608b81e0cb0",
         "8a02340c-28f0-4f7c-b4a5-ece7154ccaa5",
@@ -840,12 +842,12 @@
       "dutyID": "10d9391b-1a6b-481c-860e-031ce4e34b79",
       "dutyDetail": "Establish and maintain a safe practice environment.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "d7014894-0234-4f7f-b146-09c8ee680120",
         "de4b388d-ad86-4d4f-9a96-0a80386be78a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "61db2cec-1b6d-4a4d-b95d-c44b557189f4",
         "95453af6-bd33-4f9b-b0c8-a5a7d2023927",
@@ -859,12 +861,12 @@
       "dutyID": "3e13798d-a981-4e41-ad34-dac2abbe718d",
       "dutyDetail": "Promote and prevent ill health.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "01f59c01-b7ac-4bc0-bd1d-fcb5350811cb",
         "ba0802b8-3477-49d1-a1d9-74418335f2f5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bbef0f3f-6432-4db2-8f02-99b2cbd96ac9",
         "3a211287-0263-42ed-986b-37dcbee46c17"
@@ -872,6 +874,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training Provider",
