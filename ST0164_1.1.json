@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/92",
   "versionNumber": "1.1",
   "change": "The funding band for this standard has been reviewed as part of the apprenticeship funding band review. The new funding band is £24000.",
-  "changedDate": "2023-01-03T00:00:00Z",
-  "earliestStartDate": "2019-05-07T00:00:00Z",
+  "changedDate": "2023-01-03T00:00:00",
+  "earliestStartDate": "2019-05-07T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Producing engineering designs and drawings for components, structures and systems used in industrial and commercial construction.",
@@ -247,28 +247,6 @@
       "detail": "Communicate and co-ordinate engineering design options with relevant stakeholders, colleagues and clients using sketches, schemes, models, detailed drawings and reports"
     }
   ],
-  "options": [
-    {
-      "optionId": "c7ff7470-0e59-48d5-9cda-d9341a3459b3",
-      "title": "Electrical"
-    },
-    {
-      "optionId": "87fefffb-7f7a-4b13-9967-baf7d65937cf",
-      "title": "Control & Instrumentation"
-    },
-    {
-      "optionId": "251528aa-0951-4905-b83e-a16a03d24f60",
-      "title": "Mechanical"
-    },
-    {
-      "optionId": "20a79023-bf44-4608-aa49-0b2762693c36",
-      "title": "Piping"
-    },
-    {
-      "optionId": "3e7591ba-0106-486d-b029-7a3fe2e9930a",
-      "title": "Structural"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Electrical",
     "Control & Instrumentation",
@@ -308,13 +286,43 @@
   "reviewDetails": "",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Technician",
+  "clusterId": "255",
+  "clusterDescription": "Design and develop parts of product and/or process technologies",
   "createdDate": "2017-09-22T14:24:51 +00:00",
   "lastUpdated": "2023-01-03T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/engineering-design-and-draughtsperson-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/engineering-design-and-draughtsperson-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "c7ff7470-0e59-48d5-9cda-d9341a3459b3",
+      "title": "Electrical",
+      "occupationCode": null
+    },
+    {
+      "optionId": "87fefffb-7f7a-4b13-9967-baf7d65937cf",
+      "title": "Control & Instrumentation",
+      "occupationCode": null
+    },
+    {
+      "optionId": "251528aa-0951-4905-b83e-a16a03d24f60",
+      "title": "Mechanical",
+      "occupationCode": null
+    },
+    {
+      "optionId": "20a79023-bf44-4608-aa49-0b2762693c36",
+      "title": "Piping",
+      "occupationCode": null
+    },
+    {
+      "optionId": "3e7591ba-0106-486d-b029-7a3fe2e9930a",
+      "title": "Structural",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
