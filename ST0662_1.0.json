@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/474",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-01-18T00:00:00Z",
-  "earliestStartDate": "2019-07-03T00:00:00Z",
+  "changedDate": "2022-01-18T00:00:00",
+  "earliestStartDate": "2019-07-03T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Installing and maintaining hardware and software for automation systems.",
@@ -168,7 +168,6 @@
       "detail": "PLC/Robot configuration and programming - Implement complex PLC/Robot program content and configurations to affect changes to increase availability and or efficiency of automation controlled machinery and the ability to configure PLC and or Robot hardware and program a wide variety of PLC’s and or Robot’s"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -198,8 +197,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Installation, Service, Repair and/or Overhaul Advanced Technician",
+  "clusterId": "97",
+  "clusterDescription": "Install, maintain and service plant and equipment using application and/or context specific expertise",
   "createdDate": "2020-02-10T10:53:18 +00:00",
   "lastUpdated": "2022-01-18T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/automation-and-controls-engineering-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/automation-and-controls-engineering-technician-v1-0",
   "qualifications": [
@@ -256,7 +258,7 @@
         "530b96e2-59fb-4c49-8c33-8413773d6a93",
         "7e6f6792-871f-4343-8c81-984106c97b72"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7a674f86-7037-4b58-85f0-6c54ac429ddc",
         "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
@@ -298,7 +300,7 @@
         "530b96e2-59fb-4c49-8c33-8413773d6a93",
         "7e6f6792-871f-4343-8c81-984106c97b72"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7a674f86-7037-4b58-85f0-6c54ac429ddc",
         "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
@@ -339,7 +341,7 @@
         "530b96e2-59fb-4c49-8c33-8413773d6a93",
         "7e6f6792-871f-4343-8c81-984106c97b72"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7a674f86-7037-4b58-85f0-6c54ac429ddc",
         "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
@@ -381,7 +383,7 @@
         "530b96e2-59fb-4c49-8c33-8413773d6a93",
         "7e6f6792-871f-4343-8c81-984106c97b72"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7a674f86-7037-4b58-85f0-6c54ac429ddc",
         "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
@@ -424,7 +426,7 @@
         "530b96e2-59fb-4c49-8c33-8413773d6a93",
         "7e6f6792-871f-4343-8c81-984106c97b72"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7a674f86-7037-4b58-85f0-6c54ac429ddc",
         "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
@@ -467,7 +469,7 @@
         "530b96e2-59fb-4c49-8c33-8413773d6a93",
         "7e6f6792-871f-4343-8c81-984106c97b72"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7a674f86-7037-4b58-85f0-6c54ac429ddc",
         "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
@@ -510,7 +512,7 @@
         "530b96e2-59fb-4c49-8c33-8413773d6a93",
         "7e6f6792-871f-4343-8c81-984106c97b72"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7a674f86-7037-4b58-85f0-6c54ac429ddc",
         "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
@@ -553,7 +555,7 @@
         "530b96e2-59fb-4c49-8c33-8413773d6a93",
         "7e6f6792-871f-4343-8c81-984106c97b72"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7a674f86-7037-4b58-85f0-6c54ac429ddc",
         "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
@@ -596,7 +598,7 @@
         "530b96e2-59fb-4c49-8c33-8413773d6a93",
         "7e6f6792-871f-4343-8c81-984106c97b72"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7a674f86-7037-4b58-85f0-6c54ac429ddc",
         "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
@@ -640,7 +642,7 @@
         "530b96e2-59fb-4c49-8c33-8413773d6a93",
         "7e6f6792-871f-4343-8c81-984106c97b72"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7a674f86-7037-4b58-85f0-6c54ac429ddc",
         "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
@@ -682,7 +684,7 @@
         "530b96e2-59fb-4c49-8c33-8413773d6a93",
         "7e6f6792-871f-4343-8c81-984106c97b72"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7a674f86-7037-4b58-85f0-6c54ac429ddc",
         "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
@@ -717,7 +719,7 @@
         "530b96e2-59fb-4c49-8c33-8413773d6a93",
         "7e6f6792-871f-4343-8c81-984106c97b72"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
         "8ddbff41-c3b8-4c16-a987-0e207439dbd5"
@@ -749,7 +751,7 @@
         "530b96e2-59fb-4c49-8c33-8413773d6a93",
         "7e6f6792-871f-4343-8c81-984106c97b72"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7a674f86-7037-4b58-85f0-6c54ac429ddc",
         "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
@@ -787,7 +789,7 @@
         "530b96e2-59fb-4c49-8c33-8413773d6a93",
         "7e6f6792-871f-4343-8c81-984106c97b72"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7a674f86-7037-4b58-85f0-6c54ac429ddc",
         "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
@@ -800,6 +802,7 @@
       "criteriaForMeasuringPerformance": "The duty will usually be carried out prior to undertaking work activities that may be proactive (e.g. commissioning) or reactive in nature (e.g.fault finding). \n\nCriteria for measurement: -\n\nAppropriate hazard identification .\n\nAppropriate risks identified and reduced.\n\nProbability of occurrence identified and if necessary, reduced.\n\nA risk assessment document is produced"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
