@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/34",
   "versionNumber": "1.1",
   "change": "End-point assessment plan, standard and funding band revised.",
-  "changedDate": "2023-02-20T00:00:00Z",
-  "earliestStartDate": "2022-02-25T00:00:00Z",
+  "changedDate": "2023-02-20T00:00:00",
+  "earliestStartDate": "2022-02-25T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Working as part of the navigation department on ships and other vessels, keeping watch and maintaining safety and security, and carrying out a range of practical tasks.",
@@ -234,7 +234,6 @@
       "detail": "Minimise risks to marine pollution within limits of own operational responsibilities."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -269,8 +268,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This standard will be reviewed in 3 years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Transport",
   "cluster": "Driver/Crewmember",
+  "clusterId": "82",
+  "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
   "createdDate": "2022-02-25T13:14:45 +00:00",
   "lastUpdated": "2023-02-20T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/seafarer-deck-rating-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/seafarer-deck-rating-v1-1",
   "qualifications": [
@@ -375,7 +377,7 @@
         "29ab040d-c209-4588-ac23-4b8a7b158617",
         "a1ea772f-33f5-4016-b891-99a8554469db"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ec770906-706f-4cc2-bc1d-41d6ba3699e6",
         "2e789883-ee82-4269-9ba3-8dcb88476062",
@@ -412,7 +414,7 @@
         "29ab040d-c209-4588-ac23-4b8a7b158617",
         "a1ea772f-33f5-4016-b891-99a8554469db"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7c496426-d576-4e3e-ab83-e71b03273cb1",
         "5dc17d64-9615-4212-bf4e-3a1ff57ee311",
@@ -447,7 +449,7 @@
         "7c3aa999-6090-424d-987f-527a26d6a6b0",
         "a1ea772f-33f5-4016-b891-99a8554469db"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "245ff3ec-8f01-4610-b2b6-4160b3ae4751",
         "5dfd1359-b030-4c84-a292-bb7397289925",
@@ -481,7 +483,7 @@
         "29ab040d-c209-4588-ac23-4b8a7b158617",
         "7c3aa999-6090-424d-987f-527a26d6a6b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a21b8fa3-10c7-4172-a58c-6be11cf44752",
         "7c496426-d576-4e3e-ab83-e71b03273cb1",
@@ -518,7 +520,7 @@
         "a1ea772f-33f5-4016-b891-99a8554469db",
         "669cc4a4-2e85-4b7b-86ad-e2bbfe33cf17"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a21b8fa3-10c7-4172-a58c-6be11cf44752",
         "ec770906-706f-4cc2-bc1d-41d6ba3699e6",
@@ -561,7 +563,7 @@
         "669cc4a4-2e85-4b7b-86ad-e2bbfe33cf17",
         "1cb8014f-aab0-416f-9068-d227cf046247"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a21b8fa3-10c7-4172-a58c-6be11cf44752",
         "245ff3ec-8f01-4610-b2b6-4160b3ae4751",
@@ -595,7 +597,7 @@
         "29ab040d-c209-4588-ac23-4b8a7b158617",
         "a1ea772f-33f5-4016-b891-99a8554469db"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ec770906-706f-4cc2-bc1d-41d6ba3699e6",
         "2e789883-ee82-4269-9ba3-8dcb88476062",
@@ -628,7 +630,7 @@
         "e22c8b72-8f30-49e2-a9fb-4ce6c2554354",
         "1cb8014f-aab0-416f-9068-d227cf046247"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a21b8fa3-10c7-4172-a58c-6be11cf44752",
         "ec770906-706f-4cc2-bc1d-41d6ba3699e6",
@@ -643,6 +645,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
