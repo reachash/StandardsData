@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/101",
   "versionNumber": "1.2",
   "change": "Standard, end-point assessment plan and funding band revised.",
-  "changedDate": "2023-06-05T00:00:00Z",
-  "earliestStartDate": "2023-05-29T00:00:00Z",
+  "changedDate": "2023-06-05T00:00:00",
+  "earliestStartDate": "2023-05-29T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Helping customers buy products or services from retail organisations such as department stores, garden centres, high street chains, supermarkets and online and mail order businesses.",
@@ -191,7 +191,6 @@
       "detail": "Support sales across a range of promotional events throughout the calendar year."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -227,8 +226,11 @@
   "reviewDetails": "",
   "pathway": "Retail",
   "cluster": "Specialist Retail Assistant",
+  "clusterId": "93",
+  "clusterDescription": "Meet customer needs through making a product or service sale and dealing with domestic and commercial customers. Create displays, layouts and operations in the sales environment. Also covers craft trades in retail",
   "createdDate": "2023-03-28T10:35:02 +00:00",
   "lastUpdated": "2023-06-05T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/retailer-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/retailer-v1-2",
   "qualifications": [],
@@ -255,7 +257,7 @@
         "5bd6e483-8313-479c-8ba7-35b9179dc717",
         "fafde28f-c070-4641-ae5a-a11556f9d6ef"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c40840f0-370f-4e4b-8ffa-7c7737036fff",
         "12af6d12-0b9a-4cac-ad27-5c6575ad733a",
@@ -293,7 +295,7 @@
         "815ce49a-0e02-4a3f-882a-b227396e1a5e",
         "d9dd6fa8-5464-4127-a5df-ab5505c32308"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cbe6a77d-76ae-46df-871f-00e84f6ac34f",
         "4d3a7b85-874b-4c38-819d-83f4da054b48",
@@ -333,7 +335,7 @@
         "815ce49a-0e02-4a3f-882a-b227396e1a5e",
         "d9dd6fa8-5464-4127-a5df-ab5505c32308"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cbe6a77d-76ae-46df-871f-00e84f6ac34f",
         "4d3a7b85-874b-4c38-819d-83f4da054b48",
@@ -372,7 +374,7 @@
         "815ce49a-0e02-4a3f-882a-b227396e1a5e",
         "d9dd6fa8-5464-4127-a5df-ab5505c32308"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cbe6a77d-76ae-46df-871f-00e84f6ac34f",
         "4d3a7b85-874b-4c38-819d-83f4da054b48",
@@ -403,7 +405,7 @@
         "183b4418-1106-4494-abf8-81e5c36ec41a",
         "fafde28f-c070-4641-ae5a-a11556f9d6ef"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "12af6d12-0b9a-4cac-ad27-5c6575ad733a",
         "4c63876c-1ea0-4356-9c95-cc1680c5c19b",
@@ -435,7 +437,7 @@
         "5bd6e483-8313-479c-8ba7-35b9179dc717",
         "183b4418-1106-4494-abf8-81e5c36ec41a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "12af6d12-0b9a-4cac-ad27-5c6575ad733a",
         "d6434459-4fe8-4395-a7c5-83e572a03eb7",
@@ -471,7 +473,7 @@
         "183b4418-1106-4494-abf8-81e5c36ec41a",
         "815ce49a-0e02-4a3f-882a-b227396e1a5e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cbe6a77d-76ae-46df-871f-00e84f6ac34f",
         "4d3a7b85-874b-4c38-819d-83f4da054b48",
@@ -506,7 +508,7 @@
         "ca8b22c1-abf3-4398-988d-afdc2a1674f3",
         "5bd6e483-8313-479c-8ba7-35b9179dc717"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cbe6a77d-76ae-46df-871f-00e84f6ac34f",
         "4d3a7b85-874b-4c38-819d-83f4da054b48",
@@ -539,7 +541,7 @@
         "815ce49a-0e02-4a3f-882a-b227396e1a5e",
         "c4242d1d-0039-49f4-a1de-66651b9f48b9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d8a43b5c-5a3d-4cc5-bebf-0e5daaa27ab6",
         "dd5c60d5-b654-4525-b38f-ce1c74bb62e1",
@@ -564,7 +566,7 @@
         "ca8b22c1-abf3-4398-988d-afdc2a1674f3",
         "183b4418-1106-4494-abf8-81e5c36ec41a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "12af6d12-0b9a-4cac-ad27-5c6575ad733a",
         "d6434459-4fe8-4395-a7c5-83e572a03eb7",
@@ -588,7 +590,7 @@
         "9c1e8a3e-52f6-446c-884f-52f4711c431b",
         "183b4418-1106-4494-abf8-81e5c36ec41a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "12af6d12-0b9a-4cac-ad27-5c6575ad733a",
         "4c63876c-1ea0-4356-9c95-cc1680c5c19b",
@@ -599,6 +601,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
