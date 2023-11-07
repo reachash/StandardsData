@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/531",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2019-12-20T00:00:00Z",
-  "earliestStartDate": "2019-12-20T00:00:00Z",
+  "changedDate": "2019-12-20T00:00:00",
+  "earliestStartDate": "2019-12-20T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Design, implement and lead programmes of economic analysis to support decision-making.",
@@ -159,7 +159,6 @@
       "detail": "Design Quality Assurance processes and implement these, following organisational best practices, and drawing on sources of external expertise; critically assess economic analysis and improve it. (11)"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -214,8 +213,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Financial",
   "cluster": "Financial Services Professional",
+  "clusterId": "243",
+  "clusterDescription": "Provide high quality advice and support to internal and external clients across a full range of financial instruments and services using specialist knowledge of instruments and services supported and areas of the business worked in",
   "createdDate": "2019-05-23T09:31:59 +00:00",
   "lastUpdated": "2019-12-20T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/senior-professional-economist-integrated-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/senior-professional-economist-integrated-degree-v1-0",
   "qualifications": [
@@ -245,7 +247,7 @@
         "258204d4-b695-420d-a358-1ffc42a3f8a1",
         "0df2ad2e-212f-42e4-b8f6-dc84d4a18353"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3a4fdb81-b751-49f3-9df2-4ff8dba51688",
         "a0ca887e-4f10-4337-b43c-d908105df21f",
@@ -270,7 +272,7 @@
         "258204d4-b695-420d-a358-1ffc42a3f8a1",
         "0df2ad2e-212f-42e4-b8f6-dc84d4a18353"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3a4fdb81-b751-49f3-9df2-4ff8dba51688",
         "ed32052f-981b-449e-a04a-7777e1280a81",
@@ -292,7 +294,7 @@
         "258204d4-b695-420d-a358-1ffc42a3f8a1",
         "0df2ad2e-212f-42e4-b8f6-dc84d4a18353"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a0ca887e-4f10-4337-b43c-d908105df21f",
         "77b3fb15-8923-4db7-86c6-e0c3aca02aa7"
@@ -310,7 +312,7 @@
       "mappedKnowledge": [
         "11e67079-9428-4f84-83af-d1ab0f34bf87"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a0ca887e-4f10-4337-b43c-d908105df21f"
       ],
@@ -329,7 +331,7 @@
         "258204d4-b695-420d-a358-1ffc42a3f8a1",
         "0df2ad2e-212f-42e4-b8f6-dc84d4a18353"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a0ca887e-4f10-4337-b43c-d908105df21f"
       ],
@@ -346,7 +348,7 @@
       "mappedKnowledge": [
         "0e92c2a8-fa49-4881-85f2-4f6831b4ca9a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "859e111b-0d13-459e-9433-c66e65a2c8e9"
       ],
@@ -363,7 +365,7 @@
       "mappedKnowledge": [
         "f1fdf596-789a-4aa5-9a1b-9106085e627c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "eae7a0fb-18a8-4b45-a64f-a49dc658b012",
         "77b3fb15-8923-4db7-86c6-e0c3aca02aa7"
@@ -380,7 +382,7 @@
       "mappedKnowledge": [
         "0df2ad2e-212f-42e4-b8f6-dc84d4a18353"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "77b3fb15-8923-4db7-86c6-e0c3aca02aa7"
       ],
@@ -400,7 +402,7 @@
         "93b74e07-0fd7-4b78-b03a-6a81619cdf61",
         "4e10703f-d6c9-4fc1-ae20-46c75bb7fa78"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b597fe32-cff4-49b8-ade2-821e2284d58c"
       ],
@@ -416,7 +418,7 @@
       "mappedKnowledge": [
         "0e92c2a8-fa49-4881-85f2-4f6831b4ca9a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "859e111b-0d13-459e-9433-c66e65a2c8e9"
       ],
@@ -433,13 +435,14 @@
         "258204d4-b695-420d-a358-1ffc42a3f8a1",
         "0e92c2a8-fa49-4881-85f2-4f6831b4ca9a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3c6f80b3-9bbd-47c1-9daf-d169fa026e48"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
