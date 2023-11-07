@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/412",
   "versionNumber": "1.1",
   "change": "Funding band revised",
-  "changedDate": "2023-03-07T00:00:00Z",
-  "earliestStartDate": "2022-02-21T00:00:00Z",
+  "changedDate": "2023-03-07T00:00:00",
+  "earliestStartDate": "2022-02-21T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Helping manage funeral arrangements.",
@@ -234,16 +234,6 @@
       "detail": "Funeral: Attend funeral briefings and use information to assist in the delivery of the funeral. Handle coffins and floral tributes safely and respectfully at all times. Carry out allocated duties with dignity and respect to ensure the smooth running of the funeral."
     }
   ],
-  "options": [
-    {
-      "optionId": "99d54438-d648-4b1d-a905-9da6258471a8",
-      "title": "Funeral Arrangers"
-    },
-    {
-      "optionId": "5df612f9-3f65-4da4-8fd5-55a5e5b9f4aa",
-      "title": "Funeral Operatives"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Funeral Arrangers",
     "Funeral Operatives"
@@ -277,13 +267,28 @@
   "reviewDetails": "",
   "pathway": "Customer Service",
   "cluster": "Customer Service Assistant",
+  "clusterId": "14",
+  "clusterDescription": "Provide direct customer support by handling requests, complaints and queries and seeking to improve services through analysis",
   "createdDate": "2022-02-21T10:23:49 +00:00",
   "lastUpdated": "2023-03-07T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/funeral-team-member-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/funeral-team-member-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "99d54438-d648-4b1d-a905-9da6258471a8",
+      "title": "Funeral Arrangers",
+      "occupationCode": null
+    },
+    {
+      "optionId": "5df612f9-3f65-4da4-8fd5-55a5e5b9f4aa",
+      "title": "Funeral Operatives",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
