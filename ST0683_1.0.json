@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/458",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-12-30T00:00:00Z",
-  "earliestStartDate": "2019-05-16T00:00:00Z",
+  "changedDate": "2022-12-30T00:00:00",
+  "earliestStartDate": "2019-05-16T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Helping bring products to market for retailer buying or merchandising teams.",
@@ -246,16 +246,6 @@
       "detail": "Coaches and mentors new/less experienced colleagues"
     }
   ],
-  "options": [
-    {
-      "optionId": "8c4f15e9-3b26-425b-8869-fc170fd77ace",
-      "title": "Buying assistant"
-    },
-    {
-      "optionId": "5646199c-fc4c-41d4-aa4b-e2dd50a5dc1f",
-      "title": "Merchandising assistant"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -284,10 +274,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Sales & Retail",
-  "cluster": "Retail Manager",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2020-01-06T10:54:24 +00:00",
   "lastUpdated": "2022-12-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/buying-and-merchandising-assistant-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/buying-and-merchandising-assistant-v1-0",
   "qualifications": [],
@@ -307,7 +300,7 @@
         "1207aab7-15e5-41fb-9dde-bda886ba5a7a",
         "177233c5-eb49-4bb8-9cd6-f77630c65a98"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9cdc18dd-a717-40ce-a990-18f1903c545f",
         "795c2c12-afee-44d9-b24a-a84de1ccf0b4",
@@ -348,7 +341,7 @@
         "37afeca8-3a07-4008-bf57-526ae570242a",
         "2a8d10dc-304a-490f-98b2-c87028a1ecd5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9cdc18dd-a717-40ce-a990-18f1903c545f",
         "795c2c12-afee-44d9-b24a-a84de1ccf0b4",
@@ -386,7 +379,7 @@
         "37afeca8-3a07-4008-bf57-526ae570242a",
         "2a8d10dc-304a-490f-98b2-c87028a1ecd5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ee501c56-6463-4431-8380-a9481f306b2e",
         "5bc4be84-4d63-4468-8313-ebfc4101fbf8",
@@ -419,7 +412,7 @@
         "572b39ee-4ee8-4c66-9b07-affc1bbe514f",
         "7ecb07f0-3f51-4812-98fb-b50cbbe95f5a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6a3f796d-e64c-4942-8764-b3f30ac53cc7",
         "4a495493-8fff-4a59-9a1d-4e4f2313c29f"
@@ -451,7 +444,7 @@
         "37afeca8-3a07-4008-bf57-526ae570242a",
         "2a8d10dc-304a-490f-98b2-c87028a1ecd5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "df2fcbb1-d3f9-4565-8a67-c763fbe944d5",
         "0150b174-f83c-4e5a-9e1e-b8de828bb401",
@@ -481,7 +474,7 @@
         "59b40e46-62a0-426e-9715-1233fd3e0ebb",
         "a82b5869-36e2-4744-8ab2-a11261763d1d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9cdc18dd-a717-40ce-a990-18f1903c545f",
         "df2fcbb1-d3f9-4565-8a67-c763fbe944d5",
@@ -891,6 +884,18 @@
         "b3e58a91-2057-43ea-af77-7ad24052ccc7"
       ],
       "criteriaForMeasuringPerformance": "Stock system updated and maintained to agreed timescales"
+    }
+  ],
+  "options": [
+    {
+      "optionId": "8c4f15e9-3b26-425b-8869-fc170fd77ace",
+      "title": "Buying assistant",
+      "occupationCode": null
+    },
+    {
+      "optionId": "5646199c-fc4c-41d4-aa4b-e2dd50a5dc1f",
+      "title": "Merchandising assistant",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
