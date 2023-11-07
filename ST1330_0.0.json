@@ -493,16 +493,6 @@
       "detail": "Test compression joints."
     }
   ],
-  "options": [
-    {
-      "optionId": "7c608b51-cafe-42a8-b2bd-25b1f143b2f8",
-      "title": "Power industry overhead linesperson - distribution"
-    },
-    {
-      "optionId": "35d47149-50a2-4a36-8956-8e3ca31f01c5",
-      "title": "Power industry overhead linesperson - transmission"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -533,8 +523,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Manufacturing/Process Maintenance Operative/Technician",
+  "clusterId": "71",
+  "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2023-09-14T09:02:22 +00:00",
   "lastUpdated": "",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/power-industry-overhead-linesperson?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/power-industry-overhead-linesperson",
   "qualifications": [
@@ -558,7 +551,7 @@
       "dutyID": "e72e9a78-e15d-48e3-af2a-912cc496db85",
       "dutyDetail": "Prepare for overhead lineperson activities.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0b24e741-495b-42b6-ba97-66831d0805ad",
         "0285bc78-8efb-4d12-8466-e3398b887249",
@@ -572,7 +565,7 @@
         "6bc9206a-73b9-411f-9838-230cfa6bd1f6",
         "a70fa543-418b-4769-a708-92c426f825d4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7d284936-6e94-4ed0-b10d-d786bd0a8652",
         "504a380c-9688-4fab-95b2-b3fc2c32b1df",
@@ -609,7 +602,7 @@
         "f351a59f-f012-4ae5-a2e0-224fe0538f4a",
         "5e48f4f2-92f7-4392-b052-7589ae7becba"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7d284936-6e94-4ed0-b10d-d786bd0a8652",
         "504a380c-9688-4fab-95b2-b3fc2c32b1df",
@@ -657,7 +650,7 @@
         "f351a59f-f012-4ae5-a2e0-224fe0538f4a",
         "5e48f4f2-92f7-4392-b052-7589ae7becba"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c130855c-c9c0-47aa-8caa-fdaa8acf2018",
         "05760c94-bf6b-453b-86c3-1ff888dc929e",
@@ -689,7 +682,7 @@
         "5e48f4f2-92f7-4392-b052-7589ae7becba",
         "d5cb6fe8-6882-4982-b3bc-bbfe15971ec0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a9297432-616a-4bf0-85f2-8a292763937c",
         "2fbf3005-8710-4153-8685-e160f743c4fc",
@@ -721,7 +714,7 @@
         "f351a59f-f012-4ae5-a2e0-224fe0538f4a",
         "5e48f4f2-92f7-4392-b052-7589ae7becba"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2709b8a2-d108-476b-9b8a-149ee38a6978",
         "85b62c86-3128-4fe8-8405-361925c11ee3",
@@ -745,7 +738,7 @@
         "4c102dce-4e9d-4b38-80d3-063d62b20620",
         "0f88b2ad-89e3-4f62-b5d9-e854ccaea948"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "eafad9bd-4035-42f4-b26a-05e00fe0cb16",
         "2709b8a2-d108-476b-9b8a-149ee38a6978",
@@ -760,7 +753,7 @@
       "dutyID": "400dbffe-44de-4446-b9b3-d3cc87b3b4bd",
       "dutyDetail": "Maintain supplies of consumables. ",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "25992b90-0c69-48e8-967d-7a0cf44d4ee9",
         "4d82efcc-34d7-4ea6-bfeb-63c3821d4e71",
@@ -771,7 +764,7 @@
         "0f88b2ad-89e3-4f62-b5d9-e854ccaea948",
         "8c1d87ac-b180-4643-acc8-244f8cb2605b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7d284936-6e94-4ed0-b10d-d786bd0a8652",
         "504a380c-9688-4fab-95b2-b3fc2c32b1df",
@@ -787,7 +780,7 @@
       "dutyID": "22f7960b-a853-4cb1-89f4-ac7c896993e5",
       "dutyDetail": "Contribute to improvement activities - supporting alternative ways of working to improve network safety, sustainability, reduce cost and drive efficiency.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0b24e741-495b-42b6-ba97-66831d0805ad",
         "2e06c28b-736b-4184-a18b-026c58d74166",
@@ -800,7 +793,7 @@
         "6bc9206a-73b9-411f-9838-230cfa6bd1f6",
         "a70fa543-418b-4769-a708-92c426f825d4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "436cdc54-3c06-46c4-96a0-9648e8c57daf",
         "2709b8a2-d108-476b-9b8a-149ee38a6978",
@@ -813,13 +806,13 @@
       "dutyID": "a3cff8ae-f7a0-46ce-bf1e-287b9c83c1c4",
       "dutyDetail": "Carry out lifting operations.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "2e06c28b-736b-4184-a18b-026c58d74166",
         "f351a59f-f012-4ae5-a2e0-224fe0538f4a",
         "d5cb6fe8-6882-4982-b3bc-bbfe15971ec0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2fbf3005-8710-4153-8685-e160f743c4fc",
         "2709b8a2-d108-476b-9b8a-149ee38a6978",
@@ -1248,6 +1241,18 @@
         "dbe5d736-cfe6-4d46-863e-85f9203a554f"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "7c608b51-cafe-42a8-b2bd-25b1f143b2f8",
+      "title": "Power industry overhead linesperson - distribution",
+      "occupationCode": null
+    },
+    {
+      "optionId": "35d47149-50a2-4a36-8956-8e3ca31f01c5",
+      "title": "Power industry overhead linesperson - transmission",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
