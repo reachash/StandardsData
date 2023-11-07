@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/632",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-06-03T00:00:00Z",
-  "earliestStartDate": "2021-05-27T00:00:00Z",
+  "changedDate": "2021-06-03T00:00:00",
+  "earliestStartDate": "2021-05-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Research projects to generate data and insight.",
@@ -153,7 +153,6 @@
       "detail": "Evaluate data and research findings to derive insights to support improvements to future research projects."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -184,10 +183,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Marketing",
-  "cluster": "Marketing Communications Manager",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2020-10-21T07:59:09 +00:00",
   "lastUpdated": "2021-06-03T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/market-research-executive-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/market-research-executive-v1-0",
   "qualifications": [],
@@ -220,7 +222,7 @@
         "218ab6ee-7fca-4836-aca8-8aca6d365690",
         "5d96bbc0-946c-4766-9459-f09e696ab3aa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6118e2fe-046b-4755-aac0-b331596f8ba0",
         "75024d08-5a57-437d-8c8b-329e49a1ff7c",
@@ -243,7 +245,7 @@
         "5d96bbc0-946c-4766-9459-f09e696ab3aa",
         "0aa1bebc-1f2c-41f4-b8f4-51b9725056ce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6118e2fe-046b-4755-aac0-b331596f8ba0",
         "471fd4e1-c5eb-4633-b9f8-650e3995c5d0",
@@ -269,7 +271,7 @@
         "97b8bb7f-3f2d-4466-98ce-d4ef35a3daa2",
         "5d96bbc0-946c-4766-9459-f09e696ab3aa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6118e2fe-046b-4755-aac0-b331596f8ba0",
         "29746973-6049-4897-9059-2fdeccbc11f9",
@@ -296,7 +298,7 @@
         "5d96bbc0-946c-4766-9459-f09e696ab3aa",
         "0aa1bebc-1f2c-41f4-b8f4-51b9725056ce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "29746973-6049-4897-9059-2fdeccbc11f9",
         "84aa7cef-7036-48b0-bc26-e16d2b161045",
@@ -327,7 +329,7 @@
         "5d96bbc0-946c-4766-9459-f09e696ab3aa",
         "0aa1bebc-1f2c-41f4-b8f4-51b9725056ce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "29746973-6049-4897-9059-2fdeccbc11f9",
         "471fd4e1-c5eb-4633-b9f8-650e3995c5d0",
@@ -353,7 +355,7 @@
         "218ab6ee-7fca-4836-aca8-8aca6d365690",
         "0aa1bebc-1f2c-41f4-b8f4-51b9725056ce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "29746973-6049-4897-9059-2fdeccbc11f9",
         "96f01c33-4048-435a-82eb-757f84387005",
@@ -380,7 +382,7 @@
         "5d96bbc0-946c-4766-9459-f09e696ab3aa",
         "0aa1bebc-1f2c-41f4-b8f4-51b9725056ce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6118e2fe-046b-4755-aac0-b331596f8ba0",
         "471fd4e1-c5eb-4633-b9f8-650e3995c5d0",
@@ -410,7 +412,7 @@
         "751a2875-96da-41fb-a529-139ce848dbb1",
         "55972a57-d1e5-403f-b7fa-3f2c56e60df6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6118e2fe-046b-4755-aac0-b331596f8ba0",
         "29746973-6049-4897-9059-2fdeccbc11f9",
@@ -444,7 +446,7 @@
         "751a2875-96da-41fb-a529-139ce848dbb1",
         "55972a57-d1e5-403f-b7fa-3f2c56e60df6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "29746973-6049-4897-9059-2fdeccbc11f9",
         "84aa7cef-7036-48b0-bc26-e16d2b161045",
@@ -478,7 +480,7 @@
         "751a2875-96da-41fb-a529-139ce848dbb1",
         "55972a57-d1e5-403f-b7fa-3f2c56e60df6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6118e2fe-046b-4755-aac0-b331596f8ba0",
         "29746973-6049-4897-9059-2fdeccbc11f9",
@@ -491,6 +493,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
