@@ -7,15 +7,15 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/518",
   "versionNumber": "1.1",
   "change": "End-point assessment plan and standard revised",
-  "changedDate": "2023-03-27T00:00:00Z",
-  "earliestStartDate": "2023-03-27T00:00:00Z",
+  "changedDate": "2023-03-27T00:00:00",
+  "earliestStartDate": "2023-03-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Installing a range of roofing materials and products.",
   "level": 2,
   "typicalDuration": 24,
   "maxFunding": 11000,
-  "route": "Construction and the built environment",
+  "route": "Construction",
   "keywords": [],
   "jobRoles": [
     "Roof Slater And Tiler",
@@ -287,20 +287,6 @@
       "detail": "Work around penetrations and upstands"
     }
   ],
-  "options": [
-    {
-      "optionId": "dd4d2ef3-b527-4fa3-b844-e3dbf3125f3e",
-      "title": "Roof Slater & Tiler"
-    },
-    {
-      "optionId": "16213292-8ef3-4bae-a9e2-0f7d479836fc",
-      "title": "Waterproof Membranes Installer"
-    },
-    {
-      "optionId": "6cc30d1c-e45c-47bf-895f-9d52043c94df",
-      "title": "Roof Sheeter & Cladder"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Roof Slater & Tiler",
     "Waterproof Membranes Installer",
@@ -336,13 +322,33 @@
   "reviewDetails": "",
   "pathway": "Onsite Construction",
   "cluster": "Core Building Tradesperson",
+  "clusterId": "5",
+  "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
   "createdDate": "2023-03-27T10:21:23 +00:00",
   "lastUpdated": "2023-03-27T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/roofer-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/roofer-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "dd4d2ef3-b527-4fa3-b844-e3dbf3125f3e",
+      "title": "Roof Slater & Tiler",
+      "occupationCode": null
+    },
+    {
+      "optionId": "16213292-8ef3-4bae-a9e2-0f7d479836fc",
+      "title": "Waterproof Membranes Installer",
+      "occupationCode": null
+    },
+    {
+      "optionId": "6cc30d1c-e45c-47bf-895f-9d52043c94df",
+      "title": "Roof Sheeter & Cladder",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
