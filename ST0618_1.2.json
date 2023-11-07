@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/473",
   "versionNumber": "1.2",
   "change": "Standard, end-point assessment plan and funding band revised",
-  "changedDate": "2023-09-01T00:00:00Z",
-  "earliestStartDate": "2023-09-01T00:00:00Z",
+  "changedDate": "2023-09-01T00:00:00",
+  "earliestStartDate": "2023-09-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Speech and language therapy provides treatment, support and care for children and adults.",
@@ -563,7 +563,6 @@
       "detail": "Engage in occupational health, including being aware of immunisation requirements."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -594,8 +593,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Health",
   "cluster": "Health Professional",
+  "clusterId": "6",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2023-06-23T09:54:34 +00:00",
   "lastUpdated": "2023-09-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/speech-and-language-therapist-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/speech-and-language-therapist-v1-2",
   "qualifications": [
@@ -629,7 +631,7 @@
         "1b399fd6-af35-46a4-ab22-8b49a228cd2f",
         "4ccfc16d-659c-447d-96cc-3dc606b2f0ab"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "718f6df5-f9cf-4946-829c-499b99826707",
         "15091ea3-a8bf-45da-8509-da72e310fa28",
@@ -657,7 +659,7 @@
         "cd0dfd73-8ed5-43cc-8059-7ae24665d688",
         "d23763ca-3cc9-4f79-938c-70c41a323241"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f208355c-3a9e-439e-9b86-a46c8e7d4799",
         "ddfd449d-3156-48ac-b6d4-2d9f1155776e"
@@ -676,7 +678,7 @@
       "mappedKnowledge": [
         "18a36c0f-6221-46da-802b-3bdeea24a817"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1ed87a46-8165-464b-be07-532e1b6b2dcb",
         "b0c74793-eaa8-40a9-9bb4-19efe67019d0",
@@ -704,7 +706,7 @@
         "18023171-34ab-4b4f-a2c8-c9a0b2a84ab8",
         "1e6eea10-4b9d-4620-93e0-263f4145d325"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "07c902cb-2ab3-4045-8cc8-eba81bb41d87",
         "f391bb57-9288-4272-87b6-a60c862f983d",
@@ -731,7 +733,7 @@
         "50e868bd-b42a-4adc-919a-732d10a81881",
         "1fb76bc4-63cf-4196-9222-cbec7c282dd8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1d235262-d017-4dbd-8602-50e8d5f28cd5",
         "9b5278e3-3a36-46b8-8feb-ef504ed13105",
@@ -757,7 +759,7 @@
         "fda3fb8f-19c5-41a6-943a-87c6ba4c3207",
         "0115ccec-8370-42d6-9b80-1c30e99947f4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8f781525-068a-4f0c-b5e0-6fc05bdba72d",
         "54fe8d51-fde8-45c5-a7b4-9dd338a9c6a0",
@@ -782,7 +784,7 @@
         "5ed326a6-fdcb-4eb6-8f4d-1ee984c3e2e4",
         "fbc486c0-e521-4e0c-bd6c-18fd05ca7a1d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fd9018b8-7525-4658-bfab-44fe117a66b1",
         "0e38b39e-5e17-4cb6-a0d8-c58b57ea7d3d",
@@ -818,7 +820,7 @@
         "f548924a-ff45-48d4-92cb-4d309b526e48",
         "4ecfaae1-f091-4a92-a65c-6556f49a38b5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "521e9797-fc7a-4652-bc28-8c4cdaf84e48",
         "a08d8f05-c4a2-4028-9c76-bb8d61f9ab16",
@@ -854,7 +856,7 @@
         "3e8f8a2e-09b7-4a26-9637-73f733e649a6",
         "741fd8db-8d83-48bb-b651-e53e3fcf8c93"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ceaf2538-302c-4278-b117-a9a3d220eeab",
         "45a8f061-5266-4f66-8082-cc9aa55abe15",
@@ -880,7 +882,7 @@
         "6b896aa4-f5e4-4b29-ae11-210ee71caa5e",
         "1a01ff91-3ecc-4a47-8612-01f8d5f5c38c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4491f19c-2574-4519-8f21-1404927e0d12",
         "c49a0934-787d-45d4-b19a-523adebfc230"
@@ -888,6 +890,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training Provider",
