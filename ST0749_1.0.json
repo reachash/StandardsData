@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/441",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-04-12T00:00:00Z",
-  "earliestStartDate": "2019-04-11T00:00:00Z",
+  "changedDate": "2022-04-12T00:00:00",
+  "earliestStartDate": "2019-04-11T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing technical, research and logistical support to Historic Environment professionals working with heritage assets.",
@@ -204,7 +204,6 @@
       "detail": "Identify and use of range of methods and techniques to identify archaeological sites or building types, styles, technologies, materials and periods in practice"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -248,8 +247,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Cultural Heritage and Visitor Attractions",
   "cluster": "Collections and Conservation Specialist",
+  "clusterId": "17",
+  "clusterDescription": "Co-ordinate the conservation, preservation and curating of collections at cultural institutions",
   "createdDate": "2020-02-10T14:26:55 +00:00",
   "lastUpdated": "2022-04-12T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/historic-environment-advice-assistant-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/historic-environment-advice-assistant-v1-0",
   "qualifications": [],
@@ -301,7 +303,7 @@
         "fb98563b-b5d2-47ed-90fd-022d0d5b3908",
         "ceb203f7-5ba2-42cb-8365-12d5e743f937"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "be5d422b-5b04-41d3-8c42-47f3521b3801",
         "42188a9f-5feb-459a-a9be-ffd3c2be47cf",
@@ -342,7 +344,7 @@
         "fb98563b-b5d2-47ed-90fd-022d0d5b3908",
         "9aced742-f93d-4f78-b8d0-234e06712e13"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e0dae3ba-775c-4fa8-bf42-3536436112ee",
         "be5d422b-5b04-41d3-8c42-47f3521b3801",
@@ -382,7 +384,7 @@
         "9aced742-f93d-4f78-b8d0-234e06712e13",
         "ceb203f7-5ba2-42cb-8365-12d5e743f937"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "42188a9f-5feb-459a-a9be-ffd3c2be47cf",
         "624ef0c9-861d-4fa9-a4cb-b656326f1396",
@@ -421,7 +423,7 @@
         "fb98563b-b5d2-47ed-90fd-022d0d5b3908",
         "9aced742-f93d-4f78-b8d0-234e06712e13"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e0dae3ba-775c-4fa8-bf42-3536436112ee",
         "42188a9f-5feb-459a-a9be-ffd3c2be47cf",
@@ -462,7 +464,7 @@
         "9aced742-f93d-4f78-b8d0-234e06712e13",
         "ceb203f7-5ba2-42cb-8365-12d5e743f937"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "42188a9f-5feb-459a-a9be-ffd3c2be47cf",
         "624ef0c9-861d-4fa9-a4cb-b656326f1396",
@@ -503,7 +505,7 @@
         "fb98563b-b5d2-47ed-90fd-022d0d5b3908",
         "9aced742-f93d-4f78-b8d0-234e06712e13"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e0dae3ba-775c-4fa8-bf42-3536436112ee",
         "be5d422b-5b04-41d3-8c42-47f3521b3801",
@@ -545,7 +547,7 @@
         "fb98563b-b5d2-47ed-90fd-022d0d5b3908",
         "9aced742-f93d-4f78-b8d0-234e06712e13"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e0dae3ba-775c-4fa8-bf42-3536436112ee",
         "42188a9f-5feb-459a-a9be-ffd3c2be47cf",
@@ -586,7 +588,7 @@
         "fb98563b-b5d2-47ed-90fd-022d0d5b3908",
         "9aced742-f93d-4f78-b8d0-234e06712e13"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "42188a9f-5feb-459a-a9be-ffd3c2be47cf",
         "624ef0c9-861d-4fa9-a4cb-b656326f1396",
@@ -628,7 +630,7 @@
         "9aced742-f93d-4f78-b8d0-234e06712e13",
         "ceb203f7-5ba2-42cb-8365-12d5e743f937"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b46db1f3-88c6-4dfc-b551-801e84850a2d",
         "e0dae3ba-775c-4fa8-bf42-3536436112ee",
@@ -669,7 +671,7 @@
         "71017f93-c427-46e0-945a-8450c11df2ea",
         "fb98563b-b5d2-47ed-90fd-022d0d5b3908"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b46db1f3-88c6-4dfc-b551-801e84850a2d",
         "42188a9f-5feb-459a-a9be-ffd3c2be47cf",
@@ -703,7 +705,7 @@
         "71017f93-c427-46e0-945a-8450c11df2ea",
         "fb98563b-b5d2-47ed-90fd-022d0d5b3908"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b46db1f3-88c6-4dfc-b551-801e84850a2d",
         "42188a9f-5feb-459a-a9be-ffd3c2be47cf",
@@ -736,7 +738,7 @@
         "71017f93-c427-46e0-945a-8450c11df2ea",
         "fb98563b-b5d2-47ed-90fd-022d0d5b3908"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b46db1f3-88c6-4dfc-b551-801e84850a2d",
         "42188a9f-5feb-459a-a9be-ffd3c2be47cf",
@@ -768,7 +770,7 @@
         "7351043f-eedb-4b30-89db-ebe33cb8af92",
         "fb98563b-b5d2-47ed-90fd-022d0d5b3908"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "be5d422b-5b04-41d3-8c42-47f3521b3801",
         "42188a9f-5feb-459a-a9be-ffd3c2be47cf",
@@ -778,6 +780,7 @@
       "criteriaForMeasuringPerformance": "Work must be accurate and meet industry  standards  and  statutory principles, and relevant professional body guidelines and codes of practice (CIOB, IHBC, CIfA)"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
