@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/509",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2019-09-27T00:00:00Z",
-  "earliestStartDate": "2019-09-27T00:00:00Z",
+  "changedDate": "2019-09-27T00:00:00",
+  "earliestStartDate": "2019-09-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Manufacturing furniture and furniture components, such as desk lids, doors, casings or legs, using Computer Numerically Controlled (CNC) machinery to perform precision tasks.",
@@ -299,7 +299,6 @@
       "detail": "Able to check furniture products meet quality standards and furniture specifications."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -337,8 +336,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing and Process Operative/Technician",
+  "clusterId": "262",
+  "clusterDescription": "Assemble and construct complex engineering products",
   "createdDate": "2021-11-30T09:21:09 +00:00",
   "lastUpdated": "2019-09-27T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/advanced-furniture-cnc-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/advanced-furniture-cnc-technician-v1-0",
   "qualifications": [],
@@ -359,7 +361,7 @@
         "13702aba-3b78-482d-a6da-c4578fda0a32",
         "ae6ba1fe-7664-4c27-a1af-fc27821e027f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "054c438b-7007-4487-afbb-e1b43d10e88f",
         "37d2095d-f44a-415e-a5d2-a20bc74884fc",
@@ -384,7 +386,7 @@
         "ee5e8e66-5d86-4e72-a83a-2ea35138bde1",
         "8c5b6a64-78ae-4a90-9fe7-64ee2609d334"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "23a3947e-d80b-4c32-841b-bd8bd6f8b2b7",
         "8f1ea7f2-389d-45a3-8923-bb217f3ad802",
@@ -405,7 +407,7 @@
         "2bae9d64-80ce-4606-9772-573fe1f830ac",
         "80ef9f3f-09ce-42c8-a006-a6ebce77772c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "789319f6-fa7b-4beb-8e34-4fc5fa270da1"
       ],
@@ -422,7 +424,7 @@
         "be2540af-44ef-43e5-96e8-d2038f424e36",
         "547679c8-2d76-4e9d-a672-5382a67f1dfe"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "61640ddd-a6ff-40ef-aac1-90f63df545d5",
         "83e25565-488e-4f6e-a9d6-2235f125cceb"
@@ -439,7 +441,7 @@
       "mappedKnowledge": [
         "7fdecbf5-e926-4904-ae07-4846d1f74a33"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "394781a9-7e36-468b-9bba-9dabce2ede82"
       ],
@@ -459,7 +461,7 @@
         "21fd5e51-b724-4fb3-9196-be258b689734",
         "a81c264c-501e-4ee1-a572-9b9b6df0de88"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4cbf994e-6d89-4330-97f2-6e97d53e9bf2",
         "cda8820a-233f-4f0f-b303-eb155fa05027",
@@ -471,12 +473,12 @@
       "dutyID": "c57f0928-7fb6-46bb-978c-dffd06800df0",
       "dutyDetail": "Identify and rectify faults with furniture production machinery.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "63b95ca2-bdd4-4138-ae22-dd2fc1a5dba4",
         "5f5a3d1c-e778-42df-8f9d-a05ebf869e7e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "34f07ce2-9edf-4ac5-9c1a-01fec7034443"
       ],
@@ -494,7 +496,7 @@
       "mappedKnowledge": [
         "b618d1fc-91b7-4a09-ae0b-e8373f0b4bd8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b6fe10cf-b87b-4b12-99e4-6ea867df7f34",
         "df7d2796-6cc0-4155-8f7e-bfeb6052efcc",
@@ -512,7 +514,7 @@
       "mappedKnowledge": [
         "b1086129-e327-4a22-b52b-aad6fb35bd11"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "89849dc5-f550-4a5f-9440-c4fbae7b20af"
       ],
@@ -532,7 +534,7 @@
         "728694a1-a71c-47f3-92dd-291144386a2d",
         "e4e1eb5c-a0a8-4451-bc0c-3755efe1a78e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d6dcc807-4ec3-4906-aee8-0b93b1576ea7"
       ],
@@ -549,7 +551,7 @@
         "8c5b6a64-78ae-4a90-9fe7-64ee2609d334",
         "760a67a5-8de9-492a-b043-54e12a7b54b3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cda8820a-233f-4f0f-b303-eb155fa05027"
       ],
@@ -568,13 +570,14 @@
         "8c5b6a64-78ae-4a90-9fe7-64ee2609d334",
         "5be5a93e-b213-4620-b26d-adf6bce626f6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9d467b95-58bd-4f93-b5cd-bd52bddc50e8"
       ],
       "criteriaForMeasuringPerformance": "delivered in line with specifications and within agreed timescales"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
