@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/89",
   "versionNumber": "1.1",
   "change": "The funding band for this standard has been reviewed as part of the apprenticeship funding band review. The new funding band is £24000",
-  "changedDate": "2023-01-16T00:00:00Z",
-  "earliestStartDate": "2018-10-03T00:00:00Z",
+  "changedDate": "2023-01-16T00:00:00",
+  "earliestStartDate": "2018-10-03T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing technical support to engineers working on the rail network and trains.",
@@ -187,36 +187,6 @@
       "detail": "Able to use a range of fastenings including crimping and torque correctly."
     }
   ],
-  "options": [
-    {
-      "optionId": "4614dc98-0cbd-4228-9d6a-bf76d05eedb8",
-      "title": "Track"
-    },
-    {
-      "optionId": "beb958e3-dcc5-4f4f-a058-859eb558cdff",
-      "title": "Electrification"
-    },
-    {
-      "optionId": "8fcec081-1216-4631-8598-a5e5455ea2cb",
-      "title": "Overhead Lines"
-    },
-    {
-      "optionId": "56effc69-5197-40d2-aa02-55eb93ed797e",
-      "title": "Signalling"
-    },
-    {
-      "optionId": "4bb30db3-f587-48f5-b65e-b0fe161ffd0c",
-      "title": "Telecoms"
-    },
-    {
-      "optionId": "64b808e0-0fd6-4911-af65-74661ae38e88",
-      "title": "Traction & Rolling Stock"
-    },
-    {
-      "optionId": "c16d5473-d787-41bc-a9bf-edacd0faf7f9",
-      "title": "Rail Systems"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Track",
     "Electrification",
@@ -255,8 +225,11 @@
   "reviewDetails": "",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2017-09-22T14:24:39 +00:00",
   "lastUpdated": "2023-01-16T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/rail-engineering-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/rail-engineering-technician-v1-1",
   "qualifications": [],
@@ -266,51 +239,88 @@
       "dutyID": "8cb5b9fa-bdce-4650-83a7-43e4ff693443",
       "dutyDetail": "Construction, installation, renewal, enhancement and modification of The Railway.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
-      "mappedKnowledge": null,
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "9506bb65-4251-4c29-9ef9-2b40b4be4bce",
       "dutyDetail": "Fault finding and diagnosis to prevent or address equipment failures.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
-      "mappedKnowledge": null,
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "31c95ac6-368f-44c7-a9e9-3521f7591481",
       "dutyDetail": "Maintenance and replacement of systems and components",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
-      "mappedKnowledge": null,
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "9c6fd987-e8e6-4d40-b02f-c5d9ea376c28",
       "dutyDetail": "Functional and operational testing and inspection of The Railway using specialist equipment.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
-      "mappedKnowledge": null,
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "0e1d705d-ac8e-4893-944b-489baba1f283",
       "dutyDetail": "Ensuring assets are installed, replaced or maintained to specification and maintaining required records.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
-      "mappedKnowledge": null,
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "4614dc98-0cbd-4228-9d6a-bf76d05eedb8",
+      "title": "Track",
+      "occupationCode": null
+    },
+    {
+      "optionId": "beb958e3-dcc5-4f4f-a058-859eb558cdff",
+      "title": "Electrification",
+      "occupationCode": null
+    },
+    {
+      "optionId": "8fcec081-1216-4631-8598-a5e5455ea2cb",
+      "title": "Overhead Lines",
+      "occupationCode": null
+    },
+    {
+      "optionId": "56effc69-5197-40d2-aa02-55eb93ed797e",
+      "title": "Signalling",
+      "occupationCode": null
+    },
+    {
+      "optionId": "4bb30db3-f587-48f5-b65e-b0fe161ffd0c",
+      "title": "Telecoms",
+      "occupationCode": null
+    },
+    {
+      "optionId": "64b808e0-0fd6-4911-af65-74661ae38e88",
+      "title": "Traction & Rolling Stock",
+      "occupationCode": null
+    },
+    {
+      "optionId": "c16d5473-d787-41bc-a9bf-edacd0faf7f9",
+      "title": "Rail Systems",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
