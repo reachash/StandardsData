@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/114",
   "versionNumber": "1.1",
   "change": "Standard, funding band and end-point assessment plan revised",
-  "changedDate": "2022-05-31T00:00:00Z",
-  "earliestStartDate": "2020-11-09T00:00:00Z",
+  "changedDate": "2022-05-31T00:00:00",
+  "earliestStartDate": "2020-11-09T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Maintain and certify aircraft of all types from small aeroplanes to airliners, jet fighters and helicopters, both civil and military.",
@@ -207,7 +207,6 @@
       "detail": "Identification, control, repair and prevention of damage, fatigue and corrosion"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -245,8 +244,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Installation, Service, Repair and/or Overhaul Advanced Technician",
+  "clusterId": "97",
+  "clusterDescription": "Install, maintain and service plant and equipment using application and/or context specific expertise",
   "createdDate": "2020-11-18T16:27:46 +00:00",
   "lastUpdated": "2022-05-31T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/aircraft-certifying-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/aircraft-certifying-technician-v1-1",
   "qualifications": [
@@ -304,7 +306,7 @@
         "9f3816ed-8083-4c2a-9580-ac5460a2d2bc",
         "54e3de9d-1da1-420e-8a9e-d044ff944461"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a",
         "fc2f5e92-9e1c-4620-8144-37b05bcaa7fa",
@@ -341,7 +343,7 @@
       "mappedKnowledge": [
         "c8df82f0-cf2b-439a-a101-d88523d26efd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a",
         "fc2f5e92-9e1c-4620-8144-37b05bcaa7fa",
@@ -373,7 +375,7 @@
         "e429a71e-d145-44e5-9ac4-4ca27ea9e533",
         "c8df82f0-cf2b-439a-a101-d88523d26efd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fc2f5e92-9e1c-4620-8144-37b05bcaa7fa",
         "1fcc66c6-0b22-4d9b-8cec-3dcc58dcae6d",
@@ -404,7 +406,7 @@
         "e429a71e-d145-44e5-9ac4-4ca27ea9e533",
         "c8df82f0-cf2b-439a-a101-d88523d26efd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a",
         "1fcc66c6-0b22-4d9b-8cec-3dcc58dcae6d",
@@ -434,7 +436,7 @@
         "e429a71e-d145-44e5-9ac4-4ca27ea9e533",
         "c8df82f0-cf2b-439a-a101-d88523d26efd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1fcc66c6-0b22-4d9b-8cec-3dcc58dcae6d",
         "955494fa-541f-4d9c-8781-51c9681db283"
@@ -463,7 +465,7 @@
       "mappedKnowledge": [
         "e429a71e-d145-44e5-9ac4-4ca27ea9e533"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a",
         "1fcc66c6-0b22-4d9b-8cec-3dcc58dcae6d",
@@ -499,7 +501,7 @@
         "5ce10164-c250-4693-b08c-3ab1e4e78852",
         "9f3816ed-8083-4c2a-9580-ac5460a2d2bc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a",
         "1fcc66c6-0b22-4d9b-8cec-3dcc58dcae6d",
@@ -534,7 +536,7 @@
         "e429a71e-d145-44e5-9ac4-4ca27ea9e533",
         "c8df82f0-cf2b-439a-a101-d88523d26efd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a",
         "7f799111-52bc-47cf-ab01-05f3f75d8e9d"
@@ -576,7 +578,7 @@
         "9f3816ed-8083-4c2a-9580-ac5460a2d2bc",
         "54e3de9d-1da1-420e-8a9e-d044ff944461"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a",
         "fc2f5e92-9e1c-4620-8144-37b05bcaa7fa",
@@ -620,7 +622,7 @@
         "3085ba50-a684-4d42-9eca-8115b00ed980",
         "a267c445-101e-463d-8953-d952505585ab"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a",
         "fc2f5e92-9e1c-4620-8144-37b05bcaa7fa",
@@ -657,7 +659,7 @@
       "mappedKnowledge": [
         "e429a71e-d145-44e5-9ac4-4ca27ea9e533"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a",
         "1fcc66c6-0b22-4d9b-8cec-3dcc58dcae6d",
@@ -689,7 +691,7 @@
         "e429a71e-d145-44e5-9ac4-4ca27ea9e533",
         "c8df82f0-cf2b-439a-a101-d88523d26efd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a",
         "1fcc66c6-0b22-4d9b-8cec-3dcc58dcae6d",
@@ -723,7 +725,7 @@
         "e429a71e-d145-44e5-9ac4-4ca27ea9e533",
         "c8df82f0-cf2b-439a-a101-d88523d26efd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a"
       ],
@@ -753,7 +755,7 @@
         "e429a71e-d145-44e5-9ac4-4ca27ea9e533",
         "c8df82f0-cf2b-439a-a101-d88523d26efd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a",
         "1fcc66c6-0b22-4d9b-8cec-3dcc58dcae6d"
@@ -761,6 +763,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
