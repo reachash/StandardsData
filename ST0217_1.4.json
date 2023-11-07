@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/151",
   "versionNumber": "1.4",
   "change": "Standard revised",
-  "changedDate": "2023-09-25T00:00:00Z",
-  "earliestStartDate": "2023-04-03T00:00:00Z",
-  "latestStartDate": "2023-09-24T00:00:00Z",
+  "changedDate": "2023-09-25T00:00:00",
+  "earliestStartDate": "2023-04-03T00:00:00",
+  "latestStartDate": "2023-09-24T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Providing high-quality and compassionate specialist health and social care for a range of people.",
   "level": 3,
@@ -673,32 +673,6 @@
       "detail": "Complete safety checks for therapeutic equipment and resources, following protocols to report issues or make adaptations if appropriate."
     }
   ],
-  "options": [
-    {
-      "optionId": "3121e403-089c-4ecb-a6cd-4e13daa3cb2f",
-      "title": "Adult Nursing Support"
-    },
-    {
-      "optionId": "72365bf1-de6b-48fb-86dc-c4aaa1aeca79",
-      "title": "Maternity Support"
-    },
-    {
-      "optionId": "6736d588-237a-439d-abda-775399d570b4",
-      "title": "Theatre Support"
-    },
-    {
-      "optionId": "b278f018-8dea-4028-a6dc-49cdd8242ab8",
-      "title": "Mental Health Support"
-    },
-    {
-      "optionId": "dfb1e859-6dbd-404e-b5a9-69d4cae83a17",
-      "title": "Children and Young People Support"
-    },
-    {
-      "optionId": "6fc378c2-7c2e-4cee-a5db-bf961e39baa8",
-      "title": "Allied Health Profession Therapy Support"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Adult Nursing Support",
     "Allied Health Profession - Therapy Support",
@@ -740,8 +714,11 @@
   "reviewDetails": "",
   "pathway": "Health",
   "cluster": "Health Assistant",
+  "clusterId": "112",
+  "clusterDescription": "Provide direct patient contact and caring undertaking routine well defined clinical duties",
   "createdDate": "2023-04-04T07:20:32 +00:00",
   "lastUpdated": "2023-09-25T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/senior-healthcare-support-worker-v1-4?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/senior-healthcare-support-worker-v1-4",
   "qualifications": [
@@ -769,7 +746,7 @@
         "19a3fe41-db40-4941-9611-42873284816e",
         "10134d03-dc40-4aa4-9768-cda944bf3299"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "425084e2-8de8-4b6c-a462-18bb8bc1584b",
         "752ab903-23f8-4415-b51d-52c3d87aaa8b",
@@ -791,7 +768,7 @@
         "9fe4cddb-b057-499c-b365-769732931434",
         "2bf2334e-af82-4d27-bd1e-1d369eb9d55e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ddc36e10-fda2-4e2a-a47a-29924b113d67",
         "0f5944d5-bc62-4f0e-baa6-237adb5efa7d"
@@ -813,7 +790,7 @@
         "3c38b88a-a406-454c-9f92-dec57fce2c54",
         "ab9a9ae4-ed2a-464c-9215-e37307859679"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5817568d-ea6f-436d-a0b5-0efe18073b42",
         "3e455aaa-1be4-479d-a247-cb17d7db7559",
@@ -835,7 +812,7 @@
         "ec09f968-1081-4b51-96f0-86e42596fd55",
         "4cf454d8-9fb5-4f7d-bc03-0066b60114bf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "eec459c8-d6ac-4163-890e-f860c2679607",
         "d1f29797-3dbb-4be1-83bf-a8942641967b"
@@ -859,7 +836,7 @@
         "0c3db191-87b7-4770-a292-e9726c6b323d",
         "15b4a186-76df-416d-810b-81b8dce253c3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f94c252e-ffad-4ddc-99fe-4b2f1e3b6860",
         "4283382a-418e-4739-9522-0384fc64c02f",
@@ -884,7 +861,7 @@
         "41178452-9f51-4b4f-99d0-eeff11817170",
         "79a1b66c-621e-4e61-b40e-4c0f5c6c99eb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "26b0a7ee-b70e-4ce2-a9b4-c16950de0bda",
         "a36e8761-231c-4cbb-b2d4-bc5a2894d6d1",
@@ -905,7 +882,7 @@
         "87b663e8-31cd-4fc2-b3f9-9e10126260ee",
         "b4846c74-29ce-49b7-bbc9-7c0d678e6757"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a484be40-91ea-4888-9275-7c2e18b1130d",
         "35d81d1a-d4d8-4767-b3ef-4bebf9398a31"
@@ -926,7 +903,7 @@
         "48bee6f0-3773-4597-ad28-a17b8218e6ac",
         "38098949-219f-4d3b-a826-2d2e7d6ea421"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5b291622-1d75-42de-aa32-0e82b7b2e94d",
         "de9eb5bf-10f1-458b-bbbc-87fc04876694",
@@ -947,7 +924,7 @@
         "c3841433-31fc-4f00-8303-089da05ccdef",
         "b733ebd6-d510-4b43-85ec-136c17cde350"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d15342f8-7f33-4d5f-bf47-3f209560b17f",
         "bc0e62f4-149d-4b92-9962-5f9cbe25fcb3"
@@ -1183,6 +1160,38 @@
         "fc81c8c8-51e5-442e-af18-a5e4c9752224"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "3121e403-089c-4ecb-a6cd-4e13daa3cb2f",
+      "title": "Adult Nursing Support",
+      "occupationCode": null
+    },
+    {
+      "optionId": "72365bf1-de6b-48fb-86dc-c4aaa1aeca79",
+      "title": "Maternity Support",
+      "occupationCode": null
+    },
+    {
+      "optionId": "6736d588-237a-439d-abda-775399d570b4",
+      "title": "Theatre Support",
+      "occupationCode": null
+    },
+    {
+      "optionId": "b278f018-8dea-4028-a6dc-49cdd8242ab8",
+      "title": "Mental Health Support",
+      "occupationCode": null
+    },
+    {
+      "optionId": "dfb1e859-6dbd-404e-b5a9-69d4cae83a17",
+      "title": "Children and Young People Support",
+      "occupationCode": null
+    },
+    {
+      "optionId": "6fc378c2-7c2e-4cee-a5db-bf961e39baa8",
+      "title": "Allied Health Profession Therapy Support",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
