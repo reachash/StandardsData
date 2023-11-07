@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/614",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-06-14T00:00:00Z",
-  "earliestStartDate": "2020-12-16T00:00:00Z",
+  "changedDate": "2022-06-14T00:00:00",
+  "earliestStartDate": "2020-12-16T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Solve real-world problems using a combination of mechanical and electrical engineering expertise.",
@@ -219,7 +219,6 @@
       "detail": "Comply with statutory and organisational safety requirements."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -258,8 +257,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Engineer",
+  "clusterId": "253",
+  "clusterDescription": "Design and develop a range of products and/or process technologies using discipline and applications specific expertise",
   "createdDate": "2020-12-18T08:43:56 +00:00",
   "lastUpdated": "2022-06-14T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/electro-mechanical-engineer-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/electro-mechanical-engineer-v1-0",
   "qualifications": [],
@@ -300,7 +302,7 @@
         "61731e16-b6b8-491c-a9a0-2a1bc8f364cd",
         "ebf9cd4c-6be0-455b-bd24-5564112e1191"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ca0ba443-0234-42a7-afea-9a2b00cf28af",
         "d4512df7-6770-402c-b952-461d3443ddea",
@@ -340,7 +342,7 @@
         "250c282b-d2db-4eb6-86d2-0ad957d4be63",
         "9b20998f-c853-4039-9720-06499c2f9ad7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ca0ba443-0234-42a7-afea-9a2b00cf28af",
         "d4512df7-6770-402c-b952-461d3443ddea",
@@ -375,7 +377,7 @@
         "819cf07a-73ea-400f-93e6-12f065e8f44f",
         "9b20998f-c853-4039-9720-06499c2f9ad7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ca0ba443-0234-42a7-afea-9a2b00cf28af",
         "5e0025cb-a460-480f-861e-b288d63c2c87",
@@ -404,7 +406,7 @@
         "7490c011-04a3-4325-a67c-d547f887cd8f",
         "250c282b-d2db-4eb6-86d2-0ad957d4be63"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3478d3fd-b5af-4eca-87e5-2e6e539a6a00",
         "87582cac-7fc1-490d-9f80-ee2738f9c114",
@@ -438,7 +440,7 @@
         "ebf9cd4c-6be0-455b-bd24-5564112e1191",
         "9b20998f-c853-4039-9720-06499c2f9ad7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "87582cac-7fc1-490d-9f80-ee2738f9c114",
         "b12815e9-660e-4d3a-966b-4c2f8cd71bcb",
@@ -465,7 +467,7 @@
         "61731e16-b6b8-491c-a9a0-2a1bc8f364cd",
         "7490c011-04a3-4325-a67c-d547f887cd8f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "55391195-a23d-49b1-b11e-d293d8de60cd",
         "8eb68dde-b569-4ae2-b1b0-e42cf69f8c5a"
@@ -491,7 +493,7 @@
         "4a422311-b365-490b-bf59-ab7f6cf74363",
         "ebf9cd4c-6be0-455b-bd24-5564112e1191"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "55391195-a23d-49b1-b11e-d293d8de60cd",
         "87582cac-7fc1-490d-9f80-ee2738f9c114",
@@ -525,7 +527,7 @@
         "7490c011-04a3-4325-a67c-d547f887cd8f",
         "4a422311-b365-490b-bf59-ab7f6cf74363"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ca0ba443-0234-42a7-afea-9a2b00cf28af",
         "d4512df7-6770-402c-b952-461d3443ddea",
@@ -554,7 +556,7 @@
         "51375aac-1d9b-4b6f-8400-a0b1d2b0f377",
         "ebf9cd4c-6be0-455b-bd24-5564112e1191"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ca0ba443-0234-42a7-afea-9a2b00cf28af",
         "5e0025cb-a460-480f-861e-b288d63c2c87",
@@ -581,7 +583,7 @@
         "51375aac-1d9b-4b6f-8400-a0b1d2b0f377",
         "250c282b-d2db-4eb6-86d2-0ad957d4be63"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ca0ba443-0234-42a7-afea-9a2b00cf28af",
         "5e0025cb-a460-480f-861e-b288d63c2c87",
@@ -609,7 +611,7 @@
         "bf214fd4-86b0-447c-b142-2f84e1498f9f",
         "51375aac-1d9b-4b6f-8400-a0b1d2b0f377"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5e0025cb-a460-480f-861e-b288d63c2c87",
         "5192deaa-d0a7-4e5c-af4d-d702f0488904",
@@ -618,6 +620,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
