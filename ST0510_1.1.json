@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/381",
   "versionNumber": "1.1",
   "change": "End-point assessment plan and funding revised",
-  "changedDate": "2022-10-31T00:00:00Z",
-  "earliestStartDate": "2023-01-23T00:00:00Z",
+  "changedDate": "2022-10-31T00:00:00",
+  "earliestStartDate": "2023-01-23T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Protecting vulnerable children and adults from harm or abuse, and supporting adults to live independently.",
@@ -402,7 +402,6 @@
       "detail": "Promote the use of technology to achieve better outcomes."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -432,8 +431,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Care Services",
   "cluster": "Care Services Professional",
+  "clusterId": "44",
+  "clusterDescription": "Lead, manage and deliver a whole care process to support clients including their assurance and improvement often requiring specialist care expertise.",
   "createdDate": "2023-09-20T13:52:21 +00:00",
   "lastUpdated": "2022-10-31T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/social-worker-integrated-degree-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/social-worker-integrated-degree-v1-1",
   "qualifications": [],
@@ -470,7 +472,7 @@
         "776bb62d-dcbf-4fb1-b3d1-4bfa549f22d4",
         "60554a17-0dbf-4774-9174-d2276cfe9c57"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5c9543ee-6454-4dcc-b84e-91cc2658af38",
         "612531a3-5a8c-4cbe-84c3-8418c081f864",
@@ -507,7 +509,7 @@
         "2529ffba-6306-4452-945f-84b19825c675",
         "776bb62d-dcbf-4fb1-b3d1-4bfa549f22d4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "84c14015-0395-46a6-ba4c-f0df4f67ea76",
         "622babc5-d89d-42c1-8ccf-0540569add95",
@@ -545,7 +547,7 @@
         "776bb62d-dcbf-4fb1-b3d1-4bfa549f22d4",
         "a996ee09-0687-4774-9cd1-5a91b6eaf9eb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "84c14015-0395-46a6-ba4c-f0df4f67ea76",
         "5c9543ee-6454-4dcc-b84e-91cc2658af38",
@@ -581,7 +583,7 @@
         "2529ffba-6306-4452-945f-84b19825c675",
         "776bb62d-dcbf-4fb1-b3d1-4bfa549f22d4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "105074cf-c749-4493-b7f9-33fd9ccfecab",
         "103dc817-be15-4eb0-bc96-740f43598143",
@@ -618,7 +620,7 @@
         "776bb62d-dcbf-4fb1-b3d1-4bfa549f22d4",
         "60554a17-0dbf-4774-9174-d2276cfe9c57"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "612531a3-5a8c-4cbe-84c3-8418c081f864",
         "ee719b2e-3baa-4241-ae8f-55eb184b1c21",
@@ -661,7 +663,7 @@
         "776bb62d-dcbf-4fb1-b3d1-4bfa549f22d4",
         "60554a17-0dbf-4774-9174-d2276cfe9c57"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "612531a3-5a8c-4cbe-84c3-8418c081f864",
         "ee719b2e-3baa-4241-ae8f-55eb184b1c21",
@@ -704,7 +706,7 @@
         "776bb62d-dcbf-4fb1-b3d1-4bfa549f22d4",
         "60554a17-0dbf-4774-9174-d2276cfe9c57"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "612531a3-5a8c-4cbe-84c3-8418c081f864",
         "ee719b2e-3baa-4241-ae8f-55eb184b1c21",
@@ -745,7 +747,7 @@
         "531c9ea8-c787-4797-9d13-36af9cf2a90c",
         "776bb62d-dcbf-4fb1-b3d1-4bfa549f22d4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "84c14015-0395-46a6-ba4c-f0df4f67ea76",
         "b482cfee-15f0-4a6d-86ce-dd9a0f945c3e",
@@ -784,7 +786,7 @@
         "7930caae-bb4c-4a85-b745-c42e86692da6",
         "d35633c6-138a-4906-99fb-6d8e93db322e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "84c14015-0395-46a6-ba4c-f0df4f67ea76",
         "622babc5-d89d-42c1-8ccf-0540569add95",
@@ -825,7 +827,7 @@
         "7930caae-bb4c-4a85-b745-c42e86692da6",
         "d35633c6-138a-4906-99fb-6d8e93db322e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "105074cf-c749-4493-b7f9-33fd9ccfecab",
         "3c562ec5-86b4-483f-97c6-4b53b48cc22d",
@@ -862,7 +864,7 @@
         "60554a17-0dbf-4774-9174-d2276cfe9c57",
         "a996ee09-0687-4774-9cd1-5a91b6eaf9eb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3c562ec5-86b4-483f-97c6-4b53b48cc22d",
         "e0947226-fd25-44b2-9152-114e5cba70aa",
@@ -898,7 +900,7 @@
         "a996ee09-0687-4774-9cd1-5a91b6eaf9eb",
         "7930caae-bb4c-4a85-b745-c42e86692da6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b8e93f93-fb87-4f04-8fd6-c25ddf9cf401",
         "3c562ec5-86b4-483f-97c6-4b53b48cc22d",
@@ -932,7 +934,7 @@
         "a996ee09-0687-4774-9cd1-5a91b6eaf9eb",
         "7930caae-bb4c-4a85-b745-c42e86692da6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b8e93f93-fb87-4f04-8fd6-c25ddf9cf401",
         "3c562ec5-86b4-483f-97c6-4b53b48cc22d",
@@ -966,7 +968,7 @@
         "b694bd55-ac3c-4d4b-929d-75e1d3a33393",
         "f90972c2-e006-403c-b2e3-43d74bfe88e9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2b56b419-94fe-4af3-81c0-0247bf42bd35",
         "18f558f4-268d-4714-9bcd-fc00a19258f3",
@@ -1000,7 +1002,7 @@
         "7930caae-bb4c-4a85-b745-c42e86692da6",
         "d35633c6-138a-4906-99fb-6d8e93db322e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "622babc5-d89d-42c1-8ccf-0540569add95",
         "2b56b419-94fe-4af3-81c0-0247bf42bd35",
@@ -1035,7 +1037,7 @@
         "d35633c6-138a-4906-99fb-6d8e93db322e",
         "4439efce-6c32-40ed-aa3f-51daa94adbf2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5c9543ee-6454-4dcc-b84e-91cc2658af38",
         "aa232ce2-0601-4b48-a03a-f3356277d422",
@@ -1072,7 +1074,7 @@
         "b694bd55-ac3c-4d4b-929d-75e1d3a33393",
         "f90972c2-e006-403c-b2e3-43d74bfe88e9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "622babc5-d89d-42c1-8ccf-0540569add95",
         "2b56b419-94fe-4af3-81c0-0247bf42bd35",
@@ -1109,7 +1111,7 @@
         "b694bd55-ac3c-4d4b-929d-75e1d3a33393",
         "f90972c2-e006-403c-b2e3-43d74bfe88e9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "84c14015-0395-46a6-ba4c-f0df4f67ea76",
         "2b56b419-94fe-4af3-81c0-0247bf42bd35",
@@ -1152,7 +1154,7 @@
         "7930caae-bb4c-4a85-b745-c42e86692da6",
         "b694bd55-ac3c-4d4b-929d-75e1d3a33393"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "84c14015-0395-46a6-ba4c-f0df4f67ea76",
         "2b56b419-94fe-4af3-81c0-0247bf42bd35",
@@ -1172,6 +1174,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training Provider",
