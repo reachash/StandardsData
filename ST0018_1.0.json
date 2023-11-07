@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/314",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-12-01T00:00:00Z",
-  "earliestStartDate": "2018-07-19T00:00:00Z",
+  "changedDate": "2022-12-01T00:00:00",
+  "earliestStartDate": "2018-07-19T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Optimising crop/plant yields whilst maintaining and improving the surrounding environment.",
@@ -229,16 +229,6 @@
       "detail": "Maintenance of non-productive areas"
     }
   ],
-  "options": [
-    {
-      "optionId": "cd6893d4-b81b-48d2-bd00-3d6a39d3cce9",
-      "title": "Container Based System"
-    },
-    {
-      "optionId": "6c57db24-db8d-4561-b072-3ba2166df71b",
-      "title": "Soil Based System"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Container Based System",
     "Soil Based System"
@@ -272,13 +262,28 @@
   "reviewDetails": "",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Production Horticulture Operative/Technician",
+  "clusterId": "165",
+  "clusterDescription": "Propagation, production, preparation and delivery/distribution of plants and plant materials for food, non-food and therapeutic human use",
   "createdDate": "2017-11-14T17:10:40 +00:00",
   "lastUpdated": "2022-12-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/crop-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/crop-technician-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "cd6893d4-b81b-48d2-bd00-3d6a39d3cce9",
+      "title": "Container Based System",
+      "occupationCode": null
+    },
+    {
+      "optionId": "6c57db24-db8d-4561-b072-3ba2166df71b",
+      "title": "Soil Based System",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
