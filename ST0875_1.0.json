@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/679",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-08-22T00:00:00Z",
-  "earliestStartDate": "2022-06-01T00:00:00Z",
+  "changedDate": "2022-08-22T00:00:00",
+  "earliestStartDate": "2022-06-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Leading the engineering function for small vessels (less than 9000 Kilowatt and less than 3,000 Gross Tonnage) unlimited area. ",
@@ -349,7 +349,6 @@
       "detail": "Use information technology for example, word processing, spreadsheets, email, and presentation.  "
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -380,8 +379,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Installation, Service, Repair and/or Overhaul Advanced Technician",
+  "clusterId": "97",
+  "clusterDescription": "Install, maintain and service plant and equipment using application and/or context specific expertise",
   "createdDate": "2022-10-24T13:31:00 +00:00",
   "lastUpdated": "2022-08-22T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/small-vessel-chief-engineer-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/small-vessel-chief-engineer-v1-0",
   "qualifications": [
@@ -437,7 +439,7 @@
         "103949f1-23e4-4c79-ac13-576ca9235c59",
         "65252f89-da2f-410b-b359-65c1f6e6befc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3333a8d8-08b1-4241-b9d6-28f196b22e4a",
         "cc95b79f-a27e-4139-a816-8193036d00df",
@@ -483,7 +485,7 @@
         "103949f1-23e4-4c79-ac13-576ca9235c59",
         "65252f89-da2f-410b-b359-65c1f6e6befc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "555d4420-cff4-4c9c-a929-64af5fdc7f3d",
         "249a0479-f2a2-4245-b2bb-d7ec821274ca",
@@ -532,7 +534,7 @@
         "103949f1-23e4-4c79-ac13-576ca9235c59",
         "65252f89-da2f-410b-b359-65c1f6e6befc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "249a0479-f2a2-4245-b2bb-d7ec821274ca",
         "b05e5924-c470-4afe-bf12-488042c5a73a",
@@ -578,7 +580,7 @@
         "103949f1-23e4-4c79-ac13-576ca9235c59",
         "65252f89-da2f-410b-b359-65c1f6e6befc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f604c47a-764b-40e2-96fd-c9be31fc698a",
         "59d3c553-9ea6-45db-bf22-cfe65a8511b0",
@@ -613,7 +615,7 @@
         "103949f1-23e4-4c79-ac13-576ca9235c59",
         "65252f89-da2f-410b-b359-65c1f6e6befc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "249a0479-f2a2-4245-b2bb-d7ec821274ca",
         "b05e5924-c470-4afe-bf12-488042c5a73a",
@@ -662,7 +664,7 @@
         "103949f1-23e4-4c79-ac13-576ca9235c59",
         "65252f89-da2f-410b-b359-65c1f6e6befc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "249a0479-f2a2-4245-b2bb-d7ec821274ca",
         "b05e5924-c470-4afe-bf12-488042c5a73a",
@@ -692,7 +694,7 @@
         "acf6ce0e-dc53-49ae-8f10-79ae1d1d3e2b",
         "784f95ce-1b00-4c1e-8144-8499a9ade0bf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "249a0479-f2a2-4245-b2bb-d7ec821274ca",
         "b05e5924-c470-4afe-bf12-488042c5a73a",
@@ -726,7 +728,7 @@
         "acf6ce0e-dc53-49ae-8f10-79ae1d1d3e2b",
         "4935ff5d-1eab-4f58-a57d-3dc17bef1df0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "249a0479-f2a2-4245-b2bb-d7ec821274ca",
         "b05e5924-c470-4afe-bf12-488042c5a73a",
@@ -756,7 +758,7 @@
         "65252f89-da2f-410b-b359-65c1f6e6befc",
         "78789dd3-ce7a-44e3-966c-882cf8084331"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "249a0479-f2a2-4245-b2bb-d7ec821274ca",
         "b05e5924-c470-4afe-bf12-488042c5a73a",
@@ -783,7 +785,7 @@
         "103949f1-23e4-4c79-ac13-576ca9235c59",
         "65252f89-da2f-410b-b359-65c1f6e6befc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "249a0479-f2a2-4245-b2bb-d7ec821274ca",
         "b05e5924-c470-4afe-bf12-488042c5a73a",
@@ -812,7 +814,7 @@
         "78789dd3-ce7a-44e3-966c-882cf8084331",
         "3099cf04-b689-402a-a40f-26d02255f059"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "249a0479-f2a2-4245-b2bb-d7ec821274ca",
         "b05e5924-c470-4afe-bf12-488042c5a73a",
@@ -840,7 +842,7 @@
         "103949f1-23e4-4c79-ac13-576ca9235c59",
         "65252f89-da2f-410b-b359-65c1f6e6befc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "249a0479-f2a2-4245-b2bb-d7ec821274ca",
         "b05e5924-c470-4afe-bf12-488042c5a73a",
@@ -873,7 +875,7 @@
         "65252f89-da2f-410b-b359-65c1f6e6befc",
         "784f95ce-1b00-4c1e-8144-8499a9ade0bf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7e1109c-2a3f-4a95-a195-3e3e5f736ac1",
         "3f8dfa71-c0d0-4687-aad8-824d0a1db559",
@@ -903,7 +905,7 @@
         "103949f1-23e4-4c79-ac13-576ca9235c59",
         "65252f89-da2f-410b-b359-65c1f6e6befc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "249a0479-f2a2-4245-b2bb-d7ec821274ca",
         "b05e5924-c470-4afe-bf12-488042c5a73a",
@@ -938,7 +940,7 @@
         "78789dd3-ce7a-44e3-966c-882cf8084331",
         "3099cf04-b689-402a-a40f-26d02255f059"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "249a0479-f2a2-4245-b2bb-d7ec821274ca",
         "b05e5924-c470-4afe-bf12-488042c5a73a",
@@ -975,7 +977,7 @@
         "78789dd3-ce7a-44e3-966c-882cf8084331",
         "3099cf04-b689-402a-a40f-26d02255f059"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "249a0479-f2a2-4245-b2bb-d7ec821274ca",
         "b05e5924-c470-4afe-bf12-488042c5a73a",
@@ -1005,7 +1007,7 @@
         "103949f1-23e4-4c79-ac13-576ca9235c59",
         "65252f89-da2f-410b-b359-65c1f6e6befc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "249a0479-f2a2-4245-b2bb-d7ec821274ca",
         "b05e5924-c470-4afe-bf12-488042c5a73a",
@@ -1036,7 +1038,7 @@
         "acf6ce0e-dc53-49ae-8f10-79ae1d1d3e2b",
         "4935ff5d-1eab-4f58-a57d-3dc17bef1df0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "249a0479-f2a2-4245-b2bb-d7ec821274ca",
         "b05e5924-c470-4afe-bf12-488042c5a73a",
@@ -1050,7 +1052,7 @@
       "dutyID": "e56ebaa4-8d55-44e3-9777-2616a49ded7d",
       "dutyDetail": "Manage and lead the engineering team onboard including external contractors such as manufacturers’ representatives.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "f25b09ca-7192-4fc8-9804-9f2b8d824ce8",
         "0c619edb-9d17-4a36-99ef-6342579369a9",
@@ -1063,11 +1065,12 @@
         "4935ff5d-1eab-4f58-a57d-3dc17bef1df0",
         "784f95ce-1b00-4c1e-8144-8499a9ade0bf"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training Provider",
