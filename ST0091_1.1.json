@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/199",
   "versionNumber": "1.1",
   "change": "Funding band, standard and end-point assessment plan revised.",
-  "changedDate": "2022-03-04T00:00:00Z",
-  "earliestStartDate": "2021-07-14T00:00:00Z",
+  "changedDate": "2022-03-04T00:00:00",
+  "earliestStartDate": "2021-07-14T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing technical support to engineers and other construction professionals.",
@@ -171,7 +171,6 @@
       "detail": "Plan, undertake and review their own professional competence, regularly updating and reviewing their CPD to improve performance"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -209,10 +208,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Design, Surveying & Planning",
-  "cluster": "Design & Surveying Technician",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2022-02-25T14:07:25 +00:00",
   "lastUpdated": "2022-03-04T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/civil-engineering-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/civil-engineering-technician-v1-1",
   "qualifications": [
@@ -268,7 +270,7 @@
         "fc67f142-3e93-4c23-aea4-f6f4caede3b8",
         "14657230-6072-4486-b0b9-78301e7b1b34"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e57ebce6-23d1-48bb-adfe-76d1839a886f",
         "5a3a503b-ec0f-4aad-bccf-31ef769be589",
@@ -288,7 +290,7 @@
         "646f84b8-b2fe-4ea2-a578-56be2ac4406c",
         "2b16ce24-2e79-4306-954b-28e71c4c740e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e57ebce6-23d1-48bb-adfe-76d1839a886f",
         "5a3a503b-ec0f-4aad-bccf-31ef769be589"
@@ -307,7 +309,7 @@
         "48e51b1f-e522-4e8e-b02c-0093a03ffbd1",
         "14657230-6072-4486-b0b9-78301e7b1b34"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "14edfa6e-3f3f-41d2-9b98-f77fb47d2a5a",
         "162a36a1-1944-49d8-a72c-3293554490aa"
@@ -324,7 +326,7 @@
       "mappedKnowledge": [
         "aa128ff2-d006-4c7b-8f3f-d5a328550d51"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a1419180-8bf5-47a0-b083-b3f4bc3037a8"
       ],
@@ -340,7 +342,7 @@
       "mappedKnowledge": [
         "14657230-6072-4486-b0b9-78301e7b1b34"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "162a36a1-1944-49d8-a72c-3293554490aa"
       ],
@@ -356,7 +358,7 @@
       "mappedKnowledge": [
         "abf1b591-de71-4689-8299-4a98001d8441"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ee12a7ef-baab-4712-99fe-237bec156776"
       ],
@@ -373,7 +375,7 @@
         "821823e2-f3b2-48e9-915c-44f179964b7d",
         "620de84e-d323-4c7b-9bbf-972e75811d32"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "80ad0b8a-2964-4eec-ae4d-6a0acbec8119",
         "d114deda-daa2-4374-8bd0-9369f9bf7715",
@@ -391,7 +393,7 @@
       "mappedKnowledge": [
         "7315475c-6f33-4b6c-a9f9-c6aa51dceb2e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9cdab50b-01be-419e-b9f7-b4a806dd0fb2"
       ],
@@ -409,20 +411,20 @@
       "mappedKnowledge": [
         "821823e2-f3b2-48e9-915c-44f179964b7d"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "dcd76311-7a3c-4a36-b5fd-736093c2268b",
       "dutyDetail": "Ensure compliance with equality, diversity & inclusion (EDI) and ethical standards ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "06b00ea3-8b15-4dae-bf0a-cbeb29780c0b",
         "620de84e-d323-4c7b-9bbf-972e75811d32"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4fc567f6-1aca-4483-a697-ee298992bb48",
         "0c68a133-5624-4a90-b14b-b5dd6f021bd8"
@@ -439,13 +441,14 @@
       "mappedKnowledge": [
         "5fe90c10-e11d-41c8-aa15-7cde12d57601"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "427a9812-484c-4207-952e-4455a5e038e5"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
