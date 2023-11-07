@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/178",
   "versionNumber": "1.1",
   "change": "End-point assessment plan, funding band and standard revised.",
-  "changedDate": "2022-07-05T00:00:00Z",
-  "earliestStartDate": "2022-01-27T00:00:00Z",
+  "changedDate": "2022-07-05T00:00:00",
+  "earliestStartDate": "2022-01-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Supporting engineers, surveyors and architects on construction projects.",
@@ -173,7 +173,6 @@
       "detail": "Plan, undertake and review their own professional competence, regularly updating and reviewing their CPD to improve performance"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -212,10 +211,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years&lt;/span&gt;&lt;/p&gt;",
-  "pathway": "Building Services Engineering",
-  "cluster": "Building Services Engineering Operative/Technician",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2022-01-27T11:29:34 +00:00",
   "lastUpdated": "2022-07-05T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/building-services-engineering-technician-2022-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/building-services-engineering-technician-2022-v1-1",
   "qualifications": [
@@ -273,7 +275,7 @@
         "d5a9c6c2-2629-4442-82db-965c30a48fd9",
         "d47f2b32-f6d8-4bb7-82de-049c22f83bc2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "984d5b3e-2050-4e20-85c0-a483cff9a901",
         "1a1a0ec2-4c25-4c81-9c05-5aaa0e08d8b2",
@@ -293,7 +295,7 @@
         "a51134dc-09ec-43fd-8750-1a86692dc4e3",
         "190f78d8-e2fa-4544-b418-30618dac3280"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "984d5b3e-2050-4e20-85c0-a483cff9a901",
         "1a1a0ec2-4c25-4c81-9c05-5aaa0e08d8b2"
@@ -313,7 +315,7 @@
         "59afaee9-4abe-4a02-bfe1-b76390567027",
         "d47f2b32-f6d8-4bb7-82de-049c22f83bc2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a9cc0fa2-fd7b-41f8-bed1-09a5181fe7a3",
         "679ccebb-2e3e-4a82-84f3-d336a02142ba"
@@ -330,7 +332,7 @@
       "mappedKnowledge": [
         "2178f04b-6c35-460a-a754-85c8082e7d3d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8785722c-8e1d-4742-8548-85463555af89"
       ],
@@ -348,7 +350,7 @@
       "mappedKnowledge": [
         "d47f2b32-f6d8-4bb7-82de-049c22f83bc2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "679ccebb-2e3e-4a82-84f3-d336a02142ba"
       ],
@@ -364,7 +366,7 @@
       "mappedKnowledge": [
         "8d56ee3e-9f45-468d-b3ab-48f0b8d0d282"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cea5a639-d005-46cb-9005-b16c5c404f53"
       ],
@@ -382,7 +384,7 @@
         "e7d512be-868b-4584-afc2-76a51c23c052",
         "5c9428b2-450f-4e7e-9ed0-6b0cce473ac1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "84bb74dd-ce70-4cf1-9e44-fc9db459bd05",
         "6f85b2cf-fdc1-426e-8ca0-9e982acb952b",
@@ -401,7 +403,7 @@
       "mappedKnowledge": [
         "e084b838-333a-4b55-851d-5e01f2445f6c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ece8a144-6c5b-484e-9ba6-d1f1e6667806"
       ],
@@ -419,7 +421,7 @@
       "mappedKnowledge": [
         "e7d512be-868b-4584-afc2-76a51c23c052"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "84bb74dd-ce70-4cf1-9e44-fc9db459bd05"
       ],
@@ -429,12 +431,12 @@
       "dutyID": "5468f5bb-2bf6-40a9-a99d-a79b482cb0dd",
       "dutyDetail": "Ensure compliance with equality, diversity & inclusion (EDI) and ethical standards ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "13b217ac-b957-48c8-a831-8989f3671c47",
         "5c9428b2-450f-4e7e-9ed0-6b0cce473ac1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9de8b4c-0f17-40a0-ab41-430b7fd43f9a",
         "f6cc7903-3ad6-47dc-a762-008b42a7c13a"
@@ -451,13 +453,14 @@
       "mappedKnowledge": [
         "3e384db3-4543-462b-8f40-760527d588bb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "eaadc92b-7644-4a36-aa64-2db53f189001"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
