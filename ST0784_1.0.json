@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/620",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-07-26T00:00:00Z",
-  "earliestStartDate": "2021-05-06T00:00:00Z",
+  "changedDate": "2021-07-26T00:00:00",
+  "earliestStartDate": "2021-05-06T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Operate, monitor and control the nuclear reactor and associated equipment in normal operational mode, as well as abnormal conditions.",
@@ -231,7 +231,6 @@
       "detail": "Time management. For example planning and scheduling work."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -265,8 +264,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Plant and Process Engineer",
+  "clusterId": "266",
+  "clusterDescription": "Develop and improve the operation and development of manufacturing processes and systems and enable them to operate safely and efficiently",
   "createdDate": "2021-11-26T15:06:32 +00:00",
   "lastUpdated": "2021-07-26T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/nuclear-reactor-desk-engineer-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/nuclear-reactor-desk-engineer-v1-0",
   "qualifications": [],
@@ -296,7 +298,7 @@
         "e0081b34-8c1b-4101-9ccf-56ad0e1aac46",
         "b4999164-d5be-4e73-8465-bd8e45d15c92"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "56fc9cbb-aa0b-4b21-a0b3-acc4275d1738",
         "54c2dce1-4161-4654-9584-521ee8e26df7",
@@ -321,7 +323,7 @@
         "5545461f-ede8-4a14-a86c-2980ac93ea63",
         "6dbdc293-791d-48e8-9151-367a3b636d12"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "56fc9cbb-aa0b-4b21-a0b3-acc4275d1738",
         "54c2dce1-4161-4654-9584-521ee8e26df7",
@@ -345,7 +347,7 @@
         "03e02069-9db2-45a1-8705-8b2e6acf8736",
         "47ffd2dd-263b-4271-9a7b-113a7731c3b7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "56fc9cbb-aa0b-4b21-a0b3-acc4275d1738",
         "54c2dce1-4161-4654-9584-521ee8e26df7",
@@ -375,7 +377,7 @@
         "82530aff-4f63-4a7b-bcf8-2d4a91d93e62",
         "a11bde83-6d27-4d7d-bf77-26165380e5ae"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a42254a1-7b0a-4ffa-9ef2-dbc003595942",
         "56fc9cbb-aa0b-4b21-a0b3-acc4275d1738",
@@ -404,7 +406,7 @@
         "82530aff-4f63-4a7b-bcf8-2d4a91d93e62",
         "a11bde83-6d27-4d7d-bf77-26165380e5ae"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a42254a1-7b0a-4ffa-9ef2-dbc003595942",
         "56fc9cbb-aa0b-4b21-a0b3-acc4275d1738",
@@ -433,7 +435,7 @@
         "82530aff-4f63-4a7b-bcf8-2d4a91d93e62",
         "a11bde83-6d27-4d7d-bf77-26165380e5ae"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a42254a1-7b0a-4ffa-9ef2-dbc003595942",
         "56fc9cbb-aa0b-4b21-a0b3-acc4275d1738",
@@ -462,7 +464,7 @@
         "03e02069-9db2-45a1-8705-8b2e6acf8736",
         "b4999164-d5be-4e73-8465-bd8e45d15c92"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0d2683cd-d2a3-4dc7-b36f-d39a5920edee",
         "563d029b-0947-418d-9f37-8b2addafa5e6",
@@ -489,7 +491,7 @@
         "b4999164-d5be-4e73-8465-bd8e45d15c92",
         "47ffd2dd-263b-4271-9a7b-113a7731c3b7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "563d029b-0947-418d-9f37-8b2addafa5e6",
         "67042d20-1c4d-40db-bbd4-059e2ca809bc"
@@ -516,7 +518,7 @@
         "6c0a6717-54b2-4299-8d5a-16860afed2d8",
         "6dbdc293-791d-48e8-9151-367a3b636d12"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "563d029b-0947-418d-9f37-8b2addafa5e6",
         "7313db72-e402-4645-9aff-be5f3c143d88",
@@ -544,7 +546,7 @@
         "e3758dbc-f795-4ca0-b9bc-5f2ef606a20c",
         "b4999164-d5be-4e73-8465-bd8e45d15c92"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a42254a1-7b0a-4ffa-9ef2-dbc003595942",
         "563d029b-0947-418d-9f37-8b2addafa5e6",
@@ -571,7 +573,7 @@
         "a11bde83-6d27-4d7d-bf77-26165380e5ae",
         "6dbdc293-791d-48e8-9151-367a3b636d12"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9c1a88e-0938-4799-adbc-0b0984ab4e47",
         "563d029b-0947-418d-9f37-8b2addafa5e6"
@@ -594,7 +596,7 @@
         "5545461f-ede8-4a14-a86c-2980ac93ea63",
         "47ffd2dd-263b-4271-9a7b-113a7731c3b7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9c1a88e-0938-4799-adbc-0b0984ab4e47",
         "563d029b-0947-418d-9f37-8b2addafa5e6"
@@ -602,6 +604,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
