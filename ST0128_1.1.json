@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/154",
   "versionNumber": "1.1",
   "change": "End-point assessment plan, standard and funding band revised.",
-  "changedDate": "2022-04-05T00:00:00Z",
-  "earliestStartDate": "2022-05-16T00:00:00Z",
+  "changedDate": "2022-04-05T00:00:00",
+  "earliestStartDate": "2022-05-16T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Building simple applications for use in larger software developments.",
@@ -299,7 +299,6 @@
       "detail": "Use collaboration tools and technologies for writing technical documentation for, and adapting to, specific audience(s). e.g., technical, non-technical, internal, external"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -338,8 +337,11 @@
   "reviewDetails": "",
   "pathway": "Digital Production, Design and Development",
   "cluster": "Software Development Technician",
+  "clusterId": "196",
+  "clusterDescription": "Build simple software components (web, mobile, desktop applications) as a part of larger software development project. Interpret simple design requirements and testing to ensure components meet their intended functionality",
   "createdDate": "2022-05-04T10:14:41 +00:00",
   "lastUpdated": "2022-04-05T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/software-development-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/software-development-technician-v1-1",
   "qualifications": [],
@@ -366,7 +368,7 @@
         "e2e84ff7-9cc3-4c22-8a21-6f3e4cb0f2b1",
         "90b17626-35e9-44b7-8122-0b40e0f2c302"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e0c6ddcb-bbd4-4f5d-a006-0cfaf9c995f0",
         "a245e64e-4c71-42c9-8b96-0c21b0f10961",
@@ -396,7 +398,7 @@
         "54a9cb1e-c6a0-4456-92f4-c4ca0e3ca02b",
         "4f61e291-e447-4b72-a9d5-27b9bf9275e3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7f6b8e59-0dbc-49d2-b889-697fec36f45c",
         "46d03578-ebcc-4a3a-a1dd-64b6cce3ca3e",
@@ -428,7 +430,7 @@
         "e2e84ff7-9cc3-4c22-8a21-6f3e4cb0f2b1",
         "90b17626-35e9-44b7-8122-0b40e0f2c302"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ac542058-81e9-40a9-8383-cc72fc500748",
         "7c206cf5-9be1-47f4-86f2-75cad95b6655",
@@ -449,14 +451,14 @@
       "dutyID": "ccfaa885-9f02-4b1d-b655-8e881bc67474",
       "dutyDetail": "Follow instructions to convert customer requirements to technical requirements",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
         "025829ed-b514-4f6f-be57-3dba7b1b2f08",
         "e774ef28-8700-4b82-96a5-86d336444e87",
         "b729f5af-f948-4de3-89c1-f76f418e4559"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e0c6ddcb-bbd4-4f5d-a006-0cfaf9c995f0",
         "fdae65d9-55d3-4928-a1b7-753964e1e984"
@@ -475,7 +477,7 @@
         "54a9cb1e-c6a0-4456-92f4-c4ca0e3ca02b",
         "e2e84ff7-9cc3-4c22-8a21-6f3e4cb0f2b1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ac542058-81e9-40a9-8383-cc72fc500748",
         "7f6b8e59-0dbc-49d2-b889-697fec36f45c",
@@ -487,7 +489,7 @@
       "dutyID": "9414fc3c-7a54-4201-969c-686f506288ad",
       "dutyDetail": "Identify and implement security features of a proposed design",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "b729f5af-f948-4de3-89c1-f76f418e4559",
         "dec92b10-0b1f-4111-a37b-02f7918ff475",
@@ -498,7 +500,7 @@
         "55667e21-7564-4644-87c2-8d30e223b2ad",
         "1141d603-a1d6-494f-8a77-f48d4f38a6b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e0c6ddcb-bbd4-4f5d-a006-0cfaf9c995f0",
         "7c206cf5-9be1-47f4-86f2-75cad95b6655",
@@ -514,13 +516,13 @@
       "dutyID": "4feb4ad9-3491-48e8-92cd-c77e04ad562e",
       "dutyDetail": " Write logical and maintainable software solutions in line with given specifications to meet the design requirements and organisational coding standards",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
         "dec92b10-0b1f-4111-a37b-02f7918ff475",
         "3e803779-0c08-4ed7-b4f0-497888e3d075"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3225e04d-1918-4065-805a-d9392ed55088"
       ],
@@ -540,7 +542,7 @@
         "1141d603-a1d6-494f-8a77-f48d4f38a6b0",
         "5e63245b-cc69-4a3c-9802-53dc5103676d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7c206cf5-9be1-47f4-86f2-75cad95b6655",
         "deaaf579-3b66-4dc8-822f-f30904e1dd27",
@@ -552,7 +554,7 @@
       "dutyID": "fbb817d0-7f4e-420f-8a0d-74944cdd3fa8",
       "dutyDetail": "Maintain appropriate project documentation throughout the software development tasks",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
         "025829ed-b514-4f6f-be57-3dba7b1b2f08",
@@ -561,7 +563,7 @@
         "f07daef2-3c01-4413-8aa1-3fa0f7233ac3",
         "54a9cb1e-c6a0-4456-92f4-c4ca0e3ca02b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7f6b8e59-0dbc-49d2-b889-697fec36f45c",
         "7a30ae78-23b5-4f26-8d21-1ff1f647bd0d",
@@ -578,8 +580,8 @@
       "mappedBehaviour": [
         "8dc99ed2-908e-4249-a572-34d9e714661e"
       ],
-      "mappedKnowledge": null,
-      "mappedOptions": null,
+      "mappedKnowledge": [],
+      "mappedOptions": [],
       "mappedSkills": [
         "95a86163-2b11-40b2-8e82-a2be943a81eb"
       ],
@@ -589,14 +591,14 @@
       "dutyID": "5a2fdd69-0452-40cc-aa4d-c93cdcd600e1",
       "dutyDetail": "Undertake unit testing of solutions, with appropriate levels of test code coverage, to identify and, where necessary, escalate issues",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
         "025829ed-b514-4f6f-be57-3dba7b1b2f08",
         "55667e21-7564-4644-87c2-8d30e223b2ad",
         "c326e117-717a-4738-bb56-fe533f1845e1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "833f469e-39ce-419c-887f-e3a89ad34d09",
         "7c206cf5-9be1-47f4-86f2-75cad95b6655",
@@ -622,7 +624,7 @@
         "55667e21-7564-4644-87c2-8d30e223b2ad",
         "c326e117-717a-4738-bb56-fe533f1845e1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7c206cf5-9be1-47f4-86f2-75cad95b6655",
         "56b15d9d-ab4b-4bf6-a208-6a67c39a3118",
@@ -634,7 +636,7 @@
       "dutyID": "f3e4a020-d8ef-461b-92f0-c4cb58ee9c50",
       "dutyDetail": " Support delivery of deployment phases, including trials and final release.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
         "025829ed-b514-4f6f-be57-3dba7b1b2f08",
@@ -645,7 +647,7 @@
         "54a9cb1e-c6a0-4456-92f4-c4ca0e3ca02b",
         "90b17626-35e9-44b7-8122-0b40e0f2c302"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "70cf36a4-a05e-44fd-b3cb-e0503b84a223",
         "972f700e-5753-42a6-91b3-686c5e84b8b6",
@@ -678,7 +680,7 @@
         "0a338129-d62f-47fe-98bc-34b8beb615b6",
         "c326e117-717a-4738-bb56-fe533f1845e1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "46d03578-ebcc-4a3a-a1dd-64b6cce3ca3e",
         "941f6dd4-0ae1-4a73-8701-d0e6a805821a",
@@ -706,11 +708,12 @@
         "f70dc160-65f5-4cd1-9bb0-00921719c763",
         "90b17626-35e9-44b7-8122-0b40e0f2c302"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
