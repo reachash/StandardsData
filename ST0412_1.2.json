@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/571",
   "versionNumber": "1.2",
   "change": "Standard and end-point assessment plan revised",
-  "changedDate": "2023-09-13T00:00:00Z",
-  "earliestStartDate": "2023-07-25T00:00:00Z",
-  "latestStartDate": "2023-07-25T00:00:00Z",
+  "changedDate": "2023-09-13T00:00:00",
+  "earliestStartDate": "2023-07-25T00:00:00",
+  "latestStartDate": "2023-07-25T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Participate in habitat management, pest and predator control and animal husbandry in support of a shooting enterprise.",
   "level": 2,
@@ -267,7 +267,6 @@
       "detail": "Capable of accurate rifle shooting."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -297,8 +296,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Game and Pest Control Technician",
+  "clusterId": "75",
+  "clusterDescription": "Active and practical management of all wildlife and flora, some of which is unwanted, with a high regard to health and safety",
   "createdDate": "2023-07-25T14:44:54 +00:00",
   "lastUpdated": "2023-09-13T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/underkeeper-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/underkeeper-v1-2",
   "qualifications": [
@@ -344,7 +346,7 @@
         "7b414e79-846e-459b-be52-6313baab8dc3",
         "07482362-3f0a-4b2e-897b-2b8f9351dff2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d4540a-e4f2-4899-b8ba-e06e4df5ecbb",
         "ab6725da-dbad-49ea-ad1e-e9226679d15e",
@@ -380,7 +382,7 @@
         "7b414e79-846e-459b-be52-6313baab8dc3",
         "e10aee49-ed63-4553-90b6-fb8b4cf154d3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d4540a-e4f2-4899-b8ba-e06e4df5ecbb",
         "3d96b75e-5d7f-43d7-8653-80df5d903a7d",
@@ -418,7 +420,7 @@
         "75737602-2653-4fc3-adef-ca66894677e4",
         "cbc4468f-24fa-412a-9072-e8fc1f1ed64f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d4540a-e4f2-4899-b8ba-e06e4df5ecbb",
         "86e85c1c-97d9-423f-9d3b-89d6ca1b6d3f",
@@ -450,7 +452,7 @@
       "mappedKnowledge": [
         "9b000085-43df-4edf-ac2d-2c6b90a2c452"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d4540a-e4f2-4899-b8ba-e06e4df5ecbb",
         "ca04f25b-9c24-42bc-92ed-821093572c64",
@@ -482,7 +484,7 @@
         "75737602-2653-4fc3-adef-ca66894677e4",
         "098ca9f3-1d4c-4842-823f-7f642beec3ea"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d4540a-e4f2-4899-b8ba-e06e4df5ecbb",
         "86e85c1c-97d9-423f-9d3b-89d6ca1b6d3f",
@@ -517,7 +519,7 @@
         "aa339368-816e-485a-b692-a475b364c96a",
         "e10aee49-ed63-4553-90b6-fb8b4cf154d3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2d41d410-666b-41de-ac5c-f0ae9c6273f9",
         "f3e1fb89-96fc-49e1-a024-3f7a1b8f3efd",
@@ -554,7 +556,7 @@
         "a94eeab7-eda6-4261-a3b2-c71023271a62",
         "75737602-2653-4fc3-adef-ca66894677e4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d4540a-e4f2-4899-b8ba-e06e4df5ecbb",
         "940ec877-4e68-4ac0-b4a4-b8cb831d8ff5",
@@ -596,7 +598,7 @@
         "75737602-2653-4fc3-adef-ca66894677e4",
         "f4f096eb-ae33-4032-aa37-ffb35a079c5b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f45a5a09-a40f-4843-9046-8fe4e4d5fca3",
         "c4fd1608-7f0a-4e0a-94cd-1675fb37ecdd"
@@ -621,7 +623,7 @@
         "b442c78c-4782-4297-a57e-194436ed3cfa",
         "75737602-2653-4fc3-adef-ca66894677e4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d4540a-e4f2-4899-b8ba-e06e4df5ecbb",
         "86e85c1c-97d9-423f-9d3b-89d6ca1b6d3f",
@@ -652,7 +654,7 @@
         "a94eeab7-eda6-4261-a3b2-c71023271a62",
         "75737602-2653-4fc3-adef-ca66894677e4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d4540a-e4f2-4899-b8ba-e06e4df5ecbb",
         "86e85c1c-97d9-423f-9d3b-89d6ca1b6d3f",
@@ -686,7 +688,7 @@
         "aa339368-816e-485a-b692-a475b364c96a",
         "e10aee49-ed63-4553-90b6-fb8b4cf154d3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d4540a-e4f2-4899-b8ba-e06e4df5ecbb",
         "940ec877-4e68-4ac0-b4a4-b8cb831d8ff5",
@@ -727,7 +729,7 @@
         "fe721aa8-48b4-4180-991e-98a6a83aebd2",
         "dc01b451-41db-4397-8acb-e0e5f4de4276"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c4fd1608-7f0a-4e0a-94cd-1675fb37ecdd",
         "adb5b3ed-f549-4538-aac5-12cf7bdcad5d"
@@ -746,13 +748,14 @@
       "mappedKnowledge": [
         "a94eeab7-eda6-4261-a3b2-c71023271a62"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "afbb9d65-1376-4ef3-aa6a-b21b74d79832"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
