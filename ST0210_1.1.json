@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/145",
   "versionNumber": "1.1",
   "change": "Standard, end-point assessment and funding band revised.",
-  "changedDate": "2023-03-09T00:00:00Z",
-  "earliestStartDate": "2023-03-01T00:00:00Z",
+  "changedDate": "2023-03-09T00:00:00",
+  "earliestStartDate": "2023-03-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Maintaining and renovating sports surfaces to make sure that public and private sports facilities are available for use.",
@@ -198,7 +198,6 @@
       "detail": "Dispose of waste in a safe and sustainable manner. "
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -230,8 +229,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Landscape Horticulture Operative/Technician",
+  "clusterId": "161",
+  "clusterDescription": "The design, construction and maintenance of gardens, designed landscapes and sports turf facilities for private, commercial and community use",
   "createdDate": "2023-08-23T07:49:58 +00:00",
   "lastUpdated": "2023-03-09T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/sports-turf-operative-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/sports-turf-operative-v1-1",
   "qualifications": [],
@@ -260,7 +262,7 @@
         "ed695b54-9c83-4c55-97b4-4f3408f2d875",
         "95d19bcb-5baf-44fb-9371-2ce7e9c6440c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5ceb55dc-e156-4560-b246-41c2d0fc344b",
         "aa0ac34a-b30e-4ef2-be4c-f78394a6de6d",
@@ -290,7 +292,7 @@
         "5b115031-a7cf-4ba5-adaf-c589c1326567",
         "efab977e-daa7-4a16-930a-3aae847d7d72"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5ceb55dc-e156-4560-b246-41c2d0fc344b",
         "13770809-dfb0-4412-9666-7c3569a93c18",
@@ -319,7 +321,7 @@
         "5b115031-a7cf-4ba5-adaf-c589c1326567",
         "efab977e-daa7-4a16-930a-3aae847d7d72"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5ceb55dc-e156-4560-b246-41c2d0fc344b",
         "16fef756-1e33-4ac5-bfef-7082772719f2",
@@ -338,7 +340,7 @@
       "mappedKnowledge": [
         "749f69d9-d4d4-4388-82fe-f76eca55bc34"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "06ff86ce-42a6-4be4-bdc4-b47d016860e3"
       ],
@@ -357,7 +359,7 @@
         "94de3f58-2c66-4ad8-b09c-23065b0d206a",
         "749f69d9-d4d4-4388-82fe-f76eca55bc34"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3d8b98b5-0fee-482e-a623-f346a2c99900",
         "04b69de0-519a-40e8-a4a1-f9e70e06e46c",
@@ -375,7 +377,7 @@
       "mappedKnowledge": [
         "749f69d9-d4d4-4388-82fe-f76eca55bc34"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3d8b98b5-0fee-482e-a623-f346a2c99900"
       ],
@@ -396,7 +398,7 @@
         "23b9ed36-8003-4d39-8700-1adf202ed241",
         "1a43515e-5ee9-40cc-929e-7a0c45fc2dca"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "06ff86ce-42a6-4be4-bdc4-b47d016860e3",
         "04b69de0-519a-40e8-a4a1-f9e70e06e46c"
@@ -407,11 +409,11 @@
       "dutyID": "1b14d15d-1be7-4f3f-beec-0ee84fae42de",
       "dutyDetail": "Assist with the movement of equipment and materials, and their installation around the sports ground and playing areas. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "749f69d9-d4d4-4388-82fe-f76eca55bc34"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3d8b98b5-0fee-482e-a623-f346a2c99900"
       ],
@@ -430,7 +432,7 @@
         "23b9ed36-8003-4d39-8700-1adf202ed241",
         "111701a4-bdda-4805-b688-8517d9503219"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c85343f0-c206-42be-b068-a0f50ffc7ec8"
       ],
@@ -440,11 +442,11 @@
       "dutyID": "b359d1f5-c835-49ea-ab1b-11357da5f819",
       "dutyDetail": "Dispose of waste in accordance with organisational procedures, legal requirements and taking into account environmental sustainability.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "1a43515e-5ee9-40cc-929e-7a0c45fc2dca"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0e131009-fcd3-4727-b0c0-e99fa60acb01"
       ],
@@ -466,7 +468,7 @@
         "71458a52-79ed-4132-b8f7-1c4fa7b11f7d",
         "ef40beb3-7708-46f3-9565-c1fd4d089d8f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aa0ac34a-b30e-4ef2-be4c-f78394a6de6d",
         "04b69de0-519a-40e8-a4a1-f9e70e06e46c",
@@ -488,7 +490,7 @@
         "71458a52-79ed-4132-b8f7-1c4fa7b11f7d",
         "ef40beb3-7708-46f3-9565-c1fd4d089d8f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5ceb55dc-e156-4560-b246-41c2d0fc344b",
         "aa0ac34a-b30e-4ef2-be4c-f78394a6de6d",
@@ -501,18 +503,19 @@
       "dutyID": "be42d996-4bde-4dbf-9893-f2279bca052e",
       "dutyDetail": "Mark out playing surfaces (including arcs and squaring off using the 3-4-5 method).",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "1aa3ca17-9b23-482d-baf8-b4f247524cd8",
         "5b115031-a7cf-4ba5-adaf-c589c1326567"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "13770809-dfb0-4412-9666-7c3569a93c18"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
