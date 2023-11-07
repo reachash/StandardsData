@@ -7,7 +7,7 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/334",
   "versionNumber": "",
   "change": "In revision",
-  "changedDate": "2023-11-02T00:00:00Z",
+  "changedDate": "2023-11-02T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
@@ -318,7 +318,6 @@
       "detail": "Complete and record learning and development activities."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -351,8 +350,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing Operative",
+  "clusterId": "264",
+  "clusterDescription": "Routine assembly of manufactured products",
   "createdDate": "2023-11-02T15:09:44 +00:00",
   "lastUpdated": "2023-11-02T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/sewing-machinist-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/sewing-machinist-in-revision",
   "qualifications": [],
@@ -388,7 +390,7 @@
         "c3d2f271-2f30-468a-a7fd-7aa83ff92fb4",
         "ec2159ad-0de0-4145-8ecd-2db1bf95c938"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4bde1c9c-f25b-4783-989d-01793835ade1",
         "19195abe-fdf1-4d07-977c-91b28522fa6e",
@@ -435,7 +437,7 @@
         "c3d2f271-2f30-468a-a7fd-7aa83ff92fb4",
         "ec2159ad-0de0-4145-8ecd-2db1bf95c938"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f277acd2-aec1-4e10-a1f1-920af0e30452",
         "1467ac31-d0d6-4644-aab0-b2639623725d",
@@ -474,7 +476,7 @@
         "c3d2f271-2f30-468a-a7fd-7aa83ff92fb4",
         "ec2159ad-0de0-4145-8ecd-2db1bf95c938"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7de13d07-4e98-4682-a753-b481eac64040",
         "5c279f78-93c2-47b1-a18c-772fba5c974b",
@@ -488,7 +490,7 @@
       "dutyID": "090a822e-bb77-4064-bd2a-bdf9c65cd381",
       "dutyDetail": "Rectify sewn product output issues. For example, undo stitching and re-sew items.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "49540412-2841-4d1a-9a9d-c55ffe266d8d",
         "0e32fb96-d691-4ad4-b6c7-69bf9dd9230b",
@@ -502,7 +504,7 @@
         "e726c210-deb7-4622-99fa-bb001347f49f",
         "cf6534ee-92e1-4671-bb27-df399e96e418"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1467ac31-d0d6-4644-aab0-b2639623725d",
         "6729ad8c-cf91-49a5-990d-d5dd5b4723dd",
@@ -530,7 +532,7 @@
         "c3d2f271-2f30-468a-a7fd-7aa83ff92fb4",
         "ec2159ad-0de0-4145-8ecd-2db1bf95c938"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4d3b8c22-31fa-475e-bb67-8416ed4a7f91",
         "84871d41-5c8e-42ce-acf7-6f6f0db5d761",
@@ -559,7 +561,7 @@
         "c3d2f271-2f30-468a-a7fd-7aa83ff92fb4",
         "ec2159ad-0de0-4145-8ecd-2db1bf95c938"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9a72467c-86ec-4f3e-aef6-c171f01ed344",
         "2ea44e71-ae22-4cac-a9aa-b18e7b901c91",
@@ -589,7 +591,7 @@
         "c3d2f271-2f30-468a-a7fd-7aa83ff92fb4",
         "ec2159ad-0de0-4145-8ecd-2db1bf95c938"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5372ce4f-88d7-4f51-a47a-d7d5c585a6c4",
         "1d79e9ba-57ff-44e7-9ce2-300ec6cd9902",
@@ -616,7 +618,7 @@
         "c3d2f271-2f30-468a-a7fd-7aa83ff92fb4",
         "ec2159ad-0de0-4145-8ecd-2db1bf95c938"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ea26b0d2-79b6-4519-b150-10ab8f52e115",
         "275890e4-f1ce-4ca2-b12d-7ff08408c610",
@@ -652,7 +654,7 @@
         "c3d2f271-2f30-468a-a7fd-7aa83ff92fb4",
         "ec2159ad-0de0-4145-8ecd-2db1bf95c938"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "84871d41-5c8e-42ce-acf7-6f6f0db5d761",
         "6729ad8c-cf91-49a5-990d-d5dd5b4723dd",
@@ -664,6 +666,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
