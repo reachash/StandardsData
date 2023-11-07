@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/538",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-04-08T00:00:00Z",
-  "earliestStartDate": "2020-02-03T00:00:00Z",
+  "changedDate": "2022-04-08T00:00:00",
+  "earliestStartDate": "2020-02-03T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "To use storyboards to visualise the narrative, planning shots and drawing panels to demonstrate the staging/action, and maintain continuity between scenes of a production.",
@@ -402,7 +402,6 @@
       "detail": "Continue to update own skills relating to use of new tools, software, data and other related technology"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -432,8 +431,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media, Broadcast and Production Professional",
+  "clusterId": "29",
+  "clusterDescription": "Leadership, management, and the application technology of resources to create, produce and deliver broadcast content and artistic productions, often requiring specialist expertise",
   "createdDate": "2020-02-27T14:14:26 +00:00",
   "lastUpdated": "2022-04-08T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/storyboard-artist-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/storyboard-artist-v1-0",
   "qualifications": [],
@@ -454,7 +456,7 @@
         "12681d56-7d77-4b5f-abe0-03c2b95209f2",
         "bd0bf491-3296-46a0-9cc6-e47e3ac28696"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "28bef384-a517-427d-9aaa-41727fcc2960",
         "b72a6f66-a915-4bdc-ae6d-9e8bf9de4bca",
@@ -479,7 +481,7 @@
         "ab71d903-6fd7-4212-b19c-3facc91e8be9",
         "8973ad4b-cf20-4691-aa67-7facdb844a65"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e163ec80-f27f-41a3-a1f7-6ac2f0de41cc",
         "c76c25fa-3a02-4eef-b023-7c05f166333c",
@@ -504,7 +506,7 @@
         "edc499c1-8fcc-47ea-884c-7ff47b2d0240",
         "8c652bfc-e620-411a-a3d3-984bd7a61ac3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "645cfd5c-12ee-482d-ab0b-dbe2acf6a798",
         "a04b846b-4599-4f1a-b284-f0af1630fc63",
@@ -529,7 +531,7 @@
         "5af79b67-5acb-4280-86af-75b26c673ce7",
         "331edda4-d5e4-41a2-9c61-9c81474c9903"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f7007eab-1f84-4a63-ab33-22b0854034a8",
         "13056db2-9507-470d-a910-10a49d498773",
@@ -552,7 +554,7 @@
         "459d9934-79ee-4497-a583-4e41d00535c5",
         "ace3d4be-115f-4033-9f17-8175dac2bd70"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "34ea0aca-f000-41e1-b261-d22bb128e89e",
         "946d8cd9-2c7a-4914-b4ca-6c7f98c38bef",
@@ -575,7 +577,7 @@
         "597448d7-099d-4ff4-91ca-ce1547a14516",
         "9b065862-ef57-4a4c-89ee-30deae711b72"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b741c032-8f83-47eb-a6c0-80851978fb1a",
         "eb547b52-6018-4919-b60c-50a72ac8e22b",
@@ -596,7 +598,7 @@
         "7e3fa4a3-57a5-4e3a-816c-57b11159a838",
         "9a3beb23-3522-4339-abcb-942168b1dc10"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4b787fc0-7789-4c61-8036-8ff79eb203ef",
         "422fdea4-6cbc-4c62-ac25-0e5c9092a717",
@@ -619,7 +621,7 @@
         "7099432d-331a-4976-9922-eb8666bf89ef",
         "7618f083-d59c-44da-ab75-e4713856827f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "841ad287-771d-4528-a5ff-a9497e689c1d",
         "7e235e31-bbd1-4987-9ce1-61e86addeebd",
@@ -641,7 +643,7 @@
         "1ddf65f2-6b1a-4f06-927b-e7fdd1f6b18f",
         "579a995e-6716-443b-be7a-cd9bceb3e714"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fe60f612-2ec6-4313-9d94-400f2ab5b418",
         "8d4e5ef4-232d-4f39-817d-18629ee71be9",
@@ -661,7 +663,7 @@
         "7ebd6146-1a94-4c65-8731-5a7017d7a369",
         "1c1fff44-cbcf-4532-960e-933811e3ac4d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "14a35937-f680-4640-a5b9-4d0b8187c081",
         "111e881b-7c65-4c11-8cf1-90d20f11e6ae",
@@ -671,6 +673,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
