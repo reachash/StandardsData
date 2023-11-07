@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/532",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-10-26T00:00:00Z",
-  "earliestStartDate": "2020-02-03T00:00:00Z",
-  "latestStartDate": "2023-12-31T00:00:00Z",
+  "changedDate": "2023-10-26T00:00:00",
+  "earliestStartDate": "2020-02-03T00:00:00",
+  "latestStartDate": "2023-12-31T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Providing a hygienically clean healthcare environment in which service users, staff and other users can thrive, work and develop.",
   "level": 2,
@@ -223,7 +223,6 @@
       "detail": "Portray a positive Corporate image (e.g. customer service, smart appearance)"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -256,8 +255,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Healthcare Science",
   "cluster": "Healthcare Cleaning & Hygiene Operatives",
+  "clusterId": "274",
+  "clusterDescription": "Provide hygienically clean healthcare environments for service users.",
   "createdDate": "2019-10-03T13:58:50 +00:00",
   "lastUpdated": "2023-10-26T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/healthcare-cleaning-operative-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/healthcare-cleaning-operative-v1-0",
   "qualifications": [],
@@ -278,7 +280,7 @@
         "361c4648-36a3-42a7-831b-49734d7d7f82",
         "1c6248a0-a360-4c9f-9304-5eebb219a841"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "48e5ba04-b5bf-4170-80a2-89ada6d922b1",
         "66f8b43d-fce3-4da8-8ee0-4d5e7c30053c",
@@ -301,7 +303,7 @@
         "1db76bfa-d953-4c83-a651-1c2c7049c135",
         "5e8f07b6-b453-44d5-a83c-5354b96a9d36"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "014d6464-c118-4043-8433-829fdc39e9f4",
         "a91bbbdc-b98f-42bc-8ba9-6a2a75192091",
@@ -314,12 +316,12 @@
       "dutyID": "1bab7b23-e09a-463b-8bff-4886c279c434",
       "dutyDetail": "Distinguish and demonstrate between cleaning and disinfection procedures to comply with processes to match requirements",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "1db76bfa-d953-4c83-a651-1c2c7049c135",
         "5e8f07b6-b453-44d5-a83c-5354b96a9d36"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "66f8b43d-fce3-4da8-8ee0-4d5e7c30053c",
         "a91bbbdc-b98f-42bc-8ba9-6a2a75192091",
@@ -340,7 +342,7 @@
         "1c6248a0-a360-4c9f-9304-5eebb219a841",
         "c41071f1-a423-4f06-9a33-abb97050546f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "014d6464-c118-4043-8433-829fdc39e9f4",
         "9c0b5724-3739-4ee1-98be-18e15b06a1bb",
@@ -360,7 +362,7 @@
         "1db76bfa-d953-4c83-a651-1c2c7049c135",
         "1c6248a0-a360-4c9f-9304-5eebb219a841"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9c0b5724-3739-4ee1-98be-18e15b06a1bb",
         "c49edc17-3b67-4076-ad69-41dce0b8683f"
@@ -378,7 +380,7 @@
         "b50bec73-1a74-42b3-a255-ff3eac460e40",
         "ade0ef04-0307-4d3d-9f09-d0ff9ceae317"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "66f8b43d-fce3-4da8-8ee0-4d5e7c30053c",
         "6525a3ab-1ec3-4f4f-8e16-5dc63a2ce9d9",
@@ -397,7 +399,7 @@
         "361c4648-36a3-42a7-831b-49734d7d7f82",
         "6dc4ee38-47c5-478f-a086-c070f3398b06"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6525a3ab-1ec3-4f4f-8e16-5dc63a2ce9d9",
         "a91bbbdc-b98f-42bc-8ba9-6a2a75192091",
@@ -416,7 +418,7 @@
         "6ec5988f-e690-48b7-b749-8a8da1f9ff5f",
         "6dc4ee38-47c5-478f-a086-c070f3398b06"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3c527400-0052-4ce4-9755-e963527235f0"
       ],
@@ -433,7 +435,7 @@
         "bb681841-64b8-45c3-b11c-55d88878c5c7",
         "1c6248a0-a360-4c9f-9304-5eebb219a841"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4eb9f99c-50cf-4d2f-aa9e-375324c47e2f"
       ],
@@ -452,7 +454,7 @@
         "4344c4b7-5dcd-4602-85cc-b989084ef62e",
         "8e7b04e9-db29-4208-8af3-de44e03c8aa9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b313adfa-0049-43e3-bc67-51507f900679",
         "bdf71ef3-998a-4b3b-adda-6ebb2030620a",
@@ -473,7 +475,7 @@
         "645e6898-f7fa-4ad8-834e-9241fbe8b52e",
         "b9489fcc-ed7a-4892-b5fe-7eebad482c4e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a7aa8c21-5d9a-4f2c-8774-81498f1774d5",
         "66f8b43d-fce3-4da8-8ee0-4d5e7c30053c",
@@ -492,7 +494,7 @@
       "mappedKnowledge": [
         "b491c49c-afbd-4eea-81cc-969699ac2af4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3f81f46a-81c9-46a0-b51d-2eac03a21526"
       ],
@@ -508,13 +510,14 @@
       "mappedKnowledge": [
         "b475ae38-29ce-403d-8372-5a7bfcb2f92b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d91193da-13e7-4d8d-80fd-7eeb2605dc66"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
