@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/528",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-04-08T00:00:00Z",
-  "earliestStartDate": "2019-12-18T00:00:00Z",
+  "changedDate": "2022-04-08T00:00:00",
+  "earliestStartDate": "2019-12-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Takes responsibility for all the organisational aspects of production schedule and/or budget.",
@@ -345,24 +345,6 @@
       "detail": "Manage touring productions including preparing seating and technical briefs and liaising with venue technical departments"
     }
   ],
-  "options": [
-    {
-      "optionId": "1a602100-2725-4981-a211-20256095fedd",
-      "title": "Live Performance Art Production"
-    },
-    {
-      "optionId": "6b30e58b-7412-42d9-b529-0d1dfafd86bc",
-      "title": "Production Accounting"
-    },
-    {
-      "optionId": "f31218bb-a3ad-4a2e-ba45-dae1513fd23e",
-      "title": "VFX, Post-Production & Animation"
-    },
-    {
-      "optionId": "9c603ef9-f2bd-4abf-9075-47a9e3b3c944",
-      "title": "Film, Television & Short Form Production"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Live Performance Art Production",
     "Production Accounting",
@@ -403,13 +385,38 @@
   "reviewDetails": "",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media, Broadcast and Production Professional",
+  "clusterId": "29",
+  "clusterDescription": "Leadership, management, and the application technology of resources to create, produce and deliver broadcast content and artistic productions, often requiring specialist expertise",
   "createdDate": "2017-11-14T17:10:14 +00:00",
   "lastUpdated": "2022-04-08T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/creative-industries-production-manager-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/creative-industries-production-manager-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "1a602100-2725-4981-a211-20256095fedd",
+      "title": "Live Performance Art Production",
+      "occupationCode": null
+    },
+    {
+      "optionId": "6b30e58b-7412-42d9-b529-0d1dfafd86bc",
+      "title": "Production Accounting",
+      "occupationCode": null
+    },
+    {
+      "optionId": "f31218bb-a3ad-4a2e-ba45-dae1513fd23e",
+      "title": "VFX, Post-Production & Animation",
+      "occupationCode": null
+    },
+    {
+      "optionId": "9c603ef9-f2bd-4abf-9075-47a9e3b3c944",
+      "title": "Film, Television & Short Form Production",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
