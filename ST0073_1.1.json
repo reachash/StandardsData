@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/286",
   "versionNumber": "1.1",
   "change": "End-point assessment, standard and funding band revised.",
-  "changedDate": "2023-03-31T00:00:00Z",
-  "earliestStartDate": "2023-03-17T00:00:00Z",
+  "changedDate": "2023-03-31T00:00:00",
+  "earliestStartDate": "2023-03-17T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Setting up and operating the payroll within the organisation in which they are employed or on behalf of another organisation.",
@@ -275,7 +275,6 @@
       "detail": "use systems and processes to support the payroll function. Examples may include the provision of accounting information and the Real Time Information submissions to His Majesty's Revenue and Customs (HMRC)."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -317,8 +316,11 @@
   "reviewDetails": "",
   "pathway": "Accountancy",
   "cluster": "Assistant Accountant",
+  "clusterId": "236",
+  "clusterDescription": "Undertake routine accountancy support analysis and report on financial activities including dealing with HMRC",
   "createdDate": "2023-05-05T13:25:04 +00:00",
   "lastUpdated": "2023-03-31T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/payroll-administrator-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/payroll-administrator-v1-1",
   "qualifications": [],
@@ -339,7 +341,7 @@
         "7632da06-561d-4124-85fa-9a2f0e12b1d9",
         "69322139-7d4b-4282-9b14-3efb3c966fce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "90ebb921-c8c4-41f2-b817-420b27381639"
       ],
@@ -364,7 +366,7 @@
         "dd316ae4-42e3-4cdd-8828-5b8be8e5f2c5",
         "886cdabd-cda4-41a2-84a1-2e23f7009eaa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d3901577-fe7f-49b6-8818-7bcf903e6bf4",
         "a4b12f67-86da-4cd2-a199-6d3350166c34",
@@ -393,7 +395,7 @@
         "dd316ae4-42e3-4cdd-8828-5b8be8e5f2c5",
         "886cdabd-cda4-41a2-84a1-2e23f7009eaa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d3901577-fe7f-49b6-8818-7bcf903e6bf4",
         "a4b12f67-86da-4cd2-a199-6d3350166c34",
@@ -422,7 +424,7 @@
         "dd316ae4-42e3-4cdd-8828-5b8be8e5f2c5",
         "886cdabd-cda4-41a2-84a1-2e23f7009eaa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d3901577-fe7f-49b6-8818-7bcf903e6bf4",
         "35a3df68-858b-4016-8e8d-5d8d63167c4d",
@@ -477,7 +479,7 @@
         "d50bc494-f4b7-4164-a003-bd00c00576c7",
         "257e63e4-fc5f-4fd1-acbb-b943f01fd202"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d3901577-fe7f-49b6-8818-7bcf903e6bf4",
         "c1e67230-e0bf-458b-96b9-882928e989fa",
@@ -514,7 +516,7 @@
         "d50bc494-f4b7-4164-a003-bd00c00576c7",
         "257e63e4-fc5f-4fd1-acbb-b943f01fd202"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "81138c06-9f07-49bf-a6be-6681844221c0",
         "a4b12f67-86da-4cd2-a199-6d3350166c34",
@@ -554,7 +556,7 @@
         "9c287815-c98b-4201-af36-ed106fc5700e",
         "257e63e4-fc5f-4fd1-acbb-b943f01fd202"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d3901577-fe7f-49b6-8818-7bcf903e6bf4",
         "c1e67230-e0bf-458b-96b9-882928e989fa",
@@ -587,7 +589,7 @@
         "ba9e39a0-a39f-4ed3-9b86-e7da6c0a3e75",
         "257e63e4-fc5f-4fd1-acbb-b943f01fd202"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d3901577-fe7f-49b6-8818-7bcf903e6bf4",
         "c1e67230-e0bf-458b-96b9-882928e989fa",
@@ -645,7 +647,7 @@
         "d50bc494-f4b7-4164-a003-bd00c00576c7",
         "257e63e4-fc5f-4fd1-acbb-b943f01fd202"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d3901577-fe7f-49b6-8818-7bcf903e6bf4",
         "c1e67230-e0bf-458b-96b9-882928e989fa",
@@ -683,7 +685,7 @@
         "8257de98-2c35-41c0-859e-0b4f5ecca67e",
         "794b2771-d4e9-42e7-9183-60a7c05eb6ad"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d3901577-fe7f-49b6-8818-7bcf903e6bf4",
         "35a3df68-858b-4016-8e8d-5d8d63167c4d",
@@ -725,7 +727,7 @@
         "d50bc494-f4b7-4164-a003-bd00c00576c7",
         "257e63e4-fc5f-4fd1-acbb-b943f01fd202"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d3901577-fe7f-49b6-8818-7bcf903e6bf4",
         "c1e67230-e0bf-458b-96b9-882928e989fa",
@@ -786,7 +788,7 @@
         "d50bc494-f4b7-4164-a003-bd00c00576c7",
         "257e63e4-fc5f-4fd1-acbb-b943f01fd202"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d3901577-fe7f-49b6-8818-7bcf903e6bf4",
         "c1e67230-e0bf-458b-96b9-882928e989fa",
@@ -803,6 +805,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
