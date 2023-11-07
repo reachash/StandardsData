@@ -7,15 +7,15 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/5",
   "versionNumber": "1.1",
   "change": "Standard, End-point assessment plan and funding band revised",
-  "changedDate": "2023-09-04T00:00:00Z",
-  "earliestStartDate": "2023-09-03T00:00:00Z",
+  "changedDate": "2023-09-04T00:00:00",
+  "earliestStartDate": "2023-09-03T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Install, maintain and repair electrical systems in industrial, commercial and residential environments.",
   "level": 3,
   "typicalDuration": 48,
   "maxFunding": 20000,
-  "route": "Construction and the built environment",
+  "route": "Construction",
   "keywords": [
     "electrical systems",
     "electricity",
@@ -221,7 +221,6 @@
       "detail": "Use relevant digital learning platforms and business communication and collaboration applications. "
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -253,8 +252,11 @@
   "reviewDetails": "",
   "pathway": "Building Services Engineering",
   "cluster": "Building Services Engineering Operative/Technician",
+  "clusterId": "65",
+  "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
   "createdDate": "2023-06-05T12:48:41 +00:00",
   "lastUpdated": "2023-09-04T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/installation-and-maintenance-electrician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/installation-and-maintenance-electrician-v1-1",
   "qualifications": [
@@ -295,7 +297,7 @@
         "5aa75da9-2e10-4fea-81e8-706877af9857",
         "221cad49-3491-4783-9a14-63885c6d216c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "59d49f9d-ef1d-4e81-a996-f61d4f8001b0",
         "67ba19cf-c2e4-4483-9eab-45b4eade6801",
@@ -321,7 +323,7 @@
         "72d4fc4a-480c-414d-ac9d-b9fc2a33bd87",
         "43304972-60e7-496c-8eb5-dd8d8ac7c03d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bf0fe5fb-a39d-4899-a4ec-63ab30b024ad",
         "e81f323c-a9ad-4b22-86f8-3ba636f5edda"
@@ -346,7 +348,7 @@
         "72d4fc4a-480c-414d-ac9d-b9fc2a33bd87",
         "43304972-60e7-496c-8eb5-dd8d8ac7c03d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "46384dc6-81ab-45fb-9825-804dd8e63b38",
         "3edfd886-b53d-4e7f-b46c-a98f250e02d4",
@@ -371,7 +373,7 @@
         "2ce6ea95-6f71-4927-abf9-d9fd7dcac328",
         "2b3c04e5-daa9-4979-9c43-9ac62c1d4a6a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "88beaf40-a5ef-467f-b325-15515ede0f8e",
         "46384dc6-81ab-45fb-9825-804dd8e63b38",
@@ -402,7 +404,7 @@
         "2ce6ea95-6f71-4927-abf9-d9fd7dcac328",
         "2b3c04e5-daa9-4979-9c43-9ac62c1d4a6a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "88beaf40-a5ef-467f-b325-15515ede0f8e",
         "46384dc6-81ab-45fb-9825-804dd8e63b38",
@@ -432,7 +434,7 @@
         "2b3c04e5-daa9-4979-9c43-9ac62c1d4a6a",
         "ba22e856-cf72-4975-8b9a-eb8a07a082ee"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cc33acb7-694a-4bc4-88cb-02b810e16013",
         "78ac9602-5467-46d5-87c8-0827e5732794",
@@ -458,7 +460,7 @@
         "2ce6ea95-6f71-4927-abf9-d9fd7dcac328",
         "2b3c04e5-daa9-4979-9c43-9ac62c1d4a6a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cc33acb7-694a-4bc4-88cb-02b810e16013",
         "78ac9602-5467-46d5-87c8-0827e5732794",
@@ -485,7 +487,7 @@
         "2b3c04e5-daa9-4979-9c43-9ac62c1d4a6a",
         "ba22e856-cf72-4975-8b9a-eb8a07a082ee"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "67ba19cf-c2e4-4483-9eab-45b4eade6801",
         "46384dc6-81ab-45fb-9825-804dd8e63b38",
@@ -511,7 +513,7 @@
         "4c67fab5-3431-47ea-a82b-2ea4650d69c0",
         "ba22e856-cf72-4975-8b9a-eb8a07a082ee"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "67ba19cf-c2e4-4483-9eab-45b4eade6801",
         "88beaf40-a5ef-467f-b325-15515ede0f8e",
@@ -535,7 +537,7 @@
         "51d4ae47-3bb5-44d8-b59c-7f7eb6b93c49",
         "76d8eaca-976e-4a52-a041-087f060a8b3f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3a1baefe-6400-428b-aac2-6c15f251a720",
         "88beaf40-a5ef-467f-b325-15515ede0f8e"
@@ -546,12 +548,12 @@
       "dutyID": "104f8331-7a21-4771-8a12-da34c3a3b3b6",
       "dutyDetail": "Understand the different types of novel technologies being developed relating to electrical installations including the smart grid, use of prefabricated products and components (plug and play), energy efficient lighting technologies, lower carbon electric power generation and the IoT and how new technologies can be retrofitted to existing installations. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "2b3c04e5-daa9-4979-9c43-9ac62c1d4a6a",
         "c404c331-fbf2-42d7-af20-d64a07cabe60"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "46384dc6-81ab-45fb-9825-804dd8e63b38"
       ],
@@ -569,7 +571,7 @@
       "mappedKnowledge": [
         "2b3c04e5-daa9-4979-9c43-9ac62c1d4a6a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c84cdaed-aedb-4700-8e11-49087d1ce019"
       ],
@@ -585,7 +587,7 @@
       "mappedKnowledge": [
         "bf4966e0-5582-4824-861f-dfb0e2e70ceb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e6192514-e333-43cb-bf83-f00dd0976aa1",
         "ae2bc2ec-113c-4f51-8212-cf60fc7b8900"
@@ -596,12 +598,12 @@
       "dutyID": "199fbb9b-55f3-4ba2-9e1d-202a69e468e8",
       "dutyDetail": "Understand how to plan and project manage typical Electrician work to maximise quality of outcome and efficiency of workflow. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "463a6a01-d5e8-43ae-b20d-f8d16b0ab372",
         "4f7b722a-39b8-4950-9bd8-bd794862877a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b1e74791-d358-4984-8080-647027366c9b"
       ],
@@ -618,13 +620,14 @@
         "2b3c04e5-daa9-4979-9c43-9ac62c1d4a6a",
         "6cd1b9ae-eb54-428a-9241-4d742ef71136"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "78ac9602-5467-46d5-87c8-0827e5732794"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
