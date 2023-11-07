@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/607",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-07-26T00:00:00Z",
-  "earliestStartDate": "2020-11-09T00:00:00Z",
+  "changedDate": "2021-07-26T00:00:00",
+  "earliestStartDate": "2020-11-09T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Design, manufacture, fabricate and install signage.",
@@ -230,7 +230,6 @@
       "detail": "Rectify or report issues."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -272,10 +271,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Engineering, Manufacturing, Process and Control",
-  "cluster": "Manufacturing and Process Operative/Technician",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2020-09-30T07:45:10 +00:00",
   "lastUpdated": "2021-07-26T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/signage-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/signage-technician-v1-0",
   "qualifications": [],
@@ -301,7 +303,7 @@
         "b4eefe25-010c-4a20-806a-88d9cfe299a9",
         "49d3e0de-5ee5-402d-9316-b208dfe3a919"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3f7d9688-113a-443b-ab76-fa5f9c8495d4",
         "f9f2770b-481b-49d2-87e2-40d21c7eafe8"
@@ -326,7 +328,7 @@
         "73fd6ab2-3812-41f5-aee0-299128f9bd34",
         "54ed8baa-1af7-4d68-b16e-bf5d11b33e38"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1ed70ccc-78d2-45f9-b743-c9e43b36c2b3",
         "895f3323-6683-4cb8-8351-d60da930c209",
@@ -355,7 +357,7 @@
         "73fd6ab2-3812-41f5-aee0-299128f9bd34",
         "54ed8baa-1af7-4d68-b16e-bf5d11b33e38"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "af51fbfc-a756-4a2e-844f-b3c0265d1b60",
         "ccbdbbbd-1725-4464-a22e-d24634aa8120",
@@ -386,7 +388,7 @@
         "73fd6ab2-3812-41f5-aee0-299128f9bd34",
         "54ed8baa-1af7-4d68-b16e-bf5d11b33e38"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "68c388fa-2f79-41e6-a449-9b574f54cc30",
         "ccbdbbbd-1725-4464-a22e-d24634aa8120",
@@ -414,7 +416,7 @@
         "73fd6ab2-3812-41f5-aee0-299128f9bd34",
         "54ed8baa-1af7-4d68-b16e-bf5d11b33e38"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "38428fc1-91ee-423f-93be-c700088dcb8f",
         "3f5985e7-ce99-4563-ac6d-c3c5f6e9a6f4",
@@ -445,7 +447,7 @@
         "12e72a76-cfff-4183-be2a-6af701ed8c0b",
         "2daf13f5-ca91-42a7-ac96-60161dd4af4f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fc374ede-46f9-4506-a85a-a0295e9a9c42",
         "96110426-10a5-45eb-b327-226cb3267c59",
@@ -477,7 +479,7 @@
         "12e72a76-cfff-4183-be2a-6af701ed8c0b",
         "54ed8baa-1af7-4d68-b16e-bf5d11b33e38"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3f7d9688-113a-443b-ab76-fa5f9c8495d4",
         "fc374ede-46f9-4506-a85a-a0295e9a9c42",
@@ -515,7 +517,7 @@
         "73fd6ab2-3812-41f5-aee0-299128f9bd34",
         "54ed8baa-1af7-4d68-b16e-bf5d11b33e38"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9f2770b-481b-49d2-87e2-40d21c7eafe8",
         "a4093a5a-5fd4-43a7-8640-5b699c39c17f",
@@ -545,7 +547,7 @@
         "73fd6ab2-3812-41f5-aee0-299128f9bd34",
         "54ed8baa-1af7-4d68-b16e-bf5d11b33e38"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "03f15f38-6d2e-49a0-bb9e-143c1616451e",
         "9f957d2c-fbef-4860-9c7d-57e46d0028aa"
@@ -567,7 +569,7 @@
         "73fd6ab2-3812-41f5-aee0-299128f9bd34",
         "2dbc935e-48ec-4026-855d-95e4ad1bf3c8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0265709c-11c0-422c-8abb-1a4b50188d1e",
         "03f15f38-6d2e-49a0-bb9e-143c1616451e",
@@ -577,6 +579,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
