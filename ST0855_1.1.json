@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/594",
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised",
-  "changedDate": "2023-04-25T00:00:00Z",
-  "earliestStartDate": "2023-04-25T00:00:00Z",
+  "changedDate": "2023-04-25T00:00:00",
+  "earliestStartDate": "2023-04-25T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Support the development, manufacturing, assembly, integration and testing of complex, high value space hardware and ground-based equipment.",
@@ -226,7 +226,6 @@
       "detail": "Communicate using verbal and written methods such as for formal and informal presentations, written reports and electronic dissemination, adjusting approach to take account of equality and diversity considerations, and listen to others."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -265,8 +264,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Technical Manager",
+  "clusterId": "254",
+  "clusterDescription": "Design and develop whole product and/or process technologies using a specific discipline or technology or application expertise",
   "createdDate": "2023-04-25T09:24:26 +00:00",
   "lastUpdated": "2023-04-25T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/space-engineering-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/space-engineering-technician-v1-1",
   "qualifications": [],
@@ -312,7 +314,7 @@
         "1fba498f-4c2d-4084-b14e-ff042f192aeb",
         "987c077d-59d3-4f5c-bfbd-b890632173c1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2a0ae053-0719-42ad-89c4-3e649dd9af8e",
         "b4ea8ee0-d7dd-4bd1-bb48-c384ec28f8a6",
@@ -345,7 +347,7 @@
         "621b602e-f327-47d6-8e14-6a27043b18ff",
         "987c077d-59d3-4f5c-bfbd-b890632173c1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f302f765-44f4-4999-8b41-0d5f9bf571b7",
         "1c8a9a94-0cea-445e-b82e-4d8d250a70e2",
@@ -370,7 +372,7 @@
         "05b98f36-135a-45b8-b62c-a482807bd369",
         "1fba498f-4c2d-4084-b14e-ff042f192aeb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2a0ae053-0719-42ad-89c4-3e649dd9af8e",
         "c1693a25-b458-43f4-80cd-ba526042b0c6",
@@ -395,7 +397,7 @@
         "621b602e-f327-47d6-8e14-6a27043b18ff",
         "05b98f36-135a-45b8-b62c-a482807bd369"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2a0ae053-0719-42ad-89c4-3e649dd9af8e",
         "1c8a9a94-0cea-445e-b82e-4d8d250a70e2",
@@ -427,7 +429,7 @@
         "1fba498f-4c2d-4084-b14e-ff042f192aeb",
         "987c077d-59d3-4f5c-bfbd-b890632173c1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2a0ae053-0719-42ad-89c4-3e649dd9af8e",
         "c1693a25-b458-43f4-80cd-ba526042b0c6",
@@ -460,7 +462,7 @@
         "034616ca-de5f-4c61-ad10-a1a9d9afe5e1",
         "987c077d-59d3-4f5c-bfbd-b890632173c1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b4ea8ee0-d7dd-4bd1-bb48-c384ec28f8a6",
         "f41ed6e5-13fa-49e4-93c5-7c47801790bd",
@@ -487,7 +489,7 @@
         "51948193-afa0-40e4-8cce-2a910148f423",
         "034616ca-de5f-4c61-ad10-a1a9d9afe5e1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b4ea8ee0-d7dd-4bd1-bb48-c384ec28f8a6",
         "1160b1af-a4fe-49b2-b080-3f388d51bafb",
@@ -512,7 +514,7 @@
         "51948193-afa0-40e4-8cce-2a910148f423",
         "034616ca-de5f-4c61-ad10-a1a9d9afe5e1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b4ea8ee0-d7dd-4bd1-bb48-c384ec28f8a6",
         "78f9d669-a9c6-4b15-92be-f16a7b841570",
@@ -538,7 +540,7 @@
         "1fba498f-4c2d-4084-b14e-ff042f192aeb",
         "034616ca-de5f-4c61-ad10-a1a9d9afe5e1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2a0ae053-0719-42ad-89c4-3e649dd9af8e",
         "b4ea8ee0-d7dd-4bd1-bb48-c384ec28f8a6",
@@ -569,7 +571,7 @@
         "15807a92-f7c6-4ad9-b072-7a80c02e86b8",
         "034616ca-de5f-4c61-ad10-a1a9d9afe5e1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1160b1af-a4fe-49b2-b080-3f388d51bafb",
         "ab315219-5591-4bcf-87a7-f6b6ace8a165",
@@ -581,6 +583,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
