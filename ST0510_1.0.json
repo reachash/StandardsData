@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/381",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-01-31T00:00:00Z",
-  "earliestStartDate": "2018-11-30T00:00:00Z",
-  "latestStartDate": "2023-01-22T00:00:00Z",
+  "changedDate": "2023-01-31T00:00:00",
+  "earliestStartDate": "2018-11-30T00:00:00",
+  "latestStartDate": "2023-01-22T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Protecting vulnerable children and adults from harm or abuse, and supporting adults to live independently.",
   "level": 6,
@@ -404,7 +404,6 @@
       "detail": "promote the use of technology to achieve better outcomes"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -432,13 +431,17 @@
   "reviewDetails": "",
   "pathway": "Care Services",
   "cluster": "Care Services Professional",
+  "clusterId": "44",
+  "clusterDescription": "Lead, manage and deliver a whole care process to support clients including their assurance and improvement often requiring specialist care expertise.",
   "createdDate": "2017-11-14T17:11:03 +00:00",
   "lastUpdated": "2023-01-31T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/social-worker-integrated-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/social-worker-integrated-degree-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training provider",
