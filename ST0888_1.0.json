@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/550",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-02-15T00:00:00Z",
-  "earliestStartDate": "2020-03-26T00:00:00Z",
+  "changedDate": "2023-02-15T00:00:00",
+  "earliestStartDate": "2020-03-26T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Work and interact directly with children on a day to day basis supporting the planning of and delivery of activities.",
@@ -288,7 +288,6 @@
       "detail": "Demonstrate how to share information with parents/carers about the importance of healthy balanced diets, looking after teeth and being physically active."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -321,10 +320,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Education and Childcare",
-  "cluster": "Early Education and Childcare Assistant",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2020-03-26T09:29:06 +00:00",
   "lastUpdated": "2023-02-15T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/early-years-practitioner-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/early-years-practitioner-v1-0",
   "qualifications": [
@@ -356,7 +358,7 @@
         "c49c5e0f-0abc-4bae-8b17-32004f42c395",
         "79b876dc-84c0-4cd4-b3d4-e1e9cc576b03"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f2a5e522-3c57-42cf-bdf2-0fde517af2f8",
         "57b96d9c-0455-4471-b7cd-ac8889bd8b3f",
@@ -380,7 +382,7 @@
       "mappedKnowledge": [
         "f94dc9c4-13f2-4fea-a603-19513db84b36"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "46e65baa-bf25-4b28-b580-3909e30e03a6"
       ],
@@ -402,7 +404,7 @@
         "b6eacdec-ecba-45ea-bc2c-eb67dc48913f",
         "8d131991-8328-4f63-a2d6-2af1aff2fb8e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "17d34b8a-86f3-45e8-bd81-cc52913701e1"
       ],
@@ -419,7 +421,7 @@
       "mappedKnowledge": [
         "194ca71d-8567-4762-98ef-2ce01f48a706"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "57b96d9c-0455-4471-b7cd-ac8889bd8b3f"
       ],
@@ -442,7 +444,7 @@
         "212d46f2-2c46-4895-8635-2ed3855cdf2a",
         "af7fe823-f3d6-49c2-bec0-77e678077184"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "071b1baa-27e3-4663-a782-d0d6a14971bc",
         "eb45c463-88a8-4760-8b34-b2fbe8676947",
@@ -469,7 +471,7 @@
         "60600626-9974-45f7-908a-51c625ac2515",
         "212d46f2-2c46-4895-8635-2ed3855cdf2a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "97774ca2-d118-48ca-b14f-d66da2f29e16"
       ],
@@ -493,7 +495,7 @@
         "af7fe823-f3d6-49c2-bec0-77e678077184",
         "79b876dc-84c0-4cd4-b3d4-e1e9cc576b03"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f2a5e522-3c57-42cf-bdf2-0fde517af2f8",
         "697dff69-640c-4e71-95f9-1fa18c236415",
@@ -521,7 +523,7 @@
         "5928050e-e6d9-4ef3-aeb3-d19be3ae7bd9",
         "b6bcb31a-fac0-4bde-b8f1-00e51bdd8c46"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "18f2df61-eed4-4865-a54a-5e19cc998e01",
         "dbd2be08-a375-47d8-8b55-7eca4b401666",
@@ -542,7 +544,7 @@
       "mappedKnowledge": [
         "aa9eff01-5ef7-4943-9794-dc70c82ed05a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "697f5ada-3eef-4059-9fed-e0018008bc63",
         "5a7afbb5-e258-4afa-a405-1359ff9d362a"
@@ -566,13 +568,14 @@
         "48ed48ab-f913-46cd-9eee-0943b43533ef",
         "af7fe823-f3d6-49c2-bec0-77e678077184"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "46e65baa-bf25-4b28-b580-3909e30e03a6"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
