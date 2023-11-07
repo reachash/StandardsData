@@ -7,15 +7,15 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/240",
   "versionNumber": "1.2",
   "change": "Standard, end-point assessment plan and funding band revised",
-  "changedDate": "2023-08-21T00:00:00Z",
-  "earliestStartDate": "2023-08-19T00:00:00Z",
+  "changedDate": "2023-08-21T00:00:00",
+  "earliestStartDate": "2023-08-19T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Working with building materials (most often wood) to create and install building components.",
   "level": 3,
   "typicalDuration": 15,
   "maxFunding": 13000,
-  "route": "Construction and the built environment",
+  "route": "Construction",
   "keywords": [
     "Joinery",
     "Architectural joiner",
@@ -304,16 +304,6 @@
       "detail": "CAJ: Apply craft architectural techniques to create shaped work using specialist jigs and fixed machinery."
     }
   ],
-  "options": [
-    {
-      "optionId": "a19a8891-c291-4442-a1a9-4980eca21c41",
-      "title": "Craft Site Carpenter"
-    },
-    {
-      "optionId": "def59af7-b586-4caf-81f7-2ee54b86c5c5",
-      "title": "Craft Architectural Joiner"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -344,8 +334,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Onsite Construction",
   "cluster": "Core Building Tradesperson",
+  "clusterId": "5",
+  "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
   "createdDate": "2023-08-24T07:41:44 +00:00",
   "lastUpdated": "2023-08-21T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/craft-carpentry-and-joinery-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/craft-carpentry-and-joinery-v1-2",
   "qualifications": [
@@ -384,7 +377,7 @@
         "d51f8dc5-1ffe-4b9a-a69d-bbb2e6f6a47a",
         "3f151d0c-fcfe-4230-9161-22f7be1df20f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7e861ff-e973-4c68-bbe7-3c9f53a575ee",
         "fad563e3-7fb2-4667-bdeb-af727da93112",
@@ -412,7 +405,7 @@
         "0e5847cb-12a7-4a9b-b8e0-f8cfe1183e20",
         "2a8e11bb-27eb-4e08-ae71-343ce37abd5c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7e861ff-e973-4c68-bbe7-3c9f53a575ee",
         "6224d884-579e-4eed-be15-140db8b3be53",
@@ -443,7 +436,7 @@
         "c21fda31-8985-4afb-952d-af5bbedf2d6f",
         "3f151d0c-fcfe-4230-9161-22f7be1df20f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7e861ff-e973-4c68-bbe7-3c9f53a575ee",
         "fad563e3-7fb2-4667-bdeb-af727da93112",
@@ -478,7 +471,7 @@
         "c21fda31-8985-4afb-952d-af5bbedf2d6f",
         "3f151d0c-fcfe-4230-9161-22f7be1df20f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7e861ff-e973-4c68-bbe7-3c9f53a575ee",
         "6224d884-579e-4eed-be15-140db8b3be53",
@@ -509,7 +502,7 @@
         "db69853d-ec3c-4720-a765-8db64efc06b2",
         "2a8e11bb-27eb-4e08-ae71-343ce37abd5c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7e861ff-e973-4c68-bbe7-3c9f53a575ee",
         "6224d884-579e-4eed-be15-140db8b3be53",
@@ -535,7 +528,7 @@
         "06ce0792-c7a7-4b02-8280-7b561ed2385c",
         "c136c5c7-9607-404c-aad1-d3fa14574b69"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7e861ff-e973-4c68-bbe7-3c9f53a575ee",
         "fad563e3-7fb2-4667-bdeb-af727da93112",
@@ -560,7 +553,7 @@
         "06ce0792-c7a7-4b02-8280-7b561ed2385c",
         "0e5847cb-12a7-4a9b-b8e0-f8cfe1183e20"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7e861ff-e973-4c68-bbe7-3c9f53a575ee",
         "fad563e3-7fb2-4667-bdeb-af727da93112",
@@ -590,7 +583,7 @@
         "59380a9c-5c8f-4b83-bdb2-ae121d37384c",
         "2a8e11bb-27eb-4e08-ae71-343ce37abd5c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "03f1c606-4447-4565-b111-214bc4f51caa",
         "a9cdcf32-9c7f-4647-ac96-6056e038788c"
@@ -610,7 +603,7 @@
         "2e2b3a2f-8128-4e4c-936a-7b7824d7cc9e",
         "0e5847cb-12a7-4a9b-b8e0-f8cfe1183e20"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fad563e3-7fb2-4667-bdeb-af727da93112"
       ],
@@ -634,7 +627,7 @@
         "976d5e27-34c8-45b8-9c44-2f234e01c966",
         "d51f8dc5-1ffe-4b9a-a69d-bbb2e6f6a47a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "03f1c606-4447-4565-b111-214bc4f51caa",
         "a9cdcf32-9c7f-4647-ac96-6056e038788c",
@@ -655,7 +648,7 @@
       "mappedKnowledge": [
         "3cd7770f-901d-4e04-a159-253f293c72af"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "03f1c606-4447-4565-b111-214bc4f51caa",
         "a8954e35-0dd4-426d-9c4f-6d1591612268",
@@ -681,7 +674,7 @@
         "d5e79385-f45d-49df-92da-48e43d53bd47",
         "65f7d8db-dd4e-488a-be51-23fafb9aafad"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "df945fd9-8981-42b8-9a9f-2d974ecf86e1"
       ],
@@ -701,7 +694,7 @@
         "2e2b3a2f-8128-4e4c-936a-7b7824d7cc9e",
         "ea6fead8-42d0-4cb6-b127-1fc4754fc377"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2dbfb23b-52cf-41c3-84ee-f6412047deba"
       ],
@@ -734,7 +727,7 @@
       "dutyID": "64a860dd-07f8-4f8e-be27-f4971615dea1",
       "dutyDetail": "Carry out complex site carpentry tasks conforming to all current and relevant building regulations, quality standards and specifications",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "41c29e39-c0b8-4a11-b119-8a071a332b94",
         "7d245d44-299f-40d5-ac2e-af49d415a706",
@@ -757,7 +750,7 @@
       "dutyID": "1b6d56b1-137e-4bdf-80a2-99d517e115e6",
       "dutyDetail": "Install accessible service encasements, bespoke wall and floor units, fitments, panelling and stair components (e.g. balustrades, handrails and spindles to staircases with turns)",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "41c29e39-c0b8-4a11-b119-8a071a332b94",
         "7d245d44-299f-40d5-ac2e-af49d415a706",
@@ -778,7 +771,7 @@
       "dutyID": "8744bdce-534f-4739-83ae-1750246794ec",
       "dutyDetail": "Erect inclined roofs with gables, roof verges and eaves, including finishings, joists and roof coverings, dormers and features",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "14ffba67-01a8-4654-a0d0-dc56b26a381e"
       ],
@@ -795,7 +788,7 @@
       "dutyID": "913061a2-68df-49b2-9da7-a63bc6dea248",
       "dutyDetail": "Repair, modify, maintain and or replace frames, mouldings, floor or flat roof joist coverings, door and window ironmongery, window components, structural joists and rafters, window components, guttering and downpipes",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "d51f8dc5-1ffe-4b9a-a69d-bbb2e6f6a47a",
         "e291990b-301f-45ba-8b10-74a7661c95f4",
@@ -816,7 +809,7 @@
       "dutyID": "cb1b9ccb-ce83-4003-bc47-d408d0964fcc",
       "dutyDetail": "Carry out complex architectural carpentry tasks conforming to all current and relevant building regulations, quality standards and specifications. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "f0d82a04-07b3-4f5d-9e7e-3622f7976c37",
         "24bab70e-27d2-455c-80f8-b7cc39fc2717"
@@ -835,7 +828,7 @@
       "dutyID": "113ce9b2-7799-494a-9c29-e3486c3a1f13",
       "dutyDetail": "Fit and assemble non-standard complex timber products ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "f0d82a04-07b3-4f5d-9e7e-3622f7976c37",
         "24bab70e-27d2-455c-80f8-b7cc39fc2717"
@@ -854,7 +847,7 @@
       "dutyID": "d23b2e30-ba6c-4621-8c5f-8f8294576543",
       "dutyDetail": "Set out complex work tasks for non-standard architectural joinery products, including complex door sets, doors, windows, units and fitments, staircases (straight and with turns) and products with single/double curvature features",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "34ee481e-9dcc-416e-9f51-d9672dd2433e",
         "6a288c3f-8251-42cf-b2e8-539b52d4ed20",
@@ -877,7 +870,7 @@
       "dutyID": "ebe48ab2-a6cf-4dad-8e34-890d5508f9bb",
       "dutyDetail": "Mark out accurately from setting out details for the manufacture of complex and shaped (circular and circular on circular) doors, opening windows, units and fitments and staircases",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "34ee481e-9dcc-416e-9f51-d9672dd2433e",
         "6a288c3f-8251-42cf-b2e8-539b52d4ed20",
@@ -898,7 +891,7 @@
       "dutyID": "979cdf7d-b228-462e-b781-867ee7935ec4",
       "dutyDetail": "Create complex, decorative and shaped (circular and circular on circular) architectural joinery products including doors, windows with opening lights, units and fitments, panelling/cladding, staircases (straight and with turns) and veneers",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "6a288c3f-8251-42cf-b2e8-539b52d4ed20",
         "f0d82a04-07b3-4f5d-9e7e-3622f7976c37",
@@ -919,7 +912,7 @@
       "dutyID": "355d35da-8110-4aa2-8264-19bf6044fc57",
       "dutyDetail": "Use and maintain marking tools, hand tools, power tools and associated equipment required for complex work",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "f0d82a04-07b3-4f5d-9e7e-3622f7976c37",
         "24bab70e-27d2-455c-80f8-b7cc39fc2717",
@@ -934,6 +927,18 @@
         "74ca5f2f-9a97-429a-a64e-f37166db1f13"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "a19a8891-c291-4442-a1a9-4980eca21c41",
+      "title": "Craft Site Carpenter",
+      "occupationCode": null
+    },
+    {
+      "optionId": "def59af7-b586-4caf-81f7-2ee54b86c5c5",
+      "title": "Craft Architectural Joiner",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
