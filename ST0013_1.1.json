@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/38",
   "versionNumber": "",
   "change": "Standard and end-point assessment plan revised. Funding band revised but remained",
-  "changedDate": "2023-02-23T00:00:00Z",
-  "earliestStartDate": "2023-11-06T00:00:00Z",
+  "changedDate": "2023-02-23T00:00:00",
+  "earliestStartDate": "2023-11-06T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Developing software to support the aerospace industry.",
@@ -271,7 +271,6 @@
       "detail": "Apply software integration techniques. For example, networks, hardware or system integration."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -304,8 +303,11 @@
   "reviewDetails": "&lt;p&gt;In review&#160;&lt;/p&gt;",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Engineer",
+  "clusterId": "253",
+  "clusterDescription": "Design and develop a range of products and/or process technologies using discipline and applications specific expertise",
   "createdDate": "2023-02-23T15:19:44 +00:00",
   "lastUpdated": "2023-02-23T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/aerospace-software-engineer-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/aerospace-software-engineer-in-revision",
   "qualifications": [
@@ -369,7 +371,7 @@
         "bb608ecc-2fed-4485-bca5-f1ff203b5dad",
         "a6c93314-a41b-4524-873f-9813ce5e4636"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9bd1371b-ff3a-4b06-90a7-2e9bd2f75748",
         "90900e5f-1064-4d89-ba96-85936c3ea90b",
@@ -412,7 +414,7 @@
         "a6c93314-a41b-4524-873f-9813ce5e4636",
         "f9c62831-7d2e-4f1a-ab3e-ded70f9f3fd3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b99e3ede-8c9d-4f14-b4e6-662fb2c0b9da",
         "74f82f76-0be5-4d33-b7c2-8f0098f58243",
@@ -460,7 +462,7 @@
         "bb608ecc-2fed-4485-bca5-f1ff203b5dad",
         "f9c62831-7d2e-4f1a-ab3e-ded70f9f3fd3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b99e3ede-8c9d-4f14-b4e6-662fb2c0b9da",
         "74f82f76-0be5-4d33-b7c2-8f0098f58243",
@@ -507,7 +509,7 @@
         "f9c62831-7d2e-4f1a-ab3e-ded70f9f3fd3",
         "d0fa72e0-b1fa-4534-89bd-682988ae51ba"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b99e3ede-8c9d-4f14-b4e6-662fb2c0b9da",
         "74f82f76-0be5-4d33-b7c2-8f0098f58243",
@@ -561,7 +563,7 @@
         "f9c62831-7d2e-4f1a-ab3e-ded70f9f3fd3",
         "d0fa72e0-b1fa-4534-89bd-682988ae51ba"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b99e3ede-8c9d-4f14-b4e6-662fb2c0b9da",
         "74f82f76-0be5-4d33-b7c2-8f0098f58243",
@@ -608,7 +610,7 @@
         "6306865c-1b98-49d1-8af8-b23299595722",
         "f9c62831-7d2e-4f1a-ab3e-ded70f9f3fd3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b99e3ede-8c9d-4f14-b4e6-662fb2c0b9da",
         "74f82f76-0be5-4d33-b7c2-8f0098f58243",
@@ -648,7 +650,7 @@
         "f9c62831-7d2e-4f1a-ab3e-ded70f9f3fd3",
         "d0fa72e0-b1fa-4534-89bd-682988ae51ba"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "74f82f76-0be5-4d33-b7c2-8f0098f58243",
         "f16f1e13-1bb7-4c21-926b-e9af507f4932",
@@ -695,7 +697,7 @@
         "6306865c-1b98-49d1-8af8-b23299595722",
         "f9c62831-7d2e-4f1a-ab3e-ded70f9f3fd3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "74f82f76-0be5-4d33-b7c2-8f0098f58243",
         "89c04ef2-feb8-4c16-bed2-65c0e7b188f7",
@@ -733,7 +735,7 @@
         "6306865c-1b98-49d1-8af8-b23299595722",
         "f9c62831-7d2e-4f1a-ab3e-ded70f9f3fd3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "74f82f76-0be5-4d33-b7c2-8f0098f58243",
         "9bd1371b-ff3a-4b06-90a7-2e9bd2f75748",
@@ -776,7 +778,7 @@
         "bb608ecc-2fed-4485-bca5-f1ff203b5dad",
         "a6c93314-a41b-4524-873f-9813ce5e4636"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9bd1371b-ff3a-4b06-90a7-2e9bd2f75748",
         "e252b8ee-f433-430e-8244-2a8a6a237517",
@@ -812,7 +814,7 @@
         "a8845039-d056-422b-af33-98d83c7f68d1",
         "a8d4bda0-ea00-4393-a2aa-1aa70ad2fb9e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9bd1371b-ff3a-4b06-90a7-2e9bd2f75748",
         "90900e5f-1064-4d89-ba96-85936c3ea90b",
@@ -830,6 +832,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training Provider",
