@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/42",
   "versionNumber": "1.3",
   "change": "Standard, End-point assessment plan and funding revised.",
-  "changedDate": "2023-06-30T00:00:00Z",
-  "earliestStartDate": "2023-06-30T00:00:00Z",
+  "changedDate": "2023-06-30T00:00:00",
+  "earliestStartDate": "2023-06-30T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing legal and administrative support, carrying out research and drafting legal documents and forms. ",
@@ -191,7 +191,6 @@
       "detail": "assess risks and benefits to the stakeholder of different options and making recommendations to senior team members to ensure that they work in the stakeholders’ best interests."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -231,8 +230,11 @@
   "reviewDetails": "",
   "pathway": "Legal",
   "cluster": "Legal Assistant",
+  "clusterId": "275",
+  "clusterDescription": "Under supervision, provide legal support; delivering advice, research and document drafting and/or processing files, providing administrative support and dealing with clients",
   "createdDate": "2023-05-19T14:45:50 +00:00",
   "lastUpdated": "2023-06-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/paralegal-v1-3?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/paralegal-v1-3",
   "qualifications": [],
@@ -273,7 +275,7 @@
         "d6cbf1b1-437f-4e69-881b-60f86f6ba8ea",
         "c668de2f-06db-4efd-a6a1-225e0514baa1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f7030014-d806-4e9b-b01f-86807ff94504",
         "3e393b95-0ad5-4081-9121-9dc9d8b3dcf8",
@@ -314,7 +316,7 @@
         "d6cbf1b1-437f-4e69-881b-60f86f6ba8ea",
         "c668de2f-06db-4efd-a6a1-225e0514baa1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f7030014-d806-4e9b-b01f-86807ff94504",
         "2a2cc7cd-3fa5-4b9f-b8ea-923921565264",
@@ -331,7 +333,7 @@
       "dutyID": "cbe013d1-9595-4fb7-80ee-45efaf461250",
       "dutyDetail": "complete routine legal research and present information in response to requests from others under supervision ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "f3e200af-5349-4966-928a-4428a7829801",
         "b4d4e6b0-8202-4102-a0f5-3d05d8641750",
@@ -343,7 +345,7 @@
         "d6cbf1b1-437f-4e69-881b-60f86f6ba8ea",
         "58afcfaf-76bc-4c52-b89a-f9465e1a6166"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f7030014-d806-4e9b-b01f-86807ff94504",
         "3e393b95-0ad5-4081-9121-9dc9d8b3dcf8",
@@ -376,7 +378,7 @@
         "12695938-1301-45da-a9c5-b6b19f096442",
         "d6cbf1b1-437f-4e69-881b-60f86f6ba8ea"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f7030014-d806-4e9b-b01f-86807ff94504",
         "3e393b95-0ad5-4081-9121-9dc9d8b3dcf8",
@@ -395,7 +397,7 @@
       "dutyID": "0e17430e-574a-4d1f-ad9b-b0f7ed14f6fc",
       "dutyDetail": "produce first drafts of legal documents and proof read documents under supervision using digital tools ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "f3e200af-5349-4966-928a-4428a7829801",
         "b4d4e6b0-8202-4102-a0f5-3d05d8641750",
@@ -404,7 +406,7 @@
         "70560995-41ef-45c6-8cc7-4caa40819ed7",
         "45c15877-ef93-43cc-b8bc-3abbe8c1e3db"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f7030014-d806-4e9b-b01f-86807ff94504",
         "cb33b819-b90e-4bdf-9771-7e2a78da5be9",
@@ -434,7 +436,7 @@
         "c668de2f-06db-4efd-a6a1-225e0514baa1",
         "58afcfaf-76bc-4c52-b89a-f9465e1a6166"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f7030014-d806-4e9b-b01f-86807ff94504",
         "3e393b95-0ad5-4081-9121-9dc9d8b3dcf8",
@@ -466,7 +468,7 @@
         "c8880adb-199f-4560-a1b4-f13741cf974a",
         "12695938-1301-45da-a9c5-b6b19f096442"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f7030014-d806-4e9b-b01f-86807ff94504",
         "cb33b819-b90e-4bdf-9771-7e2a78da5be9",
@@ -497,7 +499,7 @@
         "c668de2f-06db-4efd-a6a1-225e0514baa1",
         "58afcfaf-76bc-4c52-b89a-f9465e1a6166"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f7030014-d806-4e9b-b01f-86807ff94504",
         "3e393b95-0ad5-4081-9121-9dc9d8b3dcf8",
@@ -527,7 +529,7 @@
         "c668de2f-06db-4efd-a6a1-225e0514baa1",
         "bc17a900-03d5-4bf1-8f4d-6d0e5d1c2bf4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f7030014-d806-4e9b-b01f-86807ff94504",
         "2a2cc7cd-3fa5-4b9f-b8ea-923921565264",
@@ -561,7 +563,7 @@
         "d6cbf1b1-437f-4e69-881b-60f86f6ba8ea",
         "c668de2f-06db-4efd-a6a1-225e0514baa1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f7030014-d806-4e9b-b01f-86807ff94504",
         "2a2cc7cd-3fa5-4b9f-b8ea-923921565264",
@@ -596,7 +598,7 @@
         "12695938-1301-45da-a9c5-b6b19f096442",
         "d6cbf1b1-437f-4e69-881b-60f86f6ba8ea"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f7030014-d806-4e9b-b01f-86807ff94504",
         "2a2cc7cd-3fa5-4b9f-b8ea-923921565264",
@@ -629,7 +631,7 @@
         "c668de2f-06db-4efd-a6a1-225e0514baa1",
         "58afcfaf-76bc-4c52-b89a-f9465e1a6166"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f7030014-d806-4e9b-b01f-86807ff94504",
         "3e393b95-0ad5-4081-9121-9dc9d8b3dcf8",
@@ -660,7 +662,7 @@
         "d6cbf1b1-437f-4e69-881b-60f86f6ba8ea",
         "58afcfaf-76bc-4c52-b89a-f9465e1a6166"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f7030014-d806-4e9b-b01f-86807ff94504",
         "3e393b95-0ad5-4081-9121-9dc9d8b3dcf8",
@@ -697,7 +699,7 @@
         "bc17a900-03d5-4bf1-8f4d-6d0e5d1c2bf4",
         "58afcfaf-76bc-4c52-b89a-f9465e1a6166"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f7030014-d806-4e9b-b01f-86807ff94504",
         "3e393b95-0ad5-4081-9121-9dc9d8b3dcf8",
@@ -714,6 +716,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
