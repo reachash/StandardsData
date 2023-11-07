@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/478",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2019-07-03T00:00:00Z",
-  "earliestStartDate": "2019-07-03T00:00:00Z",
+  "changedDate": "2019-07-03T00:00:00",
+  "earliestStartDate": "2019-07-03T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Inspecting marine vessels to ensure they comply with standards and regulations.",
@@ -245,7 +245,6 @@
       "detail": "Identify causal factors and means of prevention of re-occurrence of ship, structural, machinery, equipment or systems failures."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -284,8 +283,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Quality Improvement, Health & Safety Professional",
+  "clusterId": "257",
+  "clusterDescription": "Direct and manage overall product and process integrity and quality, and the health and safety of a whole workplace",
   "createdDate": "2020-01-16T10:24:56 +00:00",
   "lastUpdated": "2019-07-03T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/marine-surveyor-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/marine-surveyor-degree-v1-0",
   "qualifications": [
@@ -324,7 +326,7 @@
         "1ce166dc-a623-484d-ac53-72ca151ff1f5",
         "1cfbcd1a-6945-453a-9192-6496ae672195"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1de0076b-b28e-4610-8fa3-d608e5801c47",
         "4432ffa2-56b1-40a0-9bea-e8a2efbfe6a0",
@@ -358,7 +360,7 @@
         "455e16f4-2f02-46a9-b7a9-16b321fb5f8b",
         "b1621147-e14f-4c4b-bc75-bad2312d53a0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1de0076b-b28e-4610-8fa3-d608e5801c47",
         "d09e4e58-6a7e-48a2-b6fc-103d5e7964cb",
@@ -386,7 +388,7 @@
         "16ea604a-3114-4791-a6a6-5804727bbd15",
         "60637ede-26d8-45ce-b990-5f803a2037ed"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1de0076b-b28e-4610-8fa3-d608e5801c47",
         "4432ffa2-56b1-40a0-9bea-e8a2efbfe6a0",
@@ -417,7 +419,7 @@
         "455e16f4-2f02-46a9-b7a9-16b321fb5f8b",
         "08504028-9c5b-45fa-8c95-377f2846b9cf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d09e4e58-6a7e-48a2-b6fc-103d5e7964cb",
         "e2caa327-9ed9-4466-b7a0-7621a35f59d5",
@@ -452,7 +454,7 @@
         "b1621147-e14f-4c4b-bc75-bad2312d53a0",
         "b30e9f58-83d8-46cd-9a3c-5d38ece59dab"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1de0076b-b28e-4610-8fa3-d608e5801c47",
         "4432ffa2-56b1-40a0-9bea-e8a2efbfe6a0",
@@ -497,7 +499,7 @@
         "78b7815e-9ec3-42f9-b5b7-474a253e0498",
         "e39e37d1-6c4d-4f3a-b4d8-48225b84a9d4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1de0076b-b28e-4610-8fa3-d608e5801c47",
         "4432ffa2-56b1-40a0-9bea-e8a2efbfe6a0",
@@ -534,7 +536,7 @@
         "455e16f4-2f02-46a9-b7a9-16b321fb5f8b",
         "1892b737-6a64-4e77-a6e7-e1a5f2a70440"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1de0076b-b28e-4610-8fa3-d608e5801c47",
         "fce7acde-a424-4828-91ac-4ef043dc35b8",
@@ -574,7 +576,7 @@
         "60637ede-26d8-45ce-b990-5f803a2037ed",
         "4ba3b20f-a99d-4ff4-9932-d81086b7eca7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1de0076b-b28e-4610-8fa3-d608e5801c47",
         "fce7acde-a424-4828-91ac-4ef043dc35b8",
@@ -606,7 +608,7 @@
         "78b7815e-9ec3-42f9-b5b7-474a253e0498",
         "259c7626-65af-4fa9-ae78-01c6b19b7399"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1de0076b-b28e-4610-8fa3-d608e5801c47",
         "4432ffa2-56b1-40a0-9bea-e8a2efbfe6a0",
@@ -648,7 +650,7 @@
         "16ea604a-3114-4791-a6a6-5804727bbd15",
         "2703d04f-5ed4-4c32-9c8c-f5b9e6eca74d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1de0076b-b28e-4610-8fa3-d608e5801c47",
         "4432ffa2-56b1-40a0-9bea-e8a2efbfe6a0",
@@ -668,6 +670,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
