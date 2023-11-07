@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/272",
   "versionNumber": "1.0",
   "change": "",
-  "changedDate": "2022-05-31T00:00:00Z",
-  "earliestStartDate": "2018-05-08T00:00:00Z",
+  "changedDate": "2022-05-31T00:00:00",
+  "earliestStartDate": "2018-05-08T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Working within the higher education (HE) sector delivering higher education teaching",
@@ -233,16 +233,6 @@
       "detail": "Develop and sustain links with industry and other external organisations to grow collaborations and develop opportunities to access funding"
     }
   ],
-  "options": [
-    {
-      "optionId": "178fe528-e987-4bee-839e-15480a52a403",
-      "title": "Research"
-    },
-    {
-      "optionId": "6042a141-1acf-4c8a-83d8-93a05eb73416",
-      "title": "Teaching"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Research",
     "Teaching"
@@ -271,15 +261,30 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "",
-  "pathway": "Education and Childcare",
-  "cluster": "Teaching Professional",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2017-11-14T17:09:42 +00:00",
   "lastUpdated": "2022-05-31T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/academic-professional-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/academic-professional-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "178fe528-e987-4bee-839e-15480a52a403",
+      "title": "Research",
+      "occupationCode": null
+    },
+    {
+      "optionId": "6042a141-1acf-4c8a-83d8-93a05eb73416",
+      "title": "Teaching",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
