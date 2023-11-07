@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/376",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-01-26T00:00:00Z",
-  "earliestStartDate": "2018-11-08T00:00:00Z",
+  "changedDate": "2023-01-26T00:00:00",
+  "earliestStartDate": "2018-11-08T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Installing and dismantling capital plant steel infrastructure and lifting, moving and positioning loads during engineering construction projects.",
@@ -266,16 +266,6 @@
       "detail": "Inform the appropriate people when the load lifting and moving operation is complete"
     }
   ],
-  "options": [
-    {
-      "optionId": "085bf78c-dad1-467a-81a4-db88d8817164",
-      "title": "Engineering construction erector"
-    },
-    {
-      "optionId": "f26df2b5-ca56-4d16-973c-6a3b9d836adc",
-      "title": "Engineering construction rigger"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Engineering construction erector",
     "Engineering construction rigger"
@@ -307,15 +297,30 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "",
-  "pathway": "Onsite Construction",
-  "cluster": "Construction Specialist Operative/Technician",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2017-11-14T17:09:20 +00:00",
   "lastUpdated": "2023-01-26T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/engineering-construction-erector-rigger-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/engineering-construction-erector-rigger-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "085bf78c-dad1-467a-81a4-db88d8817164",
+      "title": "Engineering construction erector",
+      "occupationCode": null
+    },
+    {
+      "optionId": "f26df2b5-ca56-4d16-973c-6a3b9d836adc",
+      "title": "Engineering construction rigger",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
