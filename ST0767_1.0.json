@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/508",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2019-09-30T00:00:00Z",
-  "earliestStartDate": "2019-09-30T00:00:00Z",
+  "changedDate": "2019-09-30T00:00:00",
+  "earliestStartDate": "2019-09-30T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Maintaining, repairing and carrying out minor works on a variety of water environment assets.",
@@ -485,24 +485,6 @@
       "detail": "Appreciate risk of different types of livestock in rural settings and adapt working practices to accommodate those risks"
     }
   ],
-  "options": [
-    {
-      "optionId": "8ce96899-891c-45e7-b6b2-908b40de81dc",
-      "title": "Managing Assets & Responding to Major Incidents in the Water Environment"
-    },
-    {
-      "optionId": "6d54e8f6-01f8-48a4-bd69-53fc55e191ef",
-      "title": "Working with Volunteers in the Water Environment"
-    },
-    {
-      "optionId": "994c4ff8-1744-42d5-9346-bf38c53b20f4",
-      "title": "Maintaining & Working with Heritage Assets in the Water Environment"
-    },
-    {
-      "optionId": "b3d14b1c-10c8-4611-ae34-4355daefa973",
-      "title": "Water Level Management, Flood Risk and Drainage in the Water Environment"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -532,10 +514,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
-  "pathway": "Agriculture, Land Management and Production",
-  "cluster": "Environment Technician",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2019-08-09T07:39:16 +00:00",
   "lastUpdated": "2019-09-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/water-environment-worker-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/water-environment-worker-v1-0",
   "qualifications": [
@@ -627,7 +612,7 @@
         "4a28ca27-e115-48fd-945b-c4012b9952e7",
         "68032c49-6ba4-4484-9f53-d98a94870060"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "59b5c8c5-5ad0-46c0-88b2-7824a1ba62aa",
         "5c095b46-658f-4cbf-a4fb-bbfa97936da0",
@@ -650,7 +635,7 @@
         "a5ae97f1-2a1d-4034-a5aa-17c5ec88aec3",
         "2d8c6da8-a1e6-432f-8494-4ffd92685b04"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "05152b8a-eb26-4724-8e87-4e0ea167a5fc",
         "edf4ff3c-0f5b-40f8-bf85-6c9d43b22f9a",
@@ -675,7 +660,7 @@
         "4c39cab5-b1bc-467e-ba27-f90331cc793e",
         "f622469e-b3e0-4d76-bf71-0c4b0ff7c411"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bed5e1f5-442c-4cb8-81b6-a9e1dbde21fc",
         "a170387d-a793-40d0-8863-ffade34793a0",
@@ -698,7 +683,7 @@
         "421a24c2-c58e-45f7-b314-e0bb412e17f3",
         "6b7ea050-6e49-40a9-bc68-8ad4148f3b9f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "54c3e1db-4b66-42d9-af1a-78a1f64b2fa4",
         "2a02514f-5057-4980-81db-bd8ea1335eef",
@@ -721,7 +706,7 @@
         "6b40c27d-e17c-488f-828e-3e9fd741b838",
         "15ef6156-d0eb-4950-8f67-8afc20f2da8b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ed91248d-4f16-44b5-a529-47c7300159b5",
         "b668d78a-679a-4154-8456-2cadb4798e9d",
@@ -741,7 +726,7 @@
         "16207fee-4fbe-42ef-80ba-bf935a2239fd",
         "2d8c6da8-a1e6-432f-8494-4ffd92685b04"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "59b5c8c5-5ad0-46c0-88b2-7824a1ba62aa",
         "05152b8a-eb26-4724-8e87-4e0ea167a5fc",
@@ -761,7 +746,7 @@
         "f0f00eab-624c-449b-b4b1-2d805a6ac447",
         "81e76707-1a48-4d85-a517-b131992015f3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5f41eacf-0c60-41a4-978a-f035de16ee02",
         "0a5a77a7-2172-4502-9652-c90b0c85c7c8"
@@ -782,7 +767,7 @@
         "c49a5375-4382-4f8e-b047-66a621eafeae",
         "6b40c27d-e17c-488f-828e-3e9fd741b838"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1e6de72d-f8aa-438a-be76-9ea5ecd8797b",
         "2f4b3c18-53e0-4fff-b757-f1333b25aa29"
@@ -802,7 +787,7 @@
         "79270131-75ef-41bf-ad61-69ee16a5eff9",
         "0e757672-d955-428c-892e-d65ff145e0d6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d83e1144-9dee-49a0-843b-b53ba311730d",
         "2a02514f-5057-4980-81db-bd8ea1335eef"
@@ -824,7 +809,7 @@
         "a5ae97f1-2a1d-4034-a5aa-17c5ec88aec3",
         "4157d585-aa95-4ad7-92b0-dc8563fc5b26"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2a02514f-5057-4980-81db-bd8ea1335eef",
         "0be78bdf-2e21-4bdd-be2f-b1daf71d0e71"
@@ -844,7 +829,7 @@
         "a5ae97f1-2a1d-4034-a5aa-17c5ec88aec3",
         "4157d585-aa95-4ad7-92b0-dc8563fc5b26"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "edf4ff3c-0f5b-40f8-bf85-6c9d43b22f9a",
         "2a02514f-5057-4980-81db-bd8ea1335eef"
@@ -1091,6 +1076,28 @@
         "9a8eba53-0181-4705-820c-a7948043e65d"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "8ce96899-891c-45e7-b6b2-908b40de81dc",
+      "title": "Managing Assets & Responding to Major Incidents in the Water Environment",
+      "occupationCode": null
+    },
+    {
+      "optionId": "6d54e8f6-01f8-48a4-bd69-53fc55e191ef",
+      "title": "Working with Volunteers in the Water Environment",
+      "occupationCode": null
+    },
+    {
+      "optionId": "994c4ff8-1744-42d5-9346-bf38c53b20f4",
+      "title": "Maintaining & Working with Heritage Assets in the Water Environment",
+      "occupationCode": null
+    },
+    {
+      "optionId": "b3d14b1c-10c8-4611-ae34-4355daefa973",
+      "title": "Water Level Management, Flood Risk and Drainage in the Water Environment",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
