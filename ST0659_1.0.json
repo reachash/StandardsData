@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/426",
   "versionNumber": "1.0",
   "change": "",
-  "changedDate": "2019-03-22T00:00:00Z",
-  "earliestStartDate": "2019-03-22T00:00:00Z",
+  "changedDate": "2019-03-22T00:00:00",
+  "earliestStartDate": "2019-03-22T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Controlling and managing the complex manufacturing processes for different materials",
@@ -264,32 +264,6 @@
       "detail": "Correct use of product life cycle concepts"
     }
   ],
-  "options": [
-    {
-      "optionId": "dfd7a1dc-b5b6-4a8d-bf92-f4eafcd38e5d",
-      "title": " Casting"
-    },
-    {
-      "optionId": "8119ac85-7291-4446-b370-162a423b5a81",
-      "title": " Coatings"
-    },
-    {
-      "optionId": "47cc1fc2-8b66-4cc0-bc24-45c5314a9e40",
-      "title": " Welding"
-    },
-    {
-      "optionId": "25ca94b5-e37f-4e18-8b97-1e77e83aa5ce",
-      "title": " Brazing"
-    },
-    {
-      "optionId": "67bf31a4-cd0a-4d43-96ca-5bfa4d4637e3",
-      "title": " Heat Treatment"
-    },
-    {
-      "optionId": "8971cc3f-027c-498c-ad9c-557a3d4160ce",
-      "title": " Surface Treatment"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -330,8 +304,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Plant and Process Engineer",
+  "clusterId": "266",
+  "clusterDescription": "Develop and improve the operation and development of manufacturing processes and systems and enable them to operate safely and efficiently",
   "createdDate": "2019-09-30T11:56:55 +00:00",
   "lastUpdated": "2019-03-22T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/materials-process-engineer-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/materials-process-engineer-degree-v1-0",
   "qualifications": [
@@ -402,7 +379,7 @@
         "bd88ae32-6490-49f5-8344-6629029d58bf",
         "a1fd1c34-8d96-4c49-81ab-d282d03796e7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
@@ -425,7 +402,7 @@
         "c983e4f0-5f87-436f-a373-518274285c1f",
         "658af487-b6cb-49a7-ae2d-8cceb23deca2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
@@ -453,7 +430,7 @@
         "9040a5c8-2067-4852-b6f2-9b8638da37f0",
         "12baf0df-470c-4480-8d78-2f31cefbacfe"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
@@ -480,7 +457,7 @@
         "b49d4266-66f6-415f-8eaa-784d46effda0",
         "5aa5f9d2-f6f8-4530-870a-fb559746c450"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
@@ -508,7 +485,7 @@
         "f26c6efd-1960-40ff-9b13-749464014c14",
         "5eef13b3-07de-40d5-a00f-660263c6fa26"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
@@ -532,7 +509,7 @@
         "f26c6efd-1960-40ff-9b13-749464014c14",
         "85add7dc-10dd-45e5-95be-8495833416b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "38851139-519e-4da7-9e42-0e62d76a2e57",
@@ -560,7 +537,7 @@
         "5aa5f9d2-f6f8-4530-870a-fb559746c450",
         "7176098f-bd76-400e-8673-5460fad97df6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
@@ -586,7 +563,7 @@
         "12baf0df-470c-4480-8d78-2f31cefbacfe",
         "5eef13b3-07de-40d5-a00f-660263c6fa26"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
@@ -614,7 +591,7 @@
         "b49d4266-66f6-415f-8eaa-784d46effda0",
         "5eef13b3-07de-40d5-a00f-660263c6fa26"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
@@ -642,7 +619,7 @@
         "658af487-b6cb-49a7-ae2d-8cceb23deca2",
         "12baf0df-470c-4480-8d78-2f31cefbacfe"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
@@ -669,7 +646,7 @@
         "9040a5c8-2067-4852-b6f2-9b8638da37f0",
         "b49d4266-66f6-415f-8eaa-784d46effda0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
@@ -695,7 +672,7 @@
         "85add7dc-10dd-45e5-95be-8495833416b0",
         "5819f27b-20ce-42af-a514-b7f191333040"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "38851139-519e-4da7-9e42-0e62d76a2e57",
         "39fdacab-2399-4c96-97d0-e95b0884e66a",
@@ -724,7 +701,7 @@
         "f26c6efd-1960-40ff-9b13-749464014c14",
         "77a5f896-92be-42fe-9ec7-7c8676493a77"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "dc2d9284-5ba3-40c7-ad19-bf84f09805d0",
@@ -748,7 +725,7 @@
         "56d4e5a1-36b6-4346-8a2b-3b7ce958e3e7",
         "7864e1c7-96a4-464a-bd13-06f12feed9d2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b"
       ],
@@ -770,7 +747,7 @@
         "12baf0df-470c-4480-8d78-2f31cefbacfe",
         "56d4e5a1-36b6-4346-8a2b-3b7ce958e3e7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
         "8df90529-8738-4f7b-b02d-7f612e6ee1b9"
@@ -794,7 +771,7 @@
         "5819f27b-20ce-42af-a514-b7f191333040",
         "93da6787-91d8-4390-bea7-36cd566b53a6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
@@ -922,7 +899,7 @@
         "5f11fea3-c15e-4826-9b9b-ffb9e56f9d7d",
         "65de1480-01c1-4a41-800e-c85f42046233"
       ],
-      "mappedKnowledge": null,
+      "mappedKnowledge": [],
       "mappedOptions": [
         "8119ac85-7291-4446-b370-162a423b5a81"
       ],
@@ -985,7 +962,7 @@
         "5f11fea3-c15e-4826-9b9b-ffb9e56f9d7d",
         "65de1480-01c1-4a41-800e-c85f42046233"
       ],
-      "mappedKnowledge": null,
+      "mappedKnowledge": [],
       "mappedOptions": [
         "47cc1fc2-8b66-4cc0-bc24-45c5314a9e40"
       ],
@@ -1048,7 +1025,7 @@
         "5f11fea3-c15e-4826-9b9b-ffb9e56f9d7d",
         "65de1480-01c1-4a41-800e-c85f42046233"
       ],
-      "mappedKnowledge": null,
+      "mappedKnowledge": [],
       "mappedOptions": [
         "25ca94b5-e37f-4e18-8b97-1e77e83aa5ce"
       ],
@@ -1111,7 +1088,7 @@
         "5f11fea3-c15e-4826-9b9b-ffb9e56f9d7d",
         "65de1480-01c1-4a41-800e-c85f42046233"
       ],
-      "mappedKnowledge": null,
+      "mappedKnowledge": [],
       "mappedOptions": [
         "67bf31a4-cd0a-4d43-96ca-5bfa4d4637e3"
       ],
@@ -1174,7 +1151,7 @@
         "5f11fea3-c15e-4826-9b9b-ffb9e56f9d7d",
         "65de1480-01c1-4a41-800e-c85f42046233"
       ],
-      "mappedKnowledge": null,
+      "mappedKnowledge": [],
       "mappedOptions": [
         "8971cc3f-027c-498c-ad9c-557a3d4160ce"
       ],
@@ -1182,6 +1159,38 @@
         "5df06650-a4dc-4335-a444-1e4b0bc4769d"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "dfd7a1dc-b5b6-4a8d-bf92-f4eafcd38e5d",
+      "title": " Casting",
+      "occupationCode": null
+    },
+    {
+      "optionId": "8119ac85-7291-4446-b370-162a423b5a81",
+      "title": " Coatings",
+      "occupationCode": null
+    },
+    {
+      "optionId": "47cc1fc2-8b66-4cc0-bc24-45c5314a9e40",
+      "title": " Welding",
+      "occupationCode": null
+    },
+    {
+      "optionId": "25ca94b5-e37f-4e18-8b97-1e77e83aa5ce",
+      "title": " Brazing",
+      "occupationCode": null
+    },
+    {
+      "optionId": "67bf31a4-cd0a-4d43-96ca-5bfa4d4637e3",
+      "title": " Heat Treatment",
+      "occupationCode": null
+    },
+    {
+      "optionId": "8971cc3f-027c-498c-ad9c-557a3d4160ce",
+      "title": " Surface Treatment",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
