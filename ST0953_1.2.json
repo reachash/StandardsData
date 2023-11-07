@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/650",
   "versionNumber": "1.2",
   "change": "End-point assessment plan revised.",
-  "changedDate": "2023-02-22T00:00:00Z",
-  "earliestStartDate": "2023-02-13T00:00:00Z",
+  "changedDate": "2023-02-22T00:00:00",
+  "earliestStartDate": "2023-02-13T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Program reliable and efficient software.",
@@ -289,16 +289,6 @@
       "detail": "Profile and optimise code created by their technology users."
     }
   ],
-  "options": [
-    {
-      "optionId": "f312b99f-27aa-49a1-801d-9fb36f4404d6",
-      "title": "Game software programmer"
-    },
-    {
-      "optionId": "cc98d9c9-e9ce-4a24-804e-8c7d1ba11291",
-      "title": "Game technology programmer"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -335,8 +325,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years.&lt;/p&gt;",
   "pathway": "Digital Production, Design and Development",
   "cluster": "Software Development Professional",
+  "clusterId": "198",
+  "clusterDescription": "Software engineering covering modelling, simulation, human factors, systems engineering and influences upon product architecture throughout the whole product lifecycle",
   "createdDate": "2023-02-22T16:40:33 +00:00",
   "lastUpdated": "2023-02-22T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/game-programmer-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/game-programmer-v1-2",
   "qualifications": [],
@@ -358,7 +351,7 @@
         "71046fb6-1883-40c5-8763-55800eedf67f",
         "f0575c92-078e-48e2-8d2e-f8305a6c86b8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65c82315-2326-4976-937d-ba18e41de80c",
         "c99e0c71-8d53-4a4f-8165-9805abee9758",
@@ -383,7 +376,7 @@
         "23ff597b-4c2c-4500-bee5-056e72055502",
         "f0575c92-078e-48e2-8d2e-f8305a6c86b8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65c82315-2326-4976-937d-ba18e41de80c",
         "e3214ea4-27f2-458d-bc95-eb932bdb196d",
@@ -409,7 +402,7 @@
         "02dba563-27c6-4cb2-a48b-cfb62d2241df",
         "23ff597b-4c2c-4500-bee5-056e72055502"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c99e0c71-8d53-4a4f-8165-9805abee9758",
         "e3214ea4-27f2-458d-bc95-eb932bdb196d",
@@ -435,7 +428,7 @@
         "23ff597b-4c2c-4500-bee5-056e72055502",
         "31e2ff78-d57d-4f2a-9729-343f55468cc0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4f4af709-7caf-4b78-862d-94c54d0af9f0",
         "0b9adcd5-fd4a-4697-9c33-fb8f3b263a13",
@@ -459,7 +452,7 @@
         "b62aaa7d-8afe-4868-9e40-04d4a4f0b3da",
         "d365d532-351f-4f1c-abf0-ffa275d65b85"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a7bf8d5b-0f62-4ac9-a9ad-4ddd11d0cb01",
         "b783b8cd-e3e8-4369-88a9-c71fecdcc02f",
@@ -497,7 +490,7 @@
         "4f0db6d3-7f2e-4598-b1fd-a5614a5da6b2",
         "7d967390-8f26-4a32-b739-6d4f9a3b5f9f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3214ea4-27f2-458d-bc95-eb932bdb196d",
         "92a3b92c-2728-4267-81a0-7cb81d7d7d10",
@@ -529,7 +522,7 @@
         "4f0db6d3-7f2e-4598-b1fd-a5614a5da6b2",
         "7d967390-8f26-4a32-b739-6d4f9a3b5f9f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cded5ac4-0220-4fc5-bd00-fa940ebb9fcf",
         "e62e8b97-e558-400b-a4bb-4a5912383552",
@@ -551,7 +544,7 @@
       "mappedKnowledge": [
         "a005c970-ad86-4591-9812-205ddf474260"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "43f30e11-6f3f-4b6a-9661-9de85e48e2ad",
         "257fa37b-cabe-48a5-8b01-080b4901a39e"
@@ -571,7 +564,7 @@
         "8b5d91ac-ecc6-4fe4-b398-07c51c25e78b",
         "a005c970-ad86-4591-9812-205ddf474260"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "257fa37b-cabe-48a5-8b01-080b4901a39e",
         "f4377b6c-ca39-444a-911b-19fc935655da"
@@ -744,6 +737,18 @@
         "d1657bb9-60a0-4c2b-b23d-462672a17c9a"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "f312b99f-27aa-49a1-801d-9fb36f4404d6",
+      "title": "Game software programmer",
+      "occupationCode": null
+    },
+    {
+      "optionId": "cc98d9c9-e9ce-4a24-804e-8c7d1ba11291",
+      "title": "Game technology programmer",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
