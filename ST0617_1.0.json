@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/440",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-02-08T00:00:00Z",
-  "earliestStartDate": "2019-04-11T00:00:00Z",
+  "changedDate": "2022-02-08T00:00:00",
+  "earliestStartDate": "2019-04-11T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing facilities services support to customers and facilities management departments.",
@@ -459,7 +459,6 @@
       "detail": "Report on the extent that objectives have been met and escalate any issues in accordance with organizational expectations"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -495,10 +494,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
   "reviewDetails": "&lt;p&gt;This standard will be reviewed after three years.&lt;/p&gt;",
-  "pathway": "Building Services Engineering",
-  "cluster": "Facilities Management Operative/Supervisor",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2022-02-08T11:10:25 +00:00",
   "lastUpdated": "2022-02-08T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/facilities-services-operative-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/facilities-services-operative-v1-0",
   "qualifications": [
@@ -537,7 +539,7 @@
         "8a034f4d-6e28-442f-ba9d-738e1ff7a35d",
         "e155e41d-534b-42c2-ad92-b8985274fa71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a887bbf3-3900-49ac-a687-efb414e85763",
         "6f9665cc-fbeb-4d50-93cb-cba128698eec",
@@ -566,7 +568,7 @@
         "64ad17f9-b138-4c33-b2f9-9e8efb11c254",
         "21620aa5-6f4e-49ad-9b64-71f5fadcda78"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "567c0fc2-6bdd-4d46-a251-f33c749aa407",
         "7376298b-c71e-45b9-8f58-04c7b657dcf2",
@@ -597,7 +599,7 @@
         "3bcfda84-bdac-4be2-9fc1-745a6e0ffaf3",
         "7d7c0057-2562-4cdb-96ae-ffba941307bf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e2990739-b212-4df7-b55c-e47f61a6f3b4",
         "3b87355d-a8d8-4eac-b0b9-11c63cca820c",
@@ -624,7 +626,7 @@
         "a059a457-a800-4f28-b820-00d33852d67b",
         "961feb6f-b6e0-4e04-a473-7242df030967"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "79220160-c15b-4bc7-93fa-3530c5483176",
         "f87faa43-6e8f-4ee9-b54a-2203339a8ac8",
@@ -652,7 +654,7 @@
         "3800367d-df7c-4460-ba23-a3ab648df5a0",
         "01eca38d-14ee-480d-93bd-6a4b5ee583a8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cc48bdf6-63bd-421c-820e-f1b2551b31e4",
         "4c24fa8b-b724-4fd9-bc14-9cc84d8edcf3",
@@ -681,7 +683,7 @@
         "dd336a28-bf37-4d75-bcee-dba6e5974be1",
         "8d1a7488-08b9-4587-ae51-ad17935ba359"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f3ca8884-1367-4946-a34b-cc732e087ca2",
         "e33a623c-25a0-4949-ac4a-c8efc7009851",
@@ -709,7 +711,7 @@
         "8bb3fa6d-ebf7-4d42-971c-b7641f758bec",
         "cf065970-404f-4034-9035-2a16f056d048"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8c128a04-f6ab-4839-9737-d11cc97f02cb",
         "5b49634f-7050-45d1-9a62-c7697e17e67d",
@@ -739,7 +741,7 @@
         "084cad1c-764b-4c54-b002-7a9216fa5336",
         "b190fc1b-ec6d-4833-b765-51663ccc5a9f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d50dadb8-caaf-40fb-a5ba-84c0cdd6ce12",
         "db0edaa3-a241-46eb-8000-5b3f9c67c629",
@@ -768,7 +770,7 @@
         "86a469ba-fe8c-4f3e-bff5-eec19be6d3e9",
         "1324c103-0ad2-42bb-a498-763153618d7d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3522e470-19bf-4fa0-8be0-687bcc3c3807",
         "a1f29ee3-4474-43d0-b45a-ee2d6cd45cde",
@@ -795,7 +797,7 @@
         "c5d5b4fd-cde6-473a-9713-0137f8ddbc3e",
         "ec39be25-23c6-4b08-9356-745c740d4d70"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9e0b2ad1-6478-4c20-a2f0-9d695c8a4857",
         "e835b878-ee04-4496-a4b4-c7db8d9ae1f9",
@@ -805,6 +807,7 @@
       "criteriaForMeasuringPerformance": "Apprentices’ skills must be measured against the following criteria:\n\nS40 Standard Operating Procedures (SOPs), organizational expectations\n\nS41, S42, S43 Organizational expectations"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
