@@ -7,15 +7,15 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/470",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-01-24T00:00:00Z",
-  "earliestStartDate": "2019-07-03T00:00:00Z",
-  "latestStartDate": "2023-01-23T00:00:00Z",
+  "changedDate": "2023-01-24T00:00:00",
+  "earliestStartDate": "2019-07-03T00:00:00",
+  "latestStartDate": "2023-01-23T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Installing, repairing and maintaining various elements of the internal structure of a building.",
   "level": 2,
   "typicalDuration": 24,
   "maxFunding": 14000,
-  "route": "Construction and the built environment",
+  "route": "Construction",
   "keywords": [
     "Interior systems installer",
     "repairing",
@@ -341,16 +341,6 @@
       "detail": "Remove sections of ceiling and replace damaged grid & tile"
     }
   ],
-  "options": [
-    {
-      "optionId": "09e578d4-bf8d-47d6-98c7-aecb3a2065b2",
-      "title": "Drylining Systems"
-    },
-    {
-      "optionId": "305a4d38-cadb-40de-96ae-3a9151ac1024",
-      "title": "Suspended Ceiling & Partitioning Systems"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -384,8 +374,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Onsite Construction",
   "cluster": "Core Building Tradesperson",
+  "clusterId": "5",
+  "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
   "createdDate": "2022-04-29T14:44:15 +00:00",
   "lastUpdated": "2023-01-24T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/interior-systems-installer-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/interior-systems-installer-v1-0",
   "qualifications": [],
@@ -414,7 +407,7 @@
         "8f1d903f-99d0-4015-98e1-4ddde478bd4d",
         "81f4735c-cfca-46b1-90d5-9f0bc89c59b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f1145d68-b269-443b-9c13-325639e27184"
       ],
@@ -441,7 +434,7 @@
         "81f4735c-cfca-46b1-90d5-9f0bc89c59b0",
         "258f988c-f170-471a-a449-9f94519f2e61"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f1145d68-b269-443b-9c13-325639e27184",
         "ac93103f-1bb2-494e-a41d-3e0e3f0ba363",
@@ -481,7 +474,7 @@
         "81f4735c-cfca-46b1-90d5-9f0bc89c59b0",
         "258f988c-f170-471a-a449-9f94519f2e61"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f25a52c0-b154-430b-b9a7-15b61f664505",
         "e5bc0cbd-71f1-470e-bb21-76f7149d8cb7",
@@ -519,7 +512,7 @@
         "258f988c-f170-471a-a449-9f94519f2e61",
         "ab4bb7aa-1f01-4d91-8231-49d3e5ee6b4a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f1145d68-b269-443b-9c13-325639e27184",
         "ac93103f-1bb2-494e-a41d-3e0e3f0ba363",
@@ -557,7 +550,7 @@
         "258f988c-f170-471a-a449-9f94519f2e61",
         "ab4bb7aa-1f01-4d91-8231-49d3e5ee6b4a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f1145d68-b269-443b-9c13-325639e27184",
         "ac93103f-1bb2-494e-a41d-3e0e3f0ba363",
@@ -601,7 +594,7 @@
         "8f1d903f-99d0-4015-98e1-4ddde478bd4d",
         "81f4735c-cfca-46b1-90d5-9f0bc89c59b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ac93103f-1bb2-494e-a41d-3e0e3f0ba363",
         "1f9ad5fc-5c48-47f7-a95c-37750327f6ab",
@@ -877,7 +870,7 @@
       "dutyID": "9bf4a7c4-e972-4bb0-a95c-0d4b7e44f677",
       "dutyDetail": "Install and relocate modular demountable partition systems in accordance with manufacturers guidelines and specification",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "df5707b2-5597-4f87-815f-425fa400adc0",
         "55c19ac1-e287-4fea-a761-996297db5b61",
@@ -1000,6 +993,18 @@
         "f9677b7b-4a3f-4baa-a0ac-5754f2956c94"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "09e578d4-bf8d-47d6-98c7-aecb3a2065b2",
+      "title": "Drylining Systems",
+      "occupationCode": null
+    },
+    {
+      "optionId": "305a4d38-cadb-40de-96ae-3a9151ac1024",
+      "title": "Suspended Ceiling & Partitioning Systems",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
