@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/579",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-04-20T00:00:00Z",
-  "earliestStartDate": "2020-07-10T00:00:00Z",
-  "latestStartDate": "2023-04-06T00:00:00Z",
+  "changedDate": "2023-04-20T00:00:00",
+  "earliestStartDate": "2020-07-10T00:00:00",
+  "latestStartDate": "2023-04-06T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Service, repair and maintain lift trucks and powered access vehicles.",
   "level": 3,
@@ -193,7 +193,6 @@
       "detail": "Politely, keep customers and colleagues informed of progress and any difficulties in relation to work on hand, using the level of technical language appropriate to the audience, offering alternative solutions where required"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -224,8 +223,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2020-02-28T12:37:45 +00:00",
   "lastUpdated": "2023-04-20T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/lift-truck-and-powered-access-engineering-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/lift-truck-and-powered-access-engineering-technician-v1-0",
   "qualifications": [],
@@ -279,7 +281,7 @@
         "b439dad2-7eb9-4779-800b-28a2545b340d",
         "ced6de68-2b0a-41fb-ba8b-c1a244dc29b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c11b674-98cc-4c2b-b334-0b5d323d58d2",
         "514cb5fc-1507-40cc-bcd3-037b84e0604c",
@@ -330,7 +332,7 @@
         "b439dad2-7eb9-4779-800b-28a2545b340d",
         "ced6de68-2b0a-41fb-ba8b-c1a244dc29b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c11b674-98cc-4c2b-b334-0b5d323d58d2",
         "514cb5fc-1507-40cc-bcd3-037b84e0604c",
@@ -381,7 +383,7 @@
         "b439dad2-7eb9-4779-800b-28a2545b340d",
         "ced6de68-2b0a-41fb-ba8b-c1a244dc29b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c11b674-98cc-4c2b-b334-0b5d323d58d2",
         "514cb5fc-1507-40cc-bcd3-037b84e0604c",
@@ -432,7 +434,7 @@
         "b439dad2-7eb9-4779-800b-28a2545b340d",
         "ced6de68-2b0a-41fb-ba8b-c1a244dc29b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c11b674-98cc-4c2b-b334-0b5d323d58d2",
         "514cb5fc-1507-40cc-bcd3-037b84e0604c",
@@ -483,7 +485,7 @@
         "b439dad2-7eb9-4779-800b-28a2545b340d",
         "ced6de68-2b0a-41fb-ba8b-c1a244dc29b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c11b674-98cc-4c2b-b334-0b5d323d58d2",
         "514cb5fc-1507-40cc-bcd3-037b84e0604c",
@@ -534,7 +536,7 @@
         "b439dad2-7eb9-4779-800b-28a2545b340d",
         "ced6de68-2b0a-41fb-ba8b-c1a244dc29b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c11b674-98cc-4c2b-b334-0b5d323d58d2",
         "514cb5fc-1507-40cc-bcd3-037b84e0604c",
@@ -585,7 +587,7 @@
         "b439dad2-7eb9-4779-800b-28a2545b340d",
         "ced6de68-2b0a-41fb-ba8b-c1a244dc29b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c11b674-98cc-4c2b-b334-0b5d323d58d2",
         "514cb5fc-1507-40cc-bcd3-037b84e0604c",
@@ -636,7 +638,7 @@
         "b439dad2-7eb9-4779-800b-28a2545b340d",
         "ced6de68-2b0a-41fb-ba8b-c1a244dc29b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c11b674-98cc-4c2b-b334-0b5d323d58d2",
         "514cb5fc-1507-40cc-bcd3-037b84e0604c",
@@ -678,7 +680,7 @@
         "c24cfcc8-ac61-45b0-8219-62438abe827a",
         "ced6de68-2b0a-41fb-ba8b-c1a244dc29b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "514cb5fc-1507-40cc-bcd3-037b84e0604c",
         "8b5aad88-0f66-4faf-ba88-90fdc56714b0",
@@ -703,7 +705,7 @@
         "b439dad2-7eb9-4779-800b-28a2545b340d",
         "ced6de68-2b0a-41fb-ba8b-c1a244dc29b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2984257d-3ce8-4d32-a9f9-cce5ea9c5f39",
         "8b5aad88-0f66-4faf-ba88-90fdc56714b0",
@@ -740,7 +742,7 @@
         "b439dad2-7eb9-4779-800b-28a2545b340d",
         "ced6de68-2b0a-41fb-ba8b-c1a244dc29b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c11b674-98cc-4c2b-b334-0b5d323d58d2",
         "514cb5fc-1507-40cc-bcd3-037b84e0604c",
@@ -781,7 +783,7 @@
         "c24cfcc8-ac61-45b0-8219-62438abe827a",
         "ced6de68-2b0a-41fb-ba8b-c1a244dc29b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2984257d-3ce8-4d32-a9f9-cce5ea9c5f39",
         "8b5aad88-0f66-4faf-ba88-90fdc56714b0",
@@ -810,7 +812,7 @@
         "c24cfcc8-ac61-45b0-8219-62438abe827a",
         "ced6de68-2b0a-41fb-ba8b-c1a244dc29b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8b5aad88-0f66-4faf-ba88-90fdc56714b0",
         "208ac6e9-5717-4243-9e97-d4ea75325e66"
@@ -838,7 +840,7 @@
         "c24cfcc8-ac61-45b0-8219-62438abe827a",
         "ced6de68-2b0a-41fb-ba8b-c1a244dc29b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8b5aad88-0f66-4faf-ba88-90fdc56714b0",
         "208ac6e9-5717-4243-9e97-d4ea75325e66"
@@ -846,6 +848,7 @@
       "criteriaForMeasuringPerformance": "Language and tone are appropriate for target audience\n\nDelivered in line with company expectations"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
