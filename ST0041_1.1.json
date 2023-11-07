@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/275",
   "versionNumber": "1.1",
   "change": "Standard, funding band and end-point assessment plan revised",
-  "changedDate": "2022-12-30T00:00:00Z",
-  "earliestStartDate": "2022-07-01T00:00:00Z",
+  "changedDate": "2022-12-30T00:00:00",
+  "earliestStartDate": "2022-07-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Planning and installing electrical and mechanical systems within buildings.",
@@ -225,7 +225,6 @@
       "detail": "Plan, undertake and review their own professional competence, updating and reviewing their CPD to improve performance"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -267,10 +266,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "",
-  "pathway": "Building Services Engineering",
-  "cluster": "Building Services Engineering Technician",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2022-05-13T14:37:13 +00:00",
   "lastUpdated": "2022-12-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/building-services-engineering-senior-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/building-services-engineering-senior-technician-v1-1",
   "qualifications": [
@@ -305,7 +307,7 @@
         "d6f9855e-064a-40aa-8662-dbf02e55c650",
         "5aed5ffc-7b4b-4278-974d-d964069724de"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "10d82e43-3600-4754-9997-4cdd206d66bf",
         "b9c2a14a-0760-4a7d-8f2d-bdc82b1e8520",
@@ -327,7 +329,7 @@
         "3a0c1ead-f4a1-42f9-90b1-e750437fb26e",
         "392c71ff-a21c-4034-969d-8c909c68fd1b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "10d82e43-3600-4754-9997-4cdd206d66bf",
         "b9c2a14a-0760-4a7d-8f2d-bdc82b1e8520",
@@ -354,7 +356,7 @@
         "21c7ede5-dc6a-43f2-a8d3-f8eacaaf2e67",
         "b10321d5-7910-49a1-b231-6718df79549c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9c2a14a-0760-4a7d-8f2d-bdc82b1e8520",
         "9f5f79c8-6c18-4ca3-bbbd-dd0465d732ef",
@@ -380,7 +382,7 @@
         "d6f9855e-064a-40aa-8662-dbf02e55c650",
         "5aed5ffc-7b4b-4278-974d-d964069724de"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e96ff0ae-cf5e-4c00-b231-6e768ace00cc",
         "21bcc08a-192d-4c8e-93c6-5de4b7c9c2e3",
@@ -401,7 +403,7 @@
         "b6218ba8-4fc7-4e0a-9b70-beed6d467441",
         "392c71ff-a21c-4034-969d-8c909c68fd1b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9c2a14a-0760-4a7d-8f2d-bdc82b1e8520",
         "23ceeee5-5c01-4832-b221-421ce9f30e37",
@@ -422,7 +424,7 @@
         "0c8b6c0c-db7d-4afa-ba4a-6092afef8ccd",
         "a4b7f560-1530-47a0-964b-e536b0430d2f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fdf0b24e-aee2-4cb1-a9b5-e68d1481b0bf",
         "e96ff0ae-cf5e-4c00-b231-6e768ace00cc"
@@ -440,7 +442,7 @@
         "d6f9855e-064a-40aa-8662-dbf02e55c650",
         "38a36f8c-9f61-4773-adc2-584270ddbc00"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "21bcc08a-192d-4c8e-93c6-5de4b7c9c2e3",
         "a873b576-2340-4da6-a316-98b7bd9eaf35",
@@ -461,7 +463,7 @@
         "5aed5ffc-7b4b-4278-974d-d964069724de",
         "38a36f8c-9f61-4773-adc2-584270ddbc00"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "75fd3508-f3f6-4d32-865f-64ae71af2900",
         "a873b576-2340-4da6-a316-98b7bd9eaf35"
@@ -481,7 +483,7 @@
         "d6f9855e-064a-40aa-8662-dbf02e55c650",
         "322db3e9-ada3-4f13-b378-0b581bc7c286"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "21bcc08a-192d-4c8e-93c6-5de4b7c9c2e3",
         "48d5ed6a-e47e-48a8-a3bb-18dbb32a808e"
@@ -499,7 +501,7 @@
         "719d9a7b-6d75-41ef-946f-dd8d9ae868e3",
         "1a2e207f-ffc2-4b7e-9614-d3ce6f3f5b77"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "df6f16f4-be35-4764-9721-7188b8bedbe4"
       ],
@@ -515,7 +517,7 @@
       "mappedKnowledge": [
         "1a2e207f-ffc2-4b7e-9614-d3ce6f3f5b77"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "72b6b69c-cf31-4299-bae5-925171249e7c"
       ],
@@ -535,7 +537,7 @@
         "e37b85f5-009b-4f23-bbbe-38907c4b3aa8",
         "b1604660-d55b-4aef-8fac-419cb65ced2d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9f5f79c8-6c18-4ca3-bbbd-dd0465d732ef",
         "7fd4ad36-cb38-48e3-a37d-47f0de600430",
@@ -561,7 +563,7 @@
         "e37b85f5-009b-4f23-bbbe-38907c4b3aa8",
         "b1604660-d55b-4aef-8fac-419cb65ced2d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9f5f79c8-6c18-4ca3-bbbd-dd0465d732ef",
         "1e855119-6ccd-41e7-a145-e874cfd4bc0f",
@@ -583,7 +585,7 @@
         "e37b85f5-009b-4f23-bbbe-38907c4b3aa8",
         "b1604660-d55b-4aef-8fac-419cb65ced2d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7fd4ad36-cb38-48e3-a37d-47f0de600430",
         "48d5ed6a-e47e-48a8-a3bb-18dbb32a808e"
@@ -600,13 +602,14 @@
       "mappedKnowledge": [
         "044ec61b-c6d3-45e0-a3c6-44883d7c8e54"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c844e33c-995c-4eeb-8b92-f3fb2ca68974"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
