@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/503",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2019-09-30T00:00:00Z",
-  "earliestStartDate": "2019-09-30T00:00:00Z",
+  "changedDate": "2019-09-30T00:00:00",
+  "earliestStartDate": "2019-09-30T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Leading small non-complex criminal investigations and a range of civil investigations.",
@@ -290,7 +290,6 @@
       "detail": "Categorising fraud and provide insight into how the fraud was perpetrated, calculate the losses and costs borne in cases of fraud for use in sanctions and redress outcomes."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -323,8 +322,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Protective Services",
   "cluster": "Protective Service Manager",
+  "clusterId": "50",
+  "clusterDescription": "Lead and manage a team providing safety, security, prevention, enforcement, protection and investigation services largely on behalf of society",
   "createdDate": "2019-12-20T15:10:56 +00:00",
   "lastUpdated": "2019-09-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/counter-fraud-investigator-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/counter-fraud-investigator-v1-0",
   "qualifications": [],
@@ -349,7 +351,7 @@
       "mappedKnowledge": [
         "a26ddbb3-3ada-4ff0-9dbb-a383e30c13ec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ce4c7cd7-f496-4707-854c-e989386ab8d8"
       ],
@@ -367,7 +369,7 @@
       "mappedKnowledge": [
         "f36dfd2d-389e-4423-8be8-cf73ec37f34c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0588f13b-fa53-4a76-86b0-2a152242de8d"
       ],
@@ -384,7 +386,7 @@
       "mappedKnowledge": [
         "e7f29f55-1a59-4da7-89df-0488044905a0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8e4f9017-7b87-464c-8e46-96cf88191865"
       ],
@@ -402,7 +404,7 @@
       "mappedKnowledge": [
         "6a89672c-e6e5-4cbd-a223-0569fdbaeeb9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fbd2f7d9-70e1-44bd-a6f1-140fa08f6cb6"
       ],
@@ -418,7 +420,7 @@
       "mappedKnowledge": [
         "3c632824-1a8b-4a96-beb2-e42f0afc052c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7e6233d2-b790-4dd9-b9a4-b0b5600b06bf"
       ],
@@ -435,7 +437,7 @@
       "mappedKnowledge": [
         "52195b92-771a-4da4-a04a-be5beee68501"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "475dbb25-2abe-4f00-9135-ab3c04433004"
       ],
@@ -451,7 +453,7 @@
       "mappedKnowledge": [
         "494aa36e-37a4-4c82-ae59-2bbdda9d4cf4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7cdf764f-ea89-4953-8f90-5a532807b8fd"
       ],
@@ -468,7 +470,7 @@
       "mappedKnowledge": [
         "9c2cc4f1-2e84-46bd-82d0-dc7ffca63a8e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "be2b9bc0-6044-48e4-b0b0-dcbc5e75a49a"
       ],
@@ -486,7 +488,7 @@
       "mappedKnowledge": [
         "728450c0-851d-48a8-af49-7eed30d722e1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1621566a-98d7-4096-85ba-f2299506aa99"
       ],
@@ -504,7 +506,7 @@
       "mappedKnowledge": [
         "9cbf80a7-e447-4767-a412-dc203d64ce0e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6764eba4-df18-43fa-8864-a4082a804c50"
       ],
@@ -522,7 +524,7 @@
       "mappedKnowledge": [
         "3f992089-9744-4a2d-988d-ab745f4a1e85"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5b99ca32-9903-4799-9b70-1ad97c5879aa"
       ],
@@ -539,7 +541,7 @@
       "mappedKnowledge": [
         "6630f599-2647-41bb-8460-ec57ec9469c6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f8b46671-c814-4404-a667-936370668749"
       ],
@@ -556,7 +558,7 @@
       "mappedKnowledge": [
         "0e486190-49f2-48ad-bb30-dab54f92f954"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6180ba4b-b27d-4f6c-9f2e-40a0727645f8"
       ],
@@ -576,7 +578,7 @@
       "mappedKnowledge": [
         "8850e3e3-22de-4075-9a0b-df005d1273ab"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fbe3682a-cb8c-4678-87a6-d94f9d1ea6ad"
       ],
@@ -595,7 +597,7 @@
       "mappedKnowledge": [
         "7dfd3f56-4283-4d33-82f6-3e964dda6fd1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a6b2a6a2-de03-4841-815c-94a2defb9ef4"
       ],
@@ -615,7 +617,7 @@
       "mappedKnowledge": [
         "a3b56adb-bb93-442c-a7ea-6d3528d82493"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "63006a23-79e7-436b-a647-5b3fe304463b"
       ],
@@ -632,7 +634,7 @@
       "mappedKnowledge": [
         "a7ff1406-5408-40a4-bc61-6ed1d36edef7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "564f516a-dd0f-4f32-aa22-15c937105d91"
       ],
@@ -650,7 +652,7 @@
       "mappedKnowledge": [
         "ef2678e8-373d-4c5c-b4d8-6da23c78dede"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6aacc4df-2822-432f-b8b7-3a06b79066e2"
       ],
@@ -668,7 +670,7 @@
       "mappedKnowledge": [
         "430a671f-2722-4e9c-89f2-ff3d8b258713"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "67d5730e-6f6c-49c0-b77a-5d4f933da07a"
       ],
@@ -686,7 +688,7 @@
       "mappedKnowledge": [
         "066130f3-d9bf-4c71-bfaa-5ef6fba325a2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2b85acdc-3f9f-4bff-8124-b7661ed55f02"
       ],
@@ -702,7 +704,7 @@
       "mappedKnowledge": [
         "0f05f65e-ce01-4379-bc2f-257140d2c31f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d78154a4-6a8d-44a9-9992-9433506dee5a"
       ],
@@ -721,7 +723,7 @@
       "mappedKnowledge": [
         "247b4377-6966-45a2-8463-6e52472aa61c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4e410049-ab59-4329-ba2f-94315d1ffefb"
       ],
@@ -739,7 +741,7 @@
       "mappedKnowledge": [
         "c87bbe2c-4bcf-4634-a8b3-1d6aa7a7a298"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "92bf929a-5bfa-4d7c-8ac2-9fcce781e2c0"
       ],
@@ -756,7 +758,7 @@
       "mappedKnowledge": [
         "f9a8fef3-808d-4bad-9a7f-3497a7506456"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2394ba17-3ae5-48f2-a7b5-78c0cdc3a4e6"
       ],
@@ -776,7 +778,7 @@
       "mappedKnowledge": [
         "848e0eb0-3508-4d4f-9889-608e996719f4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9152da0-39f4-4c98-83a2-7046148c47be"
       ],
@@ -794,7 +796,7 @@
       "mappedKnowledge": [
         "490a99a4-f02a-4d2c-b797-8f02a946af3d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "21a81fb6-6967-42f7-9e76-f7e6cf60d2d1"
       ],
@@ -812,7 +814,7 @@
       "mappedKnowledge": [
         "3d8f1cff-e225-429d-91b7-1a0e1590c3fb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0f95bb7a-cae1-4c87-972e-c6ae5d8fd705"
       ],
@@ -831,13 +833,14 @@
       "mappedKnowledge": [
         "4b217af8-b42b-44d1-bd99-5d48497f8fbe"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e824f893-e43e-41a4-96d0-0b3d3b227f14"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
