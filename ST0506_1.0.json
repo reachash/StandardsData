@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/438",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-04-14T00:00:00Z",
-  "earliestStartDate": "2019-04-10T00:00:00Z",
+  "changedDate": "2022-04-14T00:00:00",
+  "earliestStartDate": "2019-04-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Carrying out skilled work in the photographic industry utilising common photographic knowledge and skills.",
@@ -427,16 +427,6 @@
       "detail": "Record, clearly and accurately, all necessary data to meet own business or organisation’s requirements."
     }
   ],
-  "options": [
-    {
-      "optionId": "e9a67e4a-afb8-4278-8fdb-6158ddf53054",
-      "title": "Assistant Photographer"
-    },
-    {
-      "optionId": "8db0f226-121d-40f4-b878-77ccd1240aa4",
-      "title": "Photographic Technician"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Assistant Photographer",
     "Photographic Technician"
@@ -467,8 +457,11 @@
   "reviewDetails": "",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media and Broadcast Assistant",
+  "clusterId": "42",
+  "clusterDescription": "Production and distribution of media content using communications, archive and visual technology",
   "createdDate": "2022-04-14T13:41:31 +00:00",
   "lastUpdated": "2022-04-14T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/photographic-assistant-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/photographic-assistant-v1-0",
   "qualifications": [],
@@ -520,7 +513,7 @@
         "774a9059-30ce-4c9f-ac65-e6f589b4d2d2",
         "a478255f-5ceb-43f6-a9cb-810b2ad1ab78"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "51e25870-392e-4b8f-b4cb-df8d4cb7576c",
         "fd1f440b-b7f9-41eb-b0a2-454e930e226d",
@@ -627,6 +620,18 @@
         "7f1997ce-6b01-40ff-9ff5-fd0bdb23fe61"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "e9a67e4a-afb8-4278-8fdb-6158ddf53054",
+      "title": "Assistant Photographer",
+      "occupationCode": null
+    },
+    {
+      "optionId": "8db0f226-121d-40f4-b878-77ccd1240aa4",
+      "title": "Photographic Technician",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
