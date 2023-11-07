@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/674",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-02-20T00:00:00Z",
-  "earliestStartDate": "2022-02-11T00:00:00Z",
+  "changedDate": "2023-02-20T00:00:00",
+  "earliestStartDate": "2022-02-11T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Contribute to the successful processing of items within the expected timeframe.",
@@ -232,7 +232,6 @@
       "detail": "Support others by following own organisations equality and diversity requirements."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -263,8 +262,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Logistics",
   "cluster": "Supply Chain Operative/Technician",
+  "clusterId": "37",
+  "clusterDescription": "Undertake routine materials movement, plan and administer logistics",
   "createdDate": "2021-11-29T08:58:15 +00:00",
   "lastUpdated": "2023-02-20T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/express-delivery-sortation-hub-operative-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/express-delivery-sortation-hub-operative-v1-0",
   "qualifications": [],
@@ -298,7 +300,7 @@
         "a98c38b0-e362-4cef-9365-0a063a8f6890",
         "fb83a7f3-fe12-407e-b934-4aa9066ded2b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aa0c67fa-f4ca-40b8-b768-3de4680f8b43",
         "77915958-0e23-4b12-8767-1a7afcc9cc50",
@@ -329,7 +331,7 @@
         "a98c38b0-e362-4cef-9365-0a063a8f6890",
         "fb83a7f3-fe12-407e-b934-4aa9066ded2b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aa0c67fa-f4ca-40b8-b768-3de4680f8b43",
         "77915958-0e23-4b12-8767-1a7afcc9cc50",
@@ -355,7 +357,7 @@
         "6f385b7d-3c5e-4eb8-83bf-5361b4edb16a",
         "a98c38b0-e362-4cef-9365-0a063a8f6890"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aa0c67fa-f4ca-40b8-b768-3de4680f8b43",
         "77915958-0e23-4b12-8767-1a7afcc9cc50",
@@ -387,7 +389,7 @@
         "a98c38b0-e362-4cef-9365-0a063a8f6890",
         "fb83a7f3-fe12-407e-b934-4aa9066ded2b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "77915958-0e23-4b12-8767-1a7afcc9cc50",
         "7a8c696e-7c1d-406d-985b-148bcfbe3895",
@@ -401,7 +403,7 @@
       "dutyID": "a6ece804-daec-4f57-a101-c54b32dbe1f1",
       "dutyDetail": "Process goods, working with conveyor belts, sortation equipment and chutes.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "9b28d10c-8f7f-4e1f-a07b-7246a4af7112",
         "44952e1b-c012-420c-86b1-8aa8126db1d9",
@@ -415,7 +417,7 @@
         "a98c38b0-e362-4cef-9365-0a063a8f6890",
         "fb83a7f3-fe12-407e-b934-4aa9066ded2b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "77915958-0e23-4b12-8767-1a7afcc9cc50",
         "7cc10aa0-2382-4b7e-a63d-62894a7683b6",
@@ -446,7 +448,7 @@
         "c334ba4e-51e7-4b04-aa5f-de2e38eb4f2b",
         "a98c38b0-e362-4cef-9365-0a063a8f6890"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "222a4385-6549-4c22-bab3-07aa45f7b4be",
         "c906b714-f1d8-43cb-9b11-92c477b0b892",
@@ -476,7 +478,7 @@
         "a98c38b0-e362-4cef-9365-0a063a8f6890",
         "fb83a7f3-fe12-407e-b934-4aa9066ded2b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7cc10aa0-2382-4b7e-a63d-62894a7683b6",
         "c906b714-f1d8-43cb-9b11-92c477b0b892",
@@ -504,7 +506,7 @@
         "a98c38b0-e362-4cef-9365-0a063a8f6890",
         "fb83a7f3-fe12-407e-b934-4aa9066ded2b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7cc10aa0-2382-4b7e-a63d-62894a7683b6",
         "206a6188-0b0a-4ca0-ad76-35954e8e2cd6",
@@ -529,7 +531,7 @@
         "83d8f3c4-f943-4268-a79f-7d72fd8e7a2c",
         "a98c38b0-e362-4cef-9365-0a063a8f6890"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7cc10aa0-2382-4b7e-a63d-62894a7683b6",
         "c906b714-f1d8-43cb-9b11-92c477b0b892",
@@ -558,7 +560,7 @@
         "a98c38b0-e362-4cef-9365-0a063a8f6890",
         "fb83a7f3-fe12-407e-b934-4aa9066ded2b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7cc10aa0-2382-4b7e-a63d-62894a7683b6",
         "c906b714-f1d8-43cb-9b11-92c477b0b892",
@@ -588,7 +590,7 @@
         "e8c35cf2-4c7e-4cb2-b00a-f53ffe6efb7b",
         "fb83a7f3-fe12-407e-b934-4aa9066ded2b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7cc10aa0-2382-4b7e-a63d-62894a7683b6",
         "222a4385-6549-4c22-bab3-07aa45f7b4be",
@@ -623,7 +625,7 @@
         "c334ba4e-51e7-4b04-aa5f-de2e38eb4f2b",
         "a98c38b0-e362-4cef-9365-0a063a8f6890"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7cc10aa0-2382-4b7e-a63d-62894a7683b6",
         "206a6188-0b0a-4ca0-ad76-35954e8e2cd6",
@@ -653,7 +655,7 @@
         "a98c38b0-e362-4cef-9365-0a063a8f6890",
         "fb83a7f3-fe12-407e-b934-4aa9066ded2b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7cc10aa0-2382-4b7e-a63d-62894a7683b6",
         "fcc678ce-c950-4211-af0c-e09dc0bc027b",
@@ -684,7 +686,7 @@
         "e8c35cf2-4c7e-4cb2-b00a-f53ffe6efb7b",
         "fb83a7f3-fe12-407e-b934-4aa9066ded2b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fcc678ce-c950-4211-af0c-e09dc0bc027b",
         "9d414a77-a7a9-45ff-a6e0-cecb5a3720d5",
@@ -714,7 +716,7 @@
         "a98c38b0-e362-4cef-9365-0a063a8f6890",
         "e8c35cf2-4c7e-4cb2-b00a-f53ffe6efb7b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "222a4385-6549-4c22-bab3-07aa45f7b4be",
         "39bd0472-8ebd-4eae-9ac2-1013c1f67d03",
@@ -750,7 +752,7 @@
         "1f67d666-2aba-465d-842b-8f86d67ce688",
         "46abd3d9-91f9-4335-83ec-7e2ee83ea0dd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2fe7d485-7ad8-4611-859c-4feb822236ef",
         "597be43c-3bf7-4a17-9be6-b5018723f9c3",
@@ -761,6 +763,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
