@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/316",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-01-21T00:00:00Z",
-  "earliestStartDate": "2018-08-07T00:00:00Z",
+  "changedDate": "2021-01-21T00:00:00",
+  "earliestStartDate": "2018-08-07T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Identifying different metals, sorting and separating them into grades",
@@ -302,28 +302,6 @@
       "detail": "Demonstrate the correct storage, handling and segregation of WEEE-derived materials in accordance with operating procedures, risk assessments, COSHH and relevant legislation."
     }
   ],
-  "options": [
-    {
-      "optionId": "26f733f2-cce1-4a7a-b4e9-e0379dadbb5a",
-      "title": "end-of-life vehicles operative"
-    },
-    {
-      "optionId": "eaca3d80-07f6-4cff-bfaa-6750c6274283",
-      "title": "weighbridge operative"
-    },
-    {
-      "optionId": "284d86e1-9027-46f9-bdda-ebeb1d3fa9b3",
-      "title": "material handler (specialist equipment) operative"
-    },
-    {
-      "optionId": "17ab5467-58ef-457e-8539-86ef4004e5b0",
-      "title": "material classification operative"
-    },
-    {
-      "optionId": "2c9c10ac-0694-4f2d-a563-e0825d3d4687",
-      "title": "weee waste electrical and electronic equipment operative"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "end-of-life vehicles operative",
     "weighbridge operative",
@@ -363,13 +341,43 @@
   "reviewDetails": "",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Quality Improvement and Project Control Technician",
+  "clusterId": "256",
+  "clusterDescription": "Maintain and improve product and process integrity and quality, production and process efficiency, and the overall health and safety of the working environment",
   "createdDate": "2017-11-14T17:09:45 +00:00",
   "lastUpdated": "2021-01-21T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/metal-recycling-general-operative-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/metal-recycling-general-operative-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "26f733f2-cce1-4a7a-b4e9-e0379dadbb5a",
+      "title": "end-of-life vehicles operative",
+      "occupationCode": null
+    },
+    {
+      "optionId": "eaca3d80-07f6-4cff-bfaa-6750c6274283",
+      "title": "weighbridge operative",
+      "occupationCode": null
+    },
+    {
+      "optionId": "284d86e1-9027-46f9-bdda-ebeb1d3fa9b3",
+      "title": "material handler (specialist equipment) operative",
+      "occupationCode": null
+    },
+    {
+      "optionId": "17ab5467-58ef-457e-8539-86ef4004e5b0",
+      "title": "material classification operative",
+      "occupationCode": null
+    },
+    {
+      "optionId": "2c9c10ac-0694-4f2d-a563-e0825d3d4687",
+      "title": "weee waste electrical and electronic equipment operative",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
