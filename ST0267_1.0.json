@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/219",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-07-18T00:00:00Z",
-  "earliestStartDate": "2017-12-01T00:00:00Z",
-  "latestStartDate": "2023-07-17T00:00:00Z",
+  "changedDate": "2023-07-18T00:00:00",
+  "earliestStartDate": "2017-12-01T00:00:00",
+  "latestStartDate": "2023-07-17T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Preparing and operating different cranes to lift and place a variety of loads in the workplace.",
   "level": 2,
@@ -202,7 +202,6 @@
       "detail": "Comply with specific legislation and guidance (inc. Lifting Operations Regulations 1998 and BS 7121) when slinging and signalling loads"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [
     "Crawler Crane Operator",
     "Mobile Crane Operator",
@@ -236,15 +235,19 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "",
-  "pathway": "Onsite Construction",
-  "cluster": "Construction Specialist Operative/Technician",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2017-11-14T17:09:19 +00:00",
   "lastUpdated": "2023-07-18T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/lifting-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/lifting-technician-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
