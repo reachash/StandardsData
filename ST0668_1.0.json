@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/485",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-03-25T00:00:00Z",
-  "earliestStartDate": "2019-07-16T00:00:00Z",
+  "changedDate": "2021-03-25T00:00:00",
+  "earliestStartDate": "2019-07-16T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Sourcing, selecting, maintaining and delivering the right products to meet demand and business objectives.",
@@ -459,16 +459,6 @@
       "detail": ": Assess the impact that they have on key external relationships, and adjusts their style to ensure that they achieve maximum benefit for the business"
     }
   ],
-  "options": [
-    {
-      "optionId": "e930bc08-a5dd-4483-86e0-51e1596e448e",
-      "title": "Assistant buyer"
-    },
-    {
-      "optionId": "dfb12295-211a-4759-8cff-6386b9eea736",
-      "title": "Assistant merchandiser"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -499,10 +489,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Sales & Retail",
-  "cluster": "Retail Professional",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2019-12-20T13:35:05 +00:00",
   "lastUpdated": "2021-03-25T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/assistant-buyer-and-assistant-merchandiser-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/assistant-buyer-and-assistant-merchandiser-v1-0",
   "qualifications": [],
@@ -522,7 +515,7 @@
         "0862b5f1-3666-40a9-903f-99dfd5131bd3",
         "90742d45-87fe-48ba-8f1f-e9d5f625d2ef"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d1f0f821-aebc-4319-8887-c47cf9e2a543",
         "af8eaf3f-0805-486e-87fc-6d259dd0b820",
@@ -543,7 +536,7 @@
         "ca21f7fa-c351-44db-8df7-6a5fde8aa605",
         "30113789-da36-4738-bc64-b997f1147180"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dce7dca5-e70a-4a8c-942c-b8e07d05258e",
         "efc9f1d4-8f5b-4fdc-9347-2afa0b0bbe1c"
@@ -563,7 +556,7 @@
         "5a31318d-c594-4b4b-9338-e6e46cd17233",
         "5059dd5f-6c82-4544-9b00-82a9ffc7e203"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7b012279-4f3c-4ae7-ab2d-8705fb8db6e0",
         "d76f30aa-6870-4644-920d-6b87c4067f48"
@@ -582,7 +575,7 @@
         "30113789-da36-4738-bc64-b997f1147180",
         "312a19a1-43d1-4bac-a065-1198e5620808"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ff6a1e1b-3ce9-4bc6-bfe2-8d4bd1eff7ea"
       ],
@@ -599,7 +592,7 @@
         "e7ca4423-7eea-4e8e-8bfb-f08f90ae81f0",
         "3fab665c-058d-43d2-a186-82c2ebd9eddb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "efc9f1d4-8f5b-4fdc-9347-2afa0b0bbe1c",
         "6b343792-3015-421d-afed-2c9cef8adb08",
@@ -619,7 +612,7 @@
         "6fc27653-8e98-4f7b-8151-57e5a0cddeb5",
         "54a7dd3e-d107-43de-9675-69f9ed838ca1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "76c57b5e-9656-49fa-88d2-67aa66d927ee",
         "017073ef-48f5-4cc2-a6da-cddc02f97ab5"
@@ -637,7 +630,7 @@
         "6f2a6e66-2d65-4b06-9f96-9ba7c98a203e",
         "e3327dab-89ab-4125-bc03-0e7e6e133594"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7ff95d63-c260-4744-bae3-9070a24b52a1",
         "dbf8efa9-316f-45e7-89b3-994d045f578b"
@@ -654,7 +647,7 @@
       "mappedKnowledge": [
         "5a7fef83-1094-45f0-9e15-752d327c34b6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "82046f13-53ff-4b8e-b42c-24ddff771ffb"
       ],
@@ -673,7 +666,7 @@
         "50f07e91-f264-4d4b-b646-f3b3a07a6334",
         "b1711d59-7a29-48c7-9634-5a00d3f5238b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5e623ee7-f0e7-45e6-b600-d2e87c5f6370",
         "e7bf3355-fb32-46f6-850d-71588e9833a7",
@@ -693,7 +686,7 @@
         "80e764dc-05eb-429f-9d7f-3b830896dec1",
         "74816f8b-d0a3-4d70-96c7-421694248d45"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c7a35eaf-1a73-42d8-912d-ea84cff92f4c",
         "f05b2be4-d2f5-46d8-b969-fc8e7e50fef6"
@@ -935,6 +928,18 @@
         "45873f58-683a-48e2-a5be-3b0a899a3ae1"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "e930bc08-a5dd-4483-86e0-51e1596e448e",
+      "title": "Assistant buyer",
+      "occupationCode": null
+    },
+    {
+      "optionId": "dfb12295-211a-4759-8cff-6386b9eea736",
+      "title": "Assistant merchandiser",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
