@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/239",
   "versionNumber": "1.1",
   "change": "Standard and End-point assessment plan revised. Funding band revised 30.3.2021. (First published 18.09.2020).\n\nFunding band was signed off by the Minister in the December but then clashed with the introduction of a 3 month notice period. This came in 29th March. It was accepted that those starting between October and March would still follow the new documents but being funding at 12k.",
-  "changedDate": "2023-07-11T00:00:00Z",
-  "earliestStartDate": "2021-03-29T00:00:00Z",
-  "latestStartDate": "2023-01-26T00:00:00Z",
+  "changedDate": "2023-07-11T00:00:00",
+  "earliestStartDate": "2021-03-29T00:00:00",
+  "latestStartDate": "2023-01-26T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Using timber products to create and install building components.",
   "level": 2,
@@ -221,16 +221,6 @@
       "detail": "Architectural Joiner : install a range of common ironmongery components for doors, windows and units using a range of hand and power tools."
     }
   ],
-  "options": [
-    {
-      "optionId": "98e3409f-4b72-43bb-95bc-d5e4cd7ce981",
-      "title": "Site Carpenter"
-    },
-    {
-      "optionId": "64b537f8-b5c2-44e8-a3f2-bf24e09612ea",
-      "title": "Architectural Joiner"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -259,10 +249,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Onsite Construction",
-  "cluster": "Core Building Tradesperson",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2020-09-18T13:33:08 +00:00",
   "lastUpdated": "2023-07-11T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/carpentry-and-joinery-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/carpentry-and-joinery-v1-1",
   "qualifications": [],
@@ -283,7 +276,7 @@
         "685842a0-6cd6-4d16-a00d-47aed9dd336e",
         "050bf20e-f8ee-4bdf-ac84-82b14a4f7f3b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1fccd425-7533-4c00-8468-a973b0532bfc",
         "25e731b1-7321-4870-9eb1-5e5f099517ce",
@@ -301,7 +294,7 @@
       "mappedKnowledge": [
         "309a716c-01e2-43e0-9efd-398038e70cb6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "25e731b1-7321-4870-9eb1-5e5f099517ce",
         "9536ad85-f6be-4416-b98d-4c4f1f0127e3"
@@ -320,7 +313,7 @@
         "a6143c8a-b9d7-4655-9a09-6581e95ac2a5",
         "e211f7b4-65ec-4afd-af36-5150942caa79"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a860cbbd-b18b-46d1-b50a-8b9ace0f3f7a",
         "db4fc8d4-c18a-422a-9a6b-ae9941d58859"
@@ -339,7 +332,7 @@
       "mappedKnowledge": [
         "f048f8d0-b7c5-4466-b918-c2ffd3821879"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a860cbbd-b18b-46d1-b50a-8b9ace0f3f7a",
         "25e731b1-7321-4870-9eb1-5e5f099517ce",
@@ -351,12 +344,12 @@
       "dutyID": "0005ab18-d469-438d-a383-3f84667d8807",
       "dutyDetail": "Use and maintain hand tools, power tools and associated equipment to achieve optimum performance.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "309a716c-01e2-43e0-9efd-398038e70cb6",
         "a6143c8a-b9d7-4655-9a09-6581e95ac2a5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "db4fc8d4-c18a-422a-9a6b-ae9941d58859"
       ],
@@ -374,7 +367,7 @@
         "2df0e149-2de4-44de-a941-269fd5a97e31",
         "e211f7b4-65ec-4afd-af36-5150942caa79"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "de2b02e7-8649-40c5-a96d-ed292858cdd8"
       ],
@@ -392,7 +385,7 @@
       "mappedKnowledge": [
         "a2911685-37e0-48a2-bccb-2143a9bf5cfd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9536ad85-f6be-4416-b98d-4c4f1f0127e3"
       ],
@@ -402,7 +395,7 @@
       "dutyID": "c95c64f6-cfaa-492e-a242-1da99813c4ec",
       "dutyDetail": "Install building components including door and window frames, door and hatch linings, floor joists and coverings, straight partitions and straight staircases.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "1b0271e9-ab88-4838-b7d2-f0f539897e19",
         "eb507c50-ee97-4c25-a30c-9fa2cba0866a"
@@ -419,7 +412,7 @@
       "dutyID": "fcf6b057-03cd-46c1-8c9b-dcb6b68f6698",
       "dutyDetail": "Install doors, mouldings, ironmongery, service encasements, wall and floor units and fitments, cladding and staircase components.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "1b0271e9-ab88-4838-b7d2-f0f539897e19",
         "0d08390b-ea4f-4858-9090-5dff14b4cc1f"
@@ -438,7 +431,7 @@
       "dutyID": "f3ece219-4fa3-4774-97ca-4100129b5c11",
       "dutyDetail": "Erect inclined roofs with gables, joists, roof coverings and roof components.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "1b0271e9-ab88-4838-b7d2-f0f539897e19",
         "3aec1714-ba17-43f5-abd7-93553b557c52"
@@ -455,7 +448,7 @@
       "dutyID": "bc50fe1c-6e7d-46fc-af42-c18c4d2875de",
       "dutyDetail": "Produce setting out details for the manufacture of doors, windows and opening lights, units and stairs",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "55a8c972-2171-478c-b81c-f42dfab417b7",
         "30ef27fd-8f98-40ca-90b8-ae30b43a8717"
@@ -472,7 +465,7 @@
       "dutyID": "3df5e0d1-0e05-4df7-abdc-64375fac7bf8",
       "dutyDetail": "Mark out timber from setting out details for the manufacture of doors, windows and opening lights, units and/or fitments and staircases.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "38bbc905-e3e6-4744-a142-e7d700c3d025"
       ],
@@ -488,7 +481,7 @@
       "dutyID": "f31f8834-6710-41cd-9466-90ae73da99ab",
       "dutyDetail": "Create, fit and assemble components to manufacture doors, windows with opening lights, units and/or fitments and staircases",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "55a8c972-2171-478c-b81c-f42dfab417b7",
         "8fb9c55e-b10a-4bd5-84d1-5bb56eea98b2",
@@ -511,7 +504,7 @@
       "dutyID": "4c207be1-8462-4357-99b0-b740682f1400",
       "dutyDetail": "Operate fixed workshop machinery in order to create joinery components",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "ea3ef0b5-2e52-4629-a799-e017e35bb594",
         "f926eab7-380e-48c6-8d0d-32e9b4f962dd"
@@ -524,6 +517,18 @@
         "4c4c44fb-81f3-4d95-82d4-43349e33c8c1"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "98e3409f-4b72-43bb-95bc-d5e4cd7ce981",
+      "title": "Site Carpenter",
+      "occupationCode": null
+    },
+    {
+      "optionId": "64b537f8-b5c2-44e8-a3f2-bf24e09612ea",
+      "title": "Architectural Joiner",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
