@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/672",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-05-16T00:00:00Z",
-  "earliestStartDate": "2022-02-02T00:00:00Z",
+  "changedDate": "2022-05-16T00:00:00",
+  "earliestStartDate": "2022-02-02T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Design, planning and delivery of programmes that provide learning and change using outdoor activities and experiences.",
@@ -268,7 +268,6 @@
       "detail": "Recognise own values, beliefs, strengths, areas of development and set future goals in line with own and the organisations objectives."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -305,8 +304,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Community Exercise, Physical Activity, Sport and Health",
   "cluster": "Exercise, Fitness and Health Specialist",
+  "clusterId": "215",
+  "clusterDescription": "Develop and deliver programmes which significantly enhance the performance of an individual or team",
   "createdDate": "2022-02-02T10:14:21 +00:00",
   "lastUpdated": "2022-05-16T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/outdoor-learning-specialist-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/outdoor-learning-specialist-v1-0",
   "qualifications": [
@@ -355,7 +357,7 @@
         "483c1c9b-a4e2-4140-9343-7ba9400643b3",
         "655ba88d-4eeb-4cd6-a696-7b1bae5277e5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5948a203-4e10-49dd-acdf-a6613668a3d8",
         "79770dbb-68fb-477b-b249-d099880ec5fa",
@@ -409,7 +411,7 @@
         "483c1c9b-a4e2-4140-9343-7ba9400643b3",
         "655ba88d-4eeb-4cd6-a696-7b1bae5277e5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5948a203-4e10-49dd-acdf-a6613668a3d8",
         "7471ad5e-b1d1-4d14-a9ec-fb22aae6bb89",
@@ -464,7 +466,7 @@
         "60788188-8101-4238-b09a-9b309abc5cf3",
         "6ef6acec-5305-4c6c-b740-b0062fdf68ee"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e32ab633-e4d4-4c01-975a-b61eaf91cb92",
         "c7a6fc40-1dfa-495c-856a-b116f715ce1a",
@@ -505,7 +507,7 @@
         "60788188-8101-4238-b09a-9b309abc5cf3",
         "6ef6acec-5305-4c6c-b740-b0062fdf68ee"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "79770dbb-68fb-477b-b249-d099880ec5fa",
         "5631b9d8-c6d1-477c-aa4b-cbacdd61c016",
@@ -560,7 +562,7 @@
         "9d90eb24-7a3b-4b67-87a4-701a1a33af02",
         "483c1c9b-a4e2-4140-9343-7ba9400643b3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "79770dbb-68fb-477b-b249-d099880ec5fa",
         "5631b9d8-c6d1-477c-aa4b-cbacdd61c016",
@@ -623,7 +625,7 @@
         "60788188-8101-4238-b09a-9b309abc5cf3",
         "6ef6acec-5305-4c6c-b740-b0062fdf68ee"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "adf89fe4-d7bc-4ed9-a6dd-dbb074048ab5",
         "418f0e05-01ec-4187-a25a-7d499ea28218",
@@ -655,7 +657,7 @@
         "be18aa74-fdb6-4288-9a1f-1165f5cfcb5a",
         "b60b3c9e-765c-49ca-9630-52f3a05d35db"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "79770dbb-68fb-477b-b249-d099880ec5fa",
         "5631b9d8-c6d1-477c-aa4b-cbacdd61c016",
@@ -718,7 +720,7 @@
         "60788188-8101-4238-b09a-9b309abc5cf3",
         "6ef6acec-5305-4c6c-b740-b0062fdf68ee"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "79770dbb-68fb-477b-b249-d099880ec5fa",
         "5631b9d8-c6d1-477c-aa4b-cbacdd61c016",
@@ -781,7 +783,7 @@
         "60788188-8101-4238-b09a-9b309abc5cf3",
         "6ef6acec-5305-4c6c-b740-b0062fdf68ee"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "79770dbb-68fb-477b-b249-d099880ec5fa",
         "5631b9d8-c6d1-477c-aa4b-cbacdd61c016",
@@ -839,7 +841,7 @@
         "60788188-8101-4238-b09a-9b309abc5cf3",
         "6ef6acec-5305-4c6c-b740-b0062fdf68ee"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "79770dbb-68fb-477b-b249-d099880ec5fa",
         "5631b9d8-c6d1-477c-aa4b-cbacdd61c016",
@@ -889,7 +891,7 @@
         "60788188-8101-4238-b09a-9b309abc5cf3",
         "6ef6acec-5305-4c6c-b740-b0062fdf68ee"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "79770dbb-68fb-477b-b249-d099880ec5fa",
         "5631b9d8-c6d1-477c-aa4b-cbacdd61c016",
@@ -932,7 +934,7 @@
         "483c1c9b-a4e2-4140-9343-7ba9400643b3",
         "655ba88d-4eeb-4cd6-a696-7b1bae5277e5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5948a203-4e10-49dd-acdf-a6613668a3d8",
         "7471ad5e-b1d1-4d14-a9ec-fb22aae6bb89",
@@ -976,7 +978,7 @@
         "60788188-8101-4238-b09a-9b309abc5cf3",
         "6ef6acec-5305-4c6c-b740-b0062fdf68ee"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "79770dbb-68fb-477b-b249-d099880ec5fa",
         "d98d36c4-f230-412a-8f70-3cf5c3e88bc0",
@@ -987,6 +989,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
