@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/269",
   "versionNumber": "1.1",
   "change": "End-point assessment plan, standard and funding revised.",
-  "changedDate": "2023-01-06T00:00:00Z",
-  "earliestStartDate": "2023-04-06T00:00:00Z",
+  "changedDate": "2023-01-06T00:00:00",
+  "earliestStartDate": "2023-04-06T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Ensuring individuals in custody and detention centres are held in a secure, safe, decent and fair environment.",
@@ -217,7 +217,6 @@
       "detail": "Record and report involvement with vulnerable individuals in line with procedures"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -255,8 +254,11 @@
   "reviewDetails": "",
   "pathway": "Protective Services",
   "cluster": "Protective Service Officer",
+  "clusterId": "15",
+  "clusterDescription": "Provide safety, security, prevention, enforcement, protection and investigation services largely on behalf of society",
   "createdDate": "2023-05-25T14:35:43 +00:00",
   "lastUpdated": "2023-01-06T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/custody-and-detention-professional-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/custody-and-detention-professional-v1-1",
   "qualifications": [],
@@ -273,7 +275,7 @@
       "mappedKnowledge": [
         "d741b1e9-0e73-41ff-940c-a5c5f3c4be50"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1960afeb-2d42-46aa-ae17-a9b5ab3b7377",
         "b3402c82-bd96-4f7f-947a-5390e790a918"
@@ -296,7 +298,7 @@
         "abe1e398-9364-45e4-b68f-7a43d55233de",
         "cabaff1f-4dff-4636-8c99-26403879a995"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "71ca5773-9d08-40ca-8a1f-ab6f37981b91",
         "70091698-3c5a-436a-b740-c12e5e1a13b9"
@@ -318,7 +320,7 @@
       "mappedKnowledge": [
         "fc7d6ef3-722c-42ce-883a-4be011d5dc3f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0972fc25-da81-42bd-b2a1-5e863dd7f359",
         "876b663d-744c-43f8-a565-9325f1d97def",
@@ -340,7 +342,7 @@
       "mappedKnowledge": [
         "b1a3fbab-3277-4bbd-8750-a769d54f3109"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "31717580-e251-43f0-9bd5-9925ac63bbe7",
         "3abaf073-d1a0-419a-abd2-5c35e5d7a8e8"
@@ -363,7 +365,7 @@
         "6ab42d83-269a-4bba-984e-bb970cd38776",
         "692d7e8b-6e1d-4240-b29d-f9930546a27a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0bf3f6bd-46d2-4d56-bd50-d0fae3170ee5"
       ],
@@ -385,7 +387,7 @@
         "692d7e8b-6e1d-4240-b29d-f9930546a27a",
         "20a56dac-270e-4798-8930-1c17bd8fe399"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "895919bf-fed2-4e0e-89f2-f7447d5f9a4f",
         "5b25b868-75f9-4e6d-8d21-8180d4898328",
@@ -410,7 +412,7 @@
         "abe1e398-9364-45e4-b68f-7a43d55233de",
         "28b7e532-54a4-4219-b777-be7a9834dffc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b0365a9f-3fac-48da-851a-4e15ec48022d"
       ],
@@ -435,8 +437,8 @@
         "1929b775-1ccb-4efd-97e7-09633a7c892a",
         "d7ecb4b3-4369-46ea-b2f0-c980494eefcd"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -455,7 +457,7 @@
         "692d7e8b-6e1d-4240-b29d-f9930546a27a",
         "de7fc50f-f35c-4e40-811b-139976d4995e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5b25b868-75f9-4e6d-8d21-8180d4898328"
       ],
@@ -477,7 +479,7 @@
         "692d7e8b-6e1d-4240-b29d-f9930546a27a",
         "e40dac36-2e01-44fb-9448-91a873835085"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8de5d24f-a0ac-4695-84c9-fa1bc181c6c7"
       ],
@@ -504,7 +506,7 @@
         "da98567d-63c0-4083-97ad-605dc40a8810",
         "7a80e4c5-12b0-4e8d-a0cd-8ba5e1c9fe84"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "de740fcf-c450-4599-8f24-d8df10180b0f",
         "b3402c82-bd96-4f7f-947a-5390e790a918"
@@ -526,13 +528,14 @@
       "mappedKnowledge": [
         "1929b775-1ccb-4efd-97e7-09633a7c892a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "99f8b88e-44f0-426f-bc10-08f7fb5d2182"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
