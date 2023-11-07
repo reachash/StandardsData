@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/219",
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised",
-  "changedDate": "2023-07-18T00:00:00Z",
-  "earliestStartDate": "2023-07-18T00:00:00Z",
+  "changedDate": "2023-07-18T00:00:00",
+  "earliestStartDate": "2023-07-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Preparing and operating different cranes to lift and place a variety of loads in the workplace.",
@@ -202,20 +202,6 @@
       "detail": "Comply with specific legislation and guidance (inc. Lifting Operations Regulations 1998 and BS 7121) when slinging and signalling loads"
     }
   ],
-  "options": [
-    {
-      "optionId": "a38767b9-6236-420b-8223-d7c13e2daa5d",
-      "title": "Crawler Crane Operator"
-    },
-    {
-      "optionId": "df6b122e-a096-4b61-a2a5-0940f2711d78",
-      "title": "Mobile Crane Operator"
-    },
-    {
-      "optionId": "6e4c16c4-b485-4b0c-9e6c-5c3c790a6f30",
-      "title": "Tower Crane Operator"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Crawler Crane Operator",
     "Mobile Crane Operator",
@@ -251,13 +237,33 @@
   "reviewDetails": "",
   "pathway": "Onsite Construction",
   "cluster": "Construction Specialist Operative/Technician",
+  "clusterId": "103",
+  "clusterDescription": "Prepare and operate specialist on-site plant and equipment, which could include lifting, pile driving, and pipe laying",
   "createdDate": "2023-07-18T12:17:24 +00:00",
   "lastUpdated": "2023-07-18T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/lifting-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/lifting-technician-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "a38767b9-6236-420b-8223-d7c13e2daa5d",
+      "title": "Crawler Crane Operator",
+      "occupationCode": null
+    },
+    {
+      "optionId": "df6b122e-a096-4b61-a2a5-0940f2711d78",
+      "title": "Mobile Crane Operator",
+      "occupationCode": null
+    },
+    {
+      "optionId": "6e4c16c4-b485-4b0c-9e6c-5c3c790a6f30",
+      "title": "Tower Crane Operator",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
