@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/733",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-10-18T00:00:00Z",
-  "earliestStartDate": "2023-10-18T00:00:00Z",
+  "changedDate": "2023-10-18T00:00:00",
+  "earliestStartDate": "2023-10-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Preparing and installing fitted furniture including kitchens, bedrooms, bathrooms and offices.",
@@ -225,7 +225,6 @@
       "detail": "Complete documentation."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -253,8 +252,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Onsite Construction",
   "cluster": "Core Building Tradesperson",
+  "clusterId": "5",
+  "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
   "createdDate": "2023-10-20T07:35:51 +00:00",
   "lastUpdated": "2023-10-18T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/fitted-interiors-installer-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/fitted-interiors-installer-v1-0",
   "qualifications": [],
@@ -286,7 +288,7 @@
         "fa2f85a8-d51d-4eb2-85ea-bbe45eab7780",
         "f35eec0e-8d5a-4842-8051-274c2fec79af"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "843980c4-6053-4b22-8b67-0220355468ca",
         "af1c92c1-6963-4074-9b60-627a579a9237",
@@ -316,7 +318,7 @@
         "e94d3897-c44a-44d3-b98d-331ad4a0a3ea",
         "67921f1f-3f3e-4421-a659-6ec91d7dc90d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "549f431d-2fdd-43e6-a257-dc8e5343a202",
         "210a7128-4e38-4965-a23d-fc9fd0056fd5",
@@ -349,7 +351,7 @@
         "e94d3897-c44a-44d3-b98d-331ad4a0a3ea",
         "67921f1f-3f3e-4421-a659-6ec91d7dc90d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "843980c4-6053-4b22-8b67-0220355468ca",
         "af1c92c1-6963-4074-9b60-627a579a9237",
@@ -388,7 +390,7 @@
         "67921f1f-3f3e-4421-a659-6ec91d7dc90d",
         "03faf033-bbce-4be6-b44e-ed1eb9f76aa0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "843980c4-6053-4b22-8b67-0220355468ca",
         "af1c92c1-6963-4074-9b60-627a579a9237",
@@ -424,7 +426,7 @@
         "03faf033-bbce-4be6-b44e-ed1eb9f76aa0",
         "32f7ab05-a1ae-4446-b746-2ec5559cf952"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "843980c4-6053-4b22-8b67-0220355468ca",
         "549f431d-2fdd-43e6-a257-dc8e5343a202",
@@ -462,7 +464,7 @@
         "03faf033-bbce-4be6-b44e-ed1eb9f76aa0",
         "32f7ab05-a1ae-4446-b746-2ec5559cf952"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "549f431d-2fdd-43e6-a257-dc8e5343a202",
         "9647a49a-66bb-46d5-aa3b-14ccdb19f5b7",
@@ -502,7 +504,7 @@
         "03faf033-bbce-4be6-b44e-ed1eb9f76aa0",
         "32f7ab05-a1ae-4446-b746-2ec5559cf952"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "549f431d-2fdd-43e6-a257-dc8e5343a202",
         "9647a49a-66bb-46d5-aa3b-14ccdb19f5b7",
@@ -542,7 +544,7 @@
         "03faf033-bbce-4be6-b44e-ed1eb9f76aa0",
         "32f7ab05-a1ae-4446-b746-2ec5559cf952"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "549f431d-2fdd-43e6-a257-dc8e5343a202",
         "9647a49a-66bb-46d5-aa3b-14ccdb19f5b7",
@@ -582,7 +584,7 @@
         "3c97476d-ea6f-4d9f-93b2-409042c334a6",
         "32f7ab05-a1ae-4446-b746-2ec5559cf952"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "549f431d-2fdd-43e6-a257-dc8e5343a202",
         "9647a49a-66bb-46d5-aa3b-14ccdb19f5b7",
@@ -617,7 +619,7 @@
         "67921f1f-3f3e-4421-a659-6ec91d7dc90d",
         "32f7ab05-a1ae-4446-b746-2ec5559cf952"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "549f431d-2fdd-43e6-a257-dc8e5343a202",
         "9647a49a-66bb-46d5-aa3b-14ccdb19f5b7",
@@ -651,7 +653,7 @@
         "f35eec0e-8d5a-4842-8051-274c2fec79af",
         "8f895ab9-7e31-4155-8a6b-8351e7ab035a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "549f431d-2fdd-43e6-a257-dc8e5343a202",
         "210a7128-4e38-4965-a23d-fc9fd0056fd5",
@@ -683,7 +685,7 @@
         "f35eec0e-8d5a-4842-8051-274c2fec79af",
         "8f895ab9-7e31-4155-8a6b-8351e7ab035a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "549f431d-2fdd-43e6-a257-dc8e5343a202",
         "210a7128-4e38-4965-a23d-fc9fd0056fd5",
@@ -717,7 +719,7 @@
         "e94d3897-c44a-44d3-b98d-331ad4a0a3ea",
         "67921f1f-3f3e-4421-a659-6ec91d7dc90d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "549f431d-2fdd-43e6-a257-dc8e5343a202",
         "9647a49a-66bb-46d5-aa3b-14ccdb19f5b7",
@@ -729,6 +731,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
