@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/652",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-02-03T00:00:00Z",
-  "earliestStartDate": "2021-08-03T00:00:00Z",
+  "changedDate": "2022-02-03T00:00:00",
+  "earliestStartDate": "2021-08-03T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Understand, model and analyse the ground.",
@@ -213,7 +213,6 @@
       "detail": "Use information technology: digital tools for research, analysis, and presentation of data,  Building Information Modelling (BIM), digital communication and collaboration packages. "
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -246,8 +245,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Engineer",
+  "clusterId": "253",
+  "clusterDescription": "Design and develop a range of products and/or process technologies using discipline and applications specific expertise",
   "createdDate": "2021-02-24T13:53:02 +00:00",
   "lastUpdated": "2022-02-03T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/geotechnical-engineer-integrated-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/geotechnical-engineer-integrated-degree-v1-0",
   "qualifications": [
@@ -284,7 +286,7 @@
         "f3438967-67e0-4a9e-9a02-8ab5c14b293f",
         "f755ac15-8dfa-4578-805e-6ddce61a1369"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "275ebd4a-4692-4ab6-96ca-235c14c6b961"
       ],
@@ -303,7 +305,7 @@
         "65a5ead2-68fb-452d-9065-ef5318bdc23e",
         "20aeafc9-5a9f-41a7-bd14-b48e99c8e253"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "275ebd4a-4692-4ab6-96ca-235c14c6b961",
         "967b72ef-dd58-4ea4-b8e4-c9d152290abd",
@@ -328,7 +330,7 @@
         "65a5ead2-68fb-452d-9065-ef5318bdc23e",
         "33717274-0f9e-4cb5-bb00-4fa6185ec96a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5ab69606-1f8f-471e-b5a1-f908bd79dfc0",
         "72b865d2-7fdb-4c40-b7cd-8f70757f9976",
@@ -354,7 +356,7 @@
         "eb628b11-6b80-430f-8f28-2f1deab42c3b",
         "eadf859c-262d-4e39-84a9-3777c8793b90"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "967b72ef-dd58-4ea4-b8e4-c9d152290abd",
         "23890e8f-7063-4475-8ffb-be51e1413c24",
@@ -380,7 +382,7 @@
         "142cdf85-0aef-452d-9bb4-79f004bfa47f",
         "33717274-0f9e-4cb5-bb00-4fa6185ec96a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "23890e8f-7063-4475-8ffb-be51e1413c24"
       ],
@@ -401,7 +403,7 @@
         "142cdf85-0aef-452d-9bb4-79f004bfa47f",
         "20aeafc9-5a9f-41a7-bd14-b48e99c8e253"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "967b72ef-dd58-4ea4-b8e4-c9d152290abd",
         "e429b870-9af8-4588-a8fb-5f60a43317e9"
@@ -430,7 +432,7 @@
         "eae15cf6-e820-4def-b88b-67cb539d5094",
         "eadf859c-262d-4e39-84a9-3777c8793b90"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "967b72ef-dd58-4ea4-b8e4-c9d152290abd",
         "72b865d2-7fdb-4c40-b7cd-8f70757f9976",
@@ -458,7 +460,7 @@
         "8490ef1f-a95d-4e38-b721-1262b5a876bc",
         "2e462681-6019-436a-b756-22b19b5a0323"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "72b865d2-7fdb-4c40-b7cd-8f70757f9976",
         "adb597f0-8218-4be9-81d9-abc60cb2f0e1",
@@ -487,7 +489,7 @@
         "8490ef1f-a95d-4e38-b721-1262b5a876bc",
         "2e462681-6019-436a-b756-22b19b5a0323"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "adb597f0-8218-4be9-81d9-abc60cb2f0e1",
         "d1ffcc2a-1d38-4f34-9825-ac9cf9c431d2",
@@ -512,7 +514,7 @@
         "74a71e89-9b80-4bf5-b6ed-e477183979c6",
         "eadf859c-262d-4e39-84a9-3777c8793b90"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "967b72ef-dd58-4ea4-b8e4-c9d152290abd",
         "adb597f0-8218-4be9-81d9-abc60cb2f0e1",
@@ -536,7 +538,7 @@
         "8490ef1f-a95d-4e38-b721-1262b5a876bc",
         "2e462681-6019-436a-b756-22b19b5a0323"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c076f7a0-5d15-418c-8f8a-4bcc92b860b1",
         "0d8327af-a2da-45e5-8604-82c27d99dddf",
@@ -561,7 +563,7 @@
         "8490ef1f-a95d-4e38-b721-1262b5a876bc",
         "2e462681-6019-436a-b756-22b19b5a0323"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c076f7a0-5d15-418c-8f8a-4bcc92b860b1",
         "23890e8f-7063-4475-8ffb-be51e1413c24",
@@ -594,7 +596,7 @@
         "8490ef1f-a95d-4e38-b721-1262b5a876bc",
         "2e462681-6019-436a-b756-22b19b5a0323"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c076f7a0-5d15-418c-8f8a-4bcc92b860b1",
         "23890e8f-7063-4475-8ffb-be51e1413c24",
@@ -624,7 +626,7 @@
         "74a71e89-9b80-4bf5-b6ed-e477183979c6",
         "eadf859c-262d-4e39-84a9-3777c8793b90"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "72b865d2-7fdb-4c40-b7cd-8f70757f9976",
         "adb597f0-8218-4be9-81d9-abc60cb2f0e1",
@@ -634,6 +636,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
