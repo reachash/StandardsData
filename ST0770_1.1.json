@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/616",
   "versionNumber": "1.1",
   "change": "End-point assessment revised",
-  "changedDate": "2022-11-28T00:00:00Z",
-  "earliestStartDate": "2022-11-17T00:00:00Z",
+  "changedDate": "2022-11-28T00:00:00",
+  "earliestStartDate": "2022-11-17T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Use sports knowledge and skills to create and deliver coaching programmes.",
@@ -419,20 +419,6 @@
       "detail": "Measure and evaluates the impact of coaching practice on school standards by comparing children's results against local and national benchmarks"
     }
   ],
-  "options": [
-    {
-      "optionId": "6efb6427-4487-4c11-88a4-bc9b47d98fe8",
-      "title": "High Performance Coach"
-    },
-    {
-      "optionId": "1c96cfd3-b7de-4863-9aea-9043e0fca989",
-      "title": "Community Coach"
-    },
-    {
-      "optionId": "c0133fe2-1fb2-4a53-b645-220040193b28",
-      "title": "School Coach"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -466,8 +452,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Community Exercise, Physical Activity, Sport and Health",
   "cluster": "Exercise, Fitness and Health Specialist",
+  "clusterId": "215",
+  "clusterDescription": "Develop and deliver programmes which significantly enhance the performance of an individual or team",
   "createdDate": "2022-11-17T11:08:41 +00:00",
   "lastUpdated": "2022-11-28T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/sports-coach-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/sports-coach-v1-1",
   "qualifications": [],
@@ -491,7 +480,7 @@
         "6916d93e-91c6-451a-8415-ad6a3e946850",
         "78a2d193-f123-4bf8-aa9c-2078e0f6b8ab"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "707a8de1-d693-415a-bdb1-4a43b847d17e",
         "6a23b0f8-636e-44c6-8460-8a3cf541a7de"
@@ -511,7 +500,7 @@
         "b2d378aa-5f03-42a2-844a-ad23b2641272",
         "f4d705f2-9936-4494-998b-292c06dbd05d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "82a3bdb5-30e8-475a-a147-9ce3009feb99",
         "68ef1ff8-92b5-4571-80e7-ae584266f307"
@@ -522,12 +511,12 @@
       "dutyID": "11b1ea37-99da-44af-b2e0-39661414e483",
       "dutyDetail": "Use up-to-date knowledge of wider issues affecting the coaching environment to proactively influence best practice across the coaching team.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "b58dfe2e-0d65-4780-8139-89fbbcc12266",
         "a04efd0d-9056-4ba5-b88e-c39db2203413"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "63cabe96-5019-4ff2-81d5-d94053eef7d0",
         "0895d35e-6861-4906-a0fe-dadf743c2409"
@@ -545,7 +534,7 @@
       "mappedKnowledge": [
         "8f39c2e5-8fc8-4699-9f7b-7f72c02f756e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9bfb5370-5dc3-410f-bfdb-6068acbb5394"
       ],
@@ -555,11 +544,11 @@
       "dutyID": "7a29ad32-8ed6-431c-958f-291db61120b3",
       "dutyDetail": "Use appropriate enquiry and profiling techniques to create a learning and development curriculum that considers participants’ unique needs, targets and/or goals, whilst building trust.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "737ddf8c-d236-4031-9f76-57efe6c49ec8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "512c24a1-9ee6-4f6d-8d07-b6d7b45d18b4"
       ],
@@ -577,7 +566,7 @@
         "c5c24a4c-c455-400c-b5a8-e36e9836bf55",
         "4eaee765-cdb9-4dd2-8108-f8961cc8db00"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0051eb36-2f7e-4b53-89be-1d18ebee70a3",
         "3d2dadd7-7e75-4b78-b6b3-2310bd3f65e2",
@@ -589,11 +578,11 @@
       "dutyID": "b55945ab-0f82-4526-8278-5e27185acacb",
       "dutyDetail": "Promote holistic wellbeing within coaching practice to control/contain stressors experienced by participants in the coaching environment. ",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "fe0fe771-f667-4c3e-8e0e-ec5167032a6c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "449be236-0968-4b2b-9f9e-3868644e255d"
       ],
@@ -611,7 +600,7 @@
         "5b9e93fa-5bcc-4e93-94fd-2d672672c529",
         "785a7cf7-d0e4-4559-9f36-ec5a0f2c4852"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "145455ef-efb2-495e-9be9-bf09de5aebbc",
         "a1d9dfcc-7301-4409-a0f3-cbd278928671",
@@ -623,11 +612,11 @@
       "dutyID": "86d4b351-cc5e-4576-ba02-61c8fc2cd534",
       "dutyDetail": "Measure the impact of coaching strategies on participants’ sustainable engagement and development and evaluate effectiveness of own performance on the wider coaching team, organisation and sport.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "e0a82a4a-ffea-4538-8a7a-5bb2a6c5184d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "01f1821e-7279-44a8-9549-4f488c419105"
       ],
@@ -637,7 +626,7 @@
       "dutyID": "0c256c35-e6cc-4415-aad0-eba266731423",
       "dutyDetail": "Maintain up-to-date knowledge of global trends, standards, strategies and contemporary influences in high-performance sport contexts. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "5b31c38c-9b05-43d0-ab6c-2431c9b3898a",
         "03471c0f-5656-400d-a65b-7241acdaaf49"
@@ -655,7 +644,7 @@
       "dutyID": "33557282-059f-4e09-9efd-92d1c1d3d03d",
       "dutyDetail": "Deliver relevant coaching pedagogies and processes that consider the high-performance context, culture, politics and key stakeholder needs.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "cf1054c7-e4e1-441a-a2e9-359087b460f1"
       ],
@@ -671,7 +660,7 @@
       "dutyID": "bd52f11e-5f71-4319-9ec0-1e63125d7135",
       "dutyDetail": "Profile development needs to set and monitor goals and plans based on measurement of athlete/players’ bio-psycho-social attributes and sport-specific skills.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "1b427701-a40c-4090-8840-0f15c28358ec",
         "8c50cff1-970d-4366-82cf-dcba144a340d"
@@ -689,7 +678,7 @@
       "dutyID": "410bc4b6-a101-42da-8d82-f3bd8b9b1957",
       "dutyDetail": "Ensure the design and delivery high-quality, inclusive sessions\u00A0to accelerate athlete/player development and promote sustainable high-performance gains that enhance the national and international positioning of the sport.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "c81eeec2-5feb-4567-9132-4978df835075",
         "49ba3ce3-94f5-4fcf-99a4-1cb6a18b3202",
@@ -711,7 +700,7 @@
       "dutyID": "a3c6e0e4-199b-4f6e-817c-69931716ba81",
       "dutyDetail": "Maintain up-to-date knowledge of national trends, strategies for social change, local participation and performance data and contemporary influences.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "8fe81220-e43b-4fff-b010-2bcd4b048bdb",
         "fd09af98-3bf2-4be3-aba8-624a44212e83"
@@ -729,7 +718,7 @@
       "dutyID": "a8102500-9c97-42b3-8e3b-0385cd74a61f",
       "dutyDetail": "Deliver appropriate coaching pedagogies and processes that consider the community sport and physical activity context, culture, constraints, geographical infrastructure and demographics.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "18a51c37-b633-4fa1-b5d1-8d276a812918"
       ],
@@ -745,7 +734,7 @@
       "dutyID": "4326473d-67c6-45cb-bd30-5be595a5e604",
       "dutyDetail": "Profile engagement and development needs to set and monitor goals based on participant motives and measurement of psychological, physiological, social, emotional [whole child/person] attributes and sport specific skills. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "4335c587-b5cd-4917-9d3c-ab20030d3871",
         "af36863d-a2f5-4277-8800-1a85233629ed"
@@ -763,7 +752,7 @@
       "dutyID": "33fc58d4-af7e-4525-b9cb-70c8cdc1939b",
       "dutyDetail": "Ensure the design and delivery of high-quality, inclusive coaching sessions\u00A0that meet the objectives of community/government/club initiatives whilst aiming to engage and enrich participants. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "167ec9d9-b893-4c6e-85df-60ea03aa8a75",
         "744a07ba-6834-41c5-ba8b-805b188eeaa8",
@@ -785,7 +774,7 @@
       "dutyID": "340269e3-77bc-45c8-b0b9-1ec264d03930",
       "dutyDetail": "Maintains up-to-date knowledge of education standards, trends, frameworks, paradigms and contemporary influences.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "2be8cb91-a4e2-45e0-8a9a-a0291ef31331",
         "d2840822-0526-40c5-a1bc-ef2e63201d37"
@@ -803,7 +792,7 @@
       "dutyID": "e7b2d38b-a44c-4136-a51c-18fb43d0e823",
       "dutyDetail": "Deliver appropriate coaching pedagogies and processes that align to national physical education curriculum and considers the school context, category, culture, strategies and regulatory constraints. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "09cca9f3-89fe-4a15-8308-e15e6f40ae69"
       ],
@@ -819,7 +808,7 @@
       "dutyID": "c669c74f-a1c3-415f-b12e-86395b92f8dd",
       "dutyDetail": "Profile development needs to set and monitor physical education targets and plans based on measurement of participants’ cognitive, physical, social, emotional [whole child] attributes and psychomotor skills. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "23aafd37-5a05-4321-a72b-c50cebd2ff2b",
         "16ef4d56-ba25-4f0a-90d3-d777a4f967ba"
@@ -837,7 +826,7 @@
       "dutyID": "8e3e11b9-2132-4ec1-828b-6c1cdba7e70c",
       "dutyDetail": "Ensure the design and delivery of high-quality, inclusive curricular and extracurricular lessons that meet school standards through whole child development and sustainable psychomotor skills using a mastery approach to learning.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "5fe89ec0-ba98-40e5-92d0-0e2386b47bc1",
         "56348ec6-2a60-43eb-8e77-d1268a4346a6",
@@ -854,6 +843,23 @@
         "3dcbc2fc-96e4-4ae7-be09-fd844f2e98dd"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "6efb6427-4487-4c11-88a4-bc9b47d98fe8",
+      "title": "High Performance Coach",
+      "occupationCode": null
+    },
+    {
+      "optionId": "1c96cfd3-b7de-4863-9aea-9043e0fca989",
+      "title": "Community Coach",
+      "occupationCode": null
+    },
+    {
+      "optionId": "c0133fe2-1fb2-4a53-b645-220040193b28",
+      "title": "School Coach",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
