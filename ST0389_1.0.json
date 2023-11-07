@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/284",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-03-02T00:00:00Z",
-  "earliestStartDate": "2018-06-07T00:00:00Z",
+  "changedDate": "2023-03-02T00:00:00",
+  "earliestStartDate": "2018-06-07T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Farming birds for their eggs or meat.",
@@ -305,28 +305,6 @@
       "detail": "Assist with preparing and administering vaccine – follow instructions precisely and correctly when assisting with administering a treatment."
     }
   ],
-  "options": [
-    {
-      "optionId": "cf1d2d6f-0591-4a6f-af70-c718dfa74877",
-      "title": "Breeding"
-    },
-    {
-      "optionId": "00d848a5-3133-434f-98fd-17b74700b032",
-      "title": "Egg Production"
-    },
-    {
-      "optionId": "78936756-c78a-4563-be19-1716f9be012c",
-      "title": "Grow Out"
-    },
-    {
-      "optionId": "fca5fe19-5902-4514-8ce7-14fd71004084",
-      "title": "Hatching"
-    },
-    {
-      "optionId": "5a1c164e-4393-4f9d-98e6-9a70c2a4a458",
-      "title": "Rearing"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Breeding",
     "Egg Production",
@@ -360,13 +338,43 @@
   "reviewDetails": "",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Agricultural Operative/Technician",
+  "clusterId": "143",
+  "clusterDescription": "Undertake largely routine arable and livestock tasks with some specialisation in either area",
   "createdDate": "2017-11-14T17:11:03 +00:00",
   "lastUpdated": "2023-03-02T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/poultry-worker-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/poultry-worker-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "cf1d2d6f-0591-4a6f-af70-c718dfa74877",
+      "title": "Breeding",
+      "occupationCode": null
+    },
+    {
+      "optionId": "00d848a5-3133-434f-98fd-17b74700b032",
+      "title": "Egg Production",
+      "occupationCode": null
+    },
+    {
+      "optionId": "78936756-c78a-4563-be19-1716f9be012c",
+      "title": "Grow Out",
+      "occupationCode": null
+    },
+    {
+      "optionId": "fca5fe19-5902-4514-8ce7-14fd71004084",
+      "title": "Hatching",
+      "occupationCode": null
+    },
+    {
+      "optionId": "5a1c164e-4393-4f9d-98e6-9a70c2a4a458",
+      "title": "Rearing",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
