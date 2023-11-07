@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/313",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-01-22T00:00:00Z",
-  "earliestStartDate": "2018-07-13T00:00:00Z",
+  "changedDate": "2021-01-22T00:00:00",
+  "earliestStartDate": "2018-07-13T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Applying rail and rail systems technical engineering skills in a broad range of management and leadership activities.",
@@ -265,36 +265,6 @@
       "detail": "Approve and certify rail related electrical and mechanical and building services assets, as appropriate within the defined safety legislation e.g. building regulations."
     }
   ],
-  "options": [
-    {
-      "optionId": "ddffc731-07d4-4976-8b20-dcc20bc071da",
-      "title": "Rail Civil Engineering"
-    },
-    {
-      "optionId": "76c0a74a-6a7a-4d6d-8555-704d945d9e9b",
-      "title": "Track Engineering"
-    },
-    {
-      "optionId": "95d190e6-e037-434c-a257-e6d1fef850aa",
-      "title": "Signalling & Control Systems"
-    },
-    {
-      "optionId": "d8e0759a-71bc-40d5-a9e2-ee0fca434f6f",
-      "title": "Rail Systems Integration"
-    },
-    {
-      "optionId": "de810580-4807-4110-a89b-96def587166a",
-      "title": "Traction & Rolling Stock"
-    },
-    {
-      "optionId": "eb22c8c8-6a38-46f6-a699-84e177816794",
-      "title": "Telecoms, Networks & Digital"
-    },
-    {
-      "optionId": "49e38e2b-bce3-4870-a0a0-08365b7d03f4",
-      "title": "Electrical, Mechanical or Building Services"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Rail Civil Engineering",
     "Track Engineering",
@@ -342,13 +312,53 @@
   "reviewDetails": "",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Installation & Service Engineer",
+  "clusterId": "53",
+  "clusterDescription": "Build and install plant and equipment using application and/or context specific expertise",
   "createdDate": "2017-11-14T17:08:47 +00:00",
   "lastUpdated": "2021-01-22T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/rail-and-rail-systems-senior-engineer-integrated-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/rail-and-rail-systems-senior-engineer-integrated-degree-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "ddffc731-07d4-4976-8b20-dcc20bc071da",
+      "title": "Rail Civil Engineering",
+      "occupationCode": null
+    },
+    {
+      "optionId": "76c0a74a-6a7a-4d6d-8555-704d945d9e9b",
+      "title": "Track Engineering",
+      "occupationCode": null
+    },
+    {
+      "optionId": "95d190e6-e037-434c-a257-e6d1fef850aa",
+      "title": "Signalling & Control Systems",
+      "occupationCode": null
+    },
+    {
+      "optionId": "d8e0759a-71bc-40d5-a9e2-ee0fca434f6f",
+      "title": "Rail Systems Integration",
+      "occupationCode": null
+    },
+    {
+      "optionId": "de810580-4807-4110-a89b-96def587166a",
+      "title": "Traction & Rolling Stock",
+      "occupationCode": null
+    },
+    {
+      "optionId": "eb22c8c8-6a38-46f6-a699-84e177816794",
+      "title": "Telecoms, Networks & Digital",
+      "occupationCode": null
+    },
+    {
+      "optionId": "49e38e2b-bce3-4870-a0a0-08365b7d03f4",
+      "title": "Electrical, Mechanical or Building Services",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
