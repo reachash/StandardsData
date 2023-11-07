@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/395",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-01-18T00:00:00Z",
-  "earliestStartDate": "2018-12-21T00:00:00Z",
+  "changedDate": "2022-01-18T00:00:00",
+  "earliestStartDate": "2018-12-21T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Helping people using places like libraries and archives find the information and resources they need.",
@@ -262,7 +262,6 @@
       "detail": "Exercise communication skills - oral, written, presentation, interpersonal, listening, assertiveness (online and face to face)"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -293,8 +292,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Management and Administration",
   "cluster": "Administrator",
+  "clusterId": "45",
+  "clusterDescription": "Co-ordination, management and delivery of specific business processes and also their direct provision to users",
   "createdDate": "2020-01-07T09:14:04 +00:00",
   "lastUpdated": "2022-01-18T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/library-information-and-archive-services-assistant-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/library-information-and-archive-services-assistant-v1-0",
   "qualifications": [],
@@ -326,7 +328,7 @@
         "a8acbf22-0dfe-4276-8781-8357beb753cd",
         "48c55815-fce4-4d54-ad4c-5c6e9f783af0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "061db8b4-5eb3-42a5-bd33-0e6e3c8b7703",
         "6e200bd2-ee88-4f84-aa0e-926e18d0e6ed",
@@ -350,7 +352,7 @@
         "48c55815-fce4-4d54-ad4c-5c6e9f783af0",
         "d04a7893-8f9e-4473-bf8d-51a963de8368"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5871933d-241c-46f6-94c3-6692d8f4e95b",
         "d0d932c0-9dc9-4468-8265-59ecfb8fb221",
@@ -374,7 +376,7 @@
         "40e3d6a4-83a3-47c9-bfb3-c2ab88c64dbb",
         "8df0d214-bb3d-4130-871f-59b13f11476f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5871933d-241c-46f6-94c3-6692d8f4e95b",
         "d0d932c0-9dc9-4468-8265-59ecfb8fb221",
@@ -398,7 +400,7 @@
         "e5853076-b4e0-445c-876f-5aec3ff68dea",
         "52374015-0a0a-4e40-9ac0-cfbe2521488f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4a03fa10-f6ee-4573-989c-bd9c55821761",
         "281f15b0-61e9-47ed-9a5a-da976654cb1c",
@@ -421,7 +423,7 @@
         "bf481646-d398-4c05-ac8d-f5f1e4f6b5ee",
         "4cee2cc1-1055-49eb-bf0a-9961ab50e4d7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d0d932c0-9dc9-4468-8265-59ecfb8fb221",
         "0cb869a5-99fc-479d-bd35-4894eef31c41",
@@ -444,7 +446,7 @@
         "759dff48-7f9e-424a-8ae0-a38764df290f",
         "40e3d6a4-83a3-47c9-bfb3-c2ab88c64dbb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0cb869a5-99fc-479d-bd35-4894eef31c41",
         "0e776802-d775-44c9-97c9-cf7f6a76a75f",
@@ -463,7 +465,7 @@
       "mappedKnowledge": [
         "48c55815-fce4-4d54-ad4c-5c6e9f783af0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4e9d002a-83db-45ba-a71c-971ffce90a19"
       ],
@@ -484,7 +486,7 @@
         "8df0d214-bb3d-4130-871f-59b13f11476f",
         "46884f79-31e3-4e23-8a8b-f23573d5933c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5871933d-241c-46f6-94c3-6692d8f4e95b",
         "9d378910-ec0b-49ef-87bf-b0f1c8cb2c34",
@@ -511,7 +513,7 @@
         "8df0d214-bb3d-4130-871f-59b13f11476f",
         "bcbcf051-f882-4098-a6f5-88ffa215024f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4a03fa10-f6ee-4573-989c-bd9c55821761",
         "802ab6b1-3c1f-49b1-a549-604b2475f2d8",
@@ -533,7 +535,7 @@
       "mappedKnowledge": [
         "77346761-d979-47ed-9584-f3bca462852d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d0d932c0-9dc9-4468-8265-59ecfb8fb221",
         "9d378910-ec0b-49ef-87bf-b0f1c8cb2c34",
@@ -559,7 +561,7 @@
         "b5b5a8ed-bb65-4bf9-8047-84fdb4be8d0d",
         "10ac0147-9a34-4cef-9364-5b2f6273b670"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5871933d-241c-46f6-94c3-6692d8f4e95b",
         "d0d932c0-9dc9-4468-8265-59ecfb8fb221",
@@ -579,7 +581,7 @@
         "58b15cd8-83de-4014-9a23-05da6eed2d3d",
         "759dff48-7f9e-424a-8ae0-a38764df290f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0e776802-d775-44c9-97c9-cf7f6a76a75f",
         "4e9d002a-83db-45ba-a71c-971ffce90a19"
@@ -587,6 +589,7 @@
       "criteriaForMeasuringPerformance": "Organisational policy is complied with\n\nHealth and safety guidance is observed to reduce risk to the apprentice, but also to the benefit of the resources"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
