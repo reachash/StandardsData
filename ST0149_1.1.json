@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/402",
   "versionNumber": "1.1",
   "change": "Standard, funding and end-point assessment plan revised",
-  "changedDate": "2023-09-12T00:00:00Z",
-  "earliestStartDate": "2022-01-04T00:00:00Z",
-  "latestStartDate": "2023-09-11T00:00:00Z",
+  "changedDate": "2023-09-12T00:00:00",
+  "earliestStartDate": "2022-01-04T00:00:00",
+  "latestStartDate": "2023-09-11T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Teaching young people and adults within all parts of the education and training sector.",
   "level": 5,
@@ -249,7 +249,6 @@
       "detail": "Use innovative and up to date digital and online technologies in a way that is safe to improve teaching, learning and assessment "
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -282,10 +281,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "",
-  "pathway": "Education and Childcare",
-  "cluster": "Teaching Instructor",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2022-01-04T08:57:34 +00:00",
   "lastUpdated": "2023-09-12T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/learning-and-skills-teacher-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/learning-and-skills-teacher-v1-1",
   "qualifications": [],
@@ -295,12 +297,12 @@
       "dutyID": "8323c1ea-6b0e-4e84-a99e-5f39b9cee0e8",
       "dutyDetail": "Promote a passion for learning and set high expectations of all students and support their personal and skills development ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "95e9614f-ef19-4073-b8d4-26126cff5e14",
         "c0ce9981-7b4c-4fbe-8234-798ceed95110"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3f96ed14-ebc3-4c39-82b8-3e579b0ca9c5"
       ],
@@ -310,14 +312,14 @@
       "dutyID": "d6bb480b-1574-4592-b90c-32aab0c48ca8",
       "dutyDetail": "Maintain a focus on outcomes, for all students, so that they recognise the value of their learning and the future opportunities available to them",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "95e9614f-ef19-4073-b8d4-26126cff5e14",
         "65ad91fd-2a3e-47b3-ae62-beff124ddd1f",
         "d7281525-99ba-4270-81cf-1f10b2f369cd",
         "c0ce9981-7b4c-4fbe-8234-798ceed95110"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "15dc014c-9cab-48bc-89b6-7869985f1bdc",
         "0cd07048-0c2b-44b0-9b50-7f34c4d26db6",
@@ -345,7 +347,7 @@
         "dee15f00-6f15-4df4-9bc3-34acdb72cb15",
         "96d5c833-977a-4c97-afeb-5444400be41e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5fde2d8f-8d77-4911-9382-5767dbad9de3",
         "0cd07048-0c2b-44b0-9b50-7f34c4d26db6",
@@ -361,7 +363,7 @@
       "dutyID": "e3e55e52-2955-439d-9f68-a2abe274b766",
       "dutyDetail": "Plan, deliver and evaluate effective evidence-informed teaching using assessment, relevant systems and safe use of technology to support learning",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "9116c657-6827-4975-8cbe-aaa41ca0bc12",
         "95e9614f-ef19-4073-b8d4-26126cff5e14",
@@ -372,7 +374,7 @@
         "531eaf3f-176e-49e3-9db1-0c587d576468",
         "96d5c833-977a-4c97-afeb-5444400be41e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "15dc014c-9cab-48bc-89b6-7869985f1bdc",
         "0cd07048-0c2b-44b0-9b50-7f34c4d26db6",
@@ -403,7 +405,7 @@
         "e4438131-0967-4bcd-ae4a-96be69ec779b",
         "6e397539-c8c8-46b6-877b-749f84d1c33f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8c17c3cf-64da-4ca2-b286-aa37df4db346",
         "60231911-4767-4e6e-9d54-5e6708616c9b",
@@ -427,7 +429,7 @@
         "e4438131-0967-4bcd-ae4a-96be69ec779b",
         "6e397539-c8c8-46b6-877b-749f84d1c33f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4216a2ef-b5b0-4f28-a89d-11e1cc47f5ea",
         "f2c07efa-e274-4b1d-bbbf-c85341adcc5d",
@@ -440,11 +442,11 @@
       "dutyID": "82d02f0b-e90f-451d-92cb-e1cfc59cce7c",
       "dutyDetail": "Work within professional boundaries, legal and ethical standards to set clear expectations for engaging in learning for all students",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "8782b44c-fab2-4318-a781-b8f44f8ed2ef"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f96856fe-8cae-4e9f-8951-9ec763accc09",
         "ce741ec5-d504-43c1-b779-bd320326cd27",
@@ -470,7 +472,7 @@
         "de0bac36-0515-41b5-9859-44472d997b58",
         "dee15f00-6f15-4df4-9bc3-34acdb72cb15"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e82b93a-b41f-4bdf-a452-d840e2071f4a"
       ],
@@ -480,13 +482,13 @@
       "dutyID": "3937e901-25c5-4387-97ef-40081c1f83d5",
       "dutyDetail": "Support students with their next steps for progression and learning by providing appropriate information, advice, and guidance",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "449c0a3b-90c0-4b08-8368-5adf9fa8ccb1",
         "d7281525-99ba-4270-81cf-1f10b2f369cd",
         "3b7abbb8-8315-4dd2-93c0-237b7858abb2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "15dc014c-9cab-48bc-89b6-7869985f1bdc",
         "f1a73a94-1a23-467c-8787-1803cd799d90",
@@ -498,6 +500,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
