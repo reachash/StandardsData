@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/686",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-10-19T00:00:00Z",
-  "earliestStartDate": "2022-09-13T00:00:00Z",
+  "changedDate": "2022-10-19T00:00:00",
+  "earliestStartDate": "2022-09-13T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Water industry network technicians respond to incidents and monitor water or waste water networks, resolving issues or identifying action required.",
@@ -524,20 +524,6 @@
       "detail": "Follow alarm response procedures. "
     }
   ],
-  "options": [
-    {
-      "optionId": "3f0c2a21-0193-4d39-9d65-ef857cff80bb",
-      "title": "Water distribution network technician"
-    },
-    {
-      "optionId": "e96c575e-83c9-41d4-8873-f32e78f76507",
-      "title": "Water leakage technician"
-    },
-    {
-      "optionId": "877226c0-4986-4f9e-bfc6-0b790ad80484",
-      "title": "Wastewater network technician"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -576,8 +562,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Manufacturing/Process Maintenance Operative/Technician",
+  "clusterId": "71",
+  "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2022-10-28T10:25:38 +00:00",
   "lastUpdated": "2022-10-19T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/water-industry-network-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/water-industry-network-technician-v1-0",
   "qualifications": [],
@@ -628,7 +617,7 @@
         "8ad84a54-9b7e-49a5-8ffc-de42309aed39",
         "3503858a-8449-4b92-b733-a4f1ffbea560"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf71f2b8-d456-437c-8d57-f24d789536c9",
         "d34f32d7-f134-462a-9eb3-2604849b9360",
@@ -677,7 +666,7 @@
         "e066d234-667c-4819-986e-4723aacc7024",
         "3503858a-8449-4b92-b733-a4f1ffbea560"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf71f2b8-d456-437c-8d57-f24d789536c9",
         "d34f32d7-f134-462a-9eb3-2604849b9360",
@@ -713,7 +702,7 @@
         "9a8f608c-2c84-4662-bdb3-ed9a572b46e4",
         "8ad84a54-9b7e-49a5-8ffc-de42309aed39"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d34f32d7-f134-462a-9eb3-2604849b9360",
         "827bdba2-dee1-4934-aa2d-4b3837757dbe",
@@ -750,7 +739,7 @@
         "e066d234-667c-4819-986e-4723aacc7024",
         "3503858a-8449-4b92-b733-a4f1ffbea560"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf71f2b8-d456-437c-8d57-f24d789536c9",
         "d34f32d7-f134-462a-9eb3-2604849b9360",
@@ -784,7 +773,7 @@
         "c76d5d57-0a87-4506-ac6c-7b08f325600c",
         "8ad84a54-9b7e-49a5-8ffc-de42309aed39"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf71f2b8-d456-437c-8d57-f24d789536c9",
         "d34f32d7-f134-462a-9eb3-2604849b9360",
@@ -816,7 +805,7 @@
         "91e94bb2-ecb8-4507-b0d4-fd968e2be0fa",
         "8ad84a54-9b7e-49a5-8ffc-de42309aed39"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d34f32d7-f134-462a-9eb3-2604849b9360",
         "827bdba2-dee1-4934-aa2d-4b3837757dbe",
@@ -2303,6 +2292,23 @@
         "a517d68b-f8c6-4dce-b765-d78f8b578e2a"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "3f0c2a21-0193-4d39-9d65-ef857cff80bb",
+      "title": "Water distribution network technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "e96c575e-83c9-41d4-8873-f32e78f76507",
+      "title": "Water leakage technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "877226c0-4986-4f9e-bfc6-0b790ad80484",
+      "title": "Wastewater network technician",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
