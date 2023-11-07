@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/43",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-12-14T00:00:00Z",
-  "earliestStartDate": "2015-09-03T00:00:00Z",
+  "changedDate": "2022-12-14T00:00:00",
+  "earliestStartDate": "2015-09-03T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Progressing legal matters and transactions, applying legal knowledge and commercial judgement to produce solutions which meet clients' needs.",
@@ -115,7 +115,6 @@
       "detail": "Keep, use and maintain accurate, complete and clear records"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -145,13 +144,17 @@
   "reviewDetails": "",
   "pathway": "Legal",
   "cluster": "Legal Professional/Lawyer",
+  "clusterId": "249",
+  "clusterDescription": "Deliver legal services to internal and external clients based on specific specialism e.g. land/property conveyancing, Family law, civil litigation, criminal, company & business law",
   "createdDate": "2017-09-22T14:24:46 +00:00",
   "lastUpdated": "2022-12-14T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/solicitor-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/solicitor-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training provider",
