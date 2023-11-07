@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/98",
   "versionNumber": "1.0",
   "change": "Retired",
-  "changedDate": "2021-04-23T00:00:00Z",
-  "earliestStartDate": "2016-05-10T00:00:00Z",
-  "latestStartDate": "2021-07-31T00:00:00Z",
+  "changedDate": "2021-04-23T00:00:00",
+  "earliestStartDate": "2016-05-10T00:00:00",
+  "latestStartDate": "2021-07-31T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Managing and dealing with cyber threats, hazards and risks to protect organisations, systems and people from harm.",
   "level": 4,
@@ -59,7 +59,6 @@
   "knowledges": [],
   "behaviours": [],
   "skills": [],
-  "options": [],
   "optionsUnstructuredTemplate": [
     "Risk Analyst",
     "Technologist"
@@ -107,13 +106,17 @@
   "reviewDetails": "",
   "pathway": "Digital Support and Services",
   "cluster": "Cyber Security Technician",
+  "clusterId": "185",
+  "clusterDescription": "Detect security breaches and respond using alerts from automated tools to determine breach status and resolution working with the incident response team. Extended skills allow hazards, risks and controls to be managed",
   "createdDate": "2017-09-22T14:24:28 +00:00",
   "lastUpdated": "2021-04-23T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/cyber-security-technologist-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/cyber-security-technologist-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
