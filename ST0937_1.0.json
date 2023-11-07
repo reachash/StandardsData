@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/621",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-02-20T00:00:00Z",
-  "earliestStartDate": "2021-05-20T00:00:00Z",
+  "changedDate": "2023-02-20T00:00:00",
+  "earliestStartDate": "2021-05-20T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Support the operation of a farm.",
@@ -230,16 +230,6 @@
       "detail": "Produce products for sale from the business (for example, milking, shearing, lambing, harvesting)"
     }
   ],
-  "options": [
-    {
-      "optionId": "3bb83f1a-e112-4dca-86b7-1569c3c49ce8",
-      "title": "livestock worker"
-    },
-    {
-      "optionId": "3c4e925d-ef04-42a1-be27-b7620f203a95",
-      "title": "crop worker"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -273,8 +263,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Agricultural Operative/Technician",
+  "clusterId": "143",
+  "clusterDescription": "Undertake largely routine arable and livestock tasks with some specialisation in either area",
   "createdDate": "2022-04-11T14:30:36 +00:00",
   "lastUpdated": "2023-02-20T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/general-farm-worker-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/general-farm-worker-v1-0",
   "qualifications": [
@@ -315,7 +308,7 @@
         "931cda8c-378a-4af4-8b6f-2bf87cf77416",
         "53511eb8-e1f3-4384-b483-8fc797966326"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "210b6791-4247-4d59-8ff3-3bf09e71a161",
         "90def781-104f-4193-ad0f-e7c67b66001a",
@@ -335,7 +328,7 @@
         "502ff6df-6dbc-4b42-aaea-afeab4f18aef",
         "09a1dca4-8876-4aa2-8d50-47e51ac3afe9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "210b6791-4247-4d59-8ff3-3bf09e71a161",
         "90def781-104f-4193-ad0f-e7c67b66001a"
@@ -352,7 +345,7 @@
       "mappedKnowledge": [
         "72f849a8-3acd-4785-8306-59eb16d1eb76"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a6a3994d-9f7a-43eb-9bdd-d6b4c9497a29"
       ],
@@ -369,7 +362,7 @@
         "502ff6df-6dbc-4b42-aaea-afeab4f18aef",
         "a16fbcae-446f-4ffa-aaf9-d00edb666f97"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "210b6791-4247-4d59-8ff3-3bf09e71a161",
         "2260d810-2300-45b0-9f88-c3fc2fdb2d33"
@@ -389,7 +382,7 @@
       "mappedKnowledge": [
         "a1f5e69b-d148-42d9-a46a-e11c3b38c119"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "210b6791-4247-4d59-8ff3-3bf09e71a161",
         "e04f8ceb-e6aa-4d78-900c-89e3899314b1"
@@ -410,7 +403,7 @@
         "502ff6df-6dbc-4b42-aaea-afeab4f18aef",
         "74c04c55-5207-4cfa-99d7-70f0d9aafbd8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "210b6791-4247-4d59-8ff3-3bf09e71a161",
         "2df0da19-ca39-4847-b169-2f26333eb4d3"
@@ -433,7 +426,7 @@
       "mappedKnowledge": [
         "43ffbaac-d7de-491e-bf79-7493866a50fb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "210b6791-4247-4d59-8ff3-3bf09e71a161",
         "327113c6-0020-4f4a-a0f7-9f1c853c939a"
@@ -453,7 +446,7 @@
         "69350094-3dec-4ccb-9361-1b328642b5da",
         "9436934c-4730-443d-b408-bb6b46c184f3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "833134d0-9d4d-4091-920a-4c43932545ad"
       ],
@@ -471,7 +464,7 @@
       "mappedKnowledge": [
         "4992eedb-d3da-4e3f-abdd-157d5c7292ec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2df0da19-ca39-4847-b169-2f26333eb4d3"
       ],
@@ -517,7 +510,7 @@
       "mappedOptions": [
         "3bb83f1a-e112-4dca-86b7-1569c3c49ce8"
       ],
-      "mappedSkills": null,
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -602,7 +595,7 @@
       "mappedOptions": [
         "3c4e925d-ef04-42a1-be27-b7620f203a95"
       ],
-      "mappedSkills": null,
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -695,6 +688,18 @@
         "77cfb95c-3d0f-4d21-8a19-3cb58eeeb0e6"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "3bb83f1a-e112-4dca-86b7-1569c3c49ce8",
+      "title": "livestock worker",
+      "occupationCode": null
+    },
+    {
+      "optionId": "3c4e925d-ef04-42a1-be27-b7620f203a95",
+      "title": "crop worker",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
