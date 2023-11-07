@@ -617,16 +617,6 @@
       "detail": "Conduct ancillary equipment maintenance."
     }
   ],
-  "options": [
-    {
-      "optionId": "de8e887d-5528-424e-aa75-aa309d584a0b",
-      "title": "Substation fitter - distribution maintenance"
-    },
-    {
-      "optionId": "fb3c32de-8a6a-40d7-9c36-073d05559610",
-      "title": "Substation fitter - transmission maintenance"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -661,8 +651,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Manufacturing/Process Maintenance Operative/Technician",
+  "clusterId": "71",
+  "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2023-09-14T09:08:38 +00:00",
   "lastUpdated": "",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/power-industry-substation-fitter?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/power-industry-substation-fitter",
   "qualifications": [
@@ -708,7 +701,7 @@
         "be563a99-a93b-4252-a1bf-27faf9923cb7",
         "9d101b34-8b38-438e-9945-3d3fac3ba0dd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1fc8ccc0-c2e1-4f11-9240-43c90c5f1b29",
         "cade847c-1b3e-4608-a755-05344600783b",
@@ -743,7 +736,7 @@
         "bed0fc68-d64f-487b-b18d-a6814baa2d4a",
         "39ed8ff3-b5b0-4a50-8e6a-5533e46621fd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ddddb726-7b74-4eba-a1c3-1f6f94672c47"
       ],
@@ -786,7 +779,7 @@
         "d9886386-4a5f-4d2f-8763-501e06fd2d9e",
         "65e6866e-e212-4e92-b387-60e92dec3f3f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6383f50f-ed58-49d7-965f-cd0055258ac8",
         "4bc7dcef-9c86-4788-aeca-90880d7996d8",
@@ -825,7 +818,7 @@
         "bed0fc68-d64f-487b-b18d-a6814baa2d4a",
         "39ed8ff3-b5b0-4a50-8e6a-5533e46621fd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cade847c-1b3e-4608-a755-05344600783b",
         "4c145861-0939-4b96-84cc-125bdd5bb8c9",
@@ -852,7 +845,7 @@
         "865e745b-ce12-45e8-97c2-fbcc8a981be3",
         "76196805-94fc-4038-bfcc-bdf74c3c3903"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "be592930-0eeb-476d-b0f3-40bd0b2b5978",
         "ddddb726-7b74-4eba-a1c3-1f6f94672c47",
@@ -876,7 +869,7 @@
       "mappedKnowledge": [
         "8d0ba89d-c434-4e6a-a242-45764b8e64b5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d3b0dc2a-266f-4812-8cf7-2c67318190ec",
         "ddddb726-7b74-4eba-a1c3-1f6f94672c47",
@@ -907,7 +900,7 @@
         "bed0fc68-d64f-487b-b18d-a6814baa2d4a",
         "39ed8ff3-b5b0-4a50-8e6a-5533e46621fd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ddddb726-7b74-4eba-a1c3-1f6f94672c47",
         "4d7bcb98-ef64-4efa-a835-a5e19ff9ea7c",
@@ -920,14 +913,14 @@
       "dutyID": "a1b7a50d-969e-469c-a9b6-cb9ad87abac1",
       "dutyDetail": "Carry out or supervise lifting operations.  ",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "97bbfd88-de1d-4f9f-8378-eed7cfc67832",
         "718fb154-c7ed-40e0-8771-23d02fff0a82",
         "bed0fc68-d64f-487b-b18d-a6814baa2d4a",
         "39ed8ff3-b5b0-4a50-8e6a-5533e46621fd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c145861-0939-4b96-84cc-125bdd5bb8c9"
       ],
@@ -937,7 +930,7 @@
       "dutyID": "230422ec-9a55-4519-8802-1645c88e3a43",
       "dutyDetail": "Maintain existing distribution substation equipment such as switches, circuit breakers, transformers, and ancillary equipment. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "c15e04a3-bbb8-4940-a181-3702f1d77de4",
         "8927a905-9c5c-4a48-b87e-a920a7e9045a",
@@ -1324,7 +1317,7 @@
       "dutyID": "d57ce290-2a62-49f1-b93a-f903cdac2bb2",
       "dutyDetail": "Conduct functional tests of transmission protection systems and devices for example, circuit breaker timing tests.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "a3f8a0f2-b4af-4aae-aa06-1b9c289764ad",
         "9bb25eca-21ec-4a69-bd5b-63dcc2ddcea0",
@@ -1340,6 +1333,18 @@
         "4b3a6e2d-46d6-4e33-968c-e6f3812f9245"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "de8e887d-5528-424e-aa75-aa309d584a0b",
+      "title": "Substation fitter - distribution maintenance",
+      "occupationCode": null
+    },
+    {
+      "optionId": "fb3c32de-8a6a-40d7-9c36-073d05559610",
+      "title": "Substation fitter - transmission maintenance",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
