@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/103",
   "versionNumber": "1.1",
   "change": "End-point assessment, standard and funding revised but remained.",
-  "changedDate": "2022-11-30T00:00:00Z",
-  "earliestStartDate": "2022-11-01T00:00:00Z",
+  "changedDate": "2022-11-30T00:00:00",
+  "earliestStartDate": "2022-11-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing high-quality and compassionate healthcare. \n",
@@ -277,7 +277,6 @@
       "detail": "Use evidence to make suggestions for improving practice"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -312,8 +311,11 @@
   "reviewDetails": "",
   "pathway": "Health",
   "cluster": "Health Assistant",
+  "clusterId": "112",
+  "clusterDescription": "Provide direct patient contact and caring undertaking routine well defined clinical duties",
   "createdDate": "2022-11-30T09:44:55 +00:00",
   "lastUpdated": "2022-11-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/healthcare-support-worker-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/healthcare-support-worker-v1-1",
   "qualifications": [],
@@ -334,7 +336,7 @@
         "d97a2e15-2218-485c-81d6-b5a745aa8526",
         "e514eed1-1440-4283-9d6c-79a0b5e8d22e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0fbbd504-995c-4e12-b907-ef991dad8b20",
         "8d7e8cfc-8c2e-4e2d-b165-d98196bd4b75",
@@ -359,7 +361,7 @@
         "1fc921e3-d1f4-49c7-9ad1-f99d640ab7ea",
         "57d9c05c-c6c2-4da2-995d-8c7db190f056"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "55fa017e-df6f-4abd-876c-ea832746fb8f",
         "2f52709a-ba27-492a-974c-1d75c2359439",
@@ -382,7 +384,7 @@
         "321f3660-446b-4700-9cc5-60b832ef64de",
         "87689589-21bb-48dc-a39d-a7fe768ae1fc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0b54f4cd-1b25-4233-901e-9b9e18258af5",
         "c3d89e44-f3fd-4e95-bbcb-1647f3d319fb"
@@ -403,7 +405,7 @@
         "c530c949-6259-4a47-8a9b-635029a18f46",
         "9936ab71-96e0-4f2f-81c3-943fa2422ae8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ac52d4ef-b525-4223-b6b8-f92130bd5ba5",
         "4a78e177-b4ff-48f7-a56f-30c11dc19d67",
@@ -424,7 +426,7 @@
         "f1baa28a-a8e8-46f3-bd4d-c52884d6c585",
         "e79dd53e-29fd-4a37-92ab-cc0fae58340e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "33362c7e-8cb2-49ad-b71b-929dec648ee0",
         "40b9cdeb-c09f-4264-841f-0a73ab413b41"
@@ -443,7 +445,7 @@
       "mappedKnowledge": [
         "288542b1-c4db-4a11-9a5b-87813726189c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "963bfccd-7b8b-4ff1-9014-c591cc19a90f"
       ],
@@ -462,7 +464,7 @@
         "ea73347d-ba1a-439c-be98-72bc6f96c72e",
         "b019cb48-a436-400d-ae8b-d8297aaae24b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bf48fcf2-05f6-4c88-9ca1-c5892f9ef19b",
         "16790b23-8a1a-4ca4-a374-71fbe042dcca"
@@ -483,7 +485,7 @@
         "355810b6-07ac-4e4e-8a26-d2837b96b867",
         "7e0aba4e-479b-4921-9183-424c47c2434f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8b54ff20-eba9-4009-bd06-8281a8bafdba",
         "eae629aa-07c3-4f94-8bc7-321bde95d011",
@@ -505,7 +507,7 @@
         "1aaadbe4-1a08-440a-9374-ab40a2cf4d7f",
         "d7298c45-9b09-4c3f-bae9-76c0eb5d53c6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b4923865-2314-4806-8801-0ab1f4392572",
         "3a25fd44-07cd-4273-886a-732813613c40",
@@ -526,7 +528,7 @@
         "1d6389bb-a0e8-4b58-81a3-fc9381ae3388",
         "853a95b3-74a8-4126-a01e-52e0927098d0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1db53aa6-d0b6-4084-9b20-3962b5aecd8c",
         "569eed3f-1d87-4cac-8ed9-f994fffa078f"
@@ -534,6 +536,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
