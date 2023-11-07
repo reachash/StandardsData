@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/673",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-06-29T00:00:00Z",
-  "earliestStartDate": "2022-02-11T00:00:00Z",
+  "changedDate": "2023-06-29T00:00:00",
+  "earliestStartDate": "2022-02-11T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Working in an office or on a construction site.",
@@ -157,7 +157,6 @@
       "detail": "Communicate in written form to internal and external stakeholders using a range of techniques and reporting mechanisms in line with company policies, using construction and built environment terminology."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -192,8 +191,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Design, Surveying & Planning",
   "cluster": "Design & Surveying Technician",
+  "clusterId": "54",
+  "clusterDescription": "Design, analyse, plan for site engineering and construction projects. Specialisms are common (e.g. rail infrastructure, asbestos management). Significant capability in the use of IT/digital technology, data collection, analysis and presentation",
   "createdDate": "2023-06-27T12:48:21 +00:00",
   "lastUpdated": "2023-06-29T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/construction-support-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/construction-support-technician-v1-0",
   "qualifications": [],
@@ -221,7 +223,7 @@
         "ac9884e2-f44f-499d-86a0-4cf8acedca57",
         "071eab2c-4227-40e1-bc2f-78af9bafab89"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ef4780fd-4d0a-41e5-90ae-a01ca63ee0f1",
         "9bf8b64d-09df-4931-8635-fd20a68e8e73",
@@ -254,7 +256,7 @@
         "0613e4ce-8173-4984-9422-7f728c9de32c",
         "071eab2c-4227-40e1-bc2f-78af9bafab89"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ef4780fd-4d0a-41e5-90ae-a01ca63ee0f1",
         "9bf8b64d-09df-4931-8635-fd20a68e8e73",
@@ -284,7 +286,7 @@
         "ac9884e2-f44f-499d-86a0-4cf8acedca57",
         "071eab2c-4227-40e1-bc2f-78af9bafab89"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0ed51bd6-862c-4119-915c-2e00d8506f3f",
         "22c4c1f2-0bc3-4061-9c73-6d86bb0220a3",
@@ -313,7 +315,7 @@
         "0613e4ce-8173-4984-9422-7f728c9de32c",
         "071eab2c-4227-40e1-bc2f-78af9bafab89"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9c052dcd-cf23-49de-928b-0d350170167e",
         "22c4c1f2-0bc3-4061-9c73-6d86bb0220a3",
@@ -342,7 +344,7 @@
         "0613e4ce-8173-4984-9422-7f728c9de32c",
         "071eab2c-4227-40e1-bc2f-78af9bafab89"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ef4780fd-4d0a-41e5-90ae-a01ca63ee0f1",
         "7276fd14-7625-4acd-880e-539cfb630275",
@@ -372,7 +374,7 @@
         "0613e4ce-8173-4984-9422-7f728c9de32c",
         "071eab2c-4227-40e1-bc2f-78af9bafab89"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ef4780fd-4d0a-41e5-90ae-a01ca63ee0f1",
         "7276fd14-7625-4acd-880e-539cfb630275",
@@ -401,7 +403,7 @@
         "0613e4ce-8173-4984-9422-7f728c9de32c",
         "071eab2c-4227-40e1-bc2f-78af9bafab89"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "22c4c1f2-0bc3-4061-9c73-6d86bb0220a3",
         "0da5157d-4f53-4556-a355-f1824bbdae43",
@@ -433,7 +435,7 @@
         "ac9884e2-f44f-499d-86a0-4cf8acedca57",
         "071eab2c-4227-40e1-bc2f-78af9bafab89"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9bf8b64d-09df-4931-8635-fd20a68e8e73",
         "0ed51bd6-862c-4119-915c-2e00d8506f3f",
@@ -465,7 +467,7 @@
         "0613e4ce-8173-4984-9422-7f728c9de32c",
         "071eab2c-4227-40e1-bc2f-78af9bafab89"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ef4780fd-4d0a-41e5-90ae-a01ca63ee0f1",
         "9c052dcd-cf23-49de-928b-0d350170167e",
@@ -499,7 +501,7 @@
         "0613e4ce-8173-4984-9422-7f728c9de32c",
         "071eab2c-4227-40e1-bc2f-78af9bafab89"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ef4780fd-4d0a-41e5-90ae-a01ca63ee0f1",
         "9bf8b64d-09df-4931-8635-fd20a68e8e73",
@@ -513,6 +515,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
