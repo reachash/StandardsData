@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/213",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2017-12-06T00:00:00Z",
-  "earliestStartDate": "2017-12-06T00:00:00Z",
+  "changedDate": "2017-12-06T00:00:00",
+  "earliestStartDate": "2017-12-06T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Working with companies or individuals to plan for their financial futures.",
@@ -255,32 +255,6 @@
       "detail": "Identifies opportunities for new business, which may include promoting services, preparing documents, taking part in presentations, as appropriate."
     }
   ],
-  "options": [
-    {
-      "optionId": "62f85dd0-60c4-4fc5-8a49-b6a52584b3f1",
-      "title": "Commercial/Business Banking"
-    },
-    {
-      "optionId": "159c7691-d504-4a2c-893b-680a63710ce0",
-      "title": "Investment Banking"
-    },
-    {
-      "optionId": "a839e970-1437-44de-bc71-54302310a761",
-      "title": "Investment Management"
-    },
-    {
-      "optionId": "483329b3-376a-40c6-9491-faca866ebed8",
-      "title": "Operations"
-    },
-    {
-      "optionId": "a89f530f-9390-4532-908c-3882a71bb64b",
-      "title": "Retail Banking"
-    },
-    {
-      "optionId": "a2c55eea-f660-4c1c-bf3a-d51947a478ce",
-      "title": "Workplace Pensions"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Commercial/Business Banking",
     "Investment Banking",
@@ -321,13 +295,48 @@
   "reviewDetails": "",
   "pathway": "Financial",
   "cluster": "Financial Services Professional",
+  "clusterId": "243",
+  "clusterDescription": "Provide high quality advice and support to internal and external clients across a full range of financial instruments and services using specialist knowledge of instruments and services supported and areas of the business worked in",
   "createdDate": "2017-11-14T17:10:41 +00:00",
   "lastUpdated": "2017-12-06T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/financial-services-professional-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/financial-services-professional-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "62f85dd0-60c4-4fc5-8a49-b6a52584b3f1",
+      "title": "Commercial/Business Banking",
+      "occupationCode": null
+    },
+    {
+      "optionId": "159c7691-d504-4a2c-893b-680a63710ce0",
+      "title": "Investment Banking",
+      "occupationCode": null
+    },
+    {
+      "optionId": "a839e970-1437-44de-bc71-54302310a761",
+      "title": "Investment Management",
+      "occupationCode": null
+    },
+    {
+      "optionId": "483329b3-376a-40c6-9491-faca866ebed8",
+      "title": "Operations",
+      "occupationCode": null
+    },
+    {
+      "optionId": "a89f530f-9390-4532-908c-3882a71bb64b",
+      "title": "Retail Banking",
+      "occupationCode": null
+    },
+    {
+      "optionId": "a2c55eea-f660-4c1c-bf3a-d51947a478ce",
+      "title": "Workplace Pensions",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
