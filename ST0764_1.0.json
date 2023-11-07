@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/626",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-01-16T00:00:00Z",
-  "earliestStartDate": "2021-05-20T00:00:00Z",
+  "changedDate": "2023-01-16T00:00:00",
+  "earliestStartDate": "2021-05-20T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Provide policing and or investigative activity.",
@@ -670,16 +670,6 @@
       "detail": "Demonstrate competence in the provision of ballistic first aid."
     }
   ],
-  "options": [
-    {
-      "optionId": "b89f5364-a14d-4d9d-86c2-f8d4de7ee54b",
-      "title": "Authorised Firearms Officer"
-    },
-    {
-      "optionId": "3922a72a-5d81-4874-9804-f2752dc4a986",
-      "title": "Investigative Officer"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -711,8 +701,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Protective Services",
   "cluster": "Protective Service Manager",
+  "clusterId": "50",
+  "clusterDescription": "Lead and manage a team providing safety, security, prevention, enforcement, protection and investigation services largely on behalf of society",
   "createdDate": "2022-12-22T15:06:49 +00:00",
   "lastUpdated": "2023-01-16T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/non-home-office-police-officer-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/non-home-office-police-officer-v1-0",
   "qualifications": [],
@@ -737,7 +730,7 @@
         "4c65b732-4737-4e29-a4b2-205ea4114568",
         "bf13354d-1e25-40b5-88b5-c3fdc337db55"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4fa864da-1730-4ef4-ab28-bcbb16cd2f30",
         "68d215b0-9507-453a-abc3-8faec6b9e345",
@@ -767,7 +760,7 @@
         "b8859134-645d-45f6-a608-1253e8b84b1b",
         "04341853-173a-434b-9d68-c0cc20b50c88"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "207ae54d-498d-49b1-8d62-f8d908134ef5",
         "fc055a60-6548-4894-b866-6f3aeccd4433",
@@ -792,7 +785,7 @@
         "00289538-8f0d-4cf4-8688-6fc5117b7aa3",
         "f299e136-5dc0-47bb-aa9c-49f214719d63"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "68d215b0-9507-453a-abc3-8faec6b9e345",
         "28f8c0ec-0cfe-47cb-8e9a-3c6da69508dc",
@@ -818,7 +811,7 @@
         "b8859134-645d-45f6-a608-1253e8b84b1b",
         "bf13354d-1e25-40b5-88b5-c3fdc337db55"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a7e74d4e-7861-46a2-bbc0-e6b43cbc758a",
         "fc055a60-6548-4894-b866-6f3aeccd4433"
@@ -844,7 +837,7 @@
         "f299e136-5dc0-47bb-aa9c-49f214719d63",
         "bf13354d-1e25-40b5-88b5-c3fdc337db55"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4fa864da-1730-4ef4-ab28-bcbb16cd2f30",
         "68d215b0-9507-453a-abc3-8faec6b9e345",
@@ -879,7 +872,7 @@
         "f299e136-5dc0-47bb-aa9c-49f214719d63",
         "6986851d-d780-4c63-89f2-f97dbb14049e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4fa864da-1730-4ef4-ab28-bcbb16cd2f30",
         "fc055a60-6548-4894-b866-6f3aeccd4433",
@@ -908,7 +901,7 @@
         "3d90a807-6ad4-4b05-bcf5-c43545969171",
         "bf13354d-1e25-40b5-88b5-c3fdc337db55"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9f8d8636-401e-4729-849a-ae1a3f0f5116",
         "a7e74d4e-7861-46a2-bbc0-e6b43cbc758a",
@@ -938,7 +931,7 @@
         "3f67d216-0164-4a9f-9d38-d921a69d1635",
         "bf13354d-1e25-40b5-88b5-c3fdc337db55"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4fa864da-1730-4ef4-ab28-bcbb16cd2f30",
         "9f8d8636-401e-4729-849a-ae1a3f0f5116",
@@ -971,7 +964,7 @@
         "4a286a19-cfbe-48fa-a891-fbe7ec7e66db",
         "bf13354d-1e25-40b5-88b5-c3fdc337db55"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4fa864da-1730-4ef4-ab28-bcbb16cd2f30",
         "9f8d8636-401e-4729-849a-ae1a3f0f5116",
@@ -1003,7 +996,7 @@
         "448b15fe-ba05-4ce5-8699-df286594e626",
         "efd0c990-3d88-4a70-93c2-43d72c7d9b39"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4fa864da-1730-4ef4-ab28-bcbb16cd2f30",
         "68d215b0-9507-453a-abc3-8faec6b9e345",
@@ -1031,7 +1024,7 @@
         "f299e136-5dc0-47bb-aa9c-49f214719d63",
         "efd0c990-3d88-4a70-93c2-43d72c7d9b39"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "68d215b0-9507-453a-abc3-8faec6b9e345",
         "66639d6f-6472-4394-87a8-c48bf11b0c20"
@@ -1054,7 +1047,7 @@
       "mappedKnowledge": [
         "4035ce6e-c81c-4103-8572-5cb38834466e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e2ae477a-7d2d-47de-a23c-3f94bbc9775c"
       ],
@@ -1076,7 +1069,7 @@
       "mappedKnowledge": [
         "9274029f-9cd5-40b6-b0e4-3670f643dc6c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4fa864da-1730-4ef4-ab28-bcbb16cd2f30",
         "e2ae477a-7d2d-47de-a23c-3f94bbc9775c"
@@ -1099,7 +1092,7 @@
       "mappedKnowledge": [
         "fb358faa-2f55-43fc-9315-e788ca8495c8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "be209d58-f544-4b78-8672-a28ee0bdeff1",
         "7d59a150-9736-46bc-a939-d7eff0d14fcb"
@@ -1663,6 +1656,18 @@
         "9e3a26b0-c83e-40b8-98a3-3a23f091b561"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "b89f5364-a14d-4d9d-86c2-f8d4de7ee54b",
+      "title": "Authorised Firearms Officer",
+      "occupationCode": null
+    },
+    {
+      "optionId": "3922a72a-5d81-4874-9804-f2752dc4a986",
+      "title": "Investigative Officer",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
