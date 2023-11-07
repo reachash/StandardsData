@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/461",
   "versionNumber": "1.1",
   "change": "Standard, end-point assessment plan and funding revised ",
-  "changedDate": "2023-11-01T00:00:00Z",
-  "earliestStartDate": "2023-11-01T00:00:00Z",
+  "changedDate": "2023-11-01T00:00:00",
+  "earliestStartDate": "2023-11-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Producing a range of printed goods to meet customer and business needs.",
@@ -391,20 +391,6 @@
       "detail": "Apply safe systems of work to the finishing process in compliance with regulations, standards and guidelines, including the handling and disposal of chemicals."
     }
   ],
-  "options": [
-    {
-      "optionId": "68edd116-3b21-4d95-b309-fe1b3cf9ac8a",
-      "title": "Pre-press print technician"
-    },
-    {
-      "optionId": "d9b43de9-1788-460e-bbbd-e18f89b70160",
-      "title": "Press print technician"
-    },
-    {
-      "optionId": "325dd7fb-2721-4526-ac09-2cbe010bc786",
-      "title": "Post-press print technician"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Post-Press Technician",
     "Pre-Press\u00A0Technician",
@@ -448,8 +434,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Print and Packaging Operative/Technician",
+  "clusterId": "269",
+  "clusterDescription": "Operate complex manufacture of printed matter and packaged goods",
   "createdDate": "2023-10-18T11:23:56 +00:00",
   "lastUpdated": "2023-11-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/print-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/print-technician-v1-1",
   "qualifications": [],
@@ -467,7 +456,7 @@
         "4be45420-179b-481d-9b3a-6fc4d4d03597",
         "4d10aafb-6ab2-41ca-9b44-06c9219ffa8c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ccb55e32-7249-4724-b407-28f40901db73",
         "45e5477f-44af-42d8-9bce-869e77a4c232",
@@ -487,7 +476,7 @@
         "e3fc03e3-a177-44fb-b0c2-72d003a326a6",
         "4d10aafb-6ab2-41ca-9b44-06c9219ffa8c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b64b8286-7da5-4270-99aa-6e36fa8fc203",
         "ccb55e32-7249-4724-b407-28f40901db73",
@@ -506,7 +495,7 @@
       "mappedKnowledge": [
         "e3fc03e3-a177-44fb-b0c2-72d003a326a6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "81a20642-5dd8-4ebb-94d9-a9fb4df59eb4",
         "c5e9239e-5e1f-41a8-a676-76b2fb9e62c3"
@@ -529,7 +518,7 @@
         "d89cd47f-c85e-4d8b-9fe7-7486d7d108a4",
         "e3fc03e3-a177-44fb-b0c2-72d003a326a6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b64b8286-7da5-4270-99aa-6e36fa8fc203",
         "328053cb-85b8-4052-a562-fdb3b8eeba1d",
@@ -549,7 +538,7 @@
       "mappedKnowledge": [
         "d0d0f3e2-36f8-4662-9d1d-2b41828ff4ad"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "328053cb-85b8-4052-a562-fdb3b8eeba1d",
         "81a20642-5dd8-4ebb-94d9-a9fb4df59eb4",
@@ -571,7 +560,7 @@
         "6dddeb52-8f10-4844-b158-7802b7533c9b",
         "a4899d43-be3c-4c61-b511-b8cf7b4dc082"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "328053cb-85b8-4052-a562-fdb3b8eeba1d",
         "45e5477f-44af-42d8-9bce-869e77a4c232",
@@ -597,7 +586,7 @@
         "0bef4ba2-f851-4ac0-aef8-297200b4db7f",
         "e9a57b90-c1e4-4967-ac0f-e9bfc7379692"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b64b8286-7da5-4270-99aa-6e36fa8fc203",
         "b4aa8fd8-c50f-4cc6-a724-3826de33d4f8",
@@ -621,7 +610,7 @@
         "812926c6-9a7a-42eb-963c-f5a047bcc17f",
         "e9a57b90-c1e4-4967-ac0f-e9bfc7379692"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b64b8286-7da5-4270-99aa-6e36fa8fc203",
         "dbb793d5-cf31-4d40-a7e8-287035c21e85",
@@ -644,7 +633,7 @@
         "ff28b562-eb2c-44dc-a588-109f4b421541",
         "e9a57b90-c1e4-4967-ac0f-e9bfc7379692"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c5e9239e-5e1f-41a8-a676-76b2fb9e62c3"
       ],
@@ -654,7 +643,7 @@
       "dutyID": "a99ba697-1247-40a8-a07a-3224d4f1981e",
       "dutyDetail": "Propose and agree design specification with internal or external customers and be able to produce creative digital colour artwork.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "51d71f9f-fbc9-42ea-a532-925019abb044",
         "ae752a99-534c-4ca3-8dc5-7c27eb458e64",
@@ -674,7 +663,7 @@
       "dutyID": "e091b291-2fb1-4cbc-8272-71e0a353278c",
       "dutyDetail": "Identify digital files. For example, words, pictures and sourcing other files via scanning or photography.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "768052c4-a6d6-41fa-b8bd-c18287e38831",
         "4b92fdc9-0e60-4293-bf4d-dd0e0da31683",
@@ -698,7 +687,7 @@
       "dutyID": "f69bd6ce-ff11-4d35-a494-7f6cd41ebe05",
       "dutyDetail": "Format typographic elements within a document. This involves the arrangement of type and pictures, including font size and style, as well as spacing and the length of copy on a line and page.   Use software applications to produce work via page make-up and photo editing software.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "768052c4-a6d6-41fa-b8bd-c18287e38831",
         "4b92fdc9-0e60-4293-bf4d-dd0e0da31683",
@@ -724,7 +713,7 @@
       "dutyID": "621018d5-1561-4b5d-ad01-d860f2f2c5d1",
       "dutyDetail": "Proof and make changes to artwork following company procedures and maintain records and secure artwork in compliance of General Data Protection Regulation (GDPR).",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "768052c4-a6d6-41fa-b8bd-c18287e38831",
         "4b92fdc9-0e60-4293-bf4d-dd0e0da31683",
@@ -750,7 +739,7 @@
       "dutyID": "661a846b-cb3f-4a27-b2a7-b95ad10a0cd3",
       "dutyDetail": "Produce artwork using the correct colour profiles and design suitable for the relevant materials.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "d22a709c-40bf-40df-a452-bfcbbd4f8e17",
         "1f8d6719-2566-43f7-8ca5-e33d88454ce3",
@@ -779,7 +768,7 @@
       "dutyID": "e37f017d-8414-4834-8dd9-dc76882687ad",
       "dutyDetail": "Ensure that the work schedule for a defined period or shift will minimise wash ups, changeovers, and machine downtime.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "cc0feb26-bfa3-46bf-a9c8-a75e0fc9b49f",
         "4650ef1d-ae4f-4bb7-9fc5-02d0536669d9",
@@ -798,7 +787,7 @@
       "dutyID": "8bf9249b-0d92-41d7-a482-7695c2c39ffb",
       "dutyDetail": "Run the press, check output and registration are within tolerances at pre-agreed checkpoints.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "5e9f8700-9261-4970-b9be-c59d545eaee0",
         "eb0625d9-4e7a-48cd-9b89-3e8e34ab583c",
@@ -827,7 +816,7 @@
       "dutyID": "b18f63ec-c4e6-4434-8fc9-f16da0d5b57f",
       "dutyDetail": "Ensure that levels of waste and run-overs required for subsequent stages of the process are managed, quality is achieved, and operational efficiency is maximised.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "eb0625d9-4e7a-48cd-9b89-3e8e34ab583c",
         "da0d125d-894e-4c43-b880-b6a0d14868b5",
@@ -854,21 +843,21 @@
       "dutyID": "7ae39409-5136-4536-897d-f3ec2ace1d67",
       "dutyDetail": "Liaise and consult with internal or external customers on wet proofs or press sign-offs.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "eb0625d9-4e7a-48cd-9b89-3e8e34ab583c"
       ],
       "mappedOptions": [
         "d9b43de9-1788-460e-bbbd-e18f89b70160"
       ],
-      "mappedSkills": null,
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "a52280d0-6f8d-472a-b9e1-0e91182df4ab",
       "dutyDetail": "Identify and conduct maintenance in line with both manufacturer and the job holder's authority.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "843a1d66-d643-4d1f-ace7-624532597d27",
         "058eacf0-b9ca-4288-9f0b-67579242953a",
@@ -887,8 +876,8 @@
       "dutyID": "d15c8d79-a499-4512-b8be-b11bd8103918",
       "dutyDetail": "Monitor and review production schedules to ensure that the work can be carried out in the correct running order, completed on time.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
-      "mappedKnowledge": null,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
       "mappedOptions": [
         "325dd7fb-2721-4526-ac09-2cbe010bc786"
       ],
@@ -901,7 +890,7 @@
       "dutyID": "a28ddd0d-cd15-4cdb-b5a2-a897cd78bf3e",
       "dutyDetail": "Ensure that materials and consumables supplied are suitable for the job at hand. For example, adhesives delivering the correct finish or stickiness, staples, wire sizes and finishing materials such as acetates or backing boards.                                     ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "7ad5d7d9-3538-4c29-9dd0-8e36f888a439",
         "161d5f7d-362c-4ee4-aab6-e1b879fbefe2",
@@ -921,7 +910,7 @@
       "dutyID": "7cbc009f-61fc-4ad5-8334-4beded9cd0c1",
       "dutyDetail": "Operate print finishing equipment ensuring the output meets customer expectations and standards.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "b7561daa-5dc8-4402-9316-f49c0e48718c",
         "059d3fcf-74f5-4e5f-9e64-e703cc070e24",
@@ -950,7 +939,7 @@
       "dutyID": "3903a0d4-d788-41f2-afed-a5e70e8a932d",
       "dutyDetail": "Change and replace components as needed.  For example, knives, heads, belts and drives.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "4c3a9411-7596-4d9a-849f-11c42d114d50",
         "ba264887-0e2b-48ed-b95c-f3fe8f3bfb33"
@@ -963,6 +952,23 @@
         "46580f06-b3b3-4fa7-8db7-b40573888b98"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "68edd116-3b21-4d95-b309-fe1b3cf9ac8a",
+      "title": "Pre-press print technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "d9b43de9-1788-460e-bbbd-e18f89b70160",
+      "title": "Press print technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "325dd7fb-2721-4526-ac09-2cbe010bc786",
+      "title": "Post-press print technician",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
