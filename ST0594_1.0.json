@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/412",
   "versionNumber": "1.0",
   "change": "Retired",
-  "changedDate": "2022-02-21T00:00:00Z",
-  "earliestStartDate": "2019-02-18T00:00:00Z",
-  "latestStartDate": "2022-02-20T00:00:00Z",
+  "changedDate": "2022-02-21T00:00:00",
+  "earliestStartDate": "2019-02-18T00:00:00",
+  "latestStartDate": "2022-02-20T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Helping manage funeral arrangements.",
   "level": 2,
@@ -37,7 +37,6 @@
   "knowledges": [],
   "behaviours": [],
   "skills": [],
-  "options": [],
   "optionsUnstructuredTemplate": [
     "Funeral Arrangers",
     "Funeral Operatives"
@@ -71,13 +70,17 @@
   "reviewDetails": "",
   "pathway": "Customer Service",
   "cluster": "Customer Service Assistant",
+  "clusterId": "14",
+  "clusterDescription": "Provide direct customer support by handling requests, complaints and queries and seeking to improve services through analysis",
   "createdDate": "2017-11-14T17:10:12 +00:00",
   "lastUpdated": "2022-02-21T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/funeral-team-member-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/funeral-team-member-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
