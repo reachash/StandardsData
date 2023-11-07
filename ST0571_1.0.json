@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/341",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-06-08T00:00:00Z",
-  "earliestStartDate": "2018-08-23T00:00:00Z",
+  "changedDate": "2022-06-08T00:00:00",
+  "earliestStartDate": "2018-08-23T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Preserving and restoring historic vehicles and machinery.",
@@ -672,32 +672,6 @@
       "detail": "Prepare vehicles for handover to customers, transportation, exhibitions and display"
     }
   ],
-  "options": [
-    {
-      "optionId": "a976cf00-a435-4a6a-b1c6-a4d78b46da67",
-      "title": "Heritage Engineering Aviation Technician"
-    },
-    {
-      "optionId": "018ea2c6-1cde-4491-9b97-7b921d548cbf",
-      "title": "Heritage Engineering Marine Technicians"
-    },
-    {
-      "optionId": "8a3bf31b-51a1-4ba9-93a9-85e7c8b764c4",
-      "title": "Heritage Engineering Steam (Mechanical Overhaul) Technicians"
-    },
-    {
-      "optionId": "71345d52-f6e6-4fa9-b4bb-f5fc116f9047",
-      "title": "Heritage Engineering Steam (Boiler-smith) Technicians"
-    },
-    {
-      "optionId": "08278b4c-14e3-4a10-b7e5-539c77f0b919",
-      "title": "Heritage Engineering Vehicle Mechanical Technicians"
-    },
-    {
-      "optionId": "376ccb0c-fd54-4fb7-ac31-4ad969100732",
-      "title": "Heritage Engineering Coach-building & Trim Technicians"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Heritage Engineering Aviation Technician",
     "Heritage Engineering Marine Technicians",
@@ -739,13 +713,48 @@
   "reviewDetails": "",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2017-11-14T17:09:58 +00:00",
   "lastUpdated": "2022-06-08T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/heritage-engineering-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/heritage-engineering-technician-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "a976cf00-a435-4a6a-b1c6-a4d78b46da67",
+      "title": "Heritage Engineering Aviation Technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "018ea2c6-1cde-4491-9b97-7b921d548cbf",
+      "title": "Heritage Engineering Marine Technicians",
+      "occupationCode": null
+    },
+    {
+      "optionId": "8a3bf31b-51a1-4ba9-93a9-85e7c8b764c4",
+      "title": "Heritage Engineering Steam (Mechanical Overhaul) Technicians",
+      "occupationCode": null
+    },
+    {
+      "optionId": "71345d52-f6e6-4fa9-b4bb-f5fc116f9047",
+      "title": "Heritage Engineering Steam (Boiler-smith) Technicians",
+      "occupationCode": null
+    },
+    {
+      "optionId": "08278b4c-14e3-4a10-b7e5-539c77f0b919",
+      "title": "Heritage Engineering Vehicle Mechanical Technicians",
+      "occupationCode": null
+    },
+    {
+      "optionId": "376ccb0c-fd54-4fb7-ac31-4ad969100732",
+      "title": "Heritage Engineering Coach-building & Trim Technicians",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
