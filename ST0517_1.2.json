@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/391",
   "versionNumber": "1.2",
   "change": "Standard, end-point assessment plan and funding band revised but funding remained the same.",
-  "changedDate": "2023-09-01T00:00:00Z",
-  "earliestStartDate": "2023-09-01T00:00:00Z",
+  "changedDate": "2023-09-01T00:00:00",
+  "earliestStartDate": "2023-09-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Occupational therapists work with people of all ages and can look at all aspects of daily life in your home, school or workplace.",
@@ -624,7 +624,6 @@
       "detail": "Engage in occupational health, including being aware of immunisation requirements."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -654,8 +653,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Health",
   "cluster": "Health Professional",
+  "clusterId": "6",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2023-06-23T10:02:29 +00:00",
   "lastUpdated": "2023-09-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/occupational-therapist-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/occupational-therapist-v1-2",
   "qualifications": [
@@ -687,7 +689,7 @@
         "f57797d4-ba5d-4041-ad98-65f80e19a8ac",
         "b69eeacb-2aba-4538-a1f4-a432d21b9d41"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5f2a19d6-b57a-4b46-b97a-76f243340242",
         "ae16f6c3-61ea-4a90-b169-fe42730604fc",
@@ -708,12 +710,12 @@
       "dutyID": "13569175-db91-4837-827e-fc697fe8eaf3",
       "dutyDetail": "Look after own health and wellbeing, seeking appropriate support where necessary.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "c0d8a935-d905-4b64-965d-417beee8d245",
         "0f5738a0-d81f-4c18-ba85-d901c124b1d9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "df083ee9-79f7-4f71-a815-dd5dcd9e8e2a",
         "7e15fec8-b09f-47c0-ac0a-d27d2329902e",
@@ -731,7 +733,7 @@
       "mappedKnowledge": [
         "36848e59-df7f-43ba-8b43-03189f637bd4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3eef3983-a2f0-4935-ad52-b1d1d72f9432",
         "928ae198-8fec-45bf-b0e4-a36b98238b9d",
@@ -756,7 +758,7 @@
         "74d4f12b-7e46-44de-880d-11a4b5091a99",
         "49ce04f4-8fa7-420e-a94a-23830bf4b27b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aa87a162-70fb-4503-9602-e9615d653bee",
         "e5e874b3-8d48-4281-b7ea-4dc1ea119daf",
@@ -783,7 +785,7 @@
         "cbd50dc1-7618-4fcb-9c71-5d031330992a",
         "499634f2-9fc0-4ad5-a54d-ec8567f1246e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fa5f7faa-db40-46ff-aec5-0898c3f91d25",
         "7d1db7c3-1eeb-41b8-b6cb-5d6ead6c7c09",
@@ -820,7 +822,7 @@
         "42e2a098-7928-4e11-84dd-c4910a167aec",
         "cabd4eb6-03c9-43f9-9d8f-c69d8e5ff15c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1e293384-82bf-4a0a-bc6f-0e2929a2523c",
         "c04b0215-b2ec-4798-a46d-611c962f8491",
@@ -848,7 +850,7 @@
         "716a679e-613e-4992-be63-8a913c321be7",
         "84eb5172-5ceb-451d-a3cc-7f4029d6be4c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7664465f-f83e-42b3-a6bb-ce103869bf4e",
         "74b6b4bc-283c-4399-89ae-8e5b60a6458f",
@@ -887,7 +889,7 @@
         "b8c2ec7f-b119-4035-be75-d2ddac17a1fd",
         "c6736e4e-bf65-463b-b2f1-bf41649fc04a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0612de16-c551-47b7-8036-ba7e7cc2717e",
         "ac242c0c-dd88-460a-a9d1-756e477e4c36",
@@ -926,7 +928,7 @@
         "0ae65182-e9b3-460e-972c-61941e7b2c21",
         "3f1c2980-27fb-43bd-a886-10c2807313b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "66579d31-100c-4044-a171-8f6496c639a4",
         "dbaa5dd1-2222-4042-bc55-46f17f74a6b3",
@@ -947,7 +949,7 @@
         "5b8cb91c-fb04-4e86-aba4-fc0d45c364a4",
         "509f03ec-37d2-47b1-8527-fb06e40aeeff"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "893b82e1-1854-42e4-b78e-5900669f39a7",
         "20c3b730-e17b-4593-82cc-878f9a8db1aa"
@@ -955,6 +957,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training Provider",
