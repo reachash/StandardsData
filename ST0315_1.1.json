@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/24",
   "versionNumber": "1.1",
   "change": "Standard, Funding and End-point assessment plan revised. The funding band for this standard has been reviewed and remains at £18000. (2020-04-01)",
-  "changedDate": "2022-05-31T00:00:00Z",
-  "earliestStartDate": "2020-08-21T00:00:00Z",
+  "changedDate": "2022-05-31T00:00:00",
+  "earliestStartDate": "2020-08-21T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Provide technical support to engineers who design infrastructure and systems for railways.",
@@ -163,7 +163,6 @@
       "detail": "Plan, undertake and review their own professional competence, regularly updating and reviewing their CPD to improve performance."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -198,8 +197,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Technician",
+  "clusterId": "255",
+  "clusterDescription": "Design and develop parts of product and/or process technologies",
   "createdDate": "2022-01-07T13:33:42 +00:00",
   "lastUpdated": "2022-05-31T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/railway-engineering-design-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/railway-engineering-design-technician-v1-1",
   "qualifications": [
@@ -280,7 +282,7 @@
         "395f7d0e-e371-4795-bdcc-97c754520276",
         "a01aff6a-3ffb-4bf4-ae4e-7fb4c17160ad"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8e27b05f-910e-4a5b-885e-337f80260fb8",
         "820ad0d9-ca1b-4cd1-8835-43208362b131",
@@ -302,7 +304,7 @@
         "25d3b9ff-21d1-4f16-9b3d-e1a1156fec1c",
         "14e6b5c4-ad47-42ed-ac04-3507b47c526e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8e27b05f-910e-4a5b-885e-337f80260fb8",
         "4574fe90-69a3-47bc-9d15-dc6b77542f0a",
@@ -327,7 +329,7 @@
         "cec1ac68-b63f-4146-b613-38fa5018e918",
         "d2c7c69e-2531-44a5-86be-7a2858b95946"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d93e816b-1b7b-4e94-aae1-c54484eae1bd",
         "4574fe90-69a3-47bc-9d15-dc6b77542f0a",
@@ -352,7 +354,7 @@
         "14e6b5c4-ad47-42ed-ac04-3507b47c526e",
         "6eda11e3-de9b-4d3c-ae49-7e39eca384ac"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "820ad0d9-ca1b-4cd1-8835-43208362b131",
         "73036007-467e-425c-97d0-6379e8d25aaa",
@@ -383,7 +385,7 @@
         "cec1ac68-b63f-4146-b613-38fa5018e918",
         "d2c7c69e-2531-44a5-86be-7a2858b95946"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d93e816b-1b7b-4e94-aae1-c54484eae1bd",
         "4574fe90-69a3-47bc-9d15-dc6b77542f0a",
@@ -407,7 +409,7 @@
         "d27118ed-97ec-4d1a-8003-35c961ab7b41",
         "25d3b9ff-21d1-4f16-9b3d-e1a1156fec1c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a5b412a6-7a93-491d-9ab3-24e34b8aa1d0",
         "4daa0800-b9c4-43a4-b2ad-dc2175886e43",
@@ -432,7 +434,7 @@
         "a01aff6a-3ffb-4bf4-ae4e-7fb4c17160ad",
         "083daf13-d94b-4bd6-9163-8128109266d2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "73036007-467e-425c-97d0-6379e8d25aaa",
         "a5b412a6-7a93-491d-9ab3-24e34b8aa1d0",
@@ -454,7 +456,7 @@
       "mappedKnowledge": [
         "14e6b5c4-ad47-42ed-ac04-3507b47c526e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d93e816b-1b7b-4e94-aae1-c54484eae1bd",
         "112629ae-cbf6-4167-9aa5-6f45f96050bd"
@@ -471,7 +473,7 @@
       "mappedKnowledge": [
         "d2c7c69e-2531-44a5-86be-7a2858b95946"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "daaeb752-c334-4c93-b939-24ac53df82d7"
       ],
@@ -487,13 +489,14 @@
       "mappedKnowledge": [
         "6eda11e3-de9b-4d3c-ae49-7e39eca384ac"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fe1529a1-5b85-4552-933d-e089f0649869"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
