@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/419",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2019-03-04T00:00:00Z",
-  "earliestStartDate": "2019-03-04T00:00:00Z",
+  "changedDate": "2019-03-04T00:00:00",
+  "earliestStartDate": "2019-03-04T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Directing production activities and operations.",
@@ -239,7 +239,6 @@
       "detail": "Analyse data/information to compellingly and succinctly present information to drive management decisions"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -272,8 +271,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing, Plant and Process Technologist",
+  "clusterId": "265",
+  "clusterDescription": "Develop and improve technology of the manufacturing plant and equipment for a whole process",
   "createdDate": "2020-02-10T15:44:20 +00:00",
   "lastUpdated": "2019-03-04T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/process-leader-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/process-leader-v1-0",
   "qualifications": [],
@@ -297,7 +299,7 @@
       "mappedKnowledge": [
         "2cf8ff01-a61b-4e9d-9457-71d7eede5002"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "02f556ba-3b80-4e63-ae91-3383c3c9bb7d",
         "39e47030-149c-49b0-a9ce-7fa2e0699849",
@@ -318,7 +320,7 @@
         "39b30327-0810-43b6-981d-edbbc237c450",
         "41640710-fd9b-4271-8507-5e7969b62016"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "917ab49f-c11d-4bf6-93ab-e2722918f0ee",
         "8d78170a-6fb8-4d55-8a54-f01b1e14da8c",
@@ -337,7 +339,7 @@
       "mappedKnowledge": [
         "5692a95a-91ac-425e-93ed-b3af890bc696"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "965b2385-3cff-4288-8ad5-508cc9ce9b2a"
       ],
@@ -356,7 +358,7 @@
         "e4f4f7a4-4a89-45d6-a424-f225832b0e0a",
         "308b9828-be0d-4f6c-a6f2-a4415a408aec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cfeaf66e-48c3-42bf-a227-ecb9a5ce9398"
       ],
@@ -375,7 +377,7 @@
         "7c119ea2-d363-4152-b8a2-dc8201df6bcd",
         "308b9828-be0d-4f6c-a6f2-a4415a408aec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9e2a6aee-4348-4df8-bc3d-0e2729b9a58c",
         "9ea10d0c-d737-4256-bb4b-6802b0edfb53"
@@ -394,7 +396,7 @@
       "mappedKnowledge": [
         "97853e23-f7ea-4554-8a90-c3f67ed19ace"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bf574ffa-c3c8-4331-9540-3166c63b3689"
       ],
@@ -413,7 +415,7 @@
         "c4d85cd4-9eee-4b1a-9916-2796a73ab401",
         "2c0bbd74-775b-4b4a-b2fa-4ac0d89381dd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "706339ad-eb70-427e-bfee-26fe60ee7187",
         "cbac7e04-d065-4fbe-90e4-372b0c6cce60",
@@ -436,7 +438,7 @@
         "59434d35-d4fd-46f9-80fa-bd30ecf193b5",
         "621507e0-b15c-4aca-92c6-bc4be35229ff"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "13d615ef-e280-4dab-8ab5-ac008d069e38",
         "273687ed-6a54-4fcf-b6ad-7e2764395a45",
@@ -457,7 +459,7 @@
       "mappedKnowledge": [
         "7774438e-d621-47db-9f3b-8cbaf1b55de9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e6bb23a8-961e-4689-b9ac-bc7b02e99b16",
         "b09a9cf7-0a3a-4f23-9588-a83ba1d86059",
@@ -480,7 +482,7 @@
         "89cedade-19a1-469b-b057-34d86bdbe321",
         "deb72f1a-f55e-465c-b255-94f40d05b3fc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c32e3a27-577d-4c22-9d51-4168c53f8f86",
         "2d8e3443-bd0d-45c7-a3dd-570bb5170cd9",
@@ -489,6 +491,7 @@
       "criteriaForMeasuringPerformance": "Accurate analysis of data and information"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
