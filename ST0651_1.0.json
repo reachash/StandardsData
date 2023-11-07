@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/664",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-02-15T00:00:00Z",
-  "earliestStartDate": "2021-11-12T00:00:00Z",
+  "changedDate": "2023-02-15T00:00:00",
+  "earliestStartDate": "2021-11-12T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Install and maintain lightning protection and earthing systems.",
@@ -166,7 +166,6 @@
       "detail": "Specialist testing and verification: low resistance electrical continuity tests for earthing systems joint connections"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -192,10 +191,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Building Services Engineering",
-  "cluster": "Building Services Engineering Operative/Technician",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2020-09-25T14:38:39 +00:00",
   "lastUpdated": "2023-02-15T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/lightning-protection-operative-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/lightning-protection-operative-v1-0",
   "qualifications": [],
@@ -214,7 +216,7 @@
         "0eb1e6aa-6a56-42ca-9437-9a32c1a0a2ba",
         "ec9980ec-435c-4e01-9ccd-64e7ed5f5ef3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0344feae-1662-4926-9728-af1578657ad9",
         "320237bf-3dd2-491a-8e6a-87196486e183",
@@ -236,7 +238,7 @@
         "f40041c7-6840-496c-97cc-31189c08f8e1",
         "2a946031-af04-4d51-bcd1-0c8737bcda84"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "320237bf-3dd2-491a-8e6a-87196486e183",
         "6b2cb080-4c36-417e-b4ea-dd7fa242abae",
@@ -257,7 +259,7 @@
         "0eb1e6aa-6a56-42ca-9437-9a32c1a0a2ba",
         "ec9980ec-435c-4e01-9ccd-64e7ed5f5ef3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0344feae-1662-4926-9728-af1578657ad9",
         "0bc525b0-f1f8-4984-81a6-ae3289ed0868",
@@ -278,7 +280,7 @@
         "0788c98f-11c8-4267-95e4-28be56913dc0",
         "e86151f0-093b-438d-9c3d-94e1eeab958a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "320237bf-3dd2-491a-8e6a-87196486e183",
         "5c216433-d652-4a41-a57a-c576e189d947"
@@ -298,7 +300,7 @@
         "6a209d80-2ba2-47cc-a5ab-926912e4ae14",
         "c350de86-61dc-4521-93e8-48b826a9f434"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
         "b6125cc9-b07b-4a9b-b991-4037e3f69352"
@@ -319,7 +321,7 @@
         "6a209d80-2ba2-47cc-a5ab-926912e4ae14",
         "c350de86-61dc-4521-93e8-48b826a9f434"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
         "b6125cc9-b07b-4a9b-b991-4037e3f69352"
@@ -341,7 +343,7 @@
         "c350de86-61dc-4521-93e8-48b826a9f434",
         "e86151f0-093b-438d-9c3d-94e1eeab958a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
         "b6125cc9-b07b-4a9b-b991-4037e3f69352"
@@ -363,7 +365,7 @@
         "c350de86-61dc-4521-93e8-48b826a9f434",
         "e6221c0c-3018-47f8-8558-b43dbee97f6d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
         "b6125cc9-b07b-4a9b-b991-4037e3f69352"
@@ -389,7 +391,7 @@
         "2a946031-af04-4d51-bcd1-0c8737bcda84",
         "1b3aa86d-c1ea-4bf9-94f7-f1bc4eedc7db"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0344feae-1662-4926-9728-af1578657ad9",
         "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
@@ -413,7 +415,7 @@
         "6a209d80-2ba2-47cc-a5ab-926912e4ae14",
         "00061b7b-55f7-4876-9805-ecb787780428"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
         "b6125cc9-b07b-4a9b-b991-4037e3f69352"
@@ -435,7 +437,7 @@
         "6a209d80-2ba2-47cc-a5ab-926912e4ae14",
         "c350de86-61dc-4521-93e8-48b826a9f434"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0344feae-1662-4926-9728-af1578657ad9",
         "320237bf-3dd2-491a-8e6a-87196486e183",
@@ -459,7 +461,7 @@
         "7c4d463e-65c0-43e2-9862-9beb8120d69b",
         "00061b7b-55f7-4876-9805-ecb787780428"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
         "b6125cc9-b07b-4a9b-b991-4037e3f69352",
@@ -480,7 +482,7 @@
         "00061b7b-55f7-4876-9805-ecb787780428",
         "a0a697a8-b2a3-47c5-bc6d-d28b330e7d3a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e1569a65-68b4-42e9-a58c-060092e8fb4b"
       ],
@@ -499,7 +501,7 @@
         "0788c98f-11c8-4267-95e4-28be56913dc0",
         "f40041c7-6840-496c-97cc-31189c08f8e1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7ca9a593-8cd3-44e4-a8f0-99b8bba87dd9",
         "f24f440b-7e62-420f-afed-1fff15d11875"
@@ -507,6 +509,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
