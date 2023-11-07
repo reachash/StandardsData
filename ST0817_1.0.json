@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/562",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-02-09T00:00:00Z",
-  "earliestStartDate": "2020-05-13T00:00:00Z",
+  "changedDate": "2022-02-09T00:00:00",
+  "earliestStartDate": "2020-05-13T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Install and commission compressed air and/or vacuum equipment and their associated systems; and complete servicing, fault diagnosis, repair and to ensure equipment is operating and controlled at its optimum efficiency.",
@@ -211,7 +211,6 @@
       "detail": "Use IT, for example document creation, communication and information management."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -252,8 +251,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Manufacturing/Process Maintenance Operative/Technician",
+  "clusterId": "71",
+  "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2020-01-29T08:38:26 +00:00",
   "lastUpdated": "2022-02-09T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/compressed-air-and-vacuum-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/compressed-air-and-vacuum-technician-v1-0",
   "qualifications": [],
@@ -284,7 +286,7 @@
         "11d63de1-7e53-437e-b1eb-e6b694831279",
         "0548aa6c-c925-4835-b776-c638994f4e5f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d3413f98-2bba-4494-9260-6a546377c00e",
         "41ffd44f-1f62-42ee-925f-62be9161994a"
@@ -312,7 +314,7 @@
         "11d63de1-7e53-437e-b1eb-e6b694831279",
         "0fc1d960-a152-45b9-83ab-680ccfb734e0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8726f5d1-c129-4256-987f-93fba17c2356",
         "dd26357d-6ac9-4071-9474-50da35e0e859",
@@ -341,7 +343,7 @@
         "48e77b6c-674f-46d6-b714-ce3b483a25a8",
         "0fc1d960-a152-45b9-83ab-680ccfb734e0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "076f8384-7b61-4b08-b94e-6cf406860570",
         "dd26357d-6ac9-4071-9474-50da35e0e859",
@@ -377,7 +379,7 @@
         "578be370-de6b-45eb-9574-4c97cb987b39",
         "a5fd4ecb-a5e6-4dc0-9442-8360d08a429c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dd26357d-6ac9-4071-9474-50da35e0e859",
         "9beeaff5-de9c-4c5a-ba3f-ded9c60481f8",
@@ -416,7 +418,7 @@
         "578be370-de6b-45eb-9574-4c97cb987b39",
         "a5fd4ecb-a5e6-4dc0-9442-8360d08a429c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dd26357d-6ac9-4071-9474-50da35e0e859",
         "9beeaff5-de9c-4c5a-ba3f-ded9c60481f8",
@@ -452,7 +454,7 @@
         "0fc1d960-a152-45b9-83ab-680ccfb734e0",
         "578be370-de6b-45eb-9574-4c97cb987b39"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dd26357d-6ac9-4071-9474-50da35e0e859",
         "9beeaff5-de9c-4c5a-ba3f-ded9c60481f8",
@@ -490,7 +492,7 @@
         "0fc1d960-a152-45b9-83ab-680ccfb734e0",
         "578be370-de6b-45eb-9574-4c97cb987b39"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dd26357d-6ac9-4071-9474-50da35e0e859",
         "9beeaff5-de9c-4c5a-ba3f-ded9c60481f8",
@@ -527,7 +529,7 @@
         "0fc1d960-a152-45b9-83ab-680ccfb734e0",
         "578be370-de6b-45eb-9574-4c97cb987b39"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dd26357d-6ac9-4071-9474-50da35e0e859",
         "9beeaff5-de9c-4c5a-ba3f-ded9c60481f8",
@@ -564,7 +566,7 @@
         "0fc1d960-a152-45b9-83ab-680ccfb734e0",
         "578be370-de6b-45eb-9574-4c97cb987b39"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dd26357d-6ac9-4071-9474-50da35e0e859",
         "9beeaff5-de9c-4c5a-ba3f-ded9c60481f8",
@@ -597,7 +599,7 @@
         "8369c0cd-ac77-4dbe-898a-9981ca17b5c2",
         "578be370-de6b-45eb-9574-4c97cb987b39"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dd26357d-6ac9-4071-9474-50da35e0e859",
         "bf643fab-59fb-41da-af88-fe2907089328",
@@ -623,7 +625,7 @@
         "0fc1d960-a152-45b9-83ab-680ccfb734e0",
         "578be370-de6b-45eb-9574-4c97cb987b39"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dd26357d-6ac9-4071-9474-50da35e0e859",
         "ba68d303-5ff5-49b6-ba3e-dd5cca209927",
@@ -657,7 +659,7 @@
         "0fc1d960-a152-45b9-83ab-680ccfb734e0",
         "d0f5e070-485c-4f6d-8abe-1c8b84091caf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9436ab2b-fbe1-4c82-b236-343cdec98e3e",
         "cd03f002-96cb-4cc3-8c9d-5bc66fcf2225",
@@ -683,7 +685,7 @@
         "578be370-de6b-45eb-9574-4c97cb987b39",
         "a5fd4ecb-a5e6-4dc0-9442-8360d08a429c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9beeaff5-de9c-4c5a-ba3f-ded9c60481f8",
         "ba68d303-5ff5-49b6-ba3e-dd5cca209927",
@@ -695,6 +697,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
