@@ -7,15 +7,15 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/297",
   "versionNumber": "1.1",
   "change": "Standard, end-point assessment plan and funding have been revised",
-  "changedDate": "2023-05-05T00:00:00Z",
-  "earliestStartDate": "2023-05-06T00:00:00Z",
+  "changedDate": "2023-05-05T00:00:00",
+  "earliestStartDate": "2023-05-06T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Supporting the class teacher to enhance learning.",
   "level": 3,
   "typicalDuration": 18,
   "maxFunding": 7000,
-  "route": "Education and early years",
+  "route": "Education and childcare",
   "keywords": [
     "Teaching Assistant",
     "teacher",
@@ -204,7 +204,6 @@
       "detail": "Provide feedback to learners."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -240,8 +239,11 @@
   "reviewDetails": "",
   "pathway": "Education and Childcare",
   "cluster": "Primary/Secondary/Tertiary Teaching and Support Assistant",
+  "clusterId": "176",
+  "clusterDescription": "Supports the development of a students' learning skills, behaviours and overall knowledge both one-to-one and in a small group",
   "createdDate": "2023-03-06T13:20:00 +00:00",
   "lastUpdated": "2023-05-05T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/teaching-assistant-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/teaching-assistant-v1-1",
   "qualifications": [],
@@ -264,7 +266,7 @@
         "aa1a166a-ac42-4696-814d-b6ad3ca9f945",
         "71bc9391-7a9d-43ae-9519-587bde9c0f97"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "513a1827-6e91-40bc-a76f-de523ae919f7",
         "511af457-ea5a-456b-9013-9068549444cf",
@@ -297,7 +299,7 @@
         "aa1a166a-ac42-4696-814d-b6ad3ca9f945",
         "ad40741a-2f16-4a90-8c51-313864ee1df6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "511af457-ea5a-456b-9013-9068549444cf",
         "2ee989fd-0941-4164-b12f-4e5147868eae",
@@ -328,7 +330,7 @@
         "43ef49d6-3487-4b0e-b6be-163a556161e8",
         "bc508681-bab6-4bae-97ee-e4b60ed471df"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "513a1827-6e91-40bc-a76f-de523ae919f7",
         "b2c1a3b2-e990-41c2-8f4a-69bf28711fc5",
@@ -355,7 +357,7 @@
         "de130aeb-df49-4883-a97c-b562d6216aba",
         "19af042c-2899-41be-81b4-6f5ab8d2bdf1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2ee989fd-0941-4164-b12f-4e5147868eae",
         "b1d0499f-a27a-43df-b7c0-4fe8fac2c3d1"
@@ -387,7 +389,7 @@
         "71bc9391-7a9d-43ae-9519-587bde9c0f97",
         "ad40741a-2f16-4a90-8c51-313864ee1df6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e0cd6c1d-ba50-444c-94d7-fa3aa3d9eb7e",
         "b2c1a3b2-e990-41c2-8f4a-69bf28711fc5",
@@ -423,7 +425,7 @@
         "bc508681-bab6-4bae-97ee-e4b60ed471df",
         "ad40741a-2f16-4a90-8c51-313864ee1df6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e0cd6c1d-ba50-444c-94d7-fa3aa3d9eb7e",
         "513a1827-6e91-40bc-a76f-de523ae919f7",
@@ -451,7 +453,7 @@
         "43ef49d6-3487-4b0e-b6be-163a556161e8",
         "ad40741a-2f16-4a90-8c51-313864ee1df6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e0cd6c1d-ba50-444c-94d7-fa3aa3d9eb7e",
         "513a1827-6e91-40bc-a76f-de523ae919f7",
@@ -484,7 +486,7 @@
         "71bc9391-7a9d-43ae-9519-587bde9c0f97",
         "ad40741a-2f16-4a90-8c51-313864ee1df6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e0cd6c1d-ba50-444c-94d7-fa3aa3d9eb7e",
         "b1d0499f-a27a-43df-b7c0-4fe8fac2c3d1",
@@ -519,7 +521,7 @@
         "43ef49d6-3487-4b0e-b6be-163a556161e8",
         "bc508681-bab6-4bae-97ee-e4b60ed471df"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e0cd6c1d-ba50-444c-94d7-fa3aa3d9eb7e",
         "513a1827-6e91-40bc-a76f-de523ae919f7",
@@ -557,7 +559,7 @@
         "43ef49d6-3487-4b0e-b6be-163a556161e8",
         "bc508681-bab6-4bae-97ee-e4b60ed471df"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e0cd6c1d-ba50-444c-94d7-fa3aa3d9eb7e",
         "2ee989fd-0941-4164-b12f-4e5147868eae",
@@ -594,7 +596,7 @@
         "bc508681-bab6-4bae-97ee-e4b60ed471df",
         "71bc9391-7a9d-43ae-9519-587bde9c0f97"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b2c1a3b2-e990-41c2-8f4a-69bf28711fc5",
         "2ee989fd-0941-4164-b12f-4e5147868eae",
@@ -627,7 +629,7 @@
         "43ef49d6-3487-4b0e-b6be-163a556161e8",
         "7517d1f3-c2a9-42c8-bd83-6e375a03553b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "513a1827-6e91-40bc-a76f-de523ae919f7",
         "511af457-ea5a-456b-9013-9068549444cf",
@@ -638,6 +640,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
