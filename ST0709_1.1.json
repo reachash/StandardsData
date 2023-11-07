@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/504",
   "versionNumber": "1.1",
   "change": "Funding band and end-point assessment plan revised",
-  "changedDate": "2022-02-17T00:00:00Z",
-  "earliestStartDate": "2021-11-24T00:00:00Z",
-  "latestStartDate": "2024-08-31T00:00:00Z",
+  "changedDate": "2022-02-17T00:00:00",
+  "earliestStartDate": "2021-11-24T00:00:00",
+  "latestStartDate": "2024-08-31T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Caring for patients with a wide range of health conditions.",
   "level": 7,
@@ -368,7 +368,6 @@
       "detail": "Develop, support and train the team to meet new and evolving requirements in patient care"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -398,8 +397,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Health",
   "cluster": "Midwifery and Nursing Professional",
+  "clusterId": "211",
+  "clusterDescription": "Assess, plan, implement and evaluate patient care in multiple settings with specialist expertise often working independently",
   "createdDate": "2021-11-24T08:37:17 +00:00",
   "lastUpdated": "2022-02-17T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/district-nurse-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/district-nurse-v1-1",
   "qualifications": [
@@ -441,7 +443,7 @@
         "7e2eabe5-fb88-4cfa-b2a8-e53ac394d34b",
         "6fb551b7-fc36-4cf7-a4f9-d9d0b5b281e1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2bca27e0-4745-43c0-a1b7-ccb3c6cba18c",
         "6c746361-1269-4cb7-bb4c-7aa8a8f549a5",
@@ -472,7 +474,7 @@
         "98b8f123-e530-4b78-a373-9030a1d57f7a",
         "fe1dcb18-7ab6-4aa2-9e83-731d8c77bd43"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "34c58113-2263-4eff-a065-bf8c9614f0a8",
         "b8b9935d-d158-4855-a2cb-f3621a006155",
@@ -497,7 +499,7 @@
         "aff69613-86e3-4ecd-91fe-06d3193641e5",
         "a10ce9b1-5d32-4931-ad64-b2cce0742c10"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c3a11532-5e2d-4044-8f0a-9da86f07b6d2",
         "dc078818-708f-4197-9781-b82d7d746882",
@@ -522,7 +524,7 @@
         "540e5e3d-098f-4f00-bb9b-105175d8578f",
         "5e9abf60-96cf-4734-a513-95e99798e5e6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "51937319-1dce-49a8-94c0-45def3a85141",
         "db29bb57-14f0-4ea5-872e-b34da0d6d9b9"
@@ -547,7 +549,7 @@
         "4d8f7072-2c7d-4842-a73e-e10e92747c3e",
         "64150576-c10f-427e-91f7-18f3c063228f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "05335279-e94e-4274-abc5-100470caf6f4",
         "964a8f70-3479-48e3-956e-a49965c53e9f"
@@ -574,7 +576,7 @@
         "22d1a10d-d62f-430f-b977-97005b22534c",
         "66c9998f-69d5-4880-b865-a09b5cee1f22"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8d2fe12d-0005-4065-84b0-068f080251a3",
         "cd65e993-198e-4802-acfd-2dd42931b7fc",
@@ -599,7 +601,7 @@
         "8e3298eb-22c3-4c12-a9d0-90b106e57485",
         "c4621f77-4c11-4b79-a387-4f9aed84a3e0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "51423f65-fc3e-46fe-a43e-c674f1f50a64",
         "d81dc60e-5a94-4795-9a4c-9b61166fa582",
@@ -625,7 +627,7 @@
         "36a66a8b-e542-4a6c-880f-657d17e9b7f1",
         "b68f93f1-35f8-4923-8eb5-c8be409d4c1a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "56c961d6-29fa-41db-8630-8ad2fc071a59",
         "4f7d1a53-4ecb-4c65-8b0a-748ff2b6ef1a"
@@ -649,7 +651,7 @@
         "a8b993aa-ff20-46db-b7c9-93aae3ea0add",
         "60dc2b45-fd4d-4e78-8ed1-b32cb6408f83"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "22807778-7973-429f-bc41-2f778c3abbdc",
         "db7c0f03-2d4c-4bf4-a271-57a334f8940b",
@@ -674,7 +676,7 @@
         "3562e788-c9d0-4c37-9d1a-cd398e37ee3d",
         "055d7164-ead5-49f2-8e8c-20ddb5239cf8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dc1b4920-e763-444a-8a84-9baf852c57cf",
         "9a7ad60e-91d5-4e7f-a689-a4da83d9306a"
@@ -682,6 +684,7 @@
       "criteriaForMeasuringPerformance": "Implement effective organisational strategies \nProvide effective leadership and manage the team through change\nMaintain accurate records to inform service delivery"
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training provider",
