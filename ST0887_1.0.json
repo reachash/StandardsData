@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/582",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-05-31T00:00:00Z",
-  "earliestStartDate": "2020-07-10T00:00:00Z",
+  "changedDate": "2022-05-31T00:00:00",
+  "earliestStartDate": "2020-07-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Raise funds for charitable causes.",
@@ -190,7 +190,6 @@
       "detail": "Identify, evaluate and apply solutions to problems as they arise"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -227,8 +226,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Marketing",
   "cluster": "Marketing Assistant",
+  "clusterId": "124",
+  "clusterDescription": "Plan, organise and deliver key marketing actions and events",
   "createdDate": "2020-01-24T12:57:48 +00:00",
   "lastUpdated": "2022-05-31T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/fundraiser-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/fundraiser-v1-0",
   "qualifications": [],
@@ -256,7 +258,7 @@
         "2b1c1b83-605e-43c7-a685-6e596f08b85a",
         "27645cae-ce11-4444-802a-28f9eb583cb5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5bbd8c3c-99fb-4c62-92b2-10e340d86956",
         "bec31530-8191-4089-8d5f-38d2b18b8e60",
@@ -295,7 +297,7 @@
         "2b1c1b83-605e-43c7-a685-6e596f08b85a",
         "27645cae-ce11-4444-802a-28f9eb583cb5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "38dca005-d10c-44f1-b766-4444c8184bc8",
         "bec31530-8191-4089-8d5f-38d2b18b8e60",
@@ -320,7 +322,7 @@
         "2b1c1b83-605e-43c7-a685-6e596f08b85a",
         "27645cae-ce11-4444-802a-28f9eb583cb5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2770ffef-6758-4fc2-b6c6-43ea480f1495",
         "85290ce3-8a37-4270-818f-1fa7470b72f7",
@@ -345,7 +347,7 @@
         "a6ffa09a-b2c4-4512-a94f-9f28be71b462",
         "554a3f95-6cc4-4681-a94e-63861e869b8c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "38dca005-d10c-44f1-b766-4444c8184bc8",
         "bec31530-8191-4089-8d5f-38d2b18b8e60",
@@ -369,7 +371,7 @@
         "1d1b71fd-9de0-4239-9ea0-6369868cf9e4",
         "495f31fb-47c2-4fe6-8bc4-06e47d17befe"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5bbd8c3c-99fb-4c62-92b2-10e340d86956",
         "8686308b-1b5a-4b73-b1ba-849651b263a7",
@@ -397,7 +399,7 @@
         "2b1c1b83-605e-43c7-a685-6e596f08b85a",
         "27645cae-ce11-4444-802a-28f9eb583cb5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bec31530-8191-4089-8d5f-38d2b18b8e60",
         "2770ffef-6758-4fc2-b6c6-43ea480f1495",
@@ -433,7 +435,7 @@
         "2b1c1b83-605e-43c7-a685-6e596f08b85a",
         "27645cae-ce11-4444-802a-28f9eb583cb5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5bbd8c3c-99fb-4c62-92b2-10e340d86956",
         "38dca005-d10c-44f1-b766-4444c8184bc8",
@@ -474,7 +476,7 @@
         "2b1c1b83-605e-43c7-a685-6e596f08b85a",
         "27645cae-ce11-4444-802a-28f9eb583cb5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5bbd8c3c-99fb-4c62-92b2-10e340d86956",
         "38dca005-d10c-44f1-b766-4444c8184bc8",
@@ -510,7 +512,7 @@
         "495f31fb-47c2-4fe6-8bc4-06e47d17befe",
         "27645cae-ce11-4444-802a-28f9eb583cb5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "38dca005-d10c-44f1-b766-4444c8184bc8",
         "bec31530-8191-4089-8d5f-38d2b18b8e60",
@@ -543,7 +545,7 @@
         "554a3f95-6cc4-4681-a94e-63861e869b8c",
         "2b1c1b83-605e-43c7-a685-6e596f08b85a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5bbd8c3c-99fb-4c62-92b2-10e340d86956",
         "38dca005-d10c-44f1-b766-4444c8184bc8",
@@ -575,7 +577,7 @@
         "2b1c1b83-605e-43c7-a685-6e596f08b85a",
         "27645cae-ce11-4444-802a-28f9eb583cb5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5bbd8c3c-99fb-4c62-92b2-10e340d86956",
         "35d758d4-b1ec-4a11-8ce1-ba41bfaddd00",
@@ -589,6 +591,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
