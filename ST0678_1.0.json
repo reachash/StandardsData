@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/459",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-09-12T00:00:00Z",
-  "earliestStartDate": "2019-05-16T00:00:00Z",
-  "latestStartDate": "2023-09-11T00:00:00Z",
+  "changedDate": "2023-09-12T00:00:00",
+  "earliestStartDate": "2019-05-16T00:00:00",
+  "latestStartDate": "2023-09-11T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Producing highly specialised dyes and colours.",
   "level": 4,
@@ -197,7 +197,6 @@
       "detail": "Use relevant ICT systems and machinery such as flow control, valve pressure, valve opening machines and spectrometers to determine the correct dye colour"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -234,8 +233,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Technical Manager",
+  "clusterId": "254",
+  "clusterDescription": "Design and develop whole product and/or process technologies using a specific discipline or technology or application expertise",
   "createdDate": "2020-01-09T09:34:17 +00:00",
   "lastUpdated": "2023-09-12T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/technical-dyer-and-colourist-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/technical-dyer-and-colourist-v1-0",
   "qualifications": [
@@ -275,7 +277,7 @@
         "790349a1-264f-4794-8ec6-cfac913b7ec2",
         "0d1478f1-88d9-4ef3-b38d-d513f5c0c7db"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "658b33f4-f5d1-4de4-8d11-8f81748690fb",
         "d938fb7b-e4df-4d70-a93a-682c4ffd9b6f",
@@ -298,7 +300,7 @@
         "a925ae49-cc81-48b1-a373-27d6f7721d81",
         "37c60a15-c13f-4f83-8b89-e877486f37d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "658b33f4-f5d1-4de4-8d11-8f81748690fb",
         "4cc3b4b5-f67f-4a2a-9091-d8775e59288f",
@@ -323,7 +325,7 @@
         "ae1b1975-0ff4-4061-82c7-28d4558385e7",
         "65531ece-9a96-474b-8a6f-8a644594e4b6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "658b33f4-f5d1-4de4-8d11-8f81748690fb",
         "4cc3b4b5-f67f-4a2a-9091-d8775e59288f",
@@ -346,7 +348,7 @@
         "eab90d79-9904-4b46-b1c1-5a9490c3936c",
         "ae1b1975-0ff4-4061-82c7-28d4558385e7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "658b33f4-f5d1-4de4-8d11-8f81748690fb",
         "8bbc3fd4-b427-4d4a-b239-345cf1b46f21",
@@ -367,7 +369,7 @@
         "eab90d79-9904-4b46-b1c1-5a9490c3936c",
         "65531ece-9a96-474b-8a6f-8a644594e4b6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "219b8cd8-bf08-4c1b-991e-0c2c3f75f868",
         "21928f3b-343b-413e-83d7-e56e166df374",
@@ -388,7 +390,7 @@
         "9af7d340-712c-4bbc-b686-33d013000804",
         "ed0944b8-51ed-47b7-994e-869865c9b35d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "658b33f4-f5d1-4de4-8d11-8f81748690fb",
         "99ce3239-c079-4c9b-9f36-3e5aadc03721",
@@ -413,7 +415,7 @@
         "9af7d340-712c-4bbc-b686-33d013000804",
         "eab90d79-9904-4b46-b1c1-5a9490c3936c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "219b8cd8-bf08-4c1b-991e-0c2c3f75f868",
         "8bbc3fd4-b427-4d4a-b239-345cf1b46f21",
@@ -442,7 +444,7 @@
         "37c60a15-c13f-4f83-8b89-e877486f37d1",
         "e764b13c-1eba-4abf-8515-89562dc4edc0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "658b33f4-f5d1-4de4-8d11-8f81748690fb",
         "99ce3239-c079-4c9b-9f36-3e5aadc03721",
@@ -470,7 +472,7 @@
         "a925ae49-cc81-48b1-a373-27d6f7721d81",
         "e764b13c-1eba-4abf-8515-89562dc4edc0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "658b33f4-f5d1-4de4-8d11-8f81748690fb",
         "99ce3239-c079-4c9b-9f36-3e5aadc03721",
@@ -499,7 +501,7 @@
         "e764b13c-1eba-4abf-8515-89562dc4edc0",
         "86e03c21-a992-472e-a2d0-3119784937b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d938fb7b-e4df-4d70-a93a-682c4ffd9b6f",
         "21928f3b-343b-413e-83d7-e56e166df374",
@@ -524,7 +526,7 @@
         "e764b13c-1eba-4abf-8515-89562dc4edc0",
         "65531ece-9a96-474b-8a6f-8a644594e4b6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d938fb7b-e4df-4d70-a93a-682c4ffd9b6f",
         "99ce3239-c079-4c9b-9f36-3e5aadc03721",
@@ -533,6 +535,7 @@
       "criteriaForMeasuringPerformance": "Comply with quality checks for consistent production\n\nAdhere to improvement planning and maintenance scheduling\n\nComply with British Standards (ISO)\n\nCommunicate changes clearly, within the team"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
