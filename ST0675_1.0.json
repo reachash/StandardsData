@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/477",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2019-07-03T00:00:00Z",
-  "earliestStartDate": "2019-07-03T00:00:00Z",
+  "changedDate": "2019-07-03T00:00:00",
+  "earliestStartDate": "2019-07-03T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Ensuring materials are fit for purpose for a wide range of different industries.",
@@ -203,7 +203,6 @@
       "detail": "Communicate effectively with colleagues and stakeholders using the appropriate language register both verbally and in writing."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -239,8 +238,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Engineer",
+  "clusterId": "253",
+  "clusterDescription": "Design and develop a range of products and/or process technologies using discipline and applications specific expertise",
   "createdDate": "2019-12-24T11:59:48 +00:00",
   "lastUpdated": "2019-07-03T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/materials-science-technologist-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/materials-science-technologist-degree-v1-0",
   "qualifications": [
@@ -293,7 +295,7 @@
         "e6992584-239a-4847-bfc9-c35c495c07a6",
         "a868e59e-4228-40b5-9674-489f03976f4e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "96b1c60e-9744-4d15-a531-73900c9b2c55",
         "2901a58d-0031-41b4-a0d6-e9e0b0321290",
@@ -330,7 +332,7 @@
         "e6992584-239a-4847-bfc9-c35c495c07a6",
         "a868e59e-4228-40b5-9674-489f03976f4e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2901a58d-0031-41b4-a0d6-e9e0b0321290",
         "90e4b874-5d3e-4e82-ad9f-1d816926fc7d",
@@ -369,7 +371,7 @@
         "e6992584-239a-4847-bfc9-c35c495c07a6",
         "a868e59e-4228-40b5-9674-489f03976f4e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "96b1c60e-9744-4d15-a531-73900c9b2c55",
         "2901a58d-0031-41b4-a0d6-e9e0b0321290",
@@ -407,7 +409,7 @@
         "612409d7-cc9f-46d5-b91a-71d6c0ede30d",
         "e6992584-239a-4847-bfc9-c35c495c07a6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2901a58d-0031-41b4-a0d6-e9e0b0321290",
         "ce347e38-3466-4b99-ac5d-79c1463815ec",
@@ -448,7 +450,7 @@
         "11fd45f7-1864-4d8c-b579-3dde4546edaf",
         "e6992584-239a-4847-bfc9-c35c495c07a6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "96b1c60e-9744-4d15-a531-73900c9b2c55",
         "2901a58d-0031-41b4-a0d6-e9e0b0321290",
@@ -479,7 +481,7 @@
         "285d8ebd-3bb3-4022-b1d1-96447437126c",
         "bbc65397-d4d7-4ada-97ad-a5289a454174"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b5b13cf4-291a-4822-9ad5-c1b9137feb64",
         "c8949322-5bb6-46f7-876a-dc20027f1e1b",
@@ -506,7 +508,7 @@
         "ed8b8afa-ea5b-4c2f-8d08-e2ddfcdf877e",
         "2275b4f8-b2f0-4a08-9e5f-471130cacfc2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "96b1c60e-9744-4d15-a531-73900c9b2c55",
         "2901a58d-0031-41b4-a0d6-e9e0b0321290",
@@ -548,7 +550,7 @@
         "e6992584-239a-4847-bfc9-c35c495c07a6",
         "a868e59e-4228-40b5-9674-489f03976f4e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "96b1c60e-9744-4d15-a531-73900c9b2c55",
         "ce347e38-3466-4b99-ac5d-79c1463815ec",
@@ -586,7 +588,7 @@
         "612409d7-cc9f-46d5-b91a-71d6c0ede30d",
         "e6992584-239a-4847-bfc9-c35c495c07a6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2901a58d-0031-41b4-a0d6-e9e0b0321290",
         "ce347e38-3466-4b99-ac5d-79c1463815ec",
@@ -620,7 +622,7 @@
         "bbc65397-d4d7-4ada-97ad-a5289a454174",
         "e6992584-239a-4847-bfc9-c35c495c07a6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2901a58d-0031-41b4-a0d6-e9e0b0321290",
         "90e4b874-5d3e-4e82-ad9f-1d816926fc7d",
@@ -645,7 +647,7 @@
         "285d8ebd-3bb3-4022-b1d1-96447437126c",
         "612409d7-cc9f-46d5-b91a-71d6c0ede30d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2901a58d-0031-41b4-a0d6-e9e0b0321290",
         "ce347e38-3466-4b99-ac5d-79c1463815ec",
@@ -688,7 +690,7 @@
         "612409d7-cc9f-46d5-b91a-71d6c0ede30d",
         "bbc65397-d4d7-4ada-97ad-a5289a454174"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "96b1c60e-9744-4d15-a531-73900c9b2c55",
         "2901a58d-0031-41b4-a0d6-e9e0b0321290",
@@ -702,6 +704,7 @@
       "criteriaForMeasuringPerformance": "Accurate; attention to detail; precise; responsible; methodical; drive; tenacity; on time; on budget;\ntarget driven"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
