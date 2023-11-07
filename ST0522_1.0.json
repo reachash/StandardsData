@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/675",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-07-12T00:00:00Z",
-  "earliestStartDate": "2022-02-11T00:00:00Z",
+  "changedDate": "2022-07-12T00:00:00",
+  "earliestStartDate": "2022-02-11T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Enable young people to develop and working with young people to facilitate personal, social and educational development.",
@@ -326,7 +326,6 @@
       "detail": "Carry out risk assessments, plan activities, visits, and manage situations to mitigate risks to ensure the safety of all young people, depending on the setting and the environment they are working in."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -357,8 +356,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Care Services",
   "cluster": "Care Services Professional",
+  "clusterId": "44",
+  "clusterDescription": "Lead, manage and deliver a whole care process to support clients including their assurance and improvement often requiring specialist care expertise.",
   "createdDate": "2021-12-15T10:20:44 +00:00",
   "lastUpdated": "2022-07-12T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/youth-worker-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/youth-worker-v1-0",
   "qualifications": [
@@ -391,7 +393,7 @@
         "549bf5f2-2216-4bcf-acd7-75f464f74899",
         "b98615ee-a377-426e-aced-6d6ff7ae65cc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b0b64032-b1ce-4189-ba3e-623b27d35925",
         "5b3ff2b3-737d-4a12-ba65-a57b650ed27a"
@@ -411,7 +413,7 @@
       "mappedKnowledge": [
         "fb668faa-bd8a-48e7-b708-39ce7db614bf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9e9ca26c-b7f3-47aa-82ec-fd37d690b4af",
         "a9ddd584-9d4b-4456-a01b-7b93ccb54ae9",
@@ -440,7 +442,7 @@
         "c0129690-9a11-44c5-8466-1adf63b0da86",
         "5a1f4f80-c579-44e0-b84c-c9b8a7c5bd3c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9945522c-84b2-4ce4-a986-5554fb2e46b1",
         "9f66047b-e426-45be-9871-ace900e45929",
@@ -464,7 +466,7 @@
         "b6b9657a-0b71-47d7-807c-9992160fd15f",
         "869c2f7d-be43-4219-b425-9e1a79d2d8c6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7b2b4d26-f36b-4f17-b8e9-9251ac4217fc",
         "fddc2921-f035-432c-b7e5-8682e8557912",
@@ -492,7 +494,7 @@
         "d8cc8c85-6c02-4ca6-b70b-b300f25a279b",
         "b1111bdf-f9d5-4423-85d6-47b9fd7309fa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "942c82e4-d70e-4ca9-af96-d124c311360d",
         "52a591b9-f10d-45bb-ab24-abc8f6f70835",
@@ -519,7 +521,7 @@
         "7fc6de5b-4c07-491e-9f49-34218767ba50",
         "05df2c7d-16ce-42de-92e2-05786d7152cd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "86abe725-a527-40e6-b69b-190cb56db567",
         "113d321b-3c0a-44cf-ac75-b00d3d365c56",
@@ -548,7 +550,7 @@
         "8dd5de29-c184-4ae0-8152-1a9b3c1e74b5",
         "acb00dad-5110-4695-8f77-895c63916e29"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "58e1590b-6c63-4c85-88ab-cdf0a57ff8f2",
         "18eb6bd3-151e-4a4b-9298-ba8efbf29ca9",
@@ -572,7 +574,7 @@
         "00b3330d-68c9-4406-8539-6df422338bb9",
         "5cdbd20f-bffa-49e6-9e17-353a8dc89727"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "17d92da0-039f-4c93-aa0f-d63c99c1b05d",
         "db1935ef-6178-4eb0-a5db-19c7ef100fea"
@@ -595,7 +597,7 @@
         "cf3364cb-fb04-4305-87dd-ad464d7bd35f",
         "971df0db-6484-4005-9ffb-3ad4c72048c8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "33f69d85-7147-4633-8c42-0556d6e3bf12",
         "0bbcc03a-b36b-434f-adfb-c4906df05409"
@@ -619,7 +621,7 @@
         "3eeb5a5a-2a3f-4c27-9d49-5159d36128d9",
         "e3d76365-92a2-4426-b9ae-ac7e86537336"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "22bd28cc-8f50-4e08-90af-c1d447a06b65",
         "2dae085a-4f3b-48b8-a183-04205adbd795"
@@ -627,6 +629,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
