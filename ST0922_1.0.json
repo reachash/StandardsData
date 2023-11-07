@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/665",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-11-19T00:00:00Z",
-  "earliestStartDate": "2021-11-12T00:00:00Z",
+  "changedDate": "2021-11-19T00:00:00",
+  "earliestStartDate": "2021-11-12T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Managing peri-urban and urban trees.",
@@ -310,7 +310,6 @@
       "detail": "Assess the type, purpose, benefits, condition and quality of woodland."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -349,8 +348,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Arboriculture and Forestry Professional",
+  "clusterId": "157",
+  "clusterDescription": "Plan for and manage operations to establish, maintain, manage and remove or harvest trees and/or woodland",
   "createdDate": "2021-11-05T08:52:06 +00:00",
   "lastUpdated": "2021-11-19T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/professional-arboriculturist-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/professional-arboriculturist-v1-0",
   "qualifications": [
@@ -407,7 +409,7 @@
         "e00163b9-4118-4794-b166-c19c96fd97e3",
         "fa6a2676-e5f3-428b-b560-29073f556acb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f4957dd0-39e4-4294-a7e5-89b9639a528b",
         "7884ec39-885d-43ae-a691-512931a0c720",
@@ -449,7 +451,7 @@
         "ed0c7e60-4d2d-4555-9156-c2f977521440",
         "fa6a2676-e5f3-428b-b560-29073f556acb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f4957dd0-39e4-4294-a7e5-89b9639a528b",
         "7884ec39-885d-43ae-a691-512931a0c720",
@@ -485,7 +487,7 @@
         "da4e4ac9-2155-41da-ac5a-1a3ead86e3be",
         "fa6a2676-e5f3-428b-b560-29073f556acb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f4957dd0-39e4-4294-a7e5-89b9639a528b",
         "fb9c570d-aa95-4310-8559-a4ca483d4584",
@@ -502,7 +504,7 @@
       "dutyID": "71e11b96-d40f-4086-8511-6c430e02e795",
       "dutyDetail": "Research, collect and interpret data on trees by recording and capturing data related to site factors, plant health, amenity value, natural capital, ecosystem services, suitability, risk, community perspectives, threats and historical value.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "b421077d-80d2-4ac6-81d2-d04b1da63b18",
         "2cdd839c-78c3-439d-b3cf-a1344d81122e",
@@ -512,7 +514,7 @@
         "9e199756-60b6-4dab-be66-26b1fa435f04",
         "e00163b9-4118-4794-b166-c19c96fd97e3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fe47667a-7fe4-43f8-96fa-96661606aa42",
         "dc69ca36-7d2c-4336-a88c-7dacf90c0b69",
@@ -556,7 +558,7 @@
         "9e199756-60b6-4dab-be66-26b1fa435f04",
         "e00163b9-4118-4794-b166-c19c96fd97e3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fe47667a-7fe4-43f8-96fa-96661606aa42",
         "7884ec39-885d-43ae-a691-512931a0c720",
@@ -609,7 +611,7 @@
         "c626e80b-f116-4907-84a3-a491f85c26bf",
         "bed7dede-f913-4d2b-9a28-9866dff4cc4b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f4957dd0-39e4-4294-a7e5-89b9639a528b",
         "e9b95bba-e017-4231-9bdb-c2ecbf3cc995",
@@ -656,7 +658,7 @@
         "ed0c7e60-4d2d-4555-9156-c2f977521440",
         "bed7dede-f913-4d2b-9a28-9866dff4cc4b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f4957dd0-39e4-4294-a7e5-89b9639a528b",
         "fb9c570d-aa95-4310-8559-a4ca483d4584",
@@ -703,7 +705,7 @@
         "9e199756-60b6-4dab-be66-26b1fa435f04",
         "fa6a2676-e5f3-428b-b560-29073f556acb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f4957dd0-39e4-4294-a7e5-89b9639a528b",
         "fe47667a-7fe4-43f8-96fa-96661606aa42",
@@ -749,7 +751,7 @@
         "9e199756-60b6-4dab-be66-26b1fa435f04",
         "fa6a2676-e5f3-428b-b560-29073f556acb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f4957dd0-39e4-4294-a7e5-89b9639a528b",
         "dc69ca36-7d2c-4336-a88c-7dacf90c0b69",
@@ -781,7 +783,7 @@
         "da4e4ac9-2155-41da-ac5a-1a3ead86e3be",
         "e00163b9-4118-4794-b166-c19c96fd97e3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e9b95bba-e017-4231-9bdb-c2ecbf3cc995",
         "77f5ed52-ee86-4137-854b-8ec6017a057e",
@@ -806,7 +808,7 @@
         "da4e4ac9-2155-41da-ac5a-1a3ead86e3be",
         "e00163b9-4118-4794-b166-c19c96fd97e3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f4957dd0-39e4-4294-a7e5-89b9639a528b",
         "fe47667a-7fe4-43f8-96fa-96661606aa42",
@@ -838,7 +840,7 @@
         "0da71f21-22a3-4f2e-9c03-d6ff76d96f45",
         "9e199756-60b6-4dab-be66-26b1fa435f04"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f4957dd0-39e4-4294-a7e5-89b9639a528b",
         "7884ec39-885d-43ae-a691-512931a0c720",
@@ -877,7 +879,7 @@
         "9e199756-60b6-4dab-be66-26b1fa435f04",
         "bed7dede-f913-4d2b-9a28-9866dff4cc4b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dc69ca36-7d2c-4336-a88c-7dacf90c0b69",
         "e9b95bba-e017-4231-9bdb-c2ecbf3cc995",
@@ -918,7 +920,7 @@
         "ed0c7e60-4d2d-4555-9156-c2f977521440",
         "fa6a2676-e5f3-428b-b560-29073f556acb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f4957dd0-39e4-4294-a7e5-89b9639a528b",
         "7884ec39-885d-43ae-a691-512931a0c720",
@@ -948,7 +950,7 @@
         "da4e4ac9-2155-41da-ac5a-1a3ead86e3be",
         "9aa3f72e-72c5-48c3-be25-e26ae3289f54"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fb9c570d-aa95-4310-8559-a4ca483d4584",
         "d6f6689a-14a4-4325-91b8-950d4ed27072",
@@ -979,7 +981,7 @@
         "ed0c7e60-4d2d-4555-9156-c2f977521440",
         "bed7dede-f913-4d2b-9a28-9866dff4cc4b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f4957dd0-39e4-4294-a7e5-89b9639a528b",
         "fb9c570d-aa95-4310-8559-a4ca483d4584",
@@ -1010,7 +1012,7 @@
         "9aa3f72e-72c5-48c3-be25-e26ae3289f54",
         "c626e80b-f116-4907-84a3-a491f85c26bf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "346163a7-a981-4555-88e1-58e76bd6613e",
         "d1e3997b-806b-4d3b-bba5-e0b461a26752",
@@ -1032,7 +1034,7 @@
         "531f1f6e-288c-4cb5-85a9-80b5ade73681",
         "e00163b9-4118-4794-b166-c19c96fd97e3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fe47667a-7fe4-43f8-96fa-96661606aa42",
         "e9b95bba-e017-4231-9bdb-c2ecbf3cc995",
@@ -1041,6 +1043,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
