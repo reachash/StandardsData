@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/352",
   "versionNumber": "1.2",
   "change": "Funding band revised",
-  "changedDate": "2023-06-26T00:00:00Z",
-  "earliestStartDate": "2023-06-26T00:00:00Z",
+  "changedDate": "2023-06-26T00:00:00",
+  "earliestStartDate": "2023-06-26T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Carrying out a range of engineering operations.",
@@ -288,32 +288,6 @@
       "detail": "Carryout quality checks during and after the technical support operation"
     }
   ],
-  "options": [
-    {
-      "optionId": "cf1ef8e3-c182-4cfa-ac9e-969cf1c64898",
-      "title": "Engineering Operatives Working Within a Maintenance Role"
-    },
-    {
-      "optionId": "0dd3c477-ae8b-4bc1-b489-1ad46e4c320a",
-      "title": "Engineering Operatives Working Within a Mechanical Manufacturing Engineering Role"
-    },
-    {
-      "optionId": "fc941a9c-2e6b-485d-a047-4b398550077d",
-      "title": "Engineering Operatives Working Within an Electrical & Electronic Engineering Role"
-    },
-    {
-      "optionId": "9e11a6be-2b4e-4172-94b1-6089ae0b8c87",
-      "title": "Engineering Operatives Working Within a Fabrication Role"
-    },
-    {
-      "optionId": "207b804a-07ef-45e7-82ce-27478561c3bf",
-      "title": "Engineering Operatives Working Within a Materials, Processing or Finishing Role"
-    },
-    {
-      "optionId": "b859ef77-9804-49c4-9873-86ca6fbbc4ef",
-      "title": "Engineering Operatives Working Within a Technical Support Role"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Engineering Operatives Working Within a Maintenance Role",
     "Engineering Operatives Working Within a Mechanical Manufacturing Engineering Role",
@@ -359,13 +333,48 @@
   "reviewDetails": "",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2023-06-26T09:11:06 +00:00",
   "lastUpdated": "2023-06-26T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/engineering-operative-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/engineering-operative-v1-2",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "cf1ef8e3-c182-4cfa-ac9e-969cf1c64898",
+      "title": "Engineering Operatives Working Within a Maintenance Role",
+      "occupationCode": null
+    },
+    {
+      "optionId": "0dd3c477-ae8b-4bc1-b489-1ad46e4c320a",
+      "title": "Engineering Operatives Working Within a Mechanical Manufacturing Engineering Role",
+      "occupationCode": null
+    },
+    {
+      "optionId": "fc941a9c-2e6b-485d-a047-4b398550077d",
+      "title": "Engineering Operatives Working Within an Electrical & Electronic Engineering Role",
+      "occupationCode": null
+    },
+    {
+      "optionId": "9e11a6be-2b4e-4172-94b1-6089ae0b8c87",
+      "title": "Engineering Operatives Working Within a Fabrication Role",
+      "occupationCode": null
+    },
+    {
+      "optionId": "207b804a-07ef-45e7-82ce-27478561c3bf",
+      "title": "Engineering Operatives Working Within a Materials, Processing or Finishing Role",
+      "occupationCode": null
+    },
+    {
+      "optionId": "b859ef77-9804-49c4-9873-86ca6fbbc4ef",
+      "title": "Engineering Operatives Working Within a Technical Support Role",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
