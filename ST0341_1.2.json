@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/112",
   "versionNumber": "1.2",
   "change": "End-point assessment plan revised.",
-  "changedDate": "2023-06-20T00:00:00Z",
-  "earliestStartDate": "2023-06-20T00:00:00Z",
+  "changedDate": "2023-06-20T00:00:00",
+  "earliestStartDate": "2023-06-20T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing support and assistance to help with the delivery of content for TV or radio shows.",
@@ -320,7 +320,6 @@
       "detail": "Use continuing professional development planning to support own current and future training and development needs. "
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -358,8 +357,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media and Broadcast Assistant",
+  "clusterId": "42",
+  "clusterDescription": "Production and distribution of media content using communications, archive and visual technology",
   "createdDate": "2023-08-11T09:25:37 +00:00",
   "lastUpdated": "2023-06-20T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/production-assistant-screen-and-audio-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/production-assistant-screen-and-audio-v1-2",
   "qualifications": [],
@@ -379,7 +381,7 @@
         "a8c7fa1f-c7f6-4653-bd89-205f6471f4ca",
         "c1957acf-d83f-4d94-9791-b00f9fff865a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3dea72f8-fba0-47f9-a1ae-4a45b286c39f",
         "5285935e-591c-4c27-b0fb-bf5a696ac7fe",
@@ -403,7 +405,7 @@
         "2538e82b-e56d-4b6e-aebe-cb09ec712ace",
         "8aec7a6b-1d38-4416-95e9-25321decdfc8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b11ef96f-42cc-4314-8ce3-a4c579704a53",
         "fdc48d7b-1ec0-49a7-87da-8dbd898df428"
@@ -425,7 +427,7 @@
         "50d8e1bd-f82d-429b-a96e-ca6269f4b54b",
         "bbea57db-6ab3-4f62-a7c6-59b4d7db3107"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "44649d86-e779-401b-b818-97930891af60",
         "eb897cb0-a2ac-4ca1-8b38-a6939f0e70bd",
@@ -446,7 +448,7 @@
         "6aba262c-b0ad-4cb7-b069-245743b02c9f",
         "4d2a76ea-d9bc-44ed-8a28-510ba1ef64c0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "34c8cc87-bf5c-4daf-bb54-296e1a619344",
         "6498b02a-0813-412f-9ac9-1cafd33b42ca",
@@ -468,7 +470,7 @@
         "2b2d67c5-09af-4af5-aa2f-66a251b586db",
         "8de92fec-8e41-40c2-98af-6ea10f2d25f4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7918b1a7-80d0-4c39-a75a-c71475c79c16",
         "4b960899-8e92-458d-893a-51b1edf70925"
@@ -490,7 +492,7 @@
         "f837a7b2-a1b7-4baf-9b90-3a01e81c8370",
         "84aedd28-2098-4c41-a638-77d77aa6f428"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "61b57896-81af-440a-9ae0-1ccb63bb7a7f",
         "c5db4fb0-2b25-466e-8144-698080d11f21",
@@ -516,7 +518,7 @@
         "6a653641-d5fc-4c49-ba7a-6fc237e90e2b",
         "915a3ab6-9040-4d8c-94e0-63efbd0a82c0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b8d942bc-49c7-4f4c-b89b-bb97381f51ba",
         "86244b3c-5bb8-4f1d-a6ff-026e60f952be",
@@ -539,7 +541,7 @@
         "6531e9a3-ff6e-47c6-9486-498b863e1035",
         "d1fe9882-bc55-462c-a6bc-fac5ffbd9b60"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4b960899-8e92-458d-893a-51b1edf70925",
         "af133684-597b-422b-b96d-23400fe5f1fa",
@@ -561,7 +563,7 @@
         "c1957acf-d83f-4d94-9791-b00f9fff865a",
         "1fae04b0-3926-4076-b587-7b738339f1ed"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dc1ab0f9-a465-4046-bcde-783b6e3d1244",
         "ea110d34-0a63-4eb8-bb1e-7dc3a582e3e6"
@@ -581,7 +583,7 @@
         "137d95c1-ee0a-487e-9206-9a57a0bef7a5",
         "965c6de8-5de4-4631-97ba-b0a83be6bee1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6498b02a-0813-412f-9ac9-1cafd33b42ca",
         "52789443-4ad9-48d6-a241-6c90c122ff1d",
@@ -590,6 +592,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
