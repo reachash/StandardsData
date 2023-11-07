@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/86",
   "versionNumber": "1.2",
   "change": "Funding band revised",
-  "changedDate": "2022-12-30T00:00:00Z",
-  "earliestStartDate": "2018-10-03T00:00:00Z",
+  "changedDate": "2022-12-30T00:00:00",
+  "earliestStartDate": "2018-10-03T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Working in a specialist role supervising the safe arrival, turnaround and departure of aircraft at airports, military bases, heliports and other airfields.",
@@ -356,28 +356,6 @@
       "detail": "Customer service and communication Address complex customer needs to ensure service standards and individual requirements are maintained"
     }
   ],
-  "options": [
-    {
-      "optionId": "018bd4ed-d4bc-4b9e-a779-e11d356c2ecb",
-      "title": "Aircraft Handling"
-    },
-    {
-      "optionId": "771f34e9-0c8c-407e-aa7d-110630604649",
-      "title": "Aircraft Movement"
-    },
-    {
-      "optionId": "91956bd4-2319-4687-ac77-bfacad6bebfc",
-      "title": "Fire Fighter"
-    },
-    {
-      "optionId": "26a2ad2e-6459-411b-a6be-00704637a3a0",
-      "title": "Flight Operations"
-    },
-    {
-      "optionId": "6161864e-a41e-433e-851d-bed216c99483",
-      "title": "Passenger Operations"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Aircraft Handling",
     "Aircraft Movement",
@@ -416,13 +394,43 @@
   "reviewDetails": "",
   "pathway": "Transport",
   "cluster": "Transport Operations Operative/Technician",
+  "clusterId": "16",
+  "clusterDescription": "Support a transport facility's operation and/or support the loading and movement of a freight or passenger vehicle or vessel",
   "createdDate": "2017-09-22T14:24:38 +00:00",
   "lastUpdated": "2022-12-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/aviation-ground-specialist-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/aviation-ground-specialist-v1-2",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "018bd4ed-d4bc-4b9e-a779-e11d356c2ecb",
+      "title": "Aircraft Handling",
+      "occupationCode": null
+    },
+    {
+      "optionId": "771f34e9-0c8c-407e-aa7d-110630604649",
+      "title": "Aircraft Movement",
+      "occupationCode": null
+    },
+    {
+      "optionId": "91956bd4-2319-4687-ac77-bfacad6bebfc",
+      "title": "Fire Fighter",
+      "occupationCode": null
+    },
+    {
+      "optionId": "26a2ad2e-6459-411b-a6be-00704637a3a0",
+      "title": "Flight Operations",
+      "occupationCode": null
+    },
+    {
+      "optionId": "6161864e-a41e-433e-851d-bed216c99483",
+      "title": "Passenger Operations",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
