@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/498",
   "versionNumber": "1.0",
   "change": "",
-  "changedDate": "2019-08-23T00:00:00Z",
-  "earliestStartDate": "2019-08-23T00:00:00Z",
+  "changedDate": "2019-08-23T00:00:00",
+  "earliestStartDate": "2019-08-23T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Creating initial ideas, design concepts and plans for fitted furniture interiors.",
@@ -304,7 +304,6 @@
       "detail": "Realise and maintain customer expectations"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -343,8 +342,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Technician",
+  "clusterId": "255",
+  "clusterDescription": "Design and develop parts of product and/or process technologies",
   "createdDate": "2020-02-10T13:26:49 +00:00",
   "lastUpdated": "2019-08-23T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/fitted-furniture-design-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/fitted-furniture-design-technician-v1-0",
   "qualifications": [],
@@ -360,7 +362,7 @@
       "mappedKnowledge": [
         "ec20fdc2-ab67-459c-9e64-39f9cd3bf9bd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2abad0c8-74b2-48d5-9aa3-f70154256490"
       ],
@@ -378,7 +380,7 @@
         "9ccaf110-d6f8-41d1-8f30-e662f15fccfb",
         "a495c936-fa82-4d1c-bbf7-2f912cca726e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "019523d0-6d8a-46ab-b934-45f16cc37026",
         "b6cd428b-329d-4d45-8271-8668dc571950"
@@ -404,7 +406,7 @@
         "05098c2d-a60c-413a-aa22-92619cc9b3b3",
         "5b4cbb74-e570-4406-9e5c-3f0323969045"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "104c39ed-2be6-4cc7-ad2b-f6b4b9818336",
         "e38b8dcb-d53e-45f1-8353-5e42df065d92",
@@ -426,7 +428,7 @@
         "5d672e38-ec00-4c3a-9524-c52db9d0a887",
         "78c30a12-5e99-4fb3-98b0-ded5a111b706"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f201f0b5-c067-4ead-a2c1-b8793b580d01",
         "0a139a12-28d1-49dc-a6dc-a2918a7da9df"
@@ -446,7 +448,7 @@
         "dc7bf04b-f35b-47ec-829d-c335dd910a34",
         "ba675031-26e1-49ab-9533-52d20be7b436"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "45cbdfbf-f9cc-49f7-b80a-7127398e0d61",
         "d6a088e4-fda3-42ac-a9ef-b5511f0ca45c",
@@ -465,7 +467,7 @@
         "968fdc70-aeba-4777-9ae3-8dbc7798c507",
         "6fab3efb-987e-41b1-886e-40f268ad2518"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9811c027-3553-4c47-b964-7be56c5f6bfc"
       ],
@@ -482,7 +484,7 @@
         "32f26752-d535-4566-b2ad-d1478985820e",
         "2140adc6-3aee-45ee-83f8-4c3008d158bd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "97edf850-97f3-4e0d-90fb-2cc3c2b953d0"
       ],
@@ -500,7 +502,7 @@
         "183a3a61-fd45-4629-8d29-ca5a8bb27caf",
         "ddf004ce-dd4e-41d6-993d-b711297d6285"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ef4c1932-a596-441c-91d0-cd3394df0cc9"
       ],
@@ -518,7 +520,7 @@
         "f1986890-4dc6-4378-a8d3-0b47d13838df",
         "7188d685-844c-4079-9cdc-4b7d0538acf8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "71d287da-3cc7-4d6f-8d67-302d3a967bb7",
         "4cb4364a-2b64-4940-b682-2481861c4a4f"
@@ -539,7 +541,7 @@
         "a54ea5d4-c7cd-45c7-8c06-0dfe421df557",
         "ca917a66-be9a-4855-b7f7-1c7133a8ad40"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0509f45f-cc7a-4c92-85ae-474dde9cd2e0",
         "424a867d-0b61-4c23-a755-34e3573c2ec3"
@@ -560,7 +562,7 @@
         "be7bf208-7adf-4ae7-bb1c-145bc6dfb37e",
         "ad327cb0-60b3-472c-8ed2-5d89af186cdc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3f57a6c-5ec8-47b3-8686-9c8d4df9ef2e",
         "25dbd9e4-0b2e-40ad-ae56-ea902a4c53b7"
@@ -568,6 +570,7 @@
       "criteriaForMeasuringPerformance": "Delivered in line with customer expectations/company standards"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
