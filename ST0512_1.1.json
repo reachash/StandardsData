@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/570",
   "versionNumber": "1.1",
   "change": "Funding band revised",
-  "changedDate": "2023-03-17T00:00:00Z",
-  "earliestStartDate": "2023-03-17T00:00:00Z",
+  "changedDate": "2023-03-17T00:00:00",
+  "earliestStartDate": "2023-03-17T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Conduct serious and complex investigation.",
@@ -192,7 +192,6 @@
       "detail": "Apply investigative decision making to serious and complex crime investigations so that actions are focused and all key decisions are rational and considered"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -224,8 +223,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Protective Services",
   "cluster": "Protective Service Professional",
+  "clusterId": "49",
+  "clusterDescription": "Lead and manage a whole service or event regarding safety, security, prevention, enforcement, protection and investigation services largely on behalf of society or workplace. Often requires specialist knowledge to handle complex cases",
   "createdDate": "2023-03-17T10:11:52 +00:00",
   "lastUpdated": "2023-03-17T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/serious-and-complex-crime-investigator-integrated-degree-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/serious-and-complex-crime-investigator-integrated-degree-v1-1",
   "qualifications": [
@@ -252,7 +254,7 @@
         "461d5446-7834-4791-bf56-8762390d2af8",
         "32bf9633-4079-427f-9325-1f09b9467324"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "77b057b3-a49b-487e-985c-945b0c8daeb4"
       ],
@@ -274,7 +276,7 @@
         "acfeaab5-29a7-43d1-ac14-e920b925110e",
         "32bf9633-4079-427f-9325-1f09b9467324"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1e09609d-03e3-480a-8cf7-b6544bd409f8",
         "5acc9056-a1d2-408c-94a9-76c6bd720740"
@@ -296,7 +298,7 @@
         "50fe5a60-7390-4c3c-b9d1-1e4651c25bc9",
         "bd1c7cdb-4062-404b-9ea9-dd0510385627"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1e09609d-03e3-480a-8cf7-b6544bd409f8",
         "3a19bde9-d82d-4894-b45d-b2e472d18957",
@@ -318,7 +320,7 @@
         "329923a6-88c2-4728-8ebb-da9702725ecc",
         "50fe5a60-7390-4c3c-b9d1-1e4651c25bc9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf44f884-a874-4c20-90db-940cad0ded8d",
         "3a19bde9-d82d-4894-b45d-b2e472d18957",
@@ -342,7 +344,7 @@
         "acfeaab5-29a7-43d1-ac14-e920b925110e",
         "32bf9633-4079-427f-9325-1f09b9467324"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5acc9056-a1d2-408c-94a9-76c6bd720740",
         "6aac6c73-e59f-4fef-ba1d-8dd43744ef2c",
@@ -362,7 +364,7 @@
         "acfeaab5-29a7-43d1-ac14-e920b925110e",
         "32bf9633-4079-427f-9325-1f09b9467324"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6aac6c73-e59f-4fef-ba1d-8dd43744ef2c",
         "85253091-4a75-4672-8cd2-1212c30457b0"
@@ -381,7 +383,7 @@
         "961e52be-3125-4da4-84cd-b932ba97623c",
         "50fe5a60-7390-4c3c-b9d1-1e4651c25bc9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b6b96062-9e5d-449a-a2cb-bfc3faee7202",
         "6aac6c73-e59f-4fef-ba1d-8dd43744ef2c"
@@ -399,7 +401,7 @@
         "0bc42236-5b13-4477-9047-e75d10123f25",
         "961e52be-3125-4da4-84cd-b932ba97623c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c86d9368-6bce-410f-af0b-68de77656096",
         "cb9ef36d-08c0-481c-9019-27f5247e3946",
@@ -421,7 +423,7 @@
         "961e52be-3125-4da4-84cd-b932ba97623c",
         "4fef28cf-06f0-4e86-a7c6-24e5749dd4d6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c86d9368-6bce-410f-af0b-68de77656096",
         "cb9ef36d-08c0-481c-9019-27f5247e3946",
@@ -446,7 +448,7 @@
         "50fe5a60-7390-4c3c-b9d1-1e4651c25bc9",
         "acfeaab5-29a7-43d1-ac14-e920b925110e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c86d9368-6bce-410f-af0b-68de77656096",
         "cb9ef36d-08c0-481c-9019-27f5247e3946",
@@ -471,7 +473,7 @@
         "814d6679-ca05-471f-b422-22e3c9934168",
         "32bf9633-4079-427f-9325-1f09b9467324"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c86d9368-6bce-410f-af0b-68de77656096",
         "cb9ef36d-08c0-481c-9019-27f5247e3946",
@@ -491,7 +493,7 @@
         "0bc42236-5b13-4477-9047-e75d10123f25",
         "61505c96-5485-45ef-b819-8033bdad529f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c86d9368-6bce-410f-af0b-68de77656096",
         "cb9ef36d-08c0-481c-9019-27f5247e3946",
@@ -513,7 +515,7 @@
         "814d6679-ca05-471f-b422-22e3c9934168",
         "4fef28cf-06f0-4e86-a7c6-24e5749dd4d6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c86d9368-6bce-410f-af0b-68de77656096",
         "cb9ef36d-08c0-481c-9019-27f5247e3946",
@@ -534,7 +536,7 @@
         "4adaeee9-abdc-4fac-be6e-4a0c327da495",
         "4fef28cf-06f0-4e86-a7c6-24e5749dd4d6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c86d9368-6bce-410f-af0b-68de77656096",
         "cb9ef36d-08c0-481c-9019-27f5247e3946",
@@ -543,6 +545,7 @@
       "criteriaForMeasuringPerformance": "To PIP2 standard.  In accordance with CPIA.  To achieve successful criminal justice outcomes."
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
