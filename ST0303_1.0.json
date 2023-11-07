@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/225",
   "versionNumber": "1.0",
   "change": "",
-  "changedDate": "2022-05-31T00:00:00Z",
-  "earliestStartDate": "2018-01-19T00:00:00Z",
+  "changedDate": "2022-05-31T00:00:00",
+  "earliestStartDate": "2018-01-19T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Fitting and servicing domestic water, heating and drainage systems.",
@@ -147,24 +147,6 @@
       "detail": "Select, install, test, commission, service and maintain solar thermal, heat pumps and water recycling systems"
     }
   ],
-  "options": [
-    {
-      "optionId": "34bab651-6ee2-492d-b9a8-077ed9530633",
-      "title": "Environmental Technologies"
-    },
-    {
-      "optionId": "cfcee13e-3161-40af-9517-3202127eb8ee",
-      "title": "Fossil Fuel - Natural Gas"
-    },
-    {
-      "optionId": "ff7364fd-7000-43d9-80eb-a075de5f101a",
-      "title": "Fossil Fuel - Oil"
-    },
-    {
-      "optionId": "ee41a351-99d6-42b1-8123-32427bff5cd3",
-      "title": "Fossil Fuel - Solid Fuel"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Environmental Technologies",
     "Fossil Fuel - Natural Gas",
@@ -197,15 +179,40 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "",
-  "pathway": "Building Services Engineering",
-  "cluster": "Building Services Engineering Operative/Technician",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2017-11-14T17:09:46 +00:00",
   "lastUpdated": "2022-05-31T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/plumbing-and-domestic-heating-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/plumbing-and-domestic-heating-technician-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "34bab651-6ee2-492d-b9a8-077ed9530633",
+      "title": "Environmental Technologies",
+      "occupationCode": null
+    },
+    {
+      "optionId": "cfcee13e-3161-40af-9517-3202127eb8ee",
+      "title": "Fossil Fuel - Natural Gas",
+      "occupationCode": null
+    },
+    {
+      "optionId": "ff7364fd-7000-43d9-80eb-a075de5f101a",
+      "title": "Fossil Fuel - Oil",
+      "occupationCode": null
+    },
+    {
+      "optionId": "ee41a351-99d6-42b1-8123-32427bff5cd3",
+      "title": "Fossil Fuel - Solid Fuel",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
