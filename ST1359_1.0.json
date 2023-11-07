@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/730",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-10-16T00:00:00Z",
-  "earliestStartDate": "2023-10-16T00:00:00Z",
+  "changedDate": "2023-10-16T00:00:00",
+  "earliestStartDate": "2023-10-16T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Plan and manage the husbandry needs of domestic or wild animals in their care.",
@@ -287,7 +287,6 @@
       "detail": "Assimilate information to make changes to the animal care provision."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -325,8 +324,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Animal Care and Management",
   "cluster": "Animal Care and Welfare Assistant",
+  "clusterId": "148",
+  "clusterDescription": "Routine and detailed care, handling and training of animals",
   "createdDate": "2023-10-16T13:02:00 +00:00",
   "lastUpdated": "2023-10-16T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/animal-care-and-welfare-manager-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/animal-care-and-welfare-manager-v1-0",
   "qualifications": [],
@@ -363,7 +365,7 @@
         "402249e6-dbe7-495a-8388-b271335524aa",
         "ad708770-d2a6-47e7-8918-053240ff815c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9711290-f327-4243-a37d-6eb78f9809df",
         "d71f9d48-caa5-4afb-8288-b291efb08515",
@@ -408,7 +410,7 @@
         "2723833d-825e-450d-8245-53b799b0ea3d",
         "ad708770-d2a6-47e7-8918-053240ff815c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9711290-f327-4243-a37d-6eb78f9809df",
         "d71f9d48-caa5-4afb-8288-b291efb08515",
@@ -454,7 +456,7 @@
         "402249e6-dbe7-495a-8388-b271335524aa",
         "ad708770-d2a6-47e7-8918-053240ff815c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9711290-f327-4243-a37d-6eb78f9809df",
         "d71f9d48-caa5-4afb-8288-b291efb08515",
@@ -497,7 +499,7 @@
         "402249e6-dbe7-495a-8388-b271335524aa",
         "ad708770-d2a6-47e7-8918-053240ff815c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9711290-f327-4243-a37d-6eb78f9809df",
         "d71f9d48-caa5-4afb-8288-b291efb08515",
@@ -539,7 +541,7 @@
         "402249e6-dbe7-495a-8388-b271335524aa",
         "ad708770-d2a6-47e7-8918-053240ff815c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9711290-f327-4243-a37d-6eb78f9809df",
         "d71f9d48-caa5-4afb-8288-b291efb08515",
@@ -588,7 +590,7 @@
         "402249e6-dbe7-495a-8388-b271335524aa",
         "ad708770-d2a6-47e7-8918-053240ff815c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9711290-f327-4243-a37d-6eb78f9809df",
         "d71f9d48-caa5-4afb-8288-b291efb08515",
@@ -629,7 +631,7 @@
         "efeb29ea-6819-4135-8db1-38ac72afc013",
         "64bcd093-6082-43f8-9327-ddbc2dd56130"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9711290-f327-4243-a37d-6eb78f9809df",
         "d71f9d48-caa5-4afb-8288-b291efb08515",
@@ -665,7 +667,7 @@
         "402249e6-dbe7-495a-8388-b271335524aa",
         "ad708770-d2a6-47e7-8918-053240ff815c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9711290-f327-4243-a37d-6eb78f9809df",
         "fd72b2f6-57f9-4f8f-800c-1a9d08f1152c",
@@ -720,7 +722,7 @@
         "efeb29ea-6819-4135-8db1-38ac72afc013",
         "64bcd093-6082-43f8-9327-ddbc2dd56130"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9711290-f327-4243-a37d-6eb78f9809df",
         "d71f9d48-caa5-4afb-8288-b291efb08515",
@@ -772,7 +774,7 @@
         "efeb29ea-6819-4135-8db1-38ac72afc013",
         "64bcd093-6082-43f8-9327-ddbc2dd56130"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9711290-f327-4243-a37d-6eb78f9809df",
         "d71f9d48-caa5-4afb-8288-b291efb08515",
@@ -814,7 +816,7 @@
         "9d29d718-d750-4447-8898-e2e26adb6caa",
         "64bcd093-6082-43f8-9327-ddbc2dd56130"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9711290-f327-4243-a37d-6eb78f9809df",
         "f0e891d0-38a9-4fc6-97f2-066779657c4d",
@@ -854,7 +856,7 @@
         "748725e1-4c1f-4d61-a460-af36634e267b",
         "64bcd093-6082-43f8-9327-ddbc2dd56130"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9711290-f327-4243-a37d-6eb78f9809df",
         "d71f9d48-caa5-4afb-8288-b291efb08515",
@@ -904,7 +906,7 @@
         "748725e1-4c1f-4d61-a460-af36634e267b",
         "efeb29ea-6819-4135-8db1-38ac72afc013"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9711290-f327-4243-a37d-6eb78f9809df",
         "d71f9d48-caa5-4afb-8288-b291efb08515",
@@ -949,7 +951,7 @@
         "0508f64f-d2d9-4d0b-8c56-636dc12221bc",
         "64bcd093-6082-43f8-9327-ddbc2dd56130"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9711290-f327-4243-a37d-6eb78f9809df",
         "d71f9d48-caa5-4afb-8288-b291efb08515",
@@ -972,6 +974,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
