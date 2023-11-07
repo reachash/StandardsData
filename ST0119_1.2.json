@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/25",
   "versionNumber": "1.2",
   "change": "Standard, end-point assessment plan and funding band revised",
-  "changedDate": "2023-09-01T00:00:00Z",
-  "earliestStartDate": "2023-09-01T00:00:00Z",
+  "changedDate": "2023-09-01T00:00:00",
+  "earliestStartDate": "2023-09-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Maintaining digital and technology strategies through technology leadership.",
@@ -605,32 +605,6 @@
       "detail": "Investigate security concerns or attacks. For example, Distributed Denial of Service (DDOS), port scanning, assessing key metrics and indicators, evidencing the chosen steps to mitigate."
     }
   ],
-  "options": [
-    {
-      "optionId": "345b3f26-fb8a-4d69-9c12-dc90621b278b",
-      "title": "software engineering professional"
-    },
-    {
-      "optionId": "09bef77d-25cc-4d52-a5ee-060ec4877bd4",
-      "title": "IT consultant professional"
-    },
-    {
-      "optionId": "17c7b00b-6d1f-4ea8-b212-ac17162c8862",
-      "title": "business analyst professional"
-    },
-    {
-      "optionId": "53e8dcad-ff43-429c-b6c2-023b8af7bb75",
-      "title": "cyber security professional "
-    },
-    {
-      "optionId": "194a8e02-f356-4d64-95cf-4a11f60ed1ee",
-      "title": "computing data analyst professional"
-    },
-    {
-      "optionId": "8be9615e-c1ef-498a-859b-98aa39ec3506",
-      "title": "network engineering professional"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -665,8 +639,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Digital Business Services",
   "cluster": "Digital Solutions Professional",
+  "clusterId": "235",
+  "clusterDescription": "Provide and implement technology enabled solutions to internal and external customers",
   "createdDate": "2023-03-31T09:05:02 +00:00",
   "lastUpdated": "2023-09-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-v1-2",
   "qualifications": [
@@ -714,7 +691,7 @@
         "7182a62a-04ef-4f06-bc80-cef24f70b983",
         "ba739aa4-88bf-4317-b1bf-05a33512b4ec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "83a173fb-4d6a-4412-bb96-ff8499b3fe16",
         "a1e1c9bc-1235-4627-b6b8-ae5bced591af",
@@ -753,7 +730,7 @@
         "099300d3-7355-404c-bc5f-928370284b7d",
         "ba739aa4-88bf-4317-b1bf-05a33512b4ec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "83a173fb-4d6a-4412-bb96-ff8499b3fe16",
         "a1e1c9bc-1235-4627-b6b8-ae5bced591af",
@@ -796,7 +773,7 @@
         "7182a62a-04ef-4f06-bc80-cef24f70b983",
         "ba739aa4-88bf-4317-b1bf-05a33512b4ec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "83a173fb-4d6a-4412-bb96-ff8499b3fe16",
         "a1e1c9bc-1235-4627-b6b8-ae5bced591af",
@@ -839,7 +816,7 @@
         "7182a62a-04ef-4f06-bc80-cef24f70b983",
         "ba739aa4-88bf-4317-b1bf-05a33512b4ec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "83a173fb-4d6a-4412-bb96-ff8499b3fe16",
         "a1e1c9bc-1235-4627-b6b8-ae5bced591af",
@@ -874,7 +851,7 @@
         "f93baf09-7ad4-4818-a544-a5d211ffb7bd",
         "aeb5121e-8c9b-48a3-a9bc-29b960da7833"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a1e1c9bc-1235-4627-b6b8-ae5bced591af",
         "d1a5989b-2730-4c4d-b603-9f5958e72d9e",
@@ -908,7 +885,7 @@
         "7182a62a-04ef-4f06-bc80-cef24f70b983",
         "ba739aa4-88bf-4317-b1bf-05a33512b4ec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "83a173fb-4d6a-4412-bb96-ff8499b3fe16",
         "a1e1c9bc-1235-4627-b6b8-ae5bced591af",
@@ -947,7 +924,7 @@
         "7182a62a-04ef-4f06-bc80-cef24f70b983",
         "ba739aa4-88bf-4317-b1bf-05a33512b4ec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d5c7d5b0-8a2f-4b79-bcd4-ab8bd2bcf8e0",
         "ed689cd3-4ef6-4439-84ef-fd557c766a29",
@@ -982,7 +959,7 @@
         "7182a62a-04ef-4f06-bc80-cef24f70b983",
         "ba739aa4-88bf-4317-b1bf-05a33512b4ec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "83a173fb-4d6a-4412-bb96-ff8499b3fe16",
         "a1e1c9bc-1235-4627-b6b8-ae5bced591af"
@@ -1015,7 +992,7 @@
         "a2819da5-ae11-4378-925d-aab1306b6731",
         "099300d3-7355-404c-bc5f-928370284b7d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "83a173fb-4d6a-4412-bb96-ff8499b3fe16",
         "a1e1c9bc-1235-4627-b6b8-ae5bced591af",
@@ -1038,7 +1015,7 @@
         "099300d3-7355-404c-bc5f-928370284b7d",
         "1dd63070-a98e-44fe-96cd-936a1177d75b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1fff45b4-5144-4748-88ea-b72c3e2f9b40",
         "8512a9ce-a3aa-472f-96ed-d2cbd2a54e2f"
@@ -1064,7 +1041,7 @@
         "96d8abb0-0b5c-4ad6-a742-5435c5a58b80",
         "a34bf5f4-9ff1-4174-a6e6-1f0efac31e62"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a1e1c9bc-1235-4627-b6b8-ae5bced591af",
         "08eeb79e-a0ae-4c94-b473-73b6a56cefc1",
@@ -1091,8 +1068,8 @@
         "7182a62a-04ef-4f06-bc80-cef24f70b983",
         "ba739aa4-88bf-4317-b1bf-05a33512b4ec"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -1123,7 +1100,7 @@
         "7182a62a-04ef-4f06-bc80-cef24f70b983",
         "ba739aa4-88bf-4317-b1bf-05a33512b4ec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "83a173fb-4d6a-4412-bb96-ff8499b3fe16",
         "a1e1c9bc-1235-4627-b6b8-ae5bced591af",
@@ -1154,7 +1131,7 @@
         "1dd63070-a98e-44fe-96cd-936a1177d75b",
         "ba739aa4-88bf-4317-b1bf-05a33512b4ec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "83a173fb-4d6a-4412-bb96-ff8499b3fe16",
         "a1e1c9bc-1235-4627-b6b8-ae5bced591af",
@@ -1185,15 +1162,15 @@
         "a5fa9e26-f3f8-476c-a12c-d613f80b0559",
         "a34bf5f4-9ff1-4174-a6e6-1f0efac31e62"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "0dccb4b8-2699-4fdd-8328-26d01cae6c91",
       "dutyDetail": "Accountable for the undertaking and completion of the analysis of software engineering business issues for either the entire requirement or subset thereof dependent on complexity and/or scope size.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "251a7ce6-c01c-4d54-a9e1-ada07823d3f6",
         "fe24c61e-16ce-41cf-b8c9-ddccb1168474",
@@ -1213,7 +1190,7 @@
       "dutyID": "89ddafa1-0fb6-4c76-89e2-cd703924a421",
       "dutyDetail": "Implement the software solution, or part thereof, dependent on complexity, scope size and technology (including bespoke code, implementation of COTS package, or tailoring of package, or combinations of these) into the environment required (including systems test, user test environment, or live environment as appropriate).",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "251a7ce6-c01c-4d54-a9e1-ada07823d3f6",
         "fe24c61e-16ce-41cf-b8c9-ddccb1168474",
@@ -1234,7 +1211,7 @@
       "dutyID": "408c81ee-d866-43f3-80df-780d515f346b",
       "dutyDetail": "Creation of an over-arching software solution design suitable to resolving the business issues for either the entire requirement or subset thereof dependent on complexity and/or scope size.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "dadd16e5-0301-498e-9034-301a61f7c503",
         "d7bae810-b1e8-4090-93db-40759beaf283",
@@ -1255,7 +1232,7 @@
       "dutyID": "9da0b0f9-1cc4-468f-bb82-1e778cf15ef1",
       "dutyDetail": "Build the software solution, or part thereof, dependent on complexity, scope size, and technology (including bespoke code, implementation of COTS (Commercial-off-the-shelf) package, or tailoring of package, or combinations of these).",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "251a7ce6-c01c-4d54-a9e1-ada07823d3f6",
         "fe24c61e-16ce-41cf-b8c9-ddccb1168474",
@@ -1281,7 +1258,7 @@
       "dutyID": "32a99d27-bd2d-47af-87c9-74a8893c337e",
       "dutyDetail": "Supervise the work of more junior team members undertaking work in the software solution life-cycle ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "251a7ce6-c01c-4d54-a9e1-ada07823d3f6",
         "9818fcc0-b3ce-41e2-9ea6-44c6598a58c9"
@@ -1300,7 +1277,7 @@
       "dutyID": "2ea746dd-1146-45af-aa35-c5057c9b9bc1",
       "dutyDetail": "Test that the software solution, or part thereof, dependent on complexity, scope size and technology (including bespoke code, implementation of COTS package, or tailoring of package, or combinations of these) meets the business needs identifying any remedial actions required",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "20dbd113-ace0-45dc-aeb7-9cdcf166175d",
         "d7bae810-b1e8-4090-93db-40759beaf283",
@@ -1322,7 +1299,7 @@
       "dutyID": "8e0955cf-9d56-434a-9540-b33f148415b6",
       "dutyDetail": "Work closely with all key stakeholders to ensure the software solution or part thereof, dependent on complexity and scope size, is understood and correctly used.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "251a7ce6-c01c-4d54-a9e1-ada07823d3f6",
         "9818fcc0-b3ce-41e2-9ea6-44c6598a58c9"
@@ -1340,7 +1317,7 @@
       "dutyID": "013d9aef-1b35-4722-9fa2-bf0b215f88e3",
       "dutyDetail": "Ongoing support of the software solution or part thereof, dependent on complexity and technology (including bespoke code, implementation of COTS package, or tailoring of package or combinations of these).",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "251a7ce6-c01c-4d54-a9e1-ada07823d3f6",
         "9818fcc0-b3ce-41e2-9ea6-44c6598a58c9"
@@ -1358,7 +1335,7 @@
       "dutyID": "14e43bf9-090e-4508-9cf7-b8d56ebba261",
       "dutyDetail": "Perform internal and external client interviews to identify short and long term digital and technology business goals.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "850a89ce-4cb9-4313-91a3-32d2cbecd2f4",
         "0f805b53-243b-4446-9fcb-5a758ec5ac68",
@@ -1378,7 +1355,7 @@
       "dutyID": "05c7d8f0-57d8-4534-9319-5809c5c384a8",
       "dutyDetail": "Perform gap analysis against current industry best practices.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0f805b53-243b-4446-9fcb-5a758ec5ac68",
         "d2e176dc-f365-421a-baa0-f06330adc4fe"
@@ -1396,7 +1373,7 @@
       "dutyID": "58bc2fa2-8620-46f7-9ea1-ddfa1beb792f",
       "dutyDetail": "Distinguish, analyse and document digital and technology requirements and manage those requirements through a project life cycle.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0f805b53-243b-4446-9fcb-5a758ec5ac68",
         "4f0506c4-54c5-4c62-a7bb-cc5749ad4201",
@@ -1418,7 +1395,7 @@
       "dutyID": "91280efd-fb92-4b6a-941e-3705b73e59b1",
       "dutyDetail": "Use a range of methodologies, techniques and work products to produce digital and technology solutions for internal and external clients.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0f805b53-243b-4446-9fcb-5a758ec5ac68",
         "d2e176dc-f365-421a-baa0-f06330adc4fe",
@@ -1437,7 +1414,7 @@
       "dutyID": "e913c575-5cae-4d31-8d99-54706b1e705b",
       "dutyDetail": "Generate, develop and win new digital and technology business.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "018898eb-c7b2-45d4-b8c8-70e1ebfeb1d9",
         "67ee3fc5-32a3-464f-aafc-868be06326ba"
@@ -1456,7 +1433,7 @@
       "dutyID": "08fa6224-c940-4299-8cfd-a696254b1151",
       "dutyDetail": "Create and use intellectual capital to solve diverse technology and digital business issues in innovative ways.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "f6bca9ee-2175-4a39-a526-0bc74c5a65cc",
         "018898eb-c7b2-45d4-b8c8-70e1ebfeb1d9",
@@ -1477,7 +1454,7 @@
       "dutyID": "78faa81e-30df-4925-afea-bd3d0902f4e3",
       "dutyDetail": "Design, test, install and monitor new systems and processes.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "018898eb-c7b2-45d4-b8c8-70e1ebfeb1d9",
         "d2e176dc-f365-421a-baa0-f06330adc4fe",
@@ -1503,7 +1480,7 @@
       "dutyID": "efde00db-af70-4cf8-8f3f-8ddc15397487",
       "dutyDetail": "Devise and deliver training for users and other consultants.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "4f0506c4-54c5-4c62-a7bb-cc5749ad4201",
         "f6bca9ee-2175-4a39-a526-0bc74c5a65cc",
@@ -1522,7 +1499,7 @@
       "dutyID": "7fe690c9-b712-4699-b89f-e09bcaecc458",
       "dutyDetail": "Manage walk-throughs to identify, document and manage key technical risks within an internal or external client’s organisation.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "4f0506c4-54c5-4c62-a7bb-cc5749ad4201",
         "f6bca9ee-2175-4a39-a526-0bc74c5a65cc"
@@ -1539,7 +1516,7 @@
       "dutyID": "f68c2301-3c7b-434e-b554-4c8c5a544657",
       "dutyDetail": "Analyse an internal/external client’s IT environment to determine requirements and recommend technology and digital solutions to address their business problems and needs.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "f6bca9ee-2175-4a39-a526-0bc74c5a65cc",
         "018898eb-c7b2-45d4-b8c8-70e1ebfeb1d9",
@@ -1562,7 +1539,7 @@
       "dutyID": "61c6e815-cc8c-4a32-a3b3-dab2440bb9ff",
       "dutyDetail": "Analyse an internal or external client’s business processes and recommend digital or process solutions to address their business problems and needs.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "39379abd-9c8d-4afc-a2f3-58acd4349385",
         "21dc606d-6638-4e56-a401-59c7325cae56",
@@ -1583,7 +1560,7 @@
       "dutyID": "cbec4ed1-89a2-416c-b6a9-4ba59e1c8d0b",
       "dutyDetail": "Distinguish, analyse and document business requirements and manage those requirements through a project life cycle.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "21dc606d-6638-4e56-a401-59c7325cae56",
         "14ed8913-424a-4a8c-a502-771e57d20ea3"
@@ -1601,7 +1578,7 @@
       "dutyID": "3cacf931-8626-4d62-942c-56a88e9eba97",
       "dutyDetail": "Analyse data and be responsible for logical data models to create suggestions for strategic and operational improvements and changes.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "14ed8913-424a-4a8c-a502-771e57d20ea3",
         "d299b411-fb46-4dcd-a71a-ee559a8c98cb",
@@ -1621,7 +1598,7 @@
       "dutyID": "839fe463-844e-439e-bbf9-fa52d4758872",
       "dutyDetail": "Design the user interface and propose and produce prototypes, including the look and feel of the graphical design and navigational elements.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "d299b411-fb46-4dcd-a71a-ee559a8c98cb",
         "1495a8d6-ecda-472f-9513-5825e57388e2",
@@ -1643,7 +1620,7 @@
       "dutyID": "d8130546-8c53-44b7-ae6d-f349372257a5",
       "dutyDetail": "Formulate and interpret business requirements into System Functional requirements, developing proposed solution designs including architecture.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "21dc606d-6638-4e56-a401-59c7325cae56",
         "ff32259d-f65e-446b-9092-83909925d8fb",
@@ -1663,7 +1640,7 @@
       "dutyID": "2e9f8fd6-04c4-41bd-a5bd-03b7702b4f10",
       "dutyDetail": "Develop business test scenarios and test cases for verifying that the \"right system is built\", to meet the organisation’s requirements.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "21dc606d-6638-4e56-a401-59c7325cae56",
         "1495a8d6-ecda-472f-9513-5825e57388e2",
@@ -1685,7 +1662,7 @@
       "dutyID": "b8bd23ef-2038-47ea-a7d4-9b781e8d2d1b",
       "dutyDetail": "Produce written documentation to support work, report findings and present to stakeholders.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "21dc606d-6638-4e56-a401-59c7325cae56",
         "1495a8d6-ecda-472f-9513-5825e57388e2",
@@ -1706,7 +1683,7 @@
       "dutyID": "a2146b6c-be5c-4287-90a3-05600168c7cc",
       "dutyDetail": "Analyse and evaluate security threats to technology solutions and implement technical and process solutions to mitigate these threats.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "99166c95-25cc-44f4-8489-806e9e59ce79",
         "a6e4224c-3c9c-4813-a972-6b4ccbe5aadc",
@@ -1729,7 +1706,7 @@
       "dutyID": "adb49264-78d8-4a01-9c07-9922a603da85",
       "dutyDetail": "Perform security risk assessments within wider IT development teams, ensuring cyber security is embedded within the deliverables of the team.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "a6e4224c-3c9c-4813-a972-6b4ccbe5aadc",
         "59ff82c8-f968-4c0e-83d6-f4dc73a35b29"
@@ -1746,7 +1723,7 @@
       "dutyID": "e36392c5-50ff-41ab-b361-f9be6b1abe00",
       "dutyDetail": "Lead a range of cyber security audit activities to demonstrate security control effectiveness.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "59ff82c8-f968-4c0e-83d6-f4dc73a35b29",
         "5ac1fd99-5888-4502-ac6f-45c761ea40fa",
@@ -1765,7 +1742,7 @@
       "dutyID": "a61d5be2-e011-4b63-9cfc-caad599def24",
       "dutyDetail": "Apply advanced problem solving techniques to address cyber security issues.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "99166c95-25cc-44f4-8489-806e9e59ce79",
         "5ac1fd99-5888-4502-ac6f-45c761ea40fa",
@@ -1788,7 +1765,7 @@
       "dutyID": "fca9ddf2-0825-4e10-a7e5-5c7ac5eb774f",
       "dutyDetail": "Plan and perform a business impact analysis in response to a security incident and implement a recovery plan.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "229d188d-3cb7-4924-bb21-34e9c77122dd",
         "a0387f7f-2d25-4c71-972d-85789c82f107",
@@ -1808,7 +1785,7 @@
       "dutyID": "14b304d3-ca6a-4647-9efc-8969a2f6de9e",
       "dutyDetail": "Demonstrate effective management of cyber security processes and systems within the defined Service Level Agreements (SLAs).",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "a6e4224c-3c9c-4813-a972-6b4ccbe5aadc",
         "5ac1fd99-5888-4502-ac6f-45c761ea40fa",
@@ -1832,7 +1809,7 @@
       "dutyID": "852b01a4-3ce3-4c8c-acfe-58d6e7c47a78",
       "dutyDetail": "Analytic support for colleagues",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "ef22bdd3-dda2-483d-b24b-64b8388358df",
         "f95034d5-4ee7-442c-8576-bb39cc622fc0",
@@ -1853,7 +1830,7 @@
       "dutyID": "6f6aec9b-68b1-482e-9755-f7d81b2b2905",
       "dutyDetail": "Support the analytics strategy and measurement for specific teams across the business",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "ef22bdd3-dda2-483d-b24b-64b8388358df",
         "3d042a28-89bd-4ad9-85bc-f89eff351ce2",
@@ -1877,7 +1854,7 @@
       "dutyID": "38147907-e6a1-414e-b7d9-e581bbf0879a",
       "dutyDetail": "Deliver insights, analysis, data and measurement that help the business achieve its objectives",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "3d042a28-89bd-4ad9-85bc-f89eff351ce2",
         "f95034d5-4ee7-442c-8576-bb39cc622fc0",
@@ -1905,7 +1882,7 @@
       "dutyID": "7702b75b-e598-4b46-aa72-d75b18fd9445",
       "dutyDetail": "Work with other stakeholders in order to understand their requirements",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "ef22bdd3-dda2-483d-b24b-64b8388358df",
         "f95034d5-4ee7-442c-8576-bb39cc622fc0",
@@ -1930,7 +1907,7 @@
       "dutyID": "8bdceddd-0ac3-48e1-895c-2dd47bcaaaf8",
       "dutyDetail": "Keep up to date with the latest developments within the field of data analytics",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "ef22bdd3-dda2-483d-b24b-64b8388358df",
         "f95034d5-4ee7-442c-8576-bb39cc622fc0",
@@ -1955,7 +1932,7 @@
       "dutyID": "b674625b-da4a-4eef-a1ce-1bc5c79328f4",
       "dutyDetail": "Analyse a network system and make recommendations to optimise performance and efficiencies of network systems.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "e9910518-83cf-4c4f-b570-9e2081432cd6",
         "84c77009-963a-4733-be3c-9a471b6f026c",
@@ -1975,7 +1952,7 @@
       "dutyID": "8c4babaa-341d-4c95-a840-6af67d56ac7f",
       "dutyDetail": "Design operational networks and apply appropriate security products and processes in line with organisational requirements.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "3ec17309-237d-4fc9-a0a9-25e34d2a4b54",
         "18717491-106c-4b3e-b7cb-93e82ae73913",
@@ -1996,7 +1973,7 @@
       "dutyID": "aa0a6c3c-efe7-4eee-aeac-bc5c434c2b58",
       "dutyDetail": "Plan system upgrades to a network or hardware or software or operating systems.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "3ec17309-237d-4fc9-a0a9-25e34d2a4b54",
         "18717491-106c-4b3e-b7cb-93e82ae73913",
@@ -2024,7 +2001,7 @@
       "dutyID": "10fb3e77-d7a7-40dc-a328-8eebf48892ec",
       "dutyDetail": "Produce relevant network information or documentation to meet user needs.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "84c77009-963a-4733-be3c-9a471b6f026c",
         "f7df6709-0310-4a61-998d-b4b44360b626"
@@ -2045,8 +2022,8 @@
       "dutyID": "7b71f405-8d41-4515-b5e1-eb0ad1a3e898",
       "dutyDetail": "Maintain accurate logical records in line with organisational policy and when carrying out network tasks and identify when network updates are required.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
-      "mappedKnowledge": null,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
       "mappedOptions": [
         "8be9615e-c1ef-498a-859b-98aa39ec3506"
       ],
@@ -2064,7 +2041,7 @@
       "dutyID": "0e9db727-dff1-4c14-8359-aef873bb36fd",
       "dutyDetail": "Interpret requirements and technical specifications in relation to network systems.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "3ec17309-237d-4fc9-a0a9-25e34d2a4b54",
         "18717491-106c-4b3e-b7cb-93e82ae73913",
@@ -2088,7 +2065,7 @@
       "dutyID": "f897edf3-3771-404b-8a7e-4f8c2d64c7b0",
       "dutyDetail": "Escalate network security or resilience risk as appropriate, providing solution/s to identified risk area.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "3ec17309-237d-4fc9-a0a9-25e34d2a4b54",
         "84c77009-963a-4733-be3c-9a471b6f026c",
@@ -2111,7 +2088,7 @@
       "dutyID": "aeaa1bb7-3a32-4f37-a2bd-941da6cc3aab",
       "dutyDetail": "Problem solve to address technical performance issues in network systems.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "3ec17309-237d-4fc9-a0a9-25e34d2a4b54",
         "84c77009-963a-4733-be3c-9a471b6f026c",
@@ -2129,6 +2106,38 @@
         "f4daa054-c503-422e-9235-7e6ea8154a3b"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "345b3f26-fb8a-4d69-9c12-dc90621b278b",
+      "title": "software engineering professional",
+      "occupationCode": null
+    },
+    {
+      "optionId": "09bef77d-25cc-4d52-a5ee-060ec4877bd4",
+      "title": "IT consultant professional",
+      "occupationCode": null
+    },
+    {
+      "optionId": "17c7b00b-6d1f-4ea8-b212-ac17162c8862",
+      "title": "business analyst professional",
+      "occupationCode": null
+    },
+    {
+      "optionId": "53e8dcad-ff43-429c-b6c2-023b8af7bb75",
+      "title": "cyber security professional ",
+      "occupationCode": null
+    },
+    {
+      "optionId": "194a8e02-f356-4d64-95cf-4a11f60ed1ee",
+      "title": "computing data analyst professional",
+      "occupationCode": null
+    },
+    {
+      "optionId": "8be9615e-c1ef-498a-859b-98aa39ec3506",
+      "title": "network engineering professional",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
