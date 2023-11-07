@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/25",
   "versionNumber": "1.1",
   "change": "The funding band for this standard has been reviewed as part of the apprenticeship funding band review. The new funding band is £25000",
-  "changedDate": "2023-09-01T00:00:00Z",
-  "earliestStartDate": "2019-05-13T00:00:00Z",
-  "latestStartDate": "2023-08-31T00:00:00Z",
+  "changedDate": "2023-09-01T00:00:00",
+  "earliestStartDate": "2019-05-13T00:00:00",
+  "latestStartDate": "2023-08-31T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Maintaining digital and technology strategies through technology leadership.",
   "level": 6,
@@ -476,7 +476,6 @@
       "detail": "Identify and evaluate network security risks and incorporate appropriate security products and processes into network designs to increase security, resilience and dependability."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [
     "Software Engineer",
     "IT Consultant",
@@ -527,13 +526,17 @@
   "reviewDetails": "",
   "pathway": "Digital Business Services",
   "cluster": "Digital Solutions Professional",
+  "clusterId": "235",
+  "clusterDescription": "Provide and implement technology enabled solutions to internal and external customers",
   "createdDate": "2020-10-02T09:43:51 +00:00",
   "lastUpdated": "2023-09-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-integrated-degree-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
