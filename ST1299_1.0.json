@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/714",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-06-26T00:00:00Z",
-  "earliestStartDate": "2023-06-26T00:00:00Z",
+  "changedDate": "2023-06-26T00:00:00",
+  "earliestStartDate": "2023-06-26T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Develop, maintain and optimise the UK’s cellular network and its infrastructure.",
@@ -355,7 +355,6 @@
       "detail": "Conduct site inspections "
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -389,8 +388,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Building Services Engineering",
   "cluster": "Utilities Installation and Maintenance Advanced Technician",
+  "clusterId": "281",
+  "clusterDescription": "Install, exchange, commission, service and maintain complex infrastructure systems and utilities",
   "createdDate": "2023-07-12T14:40:55 +00:00",
   "lastUpdated": "2023-06-26T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/cellular-network-field-engineer-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/cellular-network-field-engineer-v1-0",
   "qualifications": [],
@@ -441,7 +443,7 @@
         "90b17573-e364-48fe-aa18-1e6d4dfbef2e",
         "2c5c68c1-98d1-4725-ba26-4203d8a0bdb9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "878aa160-1fda-45be-bda4-09172573c781",
         "dfaea793-a201-46da-8459-2eef30524c82",
@@ -505,7 +507,7 @@
         "8baf358d-ba6d-4711-91f6-371a0f8b0247",
         "2c5c68c1-98d1-4725-ba26-4203d8a0bdb9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "878aa160-1fda-45be-bda4-09172573c781",
         "b34ab287-5feb-4025-8e21-a6fd37fd76b7",
@@ -571,7 +573,7 @@
         "6b5c220a-da26-45d1-a151-68e90968aea1",
         "fabc2437-fa74-48b6-bf6c-cc431aa4fdbe"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "878aa160-1fda-45be-bda4-09172573c781",
         "dfaea793-a201-46da-8459-2eef30524c82",
@@ -644,7 +646,7 @@
         "6b5c220a-da26-45d1-a151-68e90968aea1",
         "fabc2437-fa74-48b6-bf6c-cc431aa4fdbe"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "878aa160-1fda-45be-bda4-09172573c781",
         "dfaea793-a201-46da-8459-2eef30524c82",
@@ -702,7 +704,7 @@
         "8baf358d-ba6d-4711-91f6-371a0f8b0247",
         "2c5c68c1-98d1-4725-ba26-4203d8a0bdb9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "878aa160-1fda-45be-bda4-09172573c781",
         "dfaea793-a201-46da-8459-2eef30524c82",
@@ -773,7 +775,7 @@
         "6b5c220a-da26-45d1-a151-68e90968aea1",
         "fabc2437-fa74-48b6-bf6c-cc431aa4fdbe"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "878aa160-1fda-45be-bda4-09172573c781",
         "dfaea793-a201-46da-8459-2eef30524c82",
@@ -839,7 +841,7 @@
         "90b17573-e364-48fe-aa18-1e6d4dfbef2e",
         "2c5c68c1-98d1-4725-ba26-4203d8a0bdb9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "878aa160-1fda-45be-bda4-09172573c781",
         "dfaea793-a201-46da-8459-2eef30524c82",
@@ -901,7 +903,7 @@
         "8baf358d-ba6d-4711-91f6-371a0f8b0247",
         "2c5c68c1-98d1-4725-ba26-4203d8a0bdb9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "878aa160-1fda-45be-bda4-09172573c781",
         "b34ab287-5feb-4025-8e21-a6fd37fd76b7",
@@ -960,7 +962,7 @@
         "8baf358d-ba6d-4711-91f6-371a0f8b0247",
         "2c5c68c1-98d1-4725-ba26-4203d8a0bdb9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "878aa160-1fda-45be-bda4-09172573c781",
         "dfaea793-a201-46da-8459-2eef30524c82",
@@ -1030,7 +1032,7 @@
         "6b5c220a-da26-45d1-a151-68e90968aea1",
         "fabc2437-fa74-48b6-bf6c-cc431aa4fdbe"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "878aa160-1fda-45be-bda4-09172573c781",
         "dfaea793-a201-46da-8459-2eef30524c82",
@@ -1093,7 +1095,7 @@
         "8baf358d-ba6d-4711-91f6-371a0f8b0247",
         "2c5c68c1-98d1-4725-ba26-4203d8a0bdb9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "878aa160-1fda-45be-bda4-09172573c781",
         "dfaea793-a201-46da-8459-2eef30524c82",
@@ -1129,7 +1131,7 @@
         "f3683b2e-8d66-43e1-b818-6d19cf46286b",
         "2c5c68c1-98d1-4725-ba26-4203d8a0bdb9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9cbe7f7e-31f2-4265-adc1-93f9a63bedd8",
         "8ef59e34-4181-4506-b031-a6b76a9b1700"
@@ -1147,13 +1149,14 @@
         "0c38c307-4e86-447a-b03d-2e28d8efe947",
         "1b0279fd-f43e-4c74-8b48-105da89636d9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1f2a7edb-69da-401e-aa2c-3464b7c0dc4e"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
