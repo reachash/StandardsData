@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/483",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-09-05T00:00:00Z",
-  "earliestStartDate": "2019-07-11T00:00:00Z",
-  "latestStartDate": "2023-09-04T00:00:00Z",
+  "changedDate": "2023-09-05T00:00:00",
+  "earliestStartDate": "2019-07-11T00:00:00",
+  "latestStartDate": "2023-09-04T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Planning and commissioning care for people with complex health and social care needs.",
   "level": 5,
@@ -319,7 +319,6 @@
       "detail": "The ability to read, interpret and understand clinical records and notes"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -347,8 +346,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Health",
   "cluster": "Health Practitioner",
+  "clusterId": "10",
+  "clusterDescription": "Provide direct patient contact and high quality care with in-depth knowledge of the factors influencing health and ill-health using specialist expertise",
   "createdDate": "2019-06-26T14:12:15 +00:00",
   "lastUpdated": "2023-09-05T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/associate-continuing-healthcare-practitioner-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/associate-continuing-healthcare-practitioner-v1-0",
   "qualifications": [],
@@ -388,7 +390,7 @@
         "63dfcde1-036f-44f1-bd14-cd62d4ae0a50",
         "3f602121-9a8f-4ef8-bcfa-087fca80aa2a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d42ac8ba-5145-4b33-974b-8cf73fe2520c",
         "61b787c1-4097-4503-ad32-613ca4e97839",
@@ -436,7 +438,7 @@
         "63dfcde1-036f-44f1-bd14-cd62d4ae0a50",
         "2652ba36-ff65-4863-a160-70314dc5ac06"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d42ac8ba-5145-4b33-974b-8cf73fe2520c",
         "61b787c1-4097-4503-ad32-613ca4e97839",
@@ -487,7 +489,7 @@
         "3f602121-9a8f-4ef8-bcfa-087fca80aa2a",
         "f0474fbf-6b41-419c-ac65-314e90865df9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fa6faa26-dd72-4da5-a90f-cf21b050b79a",
         "d42ac8ba-5145-4b33-974b-8cf73fe2520c",
@@ -531,7 +533,7 @@
         "63dfcde1-036f-44f1-bd14-cd62d4ae0a50",
         "f0474fbf-6b41-419c-ac65-314e90865df9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c49cea1e-9a19-4576-be0d-4b6cbacc95ad",
         "b06a5939-81ad-4f5f-b633-5a55ee146e78",
@@ -570,7 +572,7 @@
         "3f602121-9a8f-4ef8-bcfa-087fca80aa2a",
         "f0474fbf-6b41-419c-ac65-314e90865df9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fa6faa26-dd72-4da5-a90f-cf21b050b79a",
         "a42fa542-a79b-450d-83f1-c4b9b2457830",
@@ -613,7 +615,7 @@
         "3f602121-9a8f-4ef8-bcfa-087fca80aa2a",
         "2652ba36-ff65-4863-a160-70314dc5ac06"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bc629dfc-96c2-41e6-b8da-52fd64fea3a5",
         "c49cea1e-9a19-4576-be0d-4b6cbacc95ad",
@@ -656,7 +658,7 @@
         "3f602121-9a8f-4ef8-bcfa-087fca80aa2a",
         "f0474fbf-6b41-419c-ac65-314e90865df9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bc629dfc-96c2-41e6-b8da-52fd64fea3a5",
         "6402cbdb-5bb7-44d3-b311-dd53bfa9725b",
@@ -706,7 +708,7 @@
         "63dfcde1-036f-44f1-bd14-cd62d4ae0a50",
         "9da97673-88ea-40bc-80a0-4b1f0b67f512"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bc629dfc-96c2-41e6-b8da-52fd64fea3a5",
         "c49cea1e-9a19-4576-be0d-4b6cbacc95ad",
@@ -747,7 +749,7 @@
         "63dfcde1-036f-44f1-bd14-cd62d4ae0a50",
         "2652ba36-ff65-4863-a160-70314dc5ac06"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a42fa542-a79b-450d-83f1-c4b9b2457830",
         "bc629dfc-96c2-41e6-b8da-52fd64fea3a5",
@@ -788,7 +790,7 @@
         "9da97673-88ea-40bc-80a0-4b1f0b67f512",
         "2652ba36-ff65-4863-a160-70314dc5ac06"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c49cea1e-9a19-4576-be0d-4b6cbacc95ad",
         "0427abc7-83b8-4acf-be69-897a9a542f53",
@@ -804,6 +806,7 @@
       "criteriaForMeasuringPerformance": "Contracts are managed in accordance with procurement law and local policy and agreements"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
