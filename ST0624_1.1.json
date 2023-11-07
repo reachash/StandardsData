@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/454",
   "versionNumber": "1.1",
   "change": "Standard and end-point assessment plan revised",
-  "changedDate": "2023-01-10T00:00:00Z",
-  "earliestStartDate": "2023-01-10T00:00:00Z",
+  "changedDate": "2023-01-10T00:00:00",
+  "earliestStartDate": "2023-01-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Maintaining, managing and installing a diverse range of specialist equipment and technology used in the manufacture of food and drink products.",
@@ -274,16 +274,6 @@
       "detail": "Decipher complex programme sequences in higher and lower level languages."
     }
   ],
-  "options": [
-    {
-      "optionId": "e5463730-3442-41e0-ae35-8beec0769516",
-      "title": "Mechanical food and drink engineer"
-    },
-    {
-      "optionId": "d094619e-384d-4e35-95c7-82b320b1f290",
-      "title": "Electrical food and drink engineer"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -316,8 +306,11 @@
   "reviewDetails": "",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing, Plant and Process Technologist",
+  "clusterId": "265",
+  "clusterDescription": "Develop and improve technology of the manufacturing plant and equipment for a whole process",
   "createdDate": "2023-01-10T09:22:35 +00:00",
   "lastUpdated": "2023-01-10T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/food-and-drink-engineer-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/food-and-drink-engineer-v1-1",
   "qualifications": [],
@@ -364,7 +357,7 @@
         "e279888c-5445-420f-b541-099d3bdc4e0b",
         "07cf7471-66f1-47e9-b89c-1fa9a250dcf2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ce675eaf-ec59-466b-ae74-e10a43e8f894",
         "833907c3-7408-48b3-b8a2-13c812182728",
@@ -414,7 +407,7 @@
         "e279888c-5445-420f-b541-099d3bdc4e0b",
         "07cf7471-66f1-47e9-b89c-1fa9a250dcf2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ce675eaf-ec59-466b-ae74-e10a43e8f894",
         "833907c3-7408-48b3-b8a2-13c812182728",
@@ -464,7 +457,7 @@
         "e279888c-5445-420f-b541-099d3bdc4e0b",
         "07cf7471-66f1-47e9-b89c-1fa9a250dcf2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ce675eaf-ec59-466b-ae74-e10a43e8f894",
         "833907c3-7408-48b3-b8a2-13c812182728",
@@ -514,7 +507,7 @@
         "e279888c-5445-420f-b541-099d3bdc4e0b",
         "07cf7471-66f1-47e9-b89c-1fa9a250dcf2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ce675eaf-ec59-466b-ae74-e10a43e8f894",
         "833907c3-7408-48b3-b8a2-13c812182728",
@@ -564,7 +557,7 @@
         "e279888c-5445-420f-b541-099d3bdc4e0b",
         "07cf7471-66f1-47e9-b89c-1fa9a250dcf2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ce675eaf-ec59-466b-ae74-e10a43e8f894",
         "833907c3-7408-48b3-b8a2-13c812182728",
@@ -614,7 +607,7 @@
         "e279888c-5445-420f-b541-099d3bdc4e0b",
         "07cf7471-66f1-47e9-b89c-1fa9a250dcf2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ce675eaf-ec59-466b-ae74-e10a43e8f894",
         "833907c3-7408-48b3-b8a2-13c812182728",
@@ -664,7 +657,7 @@
         "e279888c-5445-420f-b541-099d3bdc4e0b",
         "07cf7471-66f1-47e9-b89c-1fa9a250dcf2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ce675eaf-ec59-466b-ae74-e10a43e8f894",
         "833907c3-7408-48b3-b8a2-13c812182728",
@@ -714,7 +707,7 @@
         "e279888c-5445-420f-b541-099d3bdc4e0b",
         "07cf7471-66f1-47e9-b89c-1fa9a250dcf2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ce675eaf-ec59-466b-ae74-e10a43e8f894",
         "833907c3-7408-48b3-b8a2-13c812182728",
@@ -764,7 +757,7 @@
         "e279888c-5445-420f-b541-099d3bdc4e0b",
         "07cf7471-66f1-47e9-b89c-1fa9a250dcf2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ce675eaf-ec59-466b-ae74-e10a43e8f894",
         "833907c3-7408-48b3-b8a2-13c812182728",
@@ -814,7 +807,7 @@
         "e279888c-5445-420f-b541-099d3bdc4e0b",
         "07cf7471-66f1-47e9-b89c-1fa9a250dcf2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ce675eaf-ec59-466b-ae74-e10a43e8f894",
         "833907c3-7408-48b3-b8a2-13c812182728",
@@ -896,6 +889,18 @@
         "4da9148a-6363-4ea7-8697-d46cd3ef67bc"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "e5463730-3442-41e0-ae35-8beec0769516",
+      "title": "Mechanical food and drink engineer",
+      "occupationCode": null
+    },
+    {
+      "optionId": "d094619e-384d-4e35-95c7-82b320b1f290",
+      "title": "Electrical food and drink engineer",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
