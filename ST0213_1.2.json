@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/157",
   "versionNumber": "1.2",
   "change": "Standard, end-point assessment plan and funding revised",
-  "changedDate": "2023-05-23T00:00:00Z",
-  "earliestStartDate": "2023-05-23T00:00:00Z",
+  "changedDate": "2023-05-23T00:00:00",
+  "earliestStartDate": "2023-05-23T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "The practical application of Hairdressing skills and knowledge, personalised to client requirements, whilst providing an outstanding service.",
@@ -307,7 +307,6 @@
       "detail": "Evaluate the results of the service. "
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -340,8 +339,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Hair, Beauty and Aesthetics",
   "cluster": "Hair Specialist",
+  "clusterId": "113",
+  "clusterDescription": "Clean, condition, cut, style, finish, and colour hair including facial hair",
   "createdDate": "2023-08-09T12:09:18 +00:00",
   "lastUpdated": "2023-05-23T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/hairdressing-professional-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/hairdressing-professional-v1-2",
   "qualifications": [
@@ -398,7 +400,7 @@
         "135a041d-1688-4af9-95d5-fffc144cd5de",
         "49f9f58d-05ba-4da8-9ff0-389c4102636f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a78b8c4e-a944-4401-8a18-e3a8da8bb519",
         "177b2d0f-0c7c-4b43-8075-946fc9a50352",
@@ -465,7 +467,7 @@
         "9d0a47cb-3c04-4cd2-b2e4-f8e717606be1",
         "62ed2898-6711-4285-8e16-c444ce9f12c9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a78b8c4e-a944-4401-8a18-e3a8da8bb519",
         "177b2d0f-0c7c-4b43-8075-946fc9a50352",
@@ -523,7 +525,7 @@
         "9d0a47cb-3c04-4cd2-b2e4-f8e717606be1",
         "62ed2898-6711-4285-8e16-c444ce9f12c9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a78b8c4e-a944-4401-8a18-e3a8da8bb519",
         "177b2d0f-0c7c-4b43-8075-946fc9a50352",
@@ -581,7 +583,7 @@
         "62ed2898-6711-4285-8e16-c444ce9f12c9",
         "49f9f58d-05ba-4da8-9ff0-389c4102636f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a78b8c4e-a944-4401-8a18-e3a8da8bb519",
         "177b2d0f-0c7c-4b43-8075-946fc9a50352",
@@ -631,7 +633,7 @@
         "8af4c9be-6e3f-4517-a63a-80e3f59e2d0e",
         "49f9f58d-05ba-4da8-9ff0-389c4102636f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a78b8c4e-a944-4401-8a18-e3a8da8bb519",
         "177b2d0f-0c7c-4b43-8075-946fc9a50352",
@@ -684,7 +686,7 @@
         "92c9ae73-45c5-44ff-8ebf-ceee56d6abdc",
         "49f9f58d-05ba-4da8-9ff0-389c4102636f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a78b8c4e-a944-4401-8a18-e3a8da8bb519",
         "177b2d0f-0c7c-4b43-8075-946fc9a50352",
@@ -741,7 +743,7 @@
         "9d0a47cb-3c04-4cd2-b2e4-f8e717606be1",
         "49f9f58d-05ba-4da8-9ff0-389c4102636f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a78b8c4e-a944-4401-8a18-e3a8da8bb519",
         "177b2d0f-0c7c-4b43-8075-946fc9a50352",
@@ -795,7 +797,7 @@
         "62ed2898-6711-4285-8e16-c444ce9f12c9",
         "49f9f58d-05ba-4da8-9ff0-389c4102636f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a78b8c4e-a944-4401-8a18-e3a8da8bb519",
         "177b2d0f-0c7c-4b43-8075-946fc9a50352",
@@ -847,7 +849,7 @@
         "62ed2898-6711-4285-8e16-c444ce9f12c9",
         "49f9f58d-05ba-4da8-9ff0-389c4102636f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a78b8c4e-a944-4401-8a18-e3a8da8bb519",
         "177b2d0f-0c7c-4b43-8075-946fc9a50352",
@@ -891,7 +893,7 @@
         "9d0a47cb-3c04-4cd2-b2e4-f8e717606be1",
         "62ed2898-6711-4285-8e16-c444ce9f12c9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "89f64681-4355-44f7-b257-b2a4dc678550",
         "59a7b213-a9df-4b8b-b79a-e792653a24ad",
@@ -904,6 +906,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
