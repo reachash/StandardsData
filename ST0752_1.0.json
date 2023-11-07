@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/456",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-07-04T00:00:00Z",
-  "earliestStartDate": "2019-05-13T00:00:00Z",
+  "changedDate": "2022-07-04T00:00:00",
+  "earliestStartDate": "2019-05-13T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Installing and maintaining drinks dispense systems.",
@@ -284,7 +284,6 @@
       "detail": "Conduct all duties in adherence with health and safety directives and environmental policy and procedures."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -322,8 +321,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2019-12-23T12:45:49 +00:00",
   "lastUpdated": "2022-07-04T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/drinks-dispense-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/drinks-dispense-technician-v1-0",
   "qualifications": [],
@@ -347,7 +349,7 @@
         "508e0eba-0f77-451e-b268-57b3f92ce2c5",
         "ac754824-d184-4148-9c6b-443596036102"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "86e85302-eef3-4d88-8c1a-f693a9d243f6",
         "b27bd8d4-b7f9-45d8-bd0d-2bbc9255b12c",
@@ -393,7 +395,7 @@
         "52ab4d2f-1e13-4e81-8ef5-0459727270ce",
         "ac754824-d184-4148-9c6b-443596036102"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e1ab5fc1-6783-40cf-b64b-1a399e81c2ff",
         "86e85302-eef3-4d88-8c1a-f693a9d243f6",
@@ -437,7 +439,7 @@
         "52ab4d2f-1e13-4e81-8ef5-0459727270ce",
         "8118e87f-a6a0-4705-a999-6ad0b1c41095"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "86e85302-eef3-4d88-8c1a-f693a9d243f6",
         "191b36f2-6903-485a-b662-7ca658ac58ba",
@@ -469,7 +471,7 @@
         "790afb5e-e929-4cfa-b54b-237c0d898d82",
         "52ab4d2f-1e13-4e81-8ef5-0459727270ce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "86e85302-eef3-4d88-8c1a-f693a9d243f6",
         "d0977665-ed9d-4717-8562-ca7b2f5f146a",
@@ -517,7 +519,7 @@
         "52ab4d2f-1e13-4e81-8ef5-0459727270ce",
         "8118e87f-a6a0-4705-a999-6ad0b1c41095"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e1ab5fc1-6783-40cf-b64b-1a399e81c2ff",
         "86e85302-eef3-4d88-8c1a-f693a9d243f6",
@@ -556,7 +558,7 @@
         "7de2b06a-1578-40ec-9251-d277fc204544",
         "4d900735-683e-443c-89f5-6ff6def23830"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b27bd8d4-b7f9-45d8-bd0d-2bbc9255b12c",
         "191b36f2-6903-485a-b662-7ca658ac58ba",
@@ -583,7 +585,7 @@
         "28f0400e-ed6d-4845-aeff-0f3b57909af3",
         "8118e87f-a6a0-4705-a999-6ad0b1c41095"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "191b36f2-6903-485a-b662-7ca658ac58ba",
         "a74e6b45-9139-43eb-8da1-89c98bedc780",
@@ -607,7 +609,7 @@
         "790afb5e-e929-4cfa-b54b-237c0d898d82",
         "52ab4d2f-1e13-4e81-8ef5-0459727270ce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e1ab5fc1-6783-40cf-b64b-1a399e81c2ff",
         "b27bd8d4-b7f9-45d8-bd0d-2bbc9255b12c",
@@ -640,7 +642,7 @@
         "8118e87f-a6a0-4705-a999-6ad0b1c41095",
         "ac754824-d184-4148-9c6b-443596036102"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "86e85302-eef3-4d88-8c1a-f693a9d243f6",
         "5c619904-b754-4aa7-bceb-2f77a05cc4b8",
@@ -670,7 +672,7 @@
         "7de2b06a-1578-40ec-9251-d277fc204544",
         "790afb5e-e929-4cfa-b54b-237c0d898d82"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5c619904-b754-4aa7-bceb-2f77a05cc4b8",
         "e8d3689c-75b8-48c0-8a75-13d34f6c0620",
@@ -698,7 +700,7 @@
         "4d900735-683e-443c-89f5-6ff6def23830",
         "790afb5e-e929-4cfa-b54b-237c0d898d82"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e1ab5fc1-6783-40cf-b64b-1a399e81c2ff",
         "c6097209-51b4-414f-a9ce-7a201a89a66b",
@@ -727,7 +729,7 @@
         "52ab4d2f-1e13-4e81-8ef5-0459727270ce",
         "ac754824-d184-4148-9c6b-443596036102"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "06441b1f-d49b-4ed1-98b8-c95ebf6f8ad6",
         "ef207520-5330-4fd7-bfd8-7e613dc28e65",
@@ -757,7 +759,7 @@
         "daf255d4-f441-4b8c-98e1-a2d02eb19098",
         "790afb5e-e929-4cfa-b54b-237c0d898d82"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e8d3689c-75b8-48c0-8a75-13d34f6c0620",
         "c6097209-51b4-414f-a9ce-7a201a89a66b",
@@ -768,6 +770,7 @@
       "criteriaForMeasuringPerformance": "Technical ability and effective communication with the customer, knowledge of product, accuracy of product specification, handover documents completed and returned quickly and effectively."
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
