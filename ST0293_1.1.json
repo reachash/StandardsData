@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/170",
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised. Funding band revision published 19 August 2021.",
-  "changedDate": "2023-10-02T00:00:00Z",
-  "earliestStartDate": "2021-02-19T00:00:00Z",
+  "changedDate": "2023-10-02T00:00:00",
+  "earliestStartDate": "2021-02-19T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Giving care, advice and support to sick, injured or disabled people.",
@@ -832,24 +832,6 @@
       "detail": "Foster helpful and enabling relationships with families, carers and others using communication skills that enable psychosocial education, problem solving and other interventions to help people cope and to safeguard those who are vulnerable"
     }
   ],
-  "options": [
-    {
-      "optionId": "66d04c42-9288-4cc7-83d5-b80c9ff25e6d",
-      "title": "Adult"
-    },
-    {
-      "optionId": "8d091281-512a-4f7d-a3fe-def29836bc6a",
-      "title": "Children"
-    },
-    {
-      "optionId": "3106b859-7801-428f-99f0-7f35d7c65900",
-      "title": "Learning Disability"
-    },
-    {
-      "optionId": "509f2af2-32d5-4cf0-93ba-9f4702c0e53c",
-      "title": "Mental Health"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Adult",
     "Children",
@@ -889,13 +871,38 @@
   "reviewDetails": "",
   "pathway": "Health",
   "cluster": "Midwifery and Nursing Professional",
+  "clusterId": "211",
+  "clusterDescription": "Assess, plan, implement and evaluate patient care in multiple settings with specialist expertise often working independently",
   "createdDate": "2021-02-19T09:54:59 +00:00",
   "lastUpdated": "2023-10-02T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/registered-nurse-degree-nmc-2010-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/registered-nurse-degree-nmc-2010-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "66d04c42-9288-4cc7-83d5-b80c9ff25e6d",
+      "title": "Adult",
+      "occupationCode": null
+    },
+    {
+      "optionId": "8d091281-512a-4f7d-a3fe-def29836bc6a",
+      "title": "Children",
+      "occupationCode": null
+    },
+    {
+      "optionId": "3106b859-7801-428f-99f0-7f35d7c65900",
+      "title": "Learning Disability",
+      "occupationCode": null
+    },
+    {
+      "optionId": "509f2af2-32d5-4cf0-93ba-9f4702c0e53c",
+      "title": "Mental Health",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [
     {
       "name": "Training provider",
