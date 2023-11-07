@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/21",
   "versionNumber": "1.1",
   "change": "End-point assessment plan, standard and funding band revised ",
-  "changedDate": "2023-11-01T00:00:00Z",
-  "earliestStartDate": "2023-11-01T00:00:00Z",
+  "changedDate": "2023-11-01T00:00:00",
+  "earliestStartDate": "2023-11-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Caring for the overall appearance of a golf course, maintaining a good quality playing surface and ensuring a challenging and enjoyable experience for golfers.",
@@ -281,7 +281,6 @@
       "detail": "Identification of grass type through seed inspection and physical inspection of the plant using either common or botanical names."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -311,8 +310,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Landscape Horticulture Operative/Technician",
+  "clusterId": "161",
+  "clusterDescription": "The design, construction and maintenance of gardens, designed landscapes and sports turf facilities for private, commercial and community use",
   "createdDate": "2023-05-25T13:11:25 +00:00",
   "lastUpdated": "2023-11-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/golf-greenkeeper-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/golf-greenkeeper-v1-1",
   "qualifications": [],
@@ -363,7 +365,7 @@
         "e1e36763-b31a-405a-873c-808627900f32",
         "1cd78a4d-91db-47e8-905b-b56f9b90a31c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "19406db7-d869-4bb4-b2ec-4150534c7577",
         "5775fab4-46c7-4c36-a2c1-f41a984e40b7",
@@ -413,7 +415,7 @@
         "6b6f2763-0c13-4973-afb7-9fb295088590",
         "2fd0de08-50dd-4d2c-96ea-491a61d28528"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "19406db7-d869-4bb4-b2ec-4150534c7577",
         "5775fab4-46c7-4c36-a2c1-f41a984e40b7",
@@ -454,7 +456,7 @@
         "e01ed534-4f66-45cb-98b2-d843fb5db22b",
         "cf3b51f4-247e-4eb0-aeb1-e3c385c8d68e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5775fab4-46c7-4c36-a2c1-f41a984e40b7",
         "d177ad29-cb3b-4f96-a924-304be986ae40",
@@ -489,7 +491,7 @@
         "2c849ff2-ecea-4eba-9309-e2255dca41a3",
         "1cd78a4d-91db-47e8-905b-b56f9b90a31c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "19406db7-d869-4bb4-b2ec-4150534c7577",
         "5775fab4-46c7-4c36-a2c1-f41a984e40b7",
@@ -522,7 +524,7 @@
         "ec677eab-7be0-4fb0-8e63-632a3dad1507",
         "2fd0de08-50dd-4d2c-96ea-491a61d28528"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5775fab4-46c7-4c36-a2c1-f41a984e40b7",
         "d177ad29-cb3b-4f96-a924-304be986ae40",
@@ -555,7 +557,7 @@
         "2c849ff2-ecea-4eba-9309-e2255dca41a3",
         "6b6f2763-0c13-4973-afb7-9fb295088590"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "19406db7-d869-4bb4-b2ec-4150534c7577",
         "5775fab4-46c7-4c36-a2c1-f41a984e40b7",
@@ -587,7 +589,7 @@
         "fe29ea7e-f2c8-43c4-bfe5-b164a093e642",
         "2c849ff2-ecea-4eba-9309-e2255dca41a3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "19406db7-d869-4bb4-b2ec-4150534c7577",
         "5775fab4-46c7-4c36-a2c1-f41a984e40b7",
@@ -621,7 +623,7 @@
         "46e957dd-1d89-4def-9451-d0e99d35e5ce",
         "6b6f2763-0c13-4973-afb7-9fb295088590"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "19406db7-d869-4bb4-b2ec-4150534c7577",
         "5775fab4-46c7-4c36-a2c1-f41a984e40b7",
@@ -659,7 +661,7 @@
         "2c849ff2-ecea-4eba-9309-e2255dca41a3",
         "46e957dd-1d89-4def-9451-d0e99d35e5ce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "19406db7-d869-4bb4-b2ec-4150534c7577",
         "5775fab4-46c7-4c36-a2c1-f41a984e40b7",
@@ -691,7 +693,7 @@
         "d95c9748-48ae-4be5-b2f3-b3286955069d",
         "73a917c6-d898-46f1-af46-68c393b968ad"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1dd66e6b-51eb-4273-bf93-e4425e675b1d",
         "5775fab4-46c7-4c36-a2c1-f41a984e40b7",
@@ -723,7 +725,7 @@
         "6b6f2763-0c13-4973-afb7-9fb295088590",
         "2fd0de08-50dd-4d2c-96ea-491a61d28528"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dcdfd31b-f382-499d-aa3a-71e9f244e0da",
         "19406db7-d869-4bb4-b2ec-4150534c7577",
@@ -756,7 +758,7 @@
         "be43bb2b-acf4-40f6-9627-f92074b1428a",
         "e1e36763-b31a-405a-873c-808627900f32"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5775fab4-46c7-4c36-a2c1-f41a984e40b7",
         "d177ad29-cb3b-4f96-a924-304be986ae40",
@@ -791,7 +793,7 @@
         "2c849ff2-ecea-4eba-9309-e2255dca41a3",
         "46e957dd-1d89-4def-9451-d0e99d35e5ce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5775fab4-46c7-4c36-a2c1-f41a984e40b7",
         "9d0c6230-e125-4e34-b59e-4ec574c22dd0",
@@ -820,7 +822,7 @@
         "2c849ff2-ecea-4eba-9309-e2255dca41a3",
         "f7a3d2bb-7d35-4037-b46f-ec22c95b47d9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "19406db7-d869-4bb4-b2ec-4150534c7577",
         "5775fab4-46c7-4c36-a2c1-f41a984e40b7",
@@ -841,13 +843,14 @@
         "c10fe68d-2ab1-4617-8951-07086ff19fc1",
         "ffb05272-ae3a-4dae-940f-d4f15ffa08a4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "02999629-c974-46f5-8a6c-036283487365"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
