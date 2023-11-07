@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/352",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-05-11T00:00:00Z",
-  "earliestStartDate": "2018-09-24T00:00:00Z",
-  "latestStartDate": "2023-05-10T00:00:00Z",
+  "changedDate": "2023-05-11T00:00:00",
+  "earliestStartDate": "2018-09-24T00:00:00",
+  "latestStartDate": "2023-05-10T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Carrying out a range of engineering operations.",
   "level": 2,
@@ -288,7 +288,6 @@
       "detail": "Carryout quality checks during and after the technical support operation"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [
     "Engineering Operatives Working Within a Maintenance Role",
     "Engineering Operatives Working Within a Mechanical Manufacturing Engineering Role",
@@ -334,13 +333,17 @@
   "reviewDetails": "",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2017-11-15T20:24:28 +00:00",
   "lastUpdated": "2023-05-11T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/engineering-operative-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/engineering-operative-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
