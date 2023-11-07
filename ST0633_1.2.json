@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/432",
   "versionNumber": "1.2",
   "change": "Standard, end-point assessment plan and funding band revised",
-  "changedDate": "2023-09-01T00:00:00Z",
-  "earliestStartDate": "2023-09-01T00:00:00Z",
+  "changedDate": "2023-09-01T00:00:00",
+  "earliestStartDate": "2023-09-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Using art, drama or music to carry to improve a person’s mental, physical health and wellbeing.",
@@ -635,20 +635,6 @@
       "detail": "Use a range of music and music-making techniques competently including improvisation, structured musical activities, listening approaches and creation and composition of material and music technology where appropriate and be able to support a service user to work with these."
     }
   ],
-  "options": [
-    {
-      "optionId": "8bd9a32e-9a25-4365-b1e9-a020e9566adb",
-      "title": "Art"
-    },
-    {
-      "optionId": "1ef73f6d-5578-4b82-8437-f35668cb2752",
-      "title": "Drama"
-    },
-    {
-      "optionId": "b9e43736-2658-4edf-a656-3f2d9e9353c6",
-      "title": "Music"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -681,8 +667,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Health",
   "cluster": "Health Professional",
+  "clusterId": "6",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2023-08-16T10:20:21 +00:00",
   "lastUpdated": "2023-09-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/arts-therapist-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/arts-therapist-v1-2",
   "qualifications": [
@@ -716,7 +705,7 @@
         "ea61ad6f-71f6-451d-82a5-b64081d32ccf",
         "23be8761-9ae5-47f7-bc98-060ea7cf0a3f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "42088205-adae-45a3-a875-70ef1d83c935",
         "e79bc6c6-76d4-4ced-a184-c23e40eddaa9",
@@ -744,7 +733,7 @@
         "9d4a5ace-902b-499e-8da5-f4900419a4b5",
         "890f0690-3668-46d0-bcd0-d1156fe8477f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dd7c5a25-1a99-4c59-ae07-6812029997fd",
         "c2bbb53c-e499-48e0-a778-455836f28ca6"
@@ -763,7 +752,7 @@
       "mappedKnowledge": [
         "6c891bcf-9ef6-4139-bb6f-c049510c51c2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aee3d54a-9870-4d4a-ac07-9d8d22f5a13c",
         "2f86202d-6cf9-499f-ad6f-6532a0f9d760",
@@ -788,7 +777,7 @@
         "220a64bf-33ae-4859-b267-dfc136a1d7b2",
         "86eb3400-88fe-4a69-ae04-e9a7785c85d7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7dd2a66e-3b83-40cb-b589-da8a0627abb5",
         "9c09e983-af77-4375-8983-9aac60528e1f",
@@ -817,7 +806,7 @@
         "0dba9879-8c05-467b-92e7-5d2a1f876a1e",
         "6b5205ec-0e72-45f1-98bb-6957762bc21c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4387d58c-b8ae-4f85-b9f4-8ec6fecefbdf",
         "ed368542-3fcf-4b3a-8708-72d3726480b2",
@@ -851,7 +840,7 @@
         "1fe17494-f4d0-4ae7-8c9a-7ad8ab802ac0",
         "8fbed071-268b-4894-8954-efd9248bacc8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d15a1cd6-8c4b-4304-ae50-041bf8de951e",
         "237f9598-2ed5-488b-a019-bbf64a107f07",
@@ -876,7 +865,7 @@
         "3645ddb9-7474-43f2-b0f9-b2d1df19315b",
         "962623e4-5eec-41c9-adab-b216e8b0f553"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b3a4909b-95df-49d6-bd2a-39406131ca37",
         "982824dc-59f1-4485-bdd5-3c81480977db",
@@ -890,12 +879,12 @@
       "dutyID": "2fdc6a36-e7de-47dd-9dab-eb53efcf4b6a",
       "dutyDetail": "Establish and maintain a safe practice environment.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0fa67fcb-0e43-4245-ac35-eb197a2df3af",
         "8b3284c9-6909-48ae-8d53-95d46bb2eef0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a900b0fd-13a1-47ab-8558-7a33347b7509",
         "9d589485-850f-4164-b3c5-efdb682992c2",
@@ -908,12 +897,12 @@
       "dutyID": "3ac71999-ddf2-4fe0-841f-663abb893791",
       "dutyDetail": "Promote public health and prevent ill health.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "234ca4d0-9ee1-4efd-99aa-8f2abaf66024",
         "0beb71c8-6522-4164-b966-5f0db324eb4c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "28bd9855-d389-4fd3-8ed3-0f98141ce114",
         "fce9c8c8-3d69-4092-b4b3-045f6591c5f5"
@@ -924,7 +913,7 @@
       "dutyID": "190e9b95-dc40-4419-86d3-4ee6b1b203d3",
       "dutyDetail": "Draw on appropriate knowledge and skills to inform practice and apply the key concepts of the knowledge base relevant to the profession of Art Therapist.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0e1d889c-edd2-4824-b246-9ed6ddbcc6fc",
         "f309e1e9-d78f-4d36-8db4-e63a1d053716",
@@ -975,7 +964,7 @@
       "dutyID": "07447b6b-ffe6-4aad-b9d2-966109336fcb",
       "dutyDetail": "Draw on appropriate knowledge and skills to inform practice and apply the key concepts of the knowledge base relevant to the profession of Dramatherapist.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0e1d889c-edd2-4824-b246-9ed6ddbcc6fc",
         "f309e1e9-d78f-4d36-8db4-e63a1d053716",
@@ -1026,7 +1015,7 @@
       "dutyID": "13f1f579-cbc9-476d-b3e0-fb1e51203d66",
       "dutyDetail": "Draw on appropriate knowledge and skills to inform practice and apply the key concepts of the knowledge base relevant to the profession of Music Therapist.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0e1d889c-edd2-4824-b246-9ed6ddbcc6fc",
         "f309e1e9-d78f-4d36-8db4-e63a1d053716",
@@ -1069,6 +1058,23 @@
         "7a182eb8-00e8-4e48-a0ad-2c4e226c002b"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "8bd9a32e-9a25-4365-b1e9-a020e9566adb",
+      "title": "Art",
+      "occupationCode": null
+    },
+    {
+      "optionId": "1ef73f6d-5578-4b82-8437-f35668cb2752",
+      "title": "Drama",
+      "occupationCode": null
+    },
+    {
+      "optionId": "b9e43736-2658-4edf-a656-3f2d9e9353c6",
+      "title": "Music",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [
