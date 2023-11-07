@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/489",
   "versionNumber": "1.0",
   "change": "Retired",
-  "changedDate": "2021-05-21T00:00:00Z",
-  "earliestStartDate": "2019-07-19T00:00:00Z",
-  "latestStartDate": "2021-05-20T00:00:00Z",
+  "changedDate": "2021-05-21T00:00:00",
+  "earliestStartDate": "2019-07-19T00:00:00",
+  "latestStartDate": "2021-05-20T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Gathering evidence through forensic sampling, toxicology, documentation of injuries and provision of a statement to support the criminal justice system.",
   "level": 7,
@@ -326,16 +326,6 @@
       "detail": "Apply forensic principles to managing other scenarios"
     }
   ],
-  "options": [
-    {
-      "optionId": "85edeccc-b7f1-4811-aab2-b3520db0522f",
-      "title": "Custody care"
-    },
-    {
-      "optionId": "096d9787-73cc-46b0-b571-2787e9133f5a",
-      "title": "Sexual offence "
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -374,8 +364,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Health",
   "cluster": "Health Professional",
+  "clusterId": "6",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2020-01-07T13:10:31 +00:00",
   "lastUpdated": "2021-05-21T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/advanced-forensic-practitioner-custody-or-sexual-offence-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/advanced-forensic-practitioner-custody-or-sexual-offence-v1-0",
   "qualifications": [],
@@ -396,7 +389,7 @@
         "7f031aaf-d250-46e1-8ecd-c99385c59b62",
         "9828aedb-cbfa-463a-a1d1-f2fa8d2db292"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "67069a48-fc36-4af7-8af8-860151b1b12b",
         "f7df05b7-2fa1-4963-b7a9-0e713876e58e",
@@ -429,7 +422,7 @@
         "759c798a-934a-4e38-96aa-a9c1f1f61e2b",
         "1ae3f890-d40e-4233-8859-7d390a10975c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1dec968f-a844-43c1-a3a3-ba4358edd378",
         "49e89e2a-f6ec-4f28-bf89-417ad605ce71",
@@ -461,7 +454,7 @@
         "6dc9ab02-6068-4a20-ab77-421e8da19f47",
         "1ae3f890-d40e-4233-8859-7d390a10975c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0c2c31a9-eab4-47a4-8b7a-4ad147fa4a30",
         "b3401643-7690-4d26-99ec-889cbe4bfac1",
@@ -492,7 +485,7 @@
         "6dc9ab02-6068-4a20-ab77-421e8da19f47",
         "759c798a-934a-4e38-96aa-a9c1f1f61e2b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fb061d51-bad1-4e19-a34e-e0bf3a83093c",
         "ebaf3795-aa6c-4fae-b81b-c022328b749b",
@@ -520,7 +513,7 @@
         "26349b75-1fcb-4dc3-8a4e-c8850d5ac86b",
         "a554dca6-9547-4bba-b297-94897750733f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fac5ab08-ccd1-400f-af7d-474f031fc98e",
         "422c8091-0662-4208-9532-2f8d5e1ff9f6"
@@ -540,7 +533,7 @@
         "e39a3016-3876-4368-b32b-91b852315bd9",
         "62de9955-0d93-498f-b00f-1115354d2298"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "49e89e2a-f6ec-4f28-bf89-417ad605ce71",
         "d98fd18c-51d6-48e8-933b-12d78da5bc87",
@@ -570,7 +563,7 @@
         "0621a091-5d44-4f97-ab4c-dc93692197dd",
         "268e8121-5e17-467e-a965-a397e40edfdb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "49e89e2a-f6ec-4f28-bf89-417ad605ce71",
         "d98fd18c-51d6-48e8-933b-12d78da5bc87",
@@ -594,7 +587,7 @@
         "1d3ef420-7f2d-4888-8d06-1eb80af958fc",
         "26349b75-1fcb-4dc3-8a4e-c8850d5ac86b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d5122509-2126-45dc-99df-37b7b149a894",
         "50c8947b-799a-43ff-9d37-f344bc07a585",
@@ -623,7 +616,7 @@
         "62488f09-2d76-49ec-b5e5-3ecfa841b61c",
         "759c798a-934a-4e38-96aa-a9c1f1f61e2b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0c2c31a9-eab4-47a4-8b7a-4ad147fa4a30",
         "ebaf3795-aa6c-4fae-b81b-c022328b749b",
@@ -654,7 +647,7 @@
         "0621a091-5d44-4f97-ab4c-dc93692197dd",
         "1ae3f890-d40e-4233-8859-7d390a10975c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d98fd18c-51d6-48e8-933b-12d78da5bc87",
         "4bb73af1-4831-4825-ab11-782792edc6c5",
@@ -687,7 +680,7 @@
         "6d4b3329-8441-4011-8121-381720b54085",
         "1ae3f890-d40e-4233-8859-7d390a10975c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0c2c31a9-eab4-47a4-8b7a-4ad147fa4a30",
         "fb061d51-bad1-4e19-a34e-e0bf3a83093c",
@@ -910,6 +903,18 @@
         "23fa3f78-3a4c-42f2-bae2-2b16d321bc6c"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "85edeccc-b7f1-4811-aab2-b3520db0522f",
+      "title": "Custody care",
+      "occupationCode": null
+    },
+    {
+      "optionId": "096d9787-73cc-46b0-b571-2787e9133f5a",
+      "title": "Sexual offence ",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
