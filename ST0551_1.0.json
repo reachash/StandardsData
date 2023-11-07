@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/655",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-04-25T00:00:00Z",
-  "earliestStartDate": "2021-08-10T00:00:00Z",
+  "changedDate": "2022-04-25T00:00:00",
+  "earliestStartDate": "2021-08-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Working directly with children, skilfully leading day to day practice.",
@@ -287,7 +287,6 @@
       "detail": "Explore and understand, challenge and question; knowing when to act to safeguard and protect children."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -338,10 +337,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Education and Childcare",
-  "cluster": "Early Years Education Support Practitioner",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2020-10-27T14:32:48 +00:00",
   "lastUpdated": "2022-04-25T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/early-years-lead-practitioner-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/early-years-lead-practitioner-v1-0",
   "qualifications": [],
@@ -386,7 +388,7 @@
         "76b81e24-8267-4dff-90ae-75be99063f84",
         "59e2224a-3708-4061-8044-117e4c8076d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9f6bbe6-ddc1-4a8a-996c-9927147cf831",
         "d9d412a1-bbe3-4998-b8bb-33213db0a4a1",
@@ -433,7 +435,7 @@
         "3e334300-e7f1-40e4-979c-47de99030138",
         "429a1f86-ff79-4c85-9f6e-f1ceeaa0cf3c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9f6bbe6-ddc1-4a8a-996c-9927147cf831",
         "d9d412a1-bbe3-4998-b8bb-33213db0a4a1",
@@ -479,7 +481,7 @@
         "61d6e957-7c90-4b53-8e53-eae18b475878",
         "76b81e24-8267-4dff-90ae-75be99063f84"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b09b3442-2dd7-4845-933e-cd2c35f361de",
         "9457d588-4a91-49ed-91f2-63da14ee2721",
@@ -530,7 +532,7 @@
         "76b81e24-8267-4dff-90ae-75be99063f84",
         "59e2224a-3708-4061-8044-117e4c8076d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9f6bbe6-ddc1-4a8a-996c-9927147cf831",
         "d9d412a1-bbe3-4998-b8bb-33213db0a4a1",
@@ -589,7 +591,7 @@
         "429a1f86-ff79-4c85-9f6e-f1ceeaa0cf3c",
         "59e2224a-3708-4061-8044-117e4c8076d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9f6bbe6-ddc1-4a8a-996c-9927147cf831",
         "d9d412a1-bbe3-4998-b8bb-33213db0a4a1",
@@ -646,7 +648,7 @@
         "76b81e24-8267-4dff-90ae-75be99063f84",
         "59e2224a-3708-4061-8044-117e4c8076d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9f6bbe6-ddc1-4a8a-996c-9927147cf831",
         "d9d412a1-bbe3-4998-b8bb-33213db0a4a1",
@@ -698,7 +700,7 @@
         "76b81e24-8267-4dff-90ae-75be99063f84",
         "59e2224a-3708-4061-8044-117e4c8076d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d412a1-bbe3-4998-b8bb-33213db0a4a1",
         "25fefd63-2d97-4e84-a585-f4bad79c2133",
@@ -745,7 +747,7 @@
         "3e334300-e7f1-40e4-979c-47de99030138",
         "429a1f86-ff79-4c85-9f6e-f1ceeaa0cf3c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d412a1-bbe3-4998-b8bb-33213db0a4a1",
         "b09b3442-2dd7-4845-933e-cd2c35f361de",
@@ -794,7 +796,7 @@
         "61d6e957-7c90-4b53-8e53-eae18b475878",
         "3e334300-e7f1-40e4-979c-47de99030138"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9f6bbe6-ddc1-4a8a-996c-9927147cf831",
         "d9d412a1-bbe3-4998-b8bb-33213db0a4a1",
@@ -840,7 +842,7 @@
         "3e334300-e7f1-40e4-979c-47de99030138",
         "429a1f86-ff79-4c85-9f6e-f1ceeaa0cf3c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d412a1-bbe3-4998-b8bb-33213db0a4a1",
         "9457d588-4a91-49ed-91f2-63da14ee2721",
@@ -883,7 +885,7 @@
         "429a1f86-ff79-4c85-9f6e-f1ceeaa0cf3c",
         "76b81e24-8267-4dff-90ae-75be99063f84"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "633bf347-ac7d-4754-884a-b4845a704a10",
         "43a088e4-9527-4fab-a218-f5bcba43511e",
@@ -909,7 +911,7 @@
         "429a1f86-ff79-4c85-9f6e-f1ceeaa0cf3c",
         "76b81e24-8267-4dff-90ae-75be99063f84"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "43a088e4-9527-4fab-a218-f5bcba43511e",
         "74dd0185-cdac-4ef0-bbf9-026daba9bbba",
@@ -934,7 +936,7 @@
         "429a1f86-ff79-4c85-9f6e-f1ceeaa0cf3c",
         "76b81e24-8267-4dff-90ae-75be99063f84"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d412a1-bbe3-4998-b8bb-33213db0a4a1",
         "e9ae5aa2-210b-4c28-a12d-e745f9464c45",
@@ -968,7 +970,7 @@
         "76b81e24-8267-4dff-90ae-75be99063f84",
         "59e2224a-3708-4061-8044-117e4c8076d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9f6bbe6-ddc1-4a8a-996c-9927147cf831",
         "b09b3442-2dd7-4845-933e-cd2c35f361de",
@@ -1010,7 +1012,7 @@
         "4b0d59e9-8f18-4779-8e26-0da5c2e29821",
         "59e2224a-3708-4061-8044-117e4c8076d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9f6bbe6-ddc1-4a8a-996c-9927147cf831",
         "9457d588-4a91-49ed-91f2-63da14ee2721",
@@ -1054,7 +1056,7 @@
         "76b81e24-8267-4dff-90ae-75be99063f84",
         "59e2224a-3708-4061-8044-117e4c8076d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d412a1-bbe3-4998-b8bb-33213db0a4a1",
         "9457d588-4a91-49ed-91f2-63da14ee2721",
@@ -1076,6 +1078,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
