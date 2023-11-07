@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/27",
   "versionNumber": "1.0",
   "change": "Retired",
-  "changedDate": "2022-10-13T00:00:00Z",
-  "earliestStartDate": "2015-08-27T00:00:00Z",
-  "latestStartDate": "2022-10-12T00:00:00Z",
+  "changedDate": "2022-10-13T00:00:00",
+  "earliestStartDate": "2015-08-27T00:00:00",
+  "latestStartDate": "2022-10-12T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Carrying out reactive and routine maintenance on water process equipment, working on water supply and treatment, water networks and leakage, sewerage and wastewater.",
   "level": 3,
@@ -380,7 +380,6 @@
       "detail": "Organise and control maintenance operations on treatment works equipment"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [
     "Water Treatment: Process Technician",
     "Water Distribution: Network Technician",
@@ -421,13 +420,17 @@
   "reviewDetails": "",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Manufacturing/Process Maintenance Operative/Technician",
+  "clusterId": "71",
+  "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2017-09-22T14:24:33 +00:00",
   "lastUpdated": "2022-10-13T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/water-process-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/water-process-technician-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
