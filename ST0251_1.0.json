@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/549",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-01-18T00:00:00Z",
-  "earliestStartDate": "2020-03-19T00:00:00Z",
+  "changedDate": "2022-01-18T00:00:00",
+  "earliestStartDate": "2020-03-19T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Carry out the installation or maintenance and repair of stairlifts, lifting platforms and service lifts.",
@@ -237,32 +237,6 @@
       "detail": "Check service lift positioning systems and travel requirements are set up and that they are working to specification. Check function and safety and return to normal use."
     }
   ],
-  "options": [
-    {
-      "optionId": "916750f6-aa22-4426-8448-bcc7cf2faf13",
-      "title": "Stairlift Installation"
-    },
-    {
-      "optionId": "157c6718-5a95-40e5-9966-f873a7c769e3",
-      "title": "Stairlift Service & Repair"
-    },
-    {
-      "optionId": "4e71058c-4ab5-4dd2-ad26-256683214a23",
-      "title": "Lifting Platform Installation"
-    },
-    {
-      "optionId": "18170b8f-85f9-428a-9934-91b5e0413fe9",
-      "title": "Lifting Platform Service & Repair"
-    },
-    {
-      "optionId": "7a6e342d-4624-4e6a-a516-b662dc5cb4ef",
-      "title": "Service Lift Installation"
-    },
-    {
-      "optionId": "27132e6f-5448-4661-92e7-b4e11399fe46",
-      "title": "Service Lift Service & Repair"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Stairlift Installation",
     "Stairlift Service & Repair",
@@ -297,13 +271,48 @@
   "reviewDetails": "",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2017-11-14T17:11:22 +00:00",
   "lastUpdated": "2022-01-18T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/stairlift-platform-lift-service-lift-electromechanic-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/stairlift-platform-lift-service-lift-electromechanic-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "916750f6-aa22-4426-8448-bcc7cf2faf13",
+      "title": "Stairlift Installation",
+      "occupationCode": null
+    },
+    {
+      "optionId": "157c6718-5a95-40e5-9966-f873a7c769e3",
+      "title": "Stairlift Service & Repair",
+      "occupationCode": null
+    },
+    {
+      "optionId": "4e71058c-4ab5-4dd2-ad26-256683214a23",
+      "title": "Lifting Platform Installation",
+      "occupationCode": null
+    },
+    {
+      "optionId": "18170b8f-85f9-428a-9934-91b5e0413fe9",
+      "title": "Lifting Platform Service & Repair",
+      "occupationCode": null
+    },
+    {
+      "optionId": "7a6e342d-4624-4e6a-a516-b662dc5cb4ef",
+      "title": "Service Lift Installation",
+      "occupationCode": null
+    },
+    {
+      "optionId": "27132e6f-5448-4661-92e7-b4e11399fe46",
+      "title": "Service Lift Service & Repair",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
