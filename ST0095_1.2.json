@@ -7,15 +7,15 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/287",
   "versionNumber": "1.2",
   "change": "Standard, End-point assessment and funding band revised",
-  "changedDate": "2023-08-09T00:00:00Z",
-  "earliestStartDate": "2023-08-07T00:00:00Z",
+  "changedDate": "2023-08-09T00:00:00",
+  "earliestStartDate": "2023-08-07T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Laying bricks, blocks and other types of building components in mortar to construct and repair walls. ",
   "level": 2,
   "typicalDuration": 24,
   "maxFunding": 13000,
-  "route": "Construction and the built environment",
+  "route": "Construction",
   "keywords": [
     "Bricklayer",
     "communication",
@@ -275,7 +275,6 @@
       "detail": "Construct a brick wall with raking cut. For example, gable end wall or garden wall with raking cut."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -305,8 +304,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Onsite Construction",
   "cluster": "Core Building Tradesperson",
+  "clusterId": "5",
+  "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
   "createdDate": "2023-08-18T10:33:26 +00:00",
   "lastUpdated": "2023-08-09T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/bricklayer-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/bricklayer-v1-2",
   "qualifications": [],
@@ -334,7 +336,7 @@
         "8b42a611-4c40-4e7b-87a5-3f430a93869b",
         "bd9046da-1311-437f-b95e-952e4b385e89"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "45ea8020-0462-433f-ac45-3f03f81fa719",
         "a37ce0e5-ec5d-4e48-a02c-66e75cb1b2d0",
@@ -376,7 +378,7 @@
         "6179f73f-1328-4cbe-a887-ec6a4053c39a",
         "8b42a611-4c40-4e7b-87a5-3f430a93869b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "45ea8020-0462-433f-ac45-3f03f81fa719",
         "a37ce0e5-ec5d-4e48-a02c-66e75cb1b2d0",
@@ -412,7 +414,7 @@
         "890efa35-a9c3-41d7-8604-601f4dbcf91d",
         "8b42a611-4c40-4e7b-87a5-3f430a93869b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "17d48a25-0286-4f32-94cc-b272540c6673",
         "36aece0e-2a88-4fa0-b26c-c2f918b09cde"
@@ -450,7 +452,7 @@
         "cad9ce95-e906-47f9-a7f3-fd54af5ae43c",
         "6179f73f-1328-4cbe-a887-ec6a4053c39a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "17d48a25-0286-4f32-94cc-b272540c6673",
         "d5e343d7-d1f2-47f3-b0ca-207cbb87e518",
@@ -504,7 +506,7 @@
         "7bbf4147-55fb-4328-8988-f27650903d02",
         "f6ef6220-7e16-4b8e-8e8e-6b4c9aa4d852"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6adec809-1186-420e-aa9e-830301319310",
         "17d48a25-0286-4f32-94cc-b272540c6673",
@@ -552,7 +554,7 @@
         "6179f73f-1328-4cbe-a887-ec6a4053c39a",
         "e88f3d92-e8f7-457d-b70e-aabb82063dcc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "17d48a25-0286-4f32-94cc-b272540c6673",
         "d5e343d7-d1f2-47f3-b0ca-207cbb87e518",
@@ -588,7 +590,7 @@
         "0681d14f-740c-48d5-86be-23293865fbca",
         "4ec33f7a-53b5-4e3a-a1e6-8684d8810699"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "17d48a25-0286-4f32-94cc-b272540c6673",
         "1e949073-4240-485a-a242-eef1344c5c28",
@@ -613,7 +615,7 @@
         "6a62ef68-a602-4adf-a54b-f568ebc40368",
         "f349dee6-437f-48c3-9340-3e5ec2347b4f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a37ce0e5-ec5d-4e48-a02c-66e75cb1b2d0",
         "6adec809-1186-420e-aa9e-830301319310",
@@ -644,7 +646,7 @@
         "4cdcbca6-f31d-452d-a091-c546aeb93820",
         "890efa35-a9c3-41d7-8604-601f4dbcf91d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "40158dcd-75ee-40b9-bdb8-bbc7f9f89a0b"
       ],
@@ -671,7 +673,7 @@
         "c91f1147-610a-4fb7-9ae5-838d47a16667",
         "8b42a611-4c40-4e7b-87a5-3f430a93869b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5f0ff505-b50d-4c50-9d36-5e9444a5fbaf",
         "abff0206-e107-48fb-bd13-9d9302781c46"
@@ -679,6 +681,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
