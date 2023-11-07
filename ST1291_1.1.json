@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/685",
   "versionNumber": "1.1",
   "change": "Standard and end-point assessment plan revised",
-  "changedDate": "2023-06-30T00:00:00Z",
-  "earliestStartDate": "2023-06-30T00:00:00Z",
+  "changedDate": "2023-06-30T00:00:00",
+  "earliestStartDate": "2023-06-30T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Maintain site process standards for water or wastewater.",
@@ -425,16 +425,6 @@
       "detail": "Follow wastewater hygiene personal procedures."
     }
   ],
-  "options": [
-    {
-      "optionId": "f35a1104-23e1-472b-b2be-5d8cb62752c4",
-      "title": "Water treatment process technician"
-    },
-    {
-      "optionId": "fc697413-8494-4064-a82a-8f7a85976466",
-      "title": "Wastewater treatment process technician"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Waste Water: Sewerage Network Technician",
     "Waste Water: Treatment Technician",
@@ -484,8 +474,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Manufacturing/Process Maintenance Operative/Technician",
+  "clusterId": "71",
+  "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2023-06-30T11:30:49 +00:00",
   "lastUpdated": "2023-06-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/water-industry-treatment-process-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/water-industry-treatment-process-technician-v1-1",
   "qualifications": [],
@@ -537,7 +530,7 @@
         "2c0ced69-e203-4663-ba47-90bcb2ee75d2",
         "964e4ccf-2474-4079-8cff-7922d0a73d5d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e9809ee1-469c-4acc-84c1-4d9fa775825d",
         "12f9f69a-d7cd-4aad-8fc0-edf8ea720a7a",
@@ -581,7 +574,7 @@
         "964e4ccf-2474-4079-8cff-7922d0a73d5d",
         "299c78f1-8485-4f93-b8a7-26fc8d0fe76c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e9809ee1-469c-4acc-84c1-4d9fa775825d",
         "477f09a6-e7d8-4c40-9a71-505e12e24718",
@@ -624,7 +617,7 @@
         "964e4ccf-2474-4079-8cff-7922d0a73d5d",
         "299c78f1-8485-4f93-b8a7-26fc8d0fe76c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e9809ee1-469c-4acc-84c1-4d9fa775825d",
         "275fc2df-6e43-4b8f-aed1-82b24bd315a4",
@@ -666,7 +659,7 @@
         "964e4ccf-2474-4079-8cff-7922d0a73d5d",
         "299c78f1-8485-4f93-b8a7-26fc8d0fe76c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e9809ee1-469c-4acc-84c1-4d9fa775825d",
         "275fc2df-6e43-4b8f-aed1-82b24bd315a4",
@@ -708,7 +701,7 @@
         "2c0ced69-e203-4663-ba47-90bcb2ee75d2",
         "964e4ccf-2474-4079-8cff-7922d0a73d5d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e9809ee1-469c-4acc-84c1-4d9fa775825d",
         "d8b71f34-697d-4ee9-a469-78d218d37fba",
@@ -755,7 +748,7 @@
         "2c0ced69-e203-4663-ba47-90bcb2ee75d2",
         "964e4ccf-2474-4079-8cff-7922d0a73d5d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e9809ee1-469c-4acc-84c1-4d9fa775825d",
         "0c16a63d-1c45-4ef6-830b-6eb6913ef2f8",
@@ -798,7 +791,7 @@
         "964e4ccf-2474-4079-8cff-7922d0a73d5d",
         "299c78f1-8485-4f93-b8a7-26fc8d0fe76c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e9809ee1-469c-4acc-84c1-4d9fa775825d",
         "275fc2df-6e43-4b8f-aed1-82b24bd315a4",
@@ -837,7 +830,7 @@
         "2c0ced69-e203-4663-ba47-90bcb2ee75d2",
         "964e4ccf-2474-4079-8cff-7922d0a73d5d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e9809ee1-469c-4acc-84c1-4d9fa775825d",
         "d8b71f34-697d-4ee9-a469-78d218d37fba",
@@ -886,7 +879,7 @@
         "2c0ced69-e203-4663-ba47-90bcb2ee75d2",
         "964e4ccf-2474-4079-8cff-7922d0a73d5d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e9809ee1-469c-4acc-84c1-4d9fa775825d",
         "d8b71f34-697d-4ee9-a469-78d218d37fba",
@@ -938,7 +931,7 @@
         "2c0ced69-e203-4663-ba47-90bcb2ee75d2",
         "964e4ccf-2474-4079-8cff-7922d0a73d5d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e9809ee1-469c-4acc-84c1-4d9fa775825d",
         "34648036-5531-401a-b9f8-84668d00c3d8",
@@ -980,7 +973,7 @@
         "964e4ccf-2474-4079-8cff-7922d0a73d5d",
         "299c78f1-8485-4f93-b8a7-26fc8d0fe76c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e9809ee1-469c-4acc-84c1-4d9fa775825d",
         "062ab247-2e59-4a9b-b6fd-8a7faf496f7c",
@@ -1877,6 +1870,18 @@
         "dde605ef-1370-4d0f-a2ad-48012a3a3105"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "f35a1104-23e1-472b-b2be-5d8cb62752c4",
+      "title": "Water treatment process technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "fc697413-8494-4064-a82a-8f7a85976466",
+      "title": "Wastewater treatment process technician",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
