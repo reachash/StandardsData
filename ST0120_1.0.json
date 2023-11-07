@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/439",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-08-01T00:00:00Z",
-  "earliestStartDate": "2019-04-11T00:00:00Z",
-  "latestStartDate": "2022-07-31T00:00:00Z",
+  "changedDate": "2022-08-01T00:00:00",
+  "earliestStartDate": "2019-04-11T00:00:00",
+  "latestStartDate": "2022-07-31T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Maximising the effective use of digital office technologies, productivity software and digital communications in organisations.",
   "level": 3,
@@ -55,7 +55,6 @@
   "knowledges": [],
   "behaviours": [],
   "skills": [],
-  "options": [],
   "optionsUnstructuredTemplate": [
     "Digital Applications Technician",
     "Digital Service Technician"
@@ -104,13 +103,17 @@
   "reviewDetails": "",
   "pathway": "Digital Support and Services",
   "cluster": "IT Support and Services Technician",
+  "clusterId": "187",
+  "clusterDescription": "Help internal and external customers to install and use IT technology along with trouble - shooting their problems. Skills are developed across IT security and data management",
   "createdDate": "2017-11-14T17:09:24 +00:00",
   "lastUpdated": "2022-08-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/digital-support-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/digital-support-technician-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
