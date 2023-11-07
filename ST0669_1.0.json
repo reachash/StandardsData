@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/428",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-02-15T00:00:00Z",
-  "earliestStartDate": "2019-03-28T00:00:00Z",
+  "changedDate": "2023-02-15T00:00:00",
+  "earliestStartDate": "2019-03-28T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Preparing and delivering a high standard of technical work relating to the construction and renewal of the Tramway and the Tramway environment.",
@@ -120,7 +120,6 @@
       "detail": "Deal with conflict and/or challenging behaviour, de-escalating issues and providing assistance which is considerate of risk and promotes good will."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -149,10 +148,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
-  "pathway": "Onsite Construction",
-  "cluster": "Construction Operative/Supervisor",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2019-05-14T14:15:26 +00:00",
   "lastUpdated": "2023-02-15T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/tramway-construction-operative-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/tramway-construction-operative-v1-0",
   "qualifications": [],
@@ -172,7 +174,7 @@
         "e5db2572-f85d-4509-9b1b-a07e7131094b",
         "f4aa10c6-23a2-4956-ad38-8d22704601ab"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "95d76033-d85d-4ed4-8c44-9809df9c14db",
         "5355e505-98c4-436b-8b2b-2ee60048f497",
@@ -195,7 +197,7 @@
         "e5db2572-f85d-4509-9b1b-a07e7131094b",
         "f4aa10c6-23a2-4956-ad38-8d22704601ab"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "95d76033-d85d-4ed4-8c44-9809df9c14db",
         "5355e505-98c4-436b-8b2b-2ee60048f497",
@@ -221,7 +223,7 @@
         "e5db2572-f85d-4509-9b1b-a07e7131094b",
         "f4aa10c6-23a2-4956-ad38-8d22704601ab"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "95d76033-d85d-4ed4-8c44-9809df9c14db",
         "5355e505-98c4-436b-8b2b-2ee60048f497",
@@ -249,7 +251,7 @@
         "f4aa10c6-23a2-4956-ad38-8d22704601ab",
         "5944dd94-1ba3-451b-adc7-be0290237f6c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "95d76033-d85d-4ed4-8c44-9809df9c14db",
         "5355e505-98c4-436b-8b2b-2ee60048f497",
@@ -277,7 +279,7 @@
         "f4aa10c6-23a2-4956-ad38-8d22704601ab",
         "5944dd94-1ba3-451b-adc7-be0290237f6c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "95d76033-d85d-4ed4-8c44-9809df9c14db",
         "5355e505-98c4-436b-8b2b-2ee60048f497",
@@ -305,7 +307,7 @@
         "f4aa10c6-23a2-4956-ad38-8d22704601ab",
         "5944dd94-1ba3-451b-adc7-be0290237f6c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "95d76033-d85d-4ed4-8c44-9809df9c14db",
         "5355e505-98c4-436b-8b2b-2ee60048f497",
@@ -333,7 +335,7 @@
         "f4aa10c6-23a2-4956-ad38-8d22704601ab",
         "5944dd94-1ba3-451b-adc7-be0290237f6c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "95d76033-d85d-4ed4-8c44-9809df9c14db",
         "5355e505-98c4-436b-8b2b-2ee60048f497",
@@ -361,7 +363,7 @@
         "f4aa10c6-23a2-4956-ad38-8d22704601ab",
         "5944dd94-1ba3-451b-adc7-be0290237f6c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "95d76033-d85d-4ed4-8c44-9809df9c14db",
         "5355e505-98c4-436b-8b2b-2ee60048f497",
@@ -387,7 +389,7 @@
         "e5db2572-f85d-4509-9b1b-a07e7131094b",
         "f4aa10c6-23a2-4956-ad38-8d22704601ab"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "95d76033-d85d-4ed4-8c44-9809df9c14db",
         "f11e46ac-48a5-40d1-aa3f-bea3513d9436",
@@ -412,7 +414,7 @@
         "f4aa10c6-23a2-4956-ad38-8d22704601ab",
         "5944dd94-1ba3-451b-adc7-be0290237f6c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fc0bde14-5249-4ef0-9d5f-cfd491fda89f",
         "b29be59d-f1cc-4159-a53b-4369a5aa5456",
@@ -435,7 +437,7 @@
         "e5db2572-f85d-4509-9b1b-a07e7131094b",
         "f4aa10c6-23a2-4956-ad38-8d22704601ab"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fc0bde14-5249-4ef0-9d5f-cfd491fda89f",
         "b29be59d-f1cc-4159-a53b-4369a5aa5456",
@@ -444,6 +446,7 @@
       "criteriaForMeasuringPerformance": "Health, safety and security requirements are adhered to\nSafe systems of work are adhered to\nActions are taken to minimise risk\nCommunication is effective and efficient \nAssistance is provided promptly"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
