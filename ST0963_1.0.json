@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/703",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-03-24T00:00:00Z",
-  "earliestStartDate": "2023-03-23T00:00:00Z",
+  "changedDate": "2023-03-24T00:00:00",
+  "earliestStartDate": "2023-03-23T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Surface finishing is a broad range of industrial processes that alter the surface of a manufactured item to achieve a certain property.",
@@ -429,20 +429,6 @@
       "detail": "Select the materials and methods and complete polishing and finishing of vehicle coatings."
     }
   ],
-  "options": [
-    {
-      "optionId": "c5745bf4-80a7-4d8d-a999-f3228548675b",
-      "title": "Marine Surface Finisher"
-    },
-    {
-      "optionId": "775d0f94-f021-4f70-9221-c2e5087528fe",
-      "title": "Aviation Surface Finisher"
-    },
-    {
-      "optionId": "fcf47714-aa50-4a49-810c-ac70b2b29c8c",
-      "title": "Automotive Surface Finisher"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -486,8 +472,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2022-01-27T10:59:43 +00:00",
   "lastUpdated": "2023-03-24T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/surface-finisher-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/surface-finisher-v1-0",
   "qualifications": [],
@@ -529,7 +518,7 @@
         "7b84825c-e585-4f1b-ad45-ad434377b34e",
         "0c40e35d-8bfc-4e39-8e00-4c0921c15794"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dbb13ef2-15fc-4299-8b6d-3d021275b2b4",
         "58e7b965-c678-4457-be63-9defb1403a46",
@@ -573,7 +562,7 @@
         "94b75d2b-5708-4faf-ae4d-a0103429f2e3",
         "0c40e35d-8bfc-4e39-8e00-4c0921c15794"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dbb13ef2-15fc-4299-8b6d-3d021275b2b4",
         "58e7b965-c678-4457-be63-9defb1403a46",
@@ -610,7 +599,7 @@
         "94b75d2b-5708-4faf-ae4d-a0103429f2e3",
         "7dafa66c-2c25-40b2-b00a-f49488a7001e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ffa028f0-87d7-4cad-a4d9-8762c3e6d2c9"
       ],
@@ -642,7 +631,7 @@
         "94b75d2b-5708-4faf-ae4d-a0103429f2e3",
         "0c40e35d-8bfc-4e39-8e00-4c0921c15794"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7cdfb91d-bb9c-42c9-92b3-69a776455331",
         "e20c0921-cf05-4e4f-a94c-8145e63104f6",
@@ -676,7 +665,7 @@
         "94b75d2b-5708-4faf-ae4d-a0103429f2e3",
         "0c40e35d-8bfc-4e39-8e00-4c0921c15794"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7cdfb91d-bb9c-42c9-92b3-69a776455331",
         "e20c0921-cf05-4e4f-a94c-8145e63104f6",
@@ -711,7 +700,7 @@
         "45ed4b4a-b129-4a41-a819-e42999f265b5",
         "db3c73a3-4a3d-4e2d-a287-f8f319f405fa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ffa028f0-87d7-4cad-a4d9-8762c3e6d2c9",
         "2b10d106-8e1c-4ee9-acad-e262166ba9c3",
@@ -744,7 +733,7 @@
         "4cb7ed2c-533e-44ab-85ca-8be2593d9fa2",
         "45ed4b4a-b129-4a41-a819-e42999f265b5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2b10d106-8e1c-4ee9-acad-e262166ba9c3",
         "fbc9598f-41c6-4b23-a312-be162d865795",
@@ -779,7 +768,7 @@
         "4cb7ed2c-533e-44ab-85ca-8be2593d9fa2",
         "45ed4b4a-b129-4a41-a819-e42999f265b5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e2c2068-0bfe-4b57-ab06-fd3a9078737b",
         "2b10d106-8e1c-4ee9-acad-e262166ba9c3",
@@ -811,7 +800,7 @@
         "94b75d2b-5708-4faf-ae4d-a0103429f2e3",
         "db3c73a3-4a3d-4e2d-a287-f8f319f405fa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7cdfb91d-bb9c-42c9-92b3-69a776455331",
         "e20c0921-cf05-4e4f-a94c-8145e63104f6",
@@ -842,7 +831,7 @@
         "6cd64b98-241f-4463-b0e3-5af162375919",
         "db3c73a3-4a3d-4e2d-a287-f8f319f405fa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7cdfb91d-bb9c-42c9-92b3-69a776455331",
         "e20c0921-cf05-4e4f-a94c-8145e63104f6",
@@ -877,7 +866,7 @@
         "db3c73a3-4a3d-4e2d-a287-f8f319f405fa",
         "0c40e35d-8bfc-4e39-8e00-4c0921c15794"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7cdfb91d-bb9c-42c9-92b3-69a776455331",
         "e20c0921-cf05-4e4f-a94c-8145e63104f6",
@@ -910,7 +899,7 @@
         "4cb7ed2c-533e-44ab-85ca-8be2593d9fa2",
         "7b84825c-e585-4f1b-ad45-ad434377b34e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2b10d106-8e1c-4ee9-acad-e262166ba9c3",
         "a141a518-bb26-4618-b617-d817637c9bc9"
@@ -941,7 +930,7 @@
         "2326b277-c288-403c-b66e-abac8d8c42f3",
         "0c40e35d-8bfc-4e39-8e00-4c0921c15794"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "58e7b965-c678-4457-be63-9defb1403a46",
         "2b10d106-8e1c-4ee9-acad-e262166ba9c3",
@@ -1391,6 +1380,23 @@
         "fcef5ccc-29fc-4794-9ae3-34d973b7e6a6"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "c5745bf4-80a7-4d8d-a999-f3228548675b",
+      "title": "Marine Surface Finisher",
+      "occupationCode": null
+    },
+    {
+      "optionId": "775d0f94-f021-4f70-9221-c2e5087528fe",
+      "title": "Aviation Surface Finisher",
+      "occupationCode": null
+    },
+    {
+      "optionId": "fcf47714-aa50-4a49-810c-ac70b2b29c8c",
+      "title": "Automotive Surface Finisher",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
