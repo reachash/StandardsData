@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/565",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-10-25T00:00:00Z",
-  "earliestStartDate": "2020-06-04T00:00:00Z",
+  "changedDate": "2023-10-25T00:00:00",
+  "earliestStartDate": "2020-06-04T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Work with and support landscape professionals in designing, planning and managing spaces in both natural and built environments.",
@@ -147,7 +147,6 @@
       "detail": "Personal effectiveness - Communicate clearly in writing and verbally. Manage work and time.  Work independently and as part of a team. Interact with other built environment professionals."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -184,10 +183,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
-  "pathway": "Design, Surveying & Planning",
-  "cluster": "Design & Surveying Technician",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2019-05-22T08:06:10 +00:00",
   "lastUpdated": "2023-10-25T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/landscape-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/landscape-technician-v1-0",
   "qualifications": [],
@@ -221,7 +223,7 @@
         "bfbc112c-3580-47a3-a9e9-38b0364cc2dd",
         "1dc930ee-da0f-46cb-9ddf-b3253b9a9f14"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "59fb0811-7a96-4da4-be35-268479b2f430",
         "33b0a99d-fd3a-426e-a0d9-9d2b523eb3c2",
@@ -250,7 +252,7 @@
         "bfbc112c-3580-47a3-a9e9-38b0364cc2dd",
         "1dc930ee-da0f-46cb-9ddf-b3253b9a9f14"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "33b0a99d-fd3a-426e-a0d9-9d2b523eb3c2",
         "35240671-0c80-4119-920e-7c189ff266d0",
@@ -276,7 +278,7 @@
         "bfbc112c-3580-47a3-a9e9-38b0364cc2dd",
         "2bff66c3-bc86-4842-b4a9-ab120acd1fc0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "59fb0811-7a96-4da4-be35-268479b2f430",
         "33b0a99d-fd3a-426e-a0d9-9d2b523eb3c2",
@@ -307,7 +309,7 @@
         "1dc930ee-da0f-46cb-9ddf-b3253b9a9f14",
         "8f461a03-a1ad-47f6-99e0-032f09c07b95"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "35240671-0c80-4119-920e-7c189ff266d0",
         "c931bd85-6a5f-4a71-81d0-06a59ef859fe",
@@ -331,7 +333,7 @@
         "9ca63e07-c56b-4088-a273-368dfa7fc138",
         "2bff66c3-bc86-4842-b4a9-ab120acd1fc0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e94792d2-1fd6-40a3-a0e2-5fd9b143c787",
         "8b12f98d-c7fb-43e2-aac8-020f1bb26c28",
@@ -356,7 +358,7 @@
         "bfbc112c-3580-47a3-a9e9-38b0364cc2dd",
         "8f461a03-a1ad-47f6-99e0-032f09c07b95"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "33b0a99d-fd3a-426e-a0d9-9d2b523eb3c2",
         "35240671-0c80-4119-920e-7c189ff266d0",
@@ -388,7 +390,7 @@
         "8f461a03-a1ad-47f6-99e0-032f09c07b95",
         "2bff66c3-bc86-4842-b4a9-ab120acd1fc0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e94792d2-1fd6-40a3-a0e2-5fd9b143c787",
         "140591c7-94d9-4121-a743-2345b96de06c",
@@ -419,7 +421,7 @@
         "8f461a03-a1ad-47f6-99e0-032f09c07b95",
         "2bff66c3-bc86-4842-b4a9-ab120acd1fc0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "33b0a99d-fd3a-426e-a0d9-9d2b523eb3c2",
         "8b12f98d-c7fb-43e2-aac8-020f1bb26c28",
@@ -446,7 +448,7 @@
         "8f461a03-a1ad-47f6-99e0-032f09c07b95",
         "2bff66c3-bc86-4842-b4a9-ab120acd1fc0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "140591c7-94d9-4121-a743-2345b96de06c",
         "06e5aad2-d3db-44be-abf3-1ad805f61040"
@@ -470,7 +472,7 @@
         "8f461a03-a1ad-47f6-99e0-032f09c07b95",
         "2bff66c3-bc86-4842-b4a9-ab120acd1fc0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "33b0a99d-fd3a-426e-a0d9-9d2b523eb3c2",
         "8b12f98d-c7fb-43e2-aac8-020f1bb26c28",
@@ -502,7 +504,7 @@
         "8f461a03-a1ad-47f6-99e0-032f09c07b95",
         "2bff66c3-bc86-4842-b4a9-ab120acd1fc0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e94792d2-1fd6-40a3-a0e2-5fd9b143c787",
         "59fb0811-7a96-4da4-be35-268479b2f430",
@@ -517,6 +519,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
