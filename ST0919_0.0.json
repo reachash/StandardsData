@@ -7,7 +7,7 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/0",
   "versionNumber": "",
   "change": "",
-  "changedDate": "2023-02-27T00:00:00Z",
+  "changedDate": "2023-02-27T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
@@ -285,12 +285,6 @@
       "detail": "Use drawn plans (hand or digital), prototypes or models to aid the making of a hand-made ceramic product."
     }
   ],
-  "options": [
-    {
-      "optionId": "98d7d618-f43d-4134-aeb2-e92566f702ac",
-      "title": "Ceramicist"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -324,10 +318,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Craft and Design",
-  "cluster": "Design Technician",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2023-01-27T15:20:26 +00:00",
   "lastUpdated": "2023-02-27T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/craft-assistant?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/craft-assistant",
   "qualifications": [],
@@ -354,7 +351,7 @@
         "d145830d-e868-45ab-8b3d-327446829c99",
         "9e4c8b31-ee42-43a7-add5-f02c974bbbae"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3c60b6dc-6568-472a-94fe-61ed23a5113f",
         "b81a52e9-a187-4471-a7a7-e833671c84ac",
@@ -378,7 +375,7 @@
         "6c7196bd-079a-4464-8ca1-02e4478b2ca1",
         "eeadf248-a96f-469b-896f-0fd643dd2c7d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "033651da-a224-4f1d-9956-6d6021db5e5b",
         "b81a52e9-a187-4471-a7a7-e833671c84ac",
@@ -399,7 +396,7 @@
         "54216c8a-32a5-4842-8132-ca96a35859b9",
         "ec4e51c7-9bee-43a3-aa18-b48af6859e36"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b81a52e9-a187-4471-a7a7-e833671c84ac"
       ],
@@ -418,7 +415,7 @@
         "ccfac41e-51f5-4177-b330-fb34e7fedb6e",
         "9e4c8b31-ee42-43a7-add5-f02c974bbbae"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1569b424-7296-4694-870b-15980a5ce644",
         "0746cbec-9401-487d-a0cb-348ffb7f911c",
@@ -437,7 +434,7 @@
         "29b110be-8255-4714-8e4a-02037a9d44fc",
         "ccfac41e-51f5-4177-b330-fb34e7fedb6e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1569b424-7296-4694-870b-15980a5ce644",
         "0f59e75b-13bc-44ec-a773-1e9c9354b433"
@@ -448,14 +445,14 @@
       "dutyID": "81e99ab8-a99f-4064-bc37-e3f27fe78f83",
       "dutyDetail": "Order or recommend materials and tools in line with the settingss procurement policies and processes following stock management procedures as needed to achieve value for money.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "29b110be-8255-4714-8e4a-02037a9d44fc",
         "b990f0ab-c9ff-404f-8a12-89d1580676e7",
         "ccfac41e-51f5-4177-b330-fb34e7fedb6e",
         "ce383635-f5ab-4e83-b8eb-1b508c9c7881"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7cd25ea1-a299-492a-bae8-00ff2d572b02",
         "0f59e75b-13bc-44ec-a773-1e9c9354b433",
@@ -474,7 +471,7 @@
         "54216c8a-32a5-4842-8132-ca96a35859b9",
         "617aeb64-9751-4e71-974c-2ea6281c7f09"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c45510a4-15cb-4082-b223-dae333607809",
         "17f38217-1f31-42e6-9dbd-adbfa7a8a5ed",
@@ -497,7 +494,7 @@
         "892b9799-40d2-40cc-902b-6af83655a831",
         "ce383635-f5ab-4e83-b8eb-1b508c9c7881"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c45510a4-15cb-4082-b223-dae333607809",
         "7cd25ea1-a299-492a-bae8-00ff2d572b02",
@@ -520,7 +517,7 @@
         "ce383635-f5ab-4e83-b8eb-1b508c9c7881",
         "c520bc4d-ecdf-452d-b2f5-07ffbf49c390"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "801a90ed-b2b3-4736-8d36-6934d33efd47"
       ],
@@ -540,7 +537,7 @@
         "892b9799-40d2-40cc-902b-6af83655a831",
         "ce383635-f5ab-4e83-b8eb-1b508c9c7881"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "801a90ed-b2b3-4736-8d36-6934d33efd47"
       ],
@@ -559,7 +556,7 @@
         "c520bc4d-ecdf-452d-b2f5-07ffbf49c390",
         "ec4e51c7-9bee-43a3-aa18-b48af6859e36"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f4c0e362-f322-4526-acda-b58e22d7b11d",
         "331d47f0-19ed-477e-9801-f89ec298810c"
@@ -619,7 +616,7 @@
       "dutyID": "d5b45dd0-6210-471f-9321-ac7a53b19d4f",
       "dutyDetail": "Manage the planning or design process for hand-made ceramic products.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "6c7196bd-079a-4464-8ca1-02e4478b2ca1",
         "617aeb64-9751-4e71-974c-2ea6281c7f09",
@@ -706,6 +703,13 @@
         "6d2abe52-7dc5-48f9-9ede-d4f28b41067c"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "98d7d618-f43d-4134-aeb2-e92566f702ac",
+      "title": "Ceramicist",
+      "occupationCode": null
     }
   ],
   "regulationDetail": [],
