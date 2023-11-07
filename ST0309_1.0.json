@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/461",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-10-18T00:00:00Z",
-  "earliestStartDate": "2019-05-24T00:00:00Z",
-  "latestStartDate": "2023-10-31T00:00:00Z",
+  "changedDate": "2023-10-18T00:00:00",
+  "earliestStartDate": "2019-05-24T00:00:00",
+  "latestStartDate": "2023-10-31T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Producing a range of printed goods to meet customer and business needs.",
   "level": 3,
@@ -311,20 +311,6 @@
       "detail": "Work to tight deadlines, in a calm and professional manner whilst achieving deadlines."
     }
   ],
-  "options": [
-    {
-      "optionId": "8526ca89-39ec-449c-b219-b795d1b10c18",
-      "title": "Pre-Press\u00A0Technician"
-    },
-    {
-      "optionId": "94995ab8-c61d-475a-ae1c-93a067b3ff19",
-      "title": "Press Technician"
-    },
-    {
-      "optionId": "87c026d5-da07-479d-9a0e-9048614ba1a9",
-      "title": "Post-Press Technician"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Pre-Press\u00A0Technician",
     "Press Technician",
@@ -356,13 +342,33 @@
   "reviewDetails": "",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Print and Packaging Operative/Technician",
+  "clusterId": "269",
+  "clusterDescription": "Operate complex manufacture of printed matter and packaged goods",
   "createdDate": "2017-11-14T17:10:34 +00:00",
   "lastUpdated": "2023-10-18T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/print-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/print-technician-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "8526ca89-39ec-449c-b219-b795d1b10c18",
+      "title": "Pre-Press\u00A0Technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "94995ab8-c61d-475a-ae1c-93a067b3ff19",
+      "title": "Press Technician",
+      "occupationCode": null
+    },
+    {
+      "optionId": "87c026d5-da07-479d-9a0e-9048614ba1a9",
+      "title": "Post-Press Technician",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
