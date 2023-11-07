@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/245",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2018-02-27T00:00:00Z",
-  "earliestStartDate": "2018-02-27T00:00:00Z",
+  "changedDate": "2018-02-27T00:00:00",
+  "earliestStartDate": "2018-02-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Deliver efficient, effective and high performance food and drink production processes and systems.",
@@ -235,20 +235,6 @@
       "detail": "Apply continuous improvement, problem solving and trouble shooting skills to increase efficiency in food production"
     }
   ],
-  "options": [
-    {
-      "optionId": "f1be68e8-a937-4cb9-aa7a-3dfc98cbe97f",
-      "title": "Mechanical Engineers"
-    },
-    {
-      "optionId": "483f1bb8-dd97-4233-8874-478fc7246292",
-      "title": "Automation Engineers"
-    },
-    {
-      "optionId": "b7ed6c2a-1132-45fb-b6cb-1db42b3c33a5",
-      "title": "Production Engineers"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Mechanical Engineers",
     "Automation Engineers",
@@ -287,13 +273,33 @@
   "reviewDetails": "",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Manufacturing/Process Maintenance Engineer",
+  "clusterId": "142",
+  "clusterDescription": "Improve and develop manufacturing and engineering systems",
   "createdDate": "2017-11-14T17:09:28 +00:00",
   "lastUpdated": "2018-02-27T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/food-and-drink-advanced-engineer-integrated-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/food-and-drink-advanced-engineer-integrated-degree-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "f1be68e8-a937-4cb9-aa7a-3dfc98cbe97f",
+      "title": "Mechanical Engineers",
+      "occupationCode": null
+    },
+    {
+      "optionId": "483f1bb8-dd97-4233-8874-478fc7246292",
+      "title": "Automation Engineers",
+      "occupationCode": null
+    },
+    {
+      "optionId": "b7ed6c2a-1132-45fb-b6cb-1db42b3c33a5",
+      "title": "Production Engineers",
+      "occupationCode": null
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
