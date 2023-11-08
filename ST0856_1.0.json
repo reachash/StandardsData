@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/699",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-03-06T00:00:00Z",
-  "earliestStartDate": "2023-02-23T00:00:00Z",
+  "changedDate": "2023-03-06T00:00:00",
+  "earliestStartDate": "2023-02-23T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "To take a leading role in the design, manufacturing and testing of complex, high value space hardware and ground support equipment.",
@@ -268,7 +268,6 @@
       "detail": "Mission Analysis techniques using numerical analysis and simulation tools such as AGI-Systems Toolkit or NASA-GMAT."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -311,8 +310,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Engineer",
+  "clusterId": "253",
+  "clusterDescription": "Design and develop a range of products and/or process technologies using discipline and applications specific expertise",
   "createdDate": "2023-03-07T10:42:46 +00:00",
   "lastUpdated": "2023-03-06T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/space-systems-engineer-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/space-systems-engineer-v1-0",
   "qualifications": [
@@ -369,7 +371,7 @@
         "25f38b5c-98e4-414e-9338-ac9d8b78b8ca",
         "03967070-e8f6-41a0-9ad6-0add1fa43af2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "75fbf591-a185-4d66-98e9-57385d651bef",
         "8bc28915-f055-4508-b1e7-26b6ed6676ac",
@@ -404,7 +406,7 @@
         "ba36bf27-0f54-49b7-8811-a9863b9f1d60",
         "03967070-e8f6-41a0-9ad6-0add1fa43af2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "75fbf591-a185-4d66-98e9-57385d651bef",
         "dc390d1e-cbee-4963-986e-a27cfa6f8547",
@@ -453,7 +455,7 @@
         "e7ffc41e-ca1b-4294-bafe-a930052be8d5",
         "03967070-e8f6-41a0-9ad6-0add1fa43af2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "038c36c9-3bd9-4648-bd99-3f62814a9a19",
         "8bc28915-f055-4508-b1e7-26b6ed6676ac",
@@ -488,7 +490,7 @@
         "ba36bf27-0f54-49b7-8811-a9863b9f1d60",
         "98eeb530-2188-4cd1-ac5f-a94215c6e27a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "67d5f5ba-604e-4580-a141-b30bb6827f5a",
         "f1e84e79-9f98-4167-8146-6e643a3ddbfc",
@@ -524,7 +526,7 @@
         "dfb68ec0-80e2-4093-9e99-e3c37e28c828",
         "e7ffc41e-ca1b-4294-bafe-a930052be8d5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "038c36c9-3bd9-4648-bd99-3f62814a9a19",
         "67d5f5ba-604e-4580-a141-b30bb6827f5a",
@@ -568,7 +570,7 @@
         "25f38b5c-98e4-414e-9338-ac9d8b78b8ca",
         "03967070-e8f6-41a0-9ad6-0add1fa43af2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "75fbf591-a185-4d66-98e9-57385d651bef",
         "67d5f5ba-604e-4580-a141-b30bb6827f5a",
@@ -605,7 +607,7 @@
         "255daf56-3d34-42c5-b253-d3f143be3293",
         "e7ffc41e-ca1b-4294-bafe-a930052be8d5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "038c36c9-3bd9-4648-bd99-3f62814a9a19",
         "67d5f5ba-604e-4580-a141-b30bb6827f5a",
@@ -641,7 +643,7 @@
         "bc28f165-53fd-4964-b4ee-5d131405d5fa",
         "09e08ef1-e45a-4246-9bcf-c43ccc444372"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8bc28915-f055-4508-b1e7-26b6ed6676ac",
         "f1e84e79-9f98-4167-8146-6e643a3ddbfc",
@@ -675,7 +677,7 @@
         "34b0e440-8ffd-48bd-a403-d3b92a8f8b0a",
         "e7ffc41e-ca1b-4294-bafe-a930052be8d5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "038c36c9-3bd9-4648-bd99-3f62814a9a19",
         "50418777-4942-4d38-a5f4-113f7342aeda",
@@ -702,7 +704,7 @@
         "255daf56-3d34-42c5-b253-d3f143be3293",
         "09e08ef1-e45a-4246-9bcf-c43ccc444372"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f5037b7d-9725-4c44-9193-3f3175a297d0",
         "50418777-4942-4d38-a5f4-113f7342aeda",
@@ -728,7 +730,7 @@
         "74029a3d-40b2-46b3-a7a8-a8556c5839fe",
         "255daf56-3d34-42c5-b253-d3f143be3293"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "67d5f5ba-604e-4580-a141-b30bb6827f5a",
         "8bc28915-f055-4508-b1e7-26b6ed6676ac",
@@ -775,7 +777,7 @@
         "bc28f165-53fd-4964-b4ee-5d131405d5fa",
         "25f38b5c-98e4-414e-9338-ac9d8b78b8ca"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "75fbf591-a185-4d66-98e9-57385d651bef",
         "8bc28915-f055-4508-b1e7-26b6ed6676ac",
@@ -808,7 +810,7 @@
         "dfb68ec0-80e2-4093-9e99-e3c37e28c828",
         "e7ffc41e-ca1b-4294-bafe-a930052be8d5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "038c36c9-3bd9-4648-bd99-3f62814a9a19",
         "67d5f5ba-604e-4580-a141-b30bb6827f5a",
@@ -842,7 +844,7 @@
         "dfb68ec0-80e2-4093-9e99-e3c37e28c828",
         "e7ffc41e-ca1b-4294-bafe-a930052be8d5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "038c36c9-3bd9-4648-bd99-3f62814a9a19",
         "67d5f5ba-604e-4580-a141-b30bb6827f5a",
@@ -856,6 +858,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
