@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/717",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-08-10T00:00:00Z",
-  "earliestStartDate": "2023-08-09T00:00:00Z",
+  "changedDate": "2023-08-10T00:00:00",
+  "earliestStartDate": "2023-08-09T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Skilled heat pump installer.",
@@ -226,7 +226,6 @@
       "detail": "Works collaboratively with clients or stakeholders to solve problems. "
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -258,8 +257,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Building Services Engineering",
   "cluster": "Building Services Engineering Operative/Technician",
+  "clusterId": "65",
+  "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
   "createdDate": "2023-09-27T12:46:06 +00:00",
   "lastUpdated": "2023-08-10T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/low-carbon-heating-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/low-carbon-heating-technician-v1-0",
   "qualifications": [],
@@ -289,7 +291,7 @@
         "cf989bc9-33c1-49a9-8875-f10e108825ed",
         "94587923-81a4-4f72-9b7e-dab840bb8884"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "526a66b5-32aa-41df-ae02-2e1960339363",
         "7e769f04-3f92-4a70-bf7d-0e45f2d822ec",
@@ -324,7 +326,7 @@
         "99197c7a-15f3-44cf-ab59-fa9342a39d58",
         "94587923-81a4-4f72-9b7e-dab840bb8884"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "526a66b5-32aa-41df-ae02-2e1960339363",
         "7e769f04-3f92-4a70-bf7d-0e45f2d822ec",
@@ -358,7 +360,7 @@
         "fa990c67-173f-413a-931e-fa31ebece1c5",
         "cf989bc9-33c1-49a9-8875-f10e108825ed"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "526a66b5-32aa-41df-ae02-2e1960339363",
         "7e769f04-3f92-4a70-bf7d-0e45f2d822ec",
@@ -394,7 +396,7 @@
         "fa990c67-173f-413a-931e-fa31ebece1c5",
         "94587923-81a4-4f72-9b7e-dab840bb8884"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "526a66b5-32aa-41df-ae02-2e1960339363",
         "7e769f04-3f92-4a70-bf7d-0e45f2d822ec",
@@ -429,7 +431,7 @@
         "6e2df006-130f-4ae7-bf9d-9ed3b5c45e9c",
         "52243a9e-1539-4a61-b9f3-2c81ad7e90d7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "526a66b5-32aa-41df-ae02-2e1960339363",
         "7e769f04-3f92-4a70-bf7d-0e45f2d822ec",
@@ -462,7 +464,7 @@
         "76b9f232-2047-4859-9bba-2a8b45d1f4a1",
         "94587923-81a4-4f72-9b7e-dab840bb8884"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "526a66b5-32aa-41df-ae02-2e1960339363",
         "7e769f04-3f92-4a70-bf7d-0e45f2d822ec",
@@ -504,7 +506,7 @@
         "94587923-81a4-4f72-9b7e-dab840bb8884",
         "5366441c-3b3a-4095-9a17-bc00a573e0e2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "526a66b5-32aa-41df-ae02-2e1960339363",
         "7e769f04-3f92-4a70-bf7d-0e45f2d822ec",
@@ -543,7 +545,7 @@
         "f1eec8a5-42f7-4ac6-8b5e-06be6243ae25",
         "5366441c-3b3a-4095-9a17-bc00a573e0e2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "526a66b5-32aa-41df-ae02-2e1960339363",
         "7e769f04-3f92-4a70-bf7d-0e45f2d822ec",
@@ -579,7 +581,7 @@
         "9103c52f-88df-426c-ba5b-04e58cdd9377",
         "de41a475-4d42-4232-a182-69e8ade01cdd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "526a66b5-32aa-41df-ae02-2e1960339363",
         "7e769f04-3f92-4a70-bf7d-0e45f2d822ec",
@@ -626,7 +628,7 @@
         "94587923-81a4-4f72-9b7e-dab840bb8884",
         "5366441c-3b3a-4095-9a17-bc00a573e0e2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "526a66b5-32aa-41df-ae02-2e1960339363",
         "7e769f04-3f92-4a70-bf7d-0e45f2d822ec",
@@ -647,6 +649,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
