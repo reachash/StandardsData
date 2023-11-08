@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/599",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-02-15T00:00:00Z",
-  "earliestStartDate": "2020-08-26T00:00:00Z",
+  "changedDate": "2023-02-15T00:00:00",
+  "earliestStartDate": "2020-08-26T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Apply fine hand bookbinding and craft skills in order to create, maintain, repair and assist in the conservation of books.",
@@ -248,7 +248,6 @@
       "detail": "Apply manual dexterity to produce a high quality product, which meets industry standards for hand-bound books"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -279,8 +278,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Craft and Design",
   "cluster": "Heritage Craftsperson",
+  "clusterId": "63",
+  "clusterDescription": "Use traditional hand craft skills to shape and sculpt natural materials",
   "createdDate": "2020-04-22T09:20:48 +00:00",
   "lastUpdated": "2023-02-15T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/bookbinder-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/bookbinder-v1-0",
   "qualifications": [],
@@ -301,7 +303,7 @@
         "3c29cdb6-0113-42ca-a6f0-20f145222b58",
         "dcc0fa1f-d92e-441b-9792-a2e994706404"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fec30264-5d4f-4a9d-902c-1da6ecc205a4",
         "54863f9b-f1f1-4ec1-a81d-f08cc8b737bd"
@@ -327,7 +329,7 @@
         "24559f4e-3598-40b9-8c09-3be45c313c56",
         "d2c15ac9-4be5-461e-bbcf-050b57a32c79"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "54863f9b-f1f1-4ec1-a81d-f08cc8b737bd",
         "a43ae64a-e4cc-4765-a144-aff488ec9307",
@@ -354,7 +356,7 @@
         "51032634-0c29-46e2-a33c-8cfc3c1ccf09",
         "f50889bf-6751-4aa3-a274-7d2543abf375"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "28ed6d78-c52b-46dd-9a0b-a3c992c2e315",
         "04b5fe95-1cc9-4249-92de-c96c653193dc",
@@ -383,7 +385,7 @@
         "6b980624-fb8f-4b9d-8e0f-6dea4ff21473",
         "f24f99ad-ec86-4164-82d9-b8c84fb26a2e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "28ed6d78-c52b-46dd-9a0b-a3c992c2e315",
         "04b5fe95-1cc9-4249-92de-c96c653193dc",
@@ -410,7 +412,7 @@
         "dab354f0-5dd0-4c57-a42b-cd5be6d90737",
         "6b980624-fb8f-4b9d-8e0f-6dea4ff21473"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "54863f9b-f1f1-4ec1-a81d-f08cc8b737bd",
         "27298ec0-c97d-4e02-80bb-de8fa8f18a3f",
@@ -434,7 +436,7 @@
         "dab354f0-5dd0-4c57-a42b-cd5be6d90737",
         "6b980624-fb8f-4b9d-8e0f-6dea4ff21473"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2911d82f-1101-495a-a7b7-bb1893801ff7"
       ],
@@ -456,7 +458,7 @@
         "20917f33-ee0b-45fe-8368-de88c9c445e0",
         "7152b6b4-d762-4eb6-a2ab-b49948801709"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9742fdda-81a1-4e33-adb9-3bcc422a7ed4",
         "e27bd903-2f9c-433d-9525-8416733795da",
@@ -482,7 +484,7 @@
         "b16c9676-7f74-431a-a95d-d555446c2f05",
         "24559f4e-3598-40b9-8c09-3be45c313c56"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b97ab466-e27c-4299-9b1c-18379d9d6cc0",
         "e8f07574-575b-4b08-b3c2-ce6f764e9d60",
@@ -502,7 +504,7 @@
       "mappedKnowledge": [
         "c8cac5cf-3988-4db8-a34f-58d3b9cb4766"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b97ab466-e27c-4299-9b1c-18379d9d6cc0",
         "2911d82f-1101-495a-a7b7-bb1893801ff7",
@@ -511,6 +513,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
