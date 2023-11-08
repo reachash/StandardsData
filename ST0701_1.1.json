@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/608",
   "versionNumber": "1.1",
   "change": "End-point assessment plan and funding revised",
-  "changedDate": "2023-01-26T00:00:00Z",
-  "earliestStartDate": "2022-07-01T00:00:00Z",
+  "changedDate": "2023-01-26T00:00:00",
+  "earliestStartDate": "2022-07-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "A registered professional who fits, adjusts and removes braces to patient’s teeth.",
@@ -373,7 +373,6 @@
       "detail": "Reflect on own practice, recognising how reflection can be used to continually improve the quality of patient care and professional development"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -403,8 +402,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Health",
   "cluster": "Health Practitioner",
+  "clusterId": "10",
+  "clusterDescription": "Provide direct patient contact and high quality care with in-depth knowledge of the factors influencing health and ill-health using specialist expertise",
   "createdDate": "2022-06-30T13:34:20 +00:00",
   "lastUpdated": "2023-01-26T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/orthodontic-therapist-integrated-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/orthodontic-therapist-integrated-v1-1",
   "qualifications": [
@@ -441,7 +443,7 @@
         "2c11670c-86eb-46cd-801d-413f0f2c541a",
         "946ba8ce-9be2-4e0e-8c5b-f2601ae3b3ef"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "087e78ad-c46e-40f2-89d7-e0af82e0ed9c"
       ],
@@ -462,7 +464,7 @@
         "e1214692-9435-4173-ab86-edc2b1baba9d",
         "b57401ae-9fb2-4821-9bba-5c41358627e6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f90b9b23-5eac-4bd3-9a6e-3db63cf95a55",
         "807209e0-3922-4f51-9781-2362af4de7f9",
@@ -491,7 +493,7 @@
         "5bc15f72-64ab-411a-93ba-5fa7c7eca48d",
         "05dadfda-f617-4d1d-a34e-abab9da3d5ee"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "119253b5-6f6b-46a4-be2d-026a3278de59",
         "99fdda8d-7027-45cc-8146-b9af2ca1ba90",
@@ -512,7 +514,7 @@
         "ef4615ff-a6dc-46d9-96ec-9f288fb01aa8",
         "bb080ad0-7348-4ac5-b5fc-7b99caab84dc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "eaa45c11-6433-450d-a38d-b21b9e590553",
         "1f594331-7654-4a0f-b17f-a9a090f08830",
@@ -531,7 +533,7 @@
       "mappedKnowledge": [
         "8b7baba4-1ac2-4bd3-a04d-b881b18f4301"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "32e96788-5753-4cd4-a0b5-81e01866ff52",
         "f8cf7443-6913-4db9-85e2-fe632f768950"
@@ -549,7 +551,7 @@
       "mappedKnowledge": [
         "1a424c35-cc1c-4149-9b3e-4b532f9fd887"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fcd865e9-df2c-4499-9110-2d0a31478103",
         "a445b4a9-bab6-4bc0-905b-416a8c00c0f4"
@@ -569,7 +571,7 @@
         "edfecef0-1f56-49c3-a017-1ad3d5b832d6",
         "fb92610f-f841-4401-ae8d-9d6cc626f688"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "36ad3ba4-3e21-480f-8527-58c1fa345adb"
       ],
@@ -587,7 +589,7 @@
         "edfecef0-1f56-49c3-a017-1ad3d5b832d6",
         "1b7536ab-5b17-4c47-b767-55837a089788"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "32e96788-5753-4cd4-a0b5-81e01866ff52",
         "62b78ae1-6988-42f8-92f6-1e58b5c65204",
@@ -606,7 +608,7 @@
       "mappedKnowledge": [
         "b01cfc44-4f18-4dc0-aef7-1a504ce774c5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2ced219a-1342-4c73-a0ad-4a93249bdfea",
         "3dd01fb8-099f-4f19-8f46-b0842195e797"
@@ -624,7 +626,7 @@
       "mappedKnowledge": [
         "3fba304c-1b62-4dc6-94ab-76ed408cadef"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ce4eb489-346f-479a-905c-4ae5c31767ed"
       ],
@@ -642,7 +644,7 @@
         "edfecef0-1f56-49c3-a017-1ad3d5b832d6",
         "1cdab0ef-6907-4c71-a41e-c8fdec43c6b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "012abb3f-bdcc-425e-ab2d-427ded0461a4"
       ],
@@ -664,7 +666,7 @@
         "becaa3fb-12a6-4d56-bde2-3e080169e20e",
         "9f90f62d-ca8a-4595-96e3-c3c4b225a56c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "42c80b1d-0c50-4860-a399-64494709950a",
         "943ef792-e388-44b6-8420-49cd2177b713",
@@ -685,7 +687,7 @@
         "b5e881c2-6ca3-410a-9bc6-73df8b4629f3",
         "044f33aa-d2e1-42d5-93ea-c2f912a24693"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0fa45934-c402-425c-a68d-28badfe61c23",
         "b6b38aa8-3781-4365-b9e0-b20ac7b6ed8b",
@@ -705,7 +707,7 @@
         "3b8e1714-417f-4247-af88-679065aa9d39",
         "22704e01-4231-44ee-ad12-93e96ee30c16"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c8d3c1a3-bd3f-41f9-8350-ce8ce6fe9696"
       ],
@@ -729,7 +731,7 @@
         "ec78432b-a9cd-4ea5-8da9-d02d0b6079d6",
         "fef805ac-7a0b-4529-bfcd-7a6ac9fc6f3c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a7d34b5b-cf63-43f1-9431-4aaf1d4a9f51",
         "0b0224f5-8da0-4741-b37b-509ad7513d63",
@@ -739,6 +741,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training provider",
