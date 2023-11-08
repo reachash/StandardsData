@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/669",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-02-09T00:00:00Z",
-  "earliestStartDate": "2021-11-12T00:00:00Z",
+  "changedDate": "2022-02-09T00:00:00",
+  "earliestStartDate": "2021-11-12T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Provide statistical leadership to a multi-disciplinary team.",
@@ -181,7 +181,6 @@
       "detail": "Contribute to the wider statistical community (including their own organisation), through sharing knowledge, such as peer review, authorship and co-authorship of papers for publication or presentation at conference."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -213,8 +212,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Science",
   "cluster": "Science Professional",
+  "clusterId": "213",
+  "clusterDescription": "Define and lead science-based research projects to derive academic and applied information of value",
   "createdDate": "2021-05-20T10:03:16 +00:00",
   "lastUpdated": "2022-02-09T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/medical-statistician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/medical-statistician-v1-0",
   "qualifications": [
@@ -245,7 +247,7 @@
         "869f45be-c13a-4e82-86a5-32e7cb701af6",
         "930f44a8-e8b2-4f1a-93d2-e3e1aceb4cd5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7be5c0cb-438a-4f45-a35b-d1e26ffb64d3",
         "69bbcdfa-d83f-4ff3-b936-debb56e56b57",
@@ -269,7 +271,7 @@
         "124fde40-deb2-46f0-aa3a-326cc28315ba",
         "930f44a8-e8b2-4f1a-93d2-e3e1aceb4cd5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "df43bab8-fac3-4dc6-9abe-9516d7720c11"
       ],
@@ -288,7 +290,7 @@
         "ae51247c-5d00-4231-95d5-959b02b9e442",
         "869f45be-c13a-4e82-86a5-32e7cb701af6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7be5c0cb-438a-4f45-a35b-d1e26ffb64d3",
         "8158656f-6a96-4b2d-982f-2f9537a0b294",
@@ -312,7 +314,7 @@
         "869f45be-c13a-4e82-86a5-32e7cb701af6",
         "f6df5cef-517c-4941-9828-5bbae121e56b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7be5c0cb-438a-4f45-a35b-d1e26ffb64d3",
         "8158656f-6a96-4b2d-982f-2f9537a0b294"
@@ -331,7 +333,7 @@
         "c9909c02-5089-4cd5-a9cc-667562fb92cf",
         "869f45be-c13a-4e82-86a5-32e7cb701af6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7be5c0cb-438a-4f45-a35b-d1e26ffb64d3",
         "8158656f-6a96-4b2d-982f-2f9537a0b294",
@@ -350,7 +352,7 @@
       "mappedKnowledge": [
         "c69f11ce-1869-4a77-abe1-c826ab49a1c6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8158656f-6a96-4b2d-982f-2f9537a0b294",
         "9820a6df-22d4-409b-8255-f75deeae9fe8"
@@ -367,7 +369,7 @@
       "mappedKnowledge": [
         "c69f11ce-1869-4a77-abe1-c826ab49a1c6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8158656f-6a96-4b2d-982f-2f9537a0b294",
         "ad83b73c-4381-41c9-813e-cbe87cea0b4e",
@@ -398,7 +400,7 @@
         "869f45be-c13a-4e82-86a5-32e7cb701af6",
         "930f44a8-e8b2-4f1a-93d2-e3e1aceb4cd5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7be5c0cb-438a-4f45-a35b-d1e26ffb64d3",
         "8158656f-6a96-4b2d-982f-2f9537a0b294",
@@ -428,7 +430,7 @@
         "65e2200b-51d8-4b6e-ab9c-317c3e53c9fc",
         "ae51247c-5d00-4231-95d5-959b02b9e442"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8158656f-6a96-4b2d-982f-2f9537a0b294",
         "bb833a54-aa56-44c5-9c59-2af98894125f",
@@ -455,7 +457,7 @@
         "46111b71-e30d-4c47-a0d8-b1bf5f6c3c44",
         "0b8ddfa1-fde0-48e4-ba73-9cafea822899"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "69bbcdfa-d83f-4ff3-b936-debb56e56b57",
         "ad83b73c-4381-41c9-813e-cbe87cea0b4e",
@@ -468,6 +470,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
