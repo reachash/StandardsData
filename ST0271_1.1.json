@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/171",
   "versionNumber": "1.1",
   "change": "Funding band, standard and end-point assessment plan revised.",
-  "changedDate": "2023-06-09T00:00:00Z",
-  "earliestStartDate": "2021-05-21T00:00:00Z",
+  "changedDate": "2023-06-09T00:00:00",
+  "earliestStartDate": "2021-05-21T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Assembling and installing steelworks required to strengthen reinforced concrete structures.",
@@ -169,7 +169,6 @@
       "detail": "Complete post installation checks to ensure quality through compliance with specification outlined in drawings and/or digital models . Report and rectify problems as necessary"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -197,10 +196,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
   "reviewDetails": "",
-  "pathway": "Onsite Construction",
-  "cluster": "Metal and Steel Operative",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2021-05-21T15:52:22 +00:00",
   "lastUpdated": "2023-06-09T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/steel-fixer-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/steel-fixer-v1-1",
   "qualifications": [],
@@ -220,7 +222,7 @@
         "b1c34b10-3315-408c-a690-cb7d302b8874",
         "81523a1a-58ed-4589-98af-424cb1180e01"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "47188b10-7cb4-40f5-b225-bcc3a86ad705",
         "b87c64ac-3489-42e7-9a7e-eaacb2d938d0",
@@ -243,7 +245,7 @@
         "1c3803ca-2975-4271-9d07-387ca41f9446",
         "b39a9fb2-c4f8-409e-8a59-a916d5ac3cf0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "47188b10-7cb4-40f5-b225-bcc3a86ad705",
         "b87c64ac-3489-42e7-9a7e-eaacb2d938d0"
@@ -264,7 +266,7 @@
         "4c26cb74-efca-498b-bd97-bcc469d9f46a",
         "81523a1a-58ed-4589-98af-424cb1180e01"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "009490b9-dbdf-4b46-8793-188f35ba3fb5",
         "b87c64ac-3489-42e7-9a7e-eaacb2d938d0"
@@ -289,7 +291,7 @@
         "8499707c-b9b3-41bc-8848-91ecf922cadd",
         "b39a9fb2-c4f8-409e-8a59-a916d5ac3cf0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "47188b10-7cb4-40f5-b225-bcc3a86ad705"
       ],
@@ -308,7 +310,7 @@
         "b1c34b10-3315-408c-a690-cb7d302b8874",
         "bf03eb7f-2394-4480-856b-8999d51dd71b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "97d3ec3c-9bf1-431f-8922-b7d6d22f3f1b",
         "f966e093-4a00-4a2f-bb35-4368fcd18509"
@@ -328,7 +330,7 @@
         "1c3803ca-2975-4271-9d07-387ca41f9446",
         "3030fb8b-fbec-4d84-8c7e-ef0569da6b21"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "47188b10-7cb4-40f5-b225-bcc3a86ad705",
         "422633b5-b31e-4362-8ba5-01d22f114bfc"
@@ -353,7 +355,7 @@
         "ef4e2949-6735-4a2c-8889-7f76124b412f",
         "bf03eb7f-2394-4480-856b-8999d51dd71b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "97d3ec3c-9bf1-431f-8922-b7d6d22f3f1b",
         "f8c1b47d-2dc9-408e-bcd0-37a6853788c3",
@@ -374,7 +376,7 @@
         "d5d4adba-e216-421f-b655-37af10d79cd9",
         "1613d962-2f33-4f6a-80be-08a15398a159"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "97d3ec3c-9bf1-431f-8922-b7d6d22f3f1b",
         "f8c1b47d-2dc9-408e-bcd0-37a6853788c3",
@@ -398,7 +400,7 @@
         "81523a1a-58ed-4589-98af-424cb1180e01",
         "900d7256-6338-4d29-91a5-87e32e387f94"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "009490b9-dbdf-4b46-8793-188f35ba3fb5",
         "6b6505b8-4bd5-436c-9525-0ee1ab280400"
@@ -416,7 +418,7 @@
         "b3b03ed2-1afc-43d6-9956-d67ec92722bc",
         "900d7256-6338-4d29-91a5-87e32e387f94"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "68f88cb2-c8b7-48bf-a006-f58c7750dc09",
         "6b6505b8-4bd5-436c-9525-0ee1ab280400"
@@ -434,13 +436,14 @@
         "09b11ef6-de59-4f61-8e98-4302f2efc4be",
         "1c3803ca-2975-4271-9d07-387ca41f9446"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "47188b10-7cb4-40f5-b225-bcc3a86ad705"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
