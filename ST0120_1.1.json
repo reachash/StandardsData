@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/439",
   "versionNumber": "1.1",
   "change": "Standard, end-point assessment plan and funding revised",
-  "changedDate": "2022-08-26T00:00:00Z",
-  "earliestStartDate": "2022-08-01T00:00:00Z",
+  "changedDate": "2022-08-26T00:00:00",
+  "earliestStartDate": "2022-08-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Maximising the effective use of digital office technologies, productivity software and digital communications in organisations.",
@@ -257,16 +257,6 @@
       "detail": "provide and direct end-users to tools and resources to help them to resolve their digital problems."
     }
   ],
-  "options": [
-    {
-      "optionId": "92fb27d2-60a2-4e96-a1f9-fd29198d035f",
-      "title": "Digital Applications Technician (DAT) "
-    },
-    {
-      "optionId": "cf4214b3-203d-41d2-9293-3997e624cf39",
-      "title": "Digital Service Technician (DST) "
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Digital Applications Technician",
     "Digital Service Technician"
@@ -315,8 +305,11 @@
   "reviewDetails": "",
   "pathway": "Digital Support and Services",
   "cluster": "IT Support and Services Technician",
+  "clusterId": "187",
+  "clusterDescription": "Help internal and external customers to install and use IT technology along with trouble - shooting their problems. Skills are developed across IT security and data management",
   "createdDate": "2023-04-05T08:21:04 +00:00",
   "lastUpdated": "2022-08-26T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/digital-support-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/digital-support-technician-v1-1",
   "qualifications": [],
@@ -344,7 +337,7 @@
         "b819cd39-45e3-4fe9-bdde-0e755489ed24",
         "53853c46-73eb-43a5-a3e7-e1f4441c5cdd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e8983867-3bae-404f-8baf-6db31aff3e15",
         "db53529a-02c6-430c-a0d6-94fdf86ba64c"
@@ -362,7 +355,7 @@
       "mappedKnowledge": [
         "53853c46-73eb-43a5-a3e7-e1f4441c5cdd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7d308517-f201-49de-ba9d-0e9a271a3a93",
         "13343594-8e15-4e16-89c5-cf7a0d7f7649",
@@ -380,7 +373,7 @@
       "mappedKnowledge": [
         "8d49aa44-d091-44ea-a07f-89f5cfc2e970"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "87741164-9155-4363-b307-e9f06384ef92",
         "db53529a-02c6-430c-a0d6-94fdf86ba64c",
@@ -392,11 +385,11 @@
       "dutyID": "da8ea60f-f5f0-4c8b-acdf-e0c9c5b75b8c",
       "dutyDetail": "Undertake basic data analysis utilising appropriate digital technologies",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "2e278104-ac80-4d75-8267-d0108b77fc38"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7d308517-f201-49de-ba9d-0e9a271a3a93",
         "54d971f6-3813-4857-b8d5-f5b01f3a664d"
@@ -416,7 +409,7 @@
         "57117cc1-3dbb-4bec-9bd2-181ae4808517",
         "b261be55-50ea-4c62-8042-8464268788b9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "87741164-9155-4363-b307-e9f06384ef92",
         "c3dbbc77-edc7-4e39-98c0-fadce02ea607"
@@ -435,7 +428,7 @@
         "db426d57-043b-4e82-bb65-6dbdb49b4a2b",
         "84a323e0-69c1-41e9-81f6-cd61d30ae0c1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "13343594-8e15-4e16-89c5-cf7a0d7f7649"
       ],
@@ -448,8 +441,8 @@
       "mappedBehaviour": [
         "db5b8b0f-9630-4928-845b-a07062d0ded9"
       ],
-      "mappedKnowledge": null,
-      "mappedOptions": null,
+      "mappedKnowledge": [],
+      "mappedOptions": [],
       "mappedSkills": [
         "db53529a-02c6-430c-a0d6-94fdf86ba64c",
         "54d971f6-3813-4857-b8d5-f5b01f3a664d"
@@ -468,7 +461,7 @@
         "db426d57-043b-4e82-bb65-6dbdb49b4a2b",
         "5917d930-6586-447f-805d-4470f05fe8f1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e8983867-3bae-404f-8baf-6db31aff3e15",
         "ade8c60a-4a3b-4071-a668-974310c382e8"
@@ -479,13 +472,13 @@
       "dutyID": "b56f270e-ff91-4af2-8985-0f9736c81123",
       "dutyDetail": " Take responsibility for own continuous professional development (CPD) by keeping up to date with technological developments",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "b261be55-50ea-4c62-8042-8464268788b9",
         "bfc7fcfd-48b0-4f75-a3a0-0caa85ae7d4f",
         "ac6c932f-140c-41c4-ab4b-840278cc6f4e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "142a81b7-321a-4cf2-910e-eee726574fa1"
       ],
@@ -502,7 +495,7 @@
         "2e278104-ac80-4d75-8267-d0108b77fc38",
         "84a323e0-69c1-41e9-81f6-cd61d30ae0c1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "54d971f6-3813-4857-b8d5-f5b01f3a664d",
         "648d6165-dbad-41a6-8dc4-30bbb0b7e6b4",
@@ -676,6 +669,18 @@
         "227ec8a7-da18-41a0-a8bb-b9efc3bd93d5"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "92fb27d2-60a2-4e96-a1f9-fd29198d035f",
+      "title": "Digital Applications Technician (DAT) ",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "cf4214b3-203d-41d2-9293-3997e624cf39",
+      "title": "Digital Service Technician (DST) ",
+      "occupationCode": ""
     }
   ],
   "regulationDetail": [],
