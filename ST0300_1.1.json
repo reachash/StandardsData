@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/471",
   "versionNumber": "1.1",
   "change": "End-point assessment plan and funding band revised but remained the same",
-  "changedDate": "2023-08-16T00:00:00Z",
-  "earliestStartDate": "2023-08-16T00:00:00Z",
+  "changedDate": "2023-08-16T00:00:00",
+  "earliestStartDate": "2023-08-16T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Assisting the pharmacist in chemists and hospital dispensaries.",
@@ -294,7 +294,6 @@
       "detail": "Effectively supervise other members of the team"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -322,8 +321,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Healthcare Science",
   "cluster": "Pharmacy Science Assistant",
+  "clusterId": "273",
+  "clusterDescription": "Order, prepare and dispense medicines under direct supervision",
   "createdDate": "2023-08-31T12:45:26 +00:00",
   "lastUpdated": "2023-08-16T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/pharmacy-technician-integrated-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/pharmacy-technician-integrated-v1-1",
   "qualifications": [
@@ -350,7 +352,7 @@
         "392cf911-9c48-4437-9576-21d465b33a27",
         "84dc124b-6401-4136-ab06-2af7380dbaf0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d73b87c2-5a69-4d00-aac0-7bedbb7426bf",
         "b26d365a-4c82-47d5-b83e-94db8abb2b29",
@@ -374,7 +376,7 @@
         "9fe428f2-4695-4574-bafe-545f536a5190",
         "7fda49ef-798e-4d25-ab4a-32fad8523266"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ae9ee99e-7207-4167-9892-8122b54fdc50",
         "410cbeaa-393f-4e0e-b964-7d3067614587",
@@ -395,7 +397,7 @@
         "67afc10f-9e53-4d59-995c-cbdeee2cc4a4",
         "0dfb5c1c-84c1-4a77-95ac-be8bb04b2241"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0bf91429-bdae-4103-9217-93e32402ab49",
         "4f3d46c6-a21e-441c-80d8-78eb972be05d",
@@ -410,11 +412,11 @@
       "dutyID": "be9a725b-c63d-4009-8fac-4b43afaa23cb",
       "dutyDetail": "Provide training to pharmacy and the wider healthcare teams. e.g. for a new member of staff",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "9bb3d5ed-e334-4bd3-8ea2-1993d3b78da3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c9c37945-d27d-44cc-8310-0226bd43bca5"
       ],
@@ -433,7 +435,7 @@
         "3c147b9f-2a0a-42a2-b2ce-3c90683ef418",
         "ed82b8cf-bbdc-44c1-a10c-f83013558fbb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ad970d0a-fd1a-4e77-8a2f-52ac96dde267",
         "8c1a77d1-9834-4484-8638-0400bef302eb",
@@ -453,7 +455,7 @@
         "ea642c41-d504-4089-84e0-ef0d4363a868",
         "f391efaa-c8cf-4d01-a2ca-af8453f8ff5e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "babf2618-9ce2-49d2-a075-d6ebcb1f26bd",
         "434f2d05-df8d-4941-8bdc-6295d09334d6",
@@ -475,7 +477,7 @@
         "c5a15b2a-b9b6-4d77-9479-f33aba47c4b6",
         "54962448-71e2-4fc3-a2f4-a938aeb11433"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1d127faf-71ac-46f7-9513-08145a9aba3f",
         "be256969-4380-497c-b838-5cd9c85e61f0",
@@ -494,7 +496,7 @@
         "9d373121-362c-4faa-80e1-4ffd0018438d",
         "59e03ecb-e18c-4a2c-93fd-f3f8eaea5b54"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ea007eab-8fe0-40f2-9c52-24c90ce7dc50",
         "cd40aab3-2b6e-47a1-8fd7-34a2b3329390"
@@ -505,11 +507,11 @@
       "dutyID": "0dab15c2-8f32-44de-98fe-760f712a0e80",
       "dutyDetail": "Provide specialist services in response to local and national needs and initiatives.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "eec291e0-2567-4561-976c-a0622ed42d55"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aeafcf95-c291-4c6d-8c4e-06ee5b103772"
       ],
@@ -519,12 +521,12 @@
       "dutyID": "d854ffb3-4e7a-4e21-871a-3bdaa8d7c19d",
       "dutyDetail": "Respond appropriately to medical emergencies.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "25dc2a7e-1db1-48bd-b550-446fde4c755b",
         "9d754d16-9da6-44c6-ade9-26f56f36c4d5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2956464e-b6be-4189-b611-47465508cd2d",
         "2cec159f-b212-4934-8e2b-85f9f1588d03"
@@ -532,6 +534,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training provider ",
