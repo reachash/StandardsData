@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/592",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-02-15T00:00:00Z",
-  "earliestStartDate": "2020-08-24T00:00:00Z",
+  "changedDate": "2023-02-15T00:00:00",
+  "earliestStartDate": "2020-08-24T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Cut specified material components by hand or by machine using templates or measurements and then prepare the components for assembly.",
@@ -270,7 +270,6 @@
       "detail": "Enter information - written or electronic."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -306,8 +305,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing Operative",
+  "clusterId": "264",
+  "clusterDescription": "Routine assembly of manufactured products",
   "createdDate": "2020-04-09T14:00:27 +00:00",
   "lastUpdated": "2023-02-15T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/material-cutter-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/material-cutter-v1-0",
   "qualifications": [],
@@ -329,7 +331,7 @@
         "02c252b0-032a-4cdd-8ea0-b022231e2cb7",
         "20abefcf-a8c8-4c03-8296-a5391f096dc5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c0a16085-5580-44f9-989b-93b1c1ced5ae",
         "d5d4a37f-8afa-4fe8-bb3f-36187f67c962",
@@ -355,7 +357,7 @@
         "bc6be080-f101-4a4f-b222-7e87e76ea92d",
         "cc931a00-39b5-4acc-adf5-215780e4a14b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "871ecc96-6dcb-41ff-9c04-27bbb52b629b",
         "9b4a8399-35fe-48ad-b8f0-cf6fb8c08114"
@@ -382,7 +384,7 @@
         "b3ab3ac8-c123-40d1-a247-cd23dcb01e97",
         "fc20bc52-fa7a-4e62-b3d4-2c4ac72ba78c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "871ecc96-6dcb-41ff-9c04-27bbb52b629b",
         "a7ad6f81-8bbd-4cdf-a7af-ef4e7df965df",
@@ -402,7 +404,7 @@
       "mappedKnowledge": [
         "ea0b9c79-b18e-4bef-a976-d9bce07fc695"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "eeda4d9c-f2d3-444c-941c-0141b213aed3"
       ],
@@ -420,7 +422,7 @@
         "fc20bc52-fa7a-4e62-b3d4-2c4ac72ba78c",
         "53ca9111-8c49-45e6-9aaf-e620be2513ae"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "871ecc96-6dcb-41ff-9c04-27bbb52b629b",
         "55c41582-a8e7-4142-a487-33b4464ecb04",
@@ -446,7 +448,7 @@
         "6a62792b-07e3-4980-9e13-fe3ee125a369",
         "cc931a00-39b5-4acc-adf5-215780e4a14b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "55c41582-a8e7-4142-a487-33b4464ecb04",
         "a2a1693e-1773-4666-a5db-46e4446522f5",
@@ -474,7 +476,7 @@
         "7a66aabb-fb37-48a2-8f02-c49b5b6af893",
         "28b43305-36a5-4fef-bc10-16fceb294beb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bfbf77e3-41b9-4a50-8d67-29f5f6506b04",
         "6ee0f69a-add8-473c-97c5-e230ea013cb3",
@@ -499,7 +501,7 @@
         "6a62792b-07e3-4980-9e13-fe3ee125a369",
         "33cd4e0f-0f5f-4044-833b-21c0190dadb6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e814a7e1-9239-41ab-909e-dab8d63ec4ee"
       ],
@@ -519,7 +521,7 @@
         "7a66aabb-fb37-48a2-8f02-c49b5b6af893",
         "28b43305-36a5-4fef-bc10-16fceb294beb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "40fc49e3-7d4a-4631-a479-bd7eb10b2e59",
         "c7b7fb96-17d9-4c2e-8eae-ea4c84b5e70e"
@@ -541,7 +543,7 @@
         "c44f5181-2143-4efa-9734-6c2807872dd2",
         "f8e94791-5cfd-4dd7-a7df-8069cc18b496"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "78b56699-00df-4089-824f-15592867df03",
         "69ddbfa9-5e98-4977-b577-76ff8cc3ff12"
@@ -568,13 +570,14 @@
         "3caa78e0-d276-4c8c-8758-c8e43653d291",
         "8d7c7d51-6ce8-4bf9-9ae1-77e3f4e0429e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4b1da166-4335-426d-8061-4d2b8891f75f"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
