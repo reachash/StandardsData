@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/634",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-06-10T00:00:00Z",
-  "earliestStartDate": "2021-05-27T00:00:00Z",
+  "changedDate": "2021-06-10T00:00:00",
+  "earliestStartDate": "2021-05-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Provide intervention services early in identified cases.",
@@ -206,7 +206,6 @@
       "detail": "Use professional judgement to understand the complexities of a situation and make appropriate decisions."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -247,8 +246,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Care Services",
   "cluster": "Children, Young People and Families Manager",
+  "clusterId": "168",
+  "clusterDescription": "Achieve a positive and lasting change in the status of client's lives and seek to raise the effectiveness of the services provided through regular reviews assisted by supervision",
   "createdDate": "2021-06-10T09:10:18 +00:00",
   "lastUpdated": "2021-06-10T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/early-intervention-practitioner-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/early-intervention-practitioner-v1-0",
   "qualifications": [],
@@ -275,7 +277,7 @@
         "4d85094b-26c8-426d-ae96-efde0940cef6",
         "39ca6358-34c2-4b8a-83c0-6b999ae9da13"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a429cdfe-5878-463d-9176-ec81d8cf90b9",
         "167fa1c5-863d-48bf-8cda-7ba3a79e307f",
@@ -313,7 +315,7 @@
         "39ca6358-34c2-4b8a-83c0-6b999ae9da13",
         "8f1c9c1d-c171-440a-b4ea-ad4a85f04bd3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a429cdfe-5878-463d-9176-ec81d8cf90b9",
         "15ac7222-219a-49d3-9e54-f161ecb4035d",
@@ -355,7 +357,7 @@
         "39ca6358-34c2-4b8a-83c0-6b999ae9da13",
         "8f1c9c1d-c171-440a-b4ea-ad4a85f04bd3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e2d46c97-a6fb-4aef-9fa7-98a0b5e219ec",
         "a429cdfe-5878-463d-9176-ec81d8cf90b9",
@@ -401,7 +403,7 @@
         "39ca6358-34c2-4b8a-83c0-6b999ae9da13",
         "8f1c9c1d-c171-440a-b4ea-ad4a85f04bd3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e2d46c97-a6fb-4aef-9fa7-98a0b5e219ec",
         "a429cdfe-5878-463d-9176-ec81d8cf90b9",
@@ -443,7 +445,7 @@
         "4d85094b-26c8-426d-ae96-efde0940cef6",
         "8f1c9c1d-c171-440a-b4ea-ad4a85f04bd3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e2d46c97-a6fb-4aef-9fa7-98a0b5e219ec",
         "15ac7222-219a-49d3-9e54-f161ecb4035d",
@@ -490,7 +492,7 @@
         "39ca6358-34c2-4b8a-83c0-6b999ae9da13",
         "8f1c9c1d-c171-440a-b4ea-ad4a85f04bd3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e2d46c97-a6fb-4aef-9fa7-98a0b5e219ec",
         "a429cdfe-5878-463d-9176-ec81d8cf90b9",
@@ -540,7 +542,7 @@
         "39ca6358-34c2-4b8a-83c0-6b999ae9da13",
         "8f1c9c1d-c171-440a-b4ea-ad4a85f04bd3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a429cdfe-5878-463d-9176-ec81d8cf90b9",
         "15ac7222-219a-49d3-9e54-f161ecb4035d",
@@ -581,7 +583,7 @@
         "39ca6358-34c2-4b8a-83c0-6b999ae9da13",
         "8f1c9c1d-c171-440a-b4ea-ad4a85f04bd3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a429cdfe-5878-463d-9176-ec81d8cf90b9",
         "dc1cebaa-78c0-4906-a299-0ab5c488614f",
@@ -618,7 +620,7 @@
         "39ca6358-34c2-4b8a-83c0-6b999ae9da13",
         "8f1c9c1d-c171-440a-b4ea-ad4a85f04bd3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e2d46c97-a6fb-4aef-9fa7-98a0b5e219ec",
         "a429cdfe-5878-463d-9176-ec81d8cf90b9",
@@ -664,7 +666,7 @@
         "39ca6358-34c2-4b8a-83c0-6b999ae9da13",
         "8f1c9c1d-c171-440a-b4ea-ad4a85f04bd3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e2d46c97-a6fb-4aef-9fa7-98a0b5e219ec",
         "a429cdfe-5878-463d-9176-ec81d8cf90b9",
@@ -715,7 +717,7 @@
         "39ca6358-34c2-4b8a-83c0-6b999ae9da13",
         "8f1c9c1d-c171-440a-b4ea-ad4a85f04bd3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e2d46c97-a6fb-4aef-9fa7-98a0b5e219ec",
         "a429cdfe-5878-463d-9176-ec81d8cf90b9",
@@ -736,6 +738,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
