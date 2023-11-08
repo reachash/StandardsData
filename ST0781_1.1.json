@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/409",
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised. Funding band revision published 19 August 2021.",
-  "changedDate": "2022-02-21T00:00:00Z",
-  "earliestStartDate": "2021-02-19T00:00:00Z",
+  "changedDate": "2022-02-21T00:00:00",
+  "earliestStartDate": "2021-02-19T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Giving care, advice and support to sick, injured or disabled people.",
@@ -521,7 +521,6 @@
       "detail": "Use a range of digital technologies to access, input, share and apply information and data within teams and between agencies."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -554,8 +553,11 @@
   "reviewDetails": "&lt;p&gt;This standard will be reviewed after three years.&lt;/p&gt;",
   "pathway": "Health",
   "cluster": "Midwifery and Nursing Professional",
+  "clusterId": "211",
+  "clusterDescription": "Assess, plan, implement and evaluate patient care in multiple settings with specialist expertise often working independently",
   "createdDate": "2023-09-05T08:44:00 +00:00",
   "lastUpdated": "2022-02-21T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/registered-nurse-degree-nmc-2018-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/registered-nurse-degree-nmc-2018-v1-1",
   "qualifications": [
@@ -597,7 +599,7 @@
         "dba5fa11-dc2f-449f-a397-6d48d5e10c2a",
         "3e8056de-eb09-4ac8-97cb-51d3e45abced"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "61f125d7-ada5-4f66-86a4-22c33c989e11",
         "409f0e46-f26e-40f1-b116-03280f27d39a",
@@ -622,7 +624,7 @@
         "724d8c53-ecf3-4c37-8b4c-ca8e5a7d633c",
         "fba8e974-5b7e-4840-935c-2a94d6dd088f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d41c91d2-435b-4f67-9c66-fe2e4b31a7f9",
         "0dbb7682-bd5b-4fd7-ae25-6a6aeea0a991",
@@ -650,7 +652,7 @@
         "83088ac0-bca7-4eed-883e-1cdab419e8f8",
         "00fe90cb-f5bb-4b74-9306-a1d24ef93eef"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2cb613ea-9ae8-47bb-b3c0-52dc31611327",
         "6b7a0635-a059-46c8-a88b-7dc549e0eab2",
@@ -682,7 +684,7 @@
         "fbb6ec43-0061-4df5-bde0-45197973a740",
         "b571a001-d440-41b2-8556-373936280d8c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "95c5f6a4-1ed5-49d9-99b3-80e861d3d962",
         "4c257e7c-6e08-486f-bd05-21110b72a75e",
@@ -719,7 +721,7 @@
         "37d7bb7a-8f59-4727-9990-22dcae126fce",
         "5828e792-89e4-4098-9945-bde2d2e5b6d8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "df10ed70-ca02-42c3-85fb-de74e41f89dd",
         "0a413cca-382a-4b45-a19e-b39a1ad43647",
@@ -752,7 +754,7 @@
         "59096a4c-f505-46df-803f-22bf3ac0abc0",
         "fc31d6f6-2dce-45f3-b359-595fd352bc3a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a8381c94-f237-4e60-9655-c239a97792a9",
         "79329201-fce5-45dc-a10a-42801506fac1",
@@ -775,7 +777,7 @@
         "0adbdac1-585d-47a0-adf4-ab68a1de25fb",
         "2b2cdb81-18a6-4f18-988d-ab55f9076152"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6d54153f-2797-45a1-ba3d-81200c97c3d1",
         "ef5d44d5-65a9-4e4c-a3e9-1970825b5643",
@@ -805,7 +807,7 @@
         "6e79037a-ac44-4b59-a4f4-c6ebf61521c8",
         "a5cf542e-69f0-4b71-81f9-f2a486dc85d9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "40790c2a-86b2-43ab-9af8-addcc08d7f8d",
         "8cf61eaf-a2ae-4d8d-9b93-4a485ba47924",
@@ -826,7 +828,7 @@
         "2823894b-5702-4374-9848-9c091c20e602",
         "732f193d-80cd-4d61-9792-ccb85162ac29"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "41d18b1c-7e4f-495c-a434-9d95cf267c4b",
         "d43e283c-563b-48e8-b72d-6b2e0ea0143c",
@@ -850,7 +852,7 @@
         "b838a3ae-7bea-4365-a2de-1108edaaf34a",
         "24e579fe-5506-419d-9be0-8b1e82e1199c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "50affeb7-7414-4ed7-a607-7beef01978ea",
         "bc1acb8c-3335-48b0-a372-75e5dd7ef990",
@@ -860,6 +862,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training Provider",
