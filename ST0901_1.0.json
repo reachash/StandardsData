@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/629",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-06-03T00:00:00Z",
-  "earliestStartDate": "2021-05-27T00:00:00Z",
+  "changedDate": "2021-06-03T00:00:00",
+  "earliestStartDate": "2021-05-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Liaise with the director and director of photography from the earliest stages of a production, working with clients and colleagues to create VFX/CG elements.",
@@ -276,7 +276,6 @@
       "detail": "Apply influencing and persuading skills to personal interactions with stakeholders"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -310,8 +309,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media, Broadcast and Production Professional",
+  "clusterId": "29",
+  "clusterDescription": "Leadership, management, and the application technology of resources to create, produce and deliver broadcast content and artistic productions, often requiring specialist expertise",
   "createdDate": "2020-06-30T10:52:58 +00:00",
   "lastUpdated": "2021-06-03T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/vfx-supervisor-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/vfx-supervisor-v1-0",
   "qualifications": [],
@@ -333,7 +335,7 @@
         "3a5a8daf-a672-4dcb-a78d-97ea9373f9ca",
         "ba6453f5-0826-4c22-86d2-2c027240b741"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "39521c51-c5a0-4fc0-a4af-30ea5733a79f",
         "eb160208-d4bf-4613-b054-0fdd0f13bf0e",
@@ -356,7 +358,7 @@
         "6a66c00e-a362-4cbd-afca-c7c69f74a1ad",
         "f3c4abab-d0ac-49ae-828c-acd35166940e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bea0cdbd-022e-4348-8f57-5fa6b3e6f80e",
         "e87b5981-0c8c-431a-bf46-d4d92145729a",
@@ -383,7 +385,7 @@
         "8f8a7cd9-14dd-444a-aa15-5622a9cacfbe",
         "f877b4a4-e248-4fb5-8747-a7516df9169a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "453bf432-2463-4b33-9bb8-cb9c20ebaa5d",
         "3c3cb7ae-d573-4a11-83a0-dacdbce573f6",
@@ -407,7 +409,7 @@
         "3df8357f-3b26-4451-a9d6-b204b9f3b035",
         "9c504c94-e510-4e56-9e3e-714cd35bfd0c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b4f8797b-937f-4b2f-96b3-cd81f18fff05",
         "3f8fce14-6466-4383-aee6-ba0bc9f42b63",
@@ -430,7 +432,7 @@
         "9753497c-5faf-4660-b45a-89a49fe1b5e2",
         "bf628f29-ede2-450d-af18-bcf713e31b3d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "eb160208-d4bf-4613-b054-0fdd0f13bf0e",
         "f70bef48-9611-4586-8598-b539ddfa57a7",
@@ -460,7 +462,7 @@
         "c949ce96-a3b8-4381-a969-2cc22dedb146",
         "45f11c45-6d0f-4dc6-883c-f4962564c508"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bea0cdbd-022e-4348-8f57-5fa6b3e6f80e",
         "3c3cb7ae-d573-4a11-83a0-dacdbce573f6",
@@ -483,7 +485,7 @@
         "cab55bed-0a42-47dc-858e-2fba545a63b4",
         "5e911ed7-3dfd-4b08-ad6a-7af509928918"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "eb160208-d4bf-4613-b054-0fdd0f13bf0e",
         "b4f8797b-937f-4b2f-96b3-cd81f18fff05",
@@ -505,7 +507,7 @@
         "c949ce96-a3b8-4381-a969-2cc22dedb146",
         "45f11c45-6d0f-4dc6-883c-f4962564c508"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2be29bce-de42-4633-83e1-6f5febd6cc3b",
         "0574d4cf-0d96-4b4e-85da-ab4788b89109",
@@ -530,7 +532,7 @@
         "5e911ed7-3dfd-4b08-ad6a-7af509928918",
         "45f11c45-6d0f-4dc6-883c-f4962564c508"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b283a350-660e-44dd-818d-7a7d0d15b313",
         "b834f53a-608a-4c0a-b136-d40ae6e0e39f",
@@ -554,7 +556,7 @@
         "5e911ed7-3dfd-4b08-ad6a-7af509928918",
         "45f11c45-6d0f-4dc6-883c-f4962564c508"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1d25f76a-d479-4238-b9de-a760a6aec39d",
         "453bf432-2463-4b33-9bb8-cb9c20ebaa5d",
@@ -580,7 +582,7 @@
         "9753497c-5faf-4660-b45a-89a49fe1b5e2",
         "3df8357f-3b26-4451-a9d6-b204b9f3b035"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1d25f76a-d479-4238-b9de-a760a6aec39d",
         "ce6eb3f0-a6b2-4184-afaf-ce3626d3d433",
@@ -590,6 +592,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
