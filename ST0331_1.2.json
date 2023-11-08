@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/50",
   "versionNumber": "1.2",
   "change": "Standard and End-point assessment plan revised",
-  "changedDate": "2022-07-26T00:00:00Z",
-  "earliestStartDate": "2020-05-27T00:00:00Z",
+  "changedDate": "2022-07-26T00:00:00",
+  "earliestStartDate": "2020-05-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing professional advice and recommendations to clients on land, property or construction.",
@@ -200,20 +200,6 @@
       "detail": "Inspection and measurement – Undertake inspections of land and property and prepare related reports and advice.  Use appropriate instrumentation to take measurements of land and property. Apply the appropriate guidance and use the appropriate basis to undertake measurements. Prepare and present measurements in an appropriate manner."
     }
   ],
-  "options": [
-    {
-      "optionId": "bdc905c2-1dbb-4d60-a9a5-0eaa72e7accb",
-      "title": "Building Surveying"
-    },
-    {
-      "optionId": "d41c0c85-2fd2-4907-b517-6704e098207c",
-      "title": "Property"
-    },
-    {
-      "optionId": "3bf486c1-e673-4c2b-8fd4-6a4bb9dd0803",
-      "title": "Quantity Surveying & Project Management"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -251,10 +237,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Design, Surveying & Planning",
-  "cluster": "Design & Surveying Professional",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2020-05-27T13:49:31 +00:00",
   "lastUpdated": "2022-07-26T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/chartered-surveyor-degree-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/chartered-surveyor-degree-v1-2",
   "qualifications": [
@@ -284,7 +273,7 @@
         "57c9335d-bdbd-4fc2-b294-7880c27a560b",
         "289e2f75-f891-450f-8f5b-c8eb14c1c408"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "346086ba-b16e-4be3-a17b-4d67e5dac211",
         "1237f76a-18a2-4cb3-a753-c194b3b10cc7"
@@ -307,7 +296,7 @@
         "57c9335d-bdbd-4fc2-b294-7880c27a560b",
         "289e2f75-f891-450f-8f5b-c8eb14c1c408"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "346086ba-b16e-4be3-a17b-4d67e5dac211",
         "1237f76a-18a2-4cb3-a753-c194b3b10cc7"
@@ -331,7 +320,7 @@
         "57c9335d-bdbd-4fc2-b294-7880c27a560b",
         "289e2f75-f891-450f-8f5b-c8eb14c1c408"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "346086ba-b16e-4be3-a17b-4d67e5dac211",
         "69c98d03-da9c-4ecd-8abc-6a051430f5fc",
@@ -359,7 +348,7 @@
         "57c9335d-bdbd-4fc2-b294-7880c27a560b",
         "289e2f75-f891-450f-8f5b-c8eb14c1c408"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "346086ba-b16e-4be3-a17b-4d67e5dac211",
         "69c98d03-da9c-4ecd-8abc-6a051430f5fc",
@@ -384,7 +373,7 @@
         "57c9335d-bdbd-4fc2-b294-7880c27a560b",
         "289e2f75-f891-450f-8f5b-c8eb14c1c408"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "346086ba-b16e-4be3-a17b-4d67e5dac211",
         "f7198487-2fc8-4938-8365-166097ada4e6",
@@ -410,7 +399,7 @@
         "57c9335d-bdbd-4fc2-b294-7880c27a560b",
         "289e2f75-f891-450f-8f5b-c8eb14c1c408"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "346086ba-b16e-4be3-a17b-4d67e5dac211",
         "ab74d99c-e6a8-4525-a769-238f036b6963",
@@ -438,7 +427,7 @@
         "57c9335d-bdbd-4fc2-b294-7880c27a560b",
         "289e2f75-f891-450f-8f5b-c8eb14c1c408"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "346086ba-b16e-4be3-a17b-4d67e5dac211",
         "ab74d99c-e6a8-4525-a769-238f036b6963",
@@ -469,7 +458,7 @@
         "57c9335d-bdbd-4fc2-b294-7880c27a560b",
         "289e2f75-f891-450f-8f5b-c8eb14c1c408"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "346086ba-b16e-4be3-a17b-4d67e5dac211",
         "ab74d99c-e6a8-4525-a769-238f036b6963",
@@ -676,6 +665,23 @@
         "1d5a214f-adad-4809-aeec-6280f78446c6"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "bdc905c2-1dbb-4d60-a9a5-0eaa72e7accb",
+      "title": "Building Surveying",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "d41c0c85-2fd2-4907-b517-6704e098207c",
+      "title": "Property",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "3bf486c1-e673-4c2b-8fd4-6a4bb9dd0803",
+      "title": "Quantity Surveying & Project Management",
+      "occupationCode": ""
     }
   ],
   "regulationDetail": [],
