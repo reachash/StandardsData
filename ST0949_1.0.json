@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/663",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-11-19T00:00:00Z",
-  "earliestStartDate": "2021-11-12T00:00:00Z",
+  "changedDate": "2021-11-19T00:00:00",
+  "earliestStartDate": "2021-11-12T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Provide tactical advice, training and support on core technology applications.",
@@ -204,7 +204,6 @@
       "detail": "communicate applications support information by ensuring continuity of user understanding through use of training notes, user guides and other collateral sources"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -235,8 +234,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Digital Support and Services",
   "cluster": "IT Systems Technician",
+  "clusterId": "188",
+  "clusterDescription": "Co-ordinate systems development tasks including the design, integration and formal testing, oversees transition into production",
   "createdDate": "2021-08-20T12:14:01 +00:00",
   "lastUpdated": "2021-11-19T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/applications-support-lead-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/applications-support-lead-v1-0",
   "qualifications": [],
@@ -259,7 +261,7 @@
       "mappedKnowledge": [
         "a34f9b75-a535-4f46-b62d-d6fec11252c1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "09e165a7-1836-4ae0-b945-9ae13be4648f",
         "8d143d73-091a-488e-a6b2-f020c9bf6cae"
@@ -270,11 +272,11 @@
       "dutyID": "30b4f85b-4a1b-4a37-a3a8-85363c24a86e",
       "dutyDetail": "Document and implement policy and procedures, for example on-boarding and leaver policies, and remote working procedures using a support desk operating platform",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0c2bb1cb-cdc6-4283-9eb4-4ea615924876"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "367d12ba-77de-4a56-8fc1-1295464947c3"
       ],
@@ -291,7 +293,7 @@
       "mappedKnowledge": [
         "0c2bb1cb-cdc6-4283-9eb4-4ea615924876"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "59970e13-8370-46f3-8003-93ba4073fd65"
       ],
@@ -307,7 +309,7 @@
       "mappedKnowledge": [
         "17d58569-6677-4859-b25d-77616e251512"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "15550cce-70cb-49b7-a060-7782ab72339b"
       ],
@@ -325,7 +327,7 @@
         "8f8f1b7c-f96f-4885-b048-916c14079f3a",
         "496e32ee-2204-4e46-bee1-85bb371c1b65"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "54784710-5995-4fe0-98cb-de92a40a7584",
         "ed32476e-fb24-495d-b2da-9664fbcd38a7"
@@ -342,7 +344,7 @@
       "mappedKnowledge": [
         "5725e825-6b25-4631-85b1-0e41a5b2a857"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "09e165a7-1836-4ae0-b945-9ae13be4648f"
       ],
@@ -359,7 +361,7 @@
         "0bddc5a8-3b11-4c57-814e-3d474b65528f",
         "e330c0b5-4b9e-4e52-90dd-fd900d957b81"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5f439cbe-9ebb-4bfc-b8c5-11650c05646b",
         "15550cce-70cb-49b7-a060-7782ab72339b"
@@ -376,7 +378,7 @@
       "mappedKnowledge": [
         "5725e825-6b25-4631-85b1-0e41a5b2a857"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "09e165a7-1836-4ae0-b945-9ae13be4648f"
       ],
@@ -393,7 +395,7 @@
       "mappedKnowledge": [
         "5725e825-6b25-4631-85b1-0e41a5b2a857"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "367d12ba-77de-4a56-8fc1-1295464947c3"
       ],
@@ -403,11 +405,11 @@
       "dutyID": "4023dc2e-358e-47c4-a9dc-606781fe9b48",
       "dutyDetail": "Ensure that all requests for application support are dealt with according to agreed framework and procedures, recommending and implementing support team improvements  where necessary.  ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "3baee3cb-f3e1-4acf-b8e4-bf2c43f7d174"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2e2d52ac-099e-48dd-8032-468ef0522e92"
       ],
@@ -424,7 +426,7 @@
       "mappedKnowledge": [
         "6d18f6cd-4eae-47fe-bdf2-74c6d5cf6938"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3b464591-93b5-4702-ab24-ab63e704280a"
       ],
@@ -434,11 +436,11 @@
       "dutyID": "4fe2982e-1cb0-444f-9b1e-2c9b1175772e",
       "dutyDetail": "Identify how services will be delivered to clients/customers including use of technology, process and individual delivery responsibilities, working as part of the external client delivery team (with direct influence over the chosen solution) alongside commercial colleagues",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "17d58569-6677-4859-b25d-77616e251512"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "367d12ba-77de-4a56-8fc1-1295464947c3",
         "3b464591-93b5-4702-ab24-ab63e704280a"
@@ -449,11 +451,11 @@
       "dutyID": "9531f9d1-5f46-4850-80f5-859540fb8ef3",
       "dutyDetail": "Liaise with internal compliance and, in some instances, regulators to provide data to such regulators in accordance with the employer organisation’s compliance obligations",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "53288c34-3358-42c4-9ac4-c2ca78ea435f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "84c0a1fe-a7d4-4bf7-acf4-5acd3ed6755b"
       ],
@@ -469,7 +471,7 @@
       "mappedKnowledge": [
         "1738a349-a402-42d0-98d2-ae7ac2604afa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "84c0a1fe-a7d4-4bf7-acf4-5acd3ed6755b"
       ],
@@ -485,7 +487,7 @@
       "mappedKnowledge": [
         "700d45b8-6e13-4cb9-873c-b9df92a04d0d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bafe9bbc-90f8-4045-bcab-8b59dd88a07d"
       ],
@@ -495,11 +497,11 @@
       "dutyID": "8a0b5edf-33ac-4efc-be36-2f17994114cd",
       "dutyDetail": "Lead and manage the physical implementation of software (including updates/upgrades) and hardware relating to IT infrastructure (including routine back up processes of data) and application change projects directly with colleagues",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "e901ccac-86ae-4453-b0cb-73c02c1394c6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c2dca3f5-a23e-49d8-af4d-7eb6a8da2150"
       ],
@@ -516,7 +518,7 @@
         "654c3d17-fb15-4ed2-8c91-dbefd3240fbd",
         "22ab5328-4a70-4fc0-8470-c488abc1c241"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "59970e13-8370-46f3-8003-93ba4073fd65"
       ],
@@ -532,7 +534,7 @@
       "mappedKnowledge": [
         "933d913a-0ba8-48de-8cd1-e56dddbcb562"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "367d12ba-77de-4a56-8fc1-1295464947c3",
         "3b464591-93b5-4702-ab24-ab63e704280a"
@@ -543,12 +545,12 @@
       "dutyID": "a636950b-021f-401c-a0fe-fc69c4c4b7d7",
       "dutyDetail": "Build, implement and support the creation of remote working environments and collaborative working platforms for colleagues and external clients and customers",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "b7f0d197-dc74-4286-ac5b-554e93638485",
         "121b9b6c-88de-48b9-80d2-aa286ab66ed2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cbc3a256-d453-447d-a98a-f631e6eed073"
       ],
@@ -564,11 +566,12 @@
       "mappedKnowledge": [
         "6e96e431-2c40-4a2c-92b5-b6d0523d3831"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
