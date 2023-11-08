@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/720",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-08-30T00:00:00Z",
-  "earliestStartDate": "2023-08-29T00:00:00Z",
+  "changedDate": "2023-08-30T00:00:00",
+  "earliestStartDate": "2023-08-29T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Provide robust research and analysis that forms the foundation for social policy development, implementation, and evaluation, impacting important decisions that seek to ensure the best possible investment of public money and outcomes for members of society.",
@@ -235,7 +235,6 @@
       "detail": "Use software to clean, manage, manipulate, and analyse qualitative and quantitative research data and identify solutions to research questions."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -269,8 +268,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Management and Administration",
   "cluster": "Management Professional",
+  "clusterId": "68",
+  "clusterDescription": "Leader of a business process and/or unit requiring the ability to analyse and improve complex business-wide processes and risks. Also includes the ability to provide a full range of company legal and financial knowledge relevant to running a company",
   "createdDate": "2023-08-30T08:45:59 +00:00",
   "lastUpdated": "2023-08-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/social-researcher-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/social-researcher-v1-0",
   "qualifications": [
@@ -319,7 +321,7 @@
         "214e3b0d-712b-4083-b482-0accb26fb39a",
         "c2deba94-96bf-41dd-887e-32c39ebff976"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "267256c2-f2b6-4ca0-bd65-a5b2f91c999e",
         "670a295e-172e-4e0b-b236-471f291fcaea",
@@ -365,7 +367,7 @@
         "c2deba94-96bf-41dd-887e-32c39ebff976",
         "b7d22f7e-b294-4894-bd2b-5a17bd64b8f2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "267256c2-f2b6-4ca0-bd65-a5b2f91c999e",
         "670a295e-172e-4e0b-b236-471f291fcaea",
@@ -402,7 +404,7 @@
         "c2deba94-96bf-41dd-887e-32c39ebff976",
         "7c8e793f-e22d-440c-bfd5-30c1182aa087"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "267256c2-f2b6-4ca0-bd65-a5b2f91c999e",
         "670a295e-172e-4e0b-b236-471f291fcaea",
@@ -437,7 +439,7 @@
         "6c5ec82b-9a77-44da-bf6d-628b9d55b1e3",
         "b7d22f7e-b294-4894-bd2b-5a17bd64b8f2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "267256c2-f2b6-4ca0-bd65-a5b2f91c999e",
         "915f9c7e-e5d4-4203-9891-4e812dc872de",
@@ -476,7 +478,7 @@
         "214e3b0d-712b-4083-b482-0accb26fb39a",
         "b7d22f7e-b294-4894-bd2b-5a17bd64b8f2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "267256c2-f2b6-4ca0-bd65-a5b2f91c999e",
         "e7d8f21e-cef8-4570-b248-3baffe646eac",
@@ -520,7 +522,7 @@
         "7c8e793f-e22d-440c-bfd5-30c1182aa087",
         "48639de9-0d40-4e79-b5c5-0e0c7bc38ddb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "267256c2-f2b6-4ca0-bd65-a5b2f91c999e",
         "670a295e-172e-4e0b-b236-471f291fcaea",
@@ -560,7 +562,7 @@
         "214e3b0d-712b-4083-b482-0accb26fb39a",
         "7c8e793f-e22d-440c-bfd5-30c1182aa087"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "915f9c7e-e5d4-4203-9891-4e812dc872de",
         "5997cbe3-e6e1-4512-b717-38d769d3398a",
@@ -598,7 +600,7 @@
         "48639de9-0d40-4e79-b5c5-0e0c7bc38ddb",
         "b7d22f7e-b294-4894-bd2b-5a17bd64b8f2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "267256c2-f2b6-4ca0-bd65-a5b2f91c999e",
         "670a295e-172e-4e0b-b236-471f291fcaea",
@@ -644,7 +646,7 @@
         "48639de9-0d40-4e79-b5c5-0e0c7bc38ddb",
         "b7d22f7e-b294-4894-bd2b-5a17bd64b8f2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "267256c2-f2b6-4ca0-bd65-a5b2f91c999e",
         "670a295e-172e-4e0b-b236-471f291fcaea",
@@ -685,7 +687,7 @@
         "48639de9-0d40-4e79-b5c5-0e0c7bc38ddb",
         "b7d22f7e-b294-4894-bd2b-5a17bd64b8f2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7d8f21e-cef8-4570-b248-3baffe646eac",
         "22af642b-7e3f-42d1-ba95-3e777d57dd93",
@@ -719,7 +721,7 @@
         "7c8e793f-e22d-440c-bfd5-30c1182aa087",
         "48639de9-0d40-4e79-b5c5-0e0c7bc38ddb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "670a295e-172e-4e0b-b236-471f291fcaea",
         "e7d8f21e-cef8-4570-b248-3baffe646eac",
@@ -752,7 +754,7 @@
         "81acb5c8-60bf-4084-ab70-2415b3d2b87a",
         "6c5ec82b-9a77-44da-bf6d-628b9d55b1e3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "915f9c7e-e5d4-4203-9891-4e812dc872de",
         "22af642b-7e3f-42d1-ba95-3e777d57dd93",
@@ -782,7 +784,7 @@
         "6c5ec82b-9a77-44da-bf6d-628b9d55b1e3",
         "b7d22f7e-b294-4894-bd2b-5a17bd64b8f2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9a7b8474-ea84-432f-af86-ab1b8382194f",
         "22af642b-7e3f-42d1-ba95-3e777d57dd93",
@@ -792,6 +794,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
