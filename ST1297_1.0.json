@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/721",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-08-30T00:00:00Z",
-  "earliestStartDate": "2023-08-29T00:00:00Z",
+  "changedDate": "2023-08-30T00:00:00",
+  "earliestStartDate": "2023-08-29T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "To prepare, build, set up, and operate functioning systems for creative productions.",
@@ -22,7 +22,8 @@
     "technician",
     "venue",
     "Live Event Technician",
-    "Creative Venue Technician"
+    "Creative Venue Technician",
+    "theatre"
   ],
   "jobRoles": [
     "Creative venue technician",
@@ -378,20 +379,6 @@
       "detail": "Identify the dangers and restrictions in the use of battery supplies including charging and mitigate for these."
     }
   ],
-  "options": [
-    {
-      "optionId": "24b57b53-b13f-4a71-873f-2cef55ea35d9",
-      "title": "Creative Venue Technician (CVT)"
-    },
-    {
-      "optionId": "8d283fce-d46b-4dfd-be8c-6006893c78c5",
-      "title": "Live Event Technician (LET)"
-    },
-    {
-      "optionId": "dbaaf268-644d-4a4c-acaa-344dd69063b3",
-      "title": "Screen Lighting Technician (SLT)"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -435,8 +422,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Production Arts Assistant",
+  "clusterId": "60",
+  "clusterDescription": "Work from event/staging designs to create impactful and safe staging and lighting solutions along with props and costume support",
   "createdDate": "2023-08-30T09:58:22 +00:00",
   "lastUpdated": "2023-08-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/creative-industries-production-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/creative-industries-production-technician-v1-0",
   "qualifications": [],
@@ -454,7 +444,7 @@
         "d2e5a000-e2a7-4b53-89ab-35e3aaff42dd",
         "b171330d-ca0c-4240-9caa-90fe83f89b35"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1ffd8663-e7c4-4e82-8ff4-a883ef9cb804",
         "17d1d0f2-944d-41b2-bac9-a02ffcbcc312",
@@ -482,7 +472,7 @@
         "5cb65635-775e-495e-9d23-7a91ffdf93d3",
         "b171330d-ca0c-4240-9caa-90fe83f89b35"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c97c3824-a047-4969-bcf1-ab649c50bccd",
         "3f2647fc-fc42-48fd-8ca8-c6fcf3b9ef2e"
@@ -505,7 +495,7 @@
         "6ace233b-ea4f-4da9-a7d8-32bb14cd85c2",
         "1dbf12bf-2630-443b-b6d3-bf6c507eb343"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3cbdd756-a98e-4e29-83fd-b954cdc4dea5",
         "0332cf1b-0479-4fdf-974c-e074785c8b85",
@@ -527,7 +517,7 @@
         "1c7ccdf0-9e48-4123-a8d5-a7482f402b54",
         "7f16f9f0-4802-4e38-80c4-072576bdf664"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "531af611-2e6f-4b32-a2f9-0be746a73b28",
         "a1974273-bf92-4b1f-880c-65bb9c752c1e",
@@ -552,7 +542,7 @@
         "ed3ddcbc-f0c2-4d9f-9c70-93c820a71d68",
         "5cb65635-775e-495e-9d23-7a91ffdf93d3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "94fa31a1-1387-45e1-be8a-90a4054fc611",
         "c98c518a-baaf-4ef0-844c-5bfbb1d4434f",
@@ -574,7 +564,7 @@
         "ed3ddcbc-f0c2-4d9f-9c70-93c820a71d68",
         "5cb65635-775e-495e-9d23-7a91ffdf93d3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c98c518a-baaf-4ef0-844c-5bfbb1d4434f",
         "b5051b03-06ca-4a3b-a9f1-2fa9e90b35bf"
@@ -595,7 +585,7 @@
         "881564cb-a5d8-4eb3-8cb8-858a78ce686a",
         "5cb65635-775e-495e-9d23-7a91ffdf93d3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e2772a87-7007-4957-9811-7041e2e21fbf"
       ],
@@ -704,7 +694,7 @@
         "510bdb44-7466-448f-8c6e-132602772564",
         "50e0010c-4f17-4225-b5c0-42c1353a60b1"
       ],
-      "mappedKnowledge": null,
+      "mappedKnowledge": [],
       "mappedOptions": [
         "24b57b53-b13f-4a71-873f-2cef55ea35d9"
       ],
@@ -744,12 +734,12 @@
       "dutyID": "88ad4f7f-a8a1-443e-9018-3f12aee76e18",
       "dutyDetail": "Carry out live scene changes and operate stage and suspension systems.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
-      "mappedKnowledge": null,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
       "mappedOptions": [
         "24b57b53-b13f-4a71-873f-2cef55ea35d9"
       ],
-      "mappedSkills": null,
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -782,7 +772,7 @@
       "dutyID": "a79f9e94-4bee-4df2-a4dc-1819e0f58f03",
       "dutyDetail": "Transport, prepare and operate lighting systems to include, LED, Discharge and Tungsten fixtures.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "7c6e49dc-5302-4a36-a51e-af85996624e4",
         "f7ed6424-1c16-4226-a5e2-a0383c590cb7"
@@ -800,7 +790,7 @@
       "dutyID": "d0574d3b-c33d-4dcb-99d7-d7cc1eefef55",
       "dutyDetail": "Prepare battery and power solutions to run lighting equipment and systems.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "7c6e49dc-5302-4a36-a51e-af85996624e4",
         "3dd507ce-9fba-4c30-9e71-d450de833286",
@@ -821,7 +811,7 @@
       "dutyID": "87f0805a-183b-4b32-915c-f684000b5f51",
       "dutyDetail": "Install lighting equipment using accessories and mounting equipment.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "bafe45ae-3da6-4c7f-abdd-11c52e44d149",
         "7c6e49dc-5302-4a36-a51e-af85996624e4",
@@ -840,7 +830,7 @@
       "dutyID": "264a0a84-6ccd-404b-8235-640e0e96d26e",
       "dutyDetail": "Provide lighting to meet the desired effect for productions.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "a3217b86-6fa4-4f55-aa8d-1049423066d8",
         "f7ed6424-1c16-4226-a5e2-a0383c590cb7",
@@ -855,6 +845,23 @@
         "18d58d25-61fe-455e-9c7c-a0ea1b65e296"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "24b57b53-b13f-4a71-873f-2cef55ea35d9",
+      "title": "Creative Venue Technician (CVT)",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "8d283fce-d46b-4dfd-be8c-6006893c78c5",
+      "title": "Live Event Technician (LET)",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "dbaaf268-644d-4a4c-acaa-344dd69063b3",
+      "title": "Screen Lighting Technician (SLT)",
+      "occupationCode": ""
     }
   ],
   "regulationDetail": [],
