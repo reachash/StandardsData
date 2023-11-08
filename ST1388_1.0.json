@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/725",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-08-30T00:00:00Z",
-  "earliestStartDate": "2023-08-29T00:00:00Z",
+  "changedDate": "2023-08-30T00:00:00",
+  "earliestStartDate": "2023-08-29T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Carrying out skilled work in the photographic industry utilising common photographic knowledge and skills.",
@@ -253,7 +253,6 @@
       "detail": "Undertake continuing professional development within the role, reflecting systematically on progress and identifying opportunities for meaningful improvement."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -281,8 +280,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media and Broadcast Assistant",
+  "clusterId": "42",
+  "clusterDescription": "Production and distribution of media content using communications, archive and visual technology",
   "createdDate": "2023-08-30T13:20:06 +00:00",
   "lastUpdated": "2023-08-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/photographer-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/photographer-v1-0",
   "qualifications": [],
@@ -303,7 +305,7 @@
         "134149b6-80b9-4315-be51-01e3ef9caca4",
         "083a28f6-dc92-43a2-9130-0bce3e6c0d38"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "51e25870-392e-4b8f-b4cb-df8d4cb7576c",
         "fd1f440b-b7f9-41eb-b0a2-454e930e226d",
@@ -325,7 +327,7 @@
         "b6ba2886-3aab-4d3e-8102-cc589b4a9535",
         "c809fac4-3374-48ae-b8e8-7b00c8b3170a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f751b265-5a8a-4d09-a49e-fd4c30339072",
         "e686fbb7-e9af-4183-afdb-acd2e2200524",
@@ -352,7 +354,7 @@
         "14263a39-dfdf-4896-b035-2e628ccd384a",
         "c5772b5c-ec47-4d93-a8bd-80dca5276299"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4e7c0131-9f79-4aec-89f4-05da3516e841",
         "cfba1b1c-9de5-4786-a2be-8b72035a0a90"
@@ -373,7 +375,7 @@
         "553ae705-f5c2-4c33-9449-68644193f21e",
         "083a28f6-dc92-43a2-9130-0bce3e6c0d38"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5eac9d22-ff9c-4f8c-ae79-5fdabb1f06c5",
         "96ffc3fb-fa34-4dd4-89b0-0038f075efcf"
@@ -393,7 +395,7 @@
         "b049ec23-1ee8-4ee7-b5a3-a76cd0c5f779",
         "14263a39-dfdf-4896-b035-2e628ccd384a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d4135581-5e6f-483c-9e3c-64b1e7343819",
         "a9ffc530-3dd5-4433-9ec5-db56dfc47f63",
@@ -412,7 +414,7 @@
       "mappedKnowledge": [
         "c5772b5c-ec47-4d93-a8bd-80dca5276299"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "31566e39-3a59-41a1-8fec-139a6f2095bd",
         "1432883f-6443-4faa-92c3-902daf71b95d",
@@ -435,7 +437,7 @@
         "b2f65764-56b4-4ebf-9859-8463b3751803",
         "581908e9-2169-4a79-88a3-d9cc18df2d73"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cbd0d733-80bb-4946-9d86-d0d6ae5d4092",
         "594c1ebb-e19f-489c-9826-43378e0a8658",
@@ -459,7 +461,7 @@
         "091cc806-3cc4-408d-880f-0f5e862d1b1d",
         "585e1842-8ecd-4b36-a3d4-dd736f286483"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a52c2d6b-3fe6-4b39-8a59-af2328aad5b0",
         "7f1997ce-6b01-40ff-9ff5-fd0bdb23fe61",
@@ -471,12 +473,12 @@
       "dutyID": "fc1f7a47-7542-42ea-b5ae-3825930012bb",
       "dutyDetail": "Set up and/or follow photographic file management protocols, file and store data securely.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "581908e9-2169-4a79-88a3-d9cc18df2d73",
         "dc088244-df46-43ab-9e2c-aaa75f576eec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8ab50f7d-521c-45fa-af11-687a48839bd5",
         "a52c2d6b-3fe6-4b39-8a59-af2328aad5b0",
@@ -485,6 +487,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
