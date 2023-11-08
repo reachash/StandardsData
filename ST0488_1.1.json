@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/558",
   "versionNumber": "1.1",
   "change": "Standard revised",
-  "changedDate": "2023-04-13T00:00:00Z",
-  "earliestStartDate": "2023-04-13T00:00:00Z",
+  "changedDate": "2023-04-13T00:00:00",
+  "earliestStartDate": "2023-04-13T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Create animated assets and content, by producing the motions, gestures, expressions and performance of two or three dimensional characters and inanimate objects.",
@@ -672,24 +672,6 @@
       "detail": "Respond positively to feedback about the assets you create, making refinements as needed"
     }
   ],
-  "options": [
-    {
-      "optionId": "39be9781-4c12-40cd-8b8f-5c3997686692",
-      "title": "2D Animation"
-    },
-    {
-      "optionId": "03806766-5445-4d7c-8446-e8021e8d654c",
-      "title": "Stop-Motion Animation"
-    },
-    {
-      "optionId": "a132f97d-ccc9-429e-be8e-6b563d69e8f0",
-      "title": "3D Animation"
-    },
-    {
-      "optionId": "ec297609-4924-4a38-bff4-a129c7ea566d",
-      "title": "Interactive media and immersive reality"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -719,8 +701,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media, Broadcast and Production Technician",
+  "clusterId": "76",
+  "clusterDescription": "Design, development and editing of audio visual and text content using technology to generate broadcasting materials along with its co-ordination and management",
   "createdDate": "2023-04-13T07:53:20 +00:00",
   "lastUpdated": "2023-04-13T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/junior-animator-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/junior-animator-v1-1",
   "qualifications": [],
@@ -738,7 +723,7 @@
         "5b55a8fd-fcea-403e-ab8e-b47f450ef7cf",
         "3220d6b4-cf94-471a-8e06-814b04485d34"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "13867e10-e933-463b-8c7a-8293d31c5c46",
         "5e4c3d15-f9e7-4c4c-bc2b-eb0391d35fa0",
@@ -759,7 +744,7 @@
         "c8f6f1b5-c16f-4aa6-87c2-51bcf89bf50e",
         "0861f511-c443-46da-9180-eeaeece5b1ac"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b14ebfe9-a781-4691-804a-29a8db5e5410",
         "d6f39ed4-f6b0-4817-8808-0cdd4edb7195",
@@ -784,7 +769,7 @@
         "e62d12c0-0957-492e-a74d-81e0c3f89f09",
         "7ac331ce-c907-499c-9fb6-c3cc13ac91ee"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "50a63a62-04bf-47e1-918c-f18fc83a7109",
         "c654509c-f402-42ed-83d7-c12b52defeeb",
@@ -806,7 +791,7 @@
         "757c78ec-9b9e-4b4c-8941-af4868c57f51",
         "97d2a016-7c59-4024-a624-dd1951160e4f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2eb9a8ff-6460-4c86-bc3b-a55f9af6fca0",
         "a9377840-4318-491d-bc41-512237ed3181",
@@ -830,7 +815,7 @@
         "c70a03df-f191-47bc-a76e-d3023f63fff5",
         "daeda9bc-6d7b-40b9-837b-cbdb6891c82c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "52c36e0a-25be-4b3a-b89a-cd2de1a999de",
         "6098f9c1-d35b-4354-9fdc-ead7b4e5d7d2",
@@ -854,7 +839,7 @@
         "c236d2a0-4bfa-4363-882a-87e82b2524bd",
         "6ad91133-d642-4615-ab21-705919cae810"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d0838696-3ada-4abb-b087-0268bbee3be6",
         "aabf7540-9144-4320-ab46-d318bb55ff40",
@@ -876,7 +861,7 @@
         "ca1cb14d-a7f6-463e-bf0c-28f45e8530cc",
         "e98fc794-e4c9-47a5-9142-bdbf750541d0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "92c44812-7017-4b8d-beec-c713f14d287a",
         "385e4ad6-baa9-480d-aa23-4c66c871ed66",
@@ -899,7 +884,7 @@
         "df049587-1f25-47bb-b833-c493178c9d03",
         "fa5b5966-6c8a-4baf-add6-0f41ddb546de"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c0acea9a-911a-4be6-8362-2c98e171c1c3",
         "b7d09c34-c868-4b74-a833-188aba0b66b7",
@@ -924,7 +909,7 @@
         "34ad6192-44f1-429f-bb53-e23619a7bfba",
         "e53952a8-7c5a-46af-8559-02bcb179cc81"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f897dff0-8b7c-4ec5-abfe-d0bc6fd77777",
         "a2a6eeae-a797-4e5a-98e9-5b7063a61720",
@@ -1026,7 +1011,7 @@
       "dutyID": "2f59983d-9fef-4f57-977f-3f3ef6d21ab0",
       "dutyDetail": "Evaluate characters and sequences in line with feedback to ensure requirements are met.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "925ab196-3f52-4bac-8641-27b0a226c130",
         "0b7b7b85-9984-40d0-a4a0-3449c66305e8",
@@ -1079,7 +1064,7 @@
       "dutyID": "ab54f417-d168-43af-b899-2199a4f4ff1a",
       "dutyDetail": "Evaluate 3D animations created in line with feedback to ensure requirements are met.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "d288974e-95c4-4a81-a0ee-ed8b968bb246",
         "df049587-1f25-47bb-b833-c493178c9d03",
@@ -1132,7 +1117,7 @@
       "dutyID": "ffefa32e-ae27-497c-9592-6fe1a0f15231",
       "dutyDetail": "Evaluate animations created for use in computer games, interactive media or immersive reality in line with feedback to ensure requirements are met.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "df049587-1f25-47bb-b833-c493178c9d03",
         "31e047f8-c88e-421e-9781-9ce5b6bb95c7",
@@ -1153,6 +1138,28 @@
         "0c48ea9e-7f1f-423d-b0c1-536153ce7b27"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "39be9781-4c12-40cd-8b8f-5c3997686692",
+      "title": "2D Animation",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "03806766-5445-4d7c-8446-e8021e8d654c",
+      "title": "Stop-Motion Animation",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "a132f97d-ccc9-429e-be8e-6b563d69e8f0",
+      "title": "3D Animation",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "ec297609-4924-4a38-bff4-a129c7ea566d",
+      "title": "Interactive media and immersive reality",
+      "occupationCode": ""
     }
   ],
   "regulationDetail": [],
