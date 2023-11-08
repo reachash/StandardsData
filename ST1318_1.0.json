@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/723",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-08-30T00:00:00Z",
-  "earliestStartDate": "2023-08-29T00:00:00Z",
+  "changedDate": "2023-08-30T00:00:00",
+  "earliestStartDate": "2023-08-29T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Build, maintain and move grip equipment during productions.",
@@ -217,7 +217,6 @@
       "detail": "Lay basic floors with subframes or decks that are strong and stable enough to support the equipment and have sufficient space to operate the equipment and achieve smooth tracking."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -253,8 +252,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Production Arts Assistant",
+  "clusterId": "60",
+  "clusterDescription": "Work from event/staging designs to create impactful and safe staging and lighting solutions along with props and costume support",
   "createdDate": "2023-08-03T07:21:55 +00:00",
   "lastUpdated": "2023-08-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/junior-grip-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/junior-grip-v1-0",
   "qualifications": [],
@@ -280,7 +282,7 @@
         "c95ace20-c60a-4700-a423-62ada64693cb",
         "e4d0a577-2ab6-4c9c-95de-719b6cbffd85"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "14939043-b2a3-439f-aa21-cd406a9aae92",
         "47e3be69-5999-45b0-a6eb-c6108449b7be",
@@ -313,7 +315,7 @@
         "08a36e14-4cad-4540-b6a4-e896ede8cc0e",
         "f24b9ea7-b079-444a-9396-6e84d96e056f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "14939043-b2a3-439f-aa21-cd406a9aae92",
         "47e3be69-5999-45b0-a6eb-c6108449b7be",
@@ -342,7 +344,7 @@
         "08a36e14-4cad-4540-b6a4-e896ede8cc0e",
         "f24b9ea7-b079-444a-9396-6e84d96e056f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "14939043-b2a3-439f-aa21-cd406a9aae92",
         "47e3be69-5999-45b0-a6eb-c6108449b7be",
@@ -378,7 +380,7 @@
         "5e4c06ff-aa6c-4936-beb6-05f2d089c990",
         "f24b9ea7-b079-444a-9396-6e84d96e056f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bdddc2a6-7883-4de9-b8d9-cc25669bc1b1",
         "5e81e45d-a49a-4520-ab47-e415b442631a",
@@ -411,7 +413,7 @@
         "66602a69-d194-4480-b163-ec241095bed4",
         "f24b9ea7-b079-444a-9396-6e84d96e056f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "243a973a-5a3a-4ee7-ac03-0c0b3803b9dd",
         "7e271bbb-9ed0-4c95-a82b-0607157c2bff"
@@ -441,7 +443,7 @@
         "66602a69-d194-4480-b163-ec241095bed4",
         "f24b9ea7-b079-444a-9396-6e84d96e056f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "243a973a-5a3a-4ee7-ac03-0c0b3803b9dd",
         "6ea7aa82-25ff-4756-93b1-b4de6d740e28",
@@ -472,7 +474,7 @@
         "66602a69-d194-4480-b163-ec241095bed4",
         "f24b9ea7-b079-444a-9396-6e84d96e056f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7e271bbb-9ed0-4c95-a82b-0607157c2bff",
         "d063dbe2-471e-4699-b3a0-7e051cfa13ad"
@@ -502,7 +504,7 @@
         "66602a69-d194-4480-b163-ec241095bed4",
         "f24b9ea7-b079-444a-9396-6e84d96e056f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7e271bbb-9ed0-4c95-a82b-0607157c2bff",
         "d063dbe2-471e-4699-b3a0-7e051cfa13ad"
@@ -532,7 +534,7 @@
         "66602a69-d194-4480-b163-ec241095bed4",
         "f24b9ea7-b079-444a-9396-6e84d96e056f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7e271bbb-9ed0-4c95-a82b-0607157c2bff",
         "d063dbe2-471e-4699-b3a0-7e051cfa13ad"
@@ -562,7 +564,7 @@
         "66602a69-d194-4480-b163-ec241095bed4",
         "f24b9ea7-b079-444a-9396-6e84d96e056f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7e271bbb-9ed0-4c95-a82b-0607157c2bff",
         "d063dbe2-471e-4699-b3a0-7e051cfa13ad"
@@ -589,7 +591,7 @@
         "8bba4291-8352-4aa5-b91c-92c23c29b557",
         "f24b9ea7-b079-444a-9396-6e84d96e056f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0a47b59c-9fc0-42cc-b5a7-a7327b6d460a"
       ],
@@ -614,7 +616,7 @@
         "e7564fef-d246-4642-9fa2-28bfef1e67f9",
         "f24b9ea7-b079-444a-9396-6e84d96e056f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0a47b59c-9fc0-42cc-b5a7-a7327b6d460a"
       ],
@@ -640,7 +642,7 @@
         "8bba4291-8352-4aa5-b91c-92c23c29b557",
         "f24b9ea7-b079-444a-9396-6e84d96e056f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0a47b59c-9fc0-42cc-b5a7-a7327b6d460a"
       ],
@@ -665,7 +667,7 @@
         "66602a69-d194-4480-b163-ec241095bed4",
         "5e4c06ff-aa6c-4936-beb6-05f2d089c990"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5e81e45d-a49a-4520-ab47-e415b442631a",
         "facf04ba-a254-44af-8a08-c454b7c8aacc",
@@ -684,13 +686,14 @@
         "b00e923b-e816-423e-a647-038b8efaef2b",
         "e033b8d2-775f-4650-b40f-7262678c5ef9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0b412c24-fd18-4f63-bd4c-dc1d05683f81"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
