@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/160",
   "versionNumber": "1.1",
   "change": "End-point assessment plan and funding revised",
-  "changedDate": "2023-03-14T00:00:00Z",
-  "earliestStartDate": "2023-03-14T00:00:00Z",
+  "changedDate": "2023-03-14T00:00:00",
+  "earliestStartDate": "2023-03-14T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Composite technicians produce polymer matrix composite components or final products to a specification.",
@@ -327,7 +327,6 @@
       "detail": "Plan how to meet personal development needs. Carry out and record planned and unplanned continued professional development (CPD) activities. Evaluate CPD against plans made."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -360,8 +359,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing and Process Operative/Technician",
+  "clusterId": "262",
+  "clusterDescription": "Assemble and construct complex engineering products",
   "createdDate": "2023-03-14T10:20:49 +00:00",
   "lastUpdated": "2023-03-14T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/composites-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/composites-technician-v1-1",
   "qualifications": [],
@@ -411,7 +413,7 @@
         "38a330d8-ffaf-4f19-811c-18845ef432b0",
         "734a4096-5fea-4c3c-8a41-31ecea591efa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9f3e457e-959d-4194-929a-bfedc29914cb",
         "1156493b-ac9a-4e91-9d29-d103c83b293b",
@@ -466,7 +468,7 @@
         "38a330d8-ffaf-4f19-811c-18845ef432b0",
         "734a4096-5fea-4c3c-8a41-31ecea591efa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9f3e457e-959d-4194-929a-bfedc29914cb",
         "1156493b-ac9a-4e91-9d29-d103c83b293b",
@@ -518,7 +520,7 @@
         "8d14a532-0446-4d08-8461-d1cf427eaba1",
         "734a4096-5fea-4c3c-8a41-31ecea591efa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9f3e457e-959d-4194-929a-bfedc29914cb",
         "1156493b-ac9a-4e91-9d29-d103c83b293b",
@@ -563,7 +565,7 @@
         "8d14a532-0446-4d08-8461-d1cf427eaba1",
         "734a4096-5fea-4c3c-8a41-31ecea591efa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9f3e457e-959d-4194-929a-bfedc29914cb",
         "5c298c74-e6b8-4c9e-8caa-50e666187be6",
@@ -603,7 +605,7 @@
         "f75b2b15-8687-4ad6-abe5-6a6bb2c6e50e",
         "62638656-b47a-4380-9f2e-9cc51a1845b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9f3e457e-959d-4194-929a-bfedc29914cb",
         "5c298c74-e6b8-4c9e-8caa-50e666187be6",
@@ -639,7 +641,7 @@
         "d2f93986-f6ef-4f5f-9e55-b0685be3d0a0",
         "734a4096-5fea-4c3c-8a41-31ecea591efa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9f3e457e-959d-4194-929a-bfedc29914cb",
         "5c298c74-e6b8-4c9e-8caa-50e666187be6",
@@ -674,7 +676,7 @@
         "eccecbb4-84ae-4c02-85c6-fc9d9b95b826",
         "38a330d8-ffaf-4f19-811c-18845ef432b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9f3e457e-959d-4194-929a-bfedc29914cb",
         "1156493b-ac9a-4e91-9d29-d103c83b293b",
@@ -718,7 +720,7 @@
         "62638656-b47a-4380-9f2e-9cc51a1845b4",
         "d2f93986-f6ef-4f5f-9e55-b0685be3d0a0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9f3e457e-959d-4194-929a-bfedc29914cb",
         "1156493b-ac9a-4e91-9d29-d103c83b293b",
@@ -759,7 +761,7 @@
         "62638656-b47a-4380-9f2e-9cc51a1845b4",
         "d2f93986-f6ef-4f5f-9e55-b0685be3d0a0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9f3e457e-959d-4194-929a-bfedc29914cb",
         "42314622-3452-4c0e-97d1-1867213a4626",
@@ -775,6 +777,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
