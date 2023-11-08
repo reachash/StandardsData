@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/446",
   "versionNumber": "1.1",
   "change": "End-point assessment and funding band revised",
-  "changedDate": "2022-11-28T00:00:00Z",
-  "earliestStartDate": "2022-11-17T00:00:00Z",
+  "changedDate": "2022-11-28T00:00:00",
+  "earliestStartDate": "2022-11-17T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Able to competently perform the professional sport in which they train such as; cricket, football, rugby league, rugby union  and equestrianism.",
@@ -469,28 +469,6 @@
       "detail": "Constantly monitor the development of competition to make effective decisions in a range of situations.. (equestrian)"
     }
   ],
-  "options": [
-    {
-      "optionId": "d0921070-a2c0-40cb-92bd-b4cbe69a9463",
-      "title": "Football"
-    },
-    {
-      "optionId": "b3d8fb86-9b05-45ef-8fb7-8e95fcfe5c87",
-      "title": "Cricket"
-    },
-    {
-      "optionId": "ad7f48f8-0032-4ea4-8282-3221bdc5ce51",
-      "title": "Rugby League"
-    },
-    {
-      "optionId": "3d04d22a-83f2-433c-a294-573a6b3aeb01",
-      "title": "Rugby Union"
-    },
-    {
-      "optionId": "92a72ea7-af7f-4bff-862f-ca74d166d203",
-      "title": "Equestrian"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Cricket",
     "Football",
@@ -534,8 +512,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Community Exercise, Physical Activity, Sport and Health",
   "cluster": "Exercise, Fitness and Health Assistant",
+  "clusterId": "214",
+  "clusterDescription": "Initiate behaviour change and performance improvement to achieve a series of health and fitness goals for an individual or community. Usually working one-to-one or small groups",
   "createdDate": "2023-10-03T06:55:46 +00:00",
   "lastUpdated": "2022-11-28T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/sporting-excellence-professional-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/sporting-excellence-professional-v1-1",
   "qualifications": [],
@@ -549,8 +530,8 @@
         "efa9207f-614e-4f47-9afd-73d31efbbe83",
         "9ca5dc77-a236-4cb1-9299-a5cfc953fdd3"
       ],
-      "mappedKnowledge": null,
-      "mappedOptions": null,
+      "mappedKnowledge": [],
+      "mappedOptions": [],
       "mappedSkills": [
         "32ce3738-d2a7-49f3-b0aa-409f1949a51b"
       ],
@@ -574,7 +555,7 @@
         "ff5d6e46-9d7f-42a2-9cd7-5676e6d02b25",
         "011413e6-36ac-4748-ab01-045a6e1c696c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1cb943d9-3b49-4b48-87f6-42b2954014bc",
         "254f1440-839d-4606-844c-91855e38c789",
@@ -587,11 +568,11 @@
       "dutyID": "d70c1c8b-f4ee-4172-aea6-644e54b8834b",
       "dutyDetail": "Undertake safe and effective sporting activities as instructed with due regard to self, support team and other participants.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "36ca39f9-07a1-430c-97e3-0502015a552a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4447a815-cf34-4b91-9b3f-5ce8a3fd08fa"
       ],
@@ -604,9 +585,9 @@
       "mappedBehaviour": [
         "62e87dd3-2405-4155-bc0a-93e966ad8d65"
       ],
-      "mappedKnowledge": null,
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -623,7 +604,7 @@
         "f66d3708-5dc1-48ab-9cf7-070237d719cd",
         "0101e0b1-f2ca-4770-bcd1-c7547d868892"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "80bb8a08-40bf-47d8-9259-1ef565dd34c4"
       ],
@@ -643,7 +624,7 @@
         "74305820-1b8c-40ab-9a0e-2d8ce881b678",
         "011413e6-36ac-4748-ab01-045a6e1c696c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "88ea2c18-7bd3-4830-bead-046488314d4e",
         "f76f94df-86b8-403f-bf05-dfcfe9d5e15f"
@@ -662,7 +643,7 @@
         "ee89fc30-834e-4e9c-b23f-f5d8c065c645",
         "74305820-1b8c-40ab-9a0e-2d8ce881b678"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a7ad0958-d6df-41d2-8aed-2f98c14a646f",
         "88ea2c18-7bd3-4830-bead-046488314d4e"
@@ -673,11 +654,11 @@
       "dutyID": "3b9c563a-c818-48de-9814-3043535a270e",
       "dutyDetail": "Maintain a satisfactory and safe environment to undertake training, coaching and high-level sports participation.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "bf47f7d5-25f9-4f62-9874-7f3665603c53"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4447a815-cf34-4b91-9b3f-5ce8a3fd08fa",
         "3eb024bf-248b-42ef-8b4b-8acf9c6e8851"
@@ -694,15 +675,15 @@
       "mappedKnowledge": [
         "7f3cfe23-74db-4d61-862e-7c48a4aceaf5"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "460829bd-8dd0-4d5f-9865-d426f4287b91",
       "dutyDetail": "Implement appropriate fitness, nutritional and psychological skills programmes to optimise and excel at competitive performance.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "1dcaa755-75af-4e5f-9360-5986227f1973",
         "e88a25b5-1ba9-483d-a4b6-49f5f115215e",
@@ -710,7 +691,7 @@
         "88fc1601-26b5-42e8-9ca2-a2cbf4fe2699",
         "0c2559e1-c97c-4a16-b187-ad44549fbc2c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1cb943d9-3b49-4b48-87f6-42b2954014bc",
         "a3997da2-565f-4858-bd69-6a0beee6c056",
@@ -731,7 +712,7 @@
         "47616bdb-3df2-4aa7-9c2a-ec769ce30538",
         "842356a8-46ef-4718-a7ab-84cbaf7335fd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0871449d-64d5-42aa-8740-159affda798c"
       ],
@@ -741,11 +722,11 @@
       "dutyID": "2ea5d837-f9c1-40f2-92cf-41fbd0968a53",
       "dutyDetail": "Practice a lifestyle conducive to high levels of performance. ",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "13b717e3-f60c-4c10-b822-6387b592f743"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3eb024bf-248b-42ef-8b4b-8acf9c6e8851",
         "db70cd37-1e04-4ff1-847d-781ec66a7703"
@@ -763,7 +744,7 @@
         "627abe15-d6d1-4452-aa1d-a6018eb78e31",
         "011413e6-36ac-4748-ab01-045a6e1c696c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f76f94df-86b8-403f-bf05-dfcfe9d5e15f"
       ],
@@ -773,11 +754,11 @@
       "dutyID": "9a011c96-a665-439a-a672-95081616ce74",
       "dutyDetail": "Communicate effectively and build meaningful relationships with multiple stakeholders, staff and peers within the individual’s chosen sport.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0101e0b1-f2ca-4770-bcd1-c7547d868892"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "80bb8a08-40bf-47d8-9259-1ef565dd34c4",
         "2e44a1ea-7aa9-4c3b-875f-311c994723bb"
@@ -788,11 +769,11 @@
       "dutyID": "ae9e3a18-2fc6-4727-a10f-060284620a5f",
       "dutyDetail": "Perform a range of prehab and rehabilitation procedures, including recovery protocols to maintain high levels of repeated physical performance daily, and throughout the year.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "36ca39f9-07a1-430c-97e3-0502015a552a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f81045f5-8009-4e4c-9621-93cb0736a852"
       ],
@@ -802,7 +783,7 @@
       "dutyID": "2d9f7449-1607-4b0c-8b86-512340c43102",
       "dutyDetail": "Perform a range of footballing technical and tactical skills in training and competition to optimise team performance.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "d9cad367-8ded-48d9-be63-1835e4729e0d",
         "20b594ec-9c8d-4bb6-a2f2-eda6b39a5d37",
@@ -828,7 +809,7 @@
       "dutyID": "fb941e50-c2a0-423b-a2a9-fc504e23cb82",
       "dutyDetail": "Analyse own, teammates and opposition skills to make strategic decisions to optimise team performance in a football environment.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "ee89fc30-834e-4e9c-b23f-f5d8c065c645"
       ],
@@ -845,7 +826,7 @@
       "dutyID": "46097f96-18f9-4b4b-a671-65829308f55e",
       "dutyDetail": "Undertake pre- and post-match footballing procedures relevant to game plans, and legal and regulatory procedures.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "36ca39f9-07a1-430c-97e3-0502015a552a",
         "bf47f7d5-25f9-4f62-9874-7f3665603c53",
@@ -865,7 +846,7 @@
       "dutyID": "5f663cae-258c-4861-8b09-4a223fe11014",
       "dutyDetail": "Review own and team performance to address strengths and weaknesses to improve future outcomes in a footballing context.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "011413e6-36ac-4748-ab01-045a6e1c696c"
       ],
@@ -881,7 +862,7 @@
       "dutyID": "c5a7a44a-a995-4611-8e33-c321e3f5078b",
       "dutyDetail": "Perform a range of cricketing technical and tactical skills in training and competition to optimise team performance.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "f756f4ca-8508-44eb-8370-5f20dbf5cc48",
         "c4189139-3295-415e-8eda-59b2ee19e37b",
@@ -908,7 +889,7 @@
       "dutyID": "0ddfa303-cb9e-4a66-84aa-71163c60f546",
       "dutyDetail": "Analyse own, teammates and opposition skills to make strategic decisions to optimise team performance in a cricketing environment.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "ee89fc30-834e-4e9c-b23f-f5d8c065c645"
       ],
@@ -925,7 +906,7 @@
       "dutyID": "8e9ab1fd-1f98-4b60-bbff-511538aa12a0",
       "dutyDetail": "Undertake pre- and post-match cricketing procedures relevant to game plans, and legal and regulatory procedures.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "36ca39f9-07a1-430c-97e3-0502015a552a"
       ],
@@ -942,7 +923,7 @@
       "dutyID": "eb3ec697-143c-4f24-8ab6-bfcc5166a456",
       "dutyDetail": "Review own and team performance to address strengths and weaknesses to improve future outcomes in a cricketing context.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "011413e6-36ac-4748-ab01-045a6e1c696c"
       ],
@@ -958,7 +939,7 @@
       "dutyID": "7aef0c0c-7f65-4706-95a4-003b72cc0c48",
       "dutyDetail": "Perform a range of rugby league technical and tactical skills in training and competition to optimise team performance.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "752c287e-69c6-452e-9ec9-94e6f79045b5",
         "de6650f3-5fce-4bfa-a5ab-e65cafeb5262",
@@ -982,7 +963,7 @@
       "dutyID": "dc034c08-3a94-4cff-baa3-dd75f41d978e",
       "dutyDetail": "Analyse own, teammates and opposition skills to make strategic decisions to optimise team performance in a rugby league environment.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "ee89fc30-834e-4e9c-b23f-f5d8c065c645"
       ],
@@ -999,7 +980,7 @@
       "dutyID": "03fea24a-88cf-4206-9c74-ef00ea4b79da",
       "dutyDetail": "Undertake rugby league pre- and post-match procedures relevant to game plans, and legal and regulatory procedures.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "36ca39f9-07a1-430c-97e3-0502015a552a"
       ],
@@ -1016,7 +997,7 @@
       "dutyID": "4317e007-20da-48f6-a64a-a1382c807bc9",
       "dutyDetail": "Review own and team performance to address strengths and weaknesses to improve future outcomes in a rugby league context.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "011413e6-36ac-4748-ab01-045a6e1c696c"
       ],
@@ -1032,7 +1013,7 @@
       "dutyID": "0d2926f0-1916-46da-95d3-d496b8390dbf",
       "dutyDetail": "Perform a range of rugby union technical and tactical skills in training and competition to optimise team performance.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "6ffdf4d5-8aaf-4441-89e4-d13f93425659",
         "2d58aaa0-f16c-447b-8446-32e5f5953e49",
@@ -1057,7 +1038,7 @@
       "dutyID": "ce5bae97-8e67-47bb-b3c7-f5579d82faef",
       "dutyDetail": "Analyse own, teammates and opposition skills to make strategic decisions to optimise team performance in a rugby union environment.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "ee89fc30-834e-4e9c-b23f-f5d8c065c645"
       ],
@@ -1074,7 +1055,7 @@
       "dutyID": "1c59d355-06b3-4529-9ba3-6f401d80e2ca",
       "dutyDetail": "Undertake rugby union pre- and post-match procedures relevant to game plans, and legal and regulatory procedures.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "36ca39f9-07a1-430c-97e3-0502015a552a"
       ],
@@ -1091,7 +1072,7 @@
       "dutyID": "9f786c89-0e1a-41d3-b799-627f2c2ad5f7",
       "dutyDetail": "Review own and team performance to address strengths and weaknesses to improve future outcomes in a rugby union context.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "011413e6-36ac-4748-ab01-045a6e1c696c"
       ],
@@ -1107,7 +1088,7 @@
       "dutyID": "186a36d2-c304-44c6-99c5-8820d027619f",
       "dutyDetail": "Perform a range of equestrian technical and tactical skills in training and competition to optimise team performance.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "58629f0c-d4d3-4855-aabe-094eef9e582e",
         "2ef1f181-8c79-46cb-bcb8-03200090dbae",
@@ -1137,7 +1118,7 @@
       "dutyID": "01bde4b6-af27-4774-ad31-563cc2977df1",
       "dutyDetail": "Monitor health and welfare of horses during training and competition and report any changes or abnormalities.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "85236deb-2859-47e1-b6dc-19baf50ede9b"
       ],
@@ -1154,7 +1135,7 @@
       "dutyID": "529fad92-c6a9-4622-a903-5fbb429a2683",
       "dutyDetail": "Assess external conditions to promote effective training and performance regimes, including surfaces, weather conditions and competitive conditions",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "58629f0c-d4d3-4855-aabe-094eef9e582e",
         "9befe3be-0279-4930-a9dd-76d2374e4cf2"
@@ -1199,6 +1180,33 @@
         "d9b81705-29d6-44c1-9ba4-bec6865d64df"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "d0921070-a2c0-40cb-92bd-b4cbe69a9463",
+      "title": "Football",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "b3d8fb86-9b05-45ef-8fb7-8e95fcfe5c87",
+      "title": "Cricket",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "ad7f48f8-0032-4ea4-8282-3221bdc5ce51",
+      "title": "Rugby League",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "3d04d22a-83f2-433c-a294-573a6b3aeb01",
+      "title": "Rugby Union",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "92a72ea7-af7f-4bff-862f-ca74d166d203",
+      "title": "Equestrian",
+      "occupationCode": ""
     }
   ],
   "regulationDetail": [],
