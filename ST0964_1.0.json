@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/705",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-05-16T00:00:00Z",
-  "earliestStartDate": "2023-05-11T00:00:00Z",
+  "changedDate": "2023-05-16T00:00:00",
+  "earliestStartDate": "2023-05-11T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Drive and manage digital products through the complete product lifecycle.",
@@ -232,7 +232,6 @@
       "detail": "Use data to inform decision making. "
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -265,8 +264,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Digital Production, Design and Development",
   "cluster": "Software Development Advanced Technician",
+  "clusterId": "197",
+  "clusterDescription": "Build and test simple, high quality codes across various layers (front end, logic and database) and interpret design documents and specifications",
   "createdDate": "2023-04-05T09:21:56 +00:00",
   "lastUpdated": "2023-05-16T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/digital-product-manager-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/digital-product-manager-v1-0",
   "qualifications": [],
@@ -295,7 +297,7 @@
         "878fb425-db67-4bd9-a162-842dc5378b91",
         "34e798f6-cd32-4d0a-9509-b158a785cdf0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "27f867f4-c9d3-4174-aa1a-56ee5da76713",
         "560d9957-2047-416a-9664-b2f44bd17131",
@@ -334,7 +336,7 @@
         "229e7582-03be-45a0-8457-125cf8dc3dc9",
         "a1abf028-e6a2-497b-a3b0-15028d64a0d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "90f0c5e9-2bf2-4de0-bbb2-cd4599b90247",
         "274c79d4-2a49-4bbf-9da8-911b48f2c5e5",
@@ -365,7 +367,7 @@
         "12257956-61b6-4484-bd13-a186c32e9047",
         "fb1340b9-ac42-429c-93ee-18046d33acd0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "274c79d4-2a49-4bbf-9da8-911b48f2c5e5",
         "3fe169ac-a722-4351-bfb5-509e19af31a1"
@@ -396,7 +398,7 @@
         "34e798f6-cd32-4d0a-9509-b158a785cdf0",
         "a1abf028-e6a2-497b-a3b0-15028d64a0d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e87b06ee-b046-4554-a676-e642a1a17ba3",
         "90f0c5e9-2bf2-4de0-bbb2-cd4599b90247",
@@ -429,7 +431,7 @@
         "8fe951bf-572d-47be-aaa9-3eb7ec1508f2",
         "8d108bd1-ced9-48bc-8210-565fc2d74a05"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "54963852-1248-4b56-93fa-4ffa36e4a8dc",
         "e3aa2db2-52fe-402b-887f-7a1337f00a1e",
@@ -458,7 +460,7 @@
         "b2c04181-9693-4ee9-beee-3947693b3992",
         "e3b1c0fc-e6b9-4e5a-9eb5-c64617af7f46"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "90f0c5e9-2bf2-4de0-bbb2-cd4599b90247",
         "3fe169ac-a722-4351-bfb5-509e19af31a1",
@@ -483,7 +485,7 @@
         "a1abf028-e6a2-497b-a3b0-15028d64a0d1",
         "e3b1c0fc-e6b9-4e5a-9eb5-c64617af7f46"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "54963852-1248-4b56-93fa-4ffa36e4a8dc",
         "3fe169ac-a722-4351-bfb5-509e19af31a1",
@@ -510,7 +512,7 @@
         "878fb425-db67-4bd9-a162-842dc5378b91",
         "34e798f6-cd32-4d0a-9509-b158a785cdf0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "27f867f4-c9d3-4174-aa1a-56ee5da76713",
         "e3aa2db2-52fe-402b-887f-7a1337f00a1e",
@@ -538,7 +540,7 @@
         "3954c65a-039a-4324-abb2-028217744d61",
         "c7b6082c-e34b-44a0-8476-6cfabca4fe9e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "274c79d4-2a49-4bbf-9da8-911b48f2c5e5",
         "54963852-1248-4b56-93fa-4ffa36e4a8dc",
@@ -562,7 +564,7 @@
         "8d108bd1-ced9-48bc-8210-565fc2d74a05",
         "f5cc8b34-431c-4636-a8d4-9da630705476"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "27f867f4-c9d3-4174-aa1a-56ee5da76713",
         "68abd412-8b5f-4e65-9da7-bf5f6a6f41f3",
@@ -591,7 +593,7 @@
         "a1abf028-e6a2-497b-a3b0-15028d64a0d1",
         "e3b1c0fc-e6b9-4e5a-9eb5-c64617af7f46"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "90f0c5e9-2bf2-4de0-bbb2-cd4599b90247",
         "360ecb24-85cf-4724-b2f5-07b534644d82",
@@ -622,7 +624,7 @@
         "34e798f6-cd32-4d0a-9509-b158a785cdf0",
         "b2c04181-9693-4ee9-beee-3947693b3992"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "90f0c5e9-2bf2-4de0-bbb2-cd4599b90247",
         "360ecb24-85cf-4724-b2f5-07b534644d82",
@@ -659,7 +661,7 @@
         "229e7582-03be-45a0-8457-125cf8dc3dc9",
         "b2c04181-9693-4ee9-beee-3947693b3992"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e87b06ee-b046-4554-a676-e642a1a17ba3",
         "274c79d4-2a49-4bbf-9da8-911b48f2c5e5",
@@ -677,6 +679,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
