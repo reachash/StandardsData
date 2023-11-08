@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/660",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-12-02T00:00:00Z",
-  "earliestStartDate": "2021-09-14T00:00:00Z",
+  "changedDate": "2022-12-02T00:00:00",
+  "earliestStartDate": "2021-09-14T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Undertake tree inspections and surveys.",
@@ -330,7 +330,6 @@
       "detail": "Assess tree planting practices."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -366,8 +365,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Arboriculture and Forestry Supervisor",
+  "clusterId": "156",
+  "clusterDescription": "Supervise the establishment, maintenance, management and removal or harvesting of trees and/or woodland",
   "createdDate": "2021-08-27T09:09:41 +00:00",
   "lastUpdated": "2022-12-02T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/arboriculturist-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/arboriculturist-v1-0",
   "qualifications": [],
@@ -411,7 +413,7 @@
         "e9ef5413-f837-4e52-94a6-ddfe98eaa678",
         "ec5f9763-3ddb-4263-9378-3994b41e9bf5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6058fa12-bd31-4cc2-9543-a649cd3be88b",
         "58918515-4840-4c2a-920b-3a7c3f0fb30b",
@@ -442,7 +444,7 @@
         "d84989a1-efad-4a16-bab8-82de4070a880",
         "58dce0f1-acfd-4d23-8bd3-526f22b3686e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "798183eb-7306-43be-a312-c87eb13f55bc",
         "947bc831-135b-4272-9ad6-e84e36d0a665",
@@ -489,7 +491,7 @@
         "58dce0f1-acfd-4d23-8bd3-526f22b3686e",
         "d999350a-3231-44e7-922e-a4ccf8935b78"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6058fa12-bd31-4cc2-9543-a649cd3be88b",
         "e922ce2a-55c8-4e9b-8a30-9d90499b5940",
@@ -548,7 +550,7 @@
         "b981f8fb-6f0b-4ed0-bb11-bbd35c5f3dae",
         "d999350a-3231-44e7-922e-a4ccf8935b78"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6058fa12-bd31-4cc2-9543-a649cd3be88b",
         "e922ce2a-55c8-4e9b-8a30-9d90499b5940",
@@ -618,7 +620,7 @@
         "db421da9-2848-43ff-828c-448dfc5a73c7",
         "d999350a-3231-44e7-922e-a4ccf8935b78"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6058fa12-bd31-4cc2-9543-a649cd3be88b",
         "e922ce2a-55c8-4e9b-8a30-9d90499b5940",
@@ -652,7 +654,7 @@
         "da3fff82-c3cb-4a1a-be74-ad55a263515e",
         "f6fc77ac-4f5e-4ba8-83c7-8b41df0e14ab"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dd49a479-5bba-4553-a835-d0f629468845",
         "34b9404d-776a-4a52-b83c-14c8f89e6eaa",
@@ -668,12 +670,12 @@
       "dutyID": "3b3e575f-9eaf-47e2-853c-fdc0a37b93ab",
       "dutyDetail": "Use tree management software including databases and Geographic Information Systems (GIS).",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "e8723375-8650-4d87-b609-3a3fb9d6fc20",
         "ce52413e-d037-46e3-bf58-5198647ed997"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6058fa12-bd31-4cc2-9543-a649cd3be88b",
         "4d770596-c9e4-4080-b716-6881a383dc0d",
@@ -696,7 +698,7 @@
         "623f35b4-2729-4c9a-9207-1dab7a366408",
         "72ee8e91-9ba1-40f9-8258-de56c8aa0147"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "798183eb-7306-43be-a312-c87eb13f55bc",
         "a3301bed-77e1-4a26-8eb0-17266a655982",
@@ -731,7 +733,7 @@
         "db421da9-2848-43ff-828c-448dfc5a73c7",
         "c7042cff-5609-4504-aaf3-fc3265cf68ce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e922ce2a-55c8-4e9b-8a30-9d90499b5940",
         "0ff45efc-4b8b-475c-b38e-457b6eb71012",
@@ -779,7 +781,7 @@
         "c7042cff-5609-4504-aaf3-fc3265cf68ce",
         "d999350a-3231-44e7-922e-a4ccf8935b78"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0ff45efc-4b8b-475c-b38e-457b6eb71012",
         "dd49a479-5bba-4553-a835-d0f629468845",
@@ -813,7 +815,7 @@
         "3c4d3b7b-5c88-4072-9739-bc75ea7ca479",
         "ec5f9763-3ddb-4263-9378-3994b41e9bf5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6fdd0104-182e-4158-a179-6cdf9f6665e0",
         "e8b7b66e-6210-443e-bb7b-713b678ce114",
@@ -833,7 +835,7 @@
         "87cc4571-8653-4306-a416-dbe3aa3a3475",
         "6cbe63a8-ac36-4d7b-a1a5-67fdc3e286a4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "947bc831-135b-4272-9ad6-e84e36d0a665",
         "4e4e71ea-600c-4d82-8555-046ad29337fd"
@@ -853,7 +855,7 @@
         "6245ac7b-5448-4481-9a11-9a242834445c",
         "d999350a-3231-44e7-922e-a4ccf8935b78"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "947bc831-135b-4272-9ad6-e84e36d0a665",
         "4e4e71ea-600c-4d82-8555-046ad29337fd",
@@ -873,7 +875,7 @@
         "72ee8e91-9ba1-40f9-8258-de56c8aa0147",
         "d84989a1-efad-4a16-bab8-82de4070a880"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a3301bed-77e1-4a26-8eb0-17266a655982",
         "4d1dc262-7439-47c5-86fa-81e3e7979190"
@@ -881,6 +883,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
