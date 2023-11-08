@@ -7,15 +7,15 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/234",
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised.",
-  "changedDate": "2023-10-23T00:00:00Z",
-  "earliestStartDate": "2023-10-12T00:00:00Z",
+  "changedDate": "2023-10-23T00:00:00",
+  "earliestStartDate": "2023-10-12T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Applying insulation and cladding materials.",
   "level": 2,
   "typicalDuration": 18,
   "maxFunding": 16000,
-  "route": "Construction and the built environment",
+  "route": "Construction",
   "keywords": [
     "construction",
     "Insulation Operatives",
@@ -215,7 +215,6 @@
       "detail": "Remove and dispose of pre-installed insulation materials."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -245,8 +244,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Onsite Construction",
   "cluster": "Construction Operative/Supervisor",
+  "clusterId": "1",
+  "clusterDescription": "Use of heavy plant and equipment on surface construction sites and also specialist sites e.g. highways, tunnelling. Also the ability to undertake specialist construction work e.g. handling insulation, asbestos. Interprets drawings, plans and specifications along with methods and risk statement",
   "createdDate": "2023-09-27T12:31:30 +00:00",
   "lastUpdated": "2023-10-23T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/commercial-thermal-insulation-operative-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/commercial-thermal-insulation-operative-v1-1",
   "qualifications": [],
@@ -272,7 +274,7 @@
         "e752b0f9-8297-47c6-bcac-778922f399d7",
         "25f1f2d6-842b-41d3-8701-4a9c8ea93557"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "30b7ad00-e850-48a1-ac3d-5a7da646b027",
         "5b2f2eac-415b-41a1-81e1-a385c3dd3ea2",
@@ -301,7 +303,7 @@
         "e752b0f9-8297-47c6-bcac-778922f399d7",
         "25f1f2d6-842b-41d3-8701-4a9c8ea93557"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "30b7ad00-e850-48a1-ac3d-5a7da646b027",
         "dc5c34fe-e27c-4744-865b-7132f5eba808",
@@ -314,12 +316,12 @@
       "dutyID": "fa58a194-51e9-4648-abf2-3238de5ebf15",
       "dutyDetail": "Develop and maintain good occupational working relationships in the workplace",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "cbcb1d38-c4db-4698-8e83-44090ff74fff",
         "c2726059-ead8-4aeb-9351-94d66caa10ba"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f1c1a98d-3d0c-454a-966d-f13bdca116af",
         "4aebd7c7-8be2-4ac3-8703-5e152132b2a4",
@@ -331,7 +333,7 @@
       "dutyID": "b047c29c-7cc9-431a-a7fb-fa81c4d9abed",
       "dutyDetail": "Read specifications and data sheets to complete insulating tasks",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "fcda3024-edc9-416f-88a9-fd6826ae16fe",
         "8643d131-2de3-44b4-a9dc-d358873e5d21",
@@ -340,7 +342,7 @@
         "8ca73e73-71f0-4d72-8941-4bef89e294b9",
         "25f1f2d6-842b-41d3-8701-4a9c8ea93557"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fef81bcc-ec75-42bd-a262-03fb36a9d376"
       ],
@@ -350,13 +352,13 @@
       "dutyID": "90368fe4-8851-4772-a66c-da6d55b63b23",
       "dutyDetail": " Select suitable equipment and plan own operational activity",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "d55c11a1-4e88-4a77-8b7f-7a245e92195a",
         "b9f276b4-adbe-486c-9716-ed40f5216237",
         "96358255-dcf4-4cea-a2bb-a2af6c06bd56"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dc5c34fe-e27c-4744-865b-7132f5eba808",
         "2bbce77d-e960-4b72-9bb2-e362bcb9a8f4",
@@ -382,7 +384,7 @@
         "e4c76d44-e3f2-4e64-94c4-fb528fddde14",
         "e752b0f9-8297-47c6-bcac-778922f399d7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "30b7ad00-e850-48a1-ac3d-5a7da646b027",
         "f1f528c2-fc7c-47d5-9814-ddd7db343818",
@@ -407,7 +409,7 @@
         "d55c11a1-4e88-4a77-8b7f-7a245e92195a",
         "8ca73e73-71f0-4d72-8941-4bef89e294b9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fef81bcc-ec75-42bd-a262-03fb36a9d376",
         "983a9e28-0fe7-4813-9fc9-f022ba53bbe1",
@@ -419,16 +421,17 @@
       "dutyID": "e26f8197-d291-4d05-8865-2a7cd53c19da",
       "dutyDetail": "Keep accurate records and have an understanding of reporting procedures",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "b4106fca-1953-4b10-8552-4d71b1f1ee08",
         "411fce3a-e710-4269-abc1-b85a1c9fac4a"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
