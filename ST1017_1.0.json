@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/678",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-12-12T00:00:00Z",
-  "earliestStartDate": "2022-06-01T00:00:00Z",
+  "changedDate": "2022-12-12T00:00:00",
+  "earliestStartDate": "2022-06-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Install and maintain electrical services within a domestic setting.",
@@ -208,7 +208,6 @@
       "detail": "Use relevant digital learning platforms and business communication and collaboration applications "
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -236,10 +235,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Building Services Engineering",
-  "cluster": "Building Services Engineering Operative/Technician",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2022-12-12T15:44:37 +00:00",
   "lastUpdated": "2022-12-12T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/domestic-electrician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/domestic-electrician-v1-0",
   "qualifications": [
@@ -274,7 +276,7 @@
         "aacf4a53-9ff6-4b14-b4d9-980bd39ccc41",
         "61c0a628-ed04-446e-bb18-5caa0797a689"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "93f9922a-ea16-48f3-8298-1adcb24efdcc",
         "9f01196f-cd5e-490a-85eb-17fdbc6883e0",
@@ -300,7 +302,7 @@
         "4f7e5296-eee2-4dd8-b17b-913410241d87",
         "20dd53e7-33c2-4199-adb0-f9a24c616329"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "93f9922a-ea16-48f3-8298-1adcb24efdcc",
         "9f01196f-cd5e-490a-85eb-17fdbc6883e0",
@@ -330,7 +332,7 @@
         "7d9c0ba1-0f90-4e3e-b236-5b47dfdbd9e5",
         "3e8c018b-f992-461c-80ba-8811e12be8d0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "93f9922a-ea16-48f3-8298-1adcb24efdcc",
         "9f01196f-cd5e-490a-85eb-17fdbc6883e0",
@@ -363,7 +365,7 @@
         "7d9c0ba1-0f90-4e3e-b236-5b47dfdbd9e5",
         "3e8c018b-f992-461c-80ba-8811e12be8d0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "93f9922a-ea16-48f3-8298-1adcb24efdcc",
         "9f01196f-cd5e-490a-85eb-17fdbc6883e0",
@@ -396,7 +398,7 @@
         "3e8c018b-f992-461c-80ba-8811e12be8d0",
         "7e630865-ff48-482e-8550-aa5e0debdb3a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "93f9922a-ea16-48f3-8298-1adcb24efdcc",
         "9f01196f-cd5e-490a-85eb-17fdbc6883e0",
@@ -426,7 +428,7 @@
         "7d9c0ba1-0f90-4e3e-b236-5b47dfdbd9e5",
         "3e8c018b-f992-461c-80ba-8811e12be8d0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "93f9922a-ea16-48f3-8298-1adcb24efdcc",
         "9f01196f-cd5e-490a-85eb-17fdbc6883e0",
@@ -455,7 +457,7 @@
         "7d9c0ba1-0f90-4e3e-b236-5b47dfdbd9e5",
         "3e8c018b-f992-461c-80ba-8811e12be8d0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "93f9922a-ea16-48f3-8298-1adcb24efdcc",
         "9f01196f-cd5e-490a-85eb-17fdbc6883e0",
@@ -483,7 +485,7 @@
         "3d28de1b-b675-4472-8a70-979b67bfb5b0",
         "fea9de7f-dff9-41ff-8a86-0412070d4d8e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "93f9922a-ea16-48f3-8298-1adcb24efdcc",
         "9f01196f-cd5e-490a-85eb-17fdbc6883e0",
@@ -511,8 +513,8 @@
         "7d9c0ba1-0f90-4e3e-b236-5b47dfdbd9e5",
         "3e8c018b-f992-461c-80ba-8811e12be8d0"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -530,8 +532,8 @@
         "3d28de1b-b675-4472-8a70-979b67bfb5b0",
         "3e8c018b-f992-461c-80ba-8811e12be8d0"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -547,7 +549,7 @@
         "7e630865-ff48-482e-8550-aa5e0debdb3a",
         "0b04f1f3-a8d7-437d-9d0c-e27204751cb9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "93f9922a-ea16-48f3-8298-1adcb24efdcc",
         "9f01196f-cd5e-490a-85eb-17fdbc6883e0",
@@ -566,13 +568,13 @@
       "dutyID": "94bde67a-6160-4845-9b02-dde9ac9dc969",
       "dutyDetail": "Prepare and complete relevant work documentation from quotation to certification and handover stages",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0b04f1f3-a8d7-437d-9d0c-e27204751cb9",
         "bbfc7419-3983-41c4-9988-3c141786440c",
         "3fe0d0e3-20cf-499f-bba8-7100c219db47"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6dd27135-5f9c-4f7c-8607-13849b463d65",
         "6e64de08-46d0-4d15-a92d-bf71f8de5569"
@@ -595,7 +597,7 @@
         "8fd02713-385f-4383-84ad-4333d15d9dcf",
         "170cdb83-710d-4b48-a5e2-d0ba8235a22f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bfe15370-ea2a-468e-9006-bdfee18ceaf7",
         "2667db1c-a75e-445e-80fc-1712e88b9df5",
@@ -605,6 +607,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
