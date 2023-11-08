@@ -413,7 +413,6 @@
       "detail": "Carry out and record planned and unplanned learning and development activities."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -451,8 +450,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Manufacturing/Process Maintenance Operative/Technician",
+  "clusterId": "71",
+  "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2023-10-30T15:40:57 +00:00",
   "lastUpdated": "",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/power-industry-distribution-cable-jointer?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/power-industry-distribution-cable-jointer",
   "qualifications": [
@@ -495,7 +497,7 @@
         "9805e744-fd24-436f-85bf-24b0e646c7c2",
         "e4c6a808-4e6c-43da-9c90-f2030dc3b152"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1d693332-9bca-47f9-bb3f-3e7090cf3ae4",
         "432ffb83-8210-40b2-9df2-39a9d654287c",
@@ -533,7 +535,7 @@
         "e4c6a808-4e6c-43da-9c90-f2030dc3b152",
         "77d0ba65-1a4a-45e0-86ca-050fb0c90b94"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0f0f1220-a4a7-46ea-b86e-e2a891a1096a",
         "2eebc141-8f0c-4b55-9298-459e2a167090",
@@ -576,7 +578,7 @@
         "6ea78ee1-47d8-413c-8718-53ac854f0343",
         "e4c6a808-4e6c-43da-9c90-f2030dc3b152"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ceb55aa3-6025-424c-88c2-e039a0e4cc8c",
         "409c0422-57a5-4f9f-acf5-935eda6c27b6",
@@ -615,7 +617,7 @@
         "e4c6a808-4e6c-43da-9c90-f2030dc3b152",
         "77d0ba65-1a4a-45e0-86ca-050fb0c90b94"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ceb55aa3-6025-424c-88c2-e039a0e4cc8c",
         "2eebc141-8f0c-4b55-9298-459e2a167090",
@@ -642,7 +644,7 @@
         "e4c6a808-4e6c-43da-9c90-f2030dc3b152",
         "77d0ba65-1a4a-45e0-86ca-050fb0c90b94"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "29cf1102-ecef-4098-ab28-bb106483873b",
         "87b5af16-2dda-40b4-be9c-51695c3efb9c",
@@ -664,7 +666,7 @@
       "mappedKnowledge": [
         "e4c6a808-4e6c-43da-9c90-f2030dc3b152"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "06e63f4d-6b57-4683-9c65-f23d3579ab86",
         "3214d94c-a773-4863-ad10-6732889d8d10"
@@ -685,7 +687,7 @@
       "mappedKnowledge": [
         "e4c6a808-4e6c-43da-9c90-f2030dc3b152"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "06e63f4d-6b57-4683-9c65-f23d3579ab86"
       ],
@@ -695,13 +697,13 @@
       "dutyID": "83759f1b-9459-4fda-b23b-b7781faa8cff",
       "dutyDetail": "Complete insulation and continuity testing.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "f4403ab6-c025-4342-af07-056e580f7fd8",
         "60dc62c3-42d0-4f7c-8380-c2718c0d9799",
         "884cd65c-8cf4-408d-85cf-d0d65f3e18d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "54588c30-6933-4785-b0dc-ff9060d6ef68",
         "2eebc141-8f0c-4b55-9298-459e2a167090"
@@ -738,7 +740,7 @@
         "3392da45-bee5-45eb-a7fb-b9beab4779a9",
         "775a94dd-8708-42f4-80be-15af9012e4dd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "54588c30-6933-4785-b0dc-ff9060d6ef68",
         "c9aebf9e-16c4-47d0-aa1f-e5261bb8b2ab",
@@ -782,7 +784,7 @@
         "fdeebb34-5983-4144-8262-a5fe2de362da",
         "3392da45-bee5-45eb-a7fb-b9beab4779a9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "54588c30-6933-4785-b0dc-ff9060d6ef68",
         "0fc62d4c-0da9-4e6b-969e-3e3303f7e329",
@@ -818,7 +820,7 @@
         "884cd65c-8cf4-408d-85cf-d0d65f3e18d1",
         "3392da45-bee5-45eb-a7fb-b9beab4779a9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "54588c30-6933-4785-b0dc-ff9060d6ef68",
         "fd065f7f-7b76-42f1-9cfa-5a503268ad6c",
@@ -845,7 +847,7 @@
         "f4403ab6-c025-4342-af07-056e580f7fd8",
         "3392da45-bee5-45eb-a7fb-b9beab4779a9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "54588c30-6933-4785-b0dc-ff9060d6ef68",
         "6941791e-870d-4b86-9800-2ea7fbf7854a",
@@ -873,7 +875,7 @@
         "e4c6a808-4e6c-43da-9c90-f2030dc3b152",
         "77d0ba65-1a4a-45e0-86ca-050fb0c90b94"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8b7414e1-571a-450e-a87f-7a52559cf684",
         "2eebc141-8f0c-4b55-9298-459e2a167090",
@@ -885,6 +887,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
