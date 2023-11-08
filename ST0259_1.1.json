@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/111",
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised",
-  "changedDate": "2023-10-27T00:00:00Z",
-  "earliestStartDate": "2023-10-27T00:00:00Z",
+  "changedDate": "2023-10-27T00:00:00",
+  "earliestStartDate": "2023-10-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Carrying out a range of moving, packaging and stock-taking roles and duties in a warehouse environment.",
@@ -220,7 +220,6 @@
       "detail": "Conducts handover activities."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -255,8 +254,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship will be reviewed within the next three years&lt;/p&gt;",
   "pathway": "Logistics",
   "cluster": "Supply Chain Operative/Technician",
+  "clusterId": "37",
+  "clusterDescription": "Undertake routine materials movement, plan and administer logistics",
   "createdDate": "2023-10-27T08:39:07 +00:00",
   "lastUpdated": "2023-10-27T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/supply-chain-warehouse-operative-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/supply-chain-warehouse-operative-v1-1",
   "qualifications": [],
@@ -276,7 +278,7 @@
         "f63ffe30-5f44-4945-9089-f77bdd816b08",
         "4731691c-c8ad-4429-bb2f-2da63c393308"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a2ac7f72-19cc-4448-bd2f-797e4d7feeb5",
         "96e3b9cf-096f-44e6-9a32-4659ed4b232e",
@@ -303,7 +305,7 @@
         "070878ea-f51e-484e-bab8-d3e9268c5abe",
         "0ae58adb-8d67-475a-9329-8d24f891f3a8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1b86f1a5-3b77-4285-8a8b-855e14b801b0",
         "b7c8ba40-b3c6-4ee3-af01-748aea474f0d"
@@ -314,14 +316,14 @@
       "dutyID": "cc498f9f-710d-4f82-bd76-af38fad94cc1",
       "dutyDetail": "Move and store goods safely, securely and efficiently to the designated location, utilising mechanical handling equipment, (MHE) and personal protective equipment (PPE) in line with organisational procedures when required. When using any MHE, ensure that safety checks are conducted before use to ensure that it is fit for purpose.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "e161b7f0-043e-43e2-aba1-bc96d1bf5032",
         "3d17a480-adb2-4bfb-b172-72650c7872a8",
         "64fadd59-f777-49e6-8b87-5bd7b45ddd55",
         "3a57d3d7-9994-43a3-ae10-891be92bbf12"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "96e3b9cf-096f-44e6-9a32-4659ed4b232e",
         "8a23c355-e05a-49d9-a906-b040b45667de",
@@ -346,7 +348,7 @@
         "0ae58adb-8d67-475a-9329-8d24f891f3a8",
         "4192283b-22de-421c-a770-40ea830a175f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8a23c355-e05a-49d9-a906-b040b45667de",
         "65dc461f-514f-4216-9167-6349158004bc",
@@ -372,7 +374,7 @@
         "67a8ae00-2e96-480c-b297-2c77bda0a320",
         "4192283b-22de-421c-a770-40ea830a175f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aacf2a05-902a-4dba-9888-8b4e1238f88c",
         "65dc461f-514f-4216-9167-6349158004bc",
@@ -399,7 +401,7 @@
         "543fe7fe-9c45-4770-ba80-58472b2779c7",
         "7a1c7d97-c26f-45ee-800e-95b534e52ead"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "96e3b9cf-096f-44e6-9a32-4659ed4b232e",
         "09685ccd-6caa-4c32-9c6e-08573220596d"
@@ -417,7 +419,7 @@
         "e161b7f0-043e-43e2-aba1-bc96d1bf5032",
         "f63ffe30-5f44-4945-9089-f77bdd816b08"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "96e3b9cf-096f-44e6-9a32-4659ed4b232e",
         "1b86f1a5-3b77-4285-8a8b-855e14b801b0",
@@ -442,7 +444,7 @@
         "9ef5667c-1afc-4e44-9dc8-e22de5ce5c0e",
         "63745473-8eb0-4ee9-ade6-2eaf31b24b13"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1b86f1a5-3b77-4285-8a8b-855e14b801b0",
         "8a23c355-e05a-49d9-a906-b040b45667de",
@@ -467,7 +469,7 @@
         "60c3cdb5-c22c-44fd-a970-243618027019",
         "7a1c7d97-c26f-45ee-800e-95b534e52ead"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8a23c355-e05a-49d9-a906-b040b45667de",
         "aacf2a05-902a-4dba-9888-8b4e1238f88c",
@@ -491,7 +493,7 @@
         "7a1c7d97-c26f-45ee-800e-95b534e52ead",
         "070878ea-f51e-484e-bab8-d3e9268c5abe"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "96e3b9cf-096f-44e6-9a32-4659ed4b232e",
         "8a23c355-e05a-49d9-a906-b040b45667de",
@@ -517,7 +519,7 @@
         "67a8ae00-2e96-480c-b297-2c77bda0a320",
         "4ca0dd53-d305-44d2-bf2f-e14b2e1e1f25"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c4e02ffe-0684-4e61-841c-5a00568486f2",
         "89fd3d14-f1f2-408b-9606-4889822b7a64",
@@ -540,7 +542,7 @@
         "0ae58adb-8d67-475a-9329-8d24f891f3a8",
         "4192283b-22de-421c-a770-40ea830a175f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65dc461f-514f-4216-9167-6349158004bc",
         "b7c8ba40-b3c6-4ee3-af01-748aea474f0d",
@@ -563,7 +565,7 @@
         "6db2d478-6a0d-4041-9834-5162f80a91dc",
         "4298d076-85b4-482d-bfc6-1ae02279229c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c4e02ffe-0684-4e61-841c-5a00568486f2",
         "09685ccd-6caa-4c32-9c6e-08573220596d",
@@ -573,6 +575,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
