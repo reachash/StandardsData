@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/722",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-08-30T00:00:00Z",
-  "earliestStartDate": "2023-08-29T00:00:00Z",
+  "changedDate": "2023-08-30T00:00:00",
+  "earliestStartDate": "2023-08-29T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Lead the asset management function within an organisation.",
@@ -309,7 +309,6 @@
       "detail": "Use project management and planning techniques. Monitor progress towards project goals and identify corrective actions."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -343,8 +342,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Quality Improvement, Health & Safety Professional",
+  "clusterId": "257",
+  "clusterDescription": "Direct and manage overall product and process integrity and quality, and the health and safety of a whole workplace",
   "createdDate": "2023-09-28T10:40:07 +00:00",
   "lastUpdated": "2023-08-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/infrastructure-asset-management-professional-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/infrastructure-asset-management-professional-v1-0",
   "qualifications": [],
@@ -375,7 +377,7 @@
         "6d9b2cdc-e98a-49b5-82f9-96cfef3e5ce9",
         "5d8ef1f9-b75c-4717-b15c-94985ab073f5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "35042238-bd84-45db-9bbe-374dbca7331d",
         "04c7539c-18b4-4db7-9fbd-31aa9e875f44",
@@ -404,7 +406,7 @@
         "6d9b2cdc-e98a-49b5-82f9-96cfef3e5ce9",
         "5d8ef1f9-b75c-4717-b15c-94985ab073f5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "165bd6b8-0640-45f7-8fb5-d18262ebe1c0",
         "35042238-bd84-45db-9bbe-374dbca7331d",
@@ -433,7 +435,7 @@
         "a9a38851-de86-47ab-9ec9-6986747538ef",
         "591ece5d-2f3b-4d62-a552-b23c31351f29"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ea662a68-6844-404f-a17b-d4cb4d7ebb54",
         "e2a56265-dabe-4bfa-9b87-34bd548b82d8",
@@ -453,15 +455,15 @@
         "3446f66a-5b1a-4561-86b2-68c260d3ed68",
         "71cad93a-fb04-4d4d-8a5e-70fb25e5cb08"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "26f41136-51ec-491b-8d82-79051c7089dd",
       "dutyDetail": "Create and implement plans to ensure effective, ethical, and sustainable lifecycle plans, from demand identification, through creation, and operation and maintenance, to disposal, of the assets and systems of assets with the overall asset portfolio.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "c55e3f91-cf76-46ff-a8bf-5947749be65f",
         "0880b523-be7f-4135-84e9-010056d911a6",
@@ -477,7 +479,7 @@
         "3446f66a-5b1a-4561-86b2-68c260d3ed68",
         "71cad93a-fb04-4d4d-8a5e-70fb25e5cb08"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "165bd6b8-0640-45f7-8fb5-d18262ebe1c0",
         "8f2a7d43-7c3a-4a34-8d4f-427d74ede9fc",
@@ -494,7 +496,7 @@
       "dutyID": "586b32e9-6cf1-4b1b-bd85-362c485f21ae",
       "dutyDetail": "Define, establish, implement, and review frameworks for risk quantification and proactive asset decision making balancing performance, risk, and cost across the asset life cycle with risk appetite and tolerance boundaries.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0880b523-be7f-4135-84e9-010056d911a6",
         "b19ec406-b358-4c21-a98d-3e4f516e712e",
@@ -505,7 +507,7 @@
         "0ed501ff-74d6-4c9d-837f-063be1e16804",
         "ba26088b-0fdb-4ec2-9a20-c058309050d8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e452de56-a665-454e-a3d0-2d44e2004492",
         "674a7cbd-e0ea-4099-a64b-3d35369ce286"
@@ -516,7 +518,7 @@
       "dutyID": "bf7cd7fb-cc05-4922-b03b-03f3464e0e0b",
       "dutyDetail": "Set and manage strategic mitigation plans to ensure long term resilience of asset systems.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0880b523-be7f-4135-84e9-010056d911a6",
         "b19ec406-b358-4c21-a98d-3e4f516e712e",
@@ -524,7 +526,7 @@
         "ba9ffca5-c3b8-43c4-971d-397e02cb7920",
         "1287544e-78cc-47ce-8eba-f1acb575accc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ee39df0e-8774-4a0a-beeb-902e7c3100a0",
         "ea662a68-6844-404f-a17b-d4cb4d7ebb54"
@@ -548,7 +550,7 @@
         "f352ccbd-00b1-450f-952d-096597f79505",
         "591ece5d-2f3b-4d62-a552-b23c31351f29"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c0318860-a4da-44ad-98d9-954566dbf892",
         "f596d4c3-d1a5-402c-83b4-a74848c0b578",
@@ -567,8 +569,8 @@
         "037a23fe-fb01-4488-ae2e-08a745bb8a30",
         "3446f66a-5b1a-4561-86b2-68c260d3ed68"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -591,7 +593,7 @@
         "591ece5d-2f3b-4d62-a552-b23c31351f29",
         "5d8ef1f9-b75c-4717-b15c-94985ab073f5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bfd0554c-2ccf-4825-b93a-402dfecf7c4b",
         "5bdbec71-cc64-4b93-becf-976771172e33",
@@ -605,7 +607,7 @@
       "dutyID": "a2b153c3-1a0b-4e72-a8fd-bb5ad7db951f",
       "dutyDetail": "Report on asset and/or service performance, delivery of asset management plans, emerging risks to external or internal stakeholders for example regulators, investors, and shareholders.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "c55e3f91-cf76-46ff-a8bf-5947749be65f",
         "0ed501ff-74d6-4c9d-837f-063be1e16804",
@@ -613,7 +615,7 @@
         "3446f66a-5b1a-4561-86b2-68c260d3ed68",
         "cbf570a8-e4ca-4f34-bf45-931c12efd936"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8f2a7d43-7c3a-4a34-8d4f-427d74ede9fc",
         "dee7ee29-057a-4c6f-9cf3-b515b505d003",
@@ -633,7 +635,7 @@
         "cb439ae0-2214-40ab-b64f-ce9b1be92d24",
         "09b03974-4706-4d53-b6d7-fb2ddb5dec3a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8f2a7d43-7c3a-4a34-8d4f-427d74ede9fc",
         "2ad05c91-1133-4240-a3f3-381d46d0a49d",
@@ -647,7 +649,7 @@
       "dutyID": "fad1c36e-8eae-4bbd-be5b-df74248ab329",
       "dutyDetail": "Assure the delivery of programmes and portfolios of work to meet the objectives of the asset management strategy and plans.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "77f1d65b-cd4d-4ca8-82ae-adb9c71dddbf",
         "1736ac2d-630c-433c-bc6d-6ef2be30a1be",
@@ -656,7 +658,7 @@
         "5bfa244e-4f58-4957-bfb4-cd4d510b9122",
         "d6d360ac-9d97-4447-abe5-9ad5f9dcfa9c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8f2a7d43-7c3a-4a34-8d4f-427d74ede9fc"
       ],
@@ -666,14 +668,14 @@
       "dutyID": "edd28313-6bae-4b04-b0d9-0e42683c9600",
       "dutyDetail": "Oversight and acceptance of asset investment business cases across the asset portfolio, in line with organisational decision framework and governance.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "d9c9ce9c-1050-4880-a42b-fdd5d45fe1bc",
         "1736ac2d-630c-433c-bc6d-6ef2be30a1be",
         "f8072e3b-9eff-4480-a811-21692f3b48d1",
         "3446f66a-5b1a-4561-86b2-68c260d3ed68"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d53351a9-b932-45f5-840b-d6feb2b71aae",
         "7fcd6a8d-227e-48b9-a230-a315b9278e3b"
@@ -698,7 +700,7 @@
         "5bfa244e-4f58-4957-bfb4-cd4d510b9122",
         "d6d360ac-9d97-4447-abe5-9ad5f9dcfa9c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c0318860-a4da-44ad-98d9-954566dbf892",
         "8f2a7d43-7c3a-4a34-8d4f-427d74ede9fc",
@@ -729,7 +731,7 @@
         "d6d360ac-9d97-4447-abe5-9ad5f9dcfa9c",
         "5d8ef1f9-b75c-4717-b15c-94985ab073f5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c0318860-a4da-44ad-98d9-954566dbf892",
         "ee4d97fc-8ba0-4be8-82d8-f829b77982b8",
@@ -755,7 +757,7 @@
         "f352ccbd-00b1-450f-952d-096597f79505",
         "49f6a14f-d777-4fb6-800f-f2ab17e7dcea"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c0318860-a4da-44ad-98d9-954566dbf892",
         "d0bfbfbb-5803-41e9-b303-e3dff3d8bc57",
@@ -781,7 +783,7 @@
         "71cad93a-fb04-4d4d-8a5e-70fb25e5cb08",
         "5d8ef1f9-b75c-4717-b15c-94985ab073f5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8aabfa2e-7960-405b-b977-ce4ce88b844e",
         "ee4d97fc-8ba0-4be8-82d8-f829b77982b8",
@@ -793,6 +795,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
