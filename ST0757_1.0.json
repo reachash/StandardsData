@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/611",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-02-25T00:00:00Z",
-  "earliestStartDate": "2020-12-11T00:00:00Z",
+  "changedDate": "2022-02-25T00:00:00",
+  "earliestStartDate": "2020-12-11T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Ensure that digital data and voice networks operate at an optimal level.",
@@ -265,7 +265,6 @@
       "detail": "Review own development needs"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -299,8 +298,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Digital Support and Services",
   "cluster": "IT Support and Services Technician",
+  "clusterId": "187",
+  "clusterDescription": "Help internal and external customers to install and use IT technology along with trouble - shooting their problems. Skills are developed across IT security and data management",
   "createdDate": "2020-06-12T15:09:42 +00:00",
   "lastUpdated": "2022-02-25T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/radio-network-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/radio-network-technician-v1-0",
   "qualifications": [],
@@ -339,7 +341,7 @@
         "dda1fdeb-3197-4382-b746-8166c19ccb76",
         "87ca8a99-a2a7-41d5-b46a-179e20a92dd2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "efc9f016-dea4-41bf-8c6d-693896aa54e5",
         "30bf816a-f9bf-461b-add5-e10bd1b1243e",
@@ -369,7 +371,7 @@
         "f9c163e0-66cb-4d37-b5b1-ca35df352d80",
         "dda1fdeb-3197-4382-b746-8166c19ccb76"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2cdbdac6-54d1-4976-a3d0-d6dd6db93560",
         "a9109652-b5e3-4135-a396-6f436bc0f0f6",
@@ -398,7 +400,7 @@
         "cd1bc02b-a5df-4cfd-bea1-744800370eca",
         "f57777d2-a963-4917-815c-97bb94199aaf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a9109652-b5e3-4135-a396-6f436bc0f0f6",
         "9349707c-10e7-4624-af74-87736f46e724",
@@ -424,7 +426,7 @@
         "87ca8a99-a2a7-41d5-b46a-179e20a92dd2",
         "b4a9a850-f276-4b68-8ead-f5cc255c9948"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5e3764c3-420e-40f0-bd37-4cc9aeac1fc1",
         "7077a716-12c1-48cd-9301-d17ef2cef6c7"
@@ -447,7 +449,7 @@
         "cd1bc02b-a5df-4cfd-bea1-744800370eca",
         "f57777d2-a963-4917-815c-97bb94199aaf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "92e703a7-05fb-4721-b76c-62c9c4f4c594",
         "f4d0d6a9-209d-4451-9a12-66672505c947",
@@ -477,7 +479,7 @@
         "cd1bc02b-a5df-4cfd-bea1-744800370eca",
         "f57777d2-a963-4917-815c-97bb94199aaf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "92e703a7-05fb-4721-b76c-62c9c4f4c594",
         "9349707c-10e7-4624-af74-87736f46e724",
@@ -506,7 +508,7 @@
         "7ca66831-7343-4e1e-b79b-1ec117f8b9d5",
         "b4a9a850-f276-4b68-8ead-f5cc255c9948"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "92e703a7-05fb-4721-b76c-62c9c4f4c594",
         "9349707c-10e7-4624-af74-87736f46e724",
@@ -535,7 +537,7 @@
         "3903a82b-4754-40cf-a86d-cc17c20cffdc",
         "dda1fdeb-3197-4382-b746-8166c19ccb76"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "efc9f016-dea4-41bf-8c6d-693896aa54e5",
         "30bf816a-f9bf-461b-add5-e10bd1b1243e",
@@ -565,7 +567,7 @@
         "4b5ff68e-c222-4f13-9673-2a79511b126c",
         "662418f3-203f-4abe-af4a-28e9c450b261"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4bf562a1-4f12-4d68-a28f-a98849937231",
         "a9109652-b5e3-4135-a396-6f436bc0f0f6",
@@ -586,7 +588,7 @@
       "mappedKnowledge": [
         "dda1fdeb-3197-4382-b746-8166c19ccb76"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0887157f-409a-4c67-a523-7129eb2fafe2",
         "8157c71f-1bf6-477d-a707-8089e7edf460",
@@ -606,7 +608,7 @@
         "d9e7098e-adff-43e7-9154-2e9590f46808",
         "f57777d2-a963-4917-815c-97bb94199aaf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a89bbfc5-2551-4a48-968f-ed369fd04ee2",
         "4863c2a5-e34e-4da1-9f3a-ea25e98f0b41",
@@ -626,7 +628,7 @@
       "mappedKnowledge": [
         "757a40fd-273f-4e1b-a76a-4e8bbe4a0e3f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9f166e09-ff87-4b4a-91ab-6c3b028e5f2e",
         "f4498d07-5a75-423f-9216-343ee54795b3"
@@ -644,7 +646,7 @@
         "cd1bc02b-a5df-4cfd-bea1-744800370eca",
         "af9581f6-0501-4745-9e4c-4d883f0ce10c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0887157f-409a-4c67-a523-7129eb2fafe2",
         "0ae1657f-1575-46d9-bcf6-3f369abb5340",
@@ -654,6 +656,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
