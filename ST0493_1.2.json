@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/281",
   "versionNumber": "1.2",
   "change": "End-point assessment plan revised.",
-  "changedDate": "2023-09-01T00:00:00Z",
-  "earliestStartDate": "2022-07-01T00:00:00Z",
-  "latestStartDate": "2023-08-31T00:00:00Z",
+  "changedDate": "2023-09-01T00:00:00",
+  "earliestStartDate": "2022-07-01T00:00:00",
+  "latestStartDate": "2023-08-31T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Diagnose and treat foot, ankle and leg problems.",
   "level": 6,
@@ -285,7 +285,6 @@
       "detail": "Demonstrate evidence-based practice"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -313,13 +312,17 @@
   "reviewDetails": "",
   "pathway": "Health",
   "cluster": "Health Professional",
+  "clusterId": "6",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2022-06-30T13:50:14 +00:00",
   "lastUpdated": "2023-09-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/podiatrist-integrated-degree-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/podiatrist-integrated-degree-v1-2",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training provider",
