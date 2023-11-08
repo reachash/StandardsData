@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/596",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2020-08-24T00:00:00Z",
-  "earliestStartDate": "2020-08-24T00:00:00Z",
+  "changedDate": "2020-08-24T00:00:00",
+  "earliestStartDate": "2020-08-24T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Create knitted components or products that meet customer and/or organisation specifications and quality standards.",
@@ -254,7 +254,6 @@
       "detail": "Follow safe working practices, for example follows manual handling, lifting and safe ergonomic practice"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -290,8 +289,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing Operative",
+  "clusterId": "264",
+  "clusterDescription": "Routine assembly of manufactured products",
   "createdDate": "2020-08-06T08:03:23 +00:00",
   "lastUpdated": "2020-08-24T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/knitted-product-manufacturing-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/knitted-product-manufacturing-technician-v1-0",
   "qualifications": [],
@@ -312,7 +314,7 @@
         "32a92550-8527-422c-8ee0-49e0686b790f",
         "75011936-5183-4b96-a96e-b037c578cb8f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c69df240-3ac5-4274-95fc-2253fc1b669e",
         "2b228695-1b65-446b-8954-b2104e8ea385"
@@ -323,12 +325,12 @@
       "dutyID": "e9009696-efda-4d70-8059-bf073cff0198",
       "dutyDetail": "Select yarns or materials for knitting against the product brief and report any shortages or quality issues",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "1d8a2974-17ef-4125-bc15-1412c0640475",
         "99accb32-3e35-45ad-bdd5-b0f6af77de9e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e9298145-b1de-4333-a12f-5efd4874f0ea",
         "34c9f037-9e1f-461c-9692-cd2994c7a6af"
@@ -348,7 +350,7 @@
         "1bc23a2e-86b2-4ac1-a0c7-afd470e51904",
         "aa9c7d7b-ac00-45bd-8dea-eb7aaf324f28"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "91fd28d4-f2dc-4cf2-ab01-1d3b36fb3d70",
         "f81d0283-2b5a-49d4-9ee5-79aa62ca7a2d"
@@ -365,7 +367,7 @@
       "mappedKnowledge": [
         "16fa8564-d40a-4167-aea8-fb1533c5da0c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a7911af1-647d-49b7-9787-09e46cf02cc6"
       ],
@@ -384,7 +386,7 @@
         "35173108-c4ab-4959-8f85-fc727c9af677",
         "3a3472ce-84ea-47d7-82f1-f62c31102f80"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "289b6a02-4e93-47c2-b6a8-ba46cd8f3f9b",
         "2b228695-1b65-446b-8954-b2104e8ea385",
@@ -410,7 +412,7 @@
         "dc6340db-3fb3-4b12-88df-a0afbd1e005d",
         "e84b8132-c02a-4752-ae7e-1c957e0e3d4d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "289b6a02-4e93-47c2-b6a8-ba46cd8f3f9b",
         "aa195e68-0280-4bfd-89eb-7c52b7dad2ee",
@@ -430,7 +432,7 @@
         "99accb32-3e35-45ad-bdd5-b0f6af77de9e",
         "b1233ba4-fbd5-423f-8953-10c59a6a80a1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "be0c1c31-b68c-4bff-ac9d-4311bbede470",
         "d764a096-6f72-4627-9df4-b8bf4dc6b9fa",
@@ -449,7 +451,7 @@
       "mappedKnowledge": [
         "99accb32-3e35-45ad-bdd5-b0f6af77de9e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d0a2619d-d102-4e31-9ec4-9cd63c7255c0",
         "c20c9247-3955-47b9-a40e-ad8d603b6db3",
@@ -470,7 +472,7 @@
         "8ed4c7a6-6cfb-488a-bc9f-3d24f38b7e36",
         "dc6340db-3fb3-4b12-88df-a0afbd1e005d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9a30ced-840e-45c8-a30a-22cac83bb2a2",
         "0e34f498-1f19-4ad1-8a65-da24745e83c6"
@@ -491,7 +493,7 @@
         "a4d6cf62-6284-4469-818e-b62c279a9a8f",
         "51b3849d-4a91-4945-8625-8c5a9a844687"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6fd9a1e0-9d5a-48e3-90da-f21d6afb67ba",
         "5bd10b2c-7d69-46b9-8fdf-fe5c19085a36"
@@ -509,7 +511,7 @@
         "df4e77c8-994f-41cb-ad19-cec83432207d",
         "51b3849d-4a91-4945-8625-8c5a9a844687"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "85b4f03a-7ff5-4631-a79e-b3d909e82dba",
         "5bd10b2c-7d69-46b9-8fdf-fe5c19085a36"
@@ -532,7 +534,7 @@
         "f6eed4a4-1e34-4058-944b-89870a10c051",
         "51b3849d-4a91-4945-8625-8c5a9a844687"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c69df240-3ac5-4274-95fc-2253fc1b669e",
         "039b5ab4-a549-4333-9c7d-57936d722c5f",
@@ -541,6 +543,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
