@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/489",
   "versionNumber": "1.1",
   "change": "Funding band revised.\nEnd-point assessment plan and standard revised (published 2 July 2021).",
-  "changedDate": "2021-07-02T00:00:00Z",
-  "earliestStartDate": "2019-07-19T00:00:00Z",
+  "changedDate": "2021-07-02T00:00:00",
+  "earliestStartDate": "2019-07-19T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Gathering evidence through forensic sampling, toxicology, documentation of injuries and provision of a statement to support the criminal justice system.",
@@ -366,16 +366,6 @@
       "detail": "Sexual Offence. Identify strategies to support recovery for individuals who experience trauma."
     }
   ],
-  "options": [
-    {
-      "optionId": "85edeccc-b7f1-4811-aab2-b3520db0522f",
-      "title": "Custody "
-    },
-    {
-      "optionId": "096d9787-73cc-46b0-b571-2787e9133f5a",
-      "title": "Sexual Offence "
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -414,8 +404,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Health",
   "cluster": "Health Professional",
+  "clusterId": "6",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2021-07-02T15:34:53 +00:00",
   "lastUpdated": "2021-07-02T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/advanced-forensic-practitioner-custody-or-sexual-offence-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/advanced-forensic-practitioner-custody-or-sexual-offence-v1-1",
   "qualifications": [],
@@ -425,14 +418,14 @@
       "dutyID": "be68e871-9fcc-48bd-b5cf-6ad399df3c9c",
       "dutyDetail": "Lead and manage a medical emergency.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "a30ebc97-e0ef-49b9-892c-ab32ec5c24ba",
         "54e6234a-0c9c-403f-8bba-4a3f88454f38",
         "6af4b989-ea4a-4fe4-82db-65afaf449e10",
         "755c23e6-ee72-48cd-86a8-a3b00db64b8a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d98fd18c-51d6-48e8-933b-12d78da5bc87",
         "ad3adf54-80da-4d6f-b51c-8439c5674db1"
@@ -452,7 +445,7 @@
         "56015eee-10e2-4f83-823a-1e254a24f2d9",
         "54e6234a-0c9c-403f-8bba-4a3f88454f38"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "67069a48-fc36-4af7-8af8-860151b1b12b",
         "d98fd18c-51d6-48e8-933b-12d78da5bc87",
@@ -474,7 +467,7 @@
         "3fd1e267-b05d-48ff-bf90-4dc96dda15ec",
         "e489a308-7a8c-40c5-9e5d-f71716045714"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f7df05b7-2fa1-4963-b7a9-0e713876e58e",
         "1dec968f-a844-43c1-a3a3-ba4358edd378",
@@ -500,7 +493,7 @@
         "cf16170b-4026-4624-95ef-514211ebb9c4",
         "3a346ed1-628f-4f08-b672-6f336feaef5a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "35f813da-d113-4f64-90ff-4289b2b1ca57",
         "fb061d51-bad1-4e19-a34e-e0bf3a83093c",
@@ -524,7 +517,7 @@
         "6d4217c9-1732-422e-9a59-31987be2f9a0",
         "6dc9ab02-6068-4a20-ab77-421e8da19f47"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "679d5682-175d-4c97-98d6-ec6514091596",
         "7cc66400-a8b6-422d-b450-b52f512877f7"
@@ -535,11 +528,11 @@
       "dutyID": "a61b4eb4-1b12-49f3-a37d-27e2e4cac24f",
       "dutyDetail": "Obtain valid consent from client and manage those individuals who lack capacity to consent and ensure confidentiality and public disclosure framework are met.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "582d4888-0d95-4305-bf4e-006993b563ea"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "868baaa9-e208-45cf-ae4a-814a3bddb511",
         "49e89e2a-f6ec-4f28-bf89-417ad605ce71",
@@ -559,7 +552,7 @@
         "582d4888-0d95-4305-bf4e-006993b563ea",
         "54e6234a-0c9c-403f-8bba-4a3f88454f38"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0c2c31a9-eab4-47a4-8b7a-4ad147fa4a30",
         "d98fd18c-51d6-48e8-933b-12d78da5bc87",
@@ -579,7 +572,7 @@
         "b2651222-c45c-4d36-8581-ffa127ff02aa",
         "e39a3016-3876-4368-b32b-91b852315bd9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4bb73af1-4831-4825-ab11-782792edc6c5",
         "e7e97858-5e30-47b8-adef-2de86ae9a41a"
@@ -597,7 +590,7 @@
         "3a346ed1-628f-4f08-b672-6f336feaef5a",
         "1d3ef420-7f2d-4888-8d06-1eb80af958fc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "50c8947b-799a-43ff-9d37-f344bc07a585",
         "422c8091-0662-4208-9532-2f8d5e1ff9f6"
@@ -616,7 +609,7 @@
         "62de9955-0d93-498f-b00f-1115354d2298",
         "62488f09-2d76-49ec-b5e5-3ecfa841b61c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a8951043-a435-4801-a275-96b42e6ff360",
         "3a33909b-5b45-467c-90f0-7594c99ed8f4"
@@ -634,7 +627,7 @@
         "b58889d9-2622-41ea-a764-7c1bec681bd4",
         "e489a308-7a8c-40c5-9e5d-f71716045714"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f7df05b7-2fa1-4963-b7a9-0e713876e58e",
         "fa8c7b2b-fe26-49c9-a1f2-6bfbbf804568"
@@ -837,6 +830,18 @@
         "a10e2763-01f4-4a6c-9bb8-fed8a1a61045"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "85edeccc-b7f1-4811-aab2-b3520db0522f",
+      "title": "Custody ",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "096d9787-73cc-46b0-b571-2787e9133f5a",
+      "title": "Sexual Offence ",
+      "occupationCode": ""
     }
   ],
   "regulationDetail": [],
