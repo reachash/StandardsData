@@ -7,15 +7,15 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/575",
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised",
-  "changedDate": "2023-05-09T00:00:00Z",
-  "earliestStartDate": "2023-05-09T00:00:00Z",
+  "changedDate": "2023-05-09T00:00:00",
+  "earliestStartDate": "2023-05-09T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Check, prepare and operate a number of construction machines (known as plant) that is used onsite in the construction sector including on railways, demolition and utility works (water/gas/electricity supply).",
   "level": 2,
   "typicalDuration": 15,
   "maxFunding": 14000,
-  "route": "Construction and the built environment",
+  "route": "Construction",
   "keywords": [
     "construction",
     "construction machines",
@@ -202,7 +202,6 @@
       "detail": "Work in accordance with health, safety, welfare and environmental requirements, evaluate the working area and activity according to static and dynamic risk assessments and method statements, and report on unsafe situations following organisational procedures"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -239,8 +238,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Onsite Construction",
   "cluster": "Construction Operative/Supervisor",
+  "clusterId": "1",
+  "clusterDescription": "Use of heavy plant and equipment on surface construction sites and also specialist sites e.g. highways, tunnelling. Also the ability to undertake specialist construction work e.g. handling insulation, asbestos. Interprets drawings, plans and specifications along with methods and risk statement",
   "createdDate": "2023-05-09T14:23:52 +00:00",
   "lastUpdated": "2023-05-09T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/construction-plant-operative-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/construction-plant-operative-v1-1",
   "qualifications": [],
@@ -264,7 +266,7 @@
         "d83fac69-423d-4c99-99f1-be099d235f44",
         "646fcd1a-f6c3-4868-8559-af9a0a1a2948"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e5b7c75a-5d8f-49c5-b361-0535e0a6b7ee",
         "179182d7-14cf-4761-889f-c91e03db9960",
@@ -295,7 +297,7 @@
         "d83fac69-423d-4c99-99f1-be099d235f44",
         "646fcd1a-f6c3-4868-8559-af9a0a1a2948"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e5b7c75a-5d8f-49c5-b361-0535e0a6b7ee",
         "179182d7-14cf-4761-889f-c91e03db9960",
@@ -328,7 +330,7 @@
         "d83fac69-423d-4c99-99f1-be099d235f44",
         "646fcd1a-f6c3-4868-8559-af9a0a1a2948"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e5b7c75a-5d8f-49c5-b361-0535e0a6b7ee",
         "f6d850f0-e0cf-41b9-a363-d87490a9f012",
@@ -358,7 +360,7 @@
         "d83fac69-423d-4c99-99f1-be099d235f44",
         "646fcd1a-f6c3-4868-8559-af9a0a1a2948"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e5b7c75a-5d8f-49c5-b361-0535e0a6b7ee",
         "f6d850f0-e0cf-41b9-a363-d87490a9f012",
@@ -392,7 +394,7 @@
         "bc0984d3-7270-45aa-ae4d-b79394654a14",
         "d83fac69-423d-4c99-99f1-be099d235f44"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f6d850f0-e0cf-41b9-a363-d87490a9f012",
         "863c72b0-4ff3-4178-a730-fd9745d424af",
@@ -426,7 +428,7 @@
         "d83fac69-423d-4c99-99f1-be099d235f44",
         "646fcd1a-f6c3-4868-8559-af9a0a1a2948"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f6d850f0-e0cf-41b9-a363-d87490a9f012",
         "9b5e1247-7af6-483d-b061-ac995322677b",
@@ -454,7 +456,7 @@
         "bc0984d3-7270-45aa-ae4d-b79394654a14",
         "d83fac69-423d-4c99-99f1-be099d235f44"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5123795b-b1ca-48fe-b092-8acef9bf10ba",
         "bff80260-ca97-4cb0-8f37-cba6f50b558d",
@@ -487,7 +489,7 @@
         "bc0984d3-7270-45aa-ae4d-b79394654a14",
         "d83fac69-423d-4c99-99f1-be099d235f44"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a9551832-f338-44b9-bb31-5e96933a7c74",
         "5123795b-b1ca-48fe-b092-8acef9bf10ba",
@@ -521,7 +523,7 @@
         "bc0984d3-7270-45aa-ae4d-b79394654a14",
         "d83fac69-423d-4c99-99f1-be099d235f44"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e5b7c75a-5d8f-49c5-b361-0535e0a6b7ee",
         "863c72b0-4ff3-4178-a730-fd9745d424af",
@@ -559,7 +561,7 @@
         "bc0984d3-7270-45aa-ae4d-b79394654a14",
         "d83fac69-423d-4c99-99f1-be099d235f44"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e5b7c75a-5d8f-49c5-b361-0535e0a6b7ee",
         "863c72b0-4ff3-4178-a730-fd9745d424af",
@@ -597,7 +599,7 @@
         "bc0984d3-7270-45aa-ae4d-b79394654a14",
         "d83fac69-423d-4c99-99f1-be099d235f44"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e5b7c75a-5d8f-49c5-b361-0535e0a6b7ee",
         "863c72b0-4ff3-4178-a730-fd9745d424af",
@@ -633,7 +635,7 @@
         "d83fac69-423d-4c99-99f1-be099d235f44",
         "646fcd1a-f6c3-4868-8559-af9a0a1a2948"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e5b7c75a-5d8f-49c5-b361-0535e0a6b7ee",
         "f6d850f0-e0cf-41b9-a363-d87490a9f012",
@@ -660,7 +662,7 @@
         "8fe0f7a8-6ada-4451-894a-cffb73b3a87c",
         "d83fac69-423d-4c99-99f1-be099d235f44"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e5b7c75a-5d8f-49c5-b361-0535e0a6b7ee",
         "4503c86b-4dde-4911-bcd5-a4d9813a9ff3",
@@ -689,7 +691,7 @@
         "d83fac69-423d-4c99-99f1-be099d235f44",
         "646fcd1a-f6c3-4868-8559-af9a0a1a2948"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5123795b-b1ca-48fe-b092-8acef9bf10ba",
         "bff80260-ca97-4cb0-8f37-cba6f50b558d",
@@ -722,7 +724,7 @@
         "8fe0f7a8-6ada-4451-894a-cffb73b3a87c",
         "d83fac69-423d-4c99-99f1-be099d235f44"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f6d850f0-e0cf-41b9-a363-d87490a9f012",
         "bf848a0a-4fd9-4854-8c65-736cf483bdc6",
@@ -737,6 +739,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
