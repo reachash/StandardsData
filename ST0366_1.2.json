@@ -7,15 +7,15 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/356",
   "versionNumber": "",
   "change": "In revision",
-  "changedDate": "2023-10-16T00:00:00Z",
-  "earliestStartDate": "2023-11-09T00:00:00Z",
+  "changedDate": "2023-10-16T00:00:00",
+  "earliestStartDate": "2023-11-09T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Installing different types of fences, gates and barriers, across a broad cross-section of different environments.",
   "level": 2,
   "typicalDuration": 18,
   "maxFunding": 0,
-  "route": "Construction and the built environment",
+  "route": "Construction",
   "keywords": [
     "Fencing installer",
     "construction",
@@ -243,7 +243,6 @@
       "detail": "Install fencing material"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -273,8 +272,11 @@
   "reviewDetails": "",
   "pathway": "Onsite Construction",
   "cluster": "Core Building Tradesperson",
+  "clusterId": "5",
+  "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
   "createdDate": "2023-09-27T12:38:58 +00:00",
   "lastUpdated": "2023-10-16T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/fencing-installer-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/fencing-installer-in-revision",
   "qualifications": [],
@@ -307,7 +309,7 @@
         "8d0e7b5b-b2b4-471c-acec-eb88b187eab3",
         "51847e59-aa8e-40b9-8ad8-f882587abb79"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2d5ff247-87ad-4eab-8822-1d0455beba3f",
         "7bc88b92-d0c9-496c-a446-ec83d7b3e1bf",
@@ -355,7 +357,7 @@
         "048781cf-7528-4fdc-948e-43772a41817a",
         "8d0e7b5b-b2b4-471c-acec-eb88b187eab3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2d5ff247-87ad-4eab-8822-1d0455beba3f",
         "7bc88b92-d0c9-496c-a446-ec83d7b3e1bf",
@@ -398,7 +400,7 @@
         "d254ddd8-7986-4c96-9606-816df2dcfca6",
         "8d0e7b5b-b2b4-471c-acec-eb88b187eab3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2d5ff247-87ad-4eab-8822-1d0455beba3f",
         "7bc88b92-d0c9-496c-a446-ec83d7b3e1bf",
@@ -442,7 +444,7 @@
         "048781cf-7528-4fdc-948e-43772a41817a",
         "8d0e7b5b-b2b4-471c-acec-eb88b187eab3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2d5ff247-87ad-4eab-8822-1d0455beba3f",
         "7bc88b92-d0c9-496c-a446-ec83d7b3e1bf",
@@ -478,7 +480,7 @@
         "048781cf-7528-4fdc-948e-43772a41817a",
         "8d0e7b5b-b2b4-471c-acec-eb88b187eab3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2d5ff247-87ad-4eab-8822-1d0455beba3f",
         "7bc88b92-d0c9-496c-a446-ec83d7b3e1bf",
@@ -515,7 +517,7 @@
         "7587744a-9b10-4dc8-bc54-3d0a54f4459a",
         "8d0e7b5b-b2b4-471c-acec-eb88b187eab3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2d5ff247-87ad-4eab-8822-1d0455beba3f",
         "7bc88b92-d0c9-496c-a446-ec83d7b3e1bf",
@@ -554,7 +556,7 @@
         "bd9b3917-b0fb-4180-8fba-3485ca475520",
         "d254ddd8-7986-4c96-9606-816df2dcfca6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2d5ff247-87ad-4eab-8822-1d0455beba3f",
         "7bc88b92-d0c9-496c-a446-ec83d7b3e1bf",
@@ -595,7 +597,7 @@
         "4bd07a2d-5035-4395-8c01-5205f3fe4db3",
         "51847e59-aa8e-40b9-8ad8-f882587abb79"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2d5ff247-87ad-4eab-8822-1d0455beba3f",
         "7bc88b92-d0c9-496c-a446-ec83d7b3e1bf",
@@ -633,7 +635,7 @@
         "048781cf-7528-4fdc-948e-43772a41817a",
         "8d0e7b5b-b2b4-471c-acec-eb88b187eab3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2d5ff247-87ad-4eab-8822-1d0455beba3f",
         "7bc88b92-d0c9-496c-a446-ec83d7b3e1bf",
@@ -672,7 +674,7 @@
         "d254ddd8-7986-4c96-9606-816df2dcfca6",
         "048781cf-7528-4fdc-948e-43772a41817a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2d5ff247-87ad-4eab-8822-1d0455beba3f",
         "7bc88b92-d0c9-496c-a446-ec83d7b3e1bf",
@@ -708,7 +710,7 @@
         "4bd07a2d-5035-4395-8c01-5205f3fe4db3",
         "51847e59-aa8e-40b9-8ad8-f882587abb79"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2d5ff247-87ad-4eab-8822-1d0455beba3f",
         "7bc88b92-d0c9-496c-a446-ec83d7b3e1bf",
@@ -719,6 +721,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
