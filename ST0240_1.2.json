@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/60",
   "versionNumber": "1.2",
   "change": "Standard, funding band and end-point assessment plan revised.",
-  "changedDate": "2023-05-05T00:00:00Z",
-  "earliestStartDate": "2021-09-02T00:00:00Z",
-  "latestStartDate": "2023-05-04T00:00:00Z",
+  "changedDate": "2023-05-05T00:00:00",
+  "earliestStartDate": "2021-09-02T00:00:00",
+  "latestStartDate": "2023-05-04T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Supporting the sale and renewal of insurance products.",
   "level": 3,
@@ -198,20 +198,6 @@
       "detail": "Work as part of a team to help achieve results."
     }
   ],
-  "options": [
-    {
-      "optionId": "aed82f69-027e-4e8e-8377-db8b2c06766e",
-      "title": "Claims Handler/Loss Adjuster"
-    },
-    {
-      "optionId": "f1259bd3-36a3-4625-8984-10087aaadba5",
-      "title": "Assistant Underwriter"
-    },
-    {
-      "optionId": "8fcfb56f-aa30-40d7-ba9e-41c358ceb36c",
-      "title": "Junior Broker"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -244,8 +230,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Financial",
   "cluster": "Financial Services Administrator",
+  "clusterId": "240",
+  "clusterDescription": "Provide highly accurate support to operations and administration across wide areas of financial service areas including research and analysis compliant with relevant regulations. Deliver support to clients and to client account management (risk, collection, enforcement, recovery)",
   "createdDate": "2021-09-02T09:37:31 +00:00",
   "lastUpdated": "2023-05-05T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/insurance-practitioner-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/insurance-practitioner-v1-2",
   "qualifications": [
@@ -298,7 +287,7 @@
         "c4fd540e-b64f-4bc0-8073-8097be8f91d7",
         "67bffd42-0e02-4f9a-971a-ef15264b0b53"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6f1451d6-edbb-4dd4-bf71-65104deba29f",
         "b2f08e14-1361-42de-a0af-51fd0d4a18af",
@@ -325,7 +314,7 @@
         "1c15dd2e-fcef-4202-8d26-62870f5ae3d5",
         "5fc23c3c-da97-410f-8d56-920a79e263c5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b2f08e14-1361-42de-a0af-51fd0d4a18af",
         "84ed2a16-975b-4a7a-8113-72709a69e2e5",
@@ -351,7 +340,7 @@
         "6c7873c6-5ebc-4794-b63e-ae83f99c85c8",
         "66c513fc-2879-4033-bcba-55e0f8faf6a3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b2f08e14-1361-42de-a0af-51fd0d4a18af",
         "971f8281-a4c6-4121-ae59-163e872a6f42",
@@ -377,7 +366,7 @@
         "67bffd42-0e02-4f9a-971a-ef15264b0b53",
         "5fc23c3c-da97-410f-8d56-920a79e263c5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b2f08e14-1361-42de-a0af-51fd0d4a18af",
         "7e28e5a3-3d07-40b8-87a5-2e7d575c6ca8",
@@ -391,7 +380,7 @@
       "dutyID": "23e25506-dbc3-4787-9083-3eb02512ebff",
       "dutyDetail": "IT Systems - Create IT records and maintain up to date information relating to an insurance record via the organisations IT system(s).",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "63abf9de-a90c-4b02-83f2-5cafd4e07a79",
         "c4fd540e-b64f-4bc0-8073-8097be8f91d7",
@@ -399,7 +388,7 @@
         "66c513fc-2879-4033-bcba-55e0f8faf6a3",
         "1c15dd2e-fcef-4202-8d26-62870f5ae3d5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6f1451d6-edbb-4dd4-bf71-65104deba29f",
         "b2f08e14-1361-42de-a0af-51fd0d4a18af",
@@ -425,7 +414,7 @@
         "1c15dd2e-fcef-4202-8d26-62870f5ae3d5",
         "5fc23c3c-da97-410f-8d56-920a79e263c5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b2f08e14-1361-42de-a0af-51fd0d4a18af",
         "971f8281-a4c6-4121-ae59-163e872a6f42",
@@ -447,7 +436,7 @@
         "63abf9de-a90c-4b02-83f2-5cafd4e07a79",
         "66c513fc-2879-4033-bcba-55e0f8faf6a3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6f1451d6-edbb-4dd4-bf71-65104deba29f",
         "d3d5831e-5d6d-479f-b280-433dff7e523e",
@@ -634,6 +623,23 @@
         "73b62be4-6b33-438f-929f-287a97002746"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "aed82f69-027e-4e8e-8377-db8b2c06766e",
+      "title": "Claims Handler/Loss Adjuster",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "f1259bd3-36a3-4625-8984-10087aaadba5",
+      "title": "Assistant Underwriter",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "8fcfb56f-aa30-40d7-ba9e-41c358ceb36c",
+      "title": "Junior Broker",
+      "occupationCode": ""
     }
   ],
   "regulationDetail": [],
