@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/319",
   "versionNumber": "1.1",
   "change": "End-point assessment plan, standard and funding revised",
-  "changedDate": "2023-04-03T00:00:00Z",
-  "earliestStartDate": "2023-04-01T00:00:00Z",
+  "changedDate": "2023-04-03T00:00:00",
+  "earliestStartDate": "2023-04-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Working in a laboratory and using various scientific techniques.",
@@ -212,7 +212,6 @@
       "detail": "Keeps up to date with advances in scientific and sector working practices and technologies. Shares best practice across the team."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -255,8 +254,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Science",
   "cluster": "Science Advanced Technician",
+  "clusterId": "11",
+  "clusterDescription": "Provide laboratory-based investigative and scientific experimentation analyses, interpretations and evaluations of scientific information",
   "createdDate": "2022-11-04T15:50:14 +00:00",
   "lastUpdated": "2023-04-03T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/technician-scientist-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/technician-scientist-v1-1",
   "qualifications": [],
@@ -284,7 +286,7 @@
         "ce5fc42b-f7b0-4654-a714-eb916edcc1a9",
         "f6dd37c5-5ce6-4d85-9acb-1eaa109531ff"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5d92208b-9848-4587-ba7c-abf68aee11a6",
         "5a78dfff-182a-4842-8436-d297d391d782"
@@ -306,7 +308,7 @@
         "971e30c7-6529-436a-91b8-e91c81e50303",
         "f7313e91-54ee-426c-b40f-58eb141b5cda"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5d92208b-9848-4587-ba7c-abf68aee11a6",
         "5a78dfff-182a-4842-8436-d297d391d782",
@@ -326,7 +328,7 @@
       "mappedKnowledge": [
         "c54064c2-1217-423c-85fc-01f8c96a1f00"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9efefb00-f7bf-4271-96c9-81cc9e17314b"
       ],
@@ -343,7 +345,7 @@
         "b4590a19-6b88-465a-aba0-ba4b657a1a22",
         "bdf8e066-0be4-4a10-9fdd-e3cd5054182f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "905f4dcf-f4d7-4abb-b62f-b9d880262291",
         "84ba0848-1ab4-4f71-9c11-2e01002e65a3"
@@ -362,7 +364,7 @@
         "94daace8-24fb-4dbe-8d2b-0290176992be",
         "bdf8e066-0be4-4a10-9fdd-e3cd5054182f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "84ba0848-1ab4-4f71-9c11-2e01002e65a3",
         "8b41d0ad-f80c-42f7-9071-8af7af175274",
@@ -382,7 +384,7 @@
         "08cd9c9c-ff37-4cc1-81d4-3ee4b0acc03a",
         "1512b1eb-b961-4394-a57f-adeec49ff7ea"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "03e21570-89ec-4459-854a-5aec6cef2bb7",
         "5e90d92c-60da-4671-81c7-22363d6254a9",
@@ -395,13 +397,13 @@
       "dutyID": "812b37e3-bbfa-403e-9ded-b1130fd20e97",
       "dutyDetail": "Apply scientific techniques for data presentation to scientific and non-scientific audiences. e.g. statistics.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "b4590a19-6b88-465a-aba0-ba4b657a1a22",
         "a2a3e1b0-32db-4c6b-9c41-a953054b454c",
         "1512b1eb-b961-4394-a57f-adeec49ff7ea"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "03e21570-89ec-4459-854a-5aec6cef2bb7"
       ],
@@ -415,8 +417,8 @@
         "e9b86f74-346e-490e-9c5d-b14782eb732a",
         "259e32d0-439b-4fd2-b31c-03dfd32e1cf7"
       ],
-      "mappedKnowledge": null,
-      "mappedOptions": null,
+      "mappedKnowledge": [],
+      "mappedOptions": [],
       "mappedSkills": [
         "5e90d92c-60da-4671-81c7-22363d6254a9"
       ],
@@ -437,7 +439,7 @@
         "e4d9fbb8-828e-4445-82a0-d3c54731f3ca",
         "6797e813-869b-4abb-a785-16eb5a6d3f38"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7d6ff9e2-7990-4923-b1f9-f1fc9ba337dd",
         "9157fcca-7e58-4ce8-a70b-036566499706",
@@ -458,7 +460,7 @@
         "b144fd02-27fa-49d3-b1ec-f94d70098e36",
         "08cd9c9c-ff37-4cc1-81d4-3ee4b0acc03a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3bed429a-03a9-4cc0-b3b1-9d56e3befe15",
         "9157fcca-7e58-4ce8-a70b-036566499706",
@@ -468,6 +470,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
