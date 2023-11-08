@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/578",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2020-07-10T00:00:00Z",
-  "earliestStartDate": "2020-07-10T00:00:00Z",
+  "changedDate": "2020-07-10T00:00:00",
+  "earliestStartDate": "2020-07-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "The design of a unique tooling process pathway that enables components to be mass produced in the most economically viable way.",
@@ -165,7 +165,6 @@
       "detail": "Provide timely succinct written reports that explains complex technical issues and potential consequences using language and phrases appropriate to the audience’s knowledge and understanding."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -197,10 +196,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Engineering, Design and Development",
-  "cluster": "Design and Development Engineer",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2020-07-10T13:49:22 +00:00",
   "lastUpdated": "2020-07-10T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/tool-process-design-engineer-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/tool-process-design-engineer-v1-0",
   "qualifications": [],
@@ -237,7 +239,7 @@
         "8378665e-df97-425d-8e83-ba3416254bde",
         "65059306-7657-4e4e-8503-8cd1f2a09192"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7df5dfc2-f855-4d61-8150-8984fbed8649",
         "bc599607-9e5a-46c0-a486-00faa3bfc594",
@@ -270,7 +272,7 @@
         "5c93f8b4-073b-4920-8fef-c54acecf54b0",
         "52d4c87d-bbe8-4d41-b3fc-185dfcac36fa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7df5dfc2-f855-4d61-8150-8984fbed8649",
         "bc599607-9e5a-46c0-a486-00faa3bfc594",
@@ -299,7 +301,7 @@
         "ffef5248-1aa5-4f01-9a85-cd49c24317de",
         "5c93f8b4-073b-4920-8fef-c54acecf54b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bc599607-9e5a-46c0-a486-00faa3bfc594",
         "1c8d0c6f-dbc8-4221-9847-7de393335057",
@@ -331,7 +333,7 @@
         "8378665e-df97-425d-8e83-ba3416254bde",
         "65059306-7657-4e4e-8503-8cd1f2a09192"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7df5dfc2-f855-4d61-8150-8984fbed8649",
         "bc599607-9e5a-46c0-a486-00faa3bfc594",
@@ -368,7 +370,7 @@
         "8378665e-df97-425d-8e83-ba3416254bde",
         "65059306-7657-4e4e-8503-8cd1f2a09192"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7df5dfc2-f855-4d61-8150-8984fbed8649",
         "bc599607-9e5a-46c0-a486-00faa3bfc594",
@@ -401,7 +403,7 @@
         "5c93f8b4-073b-4920-8fef-c54acecf54b0",
         "8378665e-df97-425d-8e83-ba3416254bde"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7df5dfc2-f855-4d61-8150-8984fbed8649",
         "bc599607-9e5a-46c0-a486-00faa3bfc594",
@@ -431,7 +433,7 @@
         "5c93f8b4-073b-4920-8fef-c54acecf54b0",
         "65059306-7657-4e4e-8503-8cd1f2a09192"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7df5dfc2-f855-4d61-8150-8984fbed8649",
         "0a1b82be-f424-449a-80a7-7fbf085af648",
@@ -461,7 +463,7 @@
         "5c93f8b4-073b-4920-8fef-c54acecf54b0",
         "65059306-7657-4e4e-8503-8cd1f2a09192"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7df5dfc2-f855-4d61-8150-8984fbed8649",
         "bc599607-9e5a-46c0-a486-00faa3bfc594",
@@ -491,7 +493,7 @@
         "d0999b80-8a39-433b-b1b5-10328e54fb3f",
         "5c93f8b4-073b-4920-8fef-c54acecf54b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1c8d0c6f-dbc8-4221-9847-7de393335057",
         "bed2801d-29d6-462c-b56e-01da1b65bec9",
@@ -527,7 +529,7 @@
         "8378665e-df97-425d-8e83-ba3416254bde",
         "65059306-7657-4e4e-8503-8cd1f2a09192"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7df5dfc2-f855-4d61-8150-8984fbed8649",
         "1c8d0c6f-dbc8-4221-9847-7de393335057",
@@ -556,7 +558,7 @@
         "8378665e-df97-425d-8e83-ba3416254bde",
         "65059306-7657-4e4e-8503-8cd1f2a09192"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "82f97fc0-aa7e-4582-9028-77fc4016cdea",
         "0a1b82be-f424-449a-80a7-7fbf085af648",
@@ -582,7 +584,7 @@
         "5c93f8b4-073b-4920-8fef-c54acecf54b0",
         "8378665e-df97-425d-8e83-ba3416254bde"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7df5dfc2-f855-4d61-8150-8984fbed8649",
         "b253a346-98cf-413e-89cd-6acf4eaa8029",
@@ -591,6 +593,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
