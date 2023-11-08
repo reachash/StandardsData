@@ -3,13 +3,13 @@
   "larsCode": 514,
   "referenceNumber": "ST0846",
   "title": "Garment maker",
-  "status": "Approved for delivery",
+  "status": "Retired",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/514",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-04-08T00:00:00",
+  "changedDate": "2023-11-07T00:00:00",
   "earliestStartDate": "2019-09-27T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2023-11-06T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Constructing garments - bringing the design to life, following specifications and quality standards.",
   "level": 3,
@@ -22,7 +22,8 @@
     "garment",
     "manufacturing",
     "technology",
-    "craftsperson"
+    "craftsperson",
+    "theatre"
   ],
   "jobRoles": [
     "Costume Maker",
@@ -351,7 +352,7 @@
   "clusterId": "63",
   "clusterDescription": "Use traditional hand craft skills to shape and sculpt natural materials",
   "createdDate": "2019-07-11T10:58:01 +00:00",
-  "lastUpdated": "2022-04-08T00:00:00 +00:00",
+  "lastUpdated": "2023-11-07T00:00:00 +00:00",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/garment-maker-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/garment-maker-v1-0",
@@ -690,12 +691,12 @@
     {
       "optionId": "40b9cbfd-d855-45b2-8da6-ad2487901cc9",
       "title": "Structured Garment Production",
-      "occupationCode": null
+      "occupationCode": ""
     },
     {
       "optionId": "7e849cb8-6194-47fe-b96e-8f4febdb12b7",
       "title": "Non-structured Garment Production",
-      "occupationCode": null
+      "occupationCode": ""
     }
   ],
   "regulationDetail": [],
