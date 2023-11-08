@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/392",
   "versionNumber": "1.1",
   "change": "Standard, end-point assessment plan and funding band revised",
-  "changedDate": "2023-11-01T00:00:00Z",
-  "earliestStartDate": "2023-10-30T00:00:00Z",
+  "changedDate": "2023-11-01T00:00:00",
+  "earliestStartDate": "2023-10-30T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Planning and maintaining large gardens, parks and other green spaces.",
@@ -339,16 +339,6 @@
       "detail": "Survey site for landscape construction, including presence of services, drainage, plantings, features, protected areas and hazards."
     }
   ],
-  "options": [
-    {
-      "optionId": "617f23e5-4a48-4375-a160-d4c95dc907de",
-      "title": "Horticulture Supervisor"
-    },
-    {
-      "optionId": "4892ce9e-f0c6-4adf-9d8f-dfff87c11899",
-      "title": "Landscaping Supervisor"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Landscape construction",
     "Horticulture"
@@ -385,8 +375,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Landscape Horticulture Operative/Technician",
+  "clusterId": "161",
+  "clusterDescription": "The design, construction and maintenance of gardens, designed landscapes and sports turf facilities for private, commercial and community use",
   "createdDate": "2023-09-26T07:45:14 +00:00",
   "lastUpdated": "2023-11-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/horticulture-or-landscaping-supervisor-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/horticulture-or-landscaping-supervisor-v1-1",
   "qualifications": [
@@ -434,7 +427,7 @@
         "cf61b6e7-4858-4da7-89e2-c2406efcf9b6",
         "c2da4d5b-f4f6-4366-a549-5a0c6ba92d3c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "17a3dc3f-a8e0-4ac0-94b0-92789ca32533",
         "bb39e497-a7e9-4e7c-8b28-133647471bd3",
@@ -463,7 +456,7 @@
         "26e415fd-883f-4884-8ae6-5d4c4b458103",
         "c2da4d5b-f4f6-4366-a549-5a0c6ba92d3c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dc89ca69-0afd-43ec-91ab-52bd45de38e8",
         "7394fc5e-108a-45a8-a712-30eb989e7d3b",
@@ -502,7 +495,7 @@
         "bb865170-80ef-4750-ad3d-0680a567fc4e",
         "7abab06c-5cd4-443e-9360-c7dc20461d57"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dc89ca69-0afd-43ec-91ab-52bd45de38e8",
         "7394fc5e-108a-45a8-a712-30eb989e7d3b",
@@ -540,7 +533,7 @@
         "bb865170-80ef-4750-ad3d-0680a567fc4e",
         "7abab06c-5cd4-443e-9360-c7dc20461d57"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dc89ca69-0afd-43ec-91ab-52bd45de38e8",
         "7394fc5e-108a-45a8-a712-30eb989e7d3b",
@@ -576,7 +569,7 @@
         "cf61b6e7-4858-4da7-89e2-c2406efcf9b6",
         "bb865170-80ef-4750-ad3d-0680a567fc4e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7394fc5e-108a-45a8-a712-30eb989e7d3b",
         "5ec4d974-2958-4873-b57f-1e1314d6effc",
@@ -607,7 +600,7 @@
         "8adf217a-43f9-4d21-b867-724f779f0c06",
         "7abab06c-5cd4-443e-9360-c7dc20461d57"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dc89ca69-0afd-43ec-91ab-52bd45de38e8",
         "7394fc5e-108a-45a8-a712-30eb989e7d3b",
@@ -642,7 +635,7 @@
         "cf61b6e7-4858-4da7-89e2-c2406efcf9b6",
         "bb865170-80ef-4750-ad3d-0680a567fc4e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dc89ca69-0afd-43ec-91ab-52bd45de38e8",
         "7394fc5e-108a-45a8-a712-30eb989e7d3b",
@@ -668,7 +661,7 @@
         "95e73837-10e7-48fd-b05a-739d5e5ca454",
         "cf61b6e7-4858-4da7-89e2-c2406efcf9b6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9edffe7b-8006-4975-bd9d-97c3ab61995f",
         "d8ff70e7-6467-49e5-9b07-6d694996c55a"
@@ -695,7 +688,7 @@
         "cf61b6e7-4858-4da7-89e2-c2406efcf9b6",
         "bb865170-80ef-4750-ad3d-0680a567fc4e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5ec4d974-2958-4873-b57f-1e1314d6effc",
         "bb39e497-a7e9-4e7c-8b28-133647471bd3",
@@ -718,8 +711,8 @@
         "356fd535-72f6-499b-8500-fcc159509039",
         "ee192a3e-516c-441c-a677-519e6840cf8b"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -737,7 +730,7 @@
         "8adf217a-43f9-4d21-b867-724f779f0c06",
         "bb865170-80ef-4750-ad3d-0680a567fc4e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7394fc5e-108a-45a8-a712-30eb989e7d3b",
         "bb39e497-a7e9-4e7c-8b28-133647471bd3",
@@ -765,7 +758,7 @@
         "bb865170-80ef-4750-ad3d-0680a567fc4e",
         "151eb762-5692-415f-80a5-630b125db636"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dc89ca69-0afd-43ec-91ab-52bd45de38e8",
         "7394fc5e-108a-45a8-a712-30eb989e7d3b",
@@ -781,7 +774,7 @@
       "dutyID": "09eff24c-b837-4019-972d-5fd9828a3971",
       "dutyDetail": "Plan, schedule and undertake maintenance for soft landscape elements.     ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "1cfb5747-1b0f-4269-b7be-424de6190ae1",
         "02f54189-5851-45b3-bafe-1b64913bce03",
@@ -806,7 +799,7 @@
       "dutyID": "dca130d4-78b7-4e71-93a5-eea9a9a23b79",
       "dutyDetail": "Propagate plants and choose appropriate growing media",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "02f54189-5851-45b3-bafe-1b64913bce03",
         "bb6bcfe0-1d45-46a5-bf95-141f7b657db8",
@@ -826,7 +819,7 @@
       "dutyID": "20fbcd92-1c25-47c0-a232-8948ae1aef17",
       "dutyDetail": "Plan and install landscape features, ensure resources are present and that activities meet the specification.  ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "89a82ca4-ecb7-4399-b113-d906eb752509",
         "5079745f-4728-4972-b43b-6978415d6258",
@@ -848,7 +841,7 @@
       "dutyID": "d30b7202-27dc-4b04-b99e-0df8f97de184",
       "dutyDetail": "Survey sites for landscaping.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "db3abb8d-17ee-495a-ac52-c93e8c87d293",
         "ccf789d0-4f55-484e-b391-a2d89d921eaa",
@@ -863,6 +856,18 @@
         "0be616b5-8d50-4e9b-9356-39e7d820870c"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "617f23e5-4a48-4375-a160-d4c95dc907de",
+      "title": "Horticulture Supervisor",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "4892ce9e-f0c6-4adf-9d8f-dfff87c11899",
+      "title": "Landscaping Supervisor",
+      "occupationCode": ""
     }
   ],
   "regulationDetail": [],
