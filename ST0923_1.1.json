@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/647",
   "versionNumber": "1.1",
   "change": "Standard, end-point assessment plan and funding revised.",
-  "changedDate": "2023-05-19T00:00:00Z",
-  "earliestStartDate": "2022-08-24T00:00:00Z",
+  "changedDate": "2023-05-19T00:00:00",
+  "earliestStartDate": "2022-08-24T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Provide expert advice on the woodlands and forests.",
@@ -228,7 +228,6 @@
       "detail": "Manage, maintain and record own performance, professional development and currency of silvicultural knowledge."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -268,10 +267,13 @@
   ],
   "englishAndMathsQualifications": "",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Agriculture, Land Management and Production",
-  "cluster": "Arboriculture and Forestry Professional",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2022-08-18T15:16:36 +00:00",
   "lastUpdated": "2023-05-19T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/professional-forester-integrated-degree-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/professional-forester-integrated-degree-v1-1",
   "qualifications": [
@@ -307,7 +309,7 @@
         "c3a3133a-401e-43f1-9793-ab58279033e3",
         "d5bef254-6cf5-45ad-991a-7f6a549a7e58"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "257482fb-c32e-4c5f-b543-76965256a27b",
         "6509bbbe-49c5-4b63-acd8-f8365d4780d9",
@@ -320,14 +322,14 @@
       "dutyID": "e3873ff2-8d1e-496b-a5c3-7d39e5594b11",
       "dutyDetail": "Research survey and collect data on established woodlands and forests, and measure, map and record established forest management units (FMUs) using, for example, on-the-ground mapping, geospatial and UAV technology.  ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "69317c20-8445-4558-9d91-10092cbe9611",
         "c3a3133a-401e-43f1-9793-ab58279033e3",
         "19d036b3-d027-477e-aa76-d977ece8fc57",
         "d5bef254-6cf5-45ad-991a-7f6a549a7e58"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "96dbb129-d031-49d9-897c-dc6984ee5a19",
         "ff21ef1a-951b-4c8a-bb30-73f0c2de4b9f",
@@ -340,7 +342,7 @@
       "dutyID": "2c8f1a81-1061-44c4-8a5f-c2bb1f2211f0",
       "dutyDetail": "Survey, collate and interpret silvicultural data on established woodlands and forests for safety, resilience, pests & diseases, tree health, and woodland condition.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "69317c20-8445-4558-9d91-10092cbe9611",
         "c3a3133a-401e-43f1-9793-ab58279033e3",
@@ -350,7 +352,7 @@
         "158b8c07-211b-40d3-bd1b-d80a40b111e5",
         "edf907fc-6fed-424b-9c5d-a2a1ffea60f0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "96dbb129-d031-49d9-897c-dc6984ee5a19",
         "ff21ef1a-951b-4c8a-bb30-73f0c2de4b9f",
@@ -365,7 +367,7 @@
       "dutyID": "02d09bdf-f045-4983-b163-93967338b18c",
       "dutyDetail": "Survey, evaluate and inventory woodland potential for timber production and communicate results to clients, colleagues and others to inform, for example, commercial timber sales contracts and production forecasts.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "69317c20-8445-4558-9d91-10092cbe9611",
         "c3a3133a-401e-43f1-9793-ab58279033e3",
@@ -378,7 +380,7 @@
         "36ab7a72-775e-4fa3-9a62-4d1c9b58e029",
         "c60ee216-6fc1-464f-9453-9d970fb788f6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "96dbb129-d031-49d9-897c-dc6984ee5a19",
         "ff21ef1a-951b-4c8a-bb30-73f0c2de4b9f",
@@ -394,7 +396,7 @@
       "dutyID": "a051b990-f5f2-40ea-b235-5cfdc0811edb",
       "dutyDetail": "Collect, analyse and evaluate landscape and environmental information to write Woodland Creation Design Plans for new woodland planting and afforestation schemes.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "69317c20-8445-4558-9d91-10092cbe9611",
         "c3a3133a-401e-43f1-9793-ab58279033e3",
@@ -404,7 +406,7 @@
         "56e65e22-d4fc-4c24-8a04-eb5eb1e83b69",
         "36ab7a72-775e-4fa3-9a62-4d1c9b58e029"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "96dbb129-d031-49d9-897c-dc6984ee5a19",
         "ff21ef1a-951b-4c8a-bb30-73f0c2de4b9f",
@@ -438,7 +440,7 @@
         "36ab7a72-775e-4fa3-9a62-4d1c9b58e029",
         "c60ee216-6fc1-464f-9453-9d970fb788f6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b2390dfd-6d60-4647-9ace-7db1b4daeb26",
         "6509bbbe-49c5-4b63-acd8-f8365d4780d9",
@@ -450,7 +452,7 @@
       "dutyID": "d7983dfe-84ed-48f1-bd6a-6bfe2343c2a9",
       "dutyDetail": "Analyse and evaluate silvicultural and other information, for example archaeological or ecological to develop UKFS-compliant forest / Woodland Management Plans for established woodlands and forests.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "69317c20-8445-4558-9d91-10092cbe9611",
         "c3a3133a-401e-43f1-9793-ab58279033e3",
@@ -463,7 +465,7 @@
         "36ab7a72-775e-4fa3-9a62-4d1c9b58e029",
         "4a86aec0-a163-4d57-8f9d-13b1936eeac0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "257482fb-c32e-4c5f-b543-76965256a27b",
         "b2390dfd-6d60-4647-9ace-7db1b4daeb26",
@@ -476,7 +478,7 @@
       "dutyID": "c53151af-b579-4430-8b64-18374d7a9464",
       "dutyDetail": "Interpret and implement forest / Woodland Management Plans for the management of established woodlands and forests for timber production.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "69317c20-8445-4558-9d91-10092cbe9611",
         "5f13fee5-ea3a-4351-978e-eeaeb2af4168",
@@ -493,7 +495,7 @@
         "e51027be-4a3c-4004-b096-b012e19b5d91",
         "4a86aec0-a163-4d57-8f9d-13b1936eeac0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "96dbb129-d031-49d9-897c-dc6984ee5a19",
         "85bb8e4f-a4d9-45b4-8fbc-8d8062f8b969",
@@ -533,7 +535,7 @@
         "e51027be-4a3c-4004-b096-b012e19b5d91",
         "4a86aec0-a163-4d57-8f9d-13b1936eeac0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6509bbbe-49c5-4b63-acd8-f8365d4780d9",
         "78ae3a16-fafd-44a7-a004-7fa10d5f06ef"
@@ -564,7 +566,7 @@
         "e51027be-4a3c-4004-b096-b012e19b5d91",
         "4a86aec0-a163-4d57-8f9d-13b1936eeac0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7cab5699-1c4e-45a0-90f4-32a0bd84cdc9",
         "78ae3a16-fafd-44a7-a004-7fa10d5f06ef",
@@ -600,7 +602,7 @@
         "e51027be-4a3c-4004-b096-b012e19b5d91",
         "4a86aec0-a163-4d57-8f9d-13b1936eeac0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7cab5699-1c4e-45a0-90f4-32a0bd84cdc9",
         "78ae3a16-fafd-44a7-a004-7fa10d5f06ef",
@@ -633,7 +635,7 @@
         "e51027be-4a3c-4004-b096-b012e19b5d91",
         "4a86aec0-a163-4d57-8f9d-13b1936eeac0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6509bbbe-49c5-4b63-acd8-f8365d4780d9",
         "78ae3a16-fafd-44a7-a004-7fa10d5f06ef",
@@ -644,6 +646,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
