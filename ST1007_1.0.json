@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/727",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-09-04T00:00:00Z",
-  "earliestStartDate": "2023-09-04T00:00:00Z",
+  "changedDate": "2023-09-04T00:00:00",
+  "earliestStartDate": "2023-09-04T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Provide the aircraft with the technical support required both prior to and during the flight.",
@@ -225,7 +225,6 @@
       "detail": "Follows equity, diversity and inclusion legislative guidance "
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -261,8 +260,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Transport",
   "cluster": "Transport Operations Operative/Technician",
+  "clusterId": "16",
+  "clusterDescription": "Support a transport facility's operation and/or support the loading and movement of a freight or passenger vehicle or vessel",
   "createdDate": "2023-09-04T12:32:27 +00:00",
   "lastUpdated": "2023-09-04T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/aviation-flight-operations-coordinator-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/aviation-flight-operations-coordinator-v1-0",
   "qualifications": [],
@@ -285,7 +287,7 @@
         "0f28bc08-1086-48c0-a988-b73eaa0e8fa9",
         "033cce37-c23e-4322-93af-45cf6f8902de"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "61b59920-3c77-4894-b0f1-09449a0fa6ef",
         "08d83da8-f1c5-4cf8-93be-53ab07e8a9c1",
@@ -315,7 +317,7 @@
         "f7c58375-a61d-4616-8573-78bd13921acc",
         "07d186cd-5ad2-425e-bd4d-90ab88a50f5a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "61b59920-3c77-4894-b0f1-09449a0fa6ef",
         "08d83da8-f1c5-4cf8-93be-53ab07e8a9c1",
@@ -345,7 +347,7 @@
         "29daa4e4-b746-4583-8b77-940c588b0a30",
         "f7c58375-a61d-4616-8573-78bd13921acc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "345c6646-f3cf-4b7d-ad4b-a0c25e4407a2",
         "80bc919f-fefb-4cbd-9508-bd9ba8a37d49",
@@ -370,7 +372,7 @@
         "994801be-054a-455a-be44-0308dc6a7b90",
         "033cce37-c23e-4322-93af-45cf6f8902de"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "680ae22b-6ef6-4d7e-88d8-b5c4bad5c4e6",
         "91207d8f-e427-457b-a71a-2dcc324f9442",
@@ -396,7 +398,7 @@
         "994801be-054a-455a-be44-0308dc6a7b90",
         "c29ae0be-7fc2-45ad-9139-83e30820ebc5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "91207d8f-e427-457b-a71a-2dcc324f9442",
         "6de4e52d-b3c6-4090-87ed-652b08e72b14",
@@ -422,7 +424,7 @@
         "994801be-054a-455a-be44-0308dc6a7b90",
         "033cce37-c23e-4322-93af-45cf6f8902de"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "08d83da8-f1c5-4cf8-93be-53ab07e8a9c1",
         "ec17bc90-02e4-4ba5-91e5-e9628522fe87",
@@ -450,7 +452,7 @@
         "07d186cd-5ad2-425e-bd4d-90ab88a50f5a",
         "68d8d7ea-866f-46d0-9f68-7b8130de1f93"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "91207d8f-e427-457b-a71a-2dcc324f9442",
         "345c6646-f3cf-4b7d-ad4b-a0c25e4407a2",
@@ -480,7 +482,7 @@
         "0f28bc08-1086-48c0-a988-b73eaa0e8fa9",
         "f7c58375-a61d-4616-8573-78bd13921acc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "61b59920-3c77-4894-b0f1-09449a0fa6ef",
         "ec17bc90-02e4-4ba5-91e5-e9628522fe87",
@@ -514,7 +516,7 @@
         "28aceedb-6ff8-4885-9206-33d77b925f9a",
         "07d186cd-5ad2-425e-bd4d-90ab88a50f5a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "08d83da8-f1c5-4cf8-93be-53ab07e8a9c1",
         "ec17bc90-02e4-4ba5-91e5-e9628522fe87",
@@ -547,7 +549,7 @@
         "c55a1c30-c527-4419-8b38-a7fad22cb05a",
         "e29d45f2-afff-4134-91b8-d65752856c9f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ec17bc90-02e4-4ba5-91e5-e9628522fe87",
         "91207d8f-e427-457b-a71a-2dcc324f9442",
@@ -576,7 +578,7 @@
         "af11065a-305e-425b-be76-43be57f9e1f1",
         "68d8d7ea-866f-46d0-9f68-7b8130de1f93"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "345c6646-f3cf-4b7d-ad4b-a0c25e4407a2",
         "1f1742b5-b6f1-4011-9597-0fb24e37a5af",
@@ -605,7 +607,7 @@
         "07d186cd-5ad2-425e-bd4d-90ab88a50f5a",
         "af11065a-305e-425b-be76-43be57f9e1f1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "61b59920-3c77-4894-b0f1-09449a0fa6ef",
         "ec17bc90-02e4-4ba5-91e5-e9628522fe87",
@@ -632,7 +634,7 @@
         "033cce37-c23e-4322-93af-45cf6f8902de",
         "f7c58375-a61d-4616-8573-78bd13921acc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "61b59920-3c77-4894-b0f1-09449a0fa6ef",
         "345c6646-f3cf-4b7d-ad4b-a0c25e4407a2",
@@ -660,7 +662,7 @@
         "28aceedb-6ff8-4885-9206-33d77b925f9a",
         "07d186cd-5ad2-425e-bd4d-90ab88a50f5a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "345c6646-f3cf-4b7d-ad4b-a0c25e4407a2",
         "6de4e52d-b3c6-4090-87ed-652b08e72b14",
@@ -683,13 +685,14 @@
       "mappedKnowledge": [
         "033cce37-c23e-4322-93af-45cf6f8902de"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cfdbb4e6-0997-4f36-99e9-31453122342d"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
