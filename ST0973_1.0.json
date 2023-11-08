@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/618",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-05-14T00:00:00Z",
-  "earliestStartDate": "2021-05-04T00:00:00Z",
-  "latestStartDate": "2023-05-24T00:00:00Z",
+  "changedDate": "2021-05-14T00:00:00",
+  "earliestStartDate": "2021-05-04T00:00:00",
+  "latestStartDate": "2023-05-24T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Deliver efficient operation and control of the IT.",
   "level": 3,
@@ -372,20 +372,6 @@
       "detail": "Use information necessary to identify operational issues and rectify or escalate accordingly in line with policy"
     }
   ],
-  "options": [
-    {
-      "optionId": "9a8e541c-731e-4621-83ca-796eafe09cac",
-      "title": "Support Technician"
-    },
-    {
-      "optionId": "f8ebdf2b-f382-400e-afcd-0111d6fd1585",
-      "title": "Network Technician"
-    },
-    {
-      "optionId": "9e8302e9-4afb-4c1a-b331-d09654f19da5",
-      "title": "Digital Communications Technician"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -429,8 +415,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Digital Support and Services",
   "cluster": "IT Support and Services Technician",
+  "clusterId": "187",
+  "clusterDescription": "Help internal and external customers to install and use IT technology along with trouble - shooting their problems. Skills are developed across IT security and data management",
   "createdDate": "2021-05-05T07:42:49 +00:00",
   "lastUpdated": "2021-05-14T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/information-communications-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/information-communications-technician-v1-0",
   "qualifications": [],
@@ -458,7 +447,7 @@
         "7f4d6a55-3c88-4de3-8f57-568bdf74063e",
         "f7d8c4f5-9eb5-4335-9df7-fd241cec0a01"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0646f4d9-d586-406c-ad13-0dc4ec5a053b",
         "927103fc-a48e-42c9-a385-a7a8ed896bdf",
@@ -484,7 +473,7 @@
         "22cf6ab1-1ed3-47fb-914e-6701fdb97c6d",
         "c4b12f7d-7c7c-478b-aeb7-c502ea2b1892"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "30d07fd1-6e0e-4f28-9bfc-bf54f3e0fe12",
         "60775906-94d7-4007-ab16-ce4e5d0e7f58",
@@ -507,7 +496,7 @@
         "40d6cdc7-9f29-4d45-ace1-4df402c1089a",
         "7f4d6a55-3c88-4de3-8f57-568bdf74063e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0646f4d9-d586-406c-ad13-0dc4ec5a053b",
         "8f4bb440-54f8-4432-970c-dbb1c5e4971d",
@@ -528,7 +517,7 @@
         "0aed0dab-9af9-42ee-b4a8-d77a51b30387",
         "7c92b16a-22c8-452d-8159-f5e4f449abe7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0646f4d9-d586-406c-ad13-0dc4ec5a053b",
         "8f4bb440-54f8-4432-970c-dbb1c5e4971d",
@@ -555,7 +544,7 @@
         "7c92b16a-22c8-452d-8159-f5e4f449abe7",
         "c4b12f7d-7c7c-478b-aeb7-c502ea2b1892"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "30d07fd1-6e0e-4f28-9bfc-bf54f3e0fe12",
         "8f4bb440-54f8-4432-970c-dbb1c5e4971d",
@@ -578,7 +567,7 @@
         "9279f293-f062-4416-bff9-c877ea34253b",
         "7f4d6a55-3c88-4de3-8f57-568bdf74063e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0646f4d9-d586-406c-ad13-0dc4ec5a053b",
         "927103fc-a48e-42c9-a385-a7a8ed896bdf",
@@ -606,7 +595,7 @@
         "7c92b16a-22c8-452d-8159-f5e4f449abe7",
         "c4b12f7d-7c7c-478b-aeb7-c502ea2b1892"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "30d07fd1-6e0e-4f28-9bfc-bf54f3e0fe12",
         "8f4bb440-54f8-4432-970c-dbb1c5e4971d",
@@ -622,8 +611,8 @@
       "mappedBehaviour": [
         "11982ef9-0489-4eb3-8ced-53de2320bf2e"
       ],
-      "mappedKnowledge": null,
-      "mappedOptions": null,
+      "mappedKnowledge": [],
+      "mappedOptions": [],
       "mappedSkills": [
         "927103fc-a48e-42c9-a385-a7a8ed896bdf"
       ],
@@ -647,7 +636,7 @@
         "e6ca1d0c-535c-4abe-acd1-495f8671f023",
         "f7d8c4f5-9eb5-4335-9df7-fd241cec0a01"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0646f4d9-d586-406c-ad13-0dc4ec5a053b",
         "30d07fd1-6e0e-4f28-9bfc-bf54f3e0fe12",
@@ -916,7 +905,7 @@
       "dutyID": "d6ee1d0b-d9c1-4508-9dbb-7fc5bd3297ed",
       "dutyDetail": "Research solutions to maintain network communication architectures",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "2820f7c6-56db-4978-84a8-3e3c9a479595",
         "687c2636-dc3b-4b2b-8f98-5cc05fead436",
@@ -936,7 +925,7 @@
       "dutyID": "fbd97494-03a0-4536-be99-95b79fbcb6bc",
       "dutyDetail": "Monitor and report telecommunications or communications systems performance to enable service delivery. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "687c2636-dc3b-4b2b-8f98-5cc05fead436",
         "8194ced2-ab26-48bd-bc7a-4218e93a9a68",
@@ -950,6 +939,23 @@
         "5e5c2d6d-8811-491a-8407-e5b05a98eb71"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "9a8e541c-731e-4621-83ca-796eafe09cac",
+      "title": "Support Technician",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "f8ebdf2b-f382-400e-afcd-0111d6fd1585",
+      "title": "Network Technician",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "9e8302e9-4afb-4c1a-b331-d09654f19da5",
+      "title": "Digital Communications Technician",
+      "occupationCode": ""
     }
   ],
   "regulationDetail": [],
