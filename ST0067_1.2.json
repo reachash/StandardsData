@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/134",
   "versionNumber": "1.2",
   "change": "End-point assessment plan revised",
-  "changedDate": "2022-09-01T00:00:00Z",
-  "earliestStartDate": "2022-08-22T00:00:00Z",
+  "changedDate": "2022-09-01T00:00:00",
+  "earliestStartDate": "2022-08-22T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Carrying out a range of engineering work on buses and coaches for bus and coach operators.",
@@ -286,24 +286,6 @@
       "detail": "Use diagnostic equipment and software to locate, diagnose and rectify faults on mechanical and electrical components"
     }
   ],
-  "options": [
-    {
-      "optionId": "8b2c27d9-cf08-4de7-9d7d-c2853a3269b5",
-      "title": "Coach Builder"
-    },
-    {
-      "optionId": "12d4cfce-63d8-43b8-a1bb-1ca95e8966a4",
-      "title": "Electrical"
-    },
-    {
-      "optionId": "1da1c2a1-b9e4-4d99-8549-e2acd7467be8",
-      "title": "Mechanical"
-    },
-    {
-      "optionId": "3a44c313-b0d0-4a63-bf6b-932c991281d1",
-      "title": "Mechelec"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Coach Builder",
     "Electrical",
@@ -336,13 +318,38 @@
   "reviewDetails": "",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2022-08-22T13:25:49 +00:00",
   "lastUpdated": "2022-09-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/bus-and-coach-engineering-technician-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/bus-and-coach-engineering-technician-v1-2",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "8b2c27d9-cf08-4de7-9d7d-c2853a3269b5",
+      "title": "Coach Builder",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "12d4cfce-63d8-43b8-a1bb-1ca95e8966a4",
+      "title": "Electrical",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "1da1c2a1-b9e4-4d99-8549-e2acd7467be8",
+      "title": "Mechanical",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "3a44c313-b0d0-4a63-bf6b-932c991281d1",
+      "title": "Mechelec",
+      "occupationCode": ""
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
