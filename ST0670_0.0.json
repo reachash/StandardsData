@@ -7,7 +7,7 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/0",
   "versionNumber": "",
   "change": "Withdrawn",
-  "changedDate": "2022-08-24T00:00:00Z",
+  "changedDate": "2022-08-24T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
@@ -167,7 +167,6 @@
       "detail": "Identifying and locating incoming services (i.e. position of stopcock, electrical fuse board, gas meter) to avoid loss of service"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -196,10 +195,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Onsite Construction",
-  "cluster": "Construction Specialist Operative/Technician",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2020-04-24T07:26:42 +00:00",
   "lastUpdated": "2022-08-24T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/damp-control-and-timber-preservation-operative?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/damp-control-and-timber-preservation-operative",
   "qualifications": [],
@@ -224,7 +226,7 @@
         "d124982f-098f-4754-9696-757b8934c96a",
         "ebfb139e-25d2-4a45-8e6b-7ab339b37a24"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f46f9f29-8f50-494f-bbd2-78bcd3063154",
         "9c5446ff-3096-4eea-8c0e-c3c05bc4512a",
@@ -260,7 +262,7 @@
         "87e0ed2a-ccc9-46a7-ac14-a5147b32316d",
         "bb1c5e22-2576-42b0-afdb-62ba8e2dbf8e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f46f9f29-8f50-494f-bbd2-78bcd3063154",
         "aa7bdd5b-3ed8-4a95-a189-55df60c295a9",
@@ -300,7 +302,7 @@
         "bb1c5e22-2576-42b0-afdb-62ba8e2dbf8e",
         "ebfb139e-25d2-4a45-8e6b-7ab339b37a24"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f46f9f29-8f50-494f-bbd2-78bcd3063154",
         "aa7bdd5b-3ed8-4a95-a189-55df60c295a9",
@@ -339,7 +341,7 @@
         "87e0ed2a-ccc9-46a7-ac14-a5147b32316d",
         "bb1c5e22-2576-42b0-afdb-62ba8e2dbf8e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f46f9f29-8f50-494f-bbd2-78bcd3063154",
         "aa7bdd5b-3ed8-4a95-a189-55df60c295a9",
@@ -381,7 +383,7 @@
         "bb1c5e22-2576-42b0-afdb-62ba8e2dbf8e",
         "ebfb139e-25d2-4a45-8e6b-7ab339b37a24"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f46f9f29-8f50-494f-bbd2-78bcd3063154",
         "aa7bdd5b-3ed8-4a95-a189-55df60c295a9",
@@ -424,7 +426,7 @@
         "bb1c5e22-2576-42b0-afdb-62ba8e2dbf8e",
         "ebfb139e-25d2-4a45-8e6b-7ab339b37a24"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f46f9f29-8f50-494f-bbd2-78bcd3063154",
         "aa7bdd5b-3ed8-4a95-a189-55df60c295a9",
@@ -467,7 +469,7 @@
         "bb1c5e22-2576-42b0-afdb-62ba8e2dbf8e",
         "ebfb139e-25d2-4a45-8e6b-7ab339b37a24"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f46f9f29-8f50-494f-bbd2-78bcd3063154",
         "aa7bdd5b-3ed8-4a95-a189-55df60c295a9",
@@ -510,7 +512,7 @@
         "bb1c5e22-2576-42b0-afdb-62ba8e2dbf8e",
         "ebfb139e-25d2-4a45-8e6b-7ab339b37a24"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f46f9f29-8f50-494f-bbd2-78bcd3063154",
         "aa7bdd5b-3ed8-4a95-a189-55df60c295a9",
@@ -549,7 +551,7 @@
         "d124982f-098f-4754-9696-757b8934c96a",
         "bb1c5e22-2576-42b0-afdb-62ba8e2dbf8e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f46f9f29-8f50-494f-bbd2-78bcd3063154",
         "9c5446ff-3096-4eea-8c0e-c3c05bc4512a",
@@ -584,7 +586,7 @@
         "bb1c5e22-2576-42b0-afdb-62ba8e2dbf8e",
         "ebfb139e-25d2-4a45-8e6b-7ab339b37a24"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f46f9f29-8f50-494f-bbd2-78bcd3063154",
         "9c5446ff-3096-4eea-8c0e-c3c05bc4512a",
@@ -622,7 +624,7 @@
         "bb1c5e22-2576-42b0-afdb-62ba8e2dbf8e",
         "ebfb139e-25d2-4a45-8e6b-7ab339b37a24"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f46f9f29-8f50-494f-bbd2-78bcd3063154",
         "aa7bdd5b-3ed8-4a95-a189-55df60c295a9",
@@ -642,6 +644,7 @@
       "criteriaForMeasuringPerformance": "Delivered in line with the specification.\n\nDelivered in line with customer expectations.\n\nDelivered in line with timescale.\n\nDelivered in line with cost.\n\nEnsure work is carried out in line with industry standards - PCA Codes of Practice and Guidance documents.\n\nEnsure the correct Personal Protective Equipment is readily available prior to attending site.\n\nUnderstand health and safety responsibilities, COSHH assessments, Risk Assessment, Material Data Safety Sheets, etc.\n\nUnderstand treatment application plant and equipment, including small hand tools.\n\nReview the specification of work, understand the type of work to be undertaken, check job lists, cutting lists, stock withdrawal, plant required and materials required.\n\nCarry out necessary building repairs, including repair and renew floorboards, repair and renew joist ends, repair a timber stud partition, replace a decayed timber lintel, install a sub floor vent, infill small voids, correct way to dispose of waste."
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
