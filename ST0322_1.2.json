@@ -7,7 +7,7 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/49",
   "versionNumber": "",
   "change": "In revision",
-  "changedDate": "2023-10-26T00:00:00Z",
+  "changedDate": "2023-10-26T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
@@ -276,7 +276,6 @@
       "detail": "Apply ethical principles. "
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -311,8 +310,11 @@
   "reviewDetails": "",
   "pathway": "Building Services Engineering",
   "cluster": "Building Services Engineering Operative/Technician",
+  "clusterId": "65",
+  "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
   "createdDate": "2023-10-26T13:45:56 +00:00",
   "lastUpdated": "2023-10-26T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/refrigeration-air-conditioning-and-heat-pump-engineering-technician-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/refrigeration-air-conditioning-and-heat-pump-engineering-technician-in-revision",
   "qualifications": [
@@ -376,7 +378,7 @@
         "5d68657f-a3e8-4285-a687-dd6a1165e442",
         "62d7b2e2-4714-44c7-9135-e4056bd34688"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7eb45b0e-dcf6-4fc0-84a7-a47f254a3c44",
         "c4f1cbc2-3348-4b6e-845e-9e1b3bbb407e",
@@ -425,7 +427,7 @@
         "5d68657f-a3e8-4285-a687-dd6a1165e442",
         "62d7b2e2-4714-44c7-9135-e4056bd34688"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7eb45b0e-dcf6-4fc0-84a7-a47f254a3c44",
         "c4f1cbc2-3348-4b6e-845e-9e1b3bbb407e",
@@ -475,7 +477,7 @@
         "5d68657f-a3e8-4285-a687-dd6a1165e442",
         "62d7b2e2-4714-44c7-9135-e4056bd34688"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7eb45b0e-dcf6-4fc0-84a7-a47f254a3c44",
         "c4f1cbc2-3348-4b6e-845e-9e1b3bbb407e",
@@ -523,7 +525,7 @@
         "4dd874a0-25f6-4ea3-96c7-1a6263180a19",
         "5d68657f-a3e8-4285-a687-dd6a1165e442"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7eb45b0e-dcf6-4fc0-84a7-a47f254a3c44",
         "c4f1cbc2-3348-4b6e-845e-9e1b3bbb407e",
@@ -576,7 +578,7 @@
         "4c2109e3-fdd8-4567-aad2-b1ef19fcc5e6",
         "62d7b2e2-4714-44c7-9135-e4056bd34688"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7eb45b0e-dcf6-4fc0-84a7-a47f254a3c44",
         "c4f1cbc2-3348-4b6e-845e-9e1b3bbb407e",
@@ -630,7 +632,7 @@
         "4c2109e3-fdd8-4567-aad2-b1ef19fcc5e6",
         "62d7b2e2-4714-44c7-9135-e4056bd34688"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7eb45b0e-dcf6-4fc0-84a7-a47f254a3c44",
         "c4f1cbc2-3348-4b6e-845e-9e1b3bbb407e",
@@ -688,7 +690,7 @@
         "4c2109e3-fdd8-4567-aad2-b1ef19fcc5e6",
         "62d7b2e2-4714-44c7-9135-e4056bd34688"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7eb45b0e-dcf6-4fc0-84a7-a47f254a3c44",
         "c4f1cbc2-3348-4b6e-845e-9e1b3bbb407e",
@@ -742,7 +744,7 @@
         "5d68657f-a3e8-4285-a687-dd6a1165e442",
         "4c2109e3-fdd8-4567-aad2-b1ef19fcc5e6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7eb45b0e-dcf6-4fc0-84a7-a47f254a3c44",
         "c4f1cbc2-3348-4b6e-845e-9e1b3bbb407e",
@@ -798,7 +800,7 @@
         "62d7b2e2-4714-44c7-9135-e4056bd34688",
         "0714f84a-9332-4c75-8512-1702f8e04db4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7eb45b0e-dcf6-4fc0-84a7-a47f254a3c44",
         "c4f1cbc2-3348-4b6e-845e-9e1b3bbb407e",
@@ -818,6 +820,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
