@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/144",
   "versionNumber": "1.1",
   "change": "End-point assessment plan, standard and funding revised. ",
-  "changedDate": "2023-01-27T00:00:00Z",
-  "earliestStartDate": "2023-02-04T00:00:00Z",
+  "changedDate": "2023-01-27T00:00:00",
+  "earliestStartDate": "2023-02-04T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "To ensure that organisations' operations comply with relevant legislation, regulation and policies through reviewing and implementing policies and procedures.",
@@ -231,7 +231,6 @@
       "detail": "Handle data safely and securely and share information in compliance with data protection legislation and organisation’s policy"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -267,8 +266,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Financial",
   "cluster": "Compliance/Risk Specialist",
+  "clusterId": "239",
+  "clusterDescription": "Provide high quality input and advice to employers based on specialism e.g. risk, financial crime, compliance, data modelling and analysis",
   "createdDate": "2023-07-31T08:49:32 +00:00",
   "lastUpdated": "2023-01-27T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/senior-compliance-and-risk-specialist-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/senior-compliance-and-risk-specialist-v1-1",
   "qualifications": [
@@ -382,7 +384,7 @@
         "83f949d5-4346-4afb-b5d1-597e1392a71c",
         "19997b60-c826-48d2-8f85-bb60f4af12cb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "01991dbb-2fdd-4983-9956-759a62569950",
         "f28d3b27-a7a1-41c2-b827-ea79381e8bd9",
@@ -405,7 +407,7 @@
         "c0e35b20-3651-425c-ade0-014971543ac1",
         "83f949d5-4346-4afb-b5d1-597e1392a71c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fb23f348-9619-41cf-9daf-39b8360f4a8f",
         "285fe78c-dadc-4c69-a013-ca26d860fc5a"
@@ -425,7 +427,7 @@
         "ce68fb80-b3ec-40af-832f-1544062aae9c",
         "4feb969f-5ca8-4c61-9451-1cc0f9bbe99e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e27555e1-66fa-4b08-a6d6-b750c50b9964",
         "b3f34add-aa6f-455e-91c0-f647a1392842",
@@ -453,7 +455,7 @@
         "c341603f-eda9-4b12-9a5a-e9cb64705963",
         "83f949d5-4346-4afb-b5d1-597e1392a71c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e27555e1-66fa-4b08-a6d6-b750c50b9964",
         "b3f34add-aa6f-455e-91c0-f647a1392842",
@@ -481,7 +483,7 @@
         "4feb969f-5ca8-4c61-9451-1cc0f9bbe99e",
         "58acbb48-d9b9-4014-8db5-605eddd784cd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2cf77569-0960-4d3a-8f71-b2d3c6f15ddc",
         "2cd075a0-3e6c-4cf5-9412-e8c63f8cccce",
@@ -513,7 +515,7 @@
         "f9eb9ada-8985-4056-87e6-62aa31719f1e",
         "30a88152-1a63-4a5d-917a-fe87609ef557"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fb23f348-9619-41cf-9daf-39b8360f4a8f",
         "cbafaf1c-e03e-4dd3-a5f6-7b14061a042a",
@@ -538,7 +540,7 @@
         "58acbb48-d9b9-4014-8db5-605eddd784cd",
         "c0e35b20-3651-425c-ade0-014971543ac1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e27555e1-66fa-4b08-a6d6-b750c50b9964",
         "b3f34add-aa6f-455e-91c0-f647a1392842",
@@ -569,7 +571,7 @@
         "c0e35b20-3651-425c-ade0-014971543ac1",
         "30a88152-1a63-4a5d-917a-fe87609ef557"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e27555e1-66fa-4b08-a6d6-b750c50b9964",
         "b3f34add-aa6f-455e-91c0-f647a1392842",
@@ -595,7 +597,7 @@
         "c341603f-eda9-4b12-9a5a-e9cb64705963",
         "c0e35b20-3651-425c-ade0-014971543ac1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b3f34add-aa6f-455e-91c0-f647a1392842",
         "b411cf96-0e37-4dac-b8bf-8577397dee37",
@@ -625,7 +627,7 @@
         "58acbb48-d9b9-4014-8db5-605eddd784cd",
         "c0e35b20-3651-425c-ade0-014971543ac1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b411cf96-0e37-4dac-b8bf-8577397dee37",
         "69200dd9-2f32-4c9a-b377-c435780ca8d7",
@@ -656,7 +658,7 @@
         "b77c9b44-f053-47d4-974c-4f71ce1fa363",
         "30a88152-1a63-4a5d-917a-fe87609ef557"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e27555e1-66fa-4b08-a6d6-b750c50b9964",
         "b3f34add-aa6f-455e-91c0-f647a1392842",
@@ -678,8 +680,8 @@
         "8262ef71-b0b2-4793-a37b-36181d4e87d2",
         "99aa3c0b-212b-432d-a218-4f98752840b9"
       ],
-      "mappedKnowledge": null,
-      "mappedOptions": null,
+      "mappedKnowledge": [],
+      "mappedOptions": [],
       "mappedSkills": [
         "e27555e1-66fa-4b08-a6d6-b750c50b9964",
         "01991dbb-2fdd-4983-9956-759a62569950",
@@ -705,7 +707,7 @@
         "b77c9b44-f053-47d4-974c-4f71ce1fa363",
         "f9eb9ada-8985-4056-87e6-62aa31719f1e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e27555e1-66fa-4b08-a6d6-b750c50b9964",
         "cc42d464-5193-46ff-a394-8b60417ce5cc",
@@ -718,6 +720,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
