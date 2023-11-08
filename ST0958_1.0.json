@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/659",
   "versionNumber": "1.0",
   "change": "Approved for delivery.",
-  "changedDate": "2022-01-31T00:00:00Z",
-  "earliestStartDate": "2021-09-14T00:00:00Z",
+  "changedDate": "2022-01-31T00:00:00",
+  "earliestStartDate": "2021-09-14T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "To work in partnership with individuals and their communities to identify and address health and wellbeing needs, improve health, prevent ill-health and reduce inequalities.",
@@ -412,7 +412,6 @@
       "detail": "engage with performance appraisal and reflective practice in line with organisational procedures and management processes"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -447,8 +446,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Health",
   "cluster": "Health Assistant",
+  "clusterId": "112",
+  "clusterDescription": "Provide direct patient contact and caring undertaking routine well defined clinical duties",
   "createdDate": "2021-09-14T09:12:11 +00:00",
   "lastUpdated": "2022-01-31T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/community-health-and-wellbeing-worker-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/community-health-and-wellbeing-worker-v1-0",
   "qualifications": [],
@@ -458,7 +460,7 @@
       "dutyID": "d0999d59-78de-4875-a64f-9ba76fb79e57",
       "dutyDetail": "use preventative approaches to promote the health and wellbeing of individuals, groups and communities, addressing the wider determinants of health and causes of ill-health",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "bad426e7-4281-4fa3-8443-120bd86d7e2a",
         "d1a442c4-78c7-4af4-bdfe-535d04cc0d74",
@@ -466,7 +468,7 @@
         "6007b232-0871-48ec-8318-bb4e20fad828",
         "c23006fa-8aab-41ef-8856-4975c9080d51"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "66939e79-dc48-42a2-9e55-d5ac9bb342f5",
         "25c236b4-499d-40c5-8139-6ec640e980d6",
@@ -489,7 +491,7 @@
         "5416a536-b77a-42cc-89f4-f01eacdf88fa",
         "47975acb-6728-4df4-b023-516d74ba3287"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "126cd745-d767-4b49-8a45-2334ae472721",
         "8a8d3927-193c-488a-915b-7168c659ce90",
@@ -504,13 +506,13 @@
       "dutyID": "f137a668-d5a0-422a-a6ba-2913bbcd2ee4",
       "dutyDetail": "provide informed advice about local services and projects that support health and wellbeing",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "5f2ed863-693c-49e4-928c-ed226e6734d5",
         "14698c74-81c7-4f90-b814-f122426bbae2",
         "2e351065-f5b3-4967-9d40-5ba719d0c144"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3080022e-b2ca-4728-8ad5-c76da926ab40",
         "0a9f59c3-519c-4991-bc40-60c4a3208b07",
@@ -522,14 +524,14 @@
       "dutyID": "3d645510-1173-499a-bb61-2f50a8d193e6",
       "dutyDetail": "manage referrals from a range of agencies, professionals and through self-referral",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "94f0cd00-400b-494b-9726-a057bbb562e1",
         "de1d7c5f-4dc8-4c0b-9cf3-fc2556472271",
         "8919a0cd-4aa1-4e8f-b561-a4e19a2f9041",
         "f98979f4-a07b-4dc5-b234-5e8a94e09a6f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9438c47c-febe-411b-bbf4-8c1272696c07",
         "b1dcce00-c051-456a-a0ca-f83a8d2944bd",
@@ -555,7 +557,7 @@
         "d3471abd-4124-4910-9c69-fdac0a4af164",
         "88ecd577-b531-435c-8430-e4b51cf4c8f4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f3d8757f-164f-46ea-b175-19885f5ead03",
         "507be4ea-ea7f-4f0a-b29c-78864d2c0fea",
@@ -570,7 +572,7 @@
       "dutyID": "76000d43-82e5-4afe-b248-cd43945632b4",
       "dutyDetail": "implement actions set out in strategies and policies that promote health and wellbeing at community level",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "be100a15-7aba-4195-8b76-c304060293cd",
         "651db74e-6d0b-4e7a-9c17-2fb57453a347",
@@ -579,7 +581,7 @@
         "7cd85ff1-034a-4419-8d39-54d86b554316",
         "18b6e082-8432-49ac-9ea5-b95fe8631282"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4a0a3b2f-57e5-4ad8-9a73-43a3258223f6",
         "cc0fa7ef-54d9-4af0-8756-34a9031b9b3d",
@@ -603,7 +605,7 @@
         "e73514cb-ceca-4882-82c8-872b37ba8d94",
         "0dd86c1f-581d-49f9-bd59-b79fc8de2f36"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4e73ccd3-284c-4485-bc5f-051fa39faad7",
         "f88fbd58-0d7f-4e39-a319-697f2d7dc098",
@@ -616,7 +618,7 @@
       "dutyID": "6386191c-e972-40ca-9776-a08263190677",
       "dutyDetail": "manage data and information and contribute to the evaluation of projects and services",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "de1d7c5f-4dc8-4c0b-9cf3-fc2556472271",
         "63321052-f865-40da-af10-326ee63153d4",
@@ -624,7 +626,7 @@
         "b4c04625-abe2-488e-b5e7-e6f66387ec57",
         "ce444da9-7eb5-4072-8a7c-c3f9cf4a3cd9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b1dcce00-c051-456a-a0ca-f83a8d2944bd",
         "b5919b9a-2b14-48a6-9aa1-42e42953c9fd",
@@ -648,7 +650,7 @@
         "979f9825-8713-42c3-8045-0267e2e68a90",
         "0036b0c0-a245-4b80-9e4e-2198ae7bf14e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1bb434aa-9dcc-41ca-b112-a35aba36ab8b",
         "7dbae47d-3545-4afd-996c-5a4348148cc6",
@@ -669,7 +671,7 @@
         "d84bd7f5-9ec5-4560-8a65-2551a378e6f6",
         "5a84de81-b527-4bc4-9fab-17f3df570077"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8b1d7199-94c7-4d10-a13c-acd909a08ebf",
         "5e745df1-67f3-4c3e-b574-73a12925cc4c",
@@ -678,6 +680,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
