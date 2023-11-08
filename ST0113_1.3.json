@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/61",
   "versionNumber": "1.3",
   "change": "End-point assessment plan revised.",
-  "changedDate": "2022-07-28T00:00:00Z",
-  "earliestStartDate": "2022-07-01T00:00:00Z",
+  "changedDate": "2022-07-28T00:00:00",
+  "earliestStartDate": "2022-07-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Assisting other dental health professionals, providing chair side support and a high level of patient care.",
@@ -321,7 +321,6 @@
       "detail": "Be collaborative and work as part of the team"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -351,8 +350,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Health",
   "cluster": "Health Assistant",
+  "clusterId": "112",
+  "clusterDescription": "Provide direct patient contact and caring undertaking routine well defined clinical duties",
   "createdDate": "2022-06-30T13:37:23 +00:00",
   "lastUpdated": "2022-07-28T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/dental-nurse-integrated-v1-3?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/dental-nurse-integrated-v1-3",
   "qualifications": [
@@ -386,7 +388,7 @@
         "1ebfc7b4-f39c-4dbe-8a48-751cd59fcc45",
         "c59af126-a12c-4183-996c-4ab29f2ed425"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4d4ac4cd-0f95-43ad-975d-95ac13f1374c",
         "9b0b6bc9-fd6d-458b-bc17-894fe1720d2e",
@@ -410,7 +412,7 @@
         "c0a699ef-c79e-4abc-9ecc-8a631e3ad35b",
         "a231bc16-ca69-4a34-b3e4-bb09ac14efc4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5ca358ac-ab90-46d2-a32b-a06596a8a8cc",
         "e34c4ea2-0841-4414-a3aa-d77520b230d3",
@@ -432,7 +434,7 @@
         "af3f40e2-6bac-40fb-a07f-1cf910673ead",
         "988d0791-3f16-4daa-a600-463d6b61a9e8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d57d70b5-8f3e-4c8e-90af-4edb51ac2b01",
         "15d4697f-a30b-495f-9557-706877ec69ee",
@@ -453,7 +455,7 @@
         "56c85ae9-f4d6-4646-b9db-39937d441473",
         "7a10c769-ac04-44ff-bb5f-4c4f3f72c774"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "39a9e235-6bbe-4c24-8beb-ce31a1a6ba8f"
       ],
@@ -471,7 +473,7 @@
         "22a88dde-a97a-4889-9221-80f21fa53c88",
         "89efb3e4-9ea2-4de1-997a-92efaad01d2a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "15d4697f-a30b-495f-9557-706877ec69ee",
         "ab36b0fe-e4bf-46af-86b2-70acbfa2b610"
@@ -491,7 +493,7 @@
         "c35dd081-d56a-4fda-9fc2-8791d63edb05",
         "652c8ef4-9fcf-416b-a32b-865b679fd95c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f876fbb8-07b7-43be-ae2f-bf5ebfaccef3",
         "91decdce-c3af-4ba6-97ba-79d3333c311f"
@@ -510,7 +512,7 @@
         "cacec684-837b-46da-9622-169abc29d037",
         "98b7094a-790a-4742-acd8-5d015dac0899"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e2fbe9a5-5219-4944-b17f-4b99da23fc71",
         "e7ae14be-ad4f-4751-9f62-7d92d36b41f0"
@@ -529,7 +531,7 @@
         "db660b94-636b-4dad-8065-75d6576c7993",
         "7f61b173-e157-4e96-b9e6-98e27650e075"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "467a16e1-5464-4de2-a014-1f8e8697a2e7"
       ],
@@ -549,7 +551,7 @@
         "a5b6e7e2-d602-4dc1-9778-746566cff96a",
         "ba33dca3-7fe6-4b9a-b97e-d3403f63907a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7b2351d9-c08b-405c-b048-0f679c54aecc",
         "aeb37dbd-16c9-464c-9e28-bfd773a8f761"
@@ -571,7 +573,7 @@
         "1c52a4eb-670b-468c-8ca7-1ebe0b4e86ba",
         "e574c0b9-8451-4aa4-afd8-8ff857c54717"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ad9f4934-ee1d-4a51-b338-a9006613dc51",
         "c89239dd-6871-4497-98b4-b487ba07a525",
@@ -594,7 +596,7 @@
         "a0812260-b913-4ef3-8c82-251a0d10d366",
         "a4b933d2-45ea-4dfd-bfa1-0b28c088b5e8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4e78aca8-ffa9-457c-913d-f257b50fb069",
         "1d352acb-3911-4b99-bfb8-9eb519316e1c"
@@ -602,6 +604,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "EPAO",
