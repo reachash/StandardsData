@@ -24,7 +24,8 @@
     "shirt",
     "tie",
     "alterations",
-    "mender"
+    "mender",
+    "theatre"
   ],
   "jobRoles": [
     "Bespoke cutter",
@@ -747,12 +748,12 @@
     {
       "optionId": "8ea85eac-7a7b-4615-b454-984ca38a4f8b",
       "title": "Cutter",
-      "occupationCode": null
+      "occupationCode": ""
     },
     {
       "optionId": "80dc5ab0-0d28-4e48-b64a-524af5bfb4c3",
       "title": "Tailor",
-      "occupationCode": null
+      "occupationCode": ""
     }
   ],
   "regulationDetail": [],
