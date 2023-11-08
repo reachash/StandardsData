@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/80",
   "versionNumber": "1.1",
   "change": "Standard, funding band and end-point assessment plan revised.",
-  "changedDate": "2021-06-01T00:00:00Z",
-  "earliestStartDate": "2021-06-01T00:00:00Z",
+  "changedDate": "2021-06-01T00:00:00",
+  "earliestStartDate": "2021-06-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Collect, organise and study data to provide business insight.",
@@ -193,7 +193,6 @@
       "detail": "select and apply the most appropriate data tools to achieve the optimum outcome"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -228,10 +227,13 @@
   ],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Digital Business Services",
-  "cluster": "Data Analyst Advanced Technician",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2021-06-01T08:27:15 +00:00",
   "lastUpdated": "2021-06-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/data-analyst-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/data-analyst-v1-1",
   "qualifications": [],
@@ -261,7 +263,7 @@
         "c8a26d48-b186-42f7-b6be-185640030dd3",
         "70265583-45a4-4885-9cbc-ae27527f7232"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0f653e42-8d6a-47aa-aebf-c528b7360744",
         "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
@@ -297,7 +299,7 @@
         "c8a26d48-b186-42f7-b6be-185640030dd3",
         "70265583-45a4-4885-9cbc-ae27527f7232"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0f653e42-8d6a-47aa-aebf-c528b7360744",
         "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
@@ -335,7 +337,7 @@
         "49dcd81a-3d4f-4f64-aa04-60cb65b46643",
         "70265583-45a4-4885-9cbc-ae27527f7232"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0f653e42-8d6a-47aa-aebf-c528b7360744",
         "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
@@ -375,7 +377,7 @@
         "49dcd81a-3d4f-4f64-aa04-60cb65b46643",
         "70265583-45a4-4885-9cbc-ae27527f7232"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0f653e42-8d6a-47aa-aebf-c528b7360744",
         "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
@@ -413,7 +415,7 @@
         "6baf3f1f-6dce-441f-9683-a1c1bb0298b3",
         "c8a26d48-b186-42f7-b6be-185640030dd3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0f653e42-8d6a-47aa-aebf-c528b7360744",
         "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
@@ -450,7 +452,7 @@
         "49dcd81a-3d4f-4f64-aa04-60cb65b46643",
         "877b2c1c-7e7f-4094-86f4-b2c1d5c7b197"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0f653e42-8d6a-47aa-aebf-c528b7360744",
         "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
@@ -491,7 +493,7 @@
         "877b2c1c-7e7f-4094-86f4-b2c1d5c7b197",
         "70265583-45a4-4885-9cbc-ae27527f7232"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0f653e42-8d6a-47aa-aebf-c528b7360744",
         "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
@@ -525,7 +527,7 @@
         "6baf3f1f-6dce-441f-9683-a1c1bb0298b3",
         "877b2c1c-7e7f-4094-86f4-b2c1d5c7b197"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0f653e42-8d6a-47aa-aebf-c528b7360744",
         "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
@@ -563,7 +565,7 @@
         "49dcd81a-3d4f-4f64-aa04-60cb65b46643",
         "70265583-45a4-4885-9cbc-ae27527f7232"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0f653e42-8d6a-47aa-aebf-c528b7360744",
         "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
@@ -600,7 +602,7 @@
         "c8a26d48-b186-42f7-b6be-185640030dd3",
         "70265583-45a4-4885-9cbc-ae27527f7232"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0f653e42-8d6a-47aa-aebf-c528b7360744",
         "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
@@ -632,7 +634,7 @@
         "6baf3f1f-6dce-441f-9683-a1c1bb0298b3",
         "c8a26d48-b186-42f7-b6be-185640030dd3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0f653e42-8d6a-47aa-aebf-c528b7360744",
         "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
@@ -663,7 +665,7 @@
         "877b2c1c-7e7f-4094-86f4-b2c1d5c7b197",
         "70265583-45a4-4885-9cbc-ae27527f7232"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0f653e42-8d6a-47aa-aebf-c528b7360744",
         "d7636bb4-7fbd-4c93-8a14-bd6359d251d2",
@@ -675,6 +677,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
