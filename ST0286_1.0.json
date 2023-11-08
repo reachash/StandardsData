@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/586",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2020-08-07T00:00:00Z",
-  "earliestStartDate": "2020-08-07T00:00:00Z",
+  "changedDate": "2020-08-07T00:00:00",
+  "earliestStartDate": "2020-08-07T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "To inform the public – either through news and current events, or through the creation of authoritative features, opinion or analysis.",
@@ -294,7 +294,6 @@
       "detail": "Produces video or audio content which \"draws in\" the viewer/listener/user and adds value to the story being told"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -333,8 +332,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media, Broadcast and Production Professional",
+  "clusterId": "29",
+  "clusterDescription": "Leadership, management, and the application technology of resources to create, produce and deliver broadcast content and artistic productions, often requiring specialist expertise",
   "createdDate": "2020-06-18T09:24:27 +00:00",
   "lastUpdated": "2020-08-07T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/senior-journalist-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/senior-journalist-v1-0",
   "qualifications": [
@@ -360,7 +362,7 @@
         "f56ab097-9949-48e0-b2a4-66eb924bffaa",
         "2790d4e1-7c09-4293-8f34-1a7325e0fd6a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b916220f-1f99-48c6-bb6b-cdfbaf4bea4d",
         "67dab9f7-9cd4-4cb0-8f6c-7468fef70750",
@@ -384,7 +386,7 @@
         "7801f143-11a0-435a-9421-a3a492d107e9",
         "6c2e7a72-2d30-4954-9678-fae8d6fd404d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "408d7542-f47e-4333-9a78-a2fb9ff7c576",
         "08cc7edb-a0c7-47e9-b8ad-3a7aac47dbb8",
@@ -407,7 +409,7 @@
         "61731a74-5c5a-4c9f-9f95-81e4e606476f",
         "9bdaf8ba-5b74-4dcb-a0aa-ada999d03aa0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2b7b0e55-aaa8-425b-8be3-61c43c7ad916",
         "c9b2f9ef-00ba-498c-a63a-a6b20479d81a",
@@ -431,7 +433,7 @@
         "2c203e03-e258-40fb-a33a-12be5d3db081",
         "c705a8f6-8f2b-43a8-8a98-87c2d84e8499"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4f24596d-2c4f-49c5-a951-c70f78bbdb11",
         "1bd33d29-068f-4afd-9e27-0da44e6ced74"
@@ -458,7 +460,7 @@
         "1963c505-b900-4a9d-8e21-6aa557ae86d2",
         "0b923dd7-010e-4400-aa6c-37064bebeb0c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "67dab9f7-9cd4-4cb0-8f6c-7468fef70750",
         "2b7b0e55-aaa8-425b-8be3-61c43c7ad916",
@@ -485,7 +487,7 @@
         "a518f68f-6e57-4634-9d21-9ac5f4ec4a65",
         "61731a74-5c5a-4c9f-9f95-81e4e606476f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c432d299-7e20-4019-b205-865c358044c3",
         "149ae962-d1a2-4ac0-88f2-81cb33e3f569",
@@ -513,7 +515,7 @@
         "1963c505-b900-4a9d-8e21-6aa557ae86d2",
         "9bdaf8ba-5b74-4dcb-a0aa-ada999d03aa0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "89aa32d4-d860-461a-9979-1f7ad47fd92c",
         "408d7542-f47e-4333-9a78-a2fb9ff7c576",
@@ -539,7 +541,7 @@
         "1963c505-b900-4a9d-8e21-6aa557ae86d2",
         "6c2e7a72-2d30-4954-9678-fae8d6fd404d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "89aa32d4-d860-461a-9979-1f7ad47fd92c",
         "408d7542-f47e-4333-9a78-a2fb9ff7c576",
@@ -564,7 +566,7 @@
         "de978a6f-a032-4f96-a561-7fef966a728a",
         "176444af-a211-4341-b3d5-2df791c7c59a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "408d7542-f47e-4333-9a78-a2fb9ff7c576",
         "08cc7edb-a0c7-47e9-b8ad-3a7aac47dbb8",
@@ -592,7 +594,7 @@
         "c705a8f6-8f2b-43a8-8a98-87c2d84e8499",
         "176444af-a211-4341-b3d5-2df791c7c59a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "87237f0e-bb4a-433b-bb7c-7f157bd5b627",
         "3fe5bb8a-ea0b-4887-9810-4f2301d42f82",
@@ -617,7 +619,7 @@
         "f5cc057e-459d-4f2e-8f9c-0cf50e07fd90",
         "176444af-a211-4341-b3d5-2df791c7c59a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "87237f0e-bb4a-433b-bb7c-7f157bd5b627",
         "37844c1a-f234-430f-9792-9e912aadffd6",
@@ -643,7 +645,7 @@
         "6c2e7a72-2d30-4954-9678-fae8d6fd404d",
         "9bdaf8ba-5b74-4dcb-a0aa-ada999d03aa0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "611a9276-a02e-4d4f-bf20-ca5ef0f66c11",
         "ff4456bc-f723-43c4-94eb-78559a0b1c5b",
@@ -652,6 +654,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
