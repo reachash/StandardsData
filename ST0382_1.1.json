@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/197",
   "versionNumber": "1.1",
   "change": "End-point assessment plan, standard and funding band revised.",
-  "changedDate": "2022-11-09T00:00:00Z",
-  "earliestStartDate": "2022-06-07T00:00:00Z",
+  "changedDate": "2022-11-09T00:00:00",
+  "earliestStartDate": "2022-06-07T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Design, manufacture and assembly of the components required in a pipe organ.",
@@ -253,7 +253,6 @@
       "detail": "Communicate and work effectively with others as part of a team"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -288,8 +287,11 @@
   "reviewDetails": "",
   "pathway": "Craft and Design",
   "cluster": "Precision Manufacturing Craftsperson",
+  "clusterId": "72",
+  "clusterDescription": "Use traditional craft hand engineering and metal working skills to manufacture and restore precision items often with a high artistic merit and value",
   "createdDate": "2022-11-09T13:40:04 +00:00",
   "lastUpdated": "2022-11-09T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/organ-builder-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/organ-builder-v1-1",
   "qualifications": [],
@@ -326,7 +328,7 @@
         "87a2c7f3-f146-417a-90ba-90f8bcbc30c0",
         "0ef41d41-a084-4c06-ac26-008e293789fd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9a4ee6e7-f8c6-449b-851d-7bf680d22934",
         "2dedf20a-a0d4-40a8-9b04-781f158c6513",
@@ -361,7 +363,7 @@
         "f935fe6b-7a44-4479-ac85-b9978293801f",
         "03cebd8d-3412-4ed1-a706-ba793ba8cead"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9a4ee6e7-f8c6-449b-851d-7bf680d22934",
         "a22a6d67-e8de-4422-b7fa-2f1d831b61ee",
@@ -392,7 +394,7 @@
         "e67e09e5-b9fe-4515-a9a7-cb547bcb3105",
         "03cebd8d-3412-4ed1-a706-ba793ba8cead"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2dedf20a-a0d4-40a8-9b04-781f158c6513",
         "0636d120-4df9-4e08-96f1-0cf0bd293c90",
@@ -421,7 +423,7 @@
         "e67e09e5-b9fe-4515-a9a7-cb547bcb3105",
         "499ead71-8cf5-439d-8de6-26d3d7544f85"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2dedf20a-a0d4-40a8-9b04-781f158c6513",
         "c715f02d-d7a9-4ea3-bcb3-be05b6ccee10",
@@ -455,7 +457,7 @@
         "683e76b6-dc4e-42df-af14-3d88fd4d4ab6",
         "590e1945-230d-41dd-bc12-3de9476a980f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9a4ee6e7-f8c6-449b-851d-7bf680d22934",
         "2dedf20a-a0d4-40a8-9b04-781f158c6513",
@@ -490,7 +492,7 @@
         "03cebd8d-3412-4ed1-a706-ba793ba8cead",
         "683e76b6-dc4e-42df-af14-3d88fd4d4ab6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2dedf20a-a0d4-40a8-9b04-781f158c6513",
         "0636d120-4df9-4e08-96f1-0cf0bd293c90",
@@ -525,7 +527,7 @@
         "03cebd8d-3412-4ed1-a706-ba793ba8cead",
         "683e76b6-dc4e-42df-af14-3d88fd4d4ab6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2dedf20a-a0d4-40a8-9b04-781f158c6513",
         "0636d120-4df9-4e08-96f1-0cf0bd293c90",
@@ -561,7 +563,7 @@
         "e67e09e5-b9fe-4515-a9a7-cb547bcb3105",
         "03cebd8d-3412-4ed1-a706-ba793ba8cead"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2dedf20a-a0d4-40a8-9b04-781f158c6513",
         "0636d120-4df9-4e08-96f1-0cf0bd293c90",
@@ -589,7 +591,7 @@
         "683e76b6-dc4e-42df-af14-3d88fd4d4ab6",
         "75d671a5-87a4-4ae5-b376-f46544fbd729"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7edb3851-e126-458f-8f60-15a4af385761",
         "dc7450a8-3fe0-4c65-8147-ee216bf36446",
@@ -619,7 +621,7 @@
         "7cedb571-be17-4b6c-9771-7763c574a53b",
         "f0386340-817f-401d-a10f-1f7b2937333e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2dedf20a-a0d4-40a8-9b04-781f158c6513",
         "0636d120-4df9-4e08-96f1-0cf0bd293c90",
@@ -657,7 +659,7 @@
         "7cedb571-be17-4b6c-9771-7763c574a53b",
         "f0386340-817f-401d-a10f-1f7b2937333e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2dedf20a-a0d4-40a8-9b04-781f158c6513",
         "0636d120-4df9-4e08-96f1-0cf0bd293c90",
@@ -689,7 +691,7 @@
         "a40bd953-ae77-43d4-824b-6c79c6ecf05d",
         "75d671a5-87a4-4ae5-b376-f46544fbd729"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9a4ee6e7-f8c6-449b-851d-7bf680d22934",
         "dc7450a8-3fe0-4c65-8147-ee216bf36446",
@@ -728,7 +730,7 @@
         "75d671a5-87a4-4ae5-b376-f46544fbd729",
         "61479d3f-b19d-4cdf-8f2b-7e6834cb2654"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9a4ee6e7-f8c6-449b-851d-7bf680d22934",
         "13977d73-ce2f-4c9f-8094-3bac080a0ad7",
@@ -765,7 +767,7 @@
         "683e76b6-dc4e-42df-af14-3d88fd4d4ab6",
         "165cbb10-e56f-4d99-ad61-2b9388fe7297"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "496b5804-da30-47fc-b644-6555043c7b45",
         "c715f02d-d7a9-4ea3-bcb3-be05b6ccee10",
@@ -790,7 +792,7 @@
         "7a7d27da-b23f-440e-afa6-b74239ea4618",
         "165cbb10-e56f-4d99-ad61-2b9388fe7297"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "496b5804-da30-47fc-b644-6555043c7b45",
         "a22a6d67-e8de-4422-b7fa-2f1d831b61ee",
@@ -803,7 +805,7 @@
       "dutyID": "df62ce24-28c4-4355-a17c-4126c86b067a",
       "dutyDetail": "Carry out fault finding of low voltage electrical systems ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "cb6e1640-2254-4b15-aa17-6eecd5aaba19",
         "7a7d27da-b23f-440e-afa6-b74239ea4618",
@@ -813,7 +815,7 @@
         "75d671a5-87a4-4ae5-b376-f46544fbd729",
         "61479d3f-b19d-4cdf-8f2b-7e6834cb2654"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "13977d73-ce2f-4c9f-8094-3bac080a0ad7",
         "dc7450a8-3fe0-4c65-8147-ee216bf36446",
@@ -836,7 +838,7 @@
         "d0d94723-3fb3-43d7-8085-ff6144677903",
         "f0386340-817f-401d-a10f-1f7b2937333e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dc7450a8-3fe0-4c65-8147-ee216bf36446",
         "e36dfb20-b68a-4fbb-a055-aaf43e9b7d52",
@@ -849,6 +851,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
