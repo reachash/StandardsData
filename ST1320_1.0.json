@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/726",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-08-31T00:00:00Z",
-  "earliestStartDate": "2023-08-29T00:00:00Z",
+  "changedDate": "2023-08-31T00:00:00",
+  "earliestStartDate": "2023-08-29T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Professionally operate and support the management of an agricultural or horticultural business such as a farm.&nbsp;",
@@ -234,7 +234,6 @@
       "detail": "Oversees and uses agrochemicals or organic equivalents including using spraying equipment. \r\n"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -270,8 +269,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Agricultural Manager",
+  "clusterId": "154",
+  "clusterDescription": "Management of a whole agriculture enterprise or specific sections of an enterprise (e.g. livestock, fisheries).",
   "createdDate": "2023-08-31T09:00:07 +00:00",
   "lastUpdated": "2023-08-31T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/assistant-farm-manager-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/assistant-farm-manager-v1-0",
   "qualifications": [
@@ -309,7 +311,7 @@
         "ed2ea124-ee9e-43e6-9c53-0648da57fd48",
         "7c6728c0-e3c2-48c8-906a-64107276b9b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5a76d4b9-b7b6-4896-8c5f-ba76cf9f85d7"
       ],
@@ -319,12 +321,12 @@
       "dutyID": "a67f9a23-58a3-4a4b-a74e-95f2fe1a550a",
       "dutyDetail": "Create and implement soil management plans that focus on the balance between nutritional requirements for crop grasses, soil and environmental requirements, informed by relevant soil analysis data and working with others.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "74cea937-b87f-4f83-9e42-47221409b1e1",
         "9cdff98a-12de-4814-8e18-a8d12ca6e5f3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fa4b77dd-24ec-4474-bf56-b3429968d9ed"
       ],
@@ -334,13 +336,13 @@
       "dutyID": "ebc5c2d8-3a27-4be5-9bd4-c4544abc6504",
       "dutyDetail": "Develop and implement plans to manage organic by-product and inorganic waste produced by the business that adhere to legislative and environmental permitting requirements, as well as management of nitrate vulnerable zones.  ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "5edd0af6-49cc-432d-9279-d689f24efe41",
         "03c285e9-8e12-446e-a69a-38b145ce78e1",
         "7c6728c0-e3c2-48c8-906a-64107276b9b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7ad61b4f-c92a-40c9-aa76-8e3cfb23030a"
       ],
@@ -350,13 +352,13 @@
       "dutyID": "09eb78cb-a068-467d-8635-b0df72fc3a08",
       "dutyDetail": "Plan and implement farm business environmental operations that meet compliance and legal requirements, including environmental practices, emerging legislation, Net Zero, health and safety and and farm bi-product such as slurry/manure.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "f0ec8b8b-bf57-40db-979f-24bfcda30f9b",
         "c7d0efcc-106a-4802-8ae7-30a5b83ebff9",
         "5762016a-da42-4cd7-9d75-5411910fdc59"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "49406cc7-158f-4953-92df-25579b8736cc",
         "1747c5b8-c0ab-46b7-beac-6d017c433264"
@@ -367,13 +369,13 @@
       "dutyID": "055f3e58-0500-40c0-ab67-39e2cda70af9",
       "dutyDetail": "Implement scientific principles and good practice for relevant specialisms, e.g. livestock and/or crop (such as Welfare Codes, Biosecurity, COPs, 5 freedoms, Crop husbandry/Integrated Pest Management), that adhere to business crop and/or livestock health plan, and work with third parties to carry out recommendations. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "96a254b3-bc4d-4c88-b3a5-fa382154b3b4",
         "ca711d85-e399-4e6f-b335-e75670c06d1e",
         "c06bb100-168d-4cef-abb5-e41ba6790e51"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "93a76792-fa5a-4e53-b870-6a1bf43bb601",
         "158b4b21-b260-40c7-9e43-f1ba480965d2",
@@ -394,7 +396,7 @@
         "ed2ea124-ee9e-43e6-9c53-0648da57fd48",
         "34f60f4b-01bd-4090-ad0a-b94443722b8e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5a76d4b9-b7b6-4896-8c5f-ba76cf9f85d7",
         "9e1294d1-01a7-45f4-a574-2562064be6cf"
@@ -405,13 +407,13 @@
       "dutyID": "6896c86c-2a38-416f-b00a-038562a014ac",
       "dutyDetail": "Interact and engage across the supply chain (e.g. genetics, feed) to produce products and or services to specification requirements that meets business and end-use and or consumer needs. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "e148487f-5a5e-463b-8d9a-8a9b6e22fb32",
         "76e9ba39-f6a8-41fd-b71f-510b2b3a8171",
         "f7691bdd-49f8-4e95-9742-85befc8a4e37"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0913f48b-fae6-4553-b45f-b117c6c7e270",
         "ba876a0b-e6f4-48e7-b1ee-c5203922b657"
@@ -422,12 +424,12 @@
       "dutyID": "3cec8192-a2ee-489e-8baa-f3732be3e698",
       "dutyDetail": "Assist with planning, utilisation, management and replacement of machinery and infrastructure, in line with business policy and ensuring Return on Investment. For example, tractor, harvesters, temperature-controlled rooms, or robotics",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "7845f48f-fd58-4ccf-970b-58f5f5b76eff",
         "1d885ace-5666-47a0-93fb-071fcf6b848c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fa8d294b-d416-425f-90e0-6af017070a47",
         "7c220d33-d09a-4854-a67f-28c7629150f3"
@@ -447,7 +449,7 @@
         "ed2ea124-ee9e-43e6-9c53-0648da57fd48",
         "34f60f4b-01bd-4090-ad0a-b94443722b8e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5a76d4b9-b7b6-4896-8c5f-ba76cf9f85d7",
         "9e1294d1-01a7-45f4-a574-2562064be6cf"
@@ -468,7 +470,7 @@
         "ed2ea124-ee9e-43e6-9c53-0648da57fd48",
         "34f60f4b-01bd-4090-ad0a-b94443722b8e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5a76d4b9-b7b6-4896-8c5f-ba76cf9f85d7",
         "9e1294d1-01a7-45f4-a574-2562064be6cf"
@@ -487,7 +489,7 @@
       "mappedKnowledge": [
         "dd418e90-b140-421f-b6d4-cb99bb64ca7b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "31898d26-a9c9-4d5c-a7ca-2d7e68e4c1a4",
         "1404263e-51c7-40f2-8269-e5c88a355d9d"
@@ -498,11 +500,11 @@
       "dutyID": "7f019b21-2720-42ac-9ff3-04211af770c3",
       "dutyDetail": "Manage communications with stakeholders that involve complex terminology (e.g. veterinary surgeons, agronomists, consultants), adapting communication method and style where relevant.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "16c01312-ed6f-429a-a8c3-acc6263b274e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5476fe0b-7d36-4da0-8c3d-ee82c1afe540"
       ],
@@ -512,11 +514,11 @@
       "dutyID": "58ed26c5-8300-4134-b85d-6d7275cc9f9a",
       "dutyDetail": "Maintain records in accordance with legal and industry audit requirements that allow facilitation and provision of evidence for compliance purposes. (For example but not restricted to farm assurance, rural payments agency, animal and plant health authority, trading standards etc)",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "7f20ed49-da04-430b-ab3a-b0e6620e2e92"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fe5794a4-b744-4faa-8c98-20f00eada427"
       ],
@@ -532,7 +534,7 @@
       "mappedKnowledge": [
         "9c893504-4304-4a50-bed3-d201230648bc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b810aedb-cb88-40b2-bb50-ec1d7a8d0aa8",
         "eacb40e0-5be7-4ad9-be59-735d7da0aec1"
@@ -543,15 +545,16 @@
       "dutyID": "1679643b-6165-4e0b-b362-1f39f855b9ab",
       "dutyDetail": "Assist in the evaluation of sources of financial capital investment, including suitability and risk. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "c61eeb9d-c06f-4424-b849-e4fc9c6c8ab4"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
