@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/133",
   "versionNumber": "1.2",
   "change": "End-point assessment plan, standard and funding revised.",
-  "changedDate": "2023-08-01T00:00:00Z",
-  "earliestStartDate": "2023-08-01T00:00:00Z",
+  "changedDate": "2023-08-01T00:00:00",
+  "earliestStartDate": "2023-08-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Carrying out routine financial activities and support for businesses and organisations of all types and sizes.",
@@ -170,7 +170,6 @@
       "detail": "Communicate using varying approaches and different media methods with an appreciation of the risks and benefits to the business of social media and other digital applications."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -207,8 +206,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Accountancy",
   "cluster": "Assistant Accountant",
+  "clusterId": "236",
+  "clusterDescription": "Undertake routine accountancy support analysis and report on financial activities including dealing with HMRC",
   "createdDate": "2023-08-25T12:58:16 +00:00",
   "lastUpdated": "2023-08-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/assistant-accountant-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/assistant-accountant-v1-2",
   "qualifications": [
@@ -250,7 +252,7 @@
         "63d9ad54-387c-487a-a5b3-5f5cf8d107bb",
         "06c86be9-9825-41fb-a7db-f6e1f05ad6f3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65672fb0-225c-4a82-bd1c-b6dc62844575",
         "9b8633ac-8ea5-4c52-8025-9fe5e8a5618f",
@@ -274,7 +276,7 @@
       "mappedKnowledge": [
         "828128e7-2b19-4412-ab6c-44e320b983b6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65672fb0-225c-4a82-bd1c-b6dc62844575",
         "9b8633ac-8ea5-4c52-8025-9fe5e8a5618f",
@@ -301,7 +303,7 @@
         "c2531f58-812d-4aa8-ba4e-606691b4eb97",
         "68f1dc1f-3103-4689-925a-bb757c0a9538"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65672fb0-225c-4a82-bd1c-b6dc62844575",
         "5d07ab83-bc0c-4691-90d5-a9b32b27a695",
@@ -322,7 +324,7 @@
         "b68dbb66-3556-4618-8105-e01f72cf0380",
         "68f1dc1f-3103-4689-925a-bb757c0a9538"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5a09f516-9c5d-4c61-bc6a-d6882e1631ab",
         "65672fb0-225c-4a82-bd1c-b6dc62844575",
@@ -349,7 +351,7 @@
         "63d9ad54-387c-487a-a5b3-5f5cf8d107bb",
         "68f1dc1f-3103-4689-925a-bb757c0a9538"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bc63e04e-3659-4ce4-b02d-c58fed30722c",
         "34df1632-ef15-44e3-815d-c84c6a6bc905"
@@ -369,7 +371,7 @@
         "06c86be9-9825-41fb-a7db-f6e1f05ad6f3",
         "ab63ce01-d7e8-4f8b-a0ad-b61c6c27d683"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9b8633ac-8ea5-4c52-8025-9fe5e8a5618f"
       ],
@@ -387,7 +389,7 @@
         "63d9ad54-387c-487a-a5b3-5f5cf8d107bb",
         "06c86be9-9825-41fb-a7db-f6e1f05ad6f3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "94e3533c-7566-4c71-a44a-f7545abd2d83",
         "0adb2e9c-0fa0-408d-a526-b7ea9b929184",
@@ -412,8 +414,8 @@
         "d3942799-d731-45d5-9836-b215fb0d2d13",
         "ab63ce01-d7e8-4f8b-a0ad-b61c6c27d683"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -431,7 +433,7 @@
         "1a68e0b8-eea0-4477-b129-7084d419fdda",
         "68f1dc1f-3103-4689-925a-bb757c0a9538"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65672fb0-225c-4a82-bd1c-b6dc62844575",
         "94e3533c-7566-4c71-a44a-f7545abd2d83",
@@ -440,6 +442,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
