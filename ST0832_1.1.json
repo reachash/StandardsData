@@ -7,15 +7,15 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/557",
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised",
-  "changedDate": "2022-08-26T00:00:00Z",
-  "earliestStartDate": "2022-08-26T00:00:00Z",
+  "changedDate": "2022-08-26T00:00:00",
+  "earliestStartDate": "2022-08-26T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Build, provide or repair telecom services for commercial or residential customers on the UK's National Telecom Access Network.",
   "level": 2,
   "typicalDuration": 15,
   "maxFunding": 7000,
-  "route": "Construction and the built environment",
+  "route": "Construction",
   "keywords": [
     "UK telecom sector",
     "communication",
@@ -179,7 +179,6 @@
       "detail": "Working as an individual or as a member of a team to achieve defined goals."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -221,8 +220,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Building Services Engineering",
   "cluster": "Utilities Installation and Maintenance Operative/Technician",
+  "clusterId": "137",
+  "clusterDescription": "Install, exchange, commission and maintain metering systems, appliances, lighting and other road-based utilities",
   "createdDate": "2022-08-26T08:49:02 +00:00",
   "lastUpdated": "2022-08-26T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/telecoms-field-operative-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/telecoms-field-operative-v1-1",
   "qualifications": [],
@@ -246,7 +248,7 @@
         "ab996af9-4631-4eeb-893c-18adcb9e0680",
         "2581d776-95d0-4247-928f-d23a055cc383"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a3f813b9-515a-4319-a7d1-794aaf3e56b9",
         "6bafc62f-85e2-4a92-8aef-f3c130e40273",
@@ -284,7 +286,7 @@
         "2581d776-95d0-4247-928f-d23a055cc383",
         "0caebbf8-fcbc-41ad-b36a-a6b4d9f25e8f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a3f813b9-515a-4319-a7d1-794aaf3e56b9",
         "6bafc62f-85e2-4a92-8aef-f3c130e40273",
@@ -316,7 +318,7 @@
         "029b0a2d-69ca-40b1-bd83-d127a1ffe337",
         "2581d776-95d0-4247-928f-d23a055cc383"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a3f813b9-515a-4319-a7d1-794aaf3e56b9",
         "6bafc62f-85e2-4a92-8aef-f3c130e40273",
@@ -334,13 +336,13 @@
       "dutyID": "ff93cd41-2e97-4703-8663-ce4300cda0ad",
       "dutyDetail": "Identify and use the appropriate calibrated digital testing equipment for copper or fibre products",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "aedb5827-c910-4fdf-88e6-bf8c336a1aef",
         "7d0eb1b0-7c0c-4370-919c-2671cde24e2f",
         "ab996af9-4631-4eeb-893c-18adcb9e0680"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6bafc62f-85e2-4a92-8aef-f3c130e40273",
         "e9681d49-a263-487c-b0a6-6b67058650a6",
@@ -363,7 +365,7 @@
         "caba20b1-431e-4aef-b06f-5e8dd8fc189d",
         "144d789a-5891-466b-a2eb-cda124666f49"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a3f813b9-515a-4319-a7d1-794aaf3e56b9",
         "e158d0b2-2502-468c-b5d8-500862e8f21f",
@@ -387,7 +389,7 @@
         "119eec56-0d82-444e-bca4-e8a18e7f8011",
         "0caebbf8-fcbc-41ad-b36a-a6b4d9f25e8f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "403ba39a-53ee-483b-9483-e11090185e41"
       ],
@@ -408,7 +410,7 @@
         "2581d776-95d0-4247-928f-d23a055cc383",
         "0caebbf8-fcbc-41ad-b36a-a6b4d9f25e8f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e9681d49-a263-487c-b0a6-6b67058650a6",
         "403ba39a-53ee-483b-9483-e11090185e41",
@@ -434,7 +436,7 @@
         "7d0eb1b0-7c0c-4370-919c-2671cde24e2f",
         "ab996af9-4631-4eeb-893c-18adcb9e0680"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a3f813b9-515a-4319-a7d1-794aaf3e56b9",
         "6bafc62f-85e2-4a92-8aef-f3c130e40273",
@@ -467,7 +469,7 @@
         "029b0a2d-69ca-40b1-bd83-d127a1ffe337",
         "f350d206-a1f8-40e3-94ad-14ba8cf100fb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a3f813b9-515a-4319-a7d1-794aaf3e56b9",
         "6bafc62f-85e2-4a92-8aef-f3c130e40273",
@@ -485,6 +487,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
