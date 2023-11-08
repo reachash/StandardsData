@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/577",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-09-12T00:00:00Z",
-  "earliestStartDate": "2020-07-10T00:00:00Z",
-  "latestStartDate": "2023-09-11T00:00:00Z",
+  "changedDate": "2023-09-12T00:00:00",
+  "earliestStartDate": "2020-07-10T00:00:00",
+  "latestStartDate": "2023-09-11T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Manage a commercially viable site in the metal recycling sector, which considers and responds to strict regulations and legislation specific to the sectors operational activity.",
   "level": 5,
@@ -268,7 +268,6 @@
       "detail": "Ensure accurate site records are maintained in accordance with relevant regulations and  business requirements for: Site, Commercial and People."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -302,8 +301,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Quality Improvement and Project Control Manager",
+  "clusterId": "258",
+  "clusterDescription": "Maintain and improve the integrity and quality of complex products and processes, improve whole production and process technologies, and the overall health and safety of the working environment",
   "createdDate": "2020-04-22T15:45:26 +00:00",
   "lastUpdated": "2023-09-12T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/metal-recycling-technical-manager-mrtm-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/metal-recycling-technical-manager-mrtm-v1-0",
   "qualifications": [],
@@ -341,7 +343,7 @@
         "94d8882e-2655-411e-9007-67fb7fa03cf3",
         "fcfee2fe-f1dd-4c64-9794-d17d94f3a618"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "637981c4-8572-4f31-a769-1daf2c2dc468",
         "c6ff60b8-cc55-40ca-8b3a-86401075ae91",
@@ -379,7 +381,7 @@
         "15a1dbd7-e996-48d6-b11e-45893b95300f",
         "c08ff20e-1ac7-4f87-9e4c-7d2d495665b7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "637981c4-8572-4f31-a769-1daf2c2dc468",
         "c6ff60b8-cc55-40ca-8b3a-86401075ae91",
@@ -420,7 +422,7 @@
         "15a1dbd7-e996-48d6-b11e-45893b95300f",
         "c08ff20e-1ac7-4f87-9e4c-7d2d495665b7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "637981c4-8572-4f31-a769-1daf2c2dc468",
         "c6ff60b8-cc55-40ca-8b3a-86401075ae91",
@@ -456,7 +458,7 @@
         "dd41b980-b35d-451f-b32e-311def6ea558",
         "c08ff20e-1ac7-4f87-9e4c-7d2d495665b7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "637981c4-8572-4f31-a769-1daf2c2dc468",
         "c6ff60b8-cc55-40ca-8b3a-86401075ae91",
@@ -497,7 +499,7 @@
         "dd41b980-b35d-451f-b32e-311def6ea558",
         "c08ff20e-1ac7-4f87-9e4c-7d2d495665b7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "637981c4-8572-4f31-a769-1daf2c2dc468",
         "c6ff60b8-cc55-40ca-8b3a-86401075ae91",
@@ -540,7 +542,7 @@
         "a9f1facd-6a39-4e91-9f8f-308ba852d94d",
         "c08ff20e-1ac7-4f87-9e4c-7d2d495665b7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "637981c4-8572-4f31-a769-1daf2c2dc468",
         "c6ff60b8-cc55-40ca-8b3a-86401075ae91",
@@ -578,7 +580,7 @@
         "94d8882e-2655-411e-9007-67fb7fa03cf3",
         "fcfee2fe-f1dd-4c64-9794-d17d94f3a618"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "637981c4-8572-4f31-a769-1daf2c2dc468",
         "c6ff60b8-cc55-40ca-8b3a-86401075ae91",
@@ -613,7 +615,7 @@
         "7ed6c98f-0e55-4dd2-adcd-c078a6e07725",
         "3e3b5e65-2b2e-497f-b8c4-daab036d51c7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c6ff60b8-cc55-40ca-8b3a-86401075ae91",
         "d5d6edf8-d656-480e-ab20-7b005ad96775",
@@ -649,7 +651,7 @@
         "3e3b5e65-2b2e-497f-b8c4-daab036d51c7",
         "a9f1facd-6a39-4e91-9f8f-308ba852d94d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c6ff60b8-cc55-40ca-8b3a-86401075ae91",
         "cc555e7f-82d7-4cc3-a7e6-dbc8026aaa9d",
@@ -682,7 +684,7 @@
         "a9f1facd-6a39-4e91-9f8f-308ba852d94d",
         "e9e72588-5f49-45b5-8c25-4d30f479bbe7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c6ff60b8-cc55-40ca-8b3a-86401075ae91",
         "cc555e7f-82d7-4cc3-a7e6-dbc8026aaa9d",
@@ -717,7 +719,7 @@
         "3e3b5e65-2b2e-497f-b8c4-daab036d51c7",
         "e9e72588-5f49-45b5-8c25-4d30f479bbe7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "637981c4-8572-4f31-a769-1daf2c2dc468",
         "cc555e7f-82d7-4cc3-a7e6-dbc8026aaa9d",
@@ -751,7 +753,7 @@
         "636044af-d3a6-4455-ac4a-dce948546dd0",
         "35468fd8-d88b-4a2f-9cc9-35103b05d792"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "637981c4-8572-4f31-a769-1daf2c2dc468",
         "c6ff60b8-cc55-40ca-8b3a-86401075ae91",
@@ -783,7 +785,7 @@
         "dd41b980-b35d-451f-b32e-311def6ea558",
         "94d8882e-2655-411e-9007-67fb7fa03cf3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "637981c4-8572-4f31-a769-1daf2c2dc468",
         "c6ff60b8-cc55-40ca-8b3a-86401075ae91",
@@ -816,7 +818,7 @@
         "94d8882e-2655-411e-9007-67fb7fa03cf3",
         "9c2a5d34-f960-4fe5-83e7-6d8648660a09"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "637981c4-8572-4f31-a769-1daf2c2dc468",
         "c6ff60b8-cc55-40ca-8b3a-86401075ae91",
@@ -849,7 +851,7 @@
         "35468fd8-d88b-4a2f-9cc9-35103b05d792",
         "1b48d14f-0d3a-4eb5-8be7-41491ab8806f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "637981c4-8572-4f31-a769-1daf2c2dc468",
         "c6ff60b8-cc55-40ca-8b3a-86401075ae91",
@@ -882,7 +884,7 @@
         "94d8882e-2655-411e-9007-67fb7fa03cf3",
         "eb71272d-2f8d-4db4-8989-5bdf9b40173a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "637981c4-8572-4f31-a769-1daf2c2dc468",
         "c6ff60b8-cc55-40ca-8b3a-86401075ae91",
@@ -913,7 +915,7 @@
         "26cdeaa7-66ef-43bd-adbe-240adcef3c92",
         "e5e9facf-72b9-48f6-ae97-258a2a80df31"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "637981c4-8572-4f31-a769-1daf2c2dc468",
         "41d0f285-7eca-4498-bf5e-1dba62956941",
@@ -944,7 +946,7 @@
         "dd41b980-b35d-451f-b32e-311def6ea558",
         "c08ff20e-1ac7-4f87-9e4c-7d2d495665b7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "637981c4-8572-4f31-a769-1daf2c2dc468",
         "c6ff60b8-cc55-40ca-8b3a-86401075ae91",
@@ -961,6 +963,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
