@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/108",
   "versionNumber": "1.1",
   "change": "Standard, end-point assessment and funding revised.",
-  "changedDate": "2023-01-26T00:00:00Z",
-  "earliestStartDate": "2023-01-05T00:00:00Z",
+  "changedDate": "2023-01-26T00:00:00",
+  "earliestStartDate": "2023-01-05T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "HM Forces first response ground troops, providing peacekeeping duties and support/assistance to the civilian community as required and directed by HM Government.",
@@ -204,7 +204,6 @@
       "detail": "Show how to operate weapons and remedy malfunctions. "
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -238,8 +237,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Protective Services",
   "cluster": "Protective Service Officer",
+  "clusterId": "15",
+  "clusterDescription": "Provide safety, security, prevention, enforcement, protection and investigation services largely on behalf of society",
   "createdDate": "2022-11-04T11:52:19 +00:00",
   "lastUpdated": "2023-01-26T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/hm-forces-serviceperson-protective-services-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/hm-forces-serviceperson-protective-services-v1-1",
   "qualifications": [],
@@ -270,7 +272,7 @@
         "c6e82492-0b6f-45ef-8729-dc0abdaf7575",
         "d76675b0-0f81-45a3-97f0-9d7927c99743"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b15a28fe-78e3-4d8e-a927-cc1d645439a2",
         "4cedc8b7-5ef8-41b5-b9e6-d1046575fdc4",
@@ -286,7 +288,7 @@
       "dutyID": "85ad52b2-6b20-49ba-9200-238f2ed7dd95",
       "dutyDetail": "Administer first aid, use recognised methods in preserving life, move casualties utilising recognised casualty evacuation procedures.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "3674c28c-7259-4d8d-84a9-b0e23d257953",
         "66534116-56ea-4e0a-a355-57cbccef94eb",
@@ -298,7 +300,7 @@
         "2041762d-ed7a-41cb-8b54-4ab72101c00c",
         "d76675b0-0f81-45a3-97f0-9d7927c99743"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4cedc8b7-5ef8-41b5-b9e6-d1046575fdc4",
         "d9da0982-c008-4be6-9b2c-235263f5d5d1",
@@ -312,7 +314,7 @@
       "dutyID": "d24e56e0-0151-41d1-87bd-168c5cabefdd",
       "dutyDetail": "Use, monitor and maintain physical resources, use appropriate tools and equipment in a reliable and safe manner throughout.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "5a91fc1d-22e4-40ff-a637-4c9a5d00bf94",
         "66534116-56ea-4e0a-a355-57cbccef94eb",
@@ -321,7 +323,7 @@
         "2041762d-ed7a-41cb-8b54-4ab72101c00c",
         "d76675b0-0f81-45a3-97f0-9d7927c99743"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4cedc8b7-5ef8-41b5-b9e6-d1046575fdc4",
         "d9da0982-c008-4be6-9b2c-235263f5d5d1",
@@ -347,7 +349,7 @@
         "becd6128-9563-4eaf-88d4-f28ba7000a14",
         "2041762d-ed7a-41cb-8b54-4ab72101c00c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "06aac946-c9c2-49d8-8c1c-f54a7854d803",
         "7b176fdc-c390-43cb-9fac-adf2453972ec",
@@ -370,7 +372,7 @@
         "1d67d331-b421-4391-ab50-4c8904b96968",
         "a5ca3bdb-9ff8-414d-89e5-f6342ac5a645"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b15a28fe-78e3-4d8e-a927-cc1d645439a2",
         "bb7e6c60-46a4-45de-86bd-d26904e94aaf",
@@ -383,13 +385,13 @@
       "dutyID": "a4eeb33d-bd26-4bdd-8f47-71a3e387da66",
       "dutyDetail": "Plan and navigate specified routes using recognised aids and techniques, in a variety of conditions and terrains.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "3674c28c-7259-4d8d-84a9-b0e23d257953",
         "66534116-56ea-4e0a-a355-57cbccef94eb",
         "513e9128-6108-4eba-8d3e-3e589afa26b9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b15a28fe-78e3-4d8e-a927-cc1d645439a2",
         "bb7e6c60-46a4-45de-86bd-d26904e94aaf",
@@ -411,7 +413,7 @@
         "5a91fc1d-22e4-40ff-a637-4c9a5d00bf94",
         "2cf9a003-479f-4f6b-b687-4470e477024c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b15a28fe-78e3-4d8e-a927-cc1d645439a2",
         "d9da0982-c008-4be6-9b2c-235263f5d5d1",
@@ -440,7 +442,7 @@
         "513e9128-6108-4eba-8d3e-3e589afa26b9",
         "d76675b0-0f81-45a3-97f0-9d7927c99743"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9da0982-c008-4be6-9b2c-235263f5d5d1",
         "0817678b-7594-4e7a-8de0-24c2cf5e1291",
@@ -461,7 +463,7 @@
       "dutyID": "72920b80-c04f-44c7-9970-85a73a5a3b9a",
       "dutyDetail": "Plan and prepare personal equipment and resources, conduct simple and complex drill movements.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "3674c28c-7259-4d8d-84a9-b0e23d257953",
         "d64c2de0-d662-4134-8f7c-bf7af759819a",
@@ -471,7 +473,7 @@
         "cd6bd9b1-437e-46ab-8c89-f2cd79e8a246",
         "d76675b0-0f81-45a3-97f0-9d7927c99743"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b15a28fe-78e3-4d8e-a927-cc1d645439a2",
         "4cedc8b7-5ef8-41b5-b9e6-d1046575fdc4",
@@ -495,7 +497,7 @@
         "becd6128-9563-4eaf-88d4-f28ba7000a14",
         "c6e82492-0b6f-45ef-8729-dc0abdaf7575"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b15a28fe-78e3-4d8e-a927-cc1d645439a2",
         "2cd724bf-2a40-4cb9-8c14-18e8fa764f11",
@@ -506,6 +508,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
