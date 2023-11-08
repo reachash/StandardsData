@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/710",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-05-30T00:00:00Z",
-  "earliestStartDate": "2023-05-25T00:00:00Z",
+  "changedDate": "2023-05-30T00:00:00",
+  "earliestStartDate": "2023-05-25T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Governance officers provide administrative and operational support.",
@@ -196,7 +196,6 @@
       "detail": "Identify and implement improvements to support the governance of the organisation."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -231,8 +230,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Management and Administration",
   "cluster": "Business Manager",
+  "clusterId": "25",
+  "clusterDescription": "Lead and manage a project (business/process improvement), business support services and/or run a practice using the full range of business systems, procedures and accounting practice. Includes the ability to set-up and develop a new business",
   "createdDate": "2023-04-04T12:29:43 +00:00",
   "lastUpdated": "2023-05-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/governance-officer-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/governance-officer-v1-0",
   "qualifications": [],
@@ -262,7 +264,7 @@
         "9d217a4b-ce96-4d83-b654-a138dbf0dc46",
         "cab6f952-a514-4941-8de9-22a35e29de71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9199643-8af2-48a4-966a-29b9aef15e50",
         "4d95a902-3dae-464a-8c2a-fb05469d458a",
@@ -301,7 +303,7 @@
         "f0df3787-af9f-4f5a-b2ad-9efbc872ba20",
         "2c34886c-8c2f-438d-bce6-a08abcfcb904"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9199643-8af2-48a4-966a-29b9aef15e50",
         "4eea3046-6fd2-4a1b-b84e-a4b81499cea7",
@@ -328,7 +330,7 @@
         "cab518d9-14d0-4c47-9e7d-7e9ea5b3b798",
         "cab6f952-a514-4941-8de9-22a35e29de71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4d95a902-3dae-464a-8c2a-fb05469d458a",
         "4eea3046-6fd2-4a1b-b84e-a4b81499cea7",
@@ -355,7 +357,7 @@
         "3e946885-b401-4ec8-a33a-21d4a915a9c2",
         "cab6f952-a514-4941-8de9-22a35e29de71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4d95a902-3dae-464a-8c2a-fb05469d458a",
         "4eea3046-6fd2-4a1b-b84e-a4b81499cea7",
@@ -388,7 +390,7 @@
         "2c34886c-8c2f-438d-bce6-a08abcfcb904",
         "cab6f952-a514-4941-8de9-22a35e29de71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9199643-8af2-48a4-966a-29b9aef15e50",
         "4eea3046-6fd2-4a1b-b84e-a4b81499cea7",
@@ -421,7 +423,7 @@
         "2c34886c-8c2f-438d-bce6-a08abcfcb904",
         "cab6f952-a514-4941-8de9-22a35e29de71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9199643-8af2-48a4-966a-29b9aef15e50",
         "4eea3046-6fd2-4a1b-b84e-a4b81499cea7",
@@ -452,7 +454,7 @@
         "f0df3787-af9f-4f5a-b2ad-9efbc872ba20",
         "f004caa9-ebc5-43c5-8245-6c921aeaa6b1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4eea3046-6fd2-4a1b-b84e-a4b81499cea7",
         "00f7ebf6-e6dc-40ce-a1d0-0e9cd3bb6684",
@@ -485,7 +487,7 @@
         "2c34886c-8c2f-438d-bce6-a08abcfcb904",
         "cab6f952-a514-4941-8de9-22a35e29de71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9199643-8af2-48a4-966a-29b9aef15e50",
         "4eea3046-6fd2-4a1b-b84e-a4b81499cea7",
@@ -520,7 +522,7 @@
         "2c34886c-8c2f-438d-bce6-a08abcfcb904",
         "cab6f952-a514-4941-8de9-22a35e29de71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9199643-8af2-48a4-966a-29b9aef15e50",
         "4d95a902-3dae-464a-8c2a-fb05469d458a",
@@ -555,7 +557,7 @@
         "b83f81af-9a7b-467f-bd17-5fddc7d32984",
         "cab6f952-a514-4941-8de9-22a35e29de71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4d95a902-3dae-464a-8c2a-fb05469d458a",
         "4eea3046-6fd2-4a1b-b84e-a4b81499cea7",
@@ -584,7 +586,7 @@
         "2c34886c-8c2f-438d-bce6-a08abcfcb904",
         "cab6f952-a514-4941-8de9-22a35e29de71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4d95a902-3dae-464a-8c2a-fb05469d458a",
         "4eea3046-6fd2-4a1b-b84e-a4b81499cea7",
@@ -610,7 +612,7 @@
         "f004caa9-ebc5-43c5-8245-6c921aeaa6b1",
         "b83f81af-9a7b-467f-bd17-5fddc7d32984"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9199643-8af2-48a4-966a-29b9aef15e50",
         "4e29ab9a-e5db-43d0-9b78-bd938f3107ed",
@@ -640,7 +642,7 @@
         "5aae9e93-cdf1-4ab6-a28c-22c006c363ba",
         "2c34886c-8c2f-438d-bce6-a08abcfcb904"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4d95a902-3dae-464a-8c2a-fb05469d458a",
         "4e29ab9a-e5db-43d0-9b78-bd938f3107ed",
@@ -676,7 +678,7 @@
         "2c34886c-8c2f-438d-bce6-a08abcfcb904",
         "cab6f952-a514-4941-8de9-22a35e29de71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9199643-8af2-48a4-966a-29b9aef15e50",
         "4d95a902-3dae-464a-8c2a-fb05469d458a",
@@ -715,7 +717,7 @@
         "2c34886c-8c2f-438d-bce6-a08abcfcb904",
         "cab6f952-a514-4941-8de9-22a35e29de71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9199643-8af2-48a4-966a-29b9aef15e50",
         "4d95a902-3dae-464a-8c2a-fb05469d458a",
@@ -743,7 +745,7 @@
         "5aae9e93-cdf1-4ab6-a28c-22c006c363ba",
         "f004caa9-ebc5-43c5-8245-6c921aeaa6b1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4d95a902-3dae-464a-8c2a-fb05469d458a",
         "4e29ab9a-e5db-43d0-9b78-bd938f3107ed",
@@ -756,6 +758,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
