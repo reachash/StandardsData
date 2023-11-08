@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/240",
   "versionNumber": "1.1",
   "change": "Funding band, standard and end-point assessment plan revised.",
-  "changedDate": "2023-08-21T00:00:00Z",
-  "earliestStartDate": "2021-05-21T00:00:00Z",
-  "latestStartDate": "2023-08-18T00:00:00Z",
+  "changedDate": "2023-08-21T00:00:00",
+  "earliestStartDate": "2021-05-21T00:00:00",
+  "latestStartDate": "2023-08-18T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Working with building materials (most often wood) to create and install building components.",
   "level": 3,
@@ -244,16 +244,6 @@
       "detail": "Produce CAD drawings. Prepare and use fixed machinery to create shaped work including inspect and maintain the fixed machinery, develop specialist jigs to manufacture curved joinery products, use a narrow bandsaw, crosscut saw, re-saw, surface planer, thicknesser, morticer, spindle moulder, single end tenoner"
     }
   ],
-  "options": [
-    {
-      "optionId": "a19a8891-c291-4442-a1a9-4980eca21c41",
-      "title": "Advanced Site Carpenter"
-    },
-    {
-      "optionId": "def59af7-b586-4caf-81f7-2ee54b86c5c5",
-      "title": "Advanced Architectural Joiner"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -282,10 +272,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Onsite Construction",
-  "cluster": "Core Building Tradesperson",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2022-11-03T14:41:21 +00:00",
   "lastUpdated": "2023-08-21T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/advanced-carpentry-and-joinery-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/advanced-carpentry-and-joinery-v1-1",
   "qualifications": [
@@ -318,7 +311,7 @@
         "a86495bc-8bb5-48c0-9ea1-b03e1afd0f7c",
         "59380a9c-5c8f-4b83-bdb2-ae121d37384c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7e861ff-e973-4c68-bbe7-3c9f53a575ee",
         "6224d884-579e-4eed-be15-140db8b3be53",
@@ -341,7 +334,7 @@
         "e1ba74bc-a774-484d-aea5-5178acc725e3",
         "5218d751-677c-4782-879d-339be46fe87e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7e861ff-e973-4c68-bbe7-3c9f53a575ee",
         "a8954e35-0dd4-426d-9c4f-6d1591612268",
@@ -365,7 +358,7 @@
         "5218d751-677c-4782-879d-339be46fe87e",
         "06ce0792-c7a7-4b02-8280-7b561ed2385c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7e861ff-e973-4c68-bbe7-3c9f53a575ee",
         "6224d884-579e-4eed-be15-140db8b3be53"
@@ -389,7 +382,7 @@
         "073692ad-9ea5-47cf-930d-ba6c29a42225",
         "59380a9c-5c8f-4b83-bdb2-ae121d37384c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7e861ff-e973-4c68-bbe7-3c9f53a575ee",
         "fb805a4e-a881-4e52-baea-e5a799756a98",
@@ -413,7 +406,7 @@
         "a86495bc-8bb5-48c0-9ea1-b03e1afd0f7c",
         "59380a9c-5c8f-4b83-bdb2-ae121d37384c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7e861ff-e973-4c68-bbe7-3c9f53a575ee",
         "03f1c606-4447-4565-b111-214bc4f51caa",
@@ -440,7 +433,7 @@
         "073692ad-9ea5-47cf-930d-ba6c29a42225",
         "59380a9c-5c8f-4b83-bdb2-ae121d37384c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7e861ff-e973-4c68-bbe7-3c9f53a575ee",
         "fad563e3-7fb2-4667-bdeb-af727da93112",
@@ -461,8 +454,8 @@
       "mappedKnowledge": [
         "a86495bc-8bb5-48c0-9ea1-b03e1afd0f7c"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -481,7 +474,7 @@
         "d5e79385-f45d-49df-92da-48e43d53bd47",
         "59380a9c-5c8f-4b83-bdb2-ae121d37384c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "03f1c606-4447-4565-b111-214bc4f51caa",
         "fa329393-d489-49d6-b72b-042f80154b92"
@@ -500,7 +493,7 @@
         "ab12cbbe-75fc-4f1a-9db6-f1d6f04adff5",
         "073692ad-9ea5-47cf-930d-ba6c29a42225"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fad563e3-7fb2-4667-bdeb-af727da93112"
       ],
@@ -510,7 +503,7 @@
       "dutyID": "24717f38-5b7b-4add-af23-cba0fdde479d",
       "dutyDetail": "install complex and non-standard doors and window frames, shaped door and hatch linings, partitions with openings and changes of direction and staircases with turns.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "db69853d-ec3c-4720-a765-8db64efc06b2",
         "65f7d8db-dd4e-488a-be51-23fafb9aafad",
@@ -528,7 +521,7 @@
       "dutyID": "c35684e0-5394-44bf-a89c-9c28d61c210e",
       "dutyDetail": "Install accessible service encasements, bespoke wall/ floor units and fitments, panelling and stair components (e.g. balustrades, handrails and spindles to staircases with turns).",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "db69853d-ec3c-4720-a765-8db64efc06b2",
         "65f7d8db-dd4e-488a-be51-23fafb9aafad",
@@ -546,7 +539,7 @@
       "dutyID": "722b0281-f2aa-42a9-8460-b904e4e61e23",
       "dutyDetail": "Erect inclined roofs with gables, roof verges and eaves, including finishings, joists and roof coverings, dormers and features.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "db69853d-ec3c-4720-a765-8db64efc06b2",
         "65f7d8db-dd4e-488a-be51-23fafb9aafad",
@@ -566,7 +559,7 @@
       "dutyID": "730d43e9-6224-461a-8bd7-4da5495b5727",
       "dutyDetail": "Repair and or replace frames, mouldings, floor or flat roof joist coverings, door and window ironmongery, window components, structural joists and rafters, window components, guttering and downpipes",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "db69853d-ec3c-4720-a765-8db64efc06b2",
         "c727eeb4-e31d-4d6d-a3bf-a34da42f45ac"
@@ -583,7 +576,7 @@
       "dutyID": "a2be53d7-a786-47d6-b1d5-c54d2ce2ce72",
       "dutyDetail": "Set out complex work tasks for non-standard architectural joinery products, including complex door sets, doors, windows, units and fitments, staircases (straight and with turns) and products with single/double curvature features.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "3cd7770f-901d-4e04-a159-253f293c72af",
         "41c29e39-c0b8-4a11-b119-8a071a332b94"
@@ -600,7 +593,7 @@
       "dutyID": "64a860dd-07f8-4f8e-be27-f4971615dea1",
       "dutyDetail": "Mark out accurately from setting out details for the manufacture of complex and shaped (circular and circular on circular) doors, opening windows, units and fitments and staircases.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "d51f8dc5-1ffe-4b9a-a69d-bbb2e6f6a47a",
         "41c29e39-c0b8-4a11-b119-8a071a332b94"
@@ -617,7 +610,7 @@
       "dutyID": "1b6d56b1-137e-4bdf-80a2-99d517e115e6",
       "dutyDetail": "Manufacture complex and shaped (circular and circular on circular) architectural joinery products including doors, windows with opening lights, units and fitments, panelling/cladding, staircases (straight and with turns) and veneers",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "3cd7770f-901d-4e04-a159-253f293c72af",
         "c21fda31-8985-4afb-952d-af5bbedf2d6f",
@@ -636,7 +629,7 @@
       "dutyID": "8744bdce-534f-4739-83ae-1750246794ec",
       "dutyDetail": "Set up and use fixed machinery such as circular saws, planers, thicknessers, bandsaws, morticers, tenoners, spindle moulders, grinders (including tool sharpening) and sanders.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "976d5e27-34c8-45b8-9c44-2f234e01c966",
         "14ffba67-01a8-4654-a0d0-dc56b26a381e"
@@ -653,7 +646,7 @@
       "dutyID": "913061a2-68df-49b2-9da7-a63bc6dea248",
       "dutyDetail": "Use and maintain marking tools, hand tools, power tools and associated equipment required for advanced work.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "d51f8dc5-1ffe-4b9a-a69d-bbb2e6f6a47a",
         "41c29e39-c0b8-4a11-b119-8a071a332b94",
@@ -668,6 +661,18 @@
         "57f444db-7d8d-4409-bc39-c0f7af607a46"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "a19a8891-c291-4442-a1a9-4980eca21c41",
+      "title": "Advanced Site Carpenter",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "def59af7-b586-4caf-81f7-2ee54b86c5c5",
+      "title": "Advanced Architectural Joiner",
+      "occupationCode": ""
     }
   ],
   "regulationDetail": [],
