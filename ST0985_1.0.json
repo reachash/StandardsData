@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/724",
   "versionNumber": "1.0",
   "change": "Approved for delivery.",
-  "changedDate": "2023-08-30T00:00:00Z",
-  "earliestStartDate": "2023-08-29T00:00:00Z",
+  "changedDate": "2023-08-30T00:00:00",
+  "earliestStartDate": "2023-08-29T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "To coordinate, install, maintain and remove TTM equipment and systems.",
@@ -241,7 +241,6 @@
       "detail": "Applies team working principles."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -269,8 +268,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Onsite Construction",
   "cluster": "Construction Operative/Supervisor",
+  "clusterId": "1",
+  "clusterDescription": "Use of heavy plant and equipment on surface construction sites and also specialist sites e.g. highways, tunnelling. Also the ability to undertake specialist construction work e.g. handling insulation, asbestos. Interprets drawings, plans and specifications along with methods and risk statement",
   "createdDate": "2023-09-26T14:25:13 +00:00",
   "lastUpdated": "2023-08-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/lead-traffic-management-operative-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/lead-traffic-management-operative-v1-0",
   "qualifications": [
@@ -323,7 +325,7 @@
         "a2d6a2c2-21ee-40f3-8b19-ca0b8d02ab87",
         "d115c6ed-eb47-4f6c-a8f8-e3b79be21efe"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8126064d-683f-4468-b251-a52edf947127",
         "64ea6736-617c-4012-9a6e-78da9ba56f07",
@@ -362,7 +364,7 @@
         "8e24d79e-85b5-430e-8235-9c2b4d3a5c24",
         "10986aa6-352a-4504-9855-d0565cc69372"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8126064d-683f-4468-b251-a52edf947127",
         "64ea6736-617c-4012-9a6e-78da9ba56f07",
@@ -397,7 +399,7 @@
         "53b2b379-daa9-4049-aa12-6302736e6763",
         "a2d6a2c2-21ee-40f3-8b19-ca0b8d02ab87"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8126064d-683f-4468-b251-a52edf947127",
         "64ea6736-617c-4012-9a6e-78da9ba56f07",
@@ -431,7 +433,7 @@
         "53b2b379-daa9-4049-aa12-6302736e6763",
         "10986aa6-352a-4504-9855-d0565cc69372"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8126064d-683f-4468-b251-a52edf947127",
         "64ea6736-617c-4012-9a6e-78da9ba56f07",
@@ -461,7 +463,7 @@
         "2f048e98-8924-4738-977b-b0617ed76bc4",
         "53b2b379-daa9-4049-aa12-6302736e6763"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8126064d-683f-4468-b251-a52edf947127",
         "64ea6736-617c-4012-9a6e-78da9ba56f07",
@@ -489,7 +491,7 @@
         "a4d4e4ea-c0ff-42fe-9277-28d27e34e56c",
         "7eeb91f4-32e6-45cf-9713-fc02333162dd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8126064d-683f-4468-b251-a52edf947127",
         "64ea6736-617c-4012-9a6e-78da9ba56f07",
@@ -522,7 +524,7 @@
         "a4776615-bdba-4abe-ad16-7603b342fde2",
         "85ea74e5-ba74-4d8c-8fec-3c8f3ff9dbdc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8126064d-683f-4468-b251-a52edf947127",
         "84b602fc-597b-47e5-9fb2-74b30f1a1e30",
@@ -550,7 +552,7 @@
         "c4ed5da8-8687-4c4f-9dda-1e97729a3f1d",
         "4a3cab28-02e9-4003-8021-f8a430902ff6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8126064d-683f-4468-b251-a52edf947127",
         "50443348-1409-4f56-8a5b-8dc2ffbe4f24",
@@ -589,7 +591,7 @@
         "1910688d-929e-4178-b957-c7a2256a4889",
         "72231bea-cacb-46ad-a434-78dc226df8a2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fc1dad35-916f-48ed-b798-5977b81de7f5"
       ],
@@ -615,7 +617,7 @@
         "697bfa2b-9445-4343-833f-d25e8c049662",
         "c6a7cac2-ee0d-44c3-9bc3-516bec67fef7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "35029ffd-b328-49ff-bbb9-72b34532ebeb",
         "0a3c056d-e18e-4b8e-80b6-f06f6bd4af43"
@@ -623,6 +625,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
