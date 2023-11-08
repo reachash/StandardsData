@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/646",
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised",
-  "changedDate": "2022-11-04T00:00:00Z",
-  "earliestStartDate": "2022-11-04T00:00:00Z",
+  "changedDate": "2022-11-04T00:00:00",
+  "earliestStartDate": "2022-11-04T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Assist in the production of a printed product or component.",
@@ -271,20 +271,6 @@
       "detail": "Option 3: Post-Press Operative. Inspect the quality of the finishing and report any issues arising during the process. For example, misalignment or gathering"
     }
   ],
-  "options": [
-    {
-      "optionId": "6dde1f92-e516-461f-b486-899b49df6812",
-      "title": "Pre-Press Operative"
-    },
-    {
-      "optionId": "a1c417d9-5ffd-419f-89e3-7fc438e868a2",
-      "title": "Press Operative"
-    },
-    {
-      "optionId": "74adece0-9889-4e0c-acec-d634079613ad",
-      "title": "Post-Press Operative"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -330,10 +316,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Engineering, Manufacturing, Process and Control",
-  "cluster": "Print and Packaging Operative/Technician",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2022-11-04T11:20:58 +00:00",
   "lastUpdated": "2022-11-04T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/print-operative-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/print-operative-v1-1",
   "qualifications": [],
@@ -354,7 +343,7 @@
         "6a3761c7-a509-40df-8aa5-56a6b8c27ddf",
         "fd647dea-3f60-4562-b6d9-34df438044a1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f8a8d16c-afce-4f84-8dd7-431c2f871002",
         "2a2893ae-09db-43dc-b2b2-424759aba1ab"
@@ -375,7 +364,7 @@
         "6a3761c7-a509-40df-8aa5-56a6b8c27ddf",
         "a1153e68-58f9-4098-8c70-4d5712912a3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4f129edb-2a96-4efd-a512-b5c23f06ed15",
         "2a2893ae-09db-43dc-b2b2-424759aba1ab"
@@ -396,7 +385,7 @@
         "fd647dea-3f60-4562-b6d9-34df438044a1",
         "de729290-adb5-48fb-bcc0-baa004cffadc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7d2782b-3470-4dbf-8138-000db4efca4c",
         "2a2893ae-09db-43dc-b2b2-424759aba1ab",
@@ -417,7 +406,7 @@
         "581cc1b7-21fd-4d76-b9a2-e99421195d60",
         "d8bcd838-c387-4eae-9e47-ff1136390228"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4f129edb-2a96-4efd-a512-b5c23f06ed15",
         "2a2893ae-09db-43dc-b2b2-424759aba1ab"
@@ -443,7 +432,7 @@
         "de729290-adb5-48fb-bcc0-baa004cffadc",
         "5e2a0252-f232-4517-81a7-1442a403a657"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7d2782b-3470-4dbf-8138-000db4efca4c",
         "4f129edb-2a96-4efd-a512-b5c23f06ed15",
@@ -463,7 +452,7 @@
         "6a3761c7-a509-40df-8aa5-56a6b8c27ddf",
         "a1153e68-58f9-4098-8c70-4d5712912a3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "56a02087-d0f1-4a69-9be8-bf8055f75f88",
         "68a9fddb-3244-4e74-979d-bfc99899085d"
@@ -481,7 +470,7 @@
         "d8bcd838-c387-4eae-9e47-ff1136390228",
         "6a3761c7-a509-40df-8aa5-56a6b8c27ddf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bf56ae25-d239-4714-abdc-0983ecba1c01"
       ],
@@ -505,7 +494,7 @@
         "658e776b-3b5c-4ec9-a8a4-188090e8c847",
         "5e2a0252-f232-4517-81a7-1442a403a657"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3ea9b684-074b-4eb6-bd99-13c055181761"
       ],
@@ -530,7 +519,7 @@
         "5e2a0252-f232-4517-81a7-1442a403a657",
         "af440756-0cf1-4a3e-b438-e6f4d38d85ea"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4f129edb-2a96-4efd-a512-b5c23f06ed15"
       ],
@@ -815,6 +804,23 @@
         "82638d82-f462-4d31-9a38-5c467b1e0749"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "6dde1f92-e516-461f-b486-899b49df6812",
+      "title": "Pre-Press Operative",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "a1c417d9-5ffd-419f-89e3-7fc438e868a2",
+      "title": "Press Operative",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "74adece0-9889-4e0c-acec-d634079613ad",
+      "title": "Post-Press Operative",
+      "occupationCode": ""
     }
   ],
   "regulationDetail": [],
