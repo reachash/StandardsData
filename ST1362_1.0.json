@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/0",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-10-27T00:00:00Z",
-  "earliestStartDate": "2023-10-26T00:00:00Z",
+  "changedDate": "2023-10-27T00:00:00",
+  "earliestStartDate": "2023-10-26T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "To gather, interpret and evaluate information about the chemistry, biology and physics of soil.",
@@ -31,7 +31,7 @@
   "ssa1": "2 Science and Mathematics",
   "ssa2": "2.1 Science",
   "version": "1.0",
-  "standardInformation": "",
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
   "occupationalSummary": "&lt;p&gt;This occupation is found in a range of sectors including agriculture, horticulture, construction and landscaping. Sectors can include agriculture, government agencies, construction and regeneration, landscaping, teaching and research, habitat creation and restoration, woodland planting, peatland restoration, sports amenity, ecological and environmental consultancies, Agtech start-up companies, amongst others. Soil scientists may work in a range of contexts. They could monitor and analyse soil to support farmers to understand and manage soil health and classify land to inform the most appropriate land use and land management options. They may provide guidance to horticulturists and landscapers on soil substrates and growing media. Alternatively, they could provide advice on the impact that earthworks, construction works or demolition works would have on a soil; analysing soil, rock and groundwater prior to major projects or could work in a laboratory setting. There is an increasing need for soil scientists to work across multiple disciplines with other natural science specialists and engineers. Consultancy can include soil mapping and soil surveying experts, who use digital equipment alongside traditional tools such as pit digging, to assess the soil types in an area and support researchers, farmers and town planners and habitat restoration (including peatland) and ecoservice creation. Environmental consultants provide advice on topics including sustainable materials and waste management, biodiversity, flood management and ecosystem management. Government agencies or non-profit organisation might require soil experts to inform policy, write guidance or investigate complaints in order to support enforcement action. A soil scientist might be employed in a range of settings and could lead soil management activities in relation to major infrastructure projects in a large organisation. Alternatively, they may be employed by a specialised organisation or work for smaller dedicated consultancy-based businesses, charities or Non-Governmental Organisations. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to gather, interpret and evaluate information about the chemistry, biology and physics of soil. Soil scientists are expected to understand and monitor soil functions and assess how soil properties change over time in response to other environmental changes. Using the information obtained from analysis, they consult, inform and influence on diverse issues such as agricultural production, biodiversity, climate change, environmental quality and protection, human health and land remediation. A soil scientist is required to be competent in techniques including working within or commissioning services from a laboratory, soil classification, Geographic Information System mapping (GIS), restoration techniques and soil management for a variety of soil types. The soil scientist will lead and support field work and site visits and will carry out site surveys. They could be required to work outdoors in all weather, although may be desk-based depending on the particular role. Due to the multidisciplinary nature of soil science, they are likely to be working in interdisciplinary teams. They will be required to communicate at all levels and will document their findings and recommendations. They will also be required to articulate and present results to scientific and non-scientific audiences and develop soil resource plans. They will be required to work in accordance with current legislation and authoritative guidance and also work to a high level of health and safety and environmental protection. Soil scientists may also contribute to business development activities. In their daily work, an employee in this occupation interacts with a range of stakeholders. These could include clients and developers, farmers, landowners, construction managers, government agency representatives, local authorities and planners and the research sector. They are likely to work with clients, developers and suppliers to develop an agreed specification, workplan and budget. Internal stakeholders may include other natural sciences specialists, project managers and cost consultants, designers, communications functions and policymakers. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with a range of stakeholders. These could include clients and developers, farmers, landowners, construction managers, government agency representatives, local authorities and planners and the research sector. They are likely to work with clients, developers and suppliers to develop an agreed specification, workplan and budget. Internal stakeholders may include other natural sciences specialists, project managers and cost consultants, designers, communications functions and policymakers. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for project planning, taking into account many interacting factors and managing the production of reports to ensure that work is completed to the required standards and is delivered on time, within budget and is delivered to meet the project requirements. They will be required to effectively communicate soil information with project teams, stakeholders and decision makers. Soil scientists exercise broad autonomy and judgement across their work. They will also be required to support the development of delivery teams which would include identifying and integrating multi and interdisciplinary working. They will provide technical advice and support in relation to soils and will promote the implementation of best practice and innovative techniques, technologies and processes. They will identify opportunities for continuous improvement. Soil scientists are required to operate safely and in accordance with governmental and organisational initiatives, policies and procedures including Health and Safety and environmental regulations. They are required to demonstrate integrity, leadership and respect.&lt;/p&gt;",
   "knowledges": [
     {
@@ -247,7 +247,6 @@
       "detail": "Identify opportunities to implement best practice and innovative techniques and promote their application into the project or across the organisation."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -283,8 +282,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Science",
   "cluster": "Science Professional",
+  "clusterId": "213",
+  "clusterDescription": "Define and lead science-based research projects to derive academic and applied information of value",
   "createdDate": "2023-10-27T09:06:45 +00:00",
   "lastUpdated": "2023-10-27T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/soil-scientist-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/soil-scientist-v1-0",
   "qualifications": [],
@@ -316,7 +318,7 @@
         "cd32aaad-f049-4f21-963b-d9674a570e01",
         "e26ed4eb-4bdb-45d9-85f9-851c81eeb5b2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0e934b88-d372-4bcb-83f3-bfce33556038",
         "aeb7998e-aaf4-4900-bf71-9a3c560caf13",
@@ -342,7 +344,7 @@
         "889a7396-7a8f-4449-9304-dc0681b4c949",
         "9aa80dd2-ab63-46cf-b884-f36173979f63"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0373c4fd-77ec-4672-b143-226353df0b77",
         "aeb7998e-aaf4-4900-bf71-9a3c560caf13",
@@ -355,7 +357,7 @@
       "dutyID": "6d81215a-4e6a-44dc-8a41-571dc9645883",
       "dutyDetail": "Design appropriate soil survey and analysis methodologies.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "ba460918-7043-41b7-bd56-e8c100f720b1",
         "5a23f612-a7f3-42bb-b1be-29f7fbc32de0",
@@ -363,7 +365,7 @@
         "735456ae-96d6-4bd8-bd76-0a3db51ea553",
         "9aa80dd2-ab63-46cf-b884-f36173979f63"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "08de155d-113f-4c33-a0c4-aea3a778638e",
         "45c5ee7c-ed0f-427d-b8fc-2df8f523cd8b",
@@ -375,13 +377,13 @@
       "dutyID": "0d21c422-c725-4738-92d1-959db1977bee",
       "dutyDetail": "Conduct field-based surveys to collect soil data.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "ba460918-7043-41b7-bd56-e8c100f720b1",
         "d624ed82-0853-4b39-84a0-4303e2e88b20",
         "9aa80dd2-ab63-46cf-b884-f36173979f63"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "08de155d-113f-4c33-a0c4-aea3a778638e",
         "45c5ee7c-ed0f-427d-b8fc-2df8f523cd8b",
@@ -393,13 +395,13 @@
       "dutyID": "786311b6-b432-480b-bcb4-9f47a68dd6d7",
       "dutyDetail": "Commission soil surveys, testing and analysis.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "5a23f612-a7f3-42bb-b1be-29f7fbc32de0",
         "7444ff00-e573-4db1-8a0b-774fc105d51e",
         "9aa80dd2-ab63-46cf-b884-f36173979f63"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "08de155d-113f-4c33-a0c4-aea3a778638e",
         "45c5ee7c-ed0f-427d-b8fc-2df8f523cd8b",
@@ -412,7 +414,7 @@
       "dutyID": "0af59bf8-28b5-4987-85a6-777942600aac",
       "dutyDetail": "Interpret and critically evaluate information and data relating to the chemistry, biology and physics of soil and synthesise the data to consider soil functions and changes over time.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "ba460918-7043-41b7-bd56-e8c100f720b1",
         "fb485d5b-baf8-400b-ab51-ca49dce823e4",
@@ -423,7 +425,7 @@
         "b9ddfccd-2d00-4be1-854f-2d710e9b52fb",
         "3d1235a0-6d09-4a6a-8f6e-dee1421b854e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0373c4fd-77ec-4672-b143-226353df0b77"
       ],
@@ -433,11 +435,11 @@
       "dutyID": "43a63649-42cb-45d3-918f-2e3254070af9",
       "dutyDetail": "Critically evaluate secondary data and information including soil maps and Geographic Information System Mapping (GIS). ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0d987264-9203-480a-840b-421e5b2fcdb5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "61c24c12-9a78-4633-a5c1-7a17699c9840",
         "704f203b-df3e-43e7-9d7a-d35550553355",
@@ -449,11 +451,11 @@
       "dutyID": "fc7b373a-d09e-4c07-8c0d-91318420b6ff",
       "dutyDetail": "Review data and statistics and design statistically valid comparisons using appropriate data analysis and data science techniques.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "9aa80dd2-ab63-46cf-b884-f36173979f63"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0373c4fd-77ec-4672-b143-226353df0b77",
         "bd069da4-89ab-4902-9fe9-1fc31461b3b9",
@@ -465,13 +467,13 @@
       "dutyID": "9e03a2d3-5589-491c-9640-4d5d74f6466f",
       "dutyDetail": "Design and develop soil resource management plans.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "862eaedc-cbd0-44b1-9532-c3cc40f7387c",
         "f7fcf667-3654-4262-8908-2d9ec21fa20e",
         "735456ae-96d6-4bd8-bd76-0a3db51ea553"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bd069da4-89ab-4902-9fe9-1fc31461b3b9"
       ],
@@ -494,7 +496,7 @@
         "a2e13e80-1efd-411e-988b-516c21830bbf",
         "e26ed4eb-4bdb-45d9-85f9-851c81eeb5b2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0e934b88-d372-4bcb-83f3-bfce33556038",
         "10c43b25-b28b-463f-948b-b3c44666073d",
@@ -506,12 +508,12 @@
       "dutyID": "4aa8455b-0a8d-44d3-919b-ac022065e600",
       "dutyDetail": "Evaluate findings from data and statistics to draw conclusions with reference to implications of soil management approaches, advise and recommend the most suitable actions.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "e26ed4eb-4bdb-45d9-85f9-851c81eeb5b2",
         "9aa80dd2-ab63-46cf-b884-f36173979f63"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0373c4fd-77ec-4672-b143-226353df0b77",
         "aeb7998e-aaf4-4900-bf71-9a3c560caf13",
@@ -534,7 +536,7 @@
         "e26ed4eb-4bdb-45d9-85f9-851c81eeb5b2",
         "9aa80dd2-ab63-46cf-b884-f36173979f63"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a5f96e40-6168-40d0-9413-4b78bc770e1f",
         "10c43b25-b28b-463f-948b-b3c44666073d",
@@ -559,7 +561,7 @@
         "7444ff00-e573-4db1-8a0b-774fc105d51e",
         "a2e13e80-1efd-411e-988b-516c21830bbf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d567ea47-2826-427d-a777-dc5c47c2e912"
       ],
@@ -576,7 +578,7 @@
         "8bcbc242-055d-40c9-a190-7361ec8b259a",
         "cd32aaad-f049-4f21-963b-d9674a570e01"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "61c24c12-9a78-4633-a5c1-7a17699c9840",
         "ee552f07-6d79-4d56-94c4-c6c19092df81",
@@ -585,6 +587,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
