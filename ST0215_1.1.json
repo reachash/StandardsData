@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/102",
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised",
-  "changedDate": "2023-09-13T00:00:00Z",
-  "earliestStartDate": "2023-02-01T00:00:00Z",
+  "changedDate": "2023-09-13T00:00:00",
+  "earliestStartDate": "2023-02-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing, supervising and coordinating high-quality and compassionate health and social care for a wide range of people.",
@@ -331,7 +331,6 @@
       "detail": "Identify opportunities to improve quality in the workplace and contribute to local, regional and national quality improvement initiatives"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -361,8 +360,11 @@
   "reviewDetails": "",
   "pathway": "Health",
   "cluster": "Health Practitioner",
+  "clusterId": "10",
+  "clusterDescription": "Provide direct patient contact and high quality care with in-depth knowledge of the factors influencing health and ill-health using specialist expertise",
   "createdDate": "2022-12-07T14:33:23 +00:00",
   "lastUpdated": "2023-09-13T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/assistant-practitioner-health-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/assistant-practitioner-health-v1-1",
   "qualifications": [
@@ -390,7 +392,7 @@
         "f70961d3-d322-43a6-a6d5-bde0809e4a9a",
         "665579bc-cb7d-469a-b23a-786206577ac7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7201e271-8de7-4187-918e-aa93872bf807",
         "4dc0b842-50df-44e1-b53b-8d4c1c0a8964",
@@ -414,7 +416,7 @@
         "5e2f2864-9e92-49bb-b97f-9733943c9851",
         "b261e332-e399-4226-a42f-a0712c8c2c82"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "41fbf0f4-c7ea-4b1d-a509-b537e028a9d5",
         "a04eb383-b39c-4768-ad75-1d6bc889baec",
@@ -438,7 +440,7 @@
         "eef58b81-6b4b-4899-b50b-5c7787f105e8",
         "37645c86-16e6-4eb8-9042-ed81ca820165"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "79648a31-ff89-4488-9917-43f96a5ea12b",
         "8e41e9f6-ad1a-49a3-b0b7-c214b47d520d",
@@ -462,7 +464,7 @@
         "4404d3de-7e41-4e9a-a94c-57056826d59e",
         "99a2eda4-4a37-40f8-925c-dcdac866ae91"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9cbd5f3c-7326-409b-8749-90dbb196af33",
         "2419a82b-81ea-4462-a05a-822f70fca15b",
@@ -485,7 +487,7 @@
         "73b61652-95f6-4ac0-a70a-39d23a113beb",
         "af96413e-2849-48de-b673-9ead50fe3c9f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9c1175d-bf5a-4c58-9521-b52eb419d959",
         "ba0b7e14-1e90-4704-aedb-cef27178e169",
@@ -507,7 +509,7 @@
         "474ee38e-3d41-4fa8-8ff4-26cb4470834c",
         "1a575b11-124e-4473-9a7e-239d0ffb48ba"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1d0ca4ef-984d-4cb4-b3d8-662d48840b35",
         "6e290a3c-10a5-4e70-bee5-673f5da6c31c",
@@ -529,7 +531,7 @@
         "61955e91-34b1-4d18-b1c5-79e8a0dac3ae",
         "e0ba22fa-49a7-4e45-9d0f-e663c9c3c3f9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fb9b0fa2-75a4-4764-b98e-c11ac187e992",
         "4cca0389-8ffb-46b8-9d27-16f6d365f27e",
@@ -551,7 +553,7 @@
         "d19dd612-5283-4d9b-94f8-62e460e8e305",
         "a2db621a-5086-42a9-b385-7ce2043b2cfe"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "11ce2106-4c17-426e-abca-7a08350059b7",
         "eac6b6a4-4ca5-4021-826b-5f14f92b2554"
@@ -573,7 +575,7 @@
         "f45ce0d7-4a79-4e29-ba7f-e0124a342009",
         "c6780208-fe4d-42bb-96a8-8afaa6e10dbe"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "585825c4-0393-4620-bbd0-2d16b7ae7238",
         "1bd9481c-e4bc-49a9-8912-6fe89d462aec",
@@ -596,7 +598,7 @@
         "daad82e6-6d11-4889-95cb-2d5f651e645a",
         "72260b42-fc74-44fe-9e87-24e8bf71df93"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5b3da31e-e720-42f3-8fd9-d0afd3446bdc",
         "034d18da-2f60-4487-bcb3-a51949ea3637",
@@ -605,6 +607,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
