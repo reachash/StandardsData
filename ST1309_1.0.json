@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/687",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-12-07T00:00:00Z",
-  "earliestStartDate": "2022-09-29T00:00:00Z",
+  "changedDate": "2022-12-07T00:00:00",
+  "earliestStartDate": "2022-09-29T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Lead and manage underground mining operations.",
@@ -277,7 +277,6 @@
       "detail": "Specify the machinery and equipment to support the overall safety and production."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -320,8 +319,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing Engineer",
+  "clusterId": "263",
+  "clusterDescription": "Introduce complex technologies into the manufacturing environment and improve manufacturing technologies",
   "createdDate": "2022-12-07T16:50:01 +00:00",
   "lastUpdated": "2022-12-07T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/mine-management-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/mine-management-v1-0",
   "qualifications": [
@@ -367,7 +369,7 @@
         "b888a136-8fcb-454d-8944-0a78819dc821",
         "71b2bfee-2435-4790-9e14-f8b0ed56bf7f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d41d1ae3-8bb3-46ef-9cec-ef6100e108bc",
         "a314671b-39ed-4346-943f-9daa5b3ba75f",
@@ -407,7 +409,7 @@
         "babede84-4a0f-47f4-a5f7-e0940ba6a52e",
         "71b2bfee-2435-4790-9e14-f8b0ed56bf7f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "806c6054-48b9-40c5-922e-c9833b18a19a",
         "a314671b-39ed-4346-943f-9daa5b3ba75f",
@@ -446,7 +448,7 @@
         "885c1cd4-777f-47d0-aeef-79cbc55405a1",
         "71b2bfee-2435-4790-9e14-f8b0ed56bf7f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d41d1ae3-8bb3-46ef-9cec-ef6100e108bc",
         "05a03af9-1a8e-48e1-93c6-c3ca0bc727d7",
@@ -479,7 +481,7 @@
         "b888a136-8fcb-454d-8944-0a78819dc821",
         "d2497831-f88a-4bd0-9b57-a4f7d3a9feb4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "806c6054-48b9-40c5-922e-c9833b18a19a",
         "e154af0b-82d1-4a9c-9e75-f5fd14047957",
@@ -510,7 +512,7 @@
         "b888a136-8fcb-454d-8944-0a78819dc821",
         "babede84-4a0f-47f4-a5f7-e0940ba6a52e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9fbd933b-fa05-4f92-ad6f-02b94f86ac7b",
         "df4e68f0-9dfa-4625-a1f8-3bb64974c664"
@@ -534,7 +536,7 @@
         "c6fdfe9e-dca1-452f-b074-77b5d85ac5e1",
         "410453e3-4a4d-4fdb-8552-eea12b3776f0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "806c6054-48b9-40c5-922e-c9833b18a19a",
         "a314671b-39ed-4346-943f-9daa5b3ba75f",
@@ -565,7 +567,7 @@
         "4009244c-7d3e-4595-b895-352cef575b0d",
         "2b958a75-6dcd-49d3-942b-839a7e082178"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a314671b-39ed-4346-943f-9daa5b3ba75f",
         "e154af0b-82d1-4a9c-9e75-f5fd14047957",
@@ -597,7 +599,7 @@
         "d53bf5a5-714d-449d-a9ee-8990efa37f31",
         "2b958a75-6dcd-49d3-942b-839a7e082178"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "daa72b7a-4485-42dd-b816-15371cddea7d",
         "ed87ed53-56d5-48a3-8fd1-5a2e508b413a",
@@ -622,7 +624,7 @@
         "babede84-4a0f-47f4-a5f7-e0940ba6a52e",
         "d2497831-f88a-4bd0-9b57-a4f7d3a9feb4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a63cb276-23ae-4df7-81ad-0699ca1cc571",
         "46c7846f-35be-41ea-b146-0d75f03d513a",
@@ -654,7 +656,7 @@
         "63b65b57-3bb7-4d2b-8c40-a91596dcb2ae",
         "71b2bfee-2435-4790-9e14-f8b0ed56bf7f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "05a03af9-1a8e-48e1-93c6-c3ca0bc727d7",
         "a314671b-39ed-4346-943f-9daa5b3ba75f",
@@ -680,7 +682,7 @@
         "885c1cd4-777f-47d0-aeef-79cbc55405a1",
         "babede84-4a0f-47f4-a5f7-e0940ba6a52e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a314671b-39ed-4346-943f-9daa5b3ba75f",
         "daa72b7a-4485-42dd-b816-15371cddea7d",
@@ -693,6 +695,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
