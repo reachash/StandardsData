@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/600",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-10-28T00:00:00Z",
-  "earliestStartDate": "2020-08-24T00:00:00Z",
+  "changedDate": "2021-10-28T00:00:00",
+  "earliestStartDate": "2020-08-24T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Help clients (either internally or externally) to make strategic, tactical and operational decisions.",
@@ -271,7 +271,6 @@
       "detail": "Validate quality by application of relevant quality assurance methodology."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -308,8 +307,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Management and Administration",
   "cluster": "Management Professional",
+  "clusterId": "68",
+  "clusterDescription": "Leader of a business process and/or unit requiring the ability to analyse and improve complex business-wide processes and risks. Also includes the ability to provide a full range of company legal and financial knowledge relevant to running a company",
   "createdDate": "2020-07-17T09:48:34 +00:00",
   "lastUpdated": "2021-10-28T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/operational-research-specialist-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/operational-research-specialist-v1-0",
   "qualifications": [],
@@ -345,7 +347,7 @@
         "7f495e91-4489-4cc6-8178-35e1560f0e99",
         "ef3f7106-665b-4280-862b-78713e5dde9b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2a3633ec-556f-4462-bf2a-d7bd6ff643bb",
         "772461f9-482b-4256-ac9f-fa4a6d71b1fc",
@@ -384,7 +386,7 @@
         "e7179175-4728-479d-92d6-1508708036e5",
         "b11c7a67-6394-4149-903b-c1a87e267337"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2a3633ec-556f-4462-bf2a-d7bd6ff643bb",
         "772461f9-482b-4256-ac9f-fa4a6d71b1fc",
@@ -431,7 +433,7 @@
         "ef3f7106-665b-4280-862b-78713e5dde9b",
         "b11c7a67-6394-4149-903b-c1a87e267337"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2a3633ec-556f-4462-bf2a-d7bd6ff643bb",
         "772461f9-482b-4256-ac9f-fa4a6d71b1fc",
@@ -479,7 +481,7 @@
         "38bb0aab-2f6c-4172-8c04-7e297020cbe3",
         "b11c7a67-6394-4149-903b-c1a87e267337"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0c9fe151-8ead-4bc2-a170-dbb753ea36f5",
         "e6baf9f9-026d-4f30-be1f-df1cbf904aab",
@@ -512,7 +514,7 @@
         "603cdc1b-0d70-4eba-afab-468e57a5e005",
         "838bdfc6-32df-40f9-9f9b-3617f3b39421"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b47b39e1-dfbb-452c-b0e2-ab9e2cfcb2b4",
         "6e4771e9-ad5a-4ccb-b3f3-6299e60cec60",
@@ -550,7 +552,7 @@
         "e208a695-2e66-4665-9552-fbdf63331b2b",
         "b11c7a67-6394-4149-903b-c1a87e267337"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8f6a4259-4840-42d6-af14-24ec0ced282b",
         "0415191f-d129-4b4e-91e4-68cbf7017e1d",
@@ -584,7 +586,7 @@
         "e208a695-2e66-4665-9552-fbdf63331b2b",
         "b11c7a67-6394-4149-903b-c1a87e267337"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2a3633ec-556f-4462-bf2a-d7bd6ff643bb",
         "772461f9-482b-4256-ac9f-fa4a6d71b1fc",
@@ -615,7 +617,7 @@
         "09259e2e-3645-4f48-92bd-c4349b280ebd",
         "e208a695-2e66-4665-9552-fbdf63331b2b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "94f98b01-8810-4b52-bfef-a6ce6f788980",
         "fe6f12a5-35ab-4b48-a647-10b27250e35b",
@@ -636,7 +638,7 @@
         "897882ae-6ec5-42b7-b096-27332f81ef6b",
         "09259e2e-3645-4f48-92bd-c4349b280ebd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "71c25791-26a2-43e4-b954-9d8954e3e1d1",
         "6f5021cd-3f82-4db9-8f40-c5f4c17778c9",
@@ -661,7 +663,7 @@
         "838bdfc6-32df-40f9-9f9b-3617f3b39421",
         "ef3f7106-665b-4280-862b-78713e5dde9b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ba6c0489-0787-4be6-8bdb-914dbf138e1b",
         "94a6808f-6381-4b62-93a6-cc1ed69ed429"
@@ -669,6 +671,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
