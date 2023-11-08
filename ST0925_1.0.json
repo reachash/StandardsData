@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/574",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-04-30T00:00:00Z",
-  "earliestStartDate": "2020-07-10T00:00:00Z",
+  "changedDate": "2021-04-30T00:00:00",
+  "earliestStartDate": "2020-07-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Advertising Creatives are responsible for coming up with original, exciting and memorable ideas that meet client's briefs and which can then be used in a range of mediums (e.g Radio, TV).",
@@ -205,7 +205,6 @@
       "detail": "Write scripts of different lengths to suit different media platforms and of different durations "
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "2019-10-15T00:00:00 +00:00",
@@ -238,10 +237,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years&lt;/span&gt;&lt;/p&gt;",
-  "pathway": "Media, Broadcast and Production",
-  "cluster": "Media and Broadcast Assistant",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2020-05-19T09:39:06 +00:00",
   "lastUpdated": "2021-04-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/junior-advertising-creative-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/junior-advertising-creative-v1-0",
   "qualifications": [],
@@ -261,7 +263,7 @@
         "eaa6c547-a5fa-4adb-abfb-b7a659d801ed",
         "cc8079b9-35d2-4ae3-b2b9-41b09334cd59"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ac4689ab-d8ca-4b34-98ff-d13e430df3a2",
         "b4f428f8-ce39-43d9-aa1b-9aa0eb8964e8",
@@ -283,7 +285,7 @@
         "eaa6c547-a5fa-4adb-abfb-b7a659d801ed",
         "a6f7acbb-3bc8-4a8c-aee4-67f0efad2f2b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ac4689ab-d8ca-4b34-98ff-d13e430df3a2",
         "33c48145-f8c9-45d8-976f-83aa4d479f79",
@@ -305,7 +307,7 @@
         "5c9e5b19-5f7f-4417-8faf-1ccff54d28e9",
         "dad2cce7-ecc9-4d3f-a525-8a5d958c0855"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c33a7e05-4f5b-4dc5-a2f2-462a18baacb1"
       ],
@@ -327,7 +329,7 @@
         "cc8079b9-35d2-4ae3-b2b9-41b09334cd59",
         "a6f7acbb-3bc8-4a8c-aee4-67f0efad2f2b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c33a7e05-4f5b-4dc5-a2f2-462a18baacb1",
         "5d94829a-bd71-4e3f-b51a-d050a9253ce7"
@@ -347,7 +349,7 @@
         "8ff1475e-b5e2-4246-8b3c-d802c06c1745",
         "db01e368-de45-4418-ad4b-10184386055e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c33a7e05-4f5b-4dc5-a2f2-462a18baacb1",
         "e302a0c2-4353-4928-ab6c-bfd2889622a2",
@@ -368,7 +370,7 @@
         "fa3033be-ae97-4c5d-9fbb-0f4cf34bce8c",
         "551327b4-7d3b-416a-9bb5-ea065b0d0c44"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5d94829a-bd71-4e3f-b51a-d050a9253ce7",
         "2a6f3af9-f527-4b0f-bcb3-a6e7abe7a263",
@@ -390,7 +392,7 @@
         "9c1000c3-0a41-4198-ac64-7b9baadd169e",
         "551327b4-7d3b-416a-9bb5-ea065b0d0c44"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fe813d87-df30-41e5-9a5e-57bd24ea59da"
       ],
@@ -409,7 +411,7 @@
         "c345a8e4-c278-4a83-ac86-cdeb272a02e9",
         "41f3e01e-5845-4998-8207-e72bbbd63859"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "92a13dd6-327f-4c3a-88b3-8a72f441d30b",
         "afa2195a-a2e7-4a0d-aaca-d6d70476dc09"
@@ -431,7 +433,7 @@
         "8ff1475e-b5e2-4246-8b3c-d802c06c1745",
         "db01e368-de45-4418-ad4b-10184386055e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cd99e579-356f-4df7-87a6-a090b7e39693",
         "92a13dd6-327f-4c3a-88b3-8a72f441d30b",
@@ -454,7 +456,7 @@
         "8ff1475e-b5e2-4246-8b3c-d802c06c1745",
         "db01e368-de45-4418-ad4b-10184386055e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b4f428f8-ce39-43d9-aa1b-9aa0eb8964e8",
         "fe813d87-df30-41e5-9a5e-57bd24ea59da"
@@ -477,7 +479,7 @@
         "9c1000c3-0a41-4198-ac64-7b9baadd169e",
         "75d1402d-de92-4020-8295-e8a9151eadbf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "92a13dd6-327f-4c3a-88b3-8a72f441d30b",
         "c2319238-09d4-4a66-a97d-e0901bf4f69d"
@@ -497,7 +499,7 @@
         "dad2cce7-ecc9-4d3f-a525-8a5d958c0855",
         "551327b4-7d3b-416a-9bb5-ea065b0d0c44"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "33c48145-f8c9-45d8-976f-83aa4d479f79",
         "5d94829a-bd71-4e3f-b51a-d050a9253ce7",
@@ -521,7 +523,7 @@
         "b8ded26f-95b8-4c85-952d-8f55761122d2",
         "75d1402d-de92-4020-8295-e8a9151eadbf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e302a0c2-4353-4928-ab6c-bfd2889622a2",
         "4f82027b-e5f9-4f47-bf2c-bb747cf4d955",
@@ -543,7 +545,7 @@
         "92a9a7be-8b57-49a7-b6b1-26e6a94b6c69",
         "41f3e01e-5845-4998-8207-e72bbbd63859"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cd99e579-356f-4df7-87a6-a090b7e39693",
         "c2319238-09d4-4a66-a97d-e0901bf4f69d"
@@ -551,6 +553,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
