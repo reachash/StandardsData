@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/648",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-08-10T00:00:00Z",
-  "earliestStartDate": "2021-08-03T00:00:00Z",
+  "changedDate": "2021-08-10T00:00:00",
+  "earliestStartDate": "2021-08-03T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Create content, by producing objects, images or scenes that render together with live footage for the final image.",
@@ -320,24 +320,6 @@
       "detail": "Environments - Research, source, evaluate and select images to meet the technical requirements of the scene."
     }
   ],
-  "options": [
-    {
-      "optionId": "6a7fc5e7-0fff-44bd-89c7-8c6aac469ca6",
-      "title": "VFX Simulation"
-    },
-    {
-      "optionId": "f5cc93ed-296c-42fa-9fcf-a426b7b996ce",
-      "title": "VFX Rigging"
-    },
-    {
-      "optionId": "04e5a2c0-c517-468d-b9fe-707a33d79c57",
-      "title": "VFX Lighting, Shading and Look Development"
-    },
-    {
-      "optionId": "7c4bf775-f563-4859-b4d8-cfaf83c3042f",
-      "title": "VFX Environments"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -374,8 +356,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media, Broadcast and Production Professional",
+  "clusterId": "29",
+  "clusterDescription": "Leadership, management, and the application technology of resources to create, produce and deliver broadcast content and artistic productions, often requiring specialist expertise",
   "createdDate": "2021-07-14T12:35:11 +00:00",
   "lastUpdated": "2021-08-10T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/vfx-artist-or-technical-director-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/vfx-artist-or-technical-director-v1-0",
   "qualifications": [],
@@ -393,7 +378,7 @@
         "bd6cbab2-b0fb-424a-bf21-6b92f0f4e015",
         "dd91a82e-ec06-425a-b641-cbd3c916f27f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "faa1d7ff-747f-4f61-8203-0660104f39c3",
         "c3ba9898-257b-4101-8073-33b9f4815bec"
@@ -412,7 +397,7 @@
         "24f84977-81ce-4112-88ff-75b21f6010cb",
         "39c1dc60-36a5-4200-bf5f-eb2b49a4721e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "be962031-ab5f-48f1-b063-3f4f4e54e3cb"
       ],
@@ -430,7 +415,7 @@
         "de87c914-59ca-415d-8f0e-8a3f13564f92",
         "0764613a-f226-48c4-af3b-699649a6d00e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4cf75ac5-6a84-44ea-be07-3bc29208131d"
       ],
@@ -449,7 +434,7 @@
         "700f296f-ee1e-4c04-ab03-71eba7408d78",
         "51cc4e8e-0f26-432e-bf0d-dd911c76e562"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "19168255-dd98-49c9-9c5f-0c5d48553a42",
         "9440fb06-4429-4da4-8b73-a3abfe041444"
@@ -470,7 +455,7 @@
         "594aafaf-afa4-4dab-9fe0-adcd7dce1ab8",
         "ecc93f76-2596-461b-82dc-a51a2b7d47d7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "be962031-ab5f-48f1-b063-3f4f4e54e3cb",
         "4cf75ac5-6a84-44ea-be07-3bc29208131d",
@@ -493,7 +478,7 @@
         "24f84977-81ce-4112-88ff-75b21f6010cb",
         "b380dede-1737-4f13-b876-8c9f101243bf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c4df94fc-15bc-4228-9b27-f2b45a2e7d68"
       ],
@@ -514,7 +499,7 @@
         "b380dede-1737-4f13-b876-8c9f101243bf",
         "a35bfe55-28ce-4736-90cc-5bc9918143a4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9440fb06-4429-4da4-8b73-a3abfe041444",
         "c4df94fc-15bc-4228-9b27-f2b45a2e7d68",
@@ -535,7 +520,7 @@
         "de87c914-59ca-415d-8f0e-8a3f13564f92",
         "700f296f-ee1e-4c04-ab03-71eba7408d78"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "faa1d7ff-747f-4f61-8203-0660104f39c3",
         "4cf75ac5-6a84-44ea-be07-3bc29208131d",
@@ -556,7 +541,7 @@
       "mappedKnowledge": [
         "b380dede-1737-4f13-b876-8c9f101243bf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "380ca770-f9e9-4de8-b779-02ce44dc7159",
         "dd1a9448-106c-46f7-96c2-4f0cf4c40063",
@@ -568,7 +553,7 @@
       "dutyID": "48b361fc-319e-4cb0-8815-1dcd8f20faf3",
       "dutyDetail": "Design and create crowd effects, physical effects or creature effects to meet the requirements of the production.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "369d8066-e503-4b43-a543-193e2a0275a6",
         "0e6aaf41-fb71-49eb-81ad-41a29a3e6057"
@@ -586,7 +571,7 @@
       "dutyID": "a014ee8b-f5dc-471c-ad03-7ca5ed142599",
       "dutyDetail": "Develop one off, bespoke and reusable effects using FX animation, procedural simulation, dynamic simulation, particle and fluid systems.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "f42eafc0-b8e8-4ad0-a601-dbf37f448711",
         "cdebd916-6a90-49dd-9f4d-59cfa8646357",
@@ -605,7 +590,7 @@
       "dutyID": "228b90e8-0cdd-4158-822c-5798d43ba2e3",
       "dutyDetail": "Develop and create rigging VFX work to meet the requirements of the VFX pipeline, applying knowledge of the mechanics of movement and anatomy to underpin the creation of skeletal and muscle systems.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "13e8c0e5-fcc7-4d55-a0ba-303c446df7ed",
         "583ad41e-f380-4065-a295-3203e3309c5d"
@@ -623,7 +608,7 @@
       "dutyID": "91ce3403-792a-4c8a-84da-84981a85d08b",
       "dutyDetail": "Test, optimise, document and maintain automated, user friendly and optimised rigs and interfaces, collaborating with departments up and down-stream throughout the complete workflow process.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "8c2239c5-3f5d-4acb-be7e-a355f0298fc7",
         "c9f10bd0-a5aa-4935-9c67-f577c942f2f7",
@@ -642,7 +627,7 @@
       "dutyID": "9035b436-6ba9-4e2e-8935-60d0b1ddf0ca",
       "dutyDetail": "Control the interactions between material properties, surfaces and lighting by utilising custom and standardised shaders to develop the look.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "a0e072e8-f60f-4ccc-b20c-87ae665bcb23",
         "f6cafc6a-e20a-4fc0-827d-041bf8381527",
@@ -661,7 +646,7 @@
       "dutyID": "0ada4956-d8cc-4dd5-8b59-85ad1e257d39",
       "dutyDetail": "Create high quality CG lighting, shading and rendering to meet the needs of the production, applying knowledge of lighting techniques and colour-space.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "a0e072e8-f60f-4ccc-b20c-87ae665bcb23",
         "6b75fbfc-e08b-4e95-9422-f4141dba7aec",
@@ -681,7 +666,7 @@
       "dutyID": "d54707f5-d1df-4984-9fb6-6ddc9a9f4eba",
       "dutyDetail": "Create high quality environment assets that include architecture, nature, and geographical features using high resolution models, digital matte paintings, textures, projections and lights to meet technical and artistic requirements.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "25c08abc-f9d7-49a5-8439-5814250b9adc",
         "a7196d75-f61e-4ff4-b4ee-9a0dabdf1ea6",
@@ -700,7 +685,7 @@
       "dutyID": "e61c6e27-f09f-432f-8182-f502022aa0bd",
       "dutyDetail": "Take the lead on scene assembly and set dressing, collaborating with the art department to establish the aesthetic of an environment.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "22f5a294-f84e-44dd-bb35-023fdc2981d3",
         "308f5321-b9c7-4044-8023-e8910e9f746b"
@@ -715,6 +700,28 @@
         "aa6083e6-9eab-4b25-a108-7109124c8461"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "6a7fc5e7-0fff-44bd-89c7-8c6aac469ca6",
+      "title": "VFX Simulation",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "f5cc93ed-296c-42fa-9fcf-a426b7b996ce",
+      "title": "VFX Rigging",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "04e5a2c0-c517-468d-b9fe-707a33d79c57",
+      "title": "VFX Lighting, Shading and Look Development",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "7c4bf775-f563-4859-b4d8-cfaf83c3042f",
+      "title": "VFX Environments",
+      "occupationCode": ""
     }
   ],
   "regulationDetail": [],
