@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/1",
   "versionNumber": "1.2",
   "change": "Standard, funding band and end-point assessment plan revised",
-  "changedDate": "2023-02-21T00:00:00Z",
-  "earliestStartDate": "2021-06-01T00:00:00Z",
+  "changedDate": "2023-02-21T00:00:00",
+  "earliestStartDate": "2021-06-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Designing, installing, maintaining and supporting communication networks within an organisation or between organisations.",
@@ -243,7 +243,6 @@
       "detail": "select the appropriate tools and comply with organisation policies and processes when upgrading systems"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -280,8 +279,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Digital Support and Services",
   "cluster": "Hardware, Networks and Infrastructure Technician",
+  "clusterId": "186",
+  "clusterDescription": "Design, install, maintain and support communication networks. Knowledge extends to network configuration, cloud, network administration and monitoring tools. Provides advice and guidance to internal and external customers",
   "createdDate": "2021-06-01T08:45:55 +00:00",
   "lastUpdated": "2023-02-21T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/network-engineer-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/network-engineer-v1-2",
   "qualifications": [],
@@ -319,7 +321,7 @@
         "508bb587-b934-4fd2-951f-76aaed26045c",
         "7e65a7fc-6f21-4e3f-a8ea-61d5f6e38196"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fd140fa5-f3e8-42b8-9cd9-73095de51971",
         "a8340ee7-6672-47c8-9c30-51e739464c10",
@@ -347,7 +349,7 @@
         "d0538cc5-7300-4041-9e95-0e175324ec31",
         "508bb587-b934-4fd2-951f-76aaed26045c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2370017d-0853-4796-877f-d4cfd79ba438",
         "40a3f14d-40d8-4a3f-951a-d368667e7ad7"
@@ -379,7 +381,7 @@
         "d0538cc5-7300-4041-9e95-0e175324ec31",
         "a3fdc0cd-60bd-4961-b937-0aed15ad4c35"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dee3d0c0-cebc-48d4-8a80-3eb14ffc3ee0",
         "5cc80e28-617a-4962-8389-204f71fdccf6"
@@ -420,7 +422,7 @@
         "7e65a7fc-6f21-4e3f-a8ea-61d5f6e38196",
         "39e652c3-198c-4a3d-872a-b981601fe1a9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c2b6c04f-9795-426c-86dd-dadd5faddcb4"
       ],
@@ -456,7 +458,7 @@
         "7e65a7fc-6f21-4e3f-a8ea-61d5f6e38196",
         "39e652c3-198c-4a3d-872a-b981601fe1a9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "206fcc25-9fc0-417e-b1ac-182e5a569206"
       ],
@@ -480,7 +482,7 @@
         "3685a059-9579-49ec-b7a0-8277d1d400ed",
         "39e652c3-198c-4a3d-872a-b981601fe1a9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5fc8ebe6-dcac-4764-af83-a1b5a0d18f89"
       ],
@@ -501,7 +503,7 @@
         "b164b94e-7665-40c4-acd0-8e8820b6a442",
         "39e652c3-198c-4a3d-872a-b981601fe1a9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e33a2a97-674e-4456-be12-2278d0fff9fd",
         "50ab7b9e-ddf8-48b8-959a-b44b40d35201"
@@ -523,7 +525,7 @@
         "226b9506-e614-458b-b907-f9ddb235def6",
         "712c63db-da0d-4ff3-a4e9-d8227aa24dcb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "29e640e2-104f-496b-878e-03fa16da2da5"
       ],
@@ -548,7 +550,7 @@
         "508bb587-b934-4fd2-951f-76aaed26045c",
         "39e652c3-198c-4a3d-872a-b981601fe1a9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "598151a5-b1e0-40c6-b53f-c147d797e03a",
         "b408a225-58f8-40d0-9069-e6a9a16bd1af"
@@ -569,7 +571,7 @@
         "712c63db-da0d-4ff3-a4e9-d8227aa24dcb",
         "3685a059-9579-49ec-b7a0-8277d1d400ed"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cb4ed247-4694-4407-b273-66489a244ff6",
         "da77ce5c-58e8-45ea-9d8e-9f37833c7c1b"
@@ -589,8 +591,8 @@
         "712c63db-da0d-4ff3-a4e9-d8227aa24dcb",
         "3685a059-9579-49ec-b7a0-8277d1d400ed"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -611,7 +613,7 @@
         "b3616840-f949-437b-8785-bcf95386e45a",
         "3685a059-9579-49ec-b7a0-8277d1d400ed"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "41723c6f-1c62-43f1-a62a-d9270bb8293f"
       ],
@@ -633,7 +635,7 @@
         "3685a059-9579-49ec-b7a0-8277d1d400ed",
         "39e652c3-198c-4a3d-872a-b981601fe1a9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7b96ef3-7fda-4608-a41b-d60a484183a2"
       ],
@@ -654,7 +656,7 @@
         "b3616840-f949-437b-8785-bcf95386e45a",
         "39e652c3-198c-4a3d-872a-b981601fe1a9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c2b6c04f-9795-426c-86dd-dadd5faddcb4",
         "cb4ed247-4694-4407-b273-66489a244ff6",
@@ -666,6 +668,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
