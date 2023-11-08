@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/689",
   "versionNumber": "1.1",
   "change": "Occupational standard and end-point assessment plan revised.",
-  "changedDate": "2023-10-04T00:00:00Z",
-  "earliestStartDate": "2023-10-04T00:00:00Z",
+  "changedDate": "2023-10-04T00:00:00",
+  "earliestStartDate": "2023-10-04T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Ensure that public and private sports turf surfaces meet the requirements of the sport.",
@@ -275,7 +275,6 @@
       "detail": "Oversee and undertake the operation, maintenance and servicing of irrigation or drainage systems, including minor repairs and problem solving issues. "
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -315,8 +314,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Landscape Horticulture Operative/Technician",
+  "clusterId": "161",
+  "clusterDescription": "The design, construction and maintenance of gardens, designed landscapes and sports turf facilities for private, commercial and community use",
   "createdDate": "2023-10-26T11:00:16 +00:00",
   "lastUpdated": "2023-10-04T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/advanced-sports-turf-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/advanced-sports-turf-technician-v1-1",
   "qualifications": [
@@ -366,7 +368,7 @@
         "d5d2ac55-8508-48c1-9684-3f0ff372a213",
         "5dab41b2-2c50-4c1a-9898-29b956edd0c7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7268a26a-04fc-4319-b0c2-3c27140f976f",
         "4867f4d0-a9c3-4c33-83d2-f72009d0ea6e",
@@ -385,12 +387,12 @@
       "dutyID": "f04fca0c-6701-4e2c-bddd-f6810c1faa01",
       "dutyDetail": "Evaluate performance and agronomic data of playing surfaces (e.g. weather data, soil conditions, performance quality standard).  Recommends improvements to turf health and playing surface conditions. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "df1eefdd-334a-4cd2-9612-034d4209bf07",
         "be288261-ba95-454f-bf8b-0bbaf386db22"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "02b0c0ed-b85a-4af6-b4e2-8a92719514f7",
         "92718287-5f1c-4e2c-84ed-f658f99fb594",
@@ -414,7 +416,7 @@
         "fff27122-13d6-44d2-bfb6-7e7b7daa2a9a",
         "c8171e1d-c583-4546-864f-1b0a889da1ec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4867f4d0-a9c3-4c33-83d2-f72009d0ea6e",
         "768e1b14-c51a-4b95-897e-3fb1030f1793",
@@ -445,7 +447,7 @@
         "1c3f6444-4595-4f73-b26c-a10c705d2c39",
         "12086e24-e47e-42b9-a400-3f987a011b67"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7268a26a-04fc-4319-b0c2-3c27140f976f",
         "4867f4d0-a9c3-4c33-83d2-f72009d0ea6e",
@@ -477,7 +479,7 @@
         "72532215-bc2b-4e09-b8b2-118d2842c826",
         "18b2e842-9362-47ae-93f6-97424e921be9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7268a26a-04fc-4319-b0c2-3c27140f976f",
         "4867f4d0-a9c3-4c33-83d2-f72009d0ea6e",
@@ -498,7 +500,7 @@
       "mappedKnowledge": [
         "c6c839cd-6255-4f3d-afc3-15b805d8025b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c4c5e811-d638-43dd-aa94-c2d0c0253383"
       ],
@@ -523,7 +525,7 @@
         "d5d2ac55-8508-48c1-9684-3f0ff372a213",
         "5dab41b2-2c50-4c1a-9898-29b956edd0c7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7268a26a-04fc-4319-b0c2-3c27140f976f",
         "1312155f-191e-4919-87e9-03aef8f31175",
@@ -554,7 +556,7 @@
         "d5d2ac55-8508-48c1-9684-3f0ff372a213",
         "5dab41b2-2c50-4c1a-9898-29b956edd0c7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7268a26a-04fc-4319-b0c2-3c27140f976f",
         "d4f49c84-1204-404f-a750-d1bb698e002a",
@@ -567,11 +569,11 @@
       "dutyID": "12b9b6c5-6156-4848-a87e-049cf78d1914",
       "dutyDetail": "Ensure a safe working environment and the adoption of legal working practices including the reviewing of risk assessments. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "7e2930cc-a695-4863-ac4e-9d8880e1a88e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7268a26a-04fc-4319-b0c2-3c27140f976f",
         "d4f49c84-1204-404f-a750-d1bb698e002a"
@@ -589,7 +591,7 @@
       "mappedKnowledge": [
         "3858da77-82bd-43a3-83da-821e807ec27e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "629e3d8c-8bac-4b14-a821-bc745b62bd6d",
         "760cda8c-f36d-49cc-ba05-9d326a58851d"
@@ -615,7 +617,7 @@
         "1c3f6444-4595-4f73-b26c-a10c705d2c39",
         "12086e24-e47e-42b9-a400-3f987a011b67"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "629e3d8c-8bac-4b14-a821-bc745b62bd6d",
         "c4c5e811-d638-43dd-aa94-c2d0c0253383",
@@ -629,14 +631,14 @@
       "dutyID": "7019fee4-122a-4640-adb3-661ed1943b5a",
       "dutyDetail": "Plan, prepare for and supervise the construction or renovation of the sports turf facilities. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0dd049ef-f2e1-493f-90bc-6ad58da792a3",
         "fff27122-13d6-44d2-bfb6-7e7b7daa2a9a",
         "a1ba7ebc-6d54-422f-a088-d6500ba2e28c",
         "18b2e842-9362-47ae-93f6-97424e921be9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4867f4d0-a9c3-4c33-83d2-f72009d0ea6e",
         "a3854456-5e1c-4b8c-9f4d-5b9f1db85fc0",
@@ -646,6 +648,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
