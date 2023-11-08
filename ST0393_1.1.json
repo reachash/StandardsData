@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/149",
   "versionNumber": "1.1",
   "change": "End-point assessment plan, standard and funding revised",
-  "changedDate": "2022-11-09T00:00:00Z",
-  "earliestStartDate": "2022-09-01T00:00:00Z",
+  "changedDate": "2022-11-09T00:00:00",
+  "earliestStartDate": "2022-09-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing expert technical advice and support on a variety of aspects of dairy production and activities. ",
@@ -315,7 +315,6 @@
       "detail": "Identify training needs. Coach individuals."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -356,8 +355,11 @@
   "reviewDetails": "",
   "pathway": "Science",
   "cluster": "Science Advanced Technician",
+  "clusterId": "11",
+  "clusterDescription": "Provide laboratory-based investigative and scientific experimentation analyses, interpretations and evaluations of scientific information",
   "createdDate": "2022-11-09T14:07:51 +00:00",
   "lastUpdated": "2022-11-09T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/dairy-technologist-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/dairy-technologist-v1-1",
   "qualifications": [],
@@ -419,7 +421,7 @@
         "6c283c7e-5750-4afd-af35-e783caa9d116",
         "adab895f-fc27-4341-941d-a141e036b11c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0ef15a72-627e-4640-a358-95780d77c334",
         "f6963ebe-6a36-4d0b-8914-5e3dc2759867",
@@ -486,7 +488,7 @@
         "6c283c7e-5750-4afd-af35-e783caa9d116",
         "adab895f-fc27-4341-941d-a141e036b11c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f6963ebe-6a36-4d0b-8914-5e3dc2759867",
         "2589dd73-1f1c-4fa3-8cb2-c98e43fcf089",
@@ -545,7 +547,7 @@
         "f8847312-776a-4242-9753-aa116fdc2990",
         "adab895f-fc27-4341-941d-a141e036b11c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0ef15a72-627e-4640-a358-95780d77c334",
         "f6963ebe-6a36-4d0b-8914-5e3dc2759867",
@@ -609,7 +611,7 @@
         "f8847312-776a-4242-9753-aa116fdc2990",
         "ffcc0d8a-ac8d-4353-bb74-c98158124d01"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0ef15a72-627e-4640-a358-95780d77c334",
         "f6963ebe-6a36-4d0b-8914-5e3dc2759867",
@@ -683,7 +685,7 @@
         "ffcc0d8a-ac8d-4353-bb74-c98158124d01",
         "adab895f-fc27-4341-941d-a141e036b11c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0ef15a72-627e-4640-a358-95780d77c334",
         "f6963ebe-6a36-4d0b-8914-5e3dc2759867",
@@ -757,7 +759,7 @@
         "6c283c7e-5750-4afd-af35-e783caa9d116",
         "adab895f-fc27-4341-941d-a141e036b11c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0ef15a72-627e-4640-a358-95780d77c334",
         "f6963ebe-6a36-4d0b-8914-5e3dc2759867",
@@ -831,7 +833,7 @@
         "6c283c7e-5750-4afd-af35-e783caa9d116",
         "adab895f-fc27-4341-941d-a141e036b11c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0ef15a72-627e-4640-a358-95780d77c334",
         "f6963ebe-6a36-4d0b-8914-5e3dc2759867",
@@ -897,7 +899,7 @@
         "ffcc0d8a-ac8d-4353-bb74-c98158124d01",
         "adab895f-fc27-4341-941d-a141e036b11c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0ef15a72-627e-4640-a358-95780d77c334",
         "f6963ebe-6a36-4d0b-8914-5e3dc2759867",
@@ -954,7 +956,7 @@
         "f8847312-776a-4242-9753-aa116fdc2990",
         "adab895f-fc27-4341-941d-a141e036b11c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f6963ebe-6a36-4d0b-8914-5e3dc2759867",
         "2589dd73-1f1c-4fa3-8cb2-c98e43fcf089",
@@ -1009,7 +1011,7 @@
         "f8847312-776a-4242-9753-aa116fdc2990",
         "ffcc0d8a-ac8d-4353-bb74-c98158124d01"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0ef15a72-627e-4640-a358-95780d77c334",
         "f6963ebe-6a36-4d0b-8914-5e3dc2759867",
@@ -1035,6 +1037,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
