@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/657",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-11-26T00:00:00Z",
-  "earliestStartDate": "2021-09-13T00:00:00Z",
+  "changedDate": "2021-11-26T00:00:00",
+  "earliestStartDate": "2021-09-13T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Ensure the safe, efficient and effective check-in, boarding, departure and arrival of people.",
@@ -208,7 +208,6 @@
       "detail": " Take remedial action upon identification of faults or errors in a timely manner."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -241,8 +240,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Transport",
   "cluster": "Transport Operations Operative/Technician",
+  "clusterId": "16",
+  "clusterDescription": "Support a transport facility's operation and/or support the loading and movement of a freight or passenger vehicle or vessel",
   "createdDate": "2021-08-31T14:56:27 +00:00",
   "lastUpdated": "2021-11-26T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/aviation-customer-service-operative-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/aviation-customer-service-operative-v1-0",
   "qualifications": [
@@ -288,7 +290,7 @@
         "a6b7982c-d4ca-4500-9aae-56767dd4bc77",
         "852d530e-4b61-4dff-b31b-b35fda41d03c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fc0c623d-a8d8-4dae-ba6c-d59c6663c434",
         "197d9070-6c7c-46fc-b56e-28085ce7c348",
@@ -342,7 +344,7 @@
         "a6b7982c-d4ca-4500-9aae-56767dd4bc77",
         "852d530e-4b61-4dff-b31b-b35fda41d03c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fc0c623d-a8d8-4dae-ba6c-d59c6663c434",
         "197d9070-6c7c-46fc-b56e-28085ce7c348",
@@ -394,7 +396,7 @@
         "a6b7982c-d4ca-4500-9aae-56767dd4bc77",
         "852d530e-4b61-4dff-b31b-b35fda41d03c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fc0c623d-a8d8-4dae-ba6c-d59c6663c434",
         "197d9070-6c7c-46fc-b56e-28085ce7c348",
@@ -441,7 +443,7 @@
         "a6b7982c-d4ca-4500-9aae-56767dd4bc77",
         "852d530e-4b61-4dff-b31b-b35fda41d03c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "631aa0a1-fdf0-4646-9a1b-d3d4bedad8b0",
         "6ea207f7-5b83-4931-b9dc-1c39740b87e9",
@@ -489,7 +491,7 @@
         "a6b7982c-d4ca-4500-9aae-56767dd4bc77",
         "852d530e-4b61-4dff-b31b-b35fda41d03c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fc0c623d-a8d8-4dae-ba6c-d59c6663c434",
         "197d9070-6c7c-46fc-b56e-28085ce7c348",
@@ -540,7 +542,7 @@
         "a6b7982c-d4ca-4500-9aae-56767dd4bc77",
         "852d530e-4b61-4dff-b31b-b35fda41d03c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fc0c623d-a8d8-4dae-ba6c-d59c6663c434",
         "197d9070-6c7c-46fc-b56e-28085ce7c348",
@@ -594,7 +596,7 @@
         "a6b7982c-d4ca-4500-9aae-56767dd4bc77",
         "852d530e-4b61-4dff-b31b-b35fda41d03c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fc0c623d-a8d8-4dae-ba6c-d59c6663c434",
         "197d9070-6c7c-46fc-b56e-28085ce7c348",
@@ -645,7 +647,7 @@
         "a6b7982c-d4ca-4500-9aae-56767dd4bc77",
         "852d530e-4b61-4dff-b31b-b35fda41d03c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fc0c623d-a8d8-4dae-ba6c-d59c6663c434",
         "197d9070-6c7c-46fc-b56e-28085ce7c348",
@@ -692,7 +694,7 @@
         "a6b7982c-d4ca-4500-9aae-56767dd4bc77",
         "852d530e-4b61-4dff-b31b-b35fda41d03c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fc0c623d-a8d8-4dae-ba6c-d59c6663c434",
         "197d9070-6c7c-46fc-b56e-28085ce7c348",
@@ -745,7 +747,7 @@
         "a6b7982c-d4ca-4500-9aae-56767dd4bc77",
         "852d530e-4b61-4dff-b31b-b35fda41d03c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fc0c623d-a8d8-4dae-ba6c-d59c6663c434",
         "197d9070-6c7c-46fc-b56e-28085ce7c348",
@@ -767,6 +769,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
