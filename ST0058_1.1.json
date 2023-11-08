@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/179",
   "versionNumber": "1.1",
   "change": "End-point assessment plan, standard and funding revised.",
-  "changedDate": "2022-11-04T00:00:00Z",
-  "earliestStartDate": "2022-11-09T00:00:00Z",
+  "changedDate": "2022-11-04T00:00:00",
+  "earliestStartDate": "2022-11-09T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Working with laboratory animals.",
@@ -235,7 +235,6 @@
       "detail": "Keep up to date with developments in best practice and advances in technology and share best practice.  "
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -268,8 +267,11 @@
   "reviewDetails": "",
   "pathway": "Science",
   "cluster": "Science Technician",
+  "clusterId": "102",
+  "clusterDescription": "Provide routine and non-routine laboratory testing, experimenting and support to a research brief",
   "createdDate": "2022-11-04T15:28:43 +00:00",
   "lastUpdated": "2022-11-04T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/animal-technologist-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/animal-technologist-v1-1",
   "qualifications": [
@@ -315,7 +317,7 @@
         "60f2d82f-9478-449f-90bd-87f4ce5b368c",
         "9b6c86ec-435c-4a25-9c7f-98bb48dc55e4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "eb30b34a-e4b4-4959-a60d-d4d73f4a1c20",
         "b5bd69b7-7893-4143-a2f1-73105be5a44f",
@@ -338,7 +340,7 @@
         "75ce8b1a-8770-4cdf-9061-21301045c2ec",
         "398d0d27-0bbd-4b5f-b6e2-88b252fd6f26"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "eb30b34a-e4b4-4959-a60d-d4d73f4a1c20",
         "3abab007-2911-4250-9c95-cc26eac93d1d",
@@ -351,14 +353,14 @@
       "dutyID": "9c3e5b91-f7e9-4797-a071-3a8a5f9c2552",
       "dutyDetail": "Keep the work environment fit for purpose, including maintenance of hygiene standards.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "04f12e6c-88c0-4e1b-b51e-b51446b5e20a",
         "dacdd551-6912-4ecd-97a3-f74e01a52748",
         "f7bb9fc6-3c09-4e77-86e5-b256ac6601a7",
         "b5a80b56-4abc-4f4d-9ec8-f9858dca65a5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "eb30b34a-e4b4-4959-a60d-d4d73f4a1c20",
         "a008a3fe-5fa7-459e-9831-a0042db2ff0b",
@@ -371,7 +373,7 @@
       "dutyID": "b21ebe09-caf7-4d4f-b6c3-aa2858bc94ad",
       "dutyDetail": "Maintain equipment in good working order and calibrated where needed.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "04f12e6c-88c0-4e1b-b51e-b51446b5e20a",
         "f7bb9fc6-3c09-4e77-86e5-b256ac6601a7",
@@ -379,7 +381,7 @@
         "ff108f5e-ed08-4277-b7f6-5c4c8d1646e3",
         "398d0d27-0bbd-4b5f-b6e2-88b252fd6f26"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "eb30b34a-e4b4-4959-a60d-d4d73f4a1c20",
         "a008a3fe-5fa7-459e-9831-a0042db2ff0b",
@@ -411,7 +413,7 @@
         "f7bb9fc6-3c09-4e77-86e5-b256ac6601a7",
         "ff108f5e-ed08-4277-b7f6-5c4c8d1646e3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "eb30b34a-e4b4-4959-a60d-d4d73f4a1c20",
         "6c055b6f-912e-4b46-a6ed-b84541548b92",
@@ -441,7 +443,7 @@
         "f7bb9fc6-3c09-4e77-86e5-b256ac6601a7",
         "ff108f5e-ed08-4277-b7f6-5c4c8d1646e3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6c055b6f-912e-4b46-a6ed-b84541548b92",
         "6e2eed04-c9a6-4281-812f-343c8519c60b",
@@ -467,7 +469,7 @@
         "f7bb9fc6-3c09-4e77-86e5-b256ac6601a7",
         "ff108f5e-ed08-4277-b7f6-5c4c8d1646e3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6c055b6f-912e-4b46-a6ed-b84541548b92",
         "6e2eed04-c9a6-4281-812f-343c8519c60b",
@@ -494,7 +496,7 @@
         "f7bb9fc6-3c09-4e77-86e5-b256ac6601a7",
         "ff108f5e-ed08-4277-b7f6-5c4c8d1646e3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6c055b6f-912e-4b46-a6ed-b84541548b92",
         "a823c687-19d5-441a-8093-badfb2cc6bf6"
@@ -505,7 +507,7 @@
       "dutyID": "778cdd70-95e7-4d91-a77b-b5092cd299eb",
       "dutyDetail": "Manage relevant scientific/technical activities within the Home Office designated establishment as assigned by their role and in line with company and regulatory procedures.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "04f12e6c-88c0-4e1b-b51e-b51446b5e20a",
         "dacdd551-6912-4ecd-97a3-f74e01a52748",
@@ -514,7 +516,7 @@
         "53c54ac7-addb-4e7e-9619-a3f5b00d1ca1",
         "906d69d5-b40b-44a3-86a7-db4659e157f4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "98617c2e-f618-49d1-b3e1-542daa3d4d44"
       ],
@@ -531,7 +533,7 @@
         "46a444fd-c710-42a0-8084-f3e37936af28",
         "3b977eff-6c7e-4266-a180-bc4955da344f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b7580933-4e06-4c98-ab35-54f9096c5874"
       ],
@@ -550,7 +552,7 @@
         "46a444fd-c710-42a0-8084-f3e37936af28",
         "3b977eff-6c7e-4266-a180-bc4955da344f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8266469e-1ae1-4e60-98fa-7b7a8e701f44"
       ],
@@ -560,7 +562,7 @@
       "dutyID": "b52751de-1aaf-4f7d-be11-b6345123cd48",
       "dutyDetail": "Maintain and analyse data and information (e.g. environmental monitoring, animal weights). ",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "dacdd551-6912-4ecd-97a3-f74e01a52748",
         "53c54ac7-addb-4e7e-9619-a3f5b00d1ca1",
@@ -568,7 +570,7 @@
         "67ac6960-0cf5-48d2-8086-98d5640760ff",
         "9b6c86ec-435c-4a25-9c7f-98bb48dc55e4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ed74f562-db3f-41e1-85d3-86f07d73d7be"
       ],
@@ -595,7 +597,7 @@
         "8eef81ba-2bdf-499b-94ac-d32bf41f458c",
         "60f2d82f-9478-449f-90bd-87f4ce5b368c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b3860514-334e-4e06-96c3-58e317261629",
         "b7580933-4e06-4c98-ab35-54f9096c5874"
@@ -616,7 +618,7 @@
         "0f609073-0063-4239-9fd7-b4bfb1a2c145",
         "f7bb9fc6-3c09-4e77-86e5-b256ac6601a7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6c055b6f-912e-4b46-a6ed-b84541548b92",
         "a008a3fe-5fa7-459e-9831-a0042db2ff0b"
@@ -639,7 +641,7 @@
         "98138283-e791-4548-85e7-588ca5b8a4fc",
         "9b6c86ec-435c-4a25-9c7f-98bb48dc55e4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "17cd0dcf-df2d-4b31-ac96-19e59d19a912",
         "ed74f562-db3f-41e1-85d3-86f07d73d7be",
@@ -650,6 +652,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
