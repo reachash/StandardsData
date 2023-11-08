@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/619",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-09-29T00:00:00Z",
-  "earliestStartDate": "2021-05-04T00:00:00Z",
+  "changedDate": "2022-09-29T00:00:00",
+  "earliestStartDate": "2021-05-04T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Apply an understanding of cyber security to protect from attacks and unauthorised access.",
@@ -274,20 +274,6 @@
       "detail": "Manage local response to non-major incidents in accordance with a defined procedure."
     }
   ],
-  "options": [
-    {
-      "optionId": "cea8705b-2d2b-449f-8938-6ca3fef4106a",
-      "title": "Cyber Security Engineer"
-    },
-    {
-      "optionId": "cf055020-be9d-4c4d-bc60-004bf9fa6499",
-      "title": "Cyber Risk Analyst"
-    },
-    {
-      "optionId": "5f4fe9bc-6da9-412a-b62b-86d07d5958ff",
-      "title": "Cyber Defend & Respond"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -319,10 +305,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Digital Support and Services",
-  "cluster": "Cyber Security Technician",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2022-06-08T15:07:44 +00:00",
   "lastUpdated": "2022-09-29T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/cyber-security-technologist-2021-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/cyber-security-technologist-2021-v1-0",
   "qualifications": [],
@@ -362,7 +351,7 @@
         "738a6738-fa11-4d9b-9236-26046677840f",
         "1fce3015-0f6a-4e1d-91dd-3b5efceeaad3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a7897997-acaa-42b5-b317-6ffee043117f",
         "bf3b138c-97f2-457b-bb5a-c3635a9e41b6"
@@ -387,7 +376,7 @@
         "7860a27b-2ad0-4902-b74d-cf9b89d8989f",
         "1b3bfc48-53fc-4fb3-a7d0-bf33081a62eb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "32047ed6-0535-49fc-b94e-04095a65ed04",
         "bf3b138c-97f2-457b-bb5a-c3635a9e41b6",
@@ -418,7 +407,7 @@
         "b669a59a-f7ff-4a31-9fe9-6b4c522ea05e",
         "4e6a18d3-a223-49ba-b2d5-3fea01489714"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "740fc4fc-b626-49f9-9a83-e424d02e9ee8",
         "bf3b138c-97f2-457b-bb5a-c3635a9e41b6"
@@ -447,7 +436,7 @@
         "078527e2-9a68-4dae-a5db-50488574b5a9",
         "c4430f4a-19a1-403f-a3f2-1ab71085c5b8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0ba466b8-c907-4cc7-b2bb-045d7bd6545a"
       ],
@@ -469,7 +458,7 @@
         "bd2159cd-c952-41e8-bffa-13740a3be7cd",
         "8ce0d63d-0c38-4730-95ba-e0ca2322bd11"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3e667f09-e4d0-43f2-97a1-1778a31308d3",
         "f26bd634-3554-48b3-8c35-4008eb030206"
@@ -492,7 +481,7 @@
         "738a6738-fa11-4d9b-9236-26046677840f",
         "1fce3015-0f6a-4e1d-91dd-3b5efceeaad3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aab36ada-4b68-468a-90f6-6b07da5acb7c"
       ],
@@ -515,7 +504,7 @@
         "738a6738-fa11-4d9b-9236-26046677840f",
         "1fce3015-0f6a-4e1d-91dd-3b5efceeaad3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "08f9a582-a2cc-408e-9dc2-278ccd3f3e8f"
       ],
@@ -533,8 +522,8 @@
         "2eef7733-fd72-487d-86bd-f990009428bc",
         "c6f122ef-7550-400b-aa8d-9e06c736c790"
       ],
-      "mappedKnowledge": null,
-      "mappedOptions": null,
+      "mappedKnowledge": [],
+      "mappedOptions": [],
       "mappedSkills": [
         "19a1d525-c77b-4f73-a79f-abcd0fd3bee6"
       ],
@@ -558,7 +547,7 @@
         "078527e2-9a68-4dae-a5db-50488574b5a9",
         "4e6a18d3-a223-49ba-b2d5-3fea01489714"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6a7b3fe8-d74d-4501-af29-7d976b4b19e3"
       ],
@@ -589,7 +578,7 @@
         "738a6738-fa11-4d9b-9236-26046677840f",
         "1fce3015-0f6a-4e1d-91dd-3b5efceeaad3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a7897997-acaa-42b5-b317-6ffee043117f",
         "32047ed6-0535-49fc-b94e-04095a65ed04",
@@ -608,8 +597,8 @@
         "bd2159cd-c952-41e8-bffa-13740a3be7cd",
         "078527e2-9a68-4dae-a5db-50488574b5a9"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -975,6 +964,23 @@
         "0dea457a-a2bb-4101-9082-f25308170dc3"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "cea8705b-2d2b-449f-8938-6ca3fef4106a",
+      "title": "Cyber Security Engineer",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "cf055020-be9d-4c4d-bc60-004bf9fa6499",
+      "title": "Cyber Risk Analyst",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "5f4fe9bc-6da9-412a-b62b-86d07d5958ff",
+      "title": "Cyber Defend & Respond",
+      "occupationCode": ""
     }
   ],
   "regulationDetail": [],
