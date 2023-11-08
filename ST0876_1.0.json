@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/593",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-02-15T00:00:00Z",
-  "earliestStartDate": "2020-08-24T00:00:00Z",
+  "changedDate": "2023-02-15T00:00:00",
+  "earliestStartDate": "2020-08-24T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Carry out operations in a clean water or waste water treatment facility to ensure water safety.",
@@ -317,16 +317,6 @@
       "detail": "Waste water. Apply waste water treatment processes."
     }
   ],
-  "options": [
-    {
-      "optionId": "4fc2cb5c-9fd8-4a6f-93b2-b3eb62fa93b2",
-      "title": "Clean water process operative"
-    },
-    {
-      "optionId": "35d3514e-1d48-403b-9e0c-8b6b75b027ca",
-      "title": "Waste water process operative"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -365,8 +355,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Quality Improvement and Project Control Technician",
+  "clusterId": "256",
+  "clusterDescription": "Maintain and improve product and process integrity and quality, production and process efficiency, and the overall health and safety of the working environment",
   "createdDate": "2020-06-05T10:52:18 +00:00",
   "lastUpdated": "2023-02-15T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/water-process-operative-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/water-process-operative-v1-0",
   "qualifications": [],
@@ -392,7 +385,7 @@
         "3f833a04-c47d-4a7a-9a73-176046de858b",
         "ebbe1045-9ea2-4c91-88a9-2ce8398454c5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9d4f2b5-a328-42f6-b3f7-af0ab10bb23f",
         "e0e39789-2ef7-44a9-9af8-9a4ea6534d50",
@@ -423,7 +416,7 @@
         "e39ca7ae-2162-4aca-8cda-81e81d0fe223",
         "97729fb9-0903-49be-9f1b-aa652be1366e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9d4f2b5-a328-42f6-b3f7-af0ab10bb23f",
         "a0155102-0b84-4ac1-9ebc-a9acb91f1bbe",
@@ -453,7 +446,7 @@
         "7440bce2-a49e-4174-9c53-f4a7df698748",
         "e39ca7ae-2162-4aca-8cda-81e81d0fe223"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9d4f2b5-a328-42f6-b3f7-af0ab10bb23f",
         "e0e39789-2ef7-44a9-9af8-9a4ea6534d50",
@@ -486,7 +479,7 @@
         "ebbe1045-9ea2-4c91-88a9-2ce8398454c5",
         "97729fb9-0903-49be-9f1b-aa652be1366e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9d4f2b5-a328-42f6-b3f7-af0ab10bb23f",
         "e0e39789-2ef7-44a9-9af8-9a4ea6534d50",
@@ -519,7 +512,7 @@
         "e39ca7ae-2162-4aca-8cda-81e81d0fe223",
         "97729fb9-0903-49be-9f1b-aa652be1366e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9d4f2b5-a328-42f6-b3f7-af0ab10bb23f",
         "e0e39789-2ef7-44a9-9af8-9a4ea6534d50",
@@ -550,7 +543,7 @@
         "e1df1665-9dda-41d8-804e-dd6fce33c02e",
         "1f611297-3049-46f1-a1e9-7a4cd6dcd1de"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9d4f2b5-a328-42f6-b3f7-af0ab10bb23f",
         "e0e39789-2ef7-44a9-9af8-9a4ea6534d50",
@@ -582,7 +575,7 @@
         "751d6646-0528-4763-850d-2387c7dce3e6",
         "f5b5d261-f7c7-4027-a8ce-d34798f55d01"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9d4f2b5-a328-42f6-b3f7-af0ab10bb23f",
         "e0e39789-2ef7-44a9-9af8-9a4ea6534d50",
@@ -873,6 +866,18 @@
         "efcaeadf-9c7d-46e3-8251-124853481bff"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "4fc2cb5c-9fd8-4a6f-93b2-b3eb62fa93b2",
+      "title": "Clean water process operative",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "35d3514e-1d48-403b-9e0c-8b6b75b027ca",
+      "title": "Waste water process operative",
+      "occupationCode": ""
     }
   ],
   "regulationDetail": [],
