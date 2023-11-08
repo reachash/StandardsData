@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/707",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-05-16T00:00:00Z",
-  "earliestStartDate": "2023-05-11T00:00:00Z",
+  "changedDate": "2023-05-16T00:00:00",
+  "earliestStartDate": "2023-05-11T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Contribute to the local or national resilience and security agendas.",
@@ -293,7 +293,6 @@
       "detail": "Monitor dynamic situations and the effectiveness of interventions."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -329,8 +328,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Protective Services",
   "cluster": "Protective Service Professional",
+  "clusterId": "49",
+  "clusterDescription": "Lead and manage a whole service or event regarding safety, security, prevention, enforcement, protection and investigation services largely on behalf of society or workplace. Often requires specialist knowledge to handle complex cases",
   "createdDate": "2023-06-13T09:49:42 +00:00",
   "lastUpdated": "2023-05-16T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/resilience-and-emergencies-professional-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/resilience-and-emergencies-professional-v1-0",
   "qualifications": [
@@ -366,7 +368,7 @@
         "8a322612-4c9c-4b2f-b9a9-e6791a68c08f",
         "453cd395-89c6-44a7-9d51-9fee17bdb37e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d8274be6-9c1e-4cdc-8b02-417fa9e97294",
         "beada3f7-a985-4304-bbba-f3c5ad0d8f3c",
@@ -383,14 +385,14 @@
       "dutyID": "f4584455-7efd-4466-a8ea-4bb60f64980b",
       "dutyDetail": "Research and analyse intelligence (data, opinion and information) relating to resilience and emergencies and manage information safely and securely.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "9b8b6935-0be1-4e58-9d41-fea6412f5c7d",
         "55685271-a31f-407a-901b-9aefd9ca0913",
         "a338e5ed-53d9-4466-9773-99a9ef2d3301",
         "aff61ec8-ea50-429e-94eb-5fae7b603017"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "25ba791b-aefb-4269-af0f-65100a9cc206",
         "0ae5839a-252b-4adf-9fd3-1b78e84a364e",
@@ -416,7 +418,7 @@
         "a338e5ed-53d9-4466-9773-99a9ef2d3301",
         "3dbe18fd-5b15-4fab-b1bf-c92c35b54ff8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1a3888ab-e1e1-4be4-ab42-ea292b0e838e",
         "25ba791b-aefb-4269-af0f-65100a9cc206",
@@ -443,7 +445,7 @@
         "8a322612-4c9c-4b2f-b9a9-e6791a68c08f",
         "453cd395-89c6-44a7-9d51-9fee17bdb37e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "beada3f7-a985-4304-bbba-f3c5ad0d8f3c",
         "100a747a-07f5-40b0-8885-502c9e4abd67",
@@ -470,7 +472,7 @@
         "ba22cec6-f8b2-4121-b1a9-030d07344b76",
         "c4b58aad-b97d-456d-931c-79cb5f00b7b6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6440ef59-851e-49ea-a833-834163030e42",
         "fdc0de86-ee39-4dd5-902f-c48070f7f282",
@@ -498,7 +500,7 @@
         "407c91d4-a2eb-4bc2-8858-f75290a8bd03",
         "ba22cec6-f8b2-4121-b1a9-030d07344b76"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "25ba791b-aefb-4269-af0f-65100a9cc206",
         "6440ef59-851e-49ea-a833-834163030e42",
@@ -528,7 +530,7 @@
         "ba22cec6-f8b2-4121-b1a9-030d07344b76",
         "aff61ec8-ea50-429e-94eb-5fae7b603017"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6440ef59-851e-49ea-a833-834163030e42",
         "fdc0de86-ee39-4dd5-902f-c48070f7f282",
@@ -563,7 +565,7 @@
         "0996d330-eb21-446b-9546-a94c1d778896",
         "453cd395-89c6-44a7-9d51-9fee17bdb37e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b970aca1-c661-4f0d-8f01-893d752be391",
         "266154fa-8182-4085-b165-5d0ae33a876a",
@@ -599,7 +601,7 @@
         "d1625243-685f-4b4f-b503-bcae182cfb56",
         "6078ada3-39f8-4c38-9f56-1619b6bbcbab"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1a3888ab-e1e1-4be4-ab42-ea292b0e838e",
         "9140e7d0-9cb7-4059-96dc-bb1739c80e19",
@@ -632,7 +634,7 @@
         "9d634958-0f67-44a5-a040-233b48c9e172",
         "0996d330-eb21-446b-9546-a94c1d778896"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9105f30c-4af0-4a6a-be1d-4b90bc6fe676",
         "2917e5eb-9f41-4903-bdb4-d8adaf0e6a63",
@@ -661,7 +663,7 @@
         "9d634958-0f67-44a5-a040-233b48c9e172",
         "0996d330-eb21-446b-9546-a94c1d778896"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1a3888ab-e1e1-4be4-ab42-ea292b0e838e",
         "9140e7d0-9cb7-4059-96dc-bb1739c80e19",
@@ -673,6 +675,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
