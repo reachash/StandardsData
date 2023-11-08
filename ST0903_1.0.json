@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/597",
   "versionNumber": "1.0",
   "change": "Retired",
-  "changedDate": "2023-07-26T00:00:00Z",
-  "earliestStartDate": "2020-08-24T00:00:00Z",
-  "latestStartDate": "2023-07-26T00:00:00Z",
+  "changedDate": "2023-07-26T00:00:00",
+  "earliestStartDate": "2020-08-24T00:00:00",
+  "latestStartDate": "2023-07-26T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Select and use relevant 3D software to create visually engaging motion graphics, animations or images (assets).",
   "level": 4,
@@ -259,7 +259,6 @@
       "detail": "Deliver content in the correct format as required by the employer and clients"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -293,8 +292,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media, Broadcast and Production Technician",
+  "clusterId": "76",
+  "clusterDescription": "Design, development and editing of audio visual and text content using technology to generate broadcasting materials along with its co-ordination and management",
   "createdDate": "2020-05-14T15:28:20 +00:00",
   "lastUpdated": "2023-07-26T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/junior-vfx-artist-generalist-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/junior-vfx-artist-generalist-v1-0",
   "qualifications": [],
@@ -315,7 +317,7 @@
         "dc9bb60b-40d0-4061-b046-1e9e7c7c7106",
         "0176d78e-bbec-4b58-9341-d345c748c695"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "60a04bb0-e166-4932-9204-42a740b0587b",
         "5b0433fe-fdd9-4012-9187-e4989e679b34",
@@ -336,7 +338,7 @@
         "a9e5b18e-f218-4504-aac1-5a5598d0f452",
         "0564b9b9-2630-43c5-aea7-f8d60e688792"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5b0433fe-fdd9-4012-9187-e4989e679b34",
         "8c8fc7fa-3e79-4d4a-93ba-6ef135d8e509",
@@ -360,7 +362,7 @@
         "347d9e3b-aade-4083-be45-193a34c379a1",
         "f580eafe-7acb-4c00-baa7-6bdb7042ad06"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8c85fe0b-9953-4a82-9aa1-8053ef0b445d",
         "7e62f48c-accb-4211-88a1-3480a30113af",
@@ -383,7 +385,7 @@
         "5cad24ee-ca87-41af-846b-a7fa5e66ab19",
         "f580eafe-7acb-4c00-baa7-6bdb7042ad06"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bd093c11-08a5-4643-afca-b0982bddcf05",
         "d11af888-2fbd-4a79-8b75-63a6f2bab6d1"
@@ -402,7 +404,7 @@
         "4c80e5a5-1a09-41cc-91be-ee9700062e93",
         "347d9e3b-aade-4083-be45-193a34c379a1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bd093c11-08a5-4643-afca-b0982bddcf05",
         "cbc58ff0-30e0-4acb-be21-b68ede82dd98",
@@ -422,7 +424,7 @@
         "af676d08-5e77-4644-a4e7-11a7301d429f",
         "37ba7f99-bdfa-4331-b48b-195c3e46ea36"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6f5fa83f-bc27-4205-9285-b6a7c1300b15",
         "7e62f48c-accb-4211-88a1-3480a30113af",
@@ -445,7 +447,7 @@
         "d2d2077a-298a-42ec-8a36-9c76823bd33d",
         "f803765f-c4db-4128-abf0-467040e95576"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "be019e2a-baf1-4f98-b682-12efb0ed5a67",
         "e483896b-e5aa-4d2c-8cec-e91ce4d4ee84",
@@ -467,7 +469,7 @@
         "2b04d2b6-c6e3-40d9-a40f-9791cb2c7ea3",
         "bef3c3a8-0fdc-4399-ae12-4cda3ad9ab7f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5b0433fe-fdd9-4012-9187-e4989e679b34",
         "142bb281-15db-423e-99b4-6d727d7b2b91",
@@ -495,7 +497,7 @@
         "14996a4d-cd14-44e6-804a-e63cb2292a6e",
         "8d2c8654-299c-411b-81e2-b9b46cc7239d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5b0433fe-fdd9-4012-9187-e4989e679b34",
         "f1261d1f-eb0f-43b1-aa3f-aa0d5849aa1f",
@@ -520,7 +522,7 @@
         "8d2c8654-299c-411b-81e2-b9b46cc7239d",
         "f580eafe-7acb-4c00-baa7-6bdb7042ad06"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2add5de3-5c88-4084-8a97-fd00cb2bcf01",
         "6caf383e-08c8-4a82-ba06-4dc5ff1943d5",
@@ -529,6 +531,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
