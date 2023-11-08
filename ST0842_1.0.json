@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/666",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-01-07T00:00:00Z",
-  "earliestStartDate": "2021-11-12T00:00:00Z",
+  "changedDate": "2022-01-07T00:00:00",
+  "earliestStartDate": "2021-11-12T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Take charge of a vessel’s safety, security and navigation during operations both at sea and when in harbour.",
@@ -274,7 +274,6 @@
       "detail": "Implement own organisations security procedures, instructing the crew accordingly."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -307,8 +306,11 @@
   "reviewDetails": "",
   "pathway": "Transport",
   "cluster": "Driver/Crewmember",
+  "clusterId": "82",
+  "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
   "createdDate": "2021-09-10T13:27:28 +00:00",
   "lastUpdated": "2022-01-07T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/officer-of-the-watch-near-coastal-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/officer-of-the-watch-near-coastal-v1-0",
   "qualifications": [
@@ -429,7 +431,7 @@
         "fc5b8a47-f168-4b03-8f01-f139815ad12f",
         "55eaf2f4-e165-4d03-9c89-97acf246bbeb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2cb08a64-225e-4d63-9d19-52c5f1cd6d73",
         "1388edef-195b-46f5-9a4c-f2af4dd725e3",
@@ -460,7 +462,7 @@
         "b8c6a72b-af75-405c-b787-156ba738a5ea",
         "55eaf2f4-e165-4d03-9c89-97acf246bbeb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f6dde361-f559-4fe1-bb24-a256bc463e5f",
         "0b4cbe35-97bd-4aa3-94ac-fdb80c033aae",
@@ -490,7 +492,7 @@
         "b8c6a72b-af75-405c-b787-156ba738a5ea",
         "55eaf2f4-e165-4d03-9c89-97acf246bbeb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f6dde361-f559-4fe1-bb24-a256bc463e5f",
         "0b4cbe35-97bd-4aa3-94ac-fdb80c033aae",
@@ -517,7 +519,7 @@
         "3d0b0b67-a789-4d21-acc0-8b27aad60cdc",
         "b8c6a72b-af75-405c-b787-156ba738a5ea"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f6dde361-f559-4fe1-bb24-a256bc463e5f",
         "0b4cbe35-97bd-4aa3-94ac-fdb80c033aae",
@@ -544,7 +546,7 @@
         "3d0b0b67-a789-4d21-acc0-8b27aad60cdc",
         "5433fc6a-f97f-47bb-af12-a3ba8ee800f7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f6dde361-f559-4fe1-bb24-a256bc463e5f",
         "0b4cbe35-97bd-4aa3-94ac-fdb80c033aae",
@@ -572,7 +574,7 @@
         "751af7a2-aa0c-45f1-a5ed-ee60acb4cfa0",
         "a9b6a5b1-6a7f-4b51-aeb1-4f42e9d69447"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2cb08a64-225e-4d63-9d19-52c5f1cd6d73",
         "715f1423-f252-4a61-a09b-9c5d3eb1b353",
@@ -607,7 +609,7 @@
         "65bdb91d-12c1-4521-9a95-a866f44a7300",
         "a9b6a5b1-6a7f-4b51-aeb1-4f42e9d69447"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2cb08a64-225e-4d63-9d19-52c5f1cd6d73",
         "1388edef-195b-46f5-9a4c-f2af4dd725e3",
@@ -642,7 +644,7 @@
         "65bdb91d-12c1-4521-9a95-a866f44a7300",
         "55eaf2f4-e165-4d03-9c89-97acf246bbeb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1388edef-195b-46f5-9a4c-f2af4dd725e3",
         "6ad1a365-2ddc-4344-a536-751338979561",
@@ -669,7 +671,7 @@
         "5433fc6a-f97f-47bb-af12-a3ba8ee800f7",
         "2531e675-1caa-4f96-8989-6cef1292f286"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "82374999-62a0-4013-9cb9-2dca886a33c6",
         "62df1af1-b1b0-4f7a-afdf-b41606ff1eda",
@@ -700,7 +702,7 @@
         "dcb47c5a-32e9-4ba1-a8df-c99dd874cdf0",
         "55eaf2f4-e165-4d03-9c89-97acf246bbeb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6ad1a365-2ddc-4344-a536-751338979561",
         "0e7b6e43-9af6-4c03-857a-4af49ecc0439",
@@ -725,7 +727,7 @@
         "dcb47c5a-32e9-4ba1-a8df-c99dd874cdf0",
         "55eaf2f4-e165-4d03-9c89-97acf246bbeb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f6dde361-f559-4fe1-bb24-a256bc463e5f",
         "0b4cbe35-97bd-4aa3-94ac-fdb80c033aae",
@@ -748,7 +750,7 @@
         "f1668436-92c6-4e19-a4eb-acdeeaeca391",
         "51bf1fe3-e2bb-4459-869f-aaeb11b184ed"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0e7b6e43-9af6-4c03-857a-4af49ecc0439",
         "bcbfdb24-2945-4bc9-bb43-ac0d5b8b57b0",
@@ -774,7 +776,7 @@
         "5433fc6a-f97f-47bb-af12-a3ba8ee800f7",
         "dcb47c5a-32e9-4ba1-a8df-c99dd874cdf0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c0d88d99-8ee5-4f3a-9d31-c2ebb04d8635",
         "bcbfdb24-2945-4bc9-bb43-ac0d5b8b57b0",
@@ -799,7 +801,7 @@
         "3d0b0b67-a789-4d21-acc0-8b27aad60cdc",
         "5433fc6a-f97f-47bb-af12-a3ba8ee800f7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8dc88110-856f-4ebf-bfa6-6a47faf92679",
         "8054b3e4-bfeb-4402-9fb2-72e0f173c6ab",
@@ -824,7 +826,7 @@
         "fc5b8a47-f168-4b03-8f01-f139815ad12f",
         "55eaf2f4-e165-4d03-9c89-97acf246bbeb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ce6eb54f-6cce-46fc-8874-ce9d286af402",
         "b19455e4-f1da-4839-aa48-fe6c671e284b"
@@ -847,7 +849,7 @@
         "3d0b0b67-a789-4d21-acc0-8b27aad60cdc",
         "5433fc6a-f97f-47bb-af12-a3ba8ee800f7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f6dde361-f559-4fe1-bb24-a256bc463e5f",
         "c0d88d99-8ee5-4f3a-9d31-c2ebb04d8635",
@@ -856,6 +858,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training Provider",
