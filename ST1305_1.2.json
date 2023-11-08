@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/691",
   "versionNumber": "1.2",
   "change": "Standard and end point assessment plan revised",
-  "changedDate": "2023-03-01T00:00:00Z",
-  "earliestStartDate": "2022-12-20T00:00:00Z",
-  "latestStartDate": "2023-02-28T00:00:00Z",
+  "changedDate": "2023-03-01T00:00:00",
+  "earliestStartDate": "2022-12-20T00:00:00",
+  "latestStartDate": "2023-02-28T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Setting up machines prior to production as well as monitoring and correcting them as needed.",
   "level": 3,
@@ -273,7 +273,6 @@
       "detail": "Apply team working principles."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -321,8 +320,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing and Process Operative/Technician",
+  "clusterId": "262",
+  "clusterDescription": "Assemble and construct complex engineering products",
   "createdDate": "2023-01-23T16:03:20 +00:00",
   "lastUpdated": "2023-03-01T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/machining-technician-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/machining-technician-v1-2",
   "qualifications": [
@@ -372,7 +374,7 @@
         "6eef06e8-61ac-4881-b80c-fa15732199f7",
         "a04c88a5-661b-4f96-8663-5e03246c4f9c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c486afaa-2f28-4a98-9868-aa0eaa96b335",
         "44b659c9-9e20-4af3-9683-42d4bf4a3cd7",
@@ -395,7 +397,7 @@
         "6c6bdfe4-ed22-416c-9698-46d1daacf9f0",
         "9024600e-50c0-4f8a-82c3-075737d267fc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "057a89c9-ce27-4246-a159-8b2e70f83274",
         "badf7251-f38f-43d8-961e-09b0c1d5a812",
@@ -416,7 +418,7 @@
         "5e3a7426-7a70-4faf-a1e3-38d3ef7f6e78",
         "28f55505-750b-46fc-93c1-89a36299f893"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3d69dd36-8f63-44d0-ba6f-50e4f58d8457",
         "19d3625b-b425-447b-873a-40f18882b87b",
@@ -436,7 +438,7 @@
         "9024600e-50c0-4f8a-82c3-075737d267fc",
         "9c062759-5a41-4f2d-a3d4-63157d7f9caa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "057a89c9-ce27-4246-a159-8b2e70f83274",
         "7d42e797-5e84-4b9a-8692-758bf2951a30",
@@ -457,7 +459,7 @@
       "mappedKnowledge": [
         "5d69d4ae-d0ab-49ad-bdc3-e7114f77db27"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "67e62508-abf2-4039-821c-d2ba6e306618",
         "7d42e797-5e84-4b9a-8692-758bf2951a30",
@@ -477,7 +479,7 @@
       "mappedKnowledge": [
         "e65cd062-8288-49a0-b05d-0c95261bc167"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7d42e797-5e84-4b9a-8692-758bf2951a30",
         "9aea6e76-6bc8-4029-a521-b782b1f903dd",
@@ -502,7 +504,7 @@
         "6f0b9417-eb28-4c5f-8245-ea5224009ecb",
         "f21377a5-cf54-4afa-8504-520d6f9800c4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "47463728-d410-4d93-aa7f-7bf636ee8af5",
         "10423c88-4928-4650-865f-8f6e4249c792",
@@ -520,7 +522,7 @@
       "mappedKnowledge": [
         "bb07871f-8366-452e-afce-389e754835d2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0840d387-5fb6-4555-9739-be63e2a884c2",
         "74b609d4-f196-4860-8ba1-58dbad376947",
@@ -541,7 +543,7 @@
         "69d8a5ff-0041-4338-adc2-e4b4261b7380",
         "eed185d0-55e5-4621-a91b-6cc81d78c1be"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "19d3625b-b425-447b-873a-40f18882b87b",
         "7d42e797-5e84-4b9a-8692-758bf2951a30",
@@ -560,7 +562,7 @@
       "mappedKnowledge": [
         "e54fb28b-4a31-4c89-b9ff-7d4db4955f47"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2763dde9-2c73-466f-adf5-46c05af44f4c",
         "01912fcd-ede3-482a-aa6a-4025b59287b9",
@@ -581,7 +583,7 @@
         "95a84ac6-9497-4766-92e0-647a469afe75",
         "d26b24c2-e7b2-43ba-a544-f96fcb92e105"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "96b1c51e-6581-4cad-8a4a-6594d8f9454b",
         "23e7d3a8-d440-4d1e-ab12-beade525641c",
@@ -599,7 +601,7 @@
       "mappedKnowledge": [
         "e54fb28b-4a31-4c89-b9ff-7d4db4955f47"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "01912fcd-ede3-482a-aa6a-4025b59287b9",
         "23e7d3a8-d440-4d1e-ab12-beade525641c"
@@ -620,7 +622,7 @@
         "0440039d-ada2-4a28-801f-2cea1bd4823c",
         "5e90b1e0-c7b5-4645-a491-0692a3b10f85"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6f35ae33-868b-451c-b4fd-a2545ad98bda",
         "23e7d3a8-d440-4d1e-ab12-beade525641c",
@@ -629,6 +631,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
