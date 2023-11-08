@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/404",
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised.",
-  "changedDate": "2022-12-06T00:00:00Z",
-  "earliestStartDate": "2022-12-06T00:00:00Z",
+  "changedDate": "2022-12-06T00:00:00",
+  "earliestStartDate": "2022-12-06T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Carrying out the installation or maintenance, repair and modernisation of lifts and escalators.",
@@ -386,24 +386,6 @@
       "detail": "Check/ adjust and repair tensioning systems used on escalators/ moving walks."
     }
   ],
-  "options": [
-    {
-      "optionId": "0b4b96eb-9fbf-4d55-a1b9-d30f7172ce79",
-      "title": "Lift Installation"
-    },
-    {
-      "optionId": "9446eb86-abb1-4b43-ac5b-9882b215e2f8",
-      "title": "Escalator and Moving Walk Installation"
-    },
-    {
-      "optionId": "f6778835-dd05-4421-b865-7b2ee71cff72",
-      "title": "Lift Service and Repair"
-    },
-    {
-      "optionId": "ff1c4f4d-8d99-4339-8c4a-bd3937ec98cd",
-      "title": "Escalator and Moving Walk Service and Repair"
-    }
-  ],
   "optionsUnstructuredTemplate": [
     "Lift Installation",
     "Escalator and Moving Walk Installation",
@@ -440,13 +422,38 @@
   "reviewDetails": "",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2022-12-06T10:19:02 +00:00",
   "lastUpdated": "2022-12-06T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/lift-and-escalator-electromechanic-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/lift-and-escalator-electromechanic-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
+  "options": [
+    {
+      "optionId": "0b4b96eb-9fbf-4d55-a1b9-d30f7172ce79",
+      "title": "Lift Installation",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "9446eb86-abb1-4b43-ac5b-9882b215e2f8",
+      "title": "Escalator and Moving Walk Installation",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "f6778835-dd05-4421-b865-7b2ee71cff72",
+      "title": "Lift Service and Repair",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "ff1c4f4d-8d99-4339-8c4a-bd3937ec98cd",
+      "title": "Escalator and Moving Walk Service and Repair",
+      "occupationCode": ""
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
