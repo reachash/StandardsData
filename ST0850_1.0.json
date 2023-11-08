@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/589",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2020-08-07T00:00:00Z",
-  "earliestStartDate": "2020-08-07T00:00:00Z",
+  "changedDate": "2020-08-07T00:00:00",
+  "earliestStartDate": "2020-08-07T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Investigate and reconstruct road traffic and other vehicle-related incidents using scientific and engineering principles to determine how an incident occurred.",
@@ -284,7 +284,6 @@
       "detail": "From research develop valid and robust conclusions based on observations."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -318,8 +317,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Science",
   "cluster": "Science Professional",
+  "clusterId": "213",
+  "clusterDescription": "Define and lead science-based research projects to derive academic and applied information of value",
   "createdDate": "2020-04-21T15:37:50 +00:00",
   "lastUpdated": "2020-08-07T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/forensic-collision-investigator-integrated-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/forensic-collision-investigator-integrated-degree-v1-0",
   "qualifications": [
@@ -375,7 +377,7 @@
         "7c907c9a-83e2-4d94-9031-ea098636318b",
         "b807d2ca-f3b8-4969-9e78-1df94f3c70a8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7d26ecb2-fb02-4955-9147-969aaf5de1cb",
         "4d1c8e4c-814a-4ada-86c2-3271afdb8221",
@@ -441,7 +443,7 @@
         "7c907c9a-83e2-4d94-9031-ea098636318b",
         "b807d2ca-f3b8-4969-9e78-1df94f3c70a8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "382dc88f-06f7-45d2-a17a-51885f1f354e",
         "7d26ecb2-fb02-4955-9147-969aaf5de1cb",
@@ -489,7 +491,7 @@
         "0a997b66-a7cf-421b-b910-d4a8c0dd13b0",
         "b807d2ca-f3b8-4969-9e78-1df94f3c70a8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "382dc88f-06f7-45d2-a17a-51885f1f354e",
         "8ed165cb-d7b2-46b4-b70f-dab60e2bc6a4"
@@ -510,7 +512,7 @@
         "d601b618-a302-4404-b3e0-62568b8e1727",
         "b807d2ca-f3b8-4969-9e78-1df94f3c70a8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7d26ecb2-fb02-4955-9147-969aaf5de1cb",
         "4d1c8e4c-814a-4ada-86c2-3271afdb8221",
@@ -532,7 +534,7 @@
       "mappedKnowledge": [
         "bcfa48ee-3362-49ac-be4b-a819349b40bc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "061c2968-4318-4973-9cfb-a4dda191e0a9",
         "a9e7b571-adb5-4f81-98b4-8fb2bfa89c4a",
@@ -555,7 +557,7 @@
         "d601b618-a302-4404-b3e0-62568b8e1727",
         "75df7d0c-4249-4c5c-b1b8-41589c9f18e9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "382dc88f-06f7-45d2-a17a-51885f1f354e",
         "7d26ecb2-fb02-4955-9147-969aaf5de1cb",
@@ -580,7 +582,7 @@
       "mappedKnowledge": [
         "76c41766-bec2-4a44-b6a8-31566a5e7d34"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0d69a247-ef70-4bea-8f4e-44595be8c8c9"
       ],
@@ -603,7 +605,7 @@
         "33c8a79c-5db6-4ced-81f4-906f4fdb043c",
         "f4e0c975-6d85-4b59-a42e-7b66b1397a93"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "382dc88f-06f7-45d2-a17a-51885f1f354e",
         "d3b10fba-f64d-46e9-ab26-6b3dc79cf669",
@@ -639,7 +641,7 @@
         "f4e0c975-6d85-4b59-a42e-7b66b1397a93",
         "75df7d0c-4249-4c5c-b1b8-41589c9f18e9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "70d53198-4331-400c-b844-39ef3997d857",
         "d3b10fba-f64d-46e9-ab26-6b3dc79cf669",
@@ -667,7 +669,7 @@
       "mappedKnowledge": [
         "338ef4d4-0b65-4677-ae83-0eecc83fa8e7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e9055505-9bf7-46b3-9bed-da9646eda503",
         "193dec2b-fa7f-4912-8f79-88ea61d4944d",
@@ -694,7 +696,7 @@
         "f4e0c975-6d85-4b59-a42e-7b66b1397a93",
         "75df7d0c-4249-4c5c-b1b8-41589c9f18e9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "70d53198-4331-400c-b844-39ef3997d857",
         "d3b10fba-f64d-46e9-ab26-6b3dc79cf669",
@@ -721,7 +723,7 @@
       "mappedKnowledge": [
         "76c41766-bec2-4a44-b6a8-31566a5e7d34"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7d26ecb2-fb02-4955-9147-969aaf5de1cb",
         "7e242cc7-d9bc-4b79-b2ab-50d8f62288be",
@@ -743,7 +745,7 @@
       "mappedKnowledge": [
         "76c41766-bec2-4a44-b6a8-31566a5e7d34"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7e242cc7-d9bc-4b79-b2ab-50d8f62288be"
       ],
@@ -763,7 +765,7 @@
       "mappedKnowledge": [
         "76c41766-bec2-4a44-b6a8-31566a5e7d34"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7e242cc7-d9bc-4b79-b2ab-50d8f62288be"
       ],
@@ -782,13 +784,14 @@
       "mappedKnowledge": [
         "7c907c9a-83e2-4d94-9031-ea098636318b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "16bef6d4-04aa-4e00-91c0-d1bf148ecb74"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
