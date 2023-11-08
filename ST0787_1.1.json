@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/556",
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised",
-  "changedDate": "2023-07-06T00:00:00Z",
-  "earliestStartDate": "2023-07-06T00:00:00Z",
+  "changedDate": "2023-07-06T00:00:00",
+  "earliestStartDate": "2023-07-06T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Support decision-makers in strategic and leadership roles to understand and address complex and sometimes even ‘wicked’ problems through provision of expert systemic analysis, advice and facilitation.",
@@ -143,7 +143,6 @@
       "detail": "Assessment and evaluation  •\tDevelops and implements suitable monitoring and evaluation criteria and mechanisms, aware of the influence that different system methods can have in situations."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -176,8 +175,11 @@
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
   "pathway": "Management and Administration",
   "cluster": "Management Professional",
+  "clusterId": "68",
+  "clusterDescription": "Leader of a business process and/or unit requiring the ability to analyse and improve complex business-wide processes and risks. Also includes the ability to provide a full range of company legal and financial knowledge relevant to running a company",
   "createdDate": "2023-07-06T09:06:34 +00:00",
   "lastUpdated": "2023-07-06T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/systems-thinking-practitioner-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/systems-thinking-practitioner-v1-1",
   "qualifications": [],
@@ -207,7 +209,7 @@
         "57a5f55f-00cb-42ec-a1ad-3466b4aa9490",
         "6b5b5702-5d79-40a3-b9a0-285d2cbe28c9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7c41e796-aa82-40d6-96db-a079b1ed870f",
         "4aad0400-94b4-4696-8691-1474a910cb63"
@@ -228,7 +230,7 @@
         "57a5f55f-00cb-42ec-a1ad-3466b4aa9490",
         "0934f5aa-a53b-4cd4-8b0c-896693032070"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1f10714f-f1c0-43d7-b702-49e67e953ea8",
         "3421386b-bcff-4746-8703-2e9d1f918569",
@@ -256,7 +258,7 @@
         "0934f5aa-a53b-4cd4-8b0c-896693032070",
         "6b5b5702-5d79-40a3-b9a0-285d2cbe28c9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3421386b-bcff-4746-8703-2e9d1f918569",
         "6e287c07-910c-478e-bdbf-c8396f83339b",
@@ -278,7 +280,7 @@
       "mappedKnowledge": [
         "6b5b5702-5d79-40a3-b9a0-285d2cbe28c9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7c41e796-aa82-40d6-96db-a079b1ed870f",
         "4aad0400-94b4-4696-8691-1474a910cb63",
@@ -300,7 +302,7 @@
         "0934f5aa-a53b-4cd4-8b0c-896693032070",
         "6b5b5702-5d79-40a3-b9a0-285d2cbe28c9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "eadbec94-bdc0-4179-854e-59c3dc26344b",
         "a60d7a79-ab86-4b4b-aefa-33a896f2d8a8",
@@ -325,7 +327,7 @@
         "0934f5aa-a53b-4cd4-8b0c-896693032070",
         "6b5b5702-5d79-40a3-b9a0-285d2cbe28c9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "eadbec94-bdc0-4179-854e-59c3dc26344b",
         "7c41e796-aa82-40d6-96db-a079b1ed870f",
@@ -346,7 +348,7 @@
         "0934f5aa-a53b-4cd4-8b0c-896693032070",
         "6b5b5702-5d79-40a3-b9a0-285d2cbe28c9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1f10714f-f1c0-43d7-b702-49e67e953ea8",
         "eadbec94-bdc0-4179-854e-59c3dc26344b",
@@ -369,7 +371,7 @@
         "6b5b5702-5d79-40a3-b9a0-285d2cbe28c9",
         "14a82f0f-518c-4530-9909-49df63d172d9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7c41e796-aa82-40d6-96db-a079b1ed870f",
         "58aef508-9d96-4d5f-8e6a-a1c162281929"
@@ -392,7 +394,7 @@
         "0934f5aa-a53b-4cd4-8b0c-896693032070",
         "6b5b5702-5d79-40a3-b9a0-285d2cbe28c9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "eadbec94-bdc0-4179-854e-59c3dc26344b",
         "a60d7a79-ab86-4b4b-aefa-33a896f2d8a8",
@@ -413,7 +415,7 @@
         "6b5b5702-5d79-40a3-b9a0-285d2cbe28c9",
         "14a82f0f-518c-4530-9909-49df63d172d9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e287c07-910c-478e-bdbf-c8396f83339b",
         "80b6879e-8c97-4e81-9a90-aca3d626e316",
@@ -434,7 +436,7 @@
       "mappedKnowledge": [
         "e6ce75f3-9205-4fb1-8116-62f3475d2392"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7c41e796-aa82-40d6-96db-a079b1ed870f",
         "80b6879e-8c97-4e81-9a90-aca3d626e316",
@@ -454,7 +456,7 @@
         "6b5b5702-5d79-40a3-b9a0-285d2cbe28c9",
         "14a82f0f-518c-4530-9909-49df63d172d9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "80b6879e-8c97-4e81-9a90-aca3d626e316",
         "89c19cb1-64b3-4cbe-812e-2cb733d01694"
@@ -462,6 +464,7 @@
       "criteriaForMeasuringPerformance": "Monitoring and evaluation plan and process. Synthesis of outcomes, impacts, consequences, stakeholder experience, learning; accessible reporting that enables future action decisions."
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
