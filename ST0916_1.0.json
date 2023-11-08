@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/700",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-02-28T00:00:00Z",
-  "earliestStartDate": "2023-02-28T00:00:00Z",
+  "changedDate": "2023-02-28T00:00:00",
+  "earliestStartDate": "2023-02-28T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Discuss the scenic art requirements with the designer or scenic manager to translate their vision into the reality of what the audience sees.",
@@ -21,7 +21,8 @@
     "artist",
     "vision",
     "designer",
-    "creative"
+    "creative",
+    "theatre"
   ],
   "jobRoles": [
     "Scenic artist",
@@ -247,7 +248,6 @@
       "detail": "Maintain safe working practices and efficient use of hand tools, machinery, materials and resources."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -281,8 +281,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Craft and Design",
   "cluster": "Design Technician",
+  "clusterId": "232",
+  "clusterDescription": "Apply creative skills and crafting techniques to the design and development of products and graphics.",
   "createdDate": "2022-12-05T15:30:28 +00:00",
   "lastUpdated": "2023-02-28T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/scenic-artist-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/scenic-artist-v1-0",
   "qualifications": [],
@@ -308,7 +311,7 @@
         "3aa63617-0625-479f-9f9c-5ed9f1041b99",
         "e9082f03-c951-498e-8f5d-42583475f637"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9a08be4-c98a-40c0-93cd-134e7ea681cb",
         "cac5a595-8aaa-40ee-8237-a7341e94e8a2",
@@ -331,7 +334,7 @@
         "43b96464-2da0-43cf-a76f-292a7509a958",
         "60135b60-1b59-43ad-a500-66949100ad31"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9a08be4-c98a-40c0-93cd-134e7ea681cb",
         "cab8b525-ba06-46c6-8997-755937008c41",
@@ -360,7 +363,7 @@
         "a0c9c75e-2861-48ad-a2c1-c3f17853c02c",
         "41b2c215-dff9-4257-a348-336c22d34caf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3bf800c7-aded-4ad7-90f5-726d2b312db4",
         "1114337b-5049-4360-b2aa-3ef78279e05e",
@@ -395,7 +398,7 @@
         "3aa63617-0625-479f-9f9c-5ed9f1041b99",
         "588b39cc-0104-44ad-a20c-8c0c2864098a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9a08be4-c98a-40c0-93cd-134e7ea681cb",
         "3bf800c7-aded-4ad7-90f5-726d2b312db4",
@@ -441,7 +444,7 @@
         "41b2c215-dff9-4257-a348-336c22d34caf",
         "e9082f03-c951-498e-8f5d-42583475f637"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9a08be4-c98a-40c0-93cd-134e7ea681cb",
         "3bf800c7-aded-4ad7-90f5-726d2b312db4",
@@ -472,7 +475,7 @@
         "41b2c215-dff9-4257-a348-336c22d34caf",
         "e9082f03-c951-498e-8f5d-42583475f637"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cac5a595-8aaa-40ee-8237-a7341e94e8a2",
         "f57abfff-c814-4006-896f-7a2e648067d0",
@@ -496,7 +499,7 @@
         "3aa63617-0625-479f-9f9c-5ed9f1041b99",
         "588b39cc-0104-44ad-a20c-8c0c2864098a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9a08be4-c98a-40c0-93cd-134e7ea681cb",
         "cac5a595-8aaa-40ee-8237-a7341e94e8a2",
@@ -530,7 +533,7 @@
         "3aa63617-0625-479f-9f9c-5ed9f1041b99",
         "e9082f03-c951-498e-8f5d-42583475f637"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9a08be4-c98a-40c0-93cd-134e7ea681cb",
         "cac5a595-8aaa-40ee-8237-a7341e94e8a2",
@@ -565,7 +568,7 @@
         "a0c9c75e-2861-48ad-a2c1-c3f17853c02c",
         "ce7a654b-d9cf-49ec-a8d3-1bba3beb4856"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9a08be4-c98a-40c0-93cd-134e7ea681cb",
         "cac5a595-8aaa-40ee-8237-a7341e94e8a2",
@@ -593,7 +596,7 @@
         "41b2c215-dff9-4257-a348-336c22d34caf",
         "e9082f03-c951-498e-8f5d-42583475f637"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cac5a595-8aaa-40ee-8237-a7341e94e8a2",
         "d4fa9130-e6fe-4fca-bbb9-a3625bc9c7c4",
@@ -605,6 +608,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
