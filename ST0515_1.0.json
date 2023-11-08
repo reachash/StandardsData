@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/417",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-04-30T00:00:00Z",
-  "earliestStartDate": "2019-02-22T00:00:00Z",
+  "changedDate": "2021-04-30T00:00:00",
+  "earliestStartDate": "2019-02-22T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Overseeing manufacturing processes to ensure that performance output meets customer expectations.",
@@ -258,7 +258,6 @@
       "detail": "F&D. Promoting food safety culture"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -292,8 +291,11 @@
   "reviewDetails": "&lt;p&gt;This standard will be reviewed after three years.&lt;/p&gt;",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing Engineer",
+  "clusterId": "263",
+  "clusterDescription": "Introduce complex technologies into the manufacturing environment and improve manufacturing technologies",
   "createdDate": "2020-08-27T11:02:36 +00:00",
   "lastUpdated": "2021-04-30T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/manufacturing-manager-integrated-degree-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/manufacturing-manager-integrated-degree-v1-0",
   "qualifications": [
@@ -329,7 +331,7 @@
         "8fd553e0-b5bc-4e5c-b075-504effaa9bc6",
         "a2349d3c-a21c-4fa1-bed2-5451c6acef6e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6b5b5dc5-68c3-4c02-bc06-ad87d722972c",
         "64df531d-b84a-4b73-ab2d-68c6ac9f252f",
@@ -368,7 +370,7 @@
         "99d59015-6875-4f3e-a538-c1fd872008d2",
         "a2349d3c-a21c-4fa1-bed2-5451c6acef6e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "64df531d-b84a-4b73-ab2d-68c6ac9f252f",
         "bd9aeb99-ab8f-4b31-8246-3757733350a5",
@@ -405,7 +407,7 @@
         "9c9bff3c-f2d8-4528-856a-b75ee82506ba",
         "a2349d3c-a21c-4fa1-bed2-5451c6acef6e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "64df531d-b84a-4b73-ab2d-68c6ac9f252f",
         "bd9aeb99-ab8f-4b31-8246-3757733350a5",
@@ -434,7 +436,7 @@
         "a8ab1a16-55cf-4924-bc58-6f09254759c0",
         "9faec103-1643-4f19-900d-769fe1cfb8c2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "64df531d-b84a-4b73-ab2d-68c6ac9f252f",
         "bd9aeb99-ab8f-4b31-8246-3757733350a5",
@@ -461,7 +463,7 @@
         "ccc3df99-d085-4ebc-a615-740650979fa2",
         "79f12bad-7ee2-49a9-ad5c-521a9a98c027"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6fec5ee0-e0d9-422d-891f-4b5d85ed4468",
         "015d10d1-5da3-43eb-a38b-854c6d5015d2",
@@ -486,7 +488,7 @@
         "2dcd1c60-abeb-4674-a4a6-e4e0424a43f6",
         "79f12bad-7ee2-49a9-ad5c-521a9a98c027"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "64df531d-b84a-4b73-ab2d-68c6ac9f252f",
         "bd9aeb99-ab8f-4b31-8246-3757733350a5",
@@ -517,7 +519,7 @@
         "7ec74181-81c3-469f-b171-07118a4beaf0",
         "8fd553e0-b5bc-4e5c-b075-504effaa9bc6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "64df531d-b84a-4b73-ab2d-68c6ac9f252f",
         "bd9aeb99-ab8f-4b31-8246-3757733350a5",
@@ -556,7 +558,7 @@
         "8fd553e0-b5bc-4e5c-b075-504effaa9bc6",
         "a2349d3c-a21c-4fa1-bed2-5451c6acef6e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6b5b5dc5-68c3-4c02-bc06-ad87d722972c",
         "64df531d-b84a-4b73-ab2d-68c6ac9f252f",
@@ -596,7 +598,7 @@
         "9c9bff3c-f2d8-4528-856a-b75ee82506ba",
         "a2349d3c-a21c-4fa1-bed2-5451c6acef6e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "64df531d-b84a-4b73-ab2d-68c6ac9f252f",
         "bd9aeb99-ab8f-4b31-8246-3757733350a5",
@@ -636,7 +638,7 @@
         "293e8a6b-6bd6-4b4b-9a7e-00bb9675fcc8",
         "99d59015-6875-4f3e-a538-c1fd872008d2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "64df531d-b84a-4b73-ab2d-68c6ac9f252f",
         "bd9aeb99-ab8f-4b31-8246-3757733350a5",
@@ -676,7 +678,7 @@
         "a9dcdb05-23ef-4327-9a60-406c2db3f554",
         "99d59015-6875-4f3e-a538-c1fd872008d2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6b5b5dc5-68c3-4c02-bc06-ad87d722972c",
         "64df531d-b84a-4b73-ab2d-68c6ac9f252f",
@@ -709,7 +711,7 @@
         "79f12bad-7ee2-49a9-ad5c-521a9a98c027",
         "3b5ce168-c7e3-4a60-b3f9-1e5413dbe431"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "64df531d-b84a-4b73-ab2d-68c6ac9f252f",
         "a6598a10-d573-413f-873c-6e25d32f7a42",
@@ -978,7 +980,7 @@
       "dutyID": "34675486-be46-45c9-8b98-8c36da29704e",
       "dutyDetail": "Participating in quality checks including taste panels",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0d6604d4-6d4d-43ea-bc6c-13d967b7a5f8",
         "e4c2c892-8848-4ac9-a6bc-20db7a29f52e",
@@ -1004,6 +1006,7 @@
       "criteriaForMeasuringPerformance": "Correct analysis"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
