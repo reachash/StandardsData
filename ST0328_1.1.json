@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/183",
   "versionNumber": "1.1",
   "change": "Standard, funding band and end-point assessment plan revised",
-  "changedDate": "2023-03-07T00:00:00Z",
-  "earliestStartDate": "2022-07-22T00:00:00Z",
+  "changedDate": "2023-03-07T00:00:00",
+  "earliestStartDate": "2022-07-22T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Making and repairing saddlery products.",
@@ -248,7 +248,6 @@
       "detail": "Assemble completed saddlery product, maintaining the quality of hand craft skills and ensuring functionality."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -279,10 +278,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This standard will be reviewed in 3 years.&#160;&lt;/span&gt;&lt;/p&gt;",
-  "pathway": "Craft and Design",
-  "cluster": "Heritage Craftsperson",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2022-07-07T08:00:46 +00:00",
   "lastUpdated": "2023-03-07T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/bespoke-saddler-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/bespoke-saddler-v1-1",
   "qualifications": [
@@ -312,7 +314,7 @@
       "mappedKnowledge": [
         "a4eb5d76-9a6e-473c-a472-2815a8f7e7dc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6ae616ad-8de7-487e-a07c-72cd856845a2",
         "8c3006fd-7a81-4ebc-b794-1909e1f54b3d"
@@ -323,14 +325,14 @@
       "dutyID": "f955c8b1-d287-4c6e-9378-a5b103efa648",
       "dutyDetail": "Assess and evaluate the bespoke specification for the bridle and saddle to be made. As examples, specifications, style, quality, size, colour and timeline.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "13514a69-7d29-47d3-97b7-fa01bfab0127",
         "cffa4777-3893-4c38-b5ae-dd5233c6fd8c",
         "191904f1-9b49-4a28-9069-4ee349db97e8",
         "0cf2869a-e298-4332-be9e-9282b44ee6ad"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6ae616ad-8de7-487e-a07c-72cd856845a2",
         "02ff7a96-66a5-42c4-a9d4-62e2ac0134fa"
@@ -349,7 +351,7 @@
         "44b78b2d-4b9e-4747-922f-b6af5dbfcb1d",
         "8e815b35-81b6-4941-b589-7b9ba0a8be6f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aeac6033-740d-4fde-94bf-a0cf879862f8",
         "8c3006fd-7a81-4ebc-b794-1909e1f54b3d",
@@ -361,11 +363,11 @@
       "dutyID": "23fba521-8c17-4fbd-ba6d-0bd0b3eee0ab",
       "dutyDetail": "Create the necessary patterns.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0cf2869a-e298-4332-be9e-9282b44ee6ad"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "51c368ef-edb5-4f3d-bf7b-59493a028cc6"
       ],
@@ -382,7 +384,7 @@
         "c290b5de-1a6b-40bc-8299-62b9a1ea4b65",
         "4f01f227-f432-40e2-bf4c-9da84fd97617"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f253538a-ceba-48b4-bdc4-d0d62272247b",
         "0d8c007f-6214-43fa-b568-569b29a73e32",
@@ -394,12 +396,12 @@
       "dutyID": "8195fd11-cd98-4ff7-844d-12d8555521cf",
       "dutyDetail": "Select the appropriate tools and machinery to manufacture bespoke bridle and saddle production activity, to achieve quality within given timescales.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "3d6a8d46-7612-47b7-a586-9621c7f4ed3b",
         "c1442d7e-e817-4b31-84ea-d6c8fab54fa6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aeac6033-740d-4fde-94bf-a0cf879862f8",
         "881ef4e3-acc1-4f98-869a-6c30777d0865"
@@ -410,11 +412,11 @@
       "dutyID": "fa971b64-ba91-4384-bece-4d32a4727889",
       "dutyDetail": "Select leather, materials and ancillary fittings for the Bespoke Bridle and Saddle specification and report any shortages or quality issues.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "cffa4777-3893-4c38-b5ae-dd5233c6fd8c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aeac6033-740d-4fde-94bf-a0cf879862f8",
         "0a78618c-d63c-4dc2-8899-74d9e997d41e"
@@ -425,13 +427,13 @@
       "dutyID": "a5eb2953-7582-4d7f-8c8d-68134c035327",
       "dutyDetail": "Prepare and test hand tools, sewing machine, bench splitter and other equipment to enable the formation of the required bespoke components. For example, different types of leathers, threads, fittings and other materials.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "3d6a8d46-7612-47b7-a586-9621c7f4ed3b",
         "c1442d7e-e817-4b31-84ea-d6c8fab54fa6",
         "118ecef9-525c-4610-95d1-017c11478096"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "881ef4e3-acc1-4f98-869a-6c30777d0865",
         "f9dd7e9d-78ed-425b-8bc3-3b393be85228",
@@ -458,7 +460,7 @@
         "175f74d4-7649-4975-9e01-a246fb679663",
         "e7a7e946-4fd6-46f6-aa86-5bb78b23a6e1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "881ef4e3-acc1-4f98-869a-6c30777d0865",
         "594b74b0-2cac-4a6d-929d-d0ecf78c58d6",
@@ -480,11 +482,11 @@
       "dutyID": "c1cf338c-b8e0-4042-8238-fd9db934a264",
       "dutyDetail": "Communicate and report issues internally throughout the production process which impact quality, quantity and meeting deadlines. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "35518b68-b902-42a0-b039-113b50a6b3dc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "50f86fe0-003c-4dec-a668-e2ac306e19ca",
         "273b01f7-ed3d-46e7-938f-37c8b1144b76"
@@ -495,11 +497,11 @@
       "dutyID": "1feb2a24-548c-48ee-bcdd-b98c0d81c395",
       "dutyDetail": "Inspect finished saddlery product against quality standards and bespoke specification.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "175f74d4-7649-4975-9e01-a246fb679663"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0900d8ae-8300-46b1-acc1-6685c50a468b",
         "1e207176-e013-4aec-b45a-5edb9707f633"
@@ -510,11 +512,11 @@
       "dutyID": "900ccf3d-a9ec-42ec-beac-ffc325a9b208",
       "dutyDetail": "Complete work documentation, communicating as needed with colleagues. For example, production sheets and job cards.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "3f8ee7dd-4cb0-468c-a422-bf37ed0f4fc7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aca285ad-0417-4e1a-b366-ec5043219516"
       ],
@@ -532,7 +534,7 @@
         "a9277fc6-f57a-41c2-a395-38d5ab9bfc64",
         "310c0a0a-a245-4945-9b36-ccee4bbf656f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9e808588-737c-4610-ae64-30782c16a61f"
       ],
@@ -551,7 +553,7 @@
         "191904f1-9b49-4a28-9069-4ee349db97e8",
         "4f01f227-f432-40e2-bf4c-9da84fd97617"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "39806906-a5b9-4778-bffa-b7687e8c2a21",
         "1e207176-e013-4aec-b45a-5edb9707f633"
@@ -559,6 +561,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
