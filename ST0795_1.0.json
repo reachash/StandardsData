@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/576",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-09-14T00:00:00Z",
-  "earliestStartDate": "2020-07-10T00:00:00Z",
+  "changedDate": "2023-09-14T00:00:00",
+  "earliestStartDate": "2020-07-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Source, format and present data securely in a relevant way for analysis.",
@@ -203,7 +203,6 @@
       "detail": "Prioritise within the context of a project."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -236,8 +235,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Digital Business Services",
   "cluster": "Data Analyst Technician",
+  "clusterId": "276",
+  "clusterDescription": "Source, format and present data securely in a relevant way for analysis using basic methods.",
   "createdDate": "2023-04-05T12:45:15 +00:00",
   "lastUpdated": "2023-09-14T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/data-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/data-technician-v1-0",
   "qualifications": [],
@@ -257,7 +259,7 @@
         "e386b323-0024-4950-b147-4b6dd4a7fdb8",
         "b4c2d702-89b3-4359-95d8-02ab7008d990"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bd88fdfb-803e-4761-9072-69fccb043f36"
       ],
@@ -275,7 +277,7 @@
       "mappedKnowledge": [
         "48ae8843-54ea-4018-bbe8-6b7535564abc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "04ba1f8b-f802-4aab-ac1b-810d572fd648",
         "3184d241-f673-4eea-8443-6de817e4ce9e"
@@ -294,7 +296,7 @@
         "7b5a8683-c0df-4c1e-a339-04a639857532",
         "d2f90559-7306-4bb5-8f78-40d6f624b692"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3467f5f5-04d4-48b9-b491-92a3090cee94"
       ],
@@ -312,7 +314,7 @@
       "mappedKnowledge": [
         "a57eb64d-5391-47c8-b07a-5b45bd4f1b42"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f42016e3-6cb7-49c2-a95c-a1b06e66c668",
         "32448eb9-eab2-495a-9c16-0baa5c1ff3bc",
@@ -338,7 +340,7 @@
         "1b88e93a-ecfc-4710-b7ea-7854076c3cfe",
         "73f30751-390c-4223-b678-ef7a0714c22b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "74e57b07-fba8-485a-a983-2a618275f3d7"
       ],
@@ -358,7 +360,7 @@
         "1aacd769-8109-4f46-8d80-abe0b1ed755f",
         "68c12897-ccc1-4994-a64e-31fbb04f7779"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3bd59a6e-2f8b-4796-b81b-8d74e248eed9",
         "99b027a0-5e0d-4ff8-8e62-0592e97cf697",
@@ -378,7 +380,7 @@
         "d2f90559-7306-4bb5-8f78-40d6f624b692",
         "5444c6b8-8d2d-4698-9a54-dff0e3d2d308"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ac4d95c4-c37c-40cd-81d6-bd608c34fabd",
         "41f21a4b-a6be-4f20-b7c7-4737d36782b9"
@@ -395,7 +397,7 @@
       "mappedKnowledge": [
         "95b628f8-bf18-4bfd-9c61-d1476bfd4334"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "065a6e18-a39b-43ce-9dc4-5b8cb31c123e",
         "499852da-645d-47dd-8524-692030dcc26d"
@@ -414,7 +416,7 @@
       "mappedKnowledge": [
         "e90d04e8-f8cc-4c8d-8c37-4b0aa90e4867"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "01e94c3e-d35e-4101-a55a-5b1bb5b7e071",
         "499852da-645d-47dd-8524-692030dcc26d",
@@ -437,7 +439,7 @@
         "b4c2d702-89b3-4359-95d8-02ab7008d990",
         "5c8cf482-dc54-4503-83c8-621568a661c5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aaba21b2-1b10-48ba-a907-90a4e545d418",
         "499852da-645d-47dd-8524-692030dcc26d",
@@ -448,6 +450,7 @@
       "criteriaForMeasuringPerformance": "Articulate the latest technology trends affecting data analysis and can communicate the impacts of latest trends"
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
