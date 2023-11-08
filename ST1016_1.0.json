@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/716",
   "versionNumber": "1.0",
   "change": "Approved for delivery ",
-  "changedDate": "2023-09-19T00:00:00Z",
-  "earliestStartDate": "2023-07-27T00:00:00Z",
+  "changedDate": "2023-09-19T00:00:00",
+  "earliestStartDate": "2023-07-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "To be an organisation’s first line of defence.",
@@ -491,24 +491,6 @@
       "detail": "Gather and store CCTV footage for evidential use."
     }
   ],
-  "options": [
-    {
-      "optionId": "b4e15f9f-6e2d-4538-9f4a-05efb259aad9",
-      "title": "Operational Security Operative "
-    },
-    {
-      "optionId": "b3b3c363-f3fe-47d7-87f6-1ae6750f0a0e",
-      "title": "Cash and Valuables in Transit Operative"
-    },
-    {
-      "optionId": "4cab78fe-601f-47ac-b769-6c52ec145b37",
-      "title": "Mobile Security Patrol Operative"
-    },
-    {
-      "optionId": "9c45d459-2290-4f0f-99e8-924315b3a076",
-      "title": "Security Control Room Operative"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -564,8 +546,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Protective Services",
   "cluster": "Protective Service Officer",
+  "clusterId": "15",
+  "clusterDescription": "Provide safety, security, prevention, enforcement, protection and investigation services largely on behalf of society",
   "createdDate": "2023-07-27T15:41:26 +00:00",
   "lastUpdated": "2023-09-19T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/professional-security-operative-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/professional-security-operative-v1-0",
   "qualifications": [
@@ -613,7 +598,7 @@
         "5c2a0b6a-7473-4289-a96a-7dbbeee9fbef",
         "aa948095-54af-4302-a2d2-69965ad010c7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "848d6ca6-4414-4cb9-bbdc-8cb00857a7d9",
         "2352b384-dd65-4485-9dfd-ad2df8cb8d60",
@@ -649,7 +634,7 @@
         "31874bde-29d7-4fb4-9426-028bbbe9a8ef",
         "b137b930-d556-4f99-879e-1c4ca2c1c22a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "057ed972-eaab-4339-9a48-ff29ee5e374c",
         "7a7bc43e-0ada-4bf7-94d8-966302dd5d58",
@@ -686,7 +671,7 @@
         "df8e859b-3ce8-4366-ae0b-20a001f7b408",
         "51b70b8e-33d0-4233-8cdb-a1b4d527ff13"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "848d6ca6-4414-4cb9-bbdc-8cb00857a7d9",
         "fcaa0a59-91bb-4fa7-b997-6cc5ac4baba7",
@@ -722,7 +707,7 @@
         "5c2a0b6a-7473-4289-a96a-7dbbeee9fbef",
         "c78cdfa4-add2-40c0-9181-00285527d11e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "848d6ca6-4414-4cb9-bbdc-8cb00857a7d9",
         "7a7bc43e-0ada-4bf7-94d8-966302dd5d58",
@@ -749,7 +734,7 @@
         "5c2a0b6a-7473-4289-a96a-7dbbeee9fbef",
         "d872e2f8-5646-4d25-84c4-bfa79bde994c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4dad808a-0383-43b3-adaa-2d3d157540b7",
         "ea1a19dd-8e7d-473b-9736-29ecee982184",
@@ -771,7 +756,7 @@
         "d93f07b4-1c6b-4ae6-8ff8-80afbc5bfe6f",
         "1f1d3ea8-fae3-451c-91b6-06fa29bcc1d7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "848d6ca6-4414-4cb9-bbdc-8cb00857a7d9",
         "4dad808a-0383-43b3-adaa-2d3d157540b7",
@@ -796,7 +781,7 @@
         "5c2a0b6a-7473-4289-a96a-7dbbeee9fbef",
         "e86af4b6-5d1d-4000-a68a-1754242d40f8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fcaa0a59-91bb-4fa7-b997-6cc5ac4baba7",
         "3c194007-12b5-42f7-a914-fbcb8bae2ee6",
@@ -819,7 +804,7 @@
         "5c2a0b6a-7473-4289-a96a-7dbbeee9fbef",
         "e86af4b6-5d1d-4000-a68a-1754242d40f8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fcaa0a59-91bb-4fa7-b997-6cc5ac4baba7",
         "3c194007-12b5-42f7-a914-fbcb8bae2ee6",
@@ -845,7 +830,7 @@
         "1592ec9f-7e12-41de-a1e6-8390eb1350e3",
         "b5f8e27a-81fe-4589-b6fd-377064ce1e9a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "848d6ca6-4414-4cb9-bbdc-8cb00857a7d9",
         "fcaa0a59-91bb-4fa7-b997-6cc5ac4baba7",
@@ -881,7 +866,7 @@
         "eb0f38ce-3b45-47af-8228-39faf6e2fd8b",
         "355738ab-43df-4786-b564-cca3bb08223d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fcaa0a59-91bb-4fa7-b997-6cc5ac4baba7",
         "ba7b6239-b6b7-41b5-bf60-eb6b5f0551c1",
@@ -923,7 +908,7 @@
         "31874bde-29d7-4fb4-9426-028bbbe9a8ef",
         "eaaa350e-1231-48bf-b70e-b15ca3d8876b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "848d6ca6-4414-4cb9-bbdc-8cb00857a7d9",
         "fcaa0a59-91bb-4fa7-b997-6cc5ac4baba7",
@@ -1117,7 +1102,7 @@
       "mappedOptions": [
         "b3b3c363-f3fe-47d7-87f6-1ae6750f0a0e"
       ],
-      "mappedSkills": null,
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -1186,7 +1171,7 @@
       "mappedOptions": [
         "b3b3c363-f3fe-47d7-87f6-1ae6750f0a0e"
       ],
-      "mappedSkills": null,
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -1222,7 +1207,7 @@
         "2daae0b3-2498-417d-8554-2582aec62f96",
         "3dd2b261-1ab7-4178-951c-46473d5794ff"
       ],
-      "mappedKnowledge": null,
+      "mappedKnowledge": [],
       "mappedOptions": [
         "b3b3c363-f3fe-47d7-87f6-1ae6750f0a0e"
       ],
@@ -1495,7 +1480,7 @@
       "mappedBehaviour": [
         "72142225-46ad-474b-ad7a-ddf4a19502ff"
       ],
-      "mappedKnowledge": null,
+      "mappedKnowledge": [],
       "mappedOptions": [
         "9c45d459-2290-4f0f-99e8-924315b3a076"
       ],
@@ -1556,6 +1541,28 @@
         "b1050303-c60e-4865-a81a-71b1fcf12910"
       ],
       "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "b4e15f9f-6e2d-4538-9f4a-05efb259aad9",
+      "title": "Operational Security Operative ",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "b3b3c363-f3fe-47d7-87f6-1ae6750f0a0e",
+      "title": "Cash and Valuables in Transit Operative",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "4cab78fe-601f-47ac-b769-6c52ec145b37",
+      "title": "Mobile Security Patrol Operative",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "9c45d459-2290-4f0f-99e8-924315b3a076",
+      "title": "Security Control Room Operative",
+      "occupationCode": ""
     }
   ],
   "regulationDetail": [],
