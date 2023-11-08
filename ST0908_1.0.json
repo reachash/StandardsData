@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/658",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-11-26T00:00:00Z",
-  "earliestStartDate": "2021-09-13T00:00:00Z",
+  "changedDate": "2021-11-26T00:00:00",
+  "earliestStartDate": "2021-09-13T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Ensure the efficient and effective arrival, turnaround and departure of aircraft.",
@@ -229,7 +229,6 @@
       "detail": "Take remedial action upon identification of faults or errors in a timely manner."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
@@ -262,8 +261,11 @@
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
   "pathway": "Transport",
   "cluster": "Transport Operations Operative/Technician",
+  "clusterId": "16",
+  "clusterDescription": "Support a transport facility's operation and/or support the loading and movement of a freight or passenger vehicle or vessel",
   "createdDate": "2021-08-17T15:10:27 +00:00",
   "lastUpdated": "2021-11-26T00:00:00 +00:00",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/aviation-ground-handler-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/aviation-ground-handler-v1-0",
   "qualifications": [
@@ -307,7 +309,7 @@
         "66ad965e-9d80-4dd7-9c6c-0468016584ff",
         "763d66fa-3a85-4226-9fa3-ac97e2d248b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65e20be9-a77d-44d7-8158-c7f327d636e6",
         "e3b4831d-8cd7-4dbc-a70f-ec16ad215bf9",
@@ -354,7 +356,7 @@
         "66ad965e-9d80-4dd7-9c6c-0468016584ff",
         "763d66fa-3a85-4226-9fa3-ac97e2d248b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65e20be9-a77d-44d7-8158-c7f327d636e6",
         "e3b4831d-8cd7-4dbc-a70f-ec16ad215bf9",
@@ -403,7 +405,7 @@
         "66ad965e-9d80-4dd7-9c6c-0468016584ff",
         "763d66fa-3a85-4226-9fa3-ac97e2d248b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65e20be9-a77d-44d7-8158-c7f327d636e6",
         "e3b4831d-8cd7-4dbc-a70f-ec16ad215bf9",
@@ -447,7 +449,7 @@
         "20359ee9-c4bb-4c38-a2f5-afc77a1a83d2",
         "66ad965e-9d80-4dd7-9c6c-0468016584ff"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65e20be9-a77d-44d7-8158-c7f327d636e6",
         "3ce9e48f-6ec8-41ee-8eb0-e17ba4774ac7",
@@ -492,7 +494,7 @@
         "66ad965e-9d80-4dd7-9c6c-0468016584ff",
         "763d66fa-3a85-4226-9fa3-ac97e2d248b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65e20be9-a77d-44d7-8158-c7f327d636e6",
         "e3b4831d-8cd7-4dbc-a70f-ec16ad215bf9",
@@ -544,7 +546,7 @@
         "66ad965e-9d80-4dd7-9c6c-0468016584ff",
         "763d66fa-3a85-4226-9fa3-ac97e2d248b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65e20be9-a77d-44d7-8158-c7f327d636e6",
         "3ce9e48f-6ec8-41ee-8eb0-e17ba4774ac7",
@@ -587,7 +589,7 @@
         "e4ef33ed-ba9d-49aa-a999-98a4c13f24ae",
         "387c821e-d30c-432c-9f48-96d35af30912"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65e20be9-a77d-44d7-8158-c7f327d636e6",
         "e3b4831d-8cd7-4dbc-a70f-ec16ad215bf9",
@@ -631,7 +633,7 @@
         "4940f41b-aa98-45b6-96ee-c3a456fd8e36",
         "e4ef33ed-ba9d-49aa-a999-98a4c13f24ae"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65e20be9-a77d-44d7-8158-c7f327d636e6",
         "e3b4831d-8cd7-4dbc-a70f-ec16ad215bf9",
@@ -670,7 +672,7 @@
         "20359ee9-c4bb-4c38-a2f5-afc77a1a83d2",
         "763d66fa-3a85-4226-9fa3-ac97e2d248b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65e20be9-a77d-44d7-8158-c7f327d636e6",
         "55e137ac-9152-451b-81b9-3fb9acd614c7",
@@ -710,7 +712,7 @@
         "66ad965e-9d80-4dd7-9c6c-0468016584ff",
         "763d66fa-3a85-4226-9fa3-ac97e2d248b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65e20be9-a77d-44d7-8158-c7f327d636e6",
         "e3b4831d-8cd7-4dbc-a70f-ec16ad215bf9",
@@ -755,7 +757,7 @@
         "66ad965e-9d80-4dd7-9c6c-0468016584ff",
         "763d66fa-3a85-4226-9fa3-ac97e2d248b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65e20be9-a77d-44d7-8158-c7f327d636e6",
         "e3b4831d-8cd7-4dbc-a70f-ec16ad215bf9",
@@ -808,7 +810,7 @@
         "66ad965e-9d80-4dd7-9c6c-0468016584ff",
         "763d66fa-3a85-4226-9fa3-ac97e2d248b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65e20be9-a77d-44d7-8158-c7f327d636e6",
         "e3b4831d-8cd7-4dbc-a70f-ec16ad215bf9",
@@ -860,7 +862,7 @@
         "66ad965e-9d80-4dd7-9c6c-0468016584ff",
         "763d66fa-3a85-4226-9fa3-ac97e2d248b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65e20be9-a77d-44d7-8158-c7f327d636e6",
         "e3b4831d-8cd7-4dbc-a70f-ec16ad215bf9",
@@ -886,6 +888,7 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
