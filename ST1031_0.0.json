@@ -42,11 +42,11 @@
   "knowledges": [
     {
       "knowledgeId": "e67c2943-71ab-4c35-b0ec-548b17fd8da3",
-      "detail": "Marketing theory, concepts and basic principles such as what marketing is, the marketing mix the promotional mix and the difference between each channel used."
+      "detail": "Marketing theory, concepts and basic principles such as what marketing is, the marketing mix the promotional mix and the differences between each channel used."
     },
     {
       "knowledgeId": "c4b3fda6-d672-4cf8-a584-5ad50dd46959",
-      "detail": "The business’ structure, vision, and priorities objectives, and how their marketing role supports these."
+      "detail": "The business’ structure, vision, priorities, and objectives, and how their marketing role supports these."
     },
     {
       "knowledgeId": "1f56298e-3c52-473b-8bd1-771623682b1b",
@@ -74,7 +74,7 @@
     },
     {
       "knowledgeId": "b1b3a436-bdb0-4a02-8d08-3b7ab4b4970c",
-      "detail": "Relevant regulatory and legislative requirements such as data protection, GDPR, cyber security, trading laws, copyright law, Advertising Standards Authority (ASA) for the handling and processing of data and its application."
+      "detail": "Relevant regulatory and legislative requirements such as data protection, GDPR, cyber security, trading laws, and copyright law for the handling and processing of data and its application."
     },
     {
       "knowledgeId": "d572328c-b454-41a8-b66a-a4dc51956d0d",
@@ -182,7 +182,7 @@
     },
     {
       "skillId": "ced72a47-5278-4b0e-ba5b-0432c3837284",
-      "detail": "Builds and implements campaigns across a variety of offline and digital media platforms."
+      "detail": "Build and implement multi-channel campaigns across a variety of platforms, either offline or digital media."
     },
     {
       "skillId": "8a3bc793-4d0c-438e-95df-60e397e6f0ea",
@@ -222,11 +222,11 @@
     },
     {
       "skillId": "b25a1d08-3d65-4e1a-91da-3c43380a5b2b",
-      "detail": "Reviews campaigns regularly to ensure effectiveness, to optimise the results."
+      "detail": "Review campaigns regularly to ensure effectiveness, to optimise the results."
     },
     {
       "skillId": "a34f7fd5-ee62-457a-8d6e-424fbc190328",
-      "detail": "Measures and evaluates campaign delivery to identify areas for improvement."
+      "detail": "Measure and evaluate campaign delivery to identify areas for improvement."
     },
     {
       "skillId": "75b1ee15-243e-4e97-972f-6c7e61b4be8f",
@@ -270,7 +270,7 @@
   "cluster": "Marketing Assistant",
   "clusterId": "124",
   "clusterDescription": "Plan, organise and deliver key marketing actions and events",
-  "createdDate": "2023-11-01T12:16:35 +00:00",
+  "createdDate": "2023-11-08T09:32:53 +00:00",
   "lastUpdated": "2023-10-16T00:00:00 +00:00",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/multi-channel-marketer?view=standard#OccupationalStandard",
