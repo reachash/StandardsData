@@ -6,7 +6,7 @@
   "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/151",
   "versionNumber": "1.5",
-  "change": "Occupational standard and end-point assessment plan revised",
+  "change": "Standard revised",
   "changedDate": "2023-09-25T00:00:00",
   "earliestStartDate": "2023-09-25T00:00:00",
   "latestStartDate": null,
@@ -34,7 +34,7 @@
     "Therapy assistant"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5xkll0lv/st0217_senior__healthcare_support_worker_epa-for-publishing_12102023.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/nndlwbac/st0217_senior__healthcare_support_worker_epa-for-publishing_07112023.pdf",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.3 Health and social care",
   "version": "1.5",
@@ -171,7 +171,7 @@
     },
     {
       "knowledgeId": "bf0517b6-4bb4-45f7-bfd8-af87a654ac2a",
-      "detail": "Options 1 and 5: Adult nursing support and children and young people support: The end of life phase and the factors which impact care during the end of life phase."
+      "detail": "Options 1, 2 and 5: Adult nursing support, maternity support and children and young people support: The end of life phase and the factors which impact care during the end of life phase."
     },
     {
       "knowledgeId": "f866f127-a6dd-4497-a11b-ca046fbb0458",
@@ -551,7 +551,7 @@
     },
     {
       "skillId": "be684af1-92c5-47b4-9c7d-5178338a7ac7",
-      "detail": "Options 1, and 5: Adult nursing support and children and young people support: Provide care and support for individuals and their family during the end-of-life phase."
+      "detail": "Options 1, 2 and 5: Adult nursing support, maternity support and children and young people support: Provide care and support for individuals and their family during the end-of-life phase."
     },
     {
       "skillId": "31197686-49d5-4203-85bf-d60f2882a47d",
@@ -825,12 +825,12 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
+  "reviewDetails": "",
   "pathway": "Health",
   "cluster": "Health Assistant",
   "clusterId": "112",
   "clusterDescription": "Provide direct patient contact and caring undertaking routine well defined clinical duties",
-  "createdDate": "2023-09-25T10:25:24 +00:00",
+  "createdDate": "2023-11-10T14:28:18 +00:00",
   "lastUpdated": "2023-09-25T00:00:00 +00:00",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/senior-healthcare-support-worker-v1-5?view=standard#OccupationalStandard",
@@ -1091,6 +1091,7 @@
       "mappedKnowledge": [
         "f28b8adb-9988-4578-9d30-a5f02a328f9b",
         "cc866157-ee25-4109-8c35-1346498bb7aa",
+        "bf0517b6-4bb4-45f7-bfd8-af87a654ac2a",
         "f866f127-a6dd-4497-a11b-ca046fbb0458",
         "5c8f9ada-0573-49d9-a713-851585aeaa3f",
         "09458573-188d-45fa-b633-7029e2ffb092",
@@ -1109,6 +1110,7 @@
       "mappedSkills": [
         "dbc4155e-c8de-4709-9241-32a68f80a2c5",
         "62729ed9-9a71-4380-99b5-b5abfc419fbd",
+        "be684af1-92c5-47b4-9c7d-5178338a7ac7",
         "31197686-49d5-4203-85bf-d60f2882a47d",
         "121af6d7-3f3c-4618-a27d-7f236d13794b",
         "013a546f-98e5-409b-8177-5be7175cc3a6",
