@@ -649,11 +649,11 @@
   ],
   "englishAndMathsQualifications": "",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Maintenance, Installation & Repair",
-  "cluster": "Manufacturing/Process Maintenance Operative/Technician",
-  "clusterId": "71",
-  "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
-  "createdDate": "2023-09-14T09:08:38 +00:00",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
+  "createdDate": "2023-11-17T08:54:04 +00:00",
   "lastUpdated": "",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/power-industry-substation-fitter?view=standard#OccupationalStandard",
@@ -662,7 +662,7 @@
     {
       "qualificationId": "09d9874e-db2a-4fdd-90db-5ab7a981853a",
       "title": "Emergency first aid 1 day course",
-      "level": "Three",
+      "level": "2",
       "anyAdditionalInformation": ""
     }
   ],
