@@ -7,7 +7,7 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/234",
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised.",
-  "changedDate": "2023-10-23T00:00:00",
+  "changedDate": "2023-09-13T00:00:00",
   "earliestStartDate": "2023-10-12T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -241,13 +241,13 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
+  "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years&lt;/span&gt;&lt;/p&gt;",
   "pathway": null,
   "cluster": null,
   "clusterId": null,
   "clusterDescription": null,
-  "createdDate": "2023-09-27T12:31:30 +00:00",
-  "lastUpdated": "2023-10-23T00:00:00 +00:00",
+  "createdDate": "2023-12-07T10:01:30 +00:00",
+  "lastUpdated": "2023-09-13T00:00:00 +00:00",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/commercial-thermal-insulation-operative-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/commercial-thermal-insulation-operative-v1-1",
@@ -435,5 +435,6 @@
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
-  "coronationEmblem": false
+  "coronationEmblem": false,
+  "publishDate": "2023-10-12T00:00:00"
 }
