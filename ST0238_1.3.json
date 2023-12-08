@@ -23,8 +23,7 @@
     "organisation development",
     "People professional operations",
     "People professional legislation",
-    "People professional solutions",
-    "people professional"
+    "People professional solutions"
   ],
   "jobRoles": [
     "Diversity and inclusion manager",
@@ -256,7 +255,13 @@
       "detail": "Benchmark to improve people policies and procedures, or people initiatives."
     }
   ],
-  "optionsUnstructuredTemplate": [],
+  "optionsUnstructuredTemplate": [
+    "Core HR",
+    "Organisation Development",
+    "Resourcing",
+    "Total Reward",
+    "HR Operations"
+  ],
   "proposalApproved": "",
   "standardApproved": "",
   "epaApprovalDate": "",
@@ -292,12 +297,12 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years&lt;/span&gt;&lt;/p&gt;",
   "pathway": null,
   "cluster": null,
   "clusterId": null,
   "clusterDescription": null,
-  "createdDate": "2023-09-28T08:52:52 +00:00",
+  "createdDate": "2023-12-07T08:52:40 +00:00",
   "lastUpdated": "2023-09-28T00:00:00 +00:00",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/people-professional-v1-3?view=standard#OccupationalStandard",
@@ -305,8 +310,8 @@
   "qualifications": [
     {
       "qualificationId": "aec78a21-72b8-4944-98e5-f010294e95cc",
-      "title": " L5 Associate Diploma in People Management. On programme the apprentice must complete 2 core units 5CO01 and 5CO02, 3 specialised units 5HR01, 5HR02 and 5HR03 plus 1 optional unit from 5OS01, 5OS02, 5OS03, 5OS04, 5OS05, 5OS06 or 5OS07. Unit 5CO03 must not be completed on programme as it is the integrated module. ",
-      "level": "Five",
+      "title": " L5 Associate Diploma in People Management all units bar one. On programme the apprentice must complete 2 core units 5CO01 and 5CO02, 3 specialised units 5HR01, 5HR02 and 5HR03 plus 1 optional unit from 5OS01, 5OS02, 5OS03, 5OS04, 5OS05, 5OS06 or 5OS07. Unit 5CO03 must not be completed on programme as it is the integrated module. ",
+      "level": "5",
       "anyAdditionalInformation": "The final module of the qualification, 5CO03 Professional behaviours and valuing people is mapped to the apprenticeship EPA assignment assessment method and corresponding KSBs. An apprentice may not therefore have completed the assignment from unit 5C003 from the L5 Associate diploma in People management before the gateway. In the unlikely event that an apprentice may have achieved a marking award for this unit prior to starting the apprenticeship, this would exclude them from undertaking the apprenticeship. Any person who believes they have prior learning is advised to check their eligibility for the apprenticeship via gov.uk website for apprenticeships initial assessment to recognise prior learning."
     }
   ],
@@ -805,7 +810,45 @@
   ],
   "options": [],
   "regulationDetail": [],
-  "optionsUnstructuredKsbMapping": [],
+  "optionsUnstructuredKsbMapping": [
+    {
+      "coreOrOptionTitle": "Core",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Core HR",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Organisation Development",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Resourcing",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Total Reward",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "HR Operations",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    }
+  ],
   "careerStarter": false,
-  "coronationEmblem": false
+  "coronationEmblem": false,
+  "publishDate": "2023-09-28T00:00:00"
 }
