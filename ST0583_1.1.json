@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/340",
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised.",
-  "changedDate": "2023-11-30T00:00:00",
+  "changedDate": "2023-12-07T00:00:00",
   "earliestStartDate": "2020-10-26T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2024-01-31T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Operating specialist equipment used to screen people for breast cancer.",
   "level": 4,
@@ -343,7 +343,7 @@
   "clusterId": null,
   "clusterDescription": null,
   "createdDate": "2022-04-07T15:29:22 +00:00",
-  "lastUpdated": "2023-11-30T00:00:00 +00:00",
+  "lastUpdated": "2023-12-07T00:00:00 +00:00",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/mammography-associate-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/mammography-associate-v1-1",
@@ -475,5 +475,6 @@
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
-  "coronationEmblem": false
+  "coronationEmblem": false,
+  "publishDate": "2024-01-31T00:00:00"
 }
