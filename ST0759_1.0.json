@@ -7,7 +7,7 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/457",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-05-31T00:00:00",
+  "changedDate": "2021-11-03T00:00:00",
   "earliestStartDate": "2019-05-13T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -26,7 +26,7 @@
   ],
   "jobRoles": [],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5643/st0759_research-scientist_l7_-adjustment-031121-2.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/0fnlirzo/st0759_research-scientist_l7_-epa_for-publication_05122023.pdf",
   "ssa1": "2 Science and Mathematics",
   "ssa2": "2.1 Science",
   "version": "1.0",
@@ -159,8 +159,8 @@
   "cluster": null,
   "clusterId": null,
   "clusterDescription": null,
-  "createdDate": "2021-11-03T16:12:37 +00:00",
-  "lastUpdated": "2022-05-31T00:00:00 +00:00",
+  "createdDate": "2023-12-07T08:59:52 +00:00",
+  "lastUpdated": "2021-11-03T00:00:00 +00:00",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/research-scientist-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/research-scientist-v1-0",
@@ -170,7 +170,7 @@
       "bodyName": "Chartered Biologist",
       "level": "Royal Society of Biology ",
       "isPartial": "partial",
-      "partialFreeText": "The Royal Society of Biology, the Institute of Physics and the Royal Society of Chemistry have provided an expedited route for individuals to achieve Chartered status (Chartered Biologist, Chartered Chemist or Chartered Physicist) through this apprenticeship, as the apprenticeship is closely aligned to a number of the Chartered status competencies/attributes In order to be considered for Chartered status individuals must have a relevant degree or equivalence at the start of the apprenticeship, and must inform the relevant professional body upon commencement of the apprenticeship of their intention to apply for Chartered status."
+      "partialFreeText": "The Royal Society of Biology, the Institute of Physics and the Royal Society of Chemistry have provided an expedited route for individuals to achieve Chartered status (Chartered Biologist, Chartered Chemist or Chartered Physicist) through this apprenticeship, as the apprenticeship is closely aligned to a number of the Chartered status competencies/attributes. In order to be considered for Chartered status individuals must have a relevant degree or equivalence at the start of the apprenticeship, and must inform the relevant professional body upon commencement of the apprenticeship of their intention to apply for Chartered status. For further information please refer to the relevant professional organisation’s website."
     },
     {
       "bodyName": "Chartered Chemist",
@@ -527,5 +527,6 @@
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
-  "coronationEmblem": false
+  "coronationEmblem": false,
+  "publishDate": "2021-11-03T00:00:00"
 }
