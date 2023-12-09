@@ -1,10 +1,10 @@
 {
   "templateType": "Occupational Standard",
-  "larsCode": 0,
+  "larsCode": 739,
   "referenceNumber": "ST1340",
   "title": "Advertising creative",
   "status": "Approved for delivery",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/0",
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/739",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2023-11-24T00:00:00",
@@ -639,5 +639,6 @@
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
-  "coronationEmblem": false
+  "coronationEmblem": false,
+  "publishDate": "2023-11-24T00:00:00"
 }
