@@ -6,9 +6,9 @@
   "status": "In development",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/171",
   "versionNumber": "",
-  "change": "",
-  "changedDate": "2023-12-07T00:00:00",
-  "earliestStartDate": null,
+  "change": "In revision",
+  "changedDate": "2023-12-11T00:00:00",
+  "earliestStartDate": "2024-03-15T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Assembling and installing steelworks required to strengthen reinforced concrete structures.",
@@ -329,7 +329,7 @@
   "clusterId": null,
   "clusterDescription": null,
   "createdDate": "2023-12-07T10:51:27 +00:00",
-  "lastUpdated": "2023-12-07T00:00:00 +00:00",
+  "lastUpdated": "2023-12-11T00:00:00 +00:00",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/steel-fixer-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/steel-fixer-in-revision",
@@ -742,5 +742,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-12-07T00:00:00"
+  "publishDate": "2024-03-15T00:00:00"
 }
