@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/500",
   "versionNumber": "",
   "change": "In revision",
-  "changedDate": "2023-12-07T00:00:00",
-  "earliestStartDate": null,
+  "changedDate": "2023-12-11T00:00:00",
+  "earliestStartDate": "2024-03-15T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Helping with essential building tasks such as planning, designing and project management.",
@@ -347,7 +347,7 @@
   "clusterId": null,
   "clusterDescription": null,
   "createdDate": "2023-12-07T10:29:10 +00:00",
-  "lastUpdated": "2023-12-07T00:00:00 +00:00",
+  "lastUpdated": "2023-12-11T00:00:00 +00:00",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/construction-design-and-build-technician-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/construction-design-and-build-technician-in-revision",
@@ -906,5 +906,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-12-07T00:00:00"
+  "publishDate": "2024-03-15T00:00:00"
 }
