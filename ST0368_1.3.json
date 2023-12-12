@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/380",
   "versionNumber": "",
   "change": "In revision",
-  "changedDate": "2023-12-07T00:00:00",
-  "earliestStartDate": null,
+  "changedDate": "2023-12-11T00:00:00",
+  "earliestStartDate": "2024-03-15T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Tiling walls and floors.",
@@ -365,7 +365,7 @@
   "clusterId": null,
   "clusterDescription": null,
   "createdDate": "2023-12-07T11:45:07 +00:00",
-  "lastUpdated": "2023-12-07T00:00:00 +00:00",
+  "lastUpdated": "2023-12-11T00:00:00 +00:00",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/wall-and-floor-tiler-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/wall-and-floor-tiler-in-revision",
@@ -1049,5 +1049,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-12-07T00:00:00"
+  "publishDate": "2024-03-15T00:00:00"
 }
