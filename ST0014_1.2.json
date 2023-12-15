@@ -7,8 +7,8 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/141",
   "versionNumber": "",
   "change": "In revision",
-  "changedDate": "0001-01-01T00:00:00",
-  "earliestStartDate": null,
+  "changedDate": "2023-12-14T00:00:00",
+  "earliestStartDate": "2024-04-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Carrying out inspections for maintenance and ground handling of a range of military or civil aircraft, including rotary and fixed wing within an airworthiness environment.",
@@ -310,7 +310,7 @@
   "clusterId": null,
   "clusterDescription": null,
   "createdDate": "2023-10-20T09:27:47 +00:00",
-  "lastUpdated": "",
+  "lastUpdated": "2023-12-14T00:00:00 +00:00",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/aviation-maintenance-mechanic-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/aviation-maintenance-mechanic-in-revision",
@@ -742,5 +742,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-10-20T09:27:47.503"
+  "publishDate": "2024-04-01T00:00:00"
 }
