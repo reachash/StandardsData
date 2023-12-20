@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/158",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-11-09T00:00:00",
+  "changedDate": "2023-12-19T00:00:00",
   "earliestStartDate": "2016-12-21T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2024-03-31T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Produce and repair finished, quality-assured spectacles.",
   "level": 3,
@@ -233,7 +233,7 @@
   "clusterId": null,
   "clusterDescription": null,
   "createdDate": "2017-09-22T14:24:13 +00:00",
-  "lastUpdated": "2023-11-09T00:00:00 +00:00",
+  "lastUpdated": "2023-12-19T00:00:00 +00:00",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/spectacle-maker-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/spectacle-maker-v1-0",
@@ -245,5 +245,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-11-09T00:00:00"
+  "publishDate": "2024-03-31T00:00:00"
 }
