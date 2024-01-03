@@ -3,18 +3,18 @@
   "larsCode": 532,
   "referenceNumber": "ST0843",
   "title": "Cleaning hygiene operative",
-  "status": "In development",
+  "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/532",
-  "versionNumber": "",
-  "change": "In revision",
-  "changedDate": "2023-10-26T00:00:00",
+  "versionNumber": "1.1",
+  "change": "Occupational standard, end-point assessment plan and funding band revised",
+  "changedDate": "2024-01-02T00:00:00",
   "earliestStartDate": "2024-01-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing a hygienically clean environment in which service users, staff and other users can thrive, work and develop.",
   "level": 2,
   "typicalDuration": 12,
-  "maxFunding": 0,
+  "maxFunding": 5000,
   "route": "Health and science",
   "keywords": [
     "healthcare",
@@ -32,7 +32,7 @@
     "Environmental cleaning operative"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/cleaning-hygiene-operative-in-revision?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/cleaning-hygiene-operative-v1-1?view=epa",
   "ssa1": "7 Retail and Commercial Enterprise",
   "ssa2": "7.3 Service enterprises",
   "version": "1.1",
@@ -316,7 +316,7 @@
     "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2020-02-03T00:00:00 +00:00",
   "integratedApprenticeship": false,
   "integratedDegree": "",
   "tbReference": "TB0455",
@@ -340,10 +340,10 @@
   "clusterId": null,
   "clusterDescription": null,
   "createdDate": "2023-10-26T08:43:24 +00:00",
-  "lastUpdated": "2023-10-26T00:00:00 +00:00",
+  "lastUpdated": "2024-01-02T00:00:00 +00:00",
   "occupationCode": "",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/cleaning-hygiene-operative-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/cleaning-hygiene-operative-in-revision",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/cleaning-hygiene-operative-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/cleaning-hygiene-operative-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -685,5 +685,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-01-01T00:00:00"
+  "publishDate": "2024-01-02T00:00:00"
 }
