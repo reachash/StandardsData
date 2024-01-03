@@ -3,18 +3,18 @@
   "larsCode": 162,
   "referenceNumber": "ST0170",
   "title": "Facilities management supervisor",
-  "status": "In development",
+  "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/162",
-  "versionNumber": "",
-  "change": "In revision",
-  "changedDate": "2023-12-01T00:00:00",
+  "versionNumber": "1.1",
+  "change": "Occupational standard, end-point assessment plan and funding band revised",
+  "changedDate": "2024-01-02T00:00:00",
   "earliestStartDate": "2024-01-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Managing the working environment for an organisation's employees and services within industrial and commercial buildings.",
   "level": 3,
   "typicalDuration": 18,
-  "maxFunding": 0,
+  "maxFunding": 5000,
   "route": "Construction and the built environment",
   "keywords": [
     "building administration",
@@ -213,7 +213,7 @@
     "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2017-02-17T00:00:00 +00:00",
   "integratedApprenticeship": false,
   "integratedDegree": "",
   "tbReference": "TB0413",
@@ -235,10 +235,10 @@
   "clusterId": null,
   "clusterDescription": null,
   "createdDate": "2023-11-24T11:22:37 +00:00",
-  "lastUpdated": "2023-12-01T00:00:00 +00:00",
+  "lastUpdated": "2024-01-02T00:00:00 +00:00",
   "occupationCode": "",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/facilities-management-supervisor-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/facilities-management-supervisor-in-revision",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/facilities-management-supervisor-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/facilities-management-supervisor-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -586,5 +586,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-01-01T00:00:00"
+  "publishDate": "2024-01-02T00:00:00"
 }
