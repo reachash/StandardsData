@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/383",
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised.",
-  "changedDate": "2021-03-16T00:00:00",
+  "changedDate": "2024-01-05T00:00:00",
   "earliestStartDate": "2021-03-16T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2024-01-25T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Preparing and setting up technical equipment for live events ranging from concerts, festivals and theatrical performances through to exhibitions, conferences, product launches and showcases.",
   "level": 3,
@@ -169,7 +169,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "",
+    "contactEmail": "public.enquiries@ofqual.gov.uk",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-11-30T00:00:00 +00:00",
@@ -193,7 +193,7 @@
   "clusterId": null,
   "clusterDescription": null,
   "createdDate": "2021-03-16T15:19:48 +00:00",
-  "lastUpdated": "2021-03-16T00:00:00 +00:00",
+  "lastUpdated": "2024-01-05T00:00:00 +00:00",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/live-event-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/live-event-technician-v1-1",
@@ -205,5 +205,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2021-03-16T00:00:00"
+  "publishDate": "2024-01-25T00:00:00"
 }
