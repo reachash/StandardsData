@@ -3,13 +3,13 @@
   "larsCode": 60,
   "referenceNumber": "ST0240",
   "title": "Insurance practitioner",
-  "status": "Approved for delivery",
+  "status": "Retired",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/60",
   "versionNumber": "1.3",
   "change": "End-point assessment plan revised",
-  "changedDate": "2023-05-05T00:00:00",
+  "changedDate": "2024-01-11T00:00:00",
   "earliestStartDate": "2023-05-05T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2024-01-10T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Supporting the sale and renewal of insurance products.",
   "level": 3,
@@ -233,7 +233,7 @@
   "clusterId": null,
   "clusterDescription": null,
   "createdDate": "2023-05-05T11:49:52 +00:00",
-  "lastUpdated": "2023-05-05T00:00:00 +00:00",
+  "lastUpdated": "2024-01-11T00:00:00 +00:00",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/insurance-practitioner-v1-3?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/insurance-practitioner-v1-3",
@@ -646,5 +646,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-05-05T00:00:00"
+  "publishDate": "2024-01-11T00:00:00"
 }
