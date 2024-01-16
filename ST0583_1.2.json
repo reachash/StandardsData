@@ -406,7 +406,13 @@
   "standardApproved": "",
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
   "approvedForDelivery": "",
   "integratedApprenticeship": false,
   "integratedDegree": "",
@@ -430,7 +436,7 @@
   "cluster": null,
   "clusterId": null,
   "clusterDescription": null,
-  "createdDate": "2023-12-07T13:33:05 +00:00",
+  "createdDate": "2024-01-15T09:49:49 +00:00",
   "lastUpdated": "2023-12-07T00:00:00 +00:00",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/mammography-associate-in-revision?view=standard#OccupationalStandard",
