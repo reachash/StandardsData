@@ -496,7 +496,7 @@
   "integratedApprenticeship": false,
   "integratedDegree": "",
   "tbReference": "TB0269",
-  "tbMainContact": "peter.pavitt@specsavers.com kerry.powell@visionexpress.com",
+  "tbMainContact": "peter.pavitt@specsavers.com",
   "involvedEmployers": "Specsavers, Vision express, Boots Opticians, Leightons opticians, Insight Optical, The Outside Clinic, Asda Opticians Independ practice input via Gordon Illett ",
   "regulated": false,
   "regulatedBody": "",
@@ -511,7 +511,7 @@
   "cluster": null,
   "clusterId": null,
   "clusterDescription": null,
-  "createdDate": "2022-09-26T15:41:44 +00:00",
+  "createdDate": "2024-01-19T09:38:34 +00:00",
   "lastUpdated": "2023-03-09T00:00:00 +00:00",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/optical-assistant-2022-v1-0?view=standard#OccupationalStandard",
@@ -1169,17 +1169,17 @@
   "options": [
     {
       "optionId": "a5d504e1-8823-4dd1-a406-7895a58c863d",
-      "title": "Option 1: Screening Assistant",
+      "title": "Screening Assistant",
       "occupationCode": ""
     },
     {
       "optionId": "82306cea-ed64-4e88-ae9c-38829c7f1dc9",
-      "title": "Option 2: Contact Lens Assistant",
+      "title": "Contact Lens Assistant",
       "occupationCode": ""
     },
     {
       "optionId": "25ef4af2-8b81-4a94-b28e-8e7bf9241322",
-      "title": "Option 3: Domiciliary Optical Assistant",
+      "title": "Domiciliary Optical Assistant",
       "occupationCode": ""
     }
   ],
