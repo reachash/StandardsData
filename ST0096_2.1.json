@@ -3,18 +3,18 @@
   "larsCode": 529,
   "referenceNumber": "ST0096",
   "title": "Plasterer",
-  "status": "In development",
+  "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/529",
-  "versionNumber": "",
-  "change": "In revision",
-  "changedDate": "2023-12-20T00:00:00",
+  "versionNumber": "2.1",
+  "change": "Occupational standard, end-point assessment plan and funding band revised.",
+  "changedDate": "2024-01-24T00:00:00",
   "earliestStartDate": "2024-01-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Preparing walls and ceilings for decoration and finishing.",
   "level": 2,
   "typicalDuration": 24,
-  "maxFunding": 0,
+  "maxFunding": 13000,
   "route": "Construction and the built environment",
   "keywords": [
     "decoration",
@@ -28,7 +28,7 @@
     "Plasterer"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/plasterer-in-revision?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/plasterer-v2-1?view=epa",
   "ssa1": "5 Construction, Planning and the Built Environment",
   "ssa2": "5.2 Building and construction",
   "version": "2.1",
@@ -420,7 +420,7 @@
     "contactEmail": "public.enquiries@ofqual.gov.uk",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2019-12-18T00:00:00 +00:00",
   "integratedApprenticeship": false,
   "integratedDegree": "",
   "tbReference": "TB0034",
@@ -440,10 +440,10 @@
   "clusterId": null,
   "clusterDescription": null,
   "createdDate": "2023-11-29T11:30:03 +00:00",
-  "lastUpdated": "2023-12-20T00:00:00 +00:00",
+  "lastUpdated": "2024-01-24T00:00:00 +00:00",
   "occupationCode": "",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/plasterer-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/plasterer-in-revision",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/plasterer-v2-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/plasterer-v2-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -898,5 +898,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2024-01-18T00:00:00"
+  "publishDate": "2024-01-24T00:00:00"
 }
