@@ -81,7 +81,7 @@
     },
     {
       "knowledgeId": "307e7bb5-1361-4404-935f-bd308d1e023e",
-      "detail": "Principles of high-quality digital learning design, including accessibility, user interface (UI) / user experience (UX), visual communication, and use of branding and style guides."
+      "detail": "Principles of high-quality digital learning design, including accessibility, user interface (UI), user experience (UX), visual communication, and use of branding and style guides."
     },
     {
       "knowledgeId": "57554ede-ee75-4c92-b861-6a46967dad9d",
@@ -221,7 +221,7 @@
   "integratedDegree": "",
   "tbReference": "TB0663",
   "tbMainContact": "marianne.burrows@education.gov.uk",
-  "involvedEmployers": "Foster & Forge, University of Birmingham, University of Exeter, Virgin Media. UCPS e-learning, Advance HE, Cursim, The Association for Learning Technology, BT, Instinct, Omniplex learning, NTU, Solentalt, Lexedio, LDN Apprenticeships, Digital Learning Institute, Quantum Rise Talent Group Ltd, Aston University, University of London, University of Portsmouth, Pearson, QA Ltd, Middlesex University and Association for Learning Technology",
+  "involvedEmployers": "Foster & Forge, University of Birmingham, University of Exeter, Virgin Media. UCPS e-learning, Advance HE, Cursim,  The Association for Learning Technology, BT, Instinct, Omniplex learning, NTU,  Solentalt, Lexedio, LDN Apprenticeships,\nDigital Learning Institute, Quantum Rise Talent Group Ltd, Aston University, University of London, University of Portsmouth, Pearson, BT,  QA Ltd, Middlesex University and Association for Learning Technology\n\n",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -240,7 +240,7 @@
   "cluster": null,
   "clusterId": null,
   "clusterDescription": null,
-  "createdDate": "2023-04-21T10:11:07 +00:00",
+  "createdDate": "2024-01-25T08:08:53 +00:00",
   "lastUpdated": "2023-05-30T00:00:00 +00:00",
   "occupationCode": "OCC0974",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/digital-learning-designer-v1-0?view=standard#OccupationalStandard",
@@ -248,8 +248,8 @@
   "qualifications": [],
   "professionalRecognition": [
     {
-      "bodyName": "Association for learning technology ALT",
-      "level": "Associate certified member ACMALT.",
+      "bodyName": "Association for Learning Technology (ALT) ",
+      "level": "Associate Certified Member (ACMALT).",
       "isPartial": "full",
       "partialFreeText": ""
     }
@@ -357,7 +357,7 @@
     },
     {
       "dutyID": "cd4f668f-19ea-4d3f-b19c-d3592fe15470",
-      "dutyDetail": "Capture and align technical and user requirements, considering User Experience (UX) and User Interface (UI), by working with end users and or stakeholders, in conjuction with applied learning theories and models.",
+      "dutyDetail": "Capture and align technical and user requirements, considering User Experience (UX) and User Interface (UI), by working with end users and or stakeholders, in conjunction with applied learning theories and models.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "3a7e96d8-893b-45eb-8409-8f08041e2385"
@@ -407,7 +407,7 @@
     },
     {
       "dutyID": "4ae1f684-d6b8-4c80-8d4e-dc78fe34c793",
-      "dutyDetail": "Communicate learning design and development strategies and proposed solutions to different stakeholders (including end users and senior management), using appropriate digital tools/formats, supported by relevant business, technical, learning needs and design justifications.",
+      "dutyDetail": "Communicate learning design and development strategies and proposed solutions to different stakeholders (including end users and senior management), using appropriate digital tools, formats, supported by relevant business, technical, learning needs and design justifications.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "3a7e96d8-893b-45eb-8409-8f08041e2385",
@@ -511,7 +511,7 @@
     },
     {
       "dutyID": "847d5ed2-9f27-4155-8f67-8df14acf8e7f",
-      "dutyDetail": "Collate, document and action feedback and decisions on own work to underpin wider project management and learning design/development phases.",
+      "dutyDetail": "Collate, document and action feedback and decisions on own work to underpin wider project management and learning design, development phases.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "221e46c9-3b79-42c4-81f1-fbdfa022957e",
@@ -532,7 +532,7 @@
     },
     {
       "dutyID": "72d1e030-fc0a-4a61-bdfe-41c47e6f9b81",
-      "dutyDetail": "Inform processes and decisions, from an effective learning and user perspective relating to the selection, procurement and application of digital technologies, in line with relevant standards and policies, and wider project/business requirements.",
+      "dutyDetail": "Inform processes and decisions, from an effective learning and user perspective relating to the selection, procurement and application of digital technologies, in line with relevant standards and policies, and wider project, business requirements.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "3a7e96d8-893b-45eb-8409-8f08041e2385",
@@ -646,7 +646,7 @@
     },
     {
       "dutyID": "17681a9b-cd70-470f-b895-fde457ee5ffd",
-      "dutyDetail": "Organise and manage the storage of project outputs, files and documentation, and facilitate handover of assets to project owner/client, including development notes and maintenance and review recommendations.",
+      "dutyDetail": "Organise and manage the storage of project outputs, files and documentation, and facilitate handover of assets to project owner and or client, including development notes and maintenance and review recommendations.",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
