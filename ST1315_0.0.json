@@ -320,7 +320,7 @@
   "cluster": null,
   "clusterId": null,
   "clusterDescription": null,
-  "createdDate": "2024-01-24T11:12:44 +00:00",
+  "createdDate": "2024-02-06T15:58:59 +00:00",
   "lastUpdated": "",
   "occupationCode": "OCC1315",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/aircraft-maintenance-technician?view=standard#OccupationalStandard",
@@ -340,7 +340,7 @@
     },
     {
       "qualificationId": "7961e001-6c27-4e69-99e6-ced867d226b2",
-      "title": "Level 3 Diploma in Aerospace and Aviation Engineering (Development Technical  Competence) 601/9063/2 – Pearson BTEC or Level 3 Diploma in On-Aircraft Maintenance Category A C&G No. 2675-04; QAN 600/1927/X or Level 3 Diploma in Aircraft Maintenance (Military) C&G No. 4708-30; QAN 603/1392/4",
+      "title": "Level 3 Diploma in Aerospace and Aviation Engineering (Development Technical Knowledge) 601/9063/2 – Pearson BTEC or Level 3 Diploma in On-Aircraft Maintenance Category A C&G No. 2675-04; QAN 600/1927/X or Level 3 Diploma in Aircraft Maintenance (Military) C&G No. 4708-30; QAN 603/1392/4",
       "level": "3",
       "anyAdditionalInformation": "The CAA CAP 1814 mandates one development knowledge qualification at level 3.   "
     }
@@ -369,7 +369,7 @@
     {
       "dutyID": "8378efda-6976-4905-bb24-0d20fe0756f4",
       "dutyDetail": "Conduct health and safety checks of the maintenance activity work area. For example, comply with risk assessments and safe systems of work.",
-      "isThisACoreDuty": 1,
+      "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "76e339a9-52fc-4658-9794-ceb14f2dde06",
         "c8aa9b1c-67fa-422b-aa9c-306e0380a033",
@@ -409,7 +409,7 @@
     {
       "dutyID": "90b7617c-2fcc-479d-8972-1a1057be49d6",
       "dutyDetail": "Follow instructions for aircraft data, publications and maintenance documents required for the maintenance activity.",
-      "isThisACoreDuty": 1,
+      "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "76e339a9-52fc-4658-9794-ceb14f2dde06",
         "c8aa9b1c-67fa-422b-aa9c-306e0380a033"
@@ -452,7 +452,7 @@
     {
       "dutyID": "c73e6b09-d269-4ec7-a69d-b1c66ea26c1a",
       "dutyDetail": "Prepare for aircraft maintenance activity.",
-      "isThisACoreDuty": 1,
+      "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "76e339a9-52fc-4658-9794-ceb14f2dde06",
         "f247c5a9-0549-47aa-945f-f1c225faa02d",
@@ -492,7 +492,7 @@
     {
       "dutyID": "56749c33-3471-4ed5-85a9-9f51fa3d70a4",
       "dutyDetail": "Complete aircraft or aircraft component inspection activities.",
-      "isThisACoreDuty": 1,
+      "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "76e339a9-52fc-4658-9794-ceb14f2dde06",
         "bba3dd0b-e778-4961-af16-499b1d5ee807",
@@ -537,7 +537,7 @@
     {
       "dutyID": "e34c5190-360b-4cc0-a42b-6d9311695554",
       "dutyDetail": "Conduct aircraft or aircraft component unscheduled maintenance activity. Reactive and breakdown maintenance.",
-      "isThisACoreDuty": 1,
+      "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "76e339a9-52fc-4658-9794-ceb14f2dde06",
         "bba3dd0b-e778-4961-af16-499b1d5ee807",
@@ -590,7 +590,7 @@
     {
       "dutyID": "9f493941-fa89-4d61-97dd-f53813d0e7b6",
       "dutyDetail": "Perform aircraft or aircraft component scheduled maintenance activities. Planned and preventative maintenance or out of phase servicing (OOP).",
-      "isThisACoreDuty": 1,
+      "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "76e339a9-52fc-4658-9794-ceb14f2dde06",
         "bba3dd0b-e778-4961-af16-499b1d5ee807",
@@ -640,7 +640,7 @@
     {
       "dutyID": "0e78e4ba-5053-4f1b-962d-666a845e65a1",
       "dutyDetail": "Rectify aircraft or component faults. ",
-      "isThisACoreDuty": 1,
+      "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "76e339a9-52fc-4658-9794-ceb14f2dde06",
         "bba3dd0b-e778-4961-af16-499b1d5ee807",
@@ -691,7 +691,7 @@
     {
       "dutyID": "95e790db-3209-44c0-ad26-efab321c04de",
       "dutyDetail": "Inform stakeholders of aircraft maintenance work status. For example, engineers, supervisors, colleagues, contractors, and customers.",
-      "isThisACoreDuty": 1,
+      "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "76e339a9-52fc-4658-9794-ceb14f2dde06",
         "bba3dd0b-e778-4961-af16-499b1d5ee807",
@@ -736,7 +736,7 @@
     {
       "dutyID": "3110e52e-0387-4aca-8206-135f8d9df2e2",
       "dutyDetail": "Complete aircraft documentation required for aircraft or aircraft component maintenance work.",
-      "isThisACoreDuty": 1,
+      "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "76e339a9-52fc-4658-9794-ceb14f2dde06",
         "c8aa9b1c-67fa-422b-aa9c-306e0380a033",
@@ -775,7 +775,7 @@
     {
       "dutyID": "b43d0e0d-5925-4300-b47a-7175b8c477fe",
       "dutyDetail": "Reinstate the work area on completion of maintenance activity. ",
-      "isThisACoreDuty": 1,
+      "isThisACoreDuty": 0,
       "mappedBehaviour": [
         "76e339a9-52fc-4658-9794-ceb14f2dde06",
         "bba3dd0b-e778-4961-af16-499b1d5ee807",
@@ -823,5 +823,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-01-24T11:12:44.81"
+  "publishDate": "2024-02-06T15:58:59.293"
 }
