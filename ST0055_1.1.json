@@ -413,7 +413,7 @@
   "clusterDescription": null,
   "createdDate": "2023-10-18T11:15:40 +00:00",
   "lastUpdated": "2023-10-18T00:00:00 +00:00",
-  "occupationCode": "OCC0055",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/bespoke-cutter-and-tailor-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/bespoke-cutter-and-tailor-v1-1",
   "qualifications": [],
@@ -748,12 +748,12 @@
     {
       "optionId": "8ea85eac-7a7b-4615-b454-984ca38a4f8b",
       "title": "Cutter",
-      "occupationCode": ""
+      "occupationCode": "OCC0055A"
     },
     {
       "optionId": "80dc5ab0-0d28-4e48-b64a-524af5bfb4c3",
       "title": "Tailor",
-      "occupationCode": ""
+      "occupationCode": "OCC0055B"
     }
   ],
   "regulationDetail": [],
