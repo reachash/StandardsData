@@ -360,7 +360,7 @@
   "clusterDescription": null,
   "createdDate": "2021-07-14T12:35:11 +00:00",
   "lastUpdated": "2021-08-10T00:00:00 +00:00",
-  "occupationCode": "OCC0902",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/vfx-artist-or-technical-director-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/vfx-artist-or-technical-director-v1-0",
   "qualifications": [],
@@ -706,22 +706,22 @@
     {
       "optionId": "6a7fc5e7-0fff-44bd-89c7-8c6aac469ca6",
       "title": "VFX Simulation",
-      "occupationCode": ""
+      "occupationCode": "OCC0902A"
     },
     {
       "optionId": "f5cc93ed-296c-42fa-9fcf-a426b7b996ce",
       "title": "VFX Rigging",
-      "occupationCode": ""
+      "occupationCode": "OCC0902B"
     },
     {
       "optionId": "04e5a2c0-c517-468d-b9fe-707a33d79c57",
       "title": "VFX Lighting, Shading and Look Development",
-      "occupationCode": ""
+      "occupationCode": "OCC0902C"
     },
     {
       "optionId": "7c4bf775-f563-4859-b4d8-cfaf83c3042f",
       "title": "VFX Environments",
-      "occupationCode": ""
+      "occupationCode": "OCC0902D"
     }
   ],
   "regulationDetail": [],
