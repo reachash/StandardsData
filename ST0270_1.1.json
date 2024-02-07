@@ -204,7 +204,7 @@
     },
     {
       "skillId": "06e9e9ec-cb72-462e-b09a-b59b256c9572",
-      "detail": "Install plain tiles, interlocking tiles, natural slates and fibre-cement slates"
+      "detail": "Install plain tiles, interlocking tiles and natural slates."
     },
     {
       "skillId": "9a2735b5-1540-4cfb-95ef-d8d0b28fd928",
@@ -326,7 +326,7 @@
   "clusterDescription": null,
   "createdDate": "2023-03-27T10:21:23 +00:00",
   "lastUpdated": "2023-03-27T00:00:00 +00:00",
-  "occupationCode": "OCC0270",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/roofer-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/roofer-v1-1",
   "qualifications": [],
@@ -336,17 +336,17 @@
     {
       "optionId": "dd4d2ef3-b527-4fa3-b844-e3dbf3125f3e",
       "title": "Roof Slater & Tiler",
-      "occupationCode": ""
+      "occupationCode": "OCC0270B"
     },
     {
       "optionId": "16213292-8ef3-4bae-a9e2-0f7d479836fc",
       "title": "Waterproof Membranes Installer",
-      "occupationCode": ""
+      "occupationCode": "OCC0270C"
     },
     {
       "optionId": "6cc30d1c-e45c-47bf-895f-9d52043c94df",
       "title": "Roof Sheeter & Cladder",
-      "occupationCode": ""
+      "occupationCode": "OCC0270A"
     }
   ],
   "regulationDetail": [],
