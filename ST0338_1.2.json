@@ -329,7 +329,7 @@
   "clusterDescription": null,
   "createdDate": "2023-11-10T15:10:57 +00:00",
   "lastUpdated": "2023-12-01T00:00:00 +00:00",
-  "occupationCode": "OCC0338",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/passenger-transport-driver-bus-and-coach-or-tram-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/passenger-transport-driver-bus-and-coach-or-tram-v1-2",
   "qualifications": [
@@ -893,12 +893,12 @@
     {
       "optionId": "303898b1-6eef-4105-9acf-993064c7f7b8",
       "title": "Bus and coach driver",
-      "occupationCode": ""
+      "occupationCode": "OCC0338A"
     },
     {
       "optionId": "a1a1fa14-376f-4b9a-91c7-44aae5c448f7",
       "title": "Tram Driver",
-      "occupationCode": ""
+      "occupationCode": "OCC0338B"
     }
   ],
   "regulationDetail": [
