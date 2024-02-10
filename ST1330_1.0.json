@@ -527,7 +527,7 @@
   "clusterDescription": null,
   "createdDate": "2024-02-08T13:45:42 +00:00",
   "lastUpdated": "2023-12-01T00:00:00 +00:00",
-  "occupationCode": "OCC1330",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/power-industry-overhead-linesperson-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/power-industry-overhead-linesperson-v1-0",
   "qualifications": [
@@ -1246,13 +1246,13 @@
   "options": [
     {
       "optionId": "7c608b51-cafe-42a8-b2bd-25b1f143b2f8",
-      "title": "Distribution",
-      "occupationCode": ""
+      "title": "Power industry overhead linesperson - Distribution",
+      "occupationCode": "OCC1330A"
     },
     {
       "optionId": "35d47149-50a2-4a36-8956-8e3ca31f01c5",
-      "title": "Transmission",
-      "occupationCode": ""
+      "title": "Power industry overhead linesperson - Transmission",
+      "occupationCode": "OCC1330B"
     }
   ],
   "regulationDetail": [],
