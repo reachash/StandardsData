@@ -5,6 +5,7 @@
   "title": "Roofer",
   "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/518",
+  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/roofer",
   "versionNumber": "1.1",
   "change": "End-point assessment plan and standard revised",
   "changedDate": "2023-03-27T00:00:00",
@@ -84,11 +85,11 @@
     },
     {
       "knowledgeId": "620fe675-962a-4cc0-a16b-cb2e2ca8bbf3",
-      "detail": "The characteristics, quality, uses, sustainability, limitations and defects associated with roofing products and components used in their own specialism and the general roofing industry"
+      "detail": "The characteristics, quality, uses, sustainability, limitations and defects associated with roofing products and components used in their own specialism and the wider roofing industry"
     },
     {
       "knowledgeId": "d71d3fc1-8d45-413b-89eb-a6bdfb5db8ea",
-      "detail": "The principles of slating and tiling (plain tiles, interlocking tiles, natural slates and fibre-cement \nslates) and how they are applied in routine tasks, such as, setting out roofs, installing insulation, \nunderlay and other background materials, installing main roof coverings, fixings, fittings and \ncomponents, ventilation and dry fix systems, roof windows, mixing and applying mortar and\ninstalling pre-formed lead proprietary flashings"
+      "detail": "The principles of slating and tiling and how they are applied in routine tasks, such as, setting out roofs, installing insulation, underlay and other background materials, installing main roof coverings, fixings, fittings and components, ventilation and dry fix systems, roof windows, mixing and applying mortar and installing pre-formed lead and/or proprietary flashings"
     },
     {
       "knowledgeId": "39106d45-dddd-4b4a-a0b3-e3bc8add3381",
@@ -320,12 +321,13 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "",
-  "pathway": null,
-  "cluster": null,
-  "clusterId": null,
-  "clusterDescription": null,
+  "pathway": "Onsite Construction",
+  "cluster": "Core building tradesperson",
+  "clusterId": "5",
+  "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
   "createdDate": "2023-03-27T10:21:23 +00:00",
   "lastUpdated": "2023-03-27T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": null,
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/roofer-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/roofer-v1-1",
