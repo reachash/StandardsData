@@ -5,6 +5,7 @@
   "title": "Power industry overhead linesperson",
   "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/740",
+  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/power-industry-overhead-linesperson-v10",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2023-12-01T00:00:00",
@@ -521,13 +522,14 @@
   ],
   "englishAndMathsQualifications": "",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": null,
-  "cluster": null,
-  "clusterId": null,
-  "clusterDescription": null,
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Manufacturing or process maintenance operative or technician",
+  "clusterId": "71",
+  "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2023-11-17T08:58:01 +00:00",
   "lastUpdated": "2023-12-01T00:00:00 +00:00",
-  "occupationCode": "OCC1330",
+  "occupationalStandardApprovalDate": null,
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/power-industry-overhead-linesperson-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/power-industry-overhead-linesperson-v1-0",
   "qualifications": [
@@ -1247,12 +1249,12 @@
     {
       "optionId": "7c608b51-cafe-42a8-b2bd-25b1f143b2f8",
       "title": "Power industry overhead linesperson - distribution",
-      "occupationCode": ""
+      "occupationCode": "OCC1330A"
     },
     {
       "optionId": "35d47149-50a2-4a36-8956-8e3ca31f01c5",
       "title": "Power industry overhead linesperson - transmission",
-      "occupationCode": ""
+      "occupationCode": "OCC1330B"
     }
   ],
   "regulationDetail": [],
