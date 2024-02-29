@@ -490,11 +490,11 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "",
-  "cluster": "",
-  "clusterId": "0",
-  "clusterDescription": null,
-  "createdDate": "2023-12-15T13:43:10 +00:00",
+  "pathway": "Media, Broadcast and Production",
+  "cluster": "Media, broadcast and production technician",
+  "clusterId": "76",
+  "clusterDescription": "Design, development and editing of audio visual and text content using technology to generate broadcasting materials along with its co-ordination and management",
+  "createdDate": "2024-02-28T09:15:49 +00:00",
   "lastUpdated": "2023-06-20T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
   "occupationCode": "",
@@ -698,8 +698,7 @@
         "74927fd8-282c-43ce-9107-61ce092d135d"
       ],
       "mappedOptions": [
-        "c1478042-d60c-46b7-9200-6788cf8dcea0",
-        "2066e8be-c5b6-4547-9c6f-2dc61214e6ae"
+        "c1478042-d60c-46b7-9200-6788cf8dcea0"
       ],
       "mappedSkills": [
         "7fdb03fe-7476-4c10-b54f-e362d9399b63",
@@ -836,7 +835,6 @@
         "74927fd8-282c-43ce-9107-61ce092d135d"
       ],
       "mappedOptions": [
-        "c1478042-d60c-46b7-9200-6788cf8dcea0",
         "2066e8be-c5b6-4547-9c6f-2dc61214e6ae"
       ],
       "mappedSkills": [
@@ -965,17 +963,17 @@
   "options": [
     {
       "optionId": "c1478042-d60c-46b7-9200-6788cf8dcea0",
-      "title": "Junior visual effects - Junior VFX Artist (2D)",
+      "title": "Junior VFX Artist (2D)",
       "occupationCode": "OCC1325A"
     },
     {
       "optionId": "2066e8be-c5b6-4547-9c6f-2dc61214e6ae",
-      "title": "Junior visual effects - Junior VFX Artist (CG/3D)",
+      "title": "Junior VFX Artist (CG/3D)",
       "occupationCode": "OCC1325B"
     },
     {
       "optionId": "f087de00-42df-4459-b568-afa76e2bf5ba",
-      "title": "Junior visual effects - Assistant Technical Director (VFX)",
+      "title": "Assistant Technical Director (VFX)",
       "occupationCode": "OCC1325C"
     }
   ],
