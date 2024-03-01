@@ -3,14 +3,14 @@
   "larsCode": 76,
   "referenceNumber": "ST0059",
   "title": "Boatbuilder",
-  "status": "Approved for delivery",
+  "status": "Retired",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/76",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/boatbuilder-v11",
   "versionNumber": "1.1",
   "change": "Occupational standard and end-point assessment plan revised.",
-  "changedDate": "2023-12-15T00:00:00",
+  "changedDate": "2024-02-29T00:00:00",
   "earliestStartDate": "2023-12-15T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2024-02-28T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Building boats such as yachts, workboats and superyachts, and refitting and repairing existing boats.",
   "level": 3,
@@ -440,7 +440,7 @@
   "clusterId": "262",
   "clusterDescription": "Assemble and construct complex engineering products",
   "createdDate": "2023-12-15T10:41:11 +00:00",
-  "lastUpdated": "2023-12-15T00:00:00 +00:00",
+  "lastUpdated": "2024-02-29T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
   "occupationCode": "OCC0059",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/boatbuilder-v1-1?view=standard#OccupationalStandard",
@@ -453,5 +453,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-12-15T00:00:00"
+  "publishDate": "2024-02-29T00:00:00"
 }
