@@ -443,7 +443,7 @@
   "createdDate": "2023-11-29T11:30:03 +00:00",
   "lastUpdated": "2024-01-24T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
-  "occupationCode": "OCC0096",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/plasterer-v2-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/plasterer-v2-1",
   "qualifications": [],
@@ -888,12 +888,12 @@
     {
       "optionId": "dfd6becb-9d51-49cd-905d-661cefb00504",
       "title": "solid Plasterer",
-      "occupationCode": ""
+      "occupationCode": "OCC0096B"
     },
     {
       "optionId": "ec959bfd-13b6-48ab-b07b-2da2c115906d",
       "title": "fibrous Plasterer",
-      "occupationCode": ""
+      "occupationCode": "OCC0096A"
     }
   ],
   "regulationDetail": [],
