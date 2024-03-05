@@ -214,12 +214,7 @@
       "detail": "Carry out maintenance activities on intrusion alarm, access control, video surveillance (CCTV) and their components."
     }
   ],
-  "optionsUnstructuredTemplate": [
-    "Fire",
-    "Security",
-    "Fire and emergency lighting",
-    "Fire and Security"
-  ],
+  "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
   "epaApprovalDate": "",
@@ -253,14 +248,14 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
-  "pathway": null,
-  "cluster": null,
-  "clusterId": null,
-  "clusterDescription": null,
+  "pathway": "Building Services Engineering",
+  "cluster": "Building services engineering operative or technician",
+  "clusterId": "65",
+  "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
   "createdDate": "2024-01-22T09:23:54 +00:00",
   "lastUpdated": "2024-03-01T00:00:00 +00:00",
-  "occupationalStandardApprovalDate": null,
-  "occupationCode": "",
+  "occupationalStandardApprovalDate": "2016-08-19T00:00:00 +00:00",
+  "occupationCode": "OCC0189",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/fire-emergency-and-security-systems-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/fire-emergency-and-security-systems-technician-v1-1",
   "qualifications": [],
@@ -912,38 +907,7 @@
   ],
   "options": [],
   "regulationDetail": [],
-  "optionsUnstructuredKsbMapping": [
-    {
-      "coreOrOptionTitle": "Core",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Fire",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Security",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Fire and emergency lighting",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Fire and Security",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    }
-  ],
+  "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
   "publishDate": "2024-03-01T00:00:00"
