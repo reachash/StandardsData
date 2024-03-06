@@ -331,7 +331,7 @@
   "createdDate": "2024-01-09T10:08:11 +00:00",
   "lastUpdated": "2023-02-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-08-03T00:00:00 +00:00",
-  "occupationCode": "OCC0953",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/game-programmer-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/game-programmer-v1-2",
   "qualifications": [],
@@ -745,12 +745,12 @@
     {
       "optionId": "f312b99f-27aa-49a1-801d-9fb36f4404d6",
       "title": "Game software programmer",
-      "occupationCode": ""
+      "occupationCode": "OCC0953A"
     },
     {
       "optionId": "cc98d9c9-e9ce-4a24-804e-8c7d1ba11291",
       "title": "Game technology programmer",
-      "occupationCode": ""
+      "occupationCode": "OCC0953B"
     }
   ],
   "regulationDetail": [],
