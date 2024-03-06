@@ -270,7 +270,7 @@
   "createdDate": "2024-02-29T14:12:07 +00:00",
   "lastUpdated": "2024-01-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-01-03T00:00:00 +00:00",
-  "occupationCode": "OCC1312",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/legal-technician-conveyancing-technician-or-probate-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/legal-technician-conveyancing-technician-or-probate-technician-v1-0",
   "qualifications": [
@@ -680,12 +680,12 @@
     {
       "optionId": "93607c4c-0d22-49f8-b03b-d0896896bd68",
       "title": "conveyancing technician",
-      "occupationCode": ""
+      "occupationCode": "OCC1312A"
     },
     {
       "optionId": "80353718-c581-49fe-958d-3e005077ec83",
       "title": "probate technician",
-      "occupationCode": ""
+      "occupationCode": "OCC1312B"
     }
   ],
   "regulationDetail": [],
