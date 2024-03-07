@@ -3,14 +3,14 @@
   "larsCode": 725,
   "referenceNumber": "ST1388",
   "title": "Photographer",
-  "status": "Approved for delivery",
+  "status": "Retired",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/725",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/photographer-10",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-08-30T00:00:00",
+  "changedDate": "2024-03-06T00:00:00",
   "earliestStartDate": "2023-08-29T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2024-03-05T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Carrying out skilled work in the photographic industry utilising common photographic knowledge and skills.",
   "level": 4,
@@ -284,7 +284,7 @@
   "clusterId": "42",
   "clusterDescription": "Production and distribution of media content using communications, archive and visual technology",
   "createdDate": "2023-12-15T13:52:40 +00:00",
-  "lastUpdated": "2023-08-30T00:00:00 +00:00",
+  "lastUpdated": "2024-03-06T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-08-29T00:00:00 +00:00",
   "occupationCode": "OCC1388",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/photographer-v1-0?view=standard#OccupationalStandard",
@@ -494,5 +494,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-08-30T00:00:00"
+  "publishDate": "2024-03-06T00:00:00"
 }
