@@ -469,7 +469,7 @@
   "cluster": "Manufacturing or process maintenance operative or technician",
   "clusterId": "71",
   "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
-  "createdDate": "2023-11-15T14:49:05 +00:00",
+  "createdDate": "2024-03-07T13:36:29 +00:00",
   "lastUpdated": "2023-12-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-11-30T00:00:00 +00:00",
   "occupationCode": "OCC1407",
@@ -515,6 +515,7 @@
       ],
       "mappedOptions": [],
       "mappedSkills": [
+        "f5206034-a907-4035-b098-dce0389a5258",
         "83793d78-dbc1-44b3-8785-3831539c7d48",
         "0d1aa4e6-5ceb-4cf9-b608-ca732c478d18",
         "960b69c1-d70f-4d06-88fb-821a2238a9fc",
@@ -701,10 +702,29 @@
       "dutyID": "16bbad6b-52ec-4536-a5e5-0e5f11ea0158",
       "dutyDetail": "Conduct first line routine maintenance and testing of process and plant equipment. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "1187e93e-5021-471c-b042-3b47d498bae7"
+      ],
+      "mappedKnowledge": [
+        "6718ff53-a93f-4345-bf5d-ac54a57edcc4",
+        "dc8130db-0f21-4111-997a-6e43e30ee246",
+        "7a33ba12-c54b-4e59-b614-55e41df63dd5",
+        "3c551353-d36f-4ae4-af38-69b86cfae1f1",
+        "9136a3d9-e24d-4688-8897-b9c840d77cb9",
+        "fa4a3f41-ccb8-4467-b456-13c03adc2a28",
+        "d6d88a93-628a-4642-862e-6d393ea637ae",
+        "2a10b58b-cdf1-48c2-9e7a-fad7f1ee30eb"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "f5206034-a907-4035-b098-dce0389a5258",
+        "215649d7-e166-471e-bb5a-c51e698944d7",
+        "0d1aa4e6-5ceb-4cf9-b608-ca732c478d18",
+        "7182fe70-91a4-4c4e-ac63-3908122e8fc9",
+        "d2414e67-97cf-46a0-bf5a-c8f1efb61bb5",
+        "b2439194-7360-4e83-a762-54225d89d9e8",
+        "bfbd26c9-e91a-44c4-91d0-9ec4a9a00adb"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -749,6 +769,7 @@
         "db2160aa-531e-4fa6-89db-edeb9905bfcd",
         "c2e270eb-b536-473f-b238-7c6441e71e52",
         "5db3845b-9963-4d8f-a148-41a659fca8b9",
+        "8367b63d-4e50-445f-b2da-56b45bbf6a83",
         "b2439194-7360-4e83-a762-54225d89d9e8"
       ],
       "criteriaForMeasuringPerformance": ""
