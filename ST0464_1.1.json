@@ -8,7 +8,7 @@
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/smart-home-technician-11",
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised. ",
-  "changedDate": "2023-07-14T00:00:00",
+  "changedDate": "2024-03-22T00:00:00",
   "earliestStartDate": "2023-07-14T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -211,7 +211,7 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual",
+    "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
     "contactEmail": "public.enquiries@ofqual.gov.uk",
@@ -239,7 +239,7 @@
   "clusterId": "65",
   "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
   "createdDate": "2023-07-14T10:11:42 +00:00",
-  "lastUpdated": "2023-07-14T00:00:00 +00:00",
+  "lastUpdated": "2024-03-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-09-30T00:00:00 +00:00",
   "occupationCode": "OCC0464",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/smart-home-technician-v1-1?view=standard#OccupationalStandard",
@@ -252,5 +252,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-07-14T00:00:00"
+  "publishDate": "2024-03-22T00:00:00"
 }
