@@ -8,7 +8,7 @@
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/construction-assembly-and-installation-operative",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-02-20T00:00:00",
+  "changedDate": "2024-03-22T00:00:00",
   "earliestStartDate": "2019-07-03T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -414,7 +414,7 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual",
+    "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
     "contactEmail": "public.enquiries@ofqual.gov.uk",
@@ -452,7 +452,7 @@
   "clusterId": null,
   "clusterDescription": null,
   "createdDate": "2022-02-11T13:20:59 +00:00",
-  "lastUpdated": "2023-02-20T00:00:00 +00:00",
+  "lastUpdated": "2024-03-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-07-03T00:00:00 +00:00",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/construction-assembly-and-installation-operative-v1-0?view=standard#OccupationalStandard",
@@ -1163,5 +1163,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-02-20T00:00:00"
+  "publishDate": "2024-03-22T00:00:00"
 }
