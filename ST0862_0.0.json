@@ -470,7 +470,7 @@
   "createdDate": "2024-03-07T09:50:55 +00:00",
   "lastUpdated": "",
   "occupationalStandardApprovalDate": null,
-  "occupationCode": "OCC0862",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/domestic-and-sexual-abuse-support-worker?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/domestic-and-sexual-abuse-support-worker",
   "qualifications": [],
@@ -1165,17 +1165,17 @@
     {
       "optionId": "db3d4c45-5d25-481a-b07c-23d22cc0db33",
       "title": "Independent domestic violence advisor  IDVA",
-      "occupationCode": ""
+      "occupationCode": "OCC0862B"
     },
     {
       "optionId": "b3bcce63-f460-4823-ac52-099b9870d10a",
       "title": "Children and young people domestic abuse support worker  CYPDASW",
-      "occupationCode": ""
+      "occupationCode": "OCC0862A"
     },
     {
       "optionId": "a010e4f3-07fe-40e0-a28e-6dce4187d3c1",
       "title": "Independent sexual violence advisor  ISVA",
-      "occupationCode": ""
+      "occupationCode": "OCC0862C"
     }
   ],
   "regulationDetail": [],
