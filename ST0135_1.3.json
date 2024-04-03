@@ -3,12 +3,12 @@
   "larsCode": 430,
   "referenceNumber": "ST0135",
   "title": "Early years educator",
-  "status": "In development",
+  "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/430",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/early-years-educator-13",
-  "versionNumber": "",
-  "change": "In revision",
-  "changedDate": "2023-12-21T00:00:00",
+  "versionNumber": "1.3",
+  "change": "Occupational standard, end-point assessment plan and funding band revised.",
+  "changedDate": "2024-04-02T00:00:00",
   "earliestStartDate": "2024-04-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -281,7 +281,7 @@
     "contactEmail": "public.enquiries@ofqual.gov.uk",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2019-04-03T00:00:00 +00:00",
   "integratedApprenticeship": false,
   "integratedDegree": "",
   "tbReference": "TB0069",
@@ -306,11 +306,11 @@
   "clusterId": "176",
   "clusterDescription": "Supports the development of a students' learning skills, behaviours and overall knowledge both one-to-one and in a small group",
   "createdDate": "2024-03-14T08:51:45 +00:00",
-  "lastUpdated": "2023-12-21T00:00:00 +00:00",
+  "lastUpdated": "2024-04-02T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-04-03T00:00:00 +00:00",
   "occupationCode": "OCC0135",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/early-years-educator-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/early-years-educator-in-revision",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/early-years-educator-v1-3?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/early-years-educator-v1-3",
   "qualifications": [
     {
       "qualificationId": "67fa9275-9ec5-4b9d-a939-dc421f3128ec",
@@ -657,5 +657,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2024-04-01T00:00:00"
+  "publishDate": "2024-04-02T00:00:00"
 }
