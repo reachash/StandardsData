@@ -8,14 +8,14 @@
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/building-services-engineering-craftsperson-12",
   "versionNumber": "",
   "change": "In revision",
-  "changedDate": "2024-04-02T00:00:00",
-  "earliestStartDate": null,
+  "changedDate": "2024-04-22T00:00:00",
+  "earliestStartDate": "2024-08-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Designing, installing and servicing engineering systems used to heat large buildings like factories and hospitals.",
   "level": 3,
   "typicalDuration": 36,
-  "maxFunding": 0,
+  "maxFunding": 17000,
   "route": "Construction and the built environment",
   "keywords": [
     "building services",
@@ -432,7 +432,7 @@
   "clusterId": "65",
   "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
   "createdDate": "2024-04-02T13:38:34 +00:00",
-  "lastUpdated": "2024-04-02T00:00:00 +00:00",
+  "lastUpdated": "2024-04-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-06-06T00:00:00 +00:00",
   "occupationCode": "OCC0062",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/building-services-engineering-craftsperson-in-revision?view=standard#OccupationalStandard",
@@ -846,5 +846,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-04-02T00:00:00"
+  "publishDate": "2024-08-01T00:00:00"
 }
