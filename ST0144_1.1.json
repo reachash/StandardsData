@@ -3,19 +3,19 @@
   "larsCode": 175,
   "referenceNumber": "ST0144",
   "title": "Material processing plant operator",
-  "status": "In development",
+  "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/175",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/material-processing-plant-operator-11",
-  "versionNumber": "",
-  "change": "In revision",
-  "changedDate": "2024-02-01T00:00:00",
-  "earliestStartDate": null,
+  "versionNumber": "1.1",
+  "change": "Occupational standard, end-point assessment plan and funding band has been revised.",
+  "changedDate": "2024-04-22T00:00:00",
+  "earliestStartDate": "2024-04-22T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Operating and maintaining heavy mobile plant equipment like excavators, dumper trucks or construction material production plants",
   "level": 2,
   "typicalDuration": 18,
-  "maxFunding": 0,
+  "maxFunding": 13000,
   "route": "Engineering and manufacturing",
   "keywords": [
     "extractive operations",
@@ -44,7 +44,7 @@
     "Washing plant operator"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/1219/mineral_processing_mobile_and_static_plant_operator.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/material-processing-plant-operator-v1-1?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.1",
@@ -339,7 +339,7 @@
     "contactEmail": "public.enquiries@ofqual.gov.uk",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2017-06-06T00:00:00 +00:00",
   "integratedApprenticeship": false,
   "integratedDegree": "",
   "tbReference": "TB0011",
@@ -372,11 +372,11 @@
   "clusterId": "267",
   "clusterDescription": "Operate plant and equipment for a part/sub process",
   "createdDate": "2024-02-01T09:50:54 +00:00",
-  "lastUpdated": "2024-02-01T00:00:00 +00:00",
+  "lastUpdated": "2024-04-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-06-06T00:00:00 +00:00",
-  "occupationCode": "",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/material-processing-plant-operator-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/material-processing-plant-operator-in-revision",
+  "occupationCode": "OCC0144",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/material-processing-plant-operator-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/material-processing-plant-operator-v1-1",
   "qualifications": [
     {
       "qualificationId": "f0b9c24d-4298-4836-a987-1f084400c1a9",
@@ -875,5 +875,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-02-01T00:00:00"
+  "publishDate": "2024-04-22T00:00:00"
 }
