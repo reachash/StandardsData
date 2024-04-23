@@ -8,14 +8,14 @@
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/building-services-engineering-service-and-maintenance-engineer-11",
   "versionNumber": "",
   "change": "In revision",
-  "changedDate": "2024-01-09T00:00:00",
-  "earliestStartDate": null,
+  "changedDate": "2024-04-22T00:00:00",
+  "earliestStartDate": "2024-08-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Maintenance and repair of building services, such as:  ventilation, heating, and water supply.",
   "level": 3,
   "typicalDuration": 48,
-  "maxFunding": 0,
+  "maxFunding": 18000,
   "route": "Construction and the built environment",
   "keywords": [
     "building",
@@ -415,7 +415,7 @@
   "clusterId": "65",
   "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
   "createdDate": "2024-01-09T09:51:11 +00:00",
-  "lastUpdated": "2024-01-09T00:00:00 +00:00",
+  "lastUpdated": "2024-04-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-09-12T00:00:00 +00:00",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/building-services-engineering-service-and-maintenance-engineer-in-revision?view=standard#OccupationalStandard",
@@ -849,5 +849,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-01-09T00:00:00"
+  "publishDate": "2024-08-01T00:00:00"
 }
