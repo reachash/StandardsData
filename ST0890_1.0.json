@@ -8,7 +8,7 @@
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/embalmer-v10",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2024-01-09T00:00:00",
+  "changedDate": "2024-04-30T00:00:00",
   "earliestStartDate": "2024-01-09T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -251,7 +251,7 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual is the intended EQA provider",
+    "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
     "contactEmail": "public.enquiries@ofqual.gov.uk",
@@ -277,7 +277,7 @@
   "clusterId": "11",
   "clusterDescription": "Provide laboratory-based investigative and scientific experimentation analyses, interpretations and evaluations of scientific information",
   "createdDate": "2024-01-09T08:11:03 +00:00",
-  "lastUpdated": "2024-01-09T00:00:00 +00:00",
+  "lastUpdated": "2024-04-30T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-01-09T00:00:00 +00:00",
   "occupationCode": "OCC0890",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/embalmer-v1-0?view=standard#OccupationalStandard",
@@ -1015,5 +1015,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-01-09T00:00:00"
+  "publishDate": "2024-04-30T00:00:00"
 }
