@@ -374,7 +374,7 @@
   "createdDate": "2024-02-01T09:50:54 +00:00",
   "lastUpdated": "2024-04-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-06-06T00:00:00 +00:00",
-  "occupationCode": "OCC0144",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/material-processing-plant-operator-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/material-processing-plant-operator-v1-1",
   "qualifications": [
@@ -844,12 +844,12 @@
     {
       "optionId": "f4077792-4912-4309-866a-c53ac685c684",
       "title": "Mobile plant",
-      "occupationCode": ""
+      "occupationCode": "OCC0144A"
     },
     {
       "optionId": "6fa14319-013a-4c03-942b-66e658283cd8",
       "title": "Static plant",
-      "occupationCode": ""
+      "occupationCode": "OCC0144B"
     }
   ],
   "regulationDetail": [],
