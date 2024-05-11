@@ -8,7 +8,7 @@
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/geospatial-mapping-and-science-specialist-degree",
   "versionNumber": "1.0",
   "change": "",
-  "changedDate": "2022-09-21T00:00:00",
+  "changedDate": "2024-05-10T00:00:00",
   "earliestStartDate": "2018-03-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -185,7 +185,7 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual",
+    "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
     "contactEmail": "public.enquiries@ofqual.gov.uk",
@@ -209,7 +209,7 @@
   "clusterId": null,
   "clusterDescription": null,
   "createdDate": "2017-11-14T17:09:27 +00:00",
-  "lastUpdated": "2022-09-21T00:00:00 +00:00",
+  "lastUpdated": "2024-05-10T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-03-27T00:00:00 +00:00",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/geospatial-mapping-and-science-specialist-degree-v1-0?view=standard#OccupationalStandard",
@@ -319,5 +319,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2022-09-21T00:00:00"
+  "publishDate": "2024-05-10T00:00:00"
 }
