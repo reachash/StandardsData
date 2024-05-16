@@ -8,14 +8,14 @@
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/vision-rehabilitation-specialist-11",
   "versionNumber": "",
   "change": "In revision",
-  "changedDate": "2024-04-04T00:00:00",
-  "earliestStartDate": null,
+  "changedDate": "2024-05-14T00:00:00",
+  "earliestStartDate": "2024-09-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Empower people with visual impairments to lead independent and fulfilling lives.",
   "level": 5,
   "typicalDuration": 24,
-  "maxFunding": 0,
+  "maxFunding": 17000,
   "route": "Health and science",
   "keywords": [
     "Vision Rehabilitation Specialist",
@@ -302,11 +302,11 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "",
   "pathway": "Health",
-  "cluster": "Health professional",
+  "cluster": "Health Professional",
   "clusterId": "6",
   "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2024-04-04T14:30:27 +00:00",
-  "lastUpdated": "2024-04-04T00:00:00 +00:00",
+  "lastUpdated": "2024-05-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-02-27T00:00:00 +00:00",
   "occupationCode": "OCC0431",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/vision-rehabilitation-specialist-in-revision?view=standard#OccupationalStandard",
@@ -669,5 +669,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-04-04T00:00:00"
+  "publishDate": "2024-09-01T00:00:00"
 }
