@@ -8,14 +8,14 @@
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/nuclear-health-physics-monitor-11",
   "versionNumber": "",
   "change": "In revision",
-  "changedDate": "2024-01-12T00:00:00",
-  "earliestStartDate": null,
+  "changedDate": "2024-05-17T00:00:00",
+  "earliestStartDate": "2024-05-28T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing radiological monitoring services in the nuclear industry to protect people, plant and the environment from radioactive contamination.",
   "level": 2,
   "typicalDuration": 24,
-  "maxFunding": 0,
+  "maxFunding": 13000,
   "route": "Engineering and manufacturing",
   "keywords": [
     "nuclear industry",
@@ -271,7 +271,7 @@
   "clusterId": "256",
   "clusterDescription": "Maintain and improve product and process integrity and quality, production and process efficiency, and the overall health and safety of the working environment",
   "createdDate": "2024-01-12T09:09:31 +00:00",
-  "lastUpdated": "2024-01-12T00:00:00 +00:00",
+  "lastUpdated": "2024-05-17T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-09-03T00:00:00 +00:00",
   "occupationCode": "OCC0290",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/nuclear-health-physics-monitor-in-revision?view=standard#OccupationalStandard",
@@ -728,5 +728,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-01-12T00:00:00"
+  "publishDate": "2024-05-28T00:00:00"
 }
