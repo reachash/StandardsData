@@ -8,7 +8,7 @@
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/food-industry-technologist-11",
   "versionNumber": "1.1",
   "change": "End-point assessment plan, funding and standard revised. ",
-  "changedDate": "2023-11-17T00:00:00",
+  "changedDate": "2024-05-23T00:00:00",
   "earliestStartDate": "2024-05-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -359,9 +359,9 @@
   "clusterId": "102",
   "clusterDescription": "Provide routine and non-routine laboratory testing, experimenting and support to a research brief",
   "createdDate": "2023-11-17T14:13:41 +00:00",
-  "lastUpdated": "2023-11-17T00:00:00 +00:00",
+  "lastUpdated": "2024-05-23T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-08-25T00:00:00 +00:00",
-  "occupationCode": "OCC0198",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/food-industry-technologist-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/food-industry-technologist-v1-1",
   "qualifications": [],
@@ -957,17 +957,17 @@
     {
       "optionId": "d96d1622-718b-4014-8daf-8b4d862fdb8f",
       "title": "Food development specialist",
-      "occupationCode": ""
+      "occupationCode": "OCC0198A"
     },
     {
       "optionId": "df6028eb-06cb-4475-98ad-7eecda8087d8",
       "title": "Food quality specialist",
-      "occupationCode": ""
+      "occupationCode": "OCC0198B"
     }
   ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-05-01T00:00:00"
+  "publishDate": "2024-05-23T00:00:00"
 }
