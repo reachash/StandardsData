@@ -266,8 +266,8 @@
   "tbReference": "TB0301",
   "tbMainContact": "ann.carter1@nhs.net",
   "involvedEmployers": "Avon & Wiltshire MH Trust, Berkshire Healthcare NHS Trust, ELFT, Essex Partnership Trust, MHM, Warrington Primary Care Psychological Service, Norfolk and Suffolk FT, Nottinghamshire Healthcare NHS Trust, Oxfordshire Health NHS Trust, Salford, Sunderland Counselling.",
-  "regulated": true,
-  "regulatedBody": " British Psychological Society (BPS). Training provider must be approved by regulator body.",
+  "regulated": false,
+  "regulatedBody": "",
   "coreAndOptions": false,
   "typicalJobTitles": [
     "Psychological wellbeing practitioner"
