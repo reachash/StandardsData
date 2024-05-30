@@ -7,15 +7,15 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/539",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/curtain-wall-installer-11",
   "versionNumber": "",
-  "change": "In revision",
-  "changedDate": "2024-03-21T00:00:00",
-  "earliestStartDate": null,
+  "change": "Occupational standard, end-point assessment plan and funding band revised",
+  "changedDate": "2024-05-29T00:00:00",
+  "earliestStartDate": "2024-06-17T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Install curtain wall systems to form all or part of the external envelope of a building",
   "level": 3,
   "typicalDuration": 30,
-  "maxFunding": 0,
+  "maxFunding": 14000,
   "route": "Construction and the built environment",
   "keywords": [
     "building",
@@ -349,7 +349,7 @@
   "clusterId": "5",
   "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
   "createdDate": "2024-03-21T13:59:04 +00:00",
-  "lastUpdated": "2024-03-21T00:00:00 +00:00",
+  "lastUpdated": "2024-05-29T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-02-03T00:00:00 +00:00",
   "occupationCode": "OCC0802",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/curtain-wall-installer-in-revision?view=standard#OccupationalStandard",
@@ -828,5 +828,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-03-21T00:00:00"
+  "publishDate": "2024-06-17T00:00:00"
 }
