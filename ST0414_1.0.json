@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Multi-skilled soldiers, combat engineers and tradesmen.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 5000,
   "route": "Construction and the built environment",
@@ -42,7 +43,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
