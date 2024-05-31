@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working in a specialist role supervising the safe arrival, turnaround and departure of aircraft at airports, military bases, heliports and other airfields.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 6000,
   "route": "Transport and logistics",
@@ -366,7 +367,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
