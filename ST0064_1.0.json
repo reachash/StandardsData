@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Installing and servicing building ventilation systems.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 27000,
   "route": "Construction and the built environment",
@@ -186,7 +187,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Institute for Apprenticeships and Technical Education ",
