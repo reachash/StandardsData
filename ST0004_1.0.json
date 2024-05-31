@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Helping colleagues to build mathematical models to make financial predications for clients.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 15000,
   "route": "Legal, finance and accounting",
@@ -94,7 +95,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
