@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "To preserve, sanitise and present a deceased person, ensuring confidentiality, minimising risks to public heath and assisting the bereaved by contributing to a healthy grieving process.",
   "level": 5,
+  "ePALength": 3,
   "typicalDuration": 36,
   "maxFunding": 20000,
   "route": "Health and science",
@@ -33,7 +34,7 @@
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.2 Nursing, and subjects and vocations allied to medicine",
   "version": "1.0",
-  "standardInformation": "",
+  "standardInformation": "&lt;p&gt;k&lt;/p&gt;",
   "occupationalSummary": "&lt;p&gt;This occupation is found in the death care industry, typically within funeral organisations. Embalmers may be employed by an organisation or self-employed trade. The broad purpose of the occupation is to preserve, prepare and present a deceased person, minimising risks to public heath and assisting the bereaved by contributing to a healthy grieving process. In their daily work, an employee in this occupation interacts with internal and external stakeholders, for example the deceased, families, clients, funeral branches, doctors, crematoria, cemeteries, care homes, nursing homes, hospitals, hospices, coroners, mortuary technicians. An employee in this occupation will be responsible for respectful and dignified care of the deceased and safe working practises within the area of work. Embalmers are responsible for verifying the completion of all necessary documentation prior to carrying out an embalming, carrying out embalming and the practical application of expertise and theoretical knowledge of embalming on a case-by-case basis to provide the best possible care to the deceased and experience to their families. Embalmers often work alone or with the assistance of a mortuary technician in a sterile theatre attached to a funeral home or in a standalone mortuary. Under normal circumstances they work set hours but in exceptional circumstances, for example in the case of a flu epidemic, they may have to work unsociable hours in order to meet the industry demands.&lt;/p&gt;",
   "knowledges": [
     {
@@ -248,7 +249,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
