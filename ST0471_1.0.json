@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Locating and delivering goods to precise and demanding delivery specifications.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 22000,
   "route": "Transport and logistics",
@@ -271,7 +272,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
