@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Leading the care service and managing teams of carers to look after adults with care needs.",
   "level": 5,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 7000,
   "route": "Care services",
@@ -229,7 +230,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
