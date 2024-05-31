@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Help ensure safe, fair, and legal marketplaces.",
   "level": 6,
+  "ePALength": 5,
   "typicalDuration": 36,
   "maxFunding": 22000,
   "route": "Business and administration",
@@ -254,7 +255,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
