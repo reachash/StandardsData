@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing administrative support to a financial organisation, to provide a high quality and compliant service.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 12000,
   "route": "Legal, finance and accounting",
@@ -102,7 +103,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
