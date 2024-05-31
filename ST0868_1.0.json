@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Provide intervention services early in identified cases.",
   "level": 4,
+  "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 3500,
   "route": "Care services",
@@ -210,7 +211,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
