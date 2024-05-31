@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Lay mastic asphalt on to a wide range of surfaces and structures.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 34,
   "maxFunding": 12000,
   "route": "Construction and the built environment",
@@ -149,7 +150,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
