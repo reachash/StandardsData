@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working with metals to create high-strength welds in pipe and plate in all welding positions, using at least 1 arc process.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 38,
   "maxFunding": 12000,
   "route": "Engineering and manufacturing",
@@ -40,7 +41,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
