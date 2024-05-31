@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Supporting the transformation of the way public services are delivered while securing best value for taxpayers' money.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
   "route": "Sales, marketing and procurement",
@@ -42,7 +43,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
