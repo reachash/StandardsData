@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Producing engineering designs and drawings for components, structures and systems used in industrial and commercial construction.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 42,
   "maxFunding": 27000,
   "route": "Engineering and manufacturing",
@@ -50,7 +51,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
