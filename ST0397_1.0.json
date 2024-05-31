@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Looking after the routine day to day care of domestic and/or wild animals.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 5000,
   "route": "Agriculture, environmental and animal care",
@@ -59,7 +60,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
