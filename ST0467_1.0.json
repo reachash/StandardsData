@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Raising animals with optimal welfare and consideration for their needs throughout the different stages of life",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 6000,
   "route": "Agriculture, environmental and animal care",
@@ -279,7 +280,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
