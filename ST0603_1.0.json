@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Producing rigorous, relevant and impactful economic analysis to drive decision-making at all levels.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 42,
   "maxFunding": 23000,
   "route": "Legal, finance and accounting",
@@ -120,7 +121,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
