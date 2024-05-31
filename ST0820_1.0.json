@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Provide high quality, evidence based psychological interventions to inform practice.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 16000,
   "route": "Health and science",
@@ -519,7 +520,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
