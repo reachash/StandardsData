@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Removing and refitting damaged mechanical and electrical components on a car before and after body repair work has been carried out.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 15000,
   "route": "Engineering and manufacturing",
@@ -149,7 +150,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
