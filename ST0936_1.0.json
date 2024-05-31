@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Work with, and provide technical and administrative support to chartered town planners.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 12000,
   "route": "Construction and the built environment",
@@ -165,7 +166,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
