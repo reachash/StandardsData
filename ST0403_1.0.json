@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Demonstrating expert working knowledge in relation to the removal, repair and replacement of vehicle body panels.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 15000,
   "route": "Engineering and manufacturing",
@@ -141,7 +142,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
