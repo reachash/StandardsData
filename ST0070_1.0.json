@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Supporting and engaging with different parts of the organisation and interact with internal or external customers.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 5000,
   "route": "Business and administration",
@@ -126,7 +127,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
