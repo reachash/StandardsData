@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Carry out specific environmental and conservation tasks.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 4000,
   "route": "Agriculture, environmental and animal care",
@@ -183,7 +184,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
