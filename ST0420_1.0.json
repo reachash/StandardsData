@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Carrying out manufacturing activities on multiple products with different specifications consecutively.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 6000,
   "route": "Engineering and manufacturing",
@@ -43,7 +44,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
