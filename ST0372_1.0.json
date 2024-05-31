@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Designing, installing and maintaining building services, such as water, lighting and heating.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 60,
   "maxFunding": 27000,
   "route": "Construction and the built environment",
@@ -137,7 +138,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
