@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Collecting and processing products from food or plant production lines and dispatching them to the retailer or moving them to other sites for further processing.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 6000,
   "route": "Agriculture, environmental and animal care",
@@ -222,7 +223,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
