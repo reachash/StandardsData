@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Lead the asset management function within an organisation.",
   "level": 7,
+  "ePALength": 6,
   "typicalDuration": 24,
   "maxFunding": 20000,
   "route": "Engineering and manufacturing",
@@ -313,7 +314,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
