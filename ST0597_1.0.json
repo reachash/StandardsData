@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working in a laboratory and using various scientific techniques.",
   "level": 5,
+  "ePALength": 0,
   "typicalDuration": 33,
   "maxFunding": 20000,
   "route": "Health and science",
@@ -155,7 +156,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
