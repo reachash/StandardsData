@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Using specialist methods to detect cracks and other imperfections in manufactured components, including those that have been in service for a period of time.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 18000,
   "route": "Engineering and manufacturing",
@@ -201,7 +202,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
