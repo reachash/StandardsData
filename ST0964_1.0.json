@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Drive and manage digital products through the complete product lifecycle.",
   "level": 4,
+  "ePALength": 4,
   "typicalDuration": 24,
   "maxFunding": 18000,
   "route": "Digital",
@@ -236,7 +237,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
