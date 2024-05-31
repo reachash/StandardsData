@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Tackling fires and other emergencies.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 12000,
   "route": "Protective services",
@@ -38,7 +39,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
