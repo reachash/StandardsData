@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Helping to shape, support and deliver marketing plans, working in conjunction with the Marketing Manager.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 15,
   "maxFunding": 6000,
   "route": "Sales, marketing and procurement",
@@ -183,7 +184,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
