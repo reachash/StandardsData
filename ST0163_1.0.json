@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Analysing progress and performance data on engineering, manufacturing, construction and infrastructure projects.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 21000,
   "route": "Engineering and manufacturing",
@@ -173,7 +174,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
