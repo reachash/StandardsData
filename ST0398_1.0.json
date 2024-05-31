@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Planning, managing, delivering and reviewing the training of animals.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 7000,
   "route": "Agriculture, environmental and animal care",
@@ -237,7 +238,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
