@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Completing beauty treatments as a key part of a beauty business.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 15,
   "maxFunding": 7000,
   "route": "Hair and beauty",
@@ -113,7 +114,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
