@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Repairing and replacing windscreens on vehicles.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 9000,
   "route": "Engineering and manufacturing",
@@ -238,7 +239,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
