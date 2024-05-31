@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working as part of a neighbourhood policing team to help deal with and prevent crime.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 9000,
   "route": "Protective services",
@@ -133,7 +134,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
