@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Managing project work and teams for businesses and other organisations.",
   "level": 4,
+  "ePALength": 5,
   "typicalDuration": 18,
   "maxFunding": 7000,
   "route": "Business and administration",
@@ -290,7 +291,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
