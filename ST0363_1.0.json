@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Giving high-level advice to financial services organisations on the legal and regulatory rules they must follow, such as on data security or preventing money laundering.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 27000,
   "route": "Legal, finance and accounting",
@@ -127,7 +128,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
