@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Using, designing and repairing equipment for taking measurements.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 24000,
   "route": "Health and science",
@@ -147,7 +148,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
