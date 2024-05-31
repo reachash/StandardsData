@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Designing, manufacturing, modifying and repairing custom-made dental appliances.",
   "level": 5,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 18000,
   "route": "Health and science",
@@ -116,7 +117,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
@@ -157,11 +160,13 @@
   "regulationDetail": [
     {
       "name": "Training provider",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     },
     {
       "name": "EPAO",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     }
   ],
   "optionsUnstructuredKsbMapping": [],
