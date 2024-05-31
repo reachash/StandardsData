@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Maintaining machinery and equipment in the food and drinks industry, finding and resolving faults, to optimise production levels.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 42,
   "maxFunding": 27000,
   "route": "Engineering and manufacturing",
@@ -41,7 +42,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
