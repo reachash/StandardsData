@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Putting up and taking down scaffolding, to allow workers to reach higher levels of buildings and structures safely.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 9000,
   "route": "Construction and the built environment",
@@ -175,7 +176,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
