@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Selling products and services to other businesses.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 21000,
   "route": "Sales, marketing and procurement",
@@ -109,7 +110,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
