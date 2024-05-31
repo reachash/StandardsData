@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Supporting the class teacher to enhance pupils’ learning.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 5000,
   "route": "Education and early years",
@@ -226,7 +227,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
