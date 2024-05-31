@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Producing a wide range of products, from clothing and fashion to leather goods, shoes, soft furnishings, marine and medical textiles.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 22,
   "maxFunding": 9000,
   "route": "Engineering and manufacturing",
@@ -39,7 +40,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
