@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Supporting the sale and renewal of insurance products.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 7000,
   "route": "Legal, finance and accounting",
@@ -44,7 +45,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
