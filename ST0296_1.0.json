@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working as a machine operator or an assistant in the overall papermaking process converting raw materials into paper products.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 6000,
   "route": "Engineering and manufacturing",
@@ -45,7 +46,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
