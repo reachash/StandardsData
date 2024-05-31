@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Transport goods by road to an agreed destination, quality and time standard.",
   "level": 2,
+  "ePALength": 3,
   "typicalDuration": 12,
   "maxFunding": 5000,
   "route": "Transport and logistics",
@@ -255,7 +256,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
