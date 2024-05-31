@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Care for and support children in taking responsibility for themselves and their own playing whilst creating a stimulating and adventurous space for children to learn and explore.",
   "level": 2,
+  "ePALength": 2,
   "typicalDuration": 18,
   "maxFunding": 5000,
   "route": "Care services",
@@ -263,7 +264,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
