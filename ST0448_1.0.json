@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Preparing, spraying and finishing vehicles that have been involved in collisions and other incidents.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 15000,
   "route": "Engineering and manufacturing",
@@ -134,7 +135,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
