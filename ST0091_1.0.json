@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing technical support to engineers and other construction professionals.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 12000,
   "route": "Construction and the built environment",
@@ -38,7 +39,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
