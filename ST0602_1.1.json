@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Performing various roles in local authorities such as benefit assessment, revenues calculation or customer service.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 7000,
   "route": "Business and administration",
@@ -227,7 +228,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
