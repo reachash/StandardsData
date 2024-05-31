@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Collecting information from site inspections to inform advice to clients on land, property or construction.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
   "route": "Construction and the built environment",
@@ -168,7 +169,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Royal Institution of Chartered Surveyors (RICS)",
