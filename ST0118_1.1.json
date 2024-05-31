@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Collect, organise and study data to provide business insight.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 15000,
   "route": "Digital",
@@ -197,7 +198,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
