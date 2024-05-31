@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Designing, developing, deploying and supporting the types of instrumentation, control and automation systems as used in the chemicals and process industry sector.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 60,
   "maxFunding": 27000,
   "route": "Engineering and manufacturing",
@@ -145,7 +146,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
