@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working in a team to find ways to improve an organisation's processes.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 19000,
   "route": "Digital",
@@ -165,7 +166,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
