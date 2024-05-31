@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Provide technical support to engineers who design infrastructure and systems for railways.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 18000,
   "route": "Construction and the built environment",
@@ -42,7 +43,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
