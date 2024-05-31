@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Surfacing and resurfacing vast stretches of the public and privately owned highway network.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 15,
   "maxFunding": 9000,
   "route": "Construction and the built environment",
@@ -41,7 +42,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
