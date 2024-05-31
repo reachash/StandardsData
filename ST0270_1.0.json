@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Installing a range of roofing materials and products.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 11000,
   "route": "Construction and the built environment",
@@ -295,7 +296,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
