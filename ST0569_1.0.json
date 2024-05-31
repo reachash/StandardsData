@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Responsible for the safe maintenance of park rides, machinery and equipment.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 21000,
   "route": "Engineering and manufacturing",
@@ -46,7 +47,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Institute for Apprenticeships and Technical Education ",
