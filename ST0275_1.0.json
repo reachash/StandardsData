@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Helping run hospitality services for passengers and crew on ships.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 6000,
   "route": "Catering and hospitality",
@@ -237,7 +238,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
