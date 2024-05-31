@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Help organisations manage projects efficiently.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 22000,
   "route": "Business and administration",
@@ -142,7 +143,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
