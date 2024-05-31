@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working alongside registered doctors providing medical care as an integral part of a wider healthcare team.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 17000,
   "route": "Health and science",
@@ -313,7 +314,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Institute for Apprenticeships and Technical Education ",
