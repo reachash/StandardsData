@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working in a butchers, butchery department or meat processing plan.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 9000,
   "route": "Sales, marketing and procurement",
@@ -41,7 +42,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
