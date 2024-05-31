@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Design, manufacture, fabricate and install signage.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 10000,
   "route": "Engineering and manufacturing",
@@ -234,7 +235,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
