@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Protecting vulnerable children and adults from harm or abuse, and supporting adults to live independently.",
   "level": 6,
+  "ePALength": 6,
   "typicalDuration": 30,
   "maxFunding": 23000,
   "route": "Care services",
@@ -408,7 +409,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
@@ -447,7 +450,8 @@
   "regulationDetail": [
     {
       "name": "Training provider",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     }
   ],
   "optionsUnstructuredKsbMapping": [],
