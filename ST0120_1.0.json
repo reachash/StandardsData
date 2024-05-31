@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Maximising the effective use of digital office technologies, productivity software and digital communications in organisations.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 15,
   "maxFunding": 13000,
   "route": "Digital",
@@ -62,7 +63,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
