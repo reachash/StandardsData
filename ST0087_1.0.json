@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Manage teams to help and advise families that need support.",
   "level": 5,
+  "ePALength": 18,
   "typicalDuration": 24,
   "maxFunding": 6000,
   "route": "Care services",
@@ -320,7 +321,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
