@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Conduct a wide range of marine electrical work.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 42,
   "maxFunding": 23000,
   "route": "Engineering and manufacturing",
@@ -264,7 +265,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
