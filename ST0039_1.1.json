@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Managing the environment, facilities and services at airports, military bases, heliports and other airfields - including the safe arrival, turnaround and departure of aircraft.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 7000,
   "route": "Transport and logistics",
@@ -405,7 +406,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
