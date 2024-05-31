@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Coaching clients (on a one to one and small group basis) towards their health and fitness goals.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 15,
   "maxFunding": 4000,
   "route": "Health and science",
@@ -240,7 +241,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
