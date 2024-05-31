@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working within small businesses or large organisations such as banks, giving clients specialist advice on how to manage their money.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
   "route": "Legal, finance and accounting",
@@ -118,7 +119,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
