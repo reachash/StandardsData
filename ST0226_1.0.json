@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Planning and maintaining large gardens, parks and other green spaces.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 8000,
   "route": "Agriculture, environmental and animal care",
@@ -245,7 +246,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
