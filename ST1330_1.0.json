@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Planned and reactive work to maintain and repair plant and equipment associated with power distribution or transmission overhead lines.",
   "level": 3,
+  "ePALength": 6,
   "typicalDuration": 30,
   "maxFunding": 27000,
   "route": "Engineering and manufacturing",
@@ -497,7 +498,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
