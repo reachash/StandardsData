@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working across various business teams to bring together compelling, customer focused proposals and tender submissions to win business.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 8000,
   "route": "Sales, marketing and procurement",
@@ -210,7 +211,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
