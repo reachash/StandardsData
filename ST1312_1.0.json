@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Support the Authorised Person in dealing with legal matters relating to the transfer of ownership of land or property from a seller to a buyer.",
   "level": 4,
+  "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 10000,
   "route": "Legal, finance and accounting",
@@ -233,7 +234,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
