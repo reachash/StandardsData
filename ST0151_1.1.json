@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Designing and developing electronic circuits, devices and systems for a range of industries.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 27000,
   "route": "Engineering and manufacturing",
@@ -141,7 +142,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
