@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Provide expert advice on the woodlands and forests.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 18000,
   "route": "Agriculture, environmental and animal care",
@@ -241,7 +242,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
