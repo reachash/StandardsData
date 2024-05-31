@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Lead the design, creation, maintenance or management of spaces in both natural and built environment.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 60,
   "maxFunding": 25000,
   "route": "Construction and the built environment",
@@ -198,7 +199,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
