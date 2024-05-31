@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Governance officers provide administrative and operational support.",
   "level": 4,
+  "ePALength": 5,
   "typicalDuration": 18,
   "maxFunding": 11000,
   "route": "Business and administration",
@@ -200,7 +201,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
