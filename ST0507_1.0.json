@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Identifying different metals, sorting and separating them into grades",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 9000,
   "route": "Engineering and manufacturing",
@@ -312,7 +313,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
