@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Interpreting design specifications to prepare a construction site ready for structural building works to take place.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 7000,
   "route": "Construction and the built environment",
@@ -39,7 +40,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
