@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Making bread products in an industrial, in-store or craft bakery.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 9000,
   "route": "Catering and hospitality",
@@ -47,7 +48,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
