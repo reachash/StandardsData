@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing laundry services and often product rental, to a wide range of sectors in the UK.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 4000,
   "route": "Engineering and manufacturing",
@@ -50,7 +51,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
