@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Leading on technical packaging delivery programmes and projects for a multitude of products.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 24000,
   "route": "Engineering and manufacturing",
@@ -289,7 +290,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
