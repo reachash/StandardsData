@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "The process of procurement or buying low value goods and services.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 6000,
   "route": "Sales, marketing and procurement",
@@ -201,7 +202,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
