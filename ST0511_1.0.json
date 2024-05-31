@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Collecting and sampling mineral and construction products to ensure they meet customer specifications.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 14,
   "maxFunding": 9000,
   "route": "Engineering and manufacturing",
@@ -173,7 +174,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
