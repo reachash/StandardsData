@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Gathering and processing geographic data from various sources, creating 2D or 3D drawings and models for the architecture, construction and engineering industries.",
   "level": 3,
+  "ePALength": 6,
   "typicalDuration": 24,
   "maxFunding": 13000,
   "route": "Construction and the built environment",
@@ -259,7 +260,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
