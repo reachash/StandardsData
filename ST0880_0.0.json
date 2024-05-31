@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Support businesses to fund the lease or purchase of an asset.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 0,
   "route": "Legal, finance and accounting",
@@ -213,7 +214,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
