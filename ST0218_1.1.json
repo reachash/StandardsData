@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Carrying out routine technical and scientific procedures and support within hospitals, doctor surgeries and other healthcare settings for a wide range of people.",
   "level": 2,
+  "ePALength": 2,
   "typicalDuration": 14,
   "maxFunding": 8000,
   "route": "Health and science",
@@ -349,7 +350,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
