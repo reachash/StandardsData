@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Connect new supplies, divert and make alterations to existing supplies, and locate and repair faults on the underground power distribution network. ",
   "level": 3,
+  "ePALength": 6,
   "typicalDuration": 30,
   "maxFunding": 27000,
   "route": "Engineering and manufacturing",
@@ -417,7 +418,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
