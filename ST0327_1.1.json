@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Helping customers buy products or services from retail organisations such as department stores, garden centres, high street chains, supermarkets and online and mail order businesses.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 4000,
   "route": "Sales, marketing and procurement",
@@ -241,7 +242,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
