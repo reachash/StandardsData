@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Helping people to address and overcome obstacles to secure employment.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 6000,
   "route": "Business and administration",
@@ -278,7 +279,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
