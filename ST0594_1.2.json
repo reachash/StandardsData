@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Helping manage funeral arrangements.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 4000,
   "route": "Sales, marketing and procurement",
@@ -241,7 +242,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
