@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Building, maintaining and repairing parts for the country's gas network, to provide a reliable supply of gas to domestic, commercial and industrial users.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 27000,
   "route": "Engineering and manufacturing",
@@ -47,7 +48,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
