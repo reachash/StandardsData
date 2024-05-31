@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Responsible for delivery and coaching of improvement activity within an area of responsibility.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 14,
   "maxFunding": 4000,
   "route": "Business and administration",
@@ -210,7 +211,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
