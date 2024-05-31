@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "To work in partnership with individuals and their communities to identify and address health and wellbeing needs, improve health, prevent ill-health and reduce inequalities.",
   "level": 3,
+  "ePALength": 3,
   "typicalDuration": 12,
   "maxFunding": 7000,
   "route": "Health and science",
@@ -416,7 +417,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
