@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working on heavy or commercial vehicles, carrying out both scheduled tyre maintenance and emergency response work across a wide variety of locations.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 12000,
   "route": "Engineering and manufacturing",
@@ -172,7 +173,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
