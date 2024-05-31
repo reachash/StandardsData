@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Setting up and operating the payroll within the organisation in which they are employed or on behalf of another organisation.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 9000,
   "route": "Legal, finance and accounting",
@@ -141,7 +142,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
