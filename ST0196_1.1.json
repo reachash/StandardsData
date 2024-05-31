@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working on production operations, setting up, and performing operational maintenance on food and drink machinery.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 9000,
   "route": "Engineering and manufacturing",
@@ -46,7 +47,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
