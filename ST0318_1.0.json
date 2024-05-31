@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing technical support to engineers working on the rail network and trains.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 27000,
   "route": "Engineering and manufacturing",
@@ -52,7 +53,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
