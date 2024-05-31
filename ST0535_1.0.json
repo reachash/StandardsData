@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Reading medical notes or records and analysing the contents which then translate into alphanumeric codes that accurately represent the patient’s stay.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 5000,
   "route": "Health and science",
@@ -279,7 +280,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
