@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Giving the necessary support, care and advice during pregnancy, labour and the postnatal period.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 26000,
   "route": "Health and science",
@@ -481,7 +482,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "2019-10-10T00:00:00 +00:00",
   "standardApproved": "2019-10-10T00:00:00 +00:00",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
@@ -850,7 +853,8 @@
   "regulationDetail": [
     {
       "name": "Training provider",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     }
   ],
   "optionsUnstructuredKsbMapping": [],
