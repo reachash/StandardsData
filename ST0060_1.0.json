@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Assembling, installing and repairing ductwork made from a wide range of materials.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 15000,
   "route": "Construction and the built environment",
@@ -129,7 +130,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Institute for Apprenticeships and Technical Education ",
