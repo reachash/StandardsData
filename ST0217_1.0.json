@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing high-quality and compassionate specialist health and social care for a range of people.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 3000,
   "route": "Health and science",
@@ -48,7 +49,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
