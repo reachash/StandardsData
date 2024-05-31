@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Leading, managing and coordinating the design and/or construction process on building and infrastructure projects.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 18000,
   "route": "Construction and the built environment",
@@ -162,7 +163,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
