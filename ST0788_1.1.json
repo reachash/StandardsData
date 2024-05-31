@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Gathering evidence through forensic sampling, toxicology, documentation of injuries and provision of a statement to support the criminal justice system.",
   "level": 7,
+  "ePALength": 6,
   "typicalDuration": 12,
   "maxFunding": 5000,
   "route": "Health and science",
@@ -370,7 +371,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
