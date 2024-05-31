@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Supporting licensed conveyancers with legal matters relating to the transfer of ownership of land or property.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 9000,
   "route": "Legal, finance and accounting",
@@ -113,7 +114,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
