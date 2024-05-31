@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Managing the road transport engineering department of a bus, coach or commercial vehicle operator.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 9000,
   "route": "Engineering and manufacturing",
@@ -153,7 +154,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
