@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Make, service and repair watches.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 27000,
   "route": "Creative and design",
@@ -40,7 +41,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
