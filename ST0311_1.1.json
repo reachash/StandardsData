@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Building, protecting and maintaining a positive reputation for brands, organisations and individuals.",
   "level": 4,
+  "ePALength": 5,
   "typicalDuration": 14,
   "maxFunding": 11000,
   "route": "Sales, marketing and procurement",
@@ -218,7 +219,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
