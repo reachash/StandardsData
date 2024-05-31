@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Producing a range of printed goods to meet customer and business needs.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 12000,
   "route": "Engineering and manufacturing",
@@ -319,7 +320,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
