@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Offer engineering support, technical leadership and expertise.",
   "level": 4,
+  "ePALength": 6,
   "typicalDuration": 36,
   "maxFunding": 19000,
   "route": "Engineering and manufacturing",
@@ -267,7 +268,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
