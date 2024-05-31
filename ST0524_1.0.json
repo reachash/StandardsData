@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Able to competently perform the professional sport in which they train such as&nbsp;cricket, football, rugby league and rugby union.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 8000,
   "route": "Health and science",
@@ -447,7 +448,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
