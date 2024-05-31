@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing excellent customer service to passengers while ensuring their comfort and safety throughout the flight.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 5000,
   "route": "Transport and logistics",
@@ -38,7 +39,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
