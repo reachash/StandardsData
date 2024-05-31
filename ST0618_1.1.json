@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Improving quality of life, health and well-being for people with communication difficulties and/or dysphagia (eating, drinking and swallowing difficulties).",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 25000,
   "route": "Health and science",
@@ -296,7 +297,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
@@ -678,11 +681,13 @@
   "regulationDetail": [
     {
       "name": "Training provider",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     },
     {
       "name": "EPAO",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     }
   ],
   "optionsUnstructuredKsbMapping": [],
