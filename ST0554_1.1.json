@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Conducting diagnostic and screening ultrasound examinations.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 24000,
   "route": "Health and science",
@@ -353,7 +354,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
