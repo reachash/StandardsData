@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working within the higher education (HE) sector delivering higher education teaching",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 9000,
   "route": "Education and early years",
@@ -240,7 +241,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
