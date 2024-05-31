@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Set people up on Information Technology (IT) systems, provide support and solve problems to help organisations run smoothly.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 15000,
   "route": "Digital",
@@ -53,7 +54,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
