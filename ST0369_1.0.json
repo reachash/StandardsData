@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Testing materials used in machinery and structures to find faults like corrosion, cracks, flaws and other imperfections.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 27000,
   "route": "Engineering and manufacturing",
@@ -142,7 +143,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
