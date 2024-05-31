@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Operating the signals and electrical controls needed to keep trains running safely and on time.",
   "level": 3,
+  "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 15000,
   "route": "Transport and logistics",
@@ -246,7 +247,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
