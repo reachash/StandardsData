@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Conduct serious and complex investigation.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 21000,
   "route": "Protective services",
@@ -196,7 +197,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
