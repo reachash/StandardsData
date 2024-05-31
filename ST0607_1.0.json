@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Manufacturing anything that can be fabricated out of metal such as bridges, oil rigs and ships.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 42,
   "maxFunding": 27000,
   "route": "Engineering and manufacturing",
@@ -228,7 +229,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
