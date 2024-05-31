@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Looking after the technical, organising and supervising side of construction projects.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 9000,
   "route": "Construction and the built environment",
@@ -43,7 +44,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
