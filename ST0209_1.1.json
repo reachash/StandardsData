@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Caring for the overall appearance of a golf course, maintaining a good quality playing surface and ensuring a challenging and enjoyable experience for golfers.",
   "level": 2,
+  "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 8000,
   "route": "Agriculture, environmental and animal care",
@@ -295,7 +296,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
