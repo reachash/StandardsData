@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Solve real-world problems using a combination of mechanical and electrical engineering expertise.",
   "level": 6,
+  "ePALength": 5,
   "typicalDuration": 60,
   "maxFunding": 27000,
   "route": "Engineering and manufacturing",
@@ -223,7 +224,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
