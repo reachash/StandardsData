@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Use online and social media platforms to design, build and implement campaigns and drive customer sales.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 11000,
   "route": "Sales, marketing and procurement",
@@ -187,7 +188,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
