@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Install and maintain lightning protection and earthing systems.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 14000,
   "route": "Construction and the built environment",
@@ -170,7 +171,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
