@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Safely navigating vessels from sea to berth or berth to sea within the ports jurisdiction.",
   "level": 5,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 18000,
   "route": "Transport and logistics",
@@ -169,7 +170,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
