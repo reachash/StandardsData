@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Applying rail and rail systems technical engineering skills in a broad range of management and leadership activities.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 24000,
   "route": "Engineering and manufacturing",
@@ -277,7 +278,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
