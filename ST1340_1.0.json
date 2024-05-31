@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Develop strategic campaigns, or one-off pieces of communication, that meet a client brief.",
   "level": 6,
+  "ePALength": 4,
   "typicalDuration": 24,
   "maxFunding": 17000,
   "route": "Creative and design",
@@ -276,7 +277,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
