@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "To ensure service continuity for specialist healthcare medical devices or healthcare estates.",
   "level": 3,
+  "ePALength": 3,
   "typicalDuration": 48,
   "maxFunding": 24000,
   "route": "Engineering and manufacturing",
@@ -408,7 +409,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
