@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Inspecting and repairing a range of heavy vehicles (HVs) and trailers for dealerships, independent garages and franchise and large fleet operators.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 8000,
   "route": "Engineering and manufacturing",
@@ -68,7 +69,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
