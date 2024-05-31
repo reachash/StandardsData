@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working with children, young people and families, including carers, to achieve positive and sustainable change in their lives.",
   "level": 4,
+  "ePALength": 12,
   "typicalDuration": 24,
   "maxFunding": 6000,
   "route": "Care services",
@@ -268,7 +269,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
