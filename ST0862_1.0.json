@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Provide early intervention, specialist advocacy, emotional and practical support to those who are experiencing and recovering from domestic abuse and or sexual violence.",
   "level": 4,
+  "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 8000,
   "route": "Care services",
@@ -427,7 +428,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
