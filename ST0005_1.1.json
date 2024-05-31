@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing frontline care for vulnerable adults to within their own homes, daycare centres, residential and nursing homes and other healthcare.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 3000,
   "route": "Care services",
@@ -362,7 +363,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
