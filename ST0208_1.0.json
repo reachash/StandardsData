@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Responsible for the management of the golf course, resources and staff, on behalf of their employer.",
   "level": 5,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 17000,
   "route": "Agriculture, environmental and animal care",
@@ -235,7 +236,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
