@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Designing and manufacturing custom made devices to meet specification such as artificial limbs and spinal bracing",
   "level": 3,
+  "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 6000,
   "route": "Health and science",
@@ -224,7 +225,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
