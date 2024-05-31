@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Operate, monitor and control the nuclear reactor and associated equipment in normal operational mode, as well as abnormal conditions.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 27000,
   "route": "Engineering and manufacturing",
@@ -235,7 +236,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
