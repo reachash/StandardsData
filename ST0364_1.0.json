@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Design and oversee testing installation and repair of marine apparatus and equipment.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 27000,
   "route": "Engineering and manufacturing",
@@ -380,7 +381,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
