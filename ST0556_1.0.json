@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Developing improvement strategies and providing leadership in improvement for a business.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 15000,
   "route": "Business and administration",
@@ -207,7 +208,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
