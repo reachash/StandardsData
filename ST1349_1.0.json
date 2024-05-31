@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Plan, prepare and produce a significant range of refined products such as sour dough, complex pastry and biscuit products, fried products, and cake and sponge products.",
   "level": 3,
+  "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 9000,
   "route": "Catering and hospitality",
@@ -40,7 +41,7 @@
   "ssa1": "7 Retail and Commercial Enterprise",
   "ssa2": "7.4 Hospitality and catering",
   "version": "1.0",
-  "standardInformation": "",
+  "standardInformation": "&lt;p&gt;j&lt;/p&gt;",
   "occupationalSummary": "&lt;p&gt;This occupation is found in the craft and production bakery sector or the new product development departments of bakery ingredient suppliers. The occupation may also be found in certain hospitality sectors eg large fine dining kitchens. Work may be carried out in craft bakeries, large and small, factory-scale production bakeries, hotels, hospitals, and prison kitchens where bakery products are made on site, in ingredient supplier and commercial test bakeries. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to plan, prepare and produce a significant range of refined products such as sour dough, complex pastry and biscuit products, fried products, and cake and sponge products. They will have knowledge of the recipe makeup, complex processing methods and processing equipment as well as a strong knowledge of specialised ingredients, and the principles of product improvement or new product development. Depending on the size and scope of operation a Lead Baker may have responsibility for a section or department. Within an NPD role may be Lead Test Baker. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with their bakery team including senior managers and internal auditors. They would report to a section/department head, production manager, bakery manager or even an external proprietor depending on scale. In NPD the Lead Baker would be responsible to the department manager. External contacts may include suppliers, auditors and customers. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for ensuring products are food and hygiene safe and of the required quality. They would also need to ensure compliance in all areas of health and safety, food safety and business rules. A Lead Baker will have knowledge and skills associated with team leadership and a full understanding of the principles of product costing and productivity measurement. They must work to deadlines and financial targets. Their expertise would see them contribute to NPD, line and process improvements and team development. Progression pathway could lead through to production management, NPD test bakery leader, bakery technologist or bakery management.&lt;/p&gt;",
   "knowledges": [
     {
@@ -279,7 +280,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
