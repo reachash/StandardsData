@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Making sewn products to meet specifications and quality criteria.",
   "level": 2,
+  "ePALength": 3,
   "typicalDuration": 15,
   "maxFunding": 8000,
   "route": "Engineering and manufacturing",
@@ -322,7 +323,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
