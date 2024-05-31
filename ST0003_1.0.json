@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working as an accountant or bookkeeper for an accounting practice, business, organisations or HMRC.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 9000,
   "route": "Legal, finance and accounting",
@@ -45,7 +46,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
