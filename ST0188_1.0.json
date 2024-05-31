@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Work with businesses to help protect their premises from fire.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 2500,
   "route": "Protective services",
@@ -161,7 +162,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
