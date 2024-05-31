@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Managing all non-clinical aspects of a dental surgery, leading the practice team and achieving excellent patient care and cost efficiency.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
   "route": "Business and administration",
@@ -40,7 +41,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
