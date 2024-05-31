@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Covers commercial, agricultural, domestic, new-build and historic buildings with a variety of differing roof designs and materials.",
   "level": 2,
+  "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 21000,
   "route": "Construction and the built environment",
@@ -244,7 +245,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
