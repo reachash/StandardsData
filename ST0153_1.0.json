@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Developing and applying new technologies to improve safety, reliability and cost-effectiveness within the energy sector.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 60,
   "maxFunding": 27000,
   "route": "Engineering and manufacturing",
@@ -51,7 +52,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
