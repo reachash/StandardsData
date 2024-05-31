@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Helping organise large-scale freight imports and exports.",
   "level": 3,
+  "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 9000,
   "route": "Transport and logistics",
@@ -320,7 +321,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
