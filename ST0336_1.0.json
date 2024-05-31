@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing technical support to transport planners to help manage and improve transport services and systems.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 12000,
   "route": "Transport and logistics",
@@ -43,7 +44,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
