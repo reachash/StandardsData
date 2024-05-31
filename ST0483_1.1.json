@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Deal with emergency and non-emergency calls.",
   "level": 3,
+  "ePALength": 6,
   "typicalDuration": 12,
   "maxFunding": 12000,
   "route": "Protective services",
@@ -211,7 +212,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
