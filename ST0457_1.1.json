@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Designing, building, servicing and repairing a range of engineering products and services.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 42,
   "maxFunding": 26000,
   "route": "Engineering and manufacturing",
@@ -780,7 +781,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
