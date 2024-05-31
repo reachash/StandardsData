@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing expert nursing care for sick animals.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 15000,
   "route": "Agriculture, environmental and animal care",
@@ -289,7 +290,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
