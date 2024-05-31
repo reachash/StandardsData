@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Erecting, altering and dismantling scaffolding, to allow other trades to work safely at height from secure working platforms.",
   "level": 2,
+  "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 11000,
   "route": "Construction and the built environment",
@@ -291,7 +292,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
