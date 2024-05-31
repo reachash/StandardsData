@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Ensure the maintenance of heritage properties through construction projects that repair, restore, adapt, alter or retrofit historic buildings and heritage assets.",
   "level": 5,
+  "ePALength": 5,
   "typicalDuration": 24,
   "maxFunding": 8000,
   "route": "Construction and the built environment",
@@ -234,7 +235,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
