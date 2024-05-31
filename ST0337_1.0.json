@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Managing, planning and coordinating passenger transport operations",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 12000,
   "route": "Transport and logistics",
@@ -205,7 +206,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
