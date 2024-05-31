@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing an impartial, independent and accountable third party service to confirm that building work achieves compliance with minimum standards.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 24000,
   "route": "Construction and the built environment",
@@ -177,7 +178,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
