@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Investigate, analyse and design the experience that people have with digital products and services.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 24000,
   "route": "Digital",
@@ -231,7 +232,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
