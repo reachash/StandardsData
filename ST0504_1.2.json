@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Installing carpets, vinyl, linoleum and rubber or laminate and wood flooring.",
   "level": 2,
+  "ePALength": 3,
   "typicalDuration": 30,
   "maxFunding": 0,
   "route": "Construction and the built environment",
@@ -443,7 +444,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
