@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "To invent, design and implement new robotic solutions for challenges that have not currently been solved using new scientific advanced engineering methods and techniques.",
   "level": 7,
+  "ePALength": 9,
   "typicalDuration": 36,
   "maxFunding": 27000,
   "route": "Engineering and manufacturing",
@@ -46,7 +47,7 @@
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
-  "standardInformation": "",
+  "standardInformation": "&lt;p&gt;h&lt;/p&gt;",
   "occupationalSummary": "&lt;p&gt;This occupation is found in a range of sectors, such as manufacturing, transport and logistics, construction, space, automotive, medical, and health. These may include potentially hazardous environments such as defence, off-shore oil and gas and nuclear, and complex environments like sterile manufacturing in pharma, medicines, and clean rooms in electronics manufacturing.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to invent, design and implement new robotic solutions for challenges that have not currently been solved using new scientific advanced engineering methods and techniques. The advanced robotics engineer will operate in a field where robotics is an emerging technology that can advance automation in complex and unstructured environments, which is not possible when using existing solutions. The responsibilities of the advanced robotics engineer include designing prototypes, testing machines and mechanical frameworks, developing algorithms, and building control systems. The engineer will also conduct research in various robotics fields, make recommendations, design processes and prototypes to build robotic solutions, and test robotics systems or solutions.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with a range of stakeholders who can be both internal and external, including robot technicians, software engineers, project and product managers, the senior leadership team, management representatives, end users, installation teams, shop floor and warehouse staff, communications and marketing team members and a multi-disciplinary project team. The working locations will vary depending on the nature of application and range from office, warehouse, robot labs, manufacturing sites, outdoor such as construction sites, to remote robotic deployment locations for example off-shore sites or underwater sites.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for providing technical leadership, design and input in a multi-disciplinary project team. They will have a high degree of skills and experience in robotics, mathematics, systems and software and will be responsible for ensuring the design of sustainable, ethical and safe robotic systems.&lt;/p&gt;",
   "knowledges": [
     {
@@ -317,7 +318,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
