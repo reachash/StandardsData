@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working across a variety of organisations focusing on ensuring excellent customer experience.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 6000,
   "route": "Catering and hospitality",
@@ -518,7 +519,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
