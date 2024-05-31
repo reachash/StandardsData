@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Work in a supporting role with young people aged 11-25 to promote their personal, social and educational development.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 4500,
   "route": "Care services",
@@ -288,7 +289,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
