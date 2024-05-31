@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Contribute to the local or national resilience and security agendas.",
   "level": 6,
+  "ePALength": 6,
   "typicalDuration": 40,
   "maxFunding": 23000,
   "route": "Protective services",
@@ -297,7 +298,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
