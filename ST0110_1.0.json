@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Assisting dental technicians, who design, make, modify and repair custom made dental devices.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 5000,
   "route": "Health and science",
@@ -42,7 +43,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Institute for Apprenticeships and Technical Education ",
