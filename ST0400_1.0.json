@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working on a wide variety of specialist vessels.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 20000,
   "route": "Transport and logistics",
@@ -185,7 +186,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
