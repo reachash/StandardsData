@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Making and installing wooden structures, fittings and furniture.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 9000,
   "route": "Construction and the built environment",
@@ -44,7 +45,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
