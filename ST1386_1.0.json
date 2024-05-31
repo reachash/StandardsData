@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Build systems that collect, manage, and convert data into usable information for data scientists, data analysts and business intelligence analysts to interpret.",
   "level": 5,
+  "ePALength": 4,
   "typicalDuration": 24,
   "maxFunding": 19000,
   "route": "Digital",
@@ -304,7 +305,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
