@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Constructing, maintaining and repairing the UK's electrical power network, providing a safe and reliable supply of electricity to the country.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 26000,
   "route": "Engineering and manufacturing",
@@ -239,7 +240,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
