@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Ensuring the safety and quality of food and drink products.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 27000,
   "route": "Health and science",
@@ -251,7 +252,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
