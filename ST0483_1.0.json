@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Dealing with medical emergency calls.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 9000,
   "route": "Protective services",
@@ -239,7 +240,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
