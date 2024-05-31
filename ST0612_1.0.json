@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Responsible for the marketing activities and strategy of their organisation.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
   "route": "Sales, marketing and procurement",
@@ -217,7 +218,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
