@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Investigating, identifying and implementing technological strategic solutions.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 21000,
   "route": "Digital",
@@ -719,7 +720,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
