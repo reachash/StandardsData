@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Attracting candidates and matching them to temporary or permanent job positions with client companies.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 5000,
   "route": "Business and administration",
@@ -207,7 +208,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
