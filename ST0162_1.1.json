@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Designing, installing and maintaining piping systems on construction sites or commercial fabrication facilities.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 21000,
   "route": "Construction and the built environment",
@@ -161,7 +162,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
