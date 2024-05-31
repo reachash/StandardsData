@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Install equipment and software, handle incidents and requests for help across unified communications technologies.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 18000,
   "route": "Digital",
@@ -50,7 +51,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
