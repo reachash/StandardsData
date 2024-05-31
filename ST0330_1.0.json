@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Maintaining a safe and secure environment for customers and employees by establishing and enforcing security policies and procedures; supervising the security guard force.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 5000,
   "route": "Protective services",
@@ -151,7 +152,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
