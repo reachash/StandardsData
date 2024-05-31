@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Progressing legal matters and transactions, applying legal knowledge and commercial judgement to produce solutions which meet clients' needs.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 60,
   "maxFunding": 27000,
   "route": "Legal, finance and accounting",
@@ -119,7 +120,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Solicitors Regulation Authority (SRA)",
@@ -160,7 +163,8 @@
   "regulationDetail": [
     {
       "name": "Training provider",
-      "webLink": ""
+      "webLink": "",
+      "approved": false
     }
   ],
   "optionsUnstructuredKsbMapping": [],
