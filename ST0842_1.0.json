@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Take charge of a vessel’s safety, security and navigation during operations both at sea and when in harbour.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 15000,
   "route": "Transport and logistics",
@@ -278,7 +279,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
@@ -864,11 +867,13 @@
   "regulationDetail": [
     {
       "name": "Training Provider",
-      "webLink": "https://www.gov.uk/guidance/mca-approved-training-providers-atp"
+      "webLink": "https://www.gov.uk/guidance/mca-approved-training-providers-atp",
+      "approved": true
     },
     {
       "name": "EPAO",
-      "webLink": ""
+      "webLink": "",
+      "approved": false
     }
   ],
   "optionsUnstructuredKsbMapping": [],
