@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Identify and get rid of pests like rats, mice and cockroaches.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 4000,
   "route": "Agriculture, environmental and animal care",
@@ -273,7 +274,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
