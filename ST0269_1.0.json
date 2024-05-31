@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing specialist plant, tools, machinery or equipment on short or long-term hire.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 5000,
   "route": "Construction and the built environment",
@@ -217,7 +218,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
