@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Diagnose and treat foot, ankle and leg problems.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 24000,
   "route": "Health and science",
@@ -527,7 +528,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
@@ -834,11 +837,13 @@
   "regulationDetail": [
     {
       "name": "Training Provider",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     },
     {
       "name": "EPAO",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     }
   ],
   "optionsUnstructuredKsbMapping": [],
