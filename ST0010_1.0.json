@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Creating aircraft components and equipment, specialising in a specific engineering discipline (for example - airframe, design and stress, systems integration, support engineering or manufacturing engineering).",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 27000,
   "route": "Engineering and manufacturing",
@@ -143,7 +144,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
