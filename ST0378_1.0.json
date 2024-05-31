@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Using craft, art or skill to design, shape and join metal components by hot forging and other metal working processes for small batch or bespoke production and/or heritage metalwork conservation.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 21000,
   "route": "Creative and design",
@@ -138,7 +139,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
