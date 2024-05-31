@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working with organisations to improve their information systems.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 18000,
   "route": "Digital",
@@ -325,7 +326,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
