@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "To safely design and construct bespoke scenic elements.",
   "level": 3,
+  "ePALength": 3,
   "typicalDuration": 30,
   "maxFunding": 23000,
   "route": "Creative and design",
@@ -280,7 +281,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
