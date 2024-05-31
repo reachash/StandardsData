@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Helping design the manufacturing process for science-based technology and products.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 60,
   "maxFunding": 24000,
   "route": "Engineering and manufacturing",
@@ -151,7 +152,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
