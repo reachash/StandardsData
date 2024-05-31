@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Carrying out a range of general and specialist roles within hospitality businesses, including bars, cafes, conference centres, restaurants and hotels.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 4000,
   "route": "Catering and hospitality",
@@ -407,7 +408,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
