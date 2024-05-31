@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Performing regulatory services functions and/or supporting compliance activities.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 6000,
   "route": "Business and administration",
@@ -233,7 +234,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
