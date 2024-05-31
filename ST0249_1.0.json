@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Contributing to the operation of science industry plant by installing, maintaining, testing and repair of mechanical and electrical equipment.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 27000,
   "route": "Engineering and manufacturing",
@@ -152,7 +153,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
