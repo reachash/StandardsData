@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Supporting the prevention, diagnosis and treatment of medical conditions.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 27000,
   "route": "Health and science",
@@ -260,7 +261,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
