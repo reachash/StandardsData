@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Specialising in an area of business within the insurance sector, for example broking, client management or underwriting.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
   "route": "Legal, finance and accounting",
@@ -111,7 +112,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
