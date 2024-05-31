@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Gathering geographic data for things like maps, satellite navigation systems (satnav) and global positioning systems (GPS).",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
   "route": "Construction and the built environment",
@@ -129,7 +130,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
