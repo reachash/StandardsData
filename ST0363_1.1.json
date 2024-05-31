@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "To ensure that organisations' operations comply with relevant legislation, regulation and policies through reviewing and implementing policies and procedures.",
   "level": 6,
+  "ePALength": 5,
   "typicalDuration": 36,
   "maxFunding": 23000,
   "route": "Legal, finance and accounting",
@@ -235,7 +236,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
