@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Collecting, transporting, processing, disposing and recycling waste and recyclables.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 6000,
   "route": "Transport and logistics",
@@ -224,7 +225,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
