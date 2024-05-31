@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Helping customers in banks and building societies or the broader financial services sector.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 3500,
   "route": "Legal, finance and accounting",
@@ -100,7 +101,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
