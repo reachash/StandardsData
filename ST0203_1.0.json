@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Making all kinds of beds, furniture and their related furnishings in a workshop or factory.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
   "route": "Engineering and manufacturing",
@@ -681,7 +682,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
