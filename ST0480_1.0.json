@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "A leader who has senior management responsibility.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 18000,
   "route": "Business and administration",
@@ -48,7 +49,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
