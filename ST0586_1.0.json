@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Ensuring healthcare products for human and animal use are licensed before being sold or supplied.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 21000,
   "route": "Health and science",
@@ -126,7 +127,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
