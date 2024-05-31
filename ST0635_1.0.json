@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Completing nail services on a one-to-one basis with individual customers/clients within commercial timings",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 3500,
   "route": "Hair and beauty",
@@ -113,7 +114,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
