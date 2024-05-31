@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Building and testing simple, high-quality code for software.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 18000,
   "route": "Digital",
@@ -200,7 +201,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
