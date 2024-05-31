@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working in hospitals, primary care and other healthcare settings, carrying out routine technical and scientific procedures. Supporting healthcare science (HCS) practitioners and clinical scientists.",
   "level": 4,
+  "ePALength": 2,
   "typicalDuration": 24,
   "maxFunding": 16000,
   "route": "Health and science",
@@ -419,7 +420,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
