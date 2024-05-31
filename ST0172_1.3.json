@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Maintaining and caring for equine feet.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 42,
   "maxFunding": 15000,
   "route": "Agriculture, environmental and animal care",
@@ -122,7 +123,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
