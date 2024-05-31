@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Studying the relationships between living things and their environment to help to resolve potentially conflicting demands between economic development and the environment.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 9000,
   "route": "Agriculture, environmental and animal care",
@@ -257,7 +258,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
