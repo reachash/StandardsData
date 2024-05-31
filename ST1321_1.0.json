@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Carry out the practical operations required to create, maintain and harvest forests and woodlands.",
   "level": 3,
+  "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 14000,
   "route": "Agriculture, environmental and animal care",
@@ -258,7 +259,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
