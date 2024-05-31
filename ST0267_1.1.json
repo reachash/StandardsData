@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Preparing and operating different cranes to lift and place a variety of loads in the workplace.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 15000,
   "route": "Construction and the built environment",
@@ -210,7 +211,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
