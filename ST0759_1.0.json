@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Planning, leading and conducting scientific experiments and analysing results.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 18000,
   "route": "Health and science",
@@ -134,7 +135,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
