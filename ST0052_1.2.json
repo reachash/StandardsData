@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Supervising the installation and servicing of electrical equipment and systems on roads and motorways.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 12000,
   "route": "Construction and the built environment",
@@ -143,7 +144,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
