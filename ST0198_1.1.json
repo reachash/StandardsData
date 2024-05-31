@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Making sure food and drink products are of the right quality and safe to eat and drink.",
   "level": 3,
+  "ePALength": 4,
   "typicalDuration": 24,
   "maxFunding": 18000,
   "route": "Health and science",
@@ -325,7 +326,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
