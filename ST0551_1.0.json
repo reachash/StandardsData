@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working directly with children, skilfully leading day to day practice.",
   "level": 5,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 8000,
   "route": "Education and early years",
@@ -291,7 +292,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
