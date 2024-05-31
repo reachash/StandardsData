@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Installing a wide range of replacement and new build fenestration products in a property or structure.",
   "level": 2,
+  "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 9000,
   "route": "Construction and the built environment",
@@ -322,7 +323,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
