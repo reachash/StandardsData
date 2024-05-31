@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Carrying out quality control and welding inspections for the nuclear industry, to ensure the safety and robustness of nuclear sites.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 27000,
   "route": "Engineering and manufacturing",
@@ -121,7 +122,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
