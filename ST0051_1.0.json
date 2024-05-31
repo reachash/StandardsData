@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Installing and servicing electrical support structures, equipment and systems on roads and motorways.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
   "route": "Construction and the built environment",
@@ -126,7 +127,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
