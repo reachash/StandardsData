@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing radiological monitoring services in the nuclear industry to protect people, plant and the environment from radioactive contamination.",
   "level": 2,
+  "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 13000,
   "route": "Engineering and manufacturing",
@@ -241,7 +242,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
