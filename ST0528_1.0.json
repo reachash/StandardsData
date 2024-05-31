@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing technical solutions across the construction, maintenance and operation of a high speed railway.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 21000,
   "route": "Engineering and manufacturing",
@@ -820,7 +821,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
