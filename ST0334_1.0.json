@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Ensuring an efficient flow of goods and services between manufacturers and their skilled trade customer base.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 4000,
   "route": "Sales, marketing and procurement",
@@ -245,7 +246,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
