@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "To deliver legal services within conveyancing or probate as an authorised person under the regulation of the Council for Licensed Conveyancers.",
   "level": 6,
+  "ePALength": 3,
   "typicalDuration": 56,
   "maxFunding": 18000,
   "route": "Legal, finance and accounting",
@@ -212,7 +213,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
@@ -756,11 +759,13 @@
   "regulationDetail": [
     {
       "name": "Training Provider",
-      "webLink": ""
+      "webLink": "",
+      "approved": false
     },
     {
       "name": "EPAO",
-      "webLink": ""
+      "webLink": "",
+      "approved": false
     }
   ],
   "optionsUnstructuredKsbMapping": [],
