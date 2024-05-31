@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Driving and delivering goods across all sectors and distances for a range of customers from private individuals and sole traders through to large global organisations.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 13,
   "maxFunding": 7000,
   "route": "Transport and logistics",
@@ -225,7 +226,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
