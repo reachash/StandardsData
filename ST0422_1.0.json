@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Operating science industry manufacturing equipment.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 6000,
   "route": "Engineering and manufacturing",
@@ -39,7 +40,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
