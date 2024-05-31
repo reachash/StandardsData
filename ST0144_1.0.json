@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Operating and maintaining heavy mobile plant equipment like excavators, dumper trucks or construction material production plants",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 9000,
   "route": "Engineering and manufacturing",
@@ -170,7 +171,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
