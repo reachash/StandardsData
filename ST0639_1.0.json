@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Producing and assembling bespoke pieces of furniture to meet individual customers’ requirements.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 10000,
   "route": "Creative and design",
@@ -329,7 +330,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
