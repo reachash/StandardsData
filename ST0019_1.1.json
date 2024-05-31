@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Maintain and certify aircraft of all types from small aeroplanes to airliners, jet fighters and helicopters, both civil and military.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 45,
   "maxFunding": 27000,
   "route": "Engineering and manufacturing",
@@ -211,7 +212,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
