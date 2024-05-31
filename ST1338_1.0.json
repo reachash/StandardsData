@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Prepare for and conduct processes in one stage of cell or battery manufacture.",
   "level": 3,
+  "ePALength": 3,
   "typicalDuration": 36,
   "maxFunding": 24000,
   "route": "Engineering and manufacturing",
@@ -493,7 +494,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
