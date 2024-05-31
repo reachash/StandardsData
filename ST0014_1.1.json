@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Carrying out maintenance and ground handling of a range of military and civil aircraft within a military environment, including helicopters and jet fighters.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 12000,
   "route": "Engineering and manufacturing",
@@ -117,7 +118,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
