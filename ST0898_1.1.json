@@ -8,12 +8,13 @@
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/water-network-operative-11",
   "versionNumber": "1.1",
   "change": "Standard and end-point assessment plan revised",
-  "changedDate": "2024-04-19T00:00:00",
+  "changedDate": "2024-05-30T00:00:00",
   "earliestStartDate": "2022-11-11T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2024-08-31T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Construct, maintain and repair water network infrastructure, to provide a reliable supply/service to domestic, commercial and industrial users.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 6000,
   "route": "Engineering and manufacturing",
@@ -322,7 +323,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
@@ -349,7 +352,7 @@
   "clusterId": "71",
   "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2022-11-11T10:14:53 +00:00",
-  "lastUpdated": "2024-04-19T00:00:00 +00:00",
+  "lastUpdated": "2024-05-30T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-06-17T00:00:00 +00:00",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/water-network-operative-v1-1?view=standard#OccupationalStandard",
@@ -922,5 +925,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-04-19T00:00:00"
+  "publishDate": "2024-08-31T00:00:00"
 }
