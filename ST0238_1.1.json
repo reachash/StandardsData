@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing human resources (HR) expertise within a company or organisation.",
   "level": 5,
+  "ePALength": 0,
   "typicalDuration": 19,
   "maxFunding": 7000,
   "route": "Business and administration",
@@ -127,7 +128,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
