@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Work with children and young people who have either deafness, vision impairment, or multi-sensory impairment, and their families, teaching staff and other professionals.",
   "level": 7,
+  "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 14000,
   "route": "Education and early years",
@@ -34,7 +35,7 @@
   "ssa1": "13 Education and Training",
   "ssa2": "13.1 Teaching and lecturing",
   "version": "1.0",
-  "standardInformation": "",
+  "standardInformation": "&lt;p&gt;d&lt;/p&gt;",
   "occupationalSummary": "&lt;p&gt;This occupation is found in the education sector, and working with families. It covers children and young people with sensory impairment (SI), ages 0-25, where special educational needs and disability (SEND) support is needed.&#160; Settings for this work include:&#160;&lt;/p&gt;\n&lt;p&gt;• family homes&#160;&lt;/p&gt;\n&lt;p&gt;• state, private and voluntary settings for early years 0-5&#160;&lt;/p&gt;\n&lt;p&gt;• childminders&#160;&lt;/p&gt;\n&lt;p&gt;• primary and secondary schools&#160;&lt;/p&gt;\n&lt;p&gt;• mainstream and special education schools&#160;&lt;/p&gt;\n&lt;p&gt;• post 16 further and higher education colleges&#160;&lt;/p&gt;\n&lt;p&gt;• local authority funded, trust and free schools&#160;&lt;/p&gt;\n&lt;p&gt;• peripatetic for local authorities in a sensory service&#160;&lt;/p&gt;\n&lt;p&gt;• third sector organisations and health trusts.&#160;&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to work with children and young people who have either deafness, vision impairment, or multi-sensory impairment, and their families, teaching staff and other professionals. The children and young people may or may not have additional or complex needs. The teacher of children and young people with SI uses specialist expertise, knowledge and skills to plan and deliver direct specialist teaching. They work to develop the capacity of the wider educational team around the learner, including teachers, families and other professionals, to remove barriers to learning and provide an education which meets the learner&#39;s needs. The specialist teacher fosters the meaningful involvement of SI children and young people in their communities, families, and in the wider productive world as independently as possible. They recommend and put in place resources and environmental adaptations that support this access.&#160; This occupation has a governmental requirement for a mandatory qualification (MQ) which will be included in the apprenticeship.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with a range of internal stakeholders such as babies and children, young people, families, and staff in a childcare, education or health environment.&#160; They also interact with a range of external stakeholders such as local authority officers, ophthalmologists, habilitation specialists, audiologists, ear, nose, and throat surgeons, speech and language therapists, occupational therapists, physiotherapists, voluntary agencies, social workers and other health and social care employees.&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for completing their own work to specification, with minimal supervision, ensuring they meet set outcomes and deadlines. They are responsible for meeting quality requirements and working in accordance with safeguarding considerations.&#160; Teachers of the SI are expected to have knowledge and skills relating to the use of technology such as laptops, mobile phones, iPads, tablets and also specialist technology relating to their work with children with SI such as Braillers, audiometric test boxes, and assistive listening devices.&lt;/p&gt;",
   "knowledges": [
     {
@@ -265,7 +266,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
@@ -742,11 +745,13 @@
   "regulationDetail": [
     {
       "name": "Training Provider",
-      "webLink": "https://www.gov.uk/guidance/mandatory-qualifications-specialist-teachers"
+      "webLink": "https://www.gov.uk/guidance/mandatory-qualifications-specialist-teachers",
+      "approved": true
     },
     {
       "name": "EPAO",
-      "webLink": "https://www.gov.uk/guidance/mandatory-qualifications-specialist-teachers"
+      "webLink": "https://www.gov.uk/guidance/mandatory-qualifications-specialist-teachers",
+      "approved": true
     }
   ],
   "optionsUnstructuredKsbMapping": [],
