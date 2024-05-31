@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Optimising crop/plant yields whilst maintaining and improving the surrounding environment.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 15000,
   "route": "Agriculture, environmental and animal care",
@@ -236,7 +237,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
