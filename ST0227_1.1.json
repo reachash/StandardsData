@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Running a specific section of a professional kitchen, for example, sauces, pastries or fish.",
   "level": 3,
+  "ePALength": 4,
   "typicalDuration": 18,
   "maxFunding": 9000,
   "route": "Catering and hospitality",
@@ -281,7 +282,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
