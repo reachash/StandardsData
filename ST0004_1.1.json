@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Supporting senior colleagues to help manage risks for clients. This will be through the use of actuarial techniques and building mathematical models",
   "level": 4,
+  "ePALength": 2,
   "typicalDuration": 24,
   "maxFunding": 15000,
   "route": "Legal, finance and accounting",
@@ -173,7 +174,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
