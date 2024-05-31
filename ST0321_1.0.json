@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Identifying, attracting and shortlisting candidates as part of the recruitment process.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 5000,
   "route": "Business and administration",
@@ -181,7 +182,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
