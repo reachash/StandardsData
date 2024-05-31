@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Operating buses, coaches or trains, making sure passengers get where they're going safely and on time.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 6000,
   "route": "Transport and logistics",
@@ -49,7 +50,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
