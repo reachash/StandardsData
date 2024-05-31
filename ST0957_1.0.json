@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Initiate and lead programmes and projects which use location to link, analyse and gain insight from multiple datasets.",
   "level": 7,
+  "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 18000,
   "route": "Digital",
@@ -243,7 +244,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
