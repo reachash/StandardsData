@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Organising and coordinating a network of interconnected businesses in the provision of goods and services to the end customer.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 15000,
   "route": "Transport and logistics",
@@ -175,7 +176,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
