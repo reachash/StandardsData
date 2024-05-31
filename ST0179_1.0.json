@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing operational and administrative support in investment management teams.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 5000,
   "route": "Legal, finance and accounting",
@@ -98,7 +99,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
