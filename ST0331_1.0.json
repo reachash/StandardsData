@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing professional advice and recommendations to clients on land, property or construction.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 60,
   "maxFunding": 27000,
   "route": "Construction and the built environment",
@@ -41,7 +42,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Royal Institution of Chartered Surveyors (RICS)",
