@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Assembling fabricated structural steel components in order to ensure that the finished structure is secure and level.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
   "route": "Construction and the built environment",
@@ -131,7 +132,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
