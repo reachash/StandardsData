@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working on the design of new buildings and the redesign of existing buildings.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 21000,
   "route": "Construction and the built environment",
@@ -293,7 +294,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
