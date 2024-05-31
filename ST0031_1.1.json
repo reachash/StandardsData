@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Repairing, replacing and re-calibrating automotive glass on vehicles.",
   "level": 3,
+  "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 0,
   "route": "Engineering and manufacturing",
@@ -290,7 +291,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
