@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Servicing and repairing motorcycles within either the franchised or independent motorcycle sector.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 11000,
   "route": "Engineering and manufacturing",
@@ -38,7 +39,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
