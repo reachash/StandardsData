@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Analysing, interpreting and evaluating technical information, concepts and ideas to propose solutions to problems",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 60,
   "maxFunding": 24000,
   "route": "Engineering and manufacturing",
@@ -435,7 +436,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
