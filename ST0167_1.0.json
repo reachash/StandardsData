@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing for and coordinating the day to day care of the horses in the workplace.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 6000,
   "route": "Agriculture, environmental and animal care",
@@ -191,7 +192,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
