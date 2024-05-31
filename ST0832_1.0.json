@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Build, provide or repair telecom services for commercial or residential customers on the UK's National Telecom Access Network.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 15,
   "maxFunding": 7000,
   "route": "Construction and the built environment",
@@ -183,7 +184,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
