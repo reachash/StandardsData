@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Service, repair and maintain lift trucks and powered access vehicles.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 14000,
   "route": "Engineering and manufacturing",
@@ -197,7 +198,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
