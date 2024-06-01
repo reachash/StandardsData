@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Carrying out inspections for maintenance and ground handling of a range of military or civil aircraft, including rotary and fixed wing within an airworthiness environment.",
   "level": 2,
+  "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 19000,
   "route": "Engineering and manufacturing",
@@ -278,7 +279,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
