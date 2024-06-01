@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Investigate and reconstruct road traffic and other vehicle-related incidents using scientific and engineering principles to determine how an incident occurred.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 42,
   "maxFunding": 27000,
   "route": "Health and science",
@@ -288,7 +289,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
