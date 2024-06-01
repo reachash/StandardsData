@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Maintaining, managing and installing a diverse range of specialist equipment and technology used in the manufacture of food and drink products.",
   "level": 5,
+  "ePALength": 6,
   "typicalDuration": 36,
   "maxFunding": 18000,
   "route": "Engineering and manufacturing",
@@ -278,7 +279,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
