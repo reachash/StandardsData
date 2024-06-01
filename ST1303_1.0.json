@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Manage and implement accounting, finance systems and processes.",
   "level": 6,
+  "ePALength": 4,
   "typicalDuration": 36,
   "maxFunding": 27000,
   "route": "Legal, finance and accounting",
@@ -357,7 +358,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
