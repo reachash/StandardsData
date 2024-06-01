@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Using art, drama or music to carry to improve a person’s mental, physical health and wellbeing.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 19000,
   "route": "Health and science",
@@ -639,7 +640,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
@@ -1082,11 +1085,13 @@
   "regulationDetail": [
     {
       "name": "Training Provider",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     },
     {
       "name": "EPAO",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     }
   ],
   "optionsUnstructuredKsbMapping": [],
