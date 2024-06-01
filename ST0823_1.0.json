@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Manage a commercially viable site in the metal recycling sector, which considers and responds to strict regulations and legislation specific to the sectors operational activity.",
   "level": 5,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 16000,
   "route": "Engineering and manufacturing",
@@ -272,7 +273,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
