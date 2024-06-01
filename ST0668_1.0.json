@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Sourcing, selecting, maintaining and delivering the right products to meet demand and business objectives.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 10000,
   "route": "Sales, marketing and procurement",
@@ -463,7 +464,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
