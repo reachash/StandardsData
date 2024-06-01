@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Design, planning and delivery of programmes that provide learning and change using outdoor activities and experiences.",
   "level": 5,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 13000,
   "route": "Health and science",
@@ -272,7 +273,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
