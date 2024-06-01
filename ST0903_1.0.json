@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Select and use relevant 3D software to create visually engaging motion graphics, animations or images (assets).",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 7000,
   "route": "Creative and design",
@@ -263,7 +264,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
