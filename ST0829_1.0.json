@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing therapeutic play interventions for sick infants, children and young people, service users, carers and families of all ages, throughout their healthcare journey.",
   "level": 5,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 13000,
   "route": "Health and science",
@@ -268,7 +269,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
@@ -1154,11 +1157,13 @@
   "regulationDetail": [
     {
       "name": "Training Provider",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     },
     {
       "name": "EPAO",
-      "webLink": ""
+      "webLink": "",
+      "approved": false
     }
   ],
   "optionsUnstructuredKsbMapping": [],
