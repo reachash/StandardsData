@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "The design of a unique tooling process pathway that enables components to be mass produced in the most economically viable way.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 22000,
   "route": "Engineering and manufacturing",
@@ -169,7 +170,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
