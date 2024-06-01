@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing excellent care to patients diagnosed with cancer by delivering high quality and accurate radiotherapy.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 24000,
   "route": "Health and science",
@@ -769,7 +770,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
@@ -1124,11 +1127,13 @@
   "regulationDetail": [
     {
       "name": "Training Provider",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     },
     {
       "name": "EPAO",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     }
   ],
   "optionsUnstructuredKsbMapping": [],
