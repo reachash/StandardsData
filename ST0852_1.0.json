@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Manually weld plates and structural components to high standards of quality.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 27000,
   "route": "Engineering and manufacturing",
@@ -228,7 +229,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
