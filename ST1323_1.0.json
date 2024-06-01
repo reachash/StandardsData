@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Ensure that public and private sports turf surfaces meet the requirements of the sport.",
   "level": 3,
+  "ePALength": 4,
   "typicalDuration": 24,
   "maxFunding": 8000,
   "route": "Agriculture, environmental and animal care",
@@ -279,7 +280,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
