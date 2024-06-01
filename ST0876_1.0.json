@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Carry out operations in a clean water or waste water treatment facility to ensure water safety.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 9000,
   "route": "Engineering and manufacturing",
@@ -321,7 +322,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
