@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Composite technicians produce polymer matrix composite components or final products to a specification.",
   "level": 3,
+  "ePALength": 3,
   "typicalDuration": 36,
   "maxFunding": 20000,
   "route": "Engineering and manufacturing",
@@ -331,7 +332,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
