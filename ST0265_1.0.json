@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Assembling and installing manufactured components to agreed design specification and tolerance.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 13000,
   "route": "Construction and the built environment",
@@ -411,7 +412,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
