@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Controlling and managing the complex manufacturing processes for different materials",
   "level": 7,
+  "ePALength": 9,
   "typicalDuration": 24,
   "maxFunding": 17000,
   "route": "Engineering and manufacturing",
@@ -268,7 +269,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
