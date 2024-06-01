@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Ensuring that sufficient materials and products are available to meet customer requirements.",
   "level": 5,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 16000,
   "route": "Engineering and manufacturing",
@@ -616,7 +617,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
