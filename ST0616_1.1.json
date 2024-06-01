@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Supporting the UK’s cellular network and its infrastructure.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 12000,
   "route": "Construction and the built environment",
@@ -233,7 +234,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
