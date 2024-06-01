@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Take data on individual or population health and use of services and other forms of evidence and turn it into health and care intelligence.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 17000,
   "route": "Health and science",
@@ -316,7 +317,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
