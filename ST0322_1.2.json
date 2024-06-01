@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Planning, preparing and safely carrying out work in process, product and space cooling.",
   "level": 3,
+  "ePALength": 6,
   "typicalDuration": 36,
   "maxFunding": 0,
   "route": "Construction and the built environment",
@@ -280,7 +281,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
