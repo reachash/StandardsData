@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Water industry network technicians respond to incidents and monitor water or waste water networks, resolving issues or identifying action required.",
   "level": 3,
+  "ePALength": 4,
   "typicalDuration": 30,
   "maxFunding": 15000,
   "route": "Engineering and manufacturing",
@@ -528,7 +529,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
