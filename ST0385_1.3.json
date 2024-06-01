@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Managing teams and projects in line with a private, public, or voluntary organisation's operational or departmental strategy.",
   "level": 5,
+  "ePALength": 5,
   "typicalDuration": 24,
   "maxFunding": 0,
   "route": "Business and administration",
@@ -257,7 +258,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Institute for Apprenticeships and Technical Education ",
