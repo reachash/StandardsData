@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Support the operation of a farm.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 5000,
   "route": "Agriculture, environmental and animal care",
@@ -234,7 +235,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
