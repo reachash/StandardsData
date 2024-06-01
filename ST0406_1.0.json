@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Inspecting and assessing all elements of a motor vehicle that has sustained damage and requires repair.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 9000,
   "route": "Engineering and manufacturing",
@@ -198,7 +199,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
