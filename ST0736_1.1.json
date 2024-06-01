@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Check, prepare and operate a number of construction machines (known as plant) that is used onsite in the construction sector including on railways, demolition and utility works (water/gas/electricity supply).",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 15,
   "maxFunding": 14000,
   "route": "Construction and the built environment",
@@ -206,7 +207,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
