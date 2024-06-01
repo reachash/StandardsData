@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Participate in habitat management, pest and predator control and animal husbandry in support of a shooting enterprise.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 7000,
   "route": "Agriculture, environmental and animal care",
@@ -275,7 +276,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
