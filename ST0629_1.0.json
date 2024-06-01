@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "The control, performance and efficiency of energy usage in industrial, commercial and public buildings.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 15000,
   "route": "Construction and the built environment",
@@ -247,7 +248,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
