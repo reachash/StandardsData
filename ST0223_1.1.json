@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Pruning, felling and maintaining trees.",
   "level": 2,
+  "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 12000,
   "route": "Agriculture, environmental and animal care",
@@ -198,7 +199,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
