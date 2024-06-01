@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Provide robust research and analysis that forms the foundation for social policy development, implementation, and evaluation, impacting important decisions that seek to ensure the best possible investment of public money and outcomes for members of society.",
   "level": 6,
+  "ePALength": 6,
   "typicalDuration": 42,
   "maxFunding": 24000,
   "route": "Business and administration",
@@ -239,7 +240,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
