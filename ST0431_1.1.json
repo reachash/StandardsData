@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Empower people with visual impairments to lead independent and fulfilling lives.",
   "level": 5,
+  "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 17000,
   "route": "Health and science",
@@ -275,7 +276,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
