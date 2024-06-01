@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Provide the aircraft with the technical support required both prior to and during the flight.",
   "level": 3,
+  "ePALength": 6,
   "typicalDuration": 18,
   "maxFunding": 8000,
   "route": "Transport and logistics",
@@ -229,7 +230,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
