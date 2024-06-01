@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Investigate reports of anti-social behaviour.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 8000,
   "route": "Protective services",
@@ -164,7 +165,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
