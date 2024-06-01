@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Assisting the pharmacist in chemists and hospital dispensaries.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 8000,
   "route": "Health and science",
@@ -298,7 +299,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "General Pharmaceutical Council ",
@@ -540,11 +543,13 @@
   "regulationDetail": [
     {
       "name": "Training provider ",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     },
     {
       "name": "EPAO",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     }
   ],
   "optionsUnstructuredKsbMapping": [],
