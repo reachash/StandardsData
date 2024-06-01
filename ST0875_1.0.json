@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Leading the engineering function for small vessels (less than 9000 Kilowatt and less than 3,000 Gross Tonnage) unlimited area. ",
   "level": 4,
+  "ePALength": 6,
   "typicalDuration": 48,
   "maxFunding": 16000,
   "route": "Engineering and manufacturing",
@@ -353,7 +354,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
@@ -1076,11 +1079,13 @@
   "regulationDetail": [
     {
       "name": "Training Provider",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     },
     {
       "name": "EPAO",
-      "webLink": ""
+      "webLink": "",
+      "approved": false
     }
   ],
   "optionsUnstructuredKsbMapping": [],
