@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Represent the vessel operators or owners to facilitate the efficient arrival, working, and departure of their vessels in a port.",
   "level": 3,
+  "ePALength": 4,
   "typicalDuration": 18,
   "maxFunding": 13000,
   "route": "Transport and logistics",
@@ -283,7 +284,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
