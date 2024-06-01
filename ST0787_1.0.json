@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Support decision-makers in strategic and leadership roles to understand and address complex and sometimes even ‘wicked’ problems through provision of expert systemic analysis, advice and facilitation.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 18000,
   "route": "Business and administration",
@@ -147,7 +148,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
