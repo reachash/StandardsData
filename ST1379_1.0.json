@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Supporting learners of all ages, and all levels, to develop within a new work role.",
   "level": 4,
+  "ePALength": 3,
   "typicalDuration": 12,
   "maxFunding": 5000,
   "route": "Education and early years",
@@ -191,7 +192,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
