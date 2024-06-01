@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Using timber products to create and install building components.",
   "level": 2,
+  "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 13000,
   "route": "Construction and the built environment",
@@ -345,7 +346,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
