@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Assessing the health needs of individuals, families, workplaces and the wider community.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 13000,
   "route": "Health and science",
@@ -641,7 +642,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
@@ -1125,7 +1128,8 @@
   "regulationDetail": [
     {
       "name": "Training provider",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     }
   ],
   "optionsUnstructuredKsbMapping": [],
