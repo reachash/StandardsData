@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Ensure that the employer’s workforce is paid on time and accurately in accordance with worker contractual and United Kingdom regulatory/statutory obligations.",
   "level": 5,
+  "ePALength": 4,
   "typicalDuration": 24,
   "maxFunding": 11000,
   "route": "Legal, finance and accounting",
@@ -261,7 +262,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
