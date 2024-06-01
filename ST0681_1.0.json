@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Leading on complex Electronic Systems projects from conception through the whole design-implement-operation life cycle to obsolescence.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 14000,
   "route": "Engineering and manufacturing",
@@ -126,7 +127,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
