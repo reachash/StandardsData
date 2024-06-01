@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Plan and manage the husbandry needs of domestic or wild animals in their care.",
   "level": 3,
+  "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 9000,
   "route": "Agriculture, environmental and animal care",
@@ -292,7 +293,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
