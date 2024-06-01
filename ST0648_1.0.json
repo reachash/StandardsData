@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working with people who were convicted of crimes and providing rehabilitation services.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 21000,
   "route": "Protective services",
@@ -221,7 +222,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Institute for Apprenticeships and Technical Education ",
@@ -588,7 +591,8 @@
   "regulationDetail": [
     {
       "name": "Training provider ",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     }
   ],
   "optionsUnstructuredKsbMapping": [],
