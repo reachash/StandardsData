@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Provide supporting evidence, documentation and information for an acquiring authority to obtain land for the purposes of large development or infrastructure projects.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 14000,
   "route": "Construction and the built environment",
@@ -168,7 +169,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
