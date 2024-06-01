@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Move aircrafts into position.",
   "level": 3,
+  "ePALength": 4,
   "typicalDuration": 18,
   "maxFunding": 7000,
   "route": "Transport and logistics",
@@ -216,7 +217,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
