@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Installing and dismantling capital plant steel infrastructure and lifting, moving and positioning loads during engineering construction projects.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 18000,
   "route": "Construction and the built environment",
@@ -273,7 +274,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
