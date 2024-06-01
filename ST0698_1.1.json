@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Designing and developing transport and travel systems.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 60,
   "maxFunding": 23000,
   "route": "Construction and the built environment",
@@ -234,7 +235,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
