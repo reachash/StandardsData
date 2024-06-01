@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Consult with and provide technical advice to farmers and growers to help them support their crop husbandry, based on latest scientific thinking, environmental requirements and in line with legislation and policy.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 14000,
   "route": "Agriculture, environmental and animal care",
@@ -416,7 +417,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
