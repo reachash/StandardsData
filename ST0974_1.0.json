@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "A digital designer works closely with colleagues to deliver high-quality learning activities.",
   "level": 5,
+  "ePALength": 4,
   "typicalDuration": 24,
   "maxFunding": 16000,
   "route": "Digital",
@@ -208,7 +209,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
