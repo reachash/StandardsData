@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Help clients (either internally or externally) to make strategic, tactical and operational decisions.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 14000,
   "route": "Business and administration",
@@ -275,7 +276,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
