@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Installing, repairing and maintaining various elements of the internal structure of a building.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 14000,
   "route": "Construction and the built environment",
@@ -345,7 +346,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
