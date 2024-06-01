@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Improve or redesign services currently offered and develop or design new service propositions to meet the needs of the user as well as the business and other stakeholders.",
   "level": 6,
+  "ePALength": 6,
   "typicalDuration": 24,
   "maxFunding": 15000,
   "route": "Business and administration",
@@ -259,7 +260,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
