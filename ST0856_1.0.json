@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "To take a leading role in the design, manufacturing and testing of complex, high value space hardware and ground support equipment.",
   "level": 6,
+  "ePALength": 7,
   "typicalDuration": 48,
   "maxFunding": 27000,
   "route": "Engineering and manufacturing",
@@ -272,7 +273,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
