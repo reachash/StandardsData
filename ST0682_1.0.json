@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "To manage the process of repairs to digital devices and replace device parts from end to end.",
   "level": 3,
+  "ePALength": 3,
   "typicalDuration": 21,
   "maxFunding": 11000,
   "route": "Digital",
@@ -310,7 +311,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
