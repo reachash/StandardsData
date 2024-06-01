@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Making beer.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 9000,
   "route": "Engineering and manufacturing",
@@ -178,7 +179,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
