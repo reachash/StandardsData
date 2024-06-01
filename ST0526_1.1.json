@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Contribute to the development of policy.",
   "level": 4,
+  "ePALength": 5,
   "typicalDuration": 18,
   "maxFunding": 6000,
   "route": "Business and administration",
@@ -223,7 +224,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
