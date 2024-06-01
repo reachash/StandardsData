@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Service, repair and manufacture components for a range of clocks as well as being able to manufacture a complete clock.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 21000,
   "route": "Creative and design",
@@ -325,7 +326,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
