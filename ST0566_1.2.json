@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Casting is the process from which solid metal shapes (castings) are produced by filling voids in molds with liquid metal",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 27,
   "maxFunding": 24000,
   "route": "Engineering and manufacturing",
@@ -250,7 +251,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
