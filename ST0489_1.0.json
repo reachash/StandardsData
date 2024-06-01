@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "To use storyboards to visualise the narrative, planning shots and drawing panels to demonstrate the staging/action, and maintain continuity between scenes of a production.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 15000,
   "route": "Creative and design",
@@ -406,7 +407,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
