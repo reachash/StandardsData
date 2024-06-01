@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing expert technical advice and support on a variety of aspects of dairy production and activities. ",
   "level": 5,
+  "ePALength": 6,
   "typicalDuration": 36,
   "maxFunding": 26000,
   "route": "Health and science",
@@ -319,7 +320,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
