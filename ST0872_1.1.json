@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Repair, maintain, modify, inspect, test, install and assemble lifting equipment to ensure its suitability and safety for a continued period of service.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 12000,
   "route": "Engineering and manufacturing",
@@ -295,7 +296,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
