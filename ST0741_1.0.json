@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Work with and support landscape professionals in designing, planning and managing spaces in both natural and built environments.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
   "route": "Construction and the built environment",
@@ -151,7 +152,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
