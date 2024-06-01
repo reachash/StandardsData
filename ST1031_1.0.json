@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Support customer focussed marketing activities that drive the demand for a product or service.",
   "level": 3,
+  "ePALength": 5,
   "typicalDuration": 18,
   "maxFunding": 11000,
   "route": "Sales, marketing and procurement",
@@ -237,7 +238,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
