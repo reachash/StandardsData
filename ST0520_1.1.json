@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Helping people and businesses assess and manage the risks they face.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 21000,
   "route": "Legal, finance and accounting",
@@ -105,7 +106,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
