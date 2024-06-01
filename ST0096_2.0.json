@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Preparing walls and ceilings for decoration and finishing.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 10000,
   "route": "Construction and the built environment",
@@ -176,7 +177,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
