@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Responding to 999 and urgent calls, and providing emergency care for people as part of an ambulance crew.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 15000,
   "route": "Health and science",
@@ -196,7 +197,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
