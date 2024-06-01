@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Leading small non-complex criminal investigations and a range of civil investigations.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 15000,
   "route": "Protective services",
@@ -294,7 +295,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
