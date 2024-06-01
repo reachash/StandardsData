@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Ensuring the safe operation and passage of a vessel.",
   "level": 3,
+  "ePALength": 6,
   "typicalDuration": 24,
   "maxFunding": 25000,
   "route": "Transport and logistics",
@@ -234,7 +235,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
@@ -741,11 +744,13 @@
   "regulationDetail": [
     {
       "name": "Training Provider",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     },
     {
       "name": "EPAO",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     }
   ],
   "optionsUnstructuredKsbMapping": [],
