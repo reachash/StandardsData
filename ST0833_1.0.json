@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "To be involved in or contribute to the design and operation of OME by preparing explosives compositions and devices.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 9000,
   "route": "Engineering and manufacturing",
@@ -193,7 +194,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
