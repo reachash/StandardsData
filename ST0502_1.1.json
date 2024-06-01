@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Analysing data to predict the likelihood and potential financial risk of future events.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 18000,
   "route": "Legal, finance and accounting",
@@ -152,7 +153,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
