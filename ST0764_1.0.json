@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Provide policing and or investigative activity.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 13000,
   "route": "Protective services",
@@ -674,7 +675,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
