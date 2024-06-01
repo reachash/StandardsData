@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing, supervising and coordinating high-quality and compassionate health and social care for a wide range of people.",
   "level": 5,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 12000,
   "route": "Health and science",
@@ -165,7 +166,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
