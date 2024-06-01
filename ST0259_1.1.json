@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Carrying out a range of moving, packaging and stock-taking roles and duties in a warehouse environment.",
   "level": 2,
+  "ePALength": 3,
   "typicalDuration": 12,
   "maxFunding": 5000,
   "route": "Transport and logistics",
@@ -224,7 +225,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
