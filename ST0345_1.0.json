@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Facilitate and instigate direct communication online between the end user or customer and the organisation.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 13000,
   "route": "Digital",
@@ -191,7 +192,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
