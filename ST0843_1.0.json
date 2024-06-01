@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing a hygienically clean healthcare environment in which service users, staff and other users can thrive, work and develop.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 4000,
   "route": "Health and science",
@@ -227,7 +228,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
