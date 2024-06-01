@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Supporting customer focused marketing activities through awareness raising and/or perception building.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 7000,
   "route": "Sales, marketing and procurement",
@@ -208,7 +209,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
