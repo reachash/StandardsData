@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Maintaining and renovating sports surfaces to make sure that public and private sports facilities are available for use.",
   "level": 2,
+  "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 6000,
   "route": "Agriculture, environmental and animal care",
@@ -202,7 +203,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
