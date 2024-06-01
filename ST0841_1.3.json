@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing specialist technical support for engineers.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 42,
   "maxFunding": 21000,
   "route": "Engineering and manufacturing",
@@ -211,7 +212,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
