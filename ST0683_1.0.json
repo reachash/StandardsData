@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Helping bring products to market for retailer buying or merchandising teams.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 6000,
   "route": "Sales, marketing and procurement",
@@ -250,7 +251,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
