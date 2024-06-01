@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Applying the principles and procedures of medicine to assess, prevent, diagnose, care for and treat patients with illness, disease and injury and to maintain physical and mental health.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 60,
   "maxFunding": 27000,
   "route": "Health and science",
@@ -768,7 +769,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
@@ -1253,11 +1256,13 @@
   "regulationDetail": [
     {
       "name": "Training Provider",
-      "webLink": "https://www.gmc-uk.org/education/how-we-quality-assure/medical-schools/bodies-awarding-uk-medical-degrees"
+      "webLink": "https://www.gmc-uk.org/education/how-we-quality-assure/medical-schools/bodies-awarding-uk-medical-degrees",
+      "approved": true
     },
     {
       "name": "EPAO",
-      "webLink": "https://www.gmc-uk.org/education/how-we-quality-assure/medical-schools/bodies-awarding-uk-medical-degrees"
+      "webLink": "https://www.gmc-uk.org/education/how-we-quality-assure/medical-schools/bodies-awarding-uk-medical-degrees",
+      "approved": true
     }
   ],
   "optionsUnstructuredKsbMapping": [],
