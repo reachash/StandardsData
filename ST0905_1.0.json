@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Work to improve children’s mental health, emotional well-being, learning capabilities and social relationships.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 20000,
   "route": "Care services",
@@ -223,7 +224,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
