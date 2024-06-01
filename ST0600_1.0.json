@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working independently to test people's hearing, advising on hearing care and where necessary supplying and fitting hearing aids and other communication devices.",
   "level": 5,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 12000,
   "route": "Health and science",
@@ -467,7 +468,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Institute for Apprenticeships and Technical Education ",
@@ -913,7 +916,8 @@
   "regulationDetail": [
     {
       "name": "Training provider",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     }
   ],
   "optionsUnstructuredKsbMapping": [],
