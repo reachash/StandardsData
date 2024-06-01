@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Liaise with the director and director of photography from the earliest stages of a production, working with clients and colleagues to create VFX/CG elements.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 21000,
   "route": "Creative and design",
@@ -280,7 +281,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
