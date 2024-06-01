@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Creating and sustaining successful tenancies in the private and social rented housing sectors.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 7000,
   "route": "Sales, marketing and procurement",
@@ -159,7 +160,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
