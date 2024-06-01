@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Assessing vocational learners, usually on a one-to-one basis, in a range of learning environments.",
   "level": 3,
+  "ePALength": 3,
   "typicalDuration": 12,
   "maxFunding": 5000,
   "route": "Education and early years",
@@ -159,7 +160,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
