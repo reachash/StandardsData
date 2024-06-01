@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Cut specified material components by hand or by machine using templates or measurements and then prepare the components for assembly.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 5000,
   "route": "Engineering and manufacturing",
@@ -274,7 +275,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
