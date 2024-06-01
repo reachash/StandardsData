@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Developing new and improved furniture products such as domestic and office furniture.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 10000,
   "route": "Engineering and manufacturing",
@@ -276,7 +277,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
