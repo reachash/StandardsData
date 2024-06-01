@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Leading end-to-end sales interaction with customers and managing sales internally within an organisation.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 6000,
   "route": "Sales, marketing and procurement",
@@ -130,7 +131,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
