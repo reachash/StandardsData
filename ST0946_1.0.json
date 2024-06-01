@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Carry out common husbandry and technical tasks for livestock.",
   "level": 5,
+  "ePALength": 2,
   "typicalDuration": 24,
   "maxFunding": 13000,
   "route": "Agriculture, environmental and animal care",
@@ -237,7 +238,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
