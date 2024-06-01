@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Create knitted components or products that meet customer and/or organisation specifications and quality standards.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 11000,
   "route": "Engineering and manufacturing",
@@ -258,7 +259,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
