@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Assess a customers full circumstances and provide suitable advice to enable the customer to best manage their debts.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 6000,
   "route": "Legal, finance and accounting",
@@ -152,7 +153,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
