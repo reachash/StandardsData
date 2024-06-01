@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Install and commission compressed air and/or vacuum equipment and their associated systems; and complete servicing, fault diagnosis, repair and to ensure equipment is operating and controlled at its optimum efficiency.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 14000,
   "route": "Engineering and manufacturing",
@@ -215,7 +216,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
