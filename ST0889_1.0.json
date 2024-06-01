@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Ensure the effective operation of the mortuary and to assist colleagues in providing dignified care of the deceased.",
   "level": 3,
+  "ePALength": 4,
   "typicalDuration": 18,
   "maxFunding": 13000,
   "route": "Health and science",
@@ -351,7 +352,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
