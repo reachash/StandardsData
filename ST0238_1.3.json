@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing People Professional expertise within a company or organisation.",
   "level": 5,
+  "ePALength": 3,
   "typicalDuration": 22,
   "maxFunding": 11000,
   "route": "Business and administration",
@@ -265,7 +266,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
