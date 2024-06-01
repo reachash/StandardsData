@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Using advanced communication and behaviour-change skills to enable people to make lifestyle and food choices to improve their health.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 24000,
   "route": "Health and science",
@@ -583,7 +584,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
@@ -894,11 +897,13 @@
   "regulationDetail": [
     {
       "name": "Training Provider",
-      "webLink": ""
+      "webLink": "",
+      "approved": false
     },
     {
       "name": "EPAO",
-      "webLink": ""
+      "webLink": "",
+      "approved": false
     }
   ],
   "optionsUnstructuredKsbMapping": [],
