@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Carrying out a range of tasks involving handling cargo, passengers or marine craft.",
   "level": 2,
+  "ePALength": 3,
   "typicalDuration": 12,
   "maxFunding": 0,
   "route": "Transport and logistics",
@@ -383,7 +384,9 @@
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
