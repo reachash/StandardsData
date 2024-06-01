@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Managing teams and projects in line with a private, public or voluntary organisation's operational or departmental strategy.",
   "level": 5,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 7000,
   "route": "Business and administration",
@@ -164,7 +165,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
