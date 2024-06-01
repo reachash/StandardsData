@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Collect, analyse and provide expert interpretation of clinical and specialist scientific data and make key judgements and decisions.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 20000,
   "route": "Health and science",
@@ -262,7 +263,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
