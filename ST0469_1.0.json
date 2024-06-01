@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Apply fine hand bookbinding and craft skills in order to create, maintain, repair and assist in the conservation of books.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 10000,
   "route": "Creative and design",
@@ -252,7 +253,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
