@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Provide photography service.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 0,
   "route": "Health and science",
@@ -278,7 +279,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "2019-11-06T00:00:00 +00:00",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
