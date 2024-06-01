@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Responsible for the everyday care and husbandry of the animals within the collection.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 7000,
   "route": "Agriculture, environmental and animal care",
@@ -351,7 +352,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
