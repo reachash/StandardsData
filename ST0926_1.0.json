@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Provide daily management, maintenance, conservation and protection of the natural environment and inspire people about the natural environment.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 26,
   "maxFunding": 9000,
   "route": "Agriculture, environmental and animal care",
@@ -289,7 +290,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
