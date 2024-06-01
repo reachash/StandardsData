@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Making sure that learning and development contributes to improved performance in the workplace.",
   "level": 5,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 7000,
   "route": "Business and administration",
@@ -273,7 +274,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
