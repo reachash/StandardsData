@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Managing a team to produce standardised dished and menus within a kitchen environment.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 4500,
   "route": "Catering and hospitality",
@@ -212,7 +213,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
