@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Creating content for a wide range of media, including digital, social media, broadcast and print.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 12000,
   "route": "Creative and design",
@@ -285,7 +286,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
