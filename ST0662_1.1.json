@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Installing and maintaining hardware and software for automation systems.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 14000,
   "route": "Engineering and manufacturing",
@@ -172,7 +173,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
