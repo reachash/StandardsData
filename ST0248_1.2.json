@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Providing routine and one-off testing and technical support in a scientific laboratory environment.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 21000,
   "route": "Health and science",
@@ -247,7 +248,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
