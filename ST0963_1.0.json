@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Surface finishing is a broad range of industrial processes that alter the surface of a manufactured item to achieve a certain property.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 42,
   "maxFunding": 24000,
   "route": "Engineering and manufacturing",
@@ -433,7 +434,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
