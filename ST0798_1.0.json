@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Design, analyse, interpret and report clinical research and clinical trials.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 18000,
   "route": "Health and science",
@@ -158,7 +159,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
