@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Managing housing or property related services, leading a team and taking responsibility for the cost effectiveness and efficiency of their business area.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 9000,
   "route": "Sales, marketing and procurement",
@@ -172,7 +173,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
