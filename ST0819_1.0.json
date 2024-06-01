@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Prepare and deliver a high standard of work relating to the removal or repair of asbestos.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 6000,
   "route": "Construction and the built environment",
@@ -172,7 +173,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Institute for Apprenticeships and Technical Education ",
