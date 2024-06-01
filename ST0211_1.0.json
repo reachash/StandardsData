@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Provide, design and implement bespoke treatment plans.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 8000,
   "route": "Hair and beauty",
@@ -358,7 +359,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
