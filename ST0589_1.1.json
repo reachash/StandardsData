@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working as part of a team in kitchen environments.\n",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 6000,
   "route": "Catering and hospitality",
@@ -205,7 +206,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
