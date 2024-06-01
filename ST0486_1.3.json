@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Tackling a wide range of emergency situations such as tackling fires, searching, rescuing and protecting people and animals.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 14000,
   "route": "Protective services",
@@ -189,7 +190,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
