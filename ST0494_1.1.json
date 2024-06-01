@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Practitioners work with individuals eligible for probation support, this includes individuals in court, individuals who have been convicted and victims.",
   "level": 3,
+  "ePALength": 4,
   "typicalDuration": 18,
   "maxFunding": 0,
   "route": "Protective services",
@@ -218,7 +219,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Institute for Apprenticeships and Technical Education ",
