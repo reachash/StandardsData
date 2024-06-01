@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "To support their organisation to identify costumes for short/long term performance plans and be responsible for the care, maintenance and usage of costumes, ensuring that all costume elements are at the standard of the designer’s specification.",
   "level": 3,
+  "ePALength": 3,
   "typicalDuration": 15,
   "maxFunding": 9000,
   "route": "Creative and design",
@@ -235,7 +236,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
