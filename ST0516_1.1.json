@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Working alongside intelligence collection officers and other operational support roles to identify patterns and trends of the information and data they are handling.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 11000,
   "route": "Protective services",
@@ -167,7 +168,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
