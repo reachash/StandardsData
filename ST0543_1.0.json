@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Provide a complete dentures direct to patients and other dental devices such as partial dentures to the prescription of a dentist.",
   "level": 5,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 14000,
   "route": "Health and science",
@@ -270,7 +271,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
@@ -309,11 +312,13 @@
   "regulationDetail": [
     {
       "name": "EPAO",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     },
     {
       "name": "Training provider",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     }
   ],
   "optionsUnstructuredKsbMapping": [],
