@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Managing individuals, teams, or projects to meet private, public, or voluntary organisational goals.",
   "level": 3,
+  "ePALength": 3,
   "typicalDuration": 15,
   "maxFunding": 0,
   "route": "Business and administration",
@@ -239,7 +240,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
