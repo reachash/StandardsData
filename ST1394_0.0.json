@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "To assist traffic teams by ensuring the accurate flow of information throughout traffic.",
   "level": 2,
+  "ePALength": 3,
   "typicalDuration": 12,
   "maxFunding": 0,
   "route": "Transport and logistics",
@@ -289,7 +290,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
