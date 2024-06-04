@@ -14,6 +14,7 @@
   "latestEndDate": null,
   "overviewOfRole": "Ensure the safe use of radiation and to minimise the harmful effects of radiation on workers, the public and the environment.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 42,
   "maxFunding": 0,
   "route": "Engineering and manufacturing",
@@ -182,7 +183,9 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual is the intended EQA provider",
