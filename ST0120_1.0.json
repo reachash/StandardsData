@@ -75,7 +75,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-04-11T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0046 ",
   "tbMainContact": "kate.mooney@bt.com",
@@ -104,7 +105,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Digital Support and Services",
   "cluster": "IT support and services technician",
   "clusterId": "187",
