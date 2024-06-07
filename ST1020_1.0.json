@@ -243,7 +243,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-08-09T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0671",
   "tbMainContact": "andy@groundtherm.co.uk",
@@ -258,11 +259,11 @@
     "Solar thermal installer/technician/engineer"
   ],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Building Services Engineering",
   "cluster": "Building services engineering operative or technician",
   "clusterId": "65",
-  "clusterDescription": null,
+  "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
   "createdDate": "2023-09-27T12:46:06 +00:00",
   "lastUpdated": "2024-01-17T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-08-09T00:00:00 +00:00",
