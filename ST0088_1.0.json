@@ -281,7 +281,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-06-29T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0116",
   "tbMainContact": "AaronEarlyYears@outlook.com, JBenford@northamptonshire.gov.uk, FDewsbery@northamptonshire.gov.uk",
@@ -294,7 +295,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Care Services",
   "cluster": "Children, young people and families manager",
   "clusterId": "168",
