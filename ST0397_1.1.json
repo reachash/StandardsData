@@ -635,7 +635,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-08-08T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0545",
   "tbMainContact": "Enquiries.IFA@education.gov.uk",
@@ -658,7 +659,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Animal Care and Management",
   "cluster": "Animal care and welfare assistant",
   "clusterId": "148",
