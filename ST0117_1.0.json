@@ -57,7 +57,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2017-03-31T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0556",
   "tbMainContact": "Enquiries.IFA@education.gov.uk",
@@ -74,7 +75,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Digital Business Services",
   "cluster": "Data analyst advanced technician",
   "clusterId": "189",
