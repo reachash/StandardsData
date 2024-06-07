@@ -69,7 +69,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-06-24T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0359 ",
   "tbMainContact": "Nicole.Suter@screenskills.com",
@@ -88,7 +89,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media and broadcast assistant",
   "clusterId": "42",
