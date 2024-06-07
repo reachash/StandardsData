@@ -466,7 +466,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0173",
   "tbMainContact": "Philip.davies@jacobs.com",
@@ -491,7 +492,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years.&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Engineering, design and development",
   "cluster": "Design and development technician",
   "clusterId": "255",
