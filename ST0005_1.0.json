@@ -60,7 +60,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-07-21T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0067 ",
   "tbMainContact": "trailblazer@skillsforcare.org.uk",
@@ -78,7 +79,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Care Services",
   "cluster": "Adult care worker",
   "clusterId": "146",
