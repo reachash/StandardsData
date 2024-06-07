@@ -460,7 +460,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-05-07T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0295 ",
   "tbMainContact": "joce_brooks@hotmail.com",
@@ -471,7 +472,7 @@
   "typicalJobTitles": [],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Community exercise, physical activity, sport and health",
   "cluster": "Exercise, fitness and health assistant",
   "clusterId": "214",
