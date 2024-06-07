@@ -190,7 +190,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-05-08T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0139 ",
   "tbMainContact": "rachel.henson@justice.gov.uk ",
@@ -207,7 +208,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Protective services",
   "cluster": "Protective service officer",
   "clusterId": "15",
