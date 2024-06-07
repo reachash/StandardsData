@@ -252,7 +252,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-11-08T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "",
   "tbMainContact": "felicity.fashade@baesystems.com",
@@ -287,11 +288,11 @@
     "Environmental improvement health and safety manager"
   ],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Management and Administration",
   "cluster": "Business manager",
   "clusterId": "25",
-  "clusterDescription": null,
+  "clusterDescription": "Lead and manage a project (business/process improvement), business support services and/or run a practice using the full range of business systems, procedures and accounting practice. Includes the ability to set-up and develop a new business",
   "createdDate": "2023-07-25T15:37:03 +00:00",
   "lastUpdated": "2023-07-27T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-11-08T00:00:00 +00:00",
