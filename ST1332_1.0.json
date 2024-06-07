@@ -430,7 +430,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-11-30T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0709",
   "tbMainContact": "engineering.manufacturing@education.gov.uk",
@@ -451,9 +452,9 @@
     "Low voltage mains jointer"
   ],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
-  "pathway": "Maintenance, Installation & Repair",
-  "cluster": "Manufacturing/Process Maintenance Operative/Technician",
+  "reviewDetails": null,
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Manufacturing or process maintenance operative or technician",
   "clusterId": "71",
   "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2023-11-17T09:06:24 +00:00",
