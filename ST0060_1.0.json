@@ -142,7 +142,8 @@
     "webLink": ""
   },
   "approvedForDelivery": "2017-09-12T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "",
   "tbMainContact": "keithmarshall99@yahoo.com",
@@ -153,7 +154,7 @@
   "typicalJobTitles": [],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": null,
   "cluster": null,
   "clusterId": null,
