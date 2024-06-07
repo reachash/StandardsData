@@ -57,7 +57,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2017-05-16T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0037",
   "tbMainContact": "sjbell@laingorourke.com",
@@ -72,7 +73,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Onsite Construction",
   "cluster": "Metal and steel operative",
   "clusterId": "66",
