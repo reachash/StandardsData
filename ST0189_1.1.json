@@ -230,7 +230,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-08-19T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0195",
   "tbMainContact": "pat.allen2016@gmail.com",
@@ -250,7 +251,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Building Services Engineering",
   "cluster": "Building services engineering operative or technician",
   "clusterId": "65",
