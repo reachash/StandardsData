@@ -55,7 +55,8 @@
     "webLink": ""
   },
   "approvedForDelivery": "2018-11-07T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "",
   "tbMainContact": "healthcare.trailblazer@skillsforhealth.org.uk",
@@ -69,7 +70,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Healthcare science",
   "cluster": "Healthcare science assistant",
   "clusterId": "43",
