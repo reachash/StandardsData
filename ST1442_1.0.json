@@ -269,7 +269,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-01-23T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0306",
   "tbMainContact": "berwyn.jones@pearson.com",
@@ -287,7 +288,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years.&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media, broadcast and production technician",
   "clusterId": "76",
