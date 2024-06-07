@@ -189,7 +189,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-02-15T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0158 ",
   "tbMainContact": "judith.rosser-davies@ukft.org",
@@ -205,7 +206,7 @@
     "Sustainable fashion studio assistant"
   ],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Craft and Design",
   "cluster": "Design technician",
   "clusterId": "232",
