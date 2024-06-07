@@ -147,7 +147,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2015-08-27T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0192",
   "tbMainContact": "Nick.Walker@Barnett-Waddingham.co.uk",
@@ -164,7 +165,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Financial",
   "cluster": "Financial services administrator",
   "clusterId": "240",
