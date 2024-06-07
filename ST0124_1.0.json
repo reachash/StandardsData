@@ -79,7 +79,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-05-10T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0553",
   "tbMainContact": "Enquiries.IFA@education.gov.uk\u00A0 ",
@@ -107,7 +108,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Digital Support and Services",
   "cluster": "Cyber security technician",
   "clusterId": "185",
