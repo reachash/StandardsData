@@ -271,7 +271,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2022-08-18T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0223",
   "tbMainContact": "Ros@adrow.co.uk",
@@ -291,7 +292,7 @@
     "Wildlife ranger"
   ],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Arboriculture and forestry operative",
   "clusterId": "111",
