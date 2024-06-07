@@ -223,7 +223,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-02-27T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "",
   "tbMainContact": "felicity.fashade@baesystems.com",
@@ -251,7 +252,7 @@
     "Environmental improvement health and safety inspector"
   ],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Management and Administration",
   "cluster": "Administrator",
   "clusterId": "45",
