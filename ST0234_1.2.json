@@ -172,7 +172,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2015-11-26T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0064",
   "tbMainContact": "Kieren.Buxton@flagship-group.co.uk,  maxine@amaxestates.com",
@@ -185,7 +186,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Customer service",
   "cluster": "Customer service assistant",
   "clusterId": "14",
