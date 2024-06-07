@@ -143,7 +143,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-09-19T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0189",
   "tbMainContact": "Enquiries.IFA@education.gov.uk",
@@ -157,7 +158,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Financial",
   "cluster": "Financial services administrator",
   "clusterId": "240",
