@@ -64,7 +64,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2015-03-26T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0255 ",
   "tbMainContact": "joanne.butcher@nctj.com",
@@ -82,7 +83,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media and broadcast assistant",
   "clusterId": "42",
