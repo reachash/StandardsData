@@ -202,7 +202,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-02-27T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0269",
   "tbMainContact": "peter.pavitt@specsavers.com, kerry.powell@visionexpress.com",
@@ -213,7 +214,7 @@
   "typicalJobTitles": [],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Healthcare science",
   "cluster": "Healthcare science assistant",
   "clusterId": "43",
