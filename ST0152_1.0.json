@@ -162,7 +162,8 @@
     "webLink": "https://www.netservices.org.uk/"
   },
   "approvedForDelivery": "2015-09-10T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "",
   "tbMainContact": "keithmarshall99@yahoo.com",
@@ -177,7 +178,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": null,
   "cluster": null,
   "clusterId": null,
