@@ -53,7 +53,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2015-03-26T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0053",
   "tbMainContact": "mustafa@genixhealthcare.com",
@@ -66,7 +67,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Management and Administration",
   "cluster": "Business manager",
   "clusterId": "25",
