@@ -180,7 +180,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-11-30T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "",
   "tbMainContact": "Lisa.Rose@homeoffice.gsi.gov.uk",
@@ -205,7 +206,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Protective services",
   "cluster": "Protective service manager",
   "clusterId": "50",
