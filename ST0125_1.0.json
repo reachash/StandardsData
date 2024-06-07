@@ -66,7 +66,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-03-23T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0457",
   "tbMainContact": "Enquiries.IFA@education.gov.uk\u00A0",
@@ -83,7 +84,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Digital Support and Services",
   "cluster": "IT support and services technician",
   "clusterId": "187",
