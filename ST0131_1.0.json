@@ -63,7 +63,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-03-23T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0555",
   "tbMainContact": "Enquiries.IFA@education.gov.uk",
@@ -81,7 +82,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Digital Support and Services",
   "cluster": "Hardware, networks and infrastructure technician",
   "clusterId": "186",
