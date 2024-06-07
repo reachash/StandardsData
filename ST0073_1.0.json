@@ -154,7 +154,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-06-13T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0227",
   "tbMainContact": "iholloway@i-realise.co.uk",
@@ -177,7 +178,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Accountancy",
   "cluster": "Assistant accountant",
   "clusterId": "236",
