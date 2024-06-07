@@ -317,7 +317,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-02-03T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0101",
   "tbMainContact": "su.thomas@hotmail.co.uk",
@@ -336,7 +337,7 @@
     "Sustainable bespoke cutter"
   ],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Craft and Design",
   "cluster": "Heritage specialist",
   "clusterId": "182",
