@@ -224,7 +224,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-04-12T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0586",
   "tbMainContact": "rachel.shaw@thamesvalley.pnn.police.uk",
@@ -243,7 +244,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Protective services",
   "cluster": "Protective service officer",
   "clusterId": "15",
