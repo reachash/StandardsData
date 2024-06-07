@@ -200,7 +200,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-03-23T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0048",
   "tbMainContact": "Peter.Jones@hepcomotion.com and deenielee@lagommarketing.co.uk",
@@ -222,7 +223,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Marketing",
   "cluster": "Marketing assistant",
   "clusterId": "124",
