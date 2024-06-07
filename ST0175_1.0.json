@@ -147,7 +147,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-10-31T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0550",
   "tbMainContact": "david.sheridan@pragroup.com. sharon.huckle@bt.com",
@@ -162,7 +163,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Financial",
   "cluster": "Financial services administrator",
   "clusterId": "240",
