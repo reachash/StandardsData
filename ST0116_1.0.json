@@ -45,7 +45,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2014-11-12T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0558",
   "tbMainContact": "Enquiries.IFA@education.gov.uk",
@@ -56,7 +57,7 @@
   "typicalJobTitles": [],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Digital Production, Design and Development",
   "cluster": "Software development advanced technician",
   "clusterId": "197",
