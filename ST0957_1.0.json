@@ -256,7 +256,8 @@
     "webLink": "https://www.officeforstudents.org.uk/"
   },
   "approvedForDelivery": "2024-03-13T00:00:00 +00:00",
-  "integratedApprenticeship": null,
+  "integratedApprenticeship": false,
+  "integration": "Degree-apprenticeship",
   "integratedDegree": "integrated degree",
   "tbReference": "TB0579",
   "tbMainContact": "Damien.McCloud@arup.com",
@@ -277,7 +278,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Digital Business Services",
   "cluster": "Digital solutions professional",
   "clusterId": "235",
