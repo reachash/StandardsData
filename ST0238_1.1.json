@@ -140,7 +140,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2017-08-18T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0225",
   "tbMainContact": "asha.taak@jisc.ac.uk ",
@@ -154,7 +155,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Human Resources",
   "cluster": "Human resources manager",
   "clusterId": "167",
