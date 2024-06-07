@@ -148,7 +148,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2017-12-04T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0260 ",
   "tbMainContact": "adally@fla.org.uk",
@@ -162,7 +163,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Financial",
   "cluster": "Financial services customer advisor",
   "clusterId": "242",
