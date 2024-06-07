@@ -132,7 +132,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-05-03T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0541",
   "tbMainContact": "PTAJ@wtjohnson.co.uk ",
@@ -143,7 +144,7 @@
   "typicalJobTitles": [],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Engineering, manufacturing, process and control",
   "cluster": "Manufacturing operative",
   "clusterId": "264",
