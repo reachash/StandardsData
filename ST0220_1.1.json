@@ -432,7 +432,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-10-31T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0054",
   "tbMainContact": "mandy.scott5@nhs.net",
@@ -445,7 +446,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years.&#160;&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Healthcare science",
   "cluster": "Healthcare science practitioner",
   "clusterId": "38",
