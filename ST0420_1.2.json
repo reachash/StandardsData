@@ -351,7 +351,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-07-25T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB077 ",
   "tbMainContact": "Dave.Hutchinson@nissan-nmuk.co.uk",
@@ -362,7 +363,7 @@
   "typicalJobTitles": [],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Engineering, manufacturing, process and control",
   "cluster": "Manufacturing operative",
   "clusterId": "264",
