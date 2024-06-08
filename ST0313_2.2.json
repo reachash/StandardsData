@@ -272,6 +272,7 @@
   },
   "approvedForDelivery": "",
   "integratedApprenticeship": true,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0304",
   "tbMainContact": "marco.salzedo@cabinetoffice.gov.uk",
@@ -288,7 +289,7 @@
     "Performance monitoring officer"
   ],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Procurement",
   "cluster": "Procurement  manager",
   "clusterId": "2",
