@@ -215,7 +215,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-09-19T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0212",
   "tbMainContact": "d.ratling@whitgift.co.uk",
@@ -230,7 +231,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years&lt;/span&gt;&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Landscape horticulture operative or technician",
   "clusterId": "161",
