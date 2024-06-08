@@ -149,7 +149,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-07-03T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0001",
   "tbMainContact": "enquiries.ifa@education.gov.uk",
@@ -165,7 +166,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Design, Surveying & Planning",
   "cluster": "Design and surveying advanced technician",
   "clusterId": "138",
