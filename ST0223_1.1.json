@@ -211,7 +211,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2017-06-27T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0223",
   "tbMainContact": "ros@adrow.co.uk",
@@ -226,7 +227,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years.&#160;&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Arboriculture and forestry operative",
   "clusterId": "111",
