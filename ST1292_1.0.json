@@ -541,7 +541,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2022-09-13T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0682",
   "tbMainContact": "dchamberlai@anglianwater.co.uk; aleck.bruce@nwl.co.uk",
@@ -563,7 +564,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years&lt;/span&gt;&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Maintenance, installation and repair",
   "cluster": "Manufacturing or process maintenance operative or technician",
   "clusterId": "71",
