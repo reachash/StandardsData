@@ -308,7 +308,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-09-07T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "Tb0015 ",
   "tbMainContact": "jon.harman@firstbus.co.uk ",
@@ -319,7 +320,7 @@
   "typicalJobTitles": [],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Maintenance, installation and repair",
   "cluster": "Service, repair and/or overhaul operative or technician",
   "clusterId": "19",
