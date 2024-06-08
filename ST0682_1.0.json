@@ -323,7 +323,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-02-19T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0257",
   "tbMainContact": "Laura-Jane.Wootton@tmtfirst.co.uk",
@@ -348,7 +349,7 @@
     "Smartphone device repair technician"
   ],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Digital Support and Services",
   "cluster": "IT support and services technician",
   "clusterId": "187",
