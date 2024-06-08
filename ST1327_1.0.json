@@ -289,7 +289,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-06-26T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0713",
   "tbMainContact": "mick.ward@marshallfleet.co.uk",
@@ -303,7 +304,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Maintenance, installation and repair",
   "cluster": "Service, repair and/or overhaul operative or technician",
   "clusterId": "19",
