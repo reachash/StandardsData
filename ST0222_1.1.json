@@ -221,7 +221,8 @@
     "webLink": ""
   },
   "approvedForDelivery": "2016-06-10T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0222",
   "tbMainContact": "martin.mcmaster648@mod.gov.uk",
@@ -238,7 +239,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Protective services",
   "cluster": "Protective service officer",
   "clusterId": "15",
