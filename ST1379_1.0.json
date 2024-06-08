@@ -204,7 +204,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-03-01T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0156",
   "tbMainContact": "Sharon.Gamble@hullcc.gov.uk; katyjoy@southdevon.ac.uk",
@@ -223,7 +224,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years&lt;/span&gt;&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": null,
   "cluster": null,
   "clusterId": null,
