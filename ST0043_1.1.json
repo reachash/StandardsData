@@ -319,7 +319,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-09-13T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0873",
   "tbMainContact": "PBarker@ryderarchitecture.com",
@@ -345,7 +346,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years.&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Design, Surveying & Planning",
   "cluster": "Design and surveying advanced technician",
   "clusterId": "138",
