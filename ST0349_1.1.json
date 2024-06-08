@@ -149,7 +149,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-04-27T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0368 ",
   "tbMainContact": "trailblazer@twi.co.uk.",
@@ -162,7 +163,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Engineering, manufacturing, process and control",
   "cluster": "Fabrication and welding operative or technician",
   "clusterId": "259",
