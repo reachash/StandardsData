@@ -276,7 +276,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-09-26T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0238",
   "tbMainContact": "Diane.Wilford@education.gov.uk",
@@ -291,7 +292,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Maintenance, installation and repair",
   "cluster": "Manufacturing or process maintenance operative or technician",
   "clusterId": "71",
