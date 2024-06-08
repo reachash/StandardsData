@@ -412,7 +412,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-05-24T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0290",
   "tbMainContact": "Ursula.Daly@bpif.org.uk",
@@ -435,7 +436,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years&lt;/span&gt;&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Engineering, manufacturing, process and control",
   "cluster": " Print and packaging operative or technician",
   "clusterId": "269",
