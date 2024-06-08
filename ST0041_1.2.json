@@ -242,7 +242,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-05-08T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0056",
   "tbMainContact": "c.sudworth@stemexplored.co.uk",
@@ -269,7 +270,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years.&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Building Services Engineering",
   "cluster": "Building Services engineering technician",
   "clusterId": "140",
