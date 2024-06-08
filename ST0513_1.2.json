@@ -235,7 +235,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-12-07T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0127",
   "tbMainContact": "tim.brownbridge@bamnuttall.co.uk",
@@ -246,7 +247,7 @@
   "typicalJobTitles": [],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Onsite Construction",
   "cluster": "Construction specialist operative or technician",
   "clusterId": "103",
