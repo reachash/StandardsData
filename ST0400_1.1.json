@@ -374,7 +374,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-08-07T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0370",
   "tbMainContact": "k.forster@workboatassociation.org",
@@ -389,7 +390,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Transport",
   "cluster": "Driver or crewmember",
   "clusterId": "82",
