@@ -314,7 +314,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2017-05-16T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0875",
   "tbMainContact": "sjbell@laingorourke.com",
@@ -327,7 +328,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years.&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Onsite Construction",
   "cluster": "Metal and steel operative",
   "clusterId": "66",
