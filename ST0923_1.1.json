@@ -246,6 +246,7 @@
   },
   "approvedForDelivery": "2021-08-03T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "integrated degree",
   "tbReference": "TB0223",
   "tbMainContact": "steve.fowkes@forestrycommission.gov.uk",
@@ -270,7 +271,7 @@
     "Woodland creation officer"
   ],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Arboriculture and forestry professional",
   "clusterId": "157",
