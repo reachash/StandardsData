@@ -254,7 +254,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-02-18T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0204 ",
   "tbMainContact": "rosalind.milligan@coop.co.uk",
@@ -268,7 +269,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Customer service",
   "cluster": "Customer service assistant",
   "clusterId": "14",
