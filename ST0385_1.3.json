@@ -270,7 +270,8 @@
     "webLink": ""
   },
   "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0882",
   "tbMainContact": "Jill.Coyle@uk.nestle.com",
@@ -288,7 +289,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Management and Administration",
   "cluster": "Business manager",
   "clusterId": "25",
