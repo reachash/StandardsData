@@ -178,7 +178,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-05-19T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0052",
   "tbMainContact": "Healthcare.Trailblazer@skillsforhealth.org.uk",
@@ -201,7 +202,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Health",
   "cluster": "Health practitioner",
   "clusterId": "10",
