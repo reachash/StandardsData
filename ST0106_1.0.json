@@ -242,7 +242,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-01-26T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0138",
   "tbMainContact": "johnyoung@jyci.co.uk",
@@ -261,7 +262,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Media, Broadcast and Production",
   "cluster": "Production arts assistant",
   "clusterId": "60",
