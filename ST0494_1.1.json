@@ -231,7 +231,8 @@
     "webLink": ""
   },
   "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0379",
   "tbMainContact": "Deborah.Hulston1@justice.gov.uk",
@@ -249,7 +250,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Protective services",
   "cluster": "Protective service officer",
   "clusterId": "15",
