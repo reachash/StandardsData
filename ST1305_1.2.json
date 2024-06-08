@@ -290,7 +290,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2022-11-09T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0695",
   "tbMainContact": "mark.maudsley@gtaengland.co.uk",
@@ -321,7 +322,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Engineering, manufacturing, process and control",
   "cluster": "Manufacturing and process operative or technician",
   "clusterId": "262",
