@@ -265,7 +265,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2017-06-27T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0324",
   "tbMainContact": "kirsty.woollaston@education.gov.uk",
@@ -281,7 +282,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;&lt;span&gt;This standard will be reviewed in 3 years.&#160;&lt;/span&gt;&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Craft and Design",
   "cluster": "Heritage craftsperson",
   "clusterId": "63",
