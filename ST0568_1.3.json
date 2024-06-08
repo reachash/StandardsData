@@ -312,7 +312,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "",
-  "integratedApprenticeship": null,
+  "integratedApprenticeship": true,
+  "integration": "Mandatory qualification",
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0301",
   "tbMainContact": "ann.carter1@nhs.net",
@@ -325,7 +326,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Health",
   "cluster": "Health professional",
   "clusterId": "6",
