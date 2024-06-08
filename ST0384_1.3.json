@@ -252,7 +252,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0870",
   "tbMainContact": "tracey.horan@kiongroup.com",
@@ -270,7 +271,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Management and Administration",
   "cluster": "Administrator",
   "clusterId": "45",
