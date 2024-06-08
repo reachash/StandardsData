@@ -396,7 +396,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-02-03T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0101",
   "tbMainContact": "lee.dawson@samuelbrothers.co.uk",
@@ -410,7 +411,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Craft and Design",
   "cluster": "Heritage specialist",
   "clusterId": "182",
