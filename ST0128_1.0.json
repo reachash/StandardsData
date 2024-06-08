@@ -220,7 +220,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-12-16T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0558",
   "tbMainContact": "kevin.streater@forgerock.com",
@@ -242,7 +243,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Digital Production, Design and Development",
   "cluster": "Software development technician",
   "clusterId": "196",
