@@ -265,6 +265,7 @@
   },
   "approvedForDelivery": "2023-10-26T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0835",
   "tbMainContact": "sarahgarry@soils.org.uk",
@@ -283,7 +284,7 @@
     "Soil surveyor"
   ],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Science",
   "cluster": "Science professional",
   "clusterId": "213",
