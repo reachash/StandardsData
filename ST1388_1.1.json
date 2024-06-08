@@ -270,7 +270,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-08-29T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0279",
   "tbMainContact": "Anthony.Milner@jga-group.co.uk; k.zumkley@vam.ac.uk",
@@ -281,7 +282,7 @@
   "typicalJobTitles": [],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media, broadcast and production technician",
   "clusterId": "76",
