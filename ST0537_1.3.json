@@ -312,7 +312,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-09-24T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0170 ",
   "tbMainContact": "ceri.travers@hare.com, mark.maudsley@gtaengland.co.uk",
@@ -334,7 +335,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Maintenance, installation and repair",
   "cluster": "Service, repair and/or overhaul operative or technician",
   "clusterId": "19",
