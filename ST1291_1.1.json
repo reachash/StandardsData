@@ -448,7 +448,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2022-09-13T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0675",
   "tbMainContact": "dchamberlai@anglianwater.co.uk",
@@ -475,7 +476,7 @@
     "Wastewater treatment process technician"
   ],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Maintenance, installation and repair",
   "cluster": "Manufacturing or process maintenance operative or technician",
   "clusterId": "71",
