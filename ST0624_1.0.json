@@ -290,7 +290,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-05-10T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0007",
   "tbMainContact": "secretariat@nsafd.co.uk",
@@ -305,7 +306,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Engineering, manufacturing, process and control",
   "cluster": "Manufacturing, plant and process technologist",
   "clusterId": "265",
