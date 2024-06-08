@@ -250,7 +250,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-12-11T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0012",
   "tbMainContact": "deenie@propertymarketingstrategists.co.uk; Peter.Jones@hepcomotion.com",
@@ -269,7 +270,7 @@
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "&lt;p&gt;This apprenticeship standard will be reviewed after three years&lt;/p&gt;",
+  "reviewDetails": null,
   "pathway": "Marketing",
   "cluster": "Marketing assistant",
   "clusterId": "124",
