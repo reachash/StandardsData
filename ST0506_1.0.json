@@ -447,7 +447,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-04-10T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0279",
   "tbMainContact": "frank.tomlinson122@mod.uk",
@@ -458,7 +459,7 @@
   "typicalJobTitles": [],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": null,
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media and broadcast assistant",
   "clusterId": "42",
