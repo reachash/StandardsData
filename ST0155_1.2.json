@@ -7,9 +7,9 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/74",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/gas-engineering-operative-12",
   "versionNumber": "",
-  "change": "In revision",
-  "changedDate": "2024-01-26T00:00:00",
-  "earliestStartDate": "2024-09-01T00:00:00",
+  "change": "Occupational standard, end-point assessment plan and funding band revised",
+  "changedDate": "2024-06-10T00:00:00",
+  "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Installing and maintaining gas appliances in a domestic or non-domestic setting, advising customers on how appliances work and how to use energy more efficiently.",
@@ -28,7 +28,7 @@
   ],
   "jobRoles": [],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/1121/gas_engineering.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/gas-engineering-operative-in-revision?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.2",
@@ -263,13 +263,13 @@
   "typicalJobTitles": [],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": null,
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Building Services Engineering",
-  "cluster": "Building services engineering operative or technician",
+  "cluster": "Building Services Engineering Operative/Technician",
   "clusterId": "65",
   "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
-  "createdDate": "2023-12-08T10:45:47 +00:00",
-  "lastUpdated": "2024-01-26T00:00:00 +00:00",
+  "createdDate": "2024-06-10T13:54:22 +00:00",
+  "lastUpdated": "2024-06-10T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-02-05T00:00:00 +00:00",
   "occupationCode": "OCC0155",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/gas-engineering-operative-in-revision?view=standard#OccupationalStandard",
@@ -283,7 +283,7 @@
     },
     {
       "qualificationId": "a3fe07c7-77bb-40f4-917e-afaaf1ff9cb6",
-      "title": "Matters of Gas Safety Competency Accreditation",
+      "title": "Matters of Gas Safety Competency Accreditations to meet the requirements of the practical assessment with questions ",
       "level": "3",
       "anyAdditionalInformation": ""
     }
@@ -861,5 +861,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-09-01T00:00:00"
+  "publishDate": "2024-06-10T00:00:00"
 }
