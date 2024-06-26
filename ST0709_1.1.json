@@ -10,7 +10,7 @@
   "change": "Funding band and end-point assessment plan revised",
   "changedDate": "2022-02-17T00:00:00",
   "earliestStartDate": "2021-11-24T00:00:00",
-  "latestStartDate": "2024-08-31T00:00:00",
+  "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Caring for patients with a wide range of health conditions.",
   "level": 7,
@@ -403,7 +403,7 @@
   "pathway": "Health",
   "cluster": "Midwifery and nursing professional",
   "clusterId": "211",
-  "clusterDescription": null,
+  "clusterDescription": "Assess, plan, implement and evaluate patient care in multiple settings with specialist expertise often working independently",
   "createdDate": "2021-11-24T08:37:17 +00:00",
   "lastUpdated": "2022-02-17T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-09-30T00:00:00 +00:00",
@@ -701,5 +701,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-08-31T00:00:00"
+  "publishDate": "2022-02-17T00:00:00"
 }
