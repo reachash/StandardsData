@@ -12,7 +12,7 @@
   "earliestStartDate": "2023-11-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "Caring for the overall appearance of a golf course, maintaining a good quality playing surface and ensuring a challenging and enjoyable experience for golfers.",
+  "overviewOfRole": "",
   "level": 2,
   "ePALength": 3,
   "typicalDuration": 24,
@@ -122,7 +122,7 @@
     },
     {
       "knowledgeId": "ec677eab-7be0-4fb0-8e63-632a3dad1507",
-      "detail": "Identification and control of weeds, pests, diseases and turf disorders (weeds including: Daisy, Dandelion, Slender speedwell, Yarrow, White Clover, Buttercup, Procumbent pearlwort, Great plantain, Ribwort plantain, Common chickweed, Lesser trefoil, Moss, Knotgrass, Creeping cinquefoil. Pests including:  Earthworms, Chafer grubs, Leatherjackets, Bibionid Flies, Frit Flies, Moles. Diseases and disorders including: Microdochium Patch, Snow Mould, Red Thread, Anthracnose, Fairy Rings, Take-all Patch, Red Leaf Spot, Rapid Blight, Pink Patch, Dollar Spot, Brown Patch, Leaf Spot/Melting Out, Rust, Powdery Mildew, Yellow Turf, Black Layer.  Turfgrass disorders including: Dry patch, Black layer, Drought, Scorch, Nutrient Imbalance, Cold Stress, Heat Stress)."
+      "detail": "Identification and control of weeds, pests, diseases and turf disorders (weeds including: Daisy, Dandelion, Slender speedwell, Yarrow, White Clover, Buttercup, Procumbent pearlwort, Great plantain, Ribwort plantain, Common chickweed, Lesser trefoil, Moss, Knotgrass, Creeping cinquefoil. Pests including:  Earthworms, Chafer grubs, Leatherjackets, Bibionid Flies, Frit Flies, Moles. Diseases and disorders including: Microdochium Patch, Snow Mould, Red Thread, Anthracnose, Fairy Rings, Take-all Patch, Red Leaf Spot, Rapid Blight, Pink Patch, Dollar Spot, Brown Patch, Leaf Spot/Melting Out, Rust, Powdery Mildew, Yellow Turf.  Turfgrass disorders including: Dry patch, Black layer, Drought, Scorch, Nutrient Imbalance, Cold Stress, Heat Stress)."
     },
     {
       "knowledgeId": "5a923721-258a-4f0a-ba3b-d10053194a49",
@@ -158,7 +158,7 @@
     },
     {
       "knowledgeId": "2fd0de08-50dd-4d2c-96ea-491a61d28528",
-      "detail": "Plant, tree and shrub identification and characteristics (Plants (herbaceous, bedding, wildflower and invasive) including: Himalayan Balsam, Marsh marigold, Fern, Yarrow, Purple loosestrife, Marigold, French marigold, Fuschia, Busy Lizzy, Petunia, Common poppy, Daisy, Ragwort, Bluebell, Harebell, Japanese knotweed, Giant hogweed.  Trees including:  Pine, Oak, Silver birch, Beech, Ash, Hawthorn.  Shrubs including:  Broom, Cotoneaster, Gorse, Laurel, Dogwood, Heather, Photinia)."
+      "detail": "Plant, tree and shrub identification and characteristics (Plants (herbaceous, bedding, wildflower and invasive) including: Himalayan Balsam, Marsh marigold, Fern, Ornamental yarrow, Purple loosestrife, Marigold, French marigold, Fuschia, Busy Lizzy, Petunia, Common poppy, Ornamental daisy, Ragwort, Bluebell, Harebell, Japanese knotweed, Giant hogweed.  Trees including:  Pine, Oak, Silver birch, Beech, Ash, Hawthorn.  Shrubs including:  Broom, Cotoneaster, Gorse, Laurel, Dogwood, Heather, Photinia)."
     }
   ],
   "behaviours": [
@@ -286,7 +286,7 @@
     },
     {
       "skillId": "512ad6a8-3c62-4db9-a821-702c595ac03e",
-      "detail": "Prepare ground for the establishment of turf and seed."
+      "detail": "Prepare ground and establish turf and seed. "
     },
     {
       "skillId": "01bb8729-f470-47a3-a4c9-a06610fa3cae",
@@ -327,7 +327,7 @@
   "cluster": "Landscape horticulture operative or technician",
   "clusterId": "161",
   "clusterDescription": "The design, construction and maintenance of gardens, designed landscapes and sports turf facilities for private, commercial and community use",
-  "createdDate": "2024-02-23T13:17:35 +00:00",
+  "createdDate": "2024-07-09T12:36:55 +00:00",
   "lastUpdated": "2023-11-01T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-03-26T00:00:00 +00:00",
   "occupationCode": "OCC0209",
