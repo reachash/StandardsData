@@ -8,7 +8,7 @@
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/facilities-management-supervisor-11",
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised",
-  "changedDate": "2024-01-02T00:00:00",
+  "changedDate": "2024-01-01T00:00:00",
   "earliestStartDate": "2024-01-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -31,7 +31,7 @@
     "Facilities management team leader"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/1206/facilities_management_supervisor.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/facilities-management-supervisor-v1-1?view=epa",
   "ssa1": "7 Retail and Commercial Enterprise",
   "ssa2": "7.3 Service enterprises",
   "version": "1.1",
@@ -219,7 +219,7 @@
   },
   "approvedForDelivery": "2017-02-17T00:00:00 +00:00",
   "integratedApprenticeship": null,
-  "integration": null,
+  "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0413",
   "tbMainContact": "luke.ford@compass-group.co.uk",
@@ -239,8 +239,8 @@
   "cluster": "Facilities management operative or supervisor",
   "clusterId": "123",
   "clusterDescription": "Manage and maintain (planned and reactive) a building's mechanisms and systems across electrical, plumbing, plant, safety systems and other equipment",
-  "createdDate": "2023-11-24T11:22:37 +00:00",
-  "lastUpdated": "2024-01-02T00:00:00 +00:00",
+  "createdDate": "2024-07-09T13:36:30 +00:00",
+  "lastUpdated": "2024-01-01T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-02-17T00:00:00 +00:00",
   "occupationCode": "OCC0170",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/facilities-management-supervisor-v1-1?view=standard#OccupationalStandard",
@@ -592,5 +592,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-01-02T00:00:00"
+  "publishDate": "2024-01-01T00:00:00"
 }
