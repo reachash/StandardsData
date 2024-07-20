@@ -8,7 +8,7 @@
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/compliance-and-risk-officer-12",
   "versionNumber": "",
   "change": "Occupational standard, end point assessment and funding band revised",
-  "changedDate": "2024-06-27T00:00:00",
+  "changedDate": "2024-07-19T00:00:00",
   "earliestStartDate": "2024-07-29T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -232,11 +232,11 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Financial",
-  "cluster": "Financial services administrator",
+  "cluster": "Financial Services Administrator",
   "clusterId": "240",
   "clusterDescription": "Provide highly accurate support to operations and administration across wide areas of financial service areas including research and analysis compliant with relevant regulations. Deliver support to clients and to client account management (risk, collection, enforcement, recovery)",
-  "createdDate": "2024-06-27T16:52:57 +00:00",
-  "lastUpdated": "2024-06-27T00:00:00 +00:00",
+  "createdDate": "2024-07-19T07:41:04 +00:00",
+  "lastUpdated": "2024-07-19T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-09-19T00:00:00 +00:00",
   "occupationCode": "OCC0362",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/compliance-and-risk-officer-in-revision?view=standard#OccupationalStandard",
@@ -335,20 +335,20 @@
   ],
   "professionalRecognition": [
     {
-      "bodyName": "The International Compliance Association (ICA)",
-      "level": "Associate Member (AICA) or Professional Member",
+      "bodyName": "International Compliance Association (ICA)",
+      "level": "Associate membership of the ICA (AICA) or Affiliate membership of the ICA",
       "isPartial": "full",
       "partialFreeText": ""
     },
     {
-      "bodyName": "The Chartered Institute for Securities and Investment (CISI)",
-      "level": "Associate Member (ACSI) or Affiliate Member",
+      "bodyName": "Chartered Institute for Securities and Investment (CISI)",
+      "level": "Associate member status (ACSI)",
       "isPartial": "full",
       "partialFreeText": ""
     },
     {
-      "bodyName": "The Chartered Institute of Credit Management (CICM)",
-      "level": "Associate Member (ACICM)",
+      "bodyName": "Chartered Institute of Credit Management (CICM)",
+      "level": "Associate Membership ACICM",
       "isPartial": "full",
       "partialFreeText": ""
     }
