@@ -3,12 +3,12 @@
   "larsCode": 143,
   "referenceNumber": "ST0362",
   "title": "Compliance and risk officer",
-  "status": "In development",
+  "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/143",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/compliance-and-risk-officer-12",
-  "versionNumber": "",
+  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/compliance-and-risk-officer",
+  "versionNumber": "1.2",
   "change": "Occupational standard, end point assessment and funding band revised",
-  "changedDate": "2024-07-19T00:00:00",
+  "changedDate": "2024-07-30T00:00:00",
   "earliestStartDate": "2024-07-29T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -34,7 +34,7 @@
     "Risk officer"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/compliance-and-risk-officer-in-revision?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/compliance-and-risk-officer-v1-2?view=epa",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.1 Accounting and finance",
   "version": "1.2",
@@ -212,7 +212,7 @@
     "contactEmail": "public.enquiries@ofqual.gov.uk",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2016-09-19T00:00:00 +00:00",
   "integratedApprenticeship": null,
   "integration": "None",
   "integratedDegree": "",
@@ -232,15 +232,15 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Financial",
-  "cluster": "Financial Services Administrator",
+  "cluster": "Financial services administrator",
   "clusterId": "240",
   "clusterDescription": "Provide highly accurate support to operations and administration across wide areas of financial service areas including research and analysis compliant with relevant regulations. Deliver support to clients and to client account management (risk, collection, enforcement, recovery)",
   "createdDate": "2024-07-19T07:41:04 +00:00",
-  "lastUpdated": "2024-07-19T00:00:00 +00:00",
+  "lastUpdated": "2024-07-30T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-09-19T00:00:00 +00:00",
   "occupationCode": "OCC0362",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/compliance-and-risk-officer-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/compliance-and-risk-officer-in-revision",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/compliance-and-risk-officer-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/compliance-and-risk-officer-v1-2",
   "qualifications": [
     {
       "qualificationId": "7f30df38-5346-451d-8db5-f11cc97f9646",
@@ -665,5 +665,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-07-29T00:00:00"
+  "publishDate": "2024-07-30T00:00:00"
 }
