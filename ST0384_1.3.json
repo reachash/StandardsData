@@ -7,16 +7,16 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/105",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/team-leader-13",
   "versionNumber": "",
-  "change": "",
-  "changedDate": "2023-01-25T00:00:00",
-  "earliestStartDate": null,
+  "change": "Occupational standard, end-point assessment and funding band revised",
+  "changedDate": "2024-08-05T00:00:00",
+  "earliestStartDate": "2024-09-19T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Managing individuals, teams, or projects to meet private, public, or voluntary organisational goals.",
   "level": 3,
   "ePALength": 3,
   "typicalDuration": 15,
-  "maxFunding": 0,
+  "maxFunding": 5000,
   "route": "Business and administration",
   "keywords": [
     "team leader",
@@ -277,7 +277,7 @@
   "clusterId": "45",
   "clusterDescription": "Co-ordination, management and delivery of specific business processes and also their direct provision to users",
   "createdDate": "2024-05-28T13:26:56 +00:00",
-  "lastUpdated": "2023-01-25T00:00:00 +00:00",
+  "lastUpdated": "2024-08-05T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-06-01T00:00:00 +00:00",
   "occupationCode": "OCC0384",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/team-leader-in-revision?view=standard#OccupationalStandard",
@@ -723,5 +723,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-01-25T00:00:00"
+  "publishDate": "2024-09-19T00:00:00"
 }
