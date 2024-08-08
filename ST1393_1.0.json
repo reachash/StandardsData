@@ -1,10 +1,10 @@
 {
   "templateType": "Occupational Standard",
-  "larsCode": 0,
+  "larsCode": 769,
   "referenceNumber": "ST1393",
   "title": "Removals operative",
   "status": "Approved for delivery",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/0",
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/769",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/removals-operative",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -269,7 +269,7 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual is the intended EQA provider",
+    "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
     "contactEmail": "public.enquiries@ofqual.gov.uk",
