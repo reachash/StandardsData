@@ -7,16 +7,16 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/69",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/land-based-service-engineer-11",
   "versionNumber": "",
-  "change": "in revision",
-  "changedDate": "2024-06-07T00:00:00",
-  "earliestStartDate": null,
+  "change": "Occupational standard, end-point assessment plan and funding band revised",
+  "changedDate": "2024-08-15T00:00:00",
+  "earliestStartDate": "2024-12-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Maintaining a range of machinery, plant and equipment in sectors such as agriculture, forestry and horticulture.",
   "level": 2,
   "ePALength": 6,
   "typicalDuration": 24,
-  "maxFunding": 0,
+  "maxFunding": 16000,
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "Agricultural",
@@ -335,7 +335,7 @@
   "clusterId": "106",
   "clusterDescription": "Undertake largely routine arable and livestock tasks with some specialisation in either area",
   "createdDate": "2024-06-07T15:16:03 +00:00",
-  "lastUpdated": "2024-06-07T00:00:00 +00:00",
+  "lastUpdated": "2024-08-15T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-12-23T00:00:00 +00:00",
   "occupationCode": "OCC0242",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/land-based-service-engineer-in-revision?view=standard#OccupationalStandard",
@@ -1025,5 +1025,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-06-07T00:00:00"
+  "publishDate": "2024-12-01T00:00:00"
 }
