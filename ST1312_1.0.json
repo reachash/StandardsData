@@ -238,13 +238,7 @@
   "epaApprovalDate": "",
   "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": {
-    "providerName": "Ofqual is the intended EQA provider",
-    "contactName": "",
-    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://contact.ofqual.gov.uk/"
-  },
+  "eQAProvider": null,
   "approvedForDelivery": "2024-01-03T00:00:00 +00:00",
   "integratedApprenticeship": true,
   "integration": null,
@@ -270,7 +264,7 @@
   "pathway": "Legal",
   "cluster": "Legal technician",
   "clusterId": "250",
-  "clusterDescription": null,
+  "clusterDescription": "Deliver Family Law, Civil Litigation, Criminal Law, Company, Business Law  and conveyancing transactions (land and property), estate administration and manage small, non-complex cases under supervision",
   "createdDate": "2024-02-29T14:12:07 +00:00",
   "lastUpdated": "2024-01-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-01-03T00:00:00 +00:00",
