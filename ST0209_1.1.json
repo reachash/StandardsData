@@ -5,14 +5,14 @@
   "title": "Golf greenkeeper",
   "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/21",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/golf-greenkeeper-11-1",
+  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/golf-greenkeeper-11",
   "versionNumber": "1.1",
   "change": "End-point assessment plan, standard and funding band revised ",
   "changedDate": "2023-11-01T00:00:00",
   "earliestStartDate": "2023-11-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "Caring for the overall appearance of a golf course, maintaining a good quality playing surface and ensuring a challenging and enjoyable experience for golfers.",
+  "overviewOfRole": "",
   "level": 2,
   "ePALength": 3,
   "typicalDuration": 24,
@@ -150,7 +150,7 @@
     },
     {
       "knowledgeId": "e1e36763-b31a-405a-873c-808627900f32",
-      "detail": "Soil structures and the methods used to obtain and record soil and plant health condition."
+      "detail": "Soil texture and the methods used to obtain and record soil and plant health condition."
     },
     {
       "knowledgeId": "1cd78a4d-91db-47e8-905b-b56f9b90a31c",
@@ -327,7 +327,7 @@
   "cluster": "Landscape horticulture operative or technician",
   "clusterId": "161",
   "clusterDescription": "The design, construction and maintenance of gardens, designed landscapes and sports turf facilities for private, commercial and community use",
-  "createdDate": "2024-08-19T13:22:22 +00:00",
+  "createdDate": "2024-08-29T14:02:57 +00:00",
   "lastUpdated": "2023-11-01T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-03-26T00:00:00 +00:00",
   "occupationCode": "OCC0209",
