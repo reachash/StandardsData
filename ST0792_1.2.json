@@ -3,12 +3,12 @@
   "larsCode": 598,
   "referenceNumber": "ST0792",
   "title": "Junior production coordinator",
-  "status": "In development",
+  "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/598",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/junior-production-coordinator-12",
-  "versionNumber": "",
+  "versionNumber": "1.2",
   "change": "Occupational standard, end-point assessment plan and funding band revised",
-  "changedDate": "2024-07-16T00:00:00",
+  "changedDate": "2024-09-02T00:00:00",
   "earliestStartDate": "2024-08-15T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -36,7 +36,7 @@
     "Radio coordinator"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/junior-production-coordinator-in-revision?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/junior-production-coordinator-v1-2?view=epa",
   "ssa1": "9 Arts, Media and Publishing",
   "ssa2": "9.3 Media and communication",
   "version": "1.2",
@@ -286,7 +286,7 @@
     "contactEmail": "public.enquiries@ofqual.gov.uk",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2020-08-24T00:00:00 +00:00",
   "integratedApprenticeship": null,
   "integration": "None",
   "integratedDegree": "",
@@ -314,11 +314,11 @@
   "clusterId": "76",
   "clusterDescription": "Design, development and editing of audio visual and text content using technology to generate broadcasting materials along with its co-ordination and management",
   "createdDate": "2024-07-16T08:01:31 +00:00",
-  "lastUpdated": "2024-07-16T00:00:00 +00:00",
+  "lastUpdated": "2024-09-02T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-08-24T00:00:00 +00:00",
   "occupationCode": "",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/junior-production-coordinator-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/junior-production-coordinator-in-revision",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/junior-production-coordinator-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/junior-production-coordinator-v1-2",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -617,5 +617,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-08-15T00:00:00"
+  "publishDate": "2024-09-02T00:00:00"
 }
