@@ -3,12 +3,12 @@
   "larsCode": 74,
   "referenceNumber": "ST0155",
   "title": "Gas engineering operative",
-  "status": "In development",
+  "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/74",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/gas-engineering-operative-12",
-  "versionNumber": "",
+  "versionNumber": "1.2",
   "change": "Occupational standard, end-point assessment plan and funding band revised",
-  "changedDate": "2024-06-10T00:00:00",
+  "changedDate": "2024-09-02T00:00:00",
   "earliestStartDate": "2024-09-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -28,7 +28,7 @@
   ],
   "jobRoles": [],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/gas-engineering-operative-in-revision?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/gas-engineering-operative-v1-2?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.2",
@@ -250,7 +250,7 @@
     "contactEmail": "public.enquiries@ofqual.gov.uk",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2016-02-05T00:00:00 +00:00",
   "integratedApprenticeship": null,
   "integration": null,
   "integratedDegree": "",
@@ -269,11 +269,11 @@
   "clusterId": "65",
   "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
   "createdDate": "2024-06-10T13:54:22 +00:00",
-  "lastUpdated": "2024-06-10T00:00:00 +00:00",
+  "lastUpdated": "2024-09-02T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-02-05T00:00:00 +00:00",
   "occupationCode": "OCC0155",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/gas-engineering-operative-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/gas-engineering-operative-in-revision",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/gas-engineering-operative-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/gas-engineering-operative-v1-2",
   "qualifications": [
     {
       "qualificationId": "96acbdb0-c539-4219-a9a2-4b9239fe633d",
@@ -861,5 +861,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-09-01T00:00:00"
+  "publishDate": "2024-09-02T00:00:00"
 }
