@@ -1,10 +1,10 @@
 {
   "templateType": "Occupational Standard",
-  "larsCode": 0,
+  "larsCode": 766,
   "referenceNumber": "ST1385",
   "title": "Craft plasterer",
   "status": "Approved for delivery",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/0",
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/766",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/craft-plasterer",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -1002,11 +1002,6 @@
       "optionId": "73176c3f-ce2f-4a6f-9502-cf17bd331838",
       "title": "Craft Fibrous Plasterer",
       "occupationCode": "OCC1385A"
-    },
-    {
-      "optionId": "73176c3f-ce2f-4a6f-9502-cf17bd731836",
-      "title": "Test Option",
-      "occupationCode": "OCC1385C"
     }
   ],
   "regulationDetail": [],
