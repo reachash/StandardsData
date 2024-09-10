@@ -1,10 +1,10 @@
 {
   "templateType": "Occupational Standard",
-  "larsCode": 0,
+  "larsCode": 777,
   "referenceNumber": "ST0982",
   "title": "Furniture making operative",
   "status": "Approved for delivery",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/0",
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/777",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/furniture-making-operative-00",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -337,7 +337,13 @@
   "epaApprovalDate": "",
   "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
   "approvedForDelivery": "2024-08-22T00:00:00 +00:00",
   "integratedApprenticeship": null,
   "integration": "None",
