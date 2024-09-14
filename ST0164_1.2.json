@@ -7,16 +7,16 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/92",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/engineering-design-technician-12",
   "versionNumber": "",
-  "change": "In revision",
+  "change": "Occupational standard, end point assessment and funding band reviewed",
   "changedDate": "2024-01-29T00:00:00",
-  "earliestStartDate": null,
+  "earliestStartDate": "2024-09-16T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Producing engineering designs and drawings for components, structures and systems used in industrial and commercial construction.",
   "level": 3,
   "ePALength": 6,
   "typicalDuration": 42,
-  "maxFunding": 0,
+  "maxFunding": 24000,
   "route": "Engineering and manufacturing",
   "keywords": [
     "power and water infrastructure",
@@ -41,7 +41,7 @@
     "Systems design technician"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/1139/engineering_design_and_draughtsperson.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/engineering-design-technician-in-revision?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.2",
@@ -493,8 +493,8 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Design and Development",
-  "cluster": "Design and Development Technician",
+  "pathway": "Engineering, design and development",
+  "cluster": "Design and development technician",
   "clusterId": "255",
   "clusterDescription": "Design and develop parts of product and/or process technologies",
   "createdDate": "2024-01-29T09:54:31 +00:00",
@@ -1116,5 +1116,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-01-29T00:00:00"
+  "publishDate": "2024-09-16T00:00:00"
 }
