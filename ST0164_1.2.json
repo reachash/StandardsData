@@ -9,7 +9,7 @@
   "versionNumber": "",
   "change": "Occupational standard, end point assessment and funding band reviewed",
   "changedDate": "2024-01-29T00:00:00",
-  "earliestStartDate": "2024-09-16T00:00:00",
+  "earliestStartDate": "2024-12-16T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Producing engineering designs and drawings for components, structures and systems used in industrial and commercial construction.",
@@ -467,11 +467,11 @@
   },
   "approvedForDelivery": "",
   "integratedApprenticeship": null,
-  "integration": null,
+  "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0173",
   "tbMainContact": "Philip.davies@jacobs.com",
-  "involvedEmployers": "Rhino Industry Solutions, University of Manchester, Jacobs, Cavendish Nuclear, Aquaterra Energy Ltd, Saipem Limited, px Engineering Consultants Ltd, Worley, Wood plc, BAE Systems - Submarines, KBR",
+  "involvedEmployers": "Rhino Industry Solutions, Jacobs, Cavendish Nuclear, Aquaterra Energy Ltd, Saipem Limited, px Engineering Consultants Ltd, Worley, Wood plc, BAE Systems - Submarines, KBR",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -497,7 +497,7 @@
   "cluster": "Design and development technician",
   "clusterId": "255",
   "clusterDescription": "Design and develop parts of product and/or process technologies",
-  "createdDate": "2024-01-29T09:54:31 +00:00",
+  "createdDate": "2024-09-16T10:45:35 +00:00",
   "lastUpdated": "2024-01-29T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-04-27T00:00:00 +00:00",
   "occupationCode": "OCC0164",
@@ -508,37 +508,43 @@
       "qualificationId": "a4fde687-e4a1-4f82-b97d-629b3c2e5f82",
       "title": "BTEC Level 3 Diploma in advanced manufacturing engineering (development technical knowledge)",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications."
+    },
+    {
+      "qualificationId": "bf69df1d-3fab-4a46-b302-ddc3ba701b68",
+      "title": "Level 3 Diploma in Advanced Manufacturing Engineering (Development Knowledge)",
+      "level": "3",
+      "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications."
     },
     {
       "qualificationId": "116e7f6d-d186-4ae2-be3a-ee11005689d1",
       "title": "BTEC Level 3 National Diploma in Construction and the Built Environment",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications."
     },
     {
       "qualificationId": "e15f273e-7914-409b-980d-5cc8354a9fe0",
       "title": "BTEC Level 3 National Diploma in Building Services Engineering",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications."
     },
     {
       "qualificationId": "a2e96ab2-4d02-4a1c-ac9f-a7fd77c7d9e8",
       "title": "BTEC Level 3 National Diploma in Civil Engineering",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications."
     },
     {
       "qualificationId": "b62478e8-3b0e-4a90-b166-b23c367b273c",
       "title": "BTEC Level 3 National Diploma in Electrical and Electronic Engineering",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications."
     },
     {
       "qualificationId": "380c374f-d2e2-44d4-976b-e01091645959",
       "title": "BTEC Level 3 National Diploma in Mechanical Engineering ",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications."
     }
   ],
   "professionalRecognition": [
@@ -1116,5 +1122,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-09-16T00:00:00"
+  "publishDate": "2024-12-16T00:00:00"
 }
