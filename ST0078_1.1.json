@@ -3,12 +3,12 @@
   "larsCode": 54,
   "referenceNumber": "ST0078",
   "title": "Butcher",
-  "status": "Approved for delivery",
+  "status": "Retired",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/54",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/butcher",
+  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/butcher-11",
   "versionNumber": "1.1",
   "change": "Standard revised and end-point assessment plan revised. The funding band for this standard has been reviewed and remains at £9000. (Dec-2018)",
-  "changedDate": "2024-08-13T00:00:00",
+  "changedDate": "2024-09-16T00:00:00",
   "earliestStartDate": "2016-09-19T00:00:00",
   "latestStartDate": "2024-09-15T00:00:00",
   "latestEndDate": null,
@@ -236,7 +236,7 @@
   "clusterId": null,
   "clusterDescription": null,
   "createdDate": "2017-09-22T14:24:32 +00:00",
-  "lastUpdated": "2024-08-13T00:00:00 +00:00",
+  "lastUpdated": "2024-09-16T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-09-24T00:00:00 +00:00",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/butcher-v1-1?view=standard#OccupationalStandard",
@@ -321,5 +321,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-09-15T00:00:00"
+  "publishDate": "2024-09-16T00:00:00"
 }
