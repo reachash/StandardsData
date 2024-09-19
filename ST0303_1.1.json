@@ -391,12 +391,7 @@
       "detail": "Decommission (including disconnection and dismantling) plumbing (above 28mm) and non-domestic plumbing systems and appliances."
     }
   ],
-  "optionsUnstructuredTemplate": [
-    "Environmental Technologies",
-    "Fossil Fuel - Natural Gas",
-    "Fossil Fuel - Oil",
-    "Fossil Fuel - Solid Fuel"
-  ],
+  "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
   "standardPublished": "true",
@@ -435,7 +430,7 @@
   "createdDate": "2024-04-05T08:57:07 +00:00",
   "lastUpdated": "2024-06-17T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-01-19T00:00:00 +00:00",
-  "occupationCode": "OCC0303",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/plumbing-and-domestic-heating-technician-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/plumbing-and-domestic-heating-technician-v1-1",
   "qualifications": [
@@ -1895,52 +1890,21 @@
     {
       "optionId": "f7b01a95-311e-47ad-ba14-eef114316df5",
       "title": "Domestic gas fired hot water heating appliances technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0303F"
     },
     {
       "optionId": "dd9bc2fb-9ca0-469c-98c1-f5f44d29c538",
       "title": "Domestic air source heat pumps & solar thermal systems technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0303E"
     },
     {
       "optionId": "1adfccc0-46c8-407e-97f4-67982b82cb62",
       "title": "Non-domestic plumbing technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0303G"
     }
   ],
   "regulationDetail": [],
-  "optionsUnstructuredKsbMapping": [
-    {
-      "coreOrOptionTitle": "Core",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Environmental Technologies",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Fossil Fuel - Natural Gas",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Fossil Fuel - Oil",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Fossil Fuel - Solid Fuel",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    }
-  ],
+  "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": false,
   "publishDate": "2024-06-17T00:00:00"
