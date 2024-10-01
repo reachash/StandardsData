@@ -471,7 +471,7 @@
   "createdDate": "2024-04-19T14:04:37 +00:00",
   "lastUpdated": "2024-09-26T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-06-17T00:00:00 +00:00",
-  "occupationCode": "OCC0898",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/water-network-operative-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/water-network-operative-v1-2",
   "qualifications": [],
@@ -1007,12 +1007,12 @@
     {
       "optionId": "21060680-89ad-49bf-8d77-40a4a63cd4d8",
       "title": "Clean water network operative",
-      "occupationCode": ""
+      "occupationCode": "OCC0898A"
     },
     {
       "optionId": "36f32460-9e39-47dc-b04b-9416e928f7bb",
       "title": "Waste water network operative",
-      "occupationCode": ""
+      "occupationCode": "OCC0898B"
     }
   ],
   "regulationDetail": [],
