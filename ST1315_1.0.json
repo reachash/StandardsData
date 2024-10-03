@@ -1,10 +1,10 @@
 {
   "templateType": "Occupational Standard",
-  "larsCode": 762,
+  "larsCode": 761,
   "referenceNumber": "ST1315",
   "title": "Aircraft maintenance technician",
   "status": "Approved for delivery",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/762",
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/761",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/aircraft-maintenance-technician-10",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -298,7 +298,7 @@
   },
   "approvedForDelivery": "2024-05-31T00:00:00 +00:00",
   "integratedApprenticeship": true,
-  "integration": null,
+  "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0700",
   "tbMainContact": "michael.maguire@ba.com",
@@ -325,7 +325,7 @@
   "cluster": "Service, repair and/or overhaul operative or technician",
   "clusterId": "19",
   "clusterDescription": "Install, maintain and service plant and equipment",
-  "createdDate": "2024-05-17T08:45:23 +00:00",
+  "createdDate": "2024-10-02T14:30:34 +00:00",
   "lastUpdated": "2024-06-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-05-31T00:00:00 +00:00",
   "occupationCode": "OCC1315",
@@ -334,19 +334,19 @@
   "qualifications": [
     {
       "qualificationId": "0f531506-1e39-4001-b46d-8fd480a07a0d",
-      "title": "Level 2 Diploma in Aerospace and Aviation Engineering (Foundation Competence) - Pearson BTEC; QAN 601/7165/0 or           Level 2 Diploma in Aerospace and Aviation Engineering (Foundation Competence) C&G No.4605-02; QAN 601/7310/5 or                       Level 2 Diploma in Aerospace and Aviation Engineering (Military Foundation Competence) C&G No.4608-50; QAN 603/1388/2 or                         Level 2 Diploma in Aerospace and Aviation Engineering (Foundation Competence);  EAL QAN 601/7289/7",
+      "title": "Level 2 Diploma in Aerospace and Aviation Engineering (Foundation Competence) - Pearson BTEC; QAN 601/7165/0 -OR- Level 2 Diploma in Aerospace and Aviation Engineering (Foundation Competence) C&G No.4605-02; QAN 601/7310/5 -OR- Level 2 Diploma in Aerospace and Aviation Engineering (Military Foundation Competence) C&G No.4608-50; QAN 603/1388/2 -OR- Level 2 Diploma in Aerospace and Aviation Engineering (Foundation Competence);  EAL QAN 601/7289/7",
       "level": "2",
       "anyAdditionalInformation": "The CAA CAP 1814 mandates one foundation competence qualification at level 2.   "
     },
     {
       "qualificationId": "4bb306c5-c379-4c4c-a644-dcc7b2e8f71d",
-      "title": "Level 3 Diploma in Aerospace and Aviation Engineering (Development Competence)  601/9051/6 – Pearson BTEC or Level 3 Diploma in Aviation Maintenance (Development Competence) C&G No.4608-30; QAN  601/9036/X or Level 3 Diploma in Aviation Maintenance (Development Competence) – Military C&G 4608-60;  QAN 603/2068/0 or EAL Level 3 Diploma in Aviation Maintenance (Development Competence) – 603/0372/4   ",
+      "title": "Level 3 Diploma in Aerospace and Aviation Engineering (Development Competence)  601/9051/6 – Pearson BTEC -OR- Level 3 Diploma in Aviation Maintenance (Development Competence) C&G No.4608-30; QAN  601/9036/X -OR- Level 3 Diploma in Aviation Maintenance (Development Competence) – Military C&G 4608-60;  QAN 603/2068/0 -OR- EAL Level 3 Diploma in Aviation Maintenance (Development Competence) – 603/0372/4   ",
       "level": "3",
       "anyAdditionalInformation": "The CAA CAP 1814 mandates one development competence qualification at level 3.   "
     },
     {
       "qualificationId": "7961e001-6c27-4e69-99e6-ced867d226b2",
-      "title": "Level 3 Diploma in Aerospace and Aviation Engineering (Development Technical Knowledge) 601/9063/2 – Pearson BTEC or Level 3 Diploma in On-Aircraft Maintenance Category A C&G No. 2675-04; QAN 600/1927/X or Level 3 Diploma in Aircraft Maintenance (Military) C&G No. 4708-30; QAN 603/1392/4",
+      "title": "Level 3 Diploma in Aerospace and Aviation Engineering (Development Technical Knowledge) 601/9063/2 – Pearson BTEC -OR- Level 3 Diploma in On-Aircraft Maintenance Category A C&G No. 2675-04; QAN 600/1927/X -OR- Level 3 Diploma in Aircraft Maintenance (Military) C&G No. 4708-30; QAN 603/1392/4",
       "level": "3",
       "anyAdditionalInformation": "The CAA CAP 1814 mandates one development knowledge qualification at level 3.   "
     }
@@ -818,7 +818,7 @@
   "options": [],
   "regulationDetail": [
     {
-      "name": "Training Provider",
+      "name": "Training provider",
       "webLink": "",
       "approved": false
     },
