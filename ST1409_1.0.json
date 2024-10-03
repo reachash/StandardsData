@@ -3,14 +3,14 @@
   "larsCode": 764,
   "referenceNumber": "ST1409",
   "title": "Advanced digital forensic professional",
-  "status": "Approved for delivery",
+  "status": "Retired",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/764",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/advanced-digital-forensic-professional",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2024-07-15T00:00:00",
+  "changedDate": "2024-10-02T00:00:00",
   "earliestStartDate": "2024-07-15T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2024-10-01T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Undertake and innovate the capture, processing, and analysis of specialist digital forensic evidence.",
   "level": 7,
@@ -319,7 +319,13 @@
   "epaApprovalDate": "",
   "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
+  "eQAProvider": {
+    "providerName": "Office for Students",
+    "contactName": "",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "qualityassessors@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
+  },
   "approvedForDelivery": "2024-07-15T00:00:00 +00:00",
   "integratedApprenticeship": true,
   "integration": "Degree-apprenticeship",
@@ -343,7 +349,7 @@
   "clusterId": "233",
   "clusterDescription": "Provide and implement data technology enabled solutions to support internal and external customers.",
   "createdDate": "2024-07-15T08:07:24 +00:00",
-  "lastUpdated": "2024-07-15T00:00:00 +00:00",
+  "lastUpdated": "2024-10-02T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-07-15T00:00:00 +00:00",
   "occupationCode": "OCC1409",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/advanced-digital-forensic-professional-v1-0?view=standard#OccupationalStandard",
@@ -1042,5 +1048,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-07-15T00:00:00"
+  "publishDate": "2024-10-02T00:00:00"
 }
