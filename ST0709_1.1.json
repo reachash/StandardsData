@@ -3,14 +3,14 @@
   "larsCode": 504,
   "referenceNumber": "ST0709",
   "title": "District nurse",
-  "status": "Approved for delivery",
+  "status": "Retired",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/504",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/district-nurse",
   "versionNumber": "1.1",
   "change": "Funding band and end-point assessment plan revised",
-  "changedDate": "2022-02-17T00:00:00",
+  "changedDate": "2024-10-02T00:00:00",
   "earliestStartDate": "2021-11-24T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2024-10-10T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Caring for patients with a wide range of health conditions.",
   "level": 7,
@@ -405,7 +405,7 @@
   "clusterId": "211",
   "clusterDescription": "Assess, plan, implement and evaluate patient care in multiple settings with specialist expertise often working independently",
   "createdDate": "2021-11-24T08:37:17 +00:00",
-  "lastUpdated": "2022-02-17T00:00:00 +00:00",
+  "lastUpdated": "2024-10-02T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-09-30T00:00:00 +00:00",
   "occupationCode": "OCC0709",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/district-nurse-v1-1?view=standard#OccupationalStandard",
@@ -701,5 +701,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2022-02-17T00:00:00"
+  "publishDate": "2024-10-10T00:00:00"
 }
