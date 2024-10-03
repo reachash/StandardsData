@@ -7,16 +7,16 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/70",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/land-based-service-engineering-technician-12",
   "versionNumber": "",
-  "change": "",
-  "changedDate": "2024-07-25T00:00:00",
-  "earliestStartDate": null,
+  "change": "Occupational standard, end-point assessment plan and funding band revised",
+  "changedDate": "2024-10-02T00:00:00",
+  "earliestStartDate": "2025-05-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing advanced technical support and guidance across a diverse range of plant and equipment in sectors such as agriculture, horticulture, forestry and outdoor power.",
   "level": 3,
   "ePALength": 6,
   "typicalDuration": 24,
-  "maxFunding": 0,
+  "maxFunding": 15000,
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "Agricultural",
@@ -361,7 +361,7 @@
   "clusterId": "106",
   "clusterDescription": "Undertake largely routine arable and livestock tasks with some specialisation in either area",
   "createdDate": "2024-07-25T07:59:58 +00:00",
-  "lastUpdated": "2024-07-25T00:00:00 +00:00",
+  "lastUpdated": "2024-10-02T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-12-23T00:00:00 +00:00",
   "occupationCode": "OCC0243",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/land-based-service-engineering-technician-in-revision?view=standard#OccupationalStandard",
@@ -1072,5 +1072,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-07-25T00:00:00"
+  "publishDate": "2025-05-01T00:00:00"
 }
