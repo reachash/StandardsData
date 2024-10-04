@@ -286,9 +286,9 @@
     "webLink": "https://www.officeforstudents.org.uk/"
   },
   "approvedForDelivery": "2023-10-16T00:00:00 +00:00",
-  "integratedApprenticeship": null,
-  "integration": null,
-  "integratedDegree": "integrated degree",
+  "integratedApprenticeship": true,
+  "integration": "Degree-apprenticeship",
+  "integratedDegree": "",
   "tbReference": "TB0831",
   "tbMainContact": "paul.roberts@aecom.com",
   "involvedEmployers": "Aecom, Angmering Secondary School, Atkins, BAM Nuttall, British Geological Survey, Cathie Group, Collyer's College, Cornish Lithium, Derby University, Equipe Group, Freelance Geotechnics, GDS Instruments, Geological Society of London, Geoquip, Hanson, Idris Consulting Limited, Institute of Materials, Minerals & Mining, Jacobs, Jomas Associates, Land Quality Management , Maven Energy Services Ltd, PetroStrat, PL Projects, University of Portsmouth, Scottish Power, Socotec, Stantec, Tarmac, University of Newcastle, Wardell Armstrong",
