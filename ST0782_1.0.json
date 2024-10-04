@@ -3,14 +3,14 @@
   "larsCode": 554,
   "referenceNumber": "ST0782",
   "title": "Curator",
-  "status": "Approved for delivery",
+  "status": "Retired",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/554",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/curator",
+  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/curator-v10",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2022-02-25T00:00:00",
   "earliestStartDate": "2020-04-27T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2024-10-02T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Research, understand, develop and interpret collections, themes or subjects.",
   "level": 7,
@@ -798,5 +798,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2022-02-25T00:00:00"
+  "publishDate": "2024-10-02T00:00:00"
 }
