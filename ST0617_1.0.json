@@ -502,7 +502,7 @@
   "pathway": "Building Services Engineering",
   "cluster": "Facilities management operative or supervisor",
   "clusterId": "123",
-  "clusterDescription": null,
+  "clusterDescription": "Manage and maintain (planned and reactive) a building's mechanisms and systems across electrical, plumbing, plant, safety systems and other equipment",
   "createdDate": "2022-02-08T11:10:25 +00:00",
   "lastUpdated": "2022-02-08T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-04-11T00:00:00 +00:00",
@@ -514,7 +514,9 @@
       "qualificationId": "4af13ab6-232c-4b01-957a-0e0a1b992c7a",
       "title": "Level 2 Facilities Services Principles",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
