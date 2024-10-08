@@ -247,7 +247,7 @@
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Agricultural operative or technician",
   "clusterId": "143",
-  "clusterDescription": null,
+  "clusterDescription": "Undertake largely routine arable and livestock tasks with some specialisation in either area",
   "createdDate": "2022-04-22T14:06:17 +00:00",
   "lastUpdated": "2022-04-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-06-29T00:00:00 +00:00",
@@ -259,19 +259,25 @@
       "qualificationId": "f655021a-2677-47f9-8c9b-ba80b14d5e82",
       "title": "City & Guilds Principles of Safe Handling and Application of Pesticides Guidance or Lantra Safe use of Pesticides",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "7728bc85-d4e6-4fde-892b-aed8f081780f",
       "title": "Level 2 in Safe Use of Veterinary Medicines",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "9f741b4f-6a14-4dba-894c-da10c29a84a4",
       "title": "Award in Emergency First Aid at Work, which is a minimum of 1-day course (Ofqual regulated)",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
