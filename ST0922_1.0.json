@@ -354,7 +354,7 @@
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Arboriculture and forestry professional",
   "clusterId": "157",
-  "clusterDescription": null,
+  "clusterDescription": "Plan for and manage operations to establish, maintain, manage and remove or harvest trees and/or woodland",
   "createdDate": "2021-11-05T08:52:06 +00:00",
   "lastUpdated": "2021-11-19T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-11-12T00:00:00 +00:00",
@@ -366,7 +366,9 @@
       "qualificationId": "ae9bac8c-6458-45b5-8a62-5bb4b6037773",
       "title": "BSc Arboriculture (integrated degree)",
       "level": "6 (integrated degree)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
