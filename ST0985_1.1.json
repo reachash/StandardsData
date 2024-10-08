@@ -274,7 +274,7 @@
   "pathway": "Onsite Construction",
   "cluster": "Construction operative or supervisor",
   "clusterId": "1",
-  "clusterDescription": null,
+  "clusterDescription": "Use of heavy plant and equipment on surface construction sites and also specialist sites e.g. highways, tunnelling. Also the ability to undertake specialist construction work e.g. handling insulation, asbestos. Interprets drawings, plans and specifications along with methods and risk statement",
   "createdDate": "2024-04-09T12:20:57 +00:00",
   "lastUpdated": "2023-11-16T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-08-29T00:00:00 +00:00",
@@ -286,7 +286,9 @@
       "qualificationId": "1d9c9dda-380e-4d03-9340-f55cea497930",
       "title": "All of NHSS12AB, NHSS12C and NHSS12D at level 1, in addition to one of NHSS12AB, NHSS12C or NHSS12D at level 2.",
       "level": "Two",
-      "anyAdditionalInformation": "Apprentices will achieve a level 2 qualification in either NHSS12AB, NHSS12C or NHSS12D according to their chosen road type. They will also achieve level 1 qualifications in all road types: NHSS12AB, NHSS12C and NHSS12D."
+      "anyAdditionalInformation": "Apprentices will achieve a level 2 qualification in either NHSS12AB, NHSS12C or NHSS12D according to their chosen road type. They will also achieve level 1 qualifications in all road types: NHSS12AB, NHSS12C and NHSS12D.",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
