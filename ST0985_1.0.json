@@ -274,7 +274,7 @@
   "pathway": "Onsite Construction",
   "cluster": "Construction operative or supervisor",
   "clusterId": "1",
-  "clusterDescription": null,
+  "clusterDescription": "Use of heavy plant and equipment on surface construction sites and also specialist sites e.g. highways, tunnelling. Also the ability to undertake specialist construction work e.g. handling insulation, asbestos. Interprets drawings, plans and specifications along with methods and risk statement",
   "createdDate": "2023-09-26T14:25:13 +00:00",
   "lastUpdated": "2023-11-16T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-08-29T00:00:00 +00:00",
@@ -286,19 +286,25 @@
       "qualificationId": "1d9c9dda-380e-4d03-9340-f55cea497930",
       "title": "NHSS12AB",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "a4ee23a2-0be0-4803-8508-f379dab2c691",
       "title": "NHSS12C",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "db3ab200-d204-4d29-8ce2-a3b84ea9c88e",
       "title": "NHSS12D",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
