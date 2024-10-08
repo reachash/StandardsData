@@ -394,7 +394,7 @@
   "pathway": "Transport",
   "cluster": "Driver or crewmember",
   "clusterId": "82",
-  "clusterDescription": null,
+  "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
   "createdDate": "2023-12-14T11:26:15 +00:00",
   "lastUpdated": "2023-11-27T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-08-07T00:00:00 +00:00",
@@ -406,115 +406,153 @@
       "qualificationId": "7494de3c-f6e4-4774-aedb-bc371824d3af",
       "title": "STCW Personal Survival Techniques",
       "level": "Two",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "16f4c7f0-3733-4aca-8e1e-e26b146c3c26",
       "title": "STCW Firefighting and Fire Prevention",
       "level": "Two",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "6dc6948e-154d-464b-b50a-98a5cb59597a",
       "title": "STCW Emergency First Aid",
       "level": "Two",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "15f5da75-a675-4962-9b88-5621e85aac0d",
       "title": "STCW Personal Safety and Social Responsibilities",
       "level": "Two",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "17bd86d8-3180-4903-894d-a53a8ffbb3ad",
       "title": "STCW Proficiency in Designated Security Duties",
       "level": "Two",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "63363748-aff2-4ebe-a782-e67a04fb09ce",
       "title": "MCA Small Ships Navigation and Radar or SQA Use of Radar for Safe Navigation and Collision Avoidance on Domestic and Code Vessels",
       "level": "Two",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "c26ec7c8-065d-42f0-b0d1-f6a1b88c83bb",
       "title": "SQA Operate Non-ECDIS Marine Electronic Chart Systems",
       "level": "Two",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "d9ef2c38-6ba8-4bc5-becb-931dcaee1851",
       "title": "MCA Stability Course",
       "level": "Two",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "4a651612-1c04-4d2f-8c71-31e300efad8f",
       "title": "MCA Approved Engine Course (AEC) 1",
       "level": "Two",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "c83e0983-4d9d-421c-a093-681e535d7728",
       "title": "MCA Approved Engine Course (AEC) 2",
       "level": "Two",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "4a25fec1-cbd9-46b0-a841-fe89c1bc253d",
       "title": "MCA Compliant L2 Food Handling",
       "level": "Two",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "ea12e1fb-13ba-468c-b83c-1f4597217817",
       "title": "RYA Yachtmaster Coastal or Offshore Certificate of Competence Theory",
       "level": "Two",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "7d0ce614-1710-48bb-91ea-5e831beddd7f",
       "title": "RYA Yachtmaster Coastal or Offshore Certificate of Competence Practical",
       "level": "Two",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "12718cfd-24fb-477d-90c0-72b182b03a22",
       "title": "RYA or MCA GMDSS Short Range Communications Certificate",
       "level": "Two",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "4281db6b-bd82-4fef-87ec-abca4c9e501d",
       "title": "RYA Professional Practices and Responsibilities and RYA Commercial Endorsement",
       "level": "Two",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "bc112145-651c-4385-8172-2595e1c4b559",
       "title": "Manual Handling",
       "level": "Two",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "9b5671d7-7352-44c6-90bb-f4369bcf6fcc",
       "title": "Marine Hydraulic Loader Crane Operators Certificate",
       "level": "Two",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "d3846d5e-30c7-4c92-bd3e-3ec86d213a35",
       "title": "Slinger and Signallers Certificate",
       "level": "Two",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "6aecb76d-55db-4eba-bd30-15533df1a35f",
       "title": "Level 2 Diploma in Maritime Studies: Workboats",
       "level": "Two",
-      "anyAdditionalInformation": "Units to be completed:1. FA5M 54 Maritime Employment,Environmental and Health and Safety Practice2. FA69 54 Maritime Sector Overview3. FA60 54Vessel Ropework, Anchoring and Mooring Operations4. FA61 54 Securing a Vessel forPassage5. FA62 54 Vessel Construction and Stability6. H49Y 54 Contribute to WorkboatOperations7. FA5N 54 Survival in the Water During Maritime Emergencies8. FA5T 54 VesselFire Prevention and Firefighting (STCW)9. FA5R 54 Emergency First Aid in Response toMaritime Accidents or Medical Emergencies10. FA68 54 Communicate Using Equipment andVisual Means11. FN04 62 Basic Navigational Watchkeeping12. FF2D 57 Control Operation ofSurvival Craft and Rescue Boats"
+      "anyAdditionalInformation": "Units to be completed:1. FA5M 54 Maritime Employment,Environmental and Health and Safety Practice2. FA69 54 Maritime Sector Overview3. FA60 54Vessel Ropework, Anchoring and Mooring Operations4. FA61 54 Securing a Vessel forPassage5. FA62 54 Vessel Construction and Stability6. H49Y 54 Contribute to WorkboatOperations7. FA5N 54 Survival in the Water During Maritime Emergencies8. FA5T 54 VesselFire Prevention and Firefighting (STCW)9. FA5R 54 Emergency First Aid in Response toMaritime Accidents or Medical Emergencies10. FA68 54 Communicate Using Equipment andVisual Means11. FN04 62 Basic Navigational Watchkeeping12. FF2D 57 Control Operation ofSurvival Craft and Rescue Boats",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
