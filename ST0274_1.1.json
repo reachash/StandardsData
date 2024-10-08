@@ -274,7 +274,7 @@
   "pathway": "Transport",
   "cluster": "Driver or crewmember",
   "clusterId": "82",
-  "clusterDescription": null,
+  "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
   "createdDate": "2022-02-25T13:14:45 +00:00",
   "lastUpdated": "2023-02-20T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-08-27T00:00:00 +00:00",
@@ -286,79 +286,105 @@
       "qualificationId": "b6f7b5f9-654a-48c3-96f3-e37f4c92b92e",
       "title": "Award in Maritime Studies: Deck Rating – SQA Code GC6K 62",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "0824dc6f-95a9-4327-a715-78bdf092cc0b",
       "title": "Certificate in Maritime Studies: Able Seafarer (Deck) – SQA Code GK54 54",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "4b1b8c1c-acb7-48b5-accf-a89f0b64e1d2",
       "title": "STCW Personal Survival Techniques ",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "ecc4b180-24bf-46bf-9a65-ef19ea9b407b",
       "title": "STCW Basic Firefighting and Fire prevention ",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "78626292-164e-4f93-842b-0bf47c455479",
       "title": "STCW Elementary first aid ",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "7ac62276-e3c8-49ab-8235-d5d8b7dbf2a1",
       "title": "STCW Proficiency in security awareness ",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "92eeb330-010b-449e-b4e2-c6c0630cbb66",
       "title": "STCW Personal safety and social responsibility ",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "7d56deae-0bc1-42d4-a94f-00f0e36fb158",
       "title": "MNTB Entry into Enclosed Spaces ",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "f229557c-9b2e-47b3-a043-86ee19d8ce72",
       "title": "MCA approved Steering Certificate ",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "b0edd8e2-9d8c-4caa-bff8-3d54ed1b669b",
       "title": "Proficiency in Survival Craft and Rescue Boats Certificate ",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "148194eb-503a-4c21-b79f-7d36fb701354",
       "title": "Proficiency in Designated Security Duties ",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "87a20fe4-4fab-4f0e-a0db-d11ab14dd7e7",
       "title": "MCA approved Navigational Watch Rating Certificate (including 2 months statutory sea time)",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "4a624ee2-fa89-48d4-99d8-f5e5991d5a51",
       "title": "MCA approved Efficient Deck Hand (EDH) Certificate (including 6 months statutory sea time) ",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
