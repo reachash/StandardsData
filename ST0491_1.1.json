@@ -296,7 +296,7 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Design, Surveying & Planning",
-  "cluster": "Design & Surveying Technician",
+  "cluster": "Design and surveying technician",
   "clusterId": "54",
   "clusterDescription": "Design, analyse, plan for site engineering and construction projects. Specialisms are common (e.g. rail infrastructure, asbestos management). Significant capability in the use of IT/digital technology, data collection, analysis and presentation",
   "createdDate": "2023-11-17T15:47:12 +00:00",
@@ -310,7 +310,9 @@
       "qualificationId": "fecfe5e8-4491-4373-a7f9-7dc5f62f23f8",
       "title": "TQUK Level 3 Diploma in Geospatial Surveying (integrated apprenticeship) QAN: 610/3069/7",
       "level": "Three",
-      "anyAdditionalInformation": "Qualification Number: 610/3069/7"
+      "anyAdditionalInformation": "Qualification Number: 610/3069/7",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
