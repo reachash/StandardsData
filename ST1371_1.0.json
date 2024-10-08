@@ -335,7 +335,7 @@
   "pathway": "Craft and Design",
   "cluster": "Design professional",
   "clusterId": "178",
-  "clusterDescription": null,
+  "clusterDescription": "Apply advanced creative skills and industry expertise to lead the design and development of original products, graphics and concepts.",
   "createdDate": "2024-07-23T11:29:44 +00:00",
   "lastUpdated": "2024-07-23T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-07-23T00:00:00 +00:00",
@@ -347,7 +347,9 @@
       "qualificationId": "43a2fa23-29cb-414c-b756-ac99bae46e44",
       "title": "Model Maker",
       "level": "6 (integrated degree)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
