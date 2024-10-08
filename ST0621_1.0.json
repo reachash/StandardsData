@@ -258,7 +258,7 @@
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Transport",
-  "cluster": "Driver/Crewmember",
+  "cluster": "Driver or crewmember",
   "clusterId": "82",
   "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
   "createdDate": "2022-01-25T08:39:32 +00:00",
@@ -272,121 +272,161 @@
       "qualificationId": "e3b5cc33-1aad-4e71-80b4-f03bba48ef41",
       "title": "Non ECDIS (non Electronic Chart Display and Information System)",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "1ff3adf1-cece-4610-a974-6c80c38086fb",
       "title": "Human Element, Leadership and Management at Operational level “HELM(O)” certificate",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "b3289c9a-6f54-4ab1-9f8d-3295846970c1",
       "title": "Crisis Management and Human Behaviour Certificate",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "e2541ae2-9260-4011-90ad-564184fbd6ac",
       "title": "RYA  Commercial Endorsement for Powerboat 2",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "c5eee73c-1464-40ae-aa6d-f735c6c35a3e",
       "title": "Diploma in Maritime Studies: Rivers, Inland Waterways and Limited Distances to Sea 601/0021/7",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "fa69afa4-fb9a-4d99-8af6-4580ef997ed6",
       "title": "Boat Masters Licence (BML)",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "866d45f0-f6bf-4f95-aa02-0239dc5cbdc4",
       "title": "RYA or MCA Yachtmaster Coastal Skipper Certificate of Competence",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "161a22c6-3c1c-4b30-a9e8-68bb5e88dce3",
       "title": "Commercially endorsed Day Skipper (theory and practical)",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "7b1b77d8-61e0-4097-92a0-9561521df3da",
       "title": "RYA/MCA GMDSS Short range communication certificate",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "17661016-04e3-4440-a3d9-7dc0fdae4f45",
       "title": "Stability 1 day",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "da1b479a-5d58-4970-ad3f-80e314d5296c",
       "title": "STCW Personal Survival Techniques",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "e73a8255-78a6-4d44-ac80-b0e932bbc43d",
       "title": "STCW Basic Fire fighting and Fire prevention",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "aa81ef03-056d-4e5b-8dee-ff1ab806d896",
       "title": "STCW Elementary first aid",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "9a7767a5-a0d7-4d6f-ae2b-381b901248e8",
       "title": "STCW Proficiency in security awareness",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "8a7c437e-8a70-4305-8a75-425cc479ec4b",
       "title": "STCW Personal safety and social responsibility",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "0497ea9e-ed25-4e8c-9900-cfa424c4ac14",
       "title": "Diesel engine AEC1",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "090dfbec-4ee5-4801-89ad-2857136e1447",
       "title": "MSN 1853 Radar endorsement",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "14757ec2-4f81-45ff-ad93-2e42bc38ff1a",
       "title": "SQA unit FA60 54 Vessel rope work, anchoring and mooring operations",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "8d2e68f2-6adc-450f-bab6-1cfe18328ac8",
       "title": "Professional Practices and responsibilities",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "f636bc04-17b8-4da0-8f29-0269c20d9cd1",
       "title": "Coastal Skipper (Theory and Practical)",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
