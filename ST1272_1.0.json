@@ -774,7 +774,7 @@
   "pathway": "Health",
   "cluster": "Health professional",
   "clusterId": "6",
-  "clusterDescription": null,
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2024-08-22T17:21:04 +00:00",
   "lastUpdated": "2024-09-06T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-08-22T00:00:00 +00:00",
@@ -786,13 +786,17 @@
       "qualificationId": "75c67df4-4067-46e1-80c8-0186d83c3c26",
       "title": "BSc (Hons) Orthoptics",
       "level": "6 (integrated degree)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "7772e48d-a7a0-4135-b131-c844332b963f",
       "title": "Orthoptics (pre-registration) MSc",
       "level": "7 (integrated degree)",
-      "anyAdditionalInformation": "BSc (Hons) degree in Orthoptics or Level 7 qualification approved by the Health and Care Professions Council (HCPC) where the apprentice already holds a Level 6 degree."
+      "anyAdditionalInformation": "BSc (Hons) degree in Orthoptics or Level 7 qualification approved by the Health and Care Professions Council (HCPC) where the apprentice already holds a Level 6 degree.",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
