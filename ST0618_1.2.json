@@ -599,7 +599,7 @@
   "pathway": "Health",
   "cluster": "Health professional",
   "clusterId": "6",
-  "clusterDescription": null,
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2023-06-23T09:54:34 +00:00",
   "lastUpdated": "2023-09-01T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-07-03T00:00:00 +00:00",
@@ -611,7 +611,9 @@
       "qualificationId": "a47911c3-a8cf-4845-9c26-4339598e1e54",
       "title": "BSc (Hons) degree in Speech and language therapy or Level 7 qualification approved by the Health and Care Professions Council (HCPC) where the apprentice already holds a Level 6 degree",
       "level": "6 (integrated degree)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
