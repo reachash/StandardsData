@@ -81,7 +81,26 @@
       "qualificationId": "1ebf4fa2-1b71-4bb5-8699-362592174fc0",
       "title": "xxxxxxxxxxx",
       "level": "6 (integrated degree)",
-      "anyAdditionalInformation": "xxxxxxxxxxx"
+      "anyAdditionalInformation": "xxxxxxxxxxx",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": [
+        {
+          "title": "Core",
+          "optionID": "core"
+        },
+        {
+          "title": "Investment banking professional",
+          "optionID": "9f1b9c91-f61f-4b4c-8aa2-e1fe9cd9b603"
+        },
+        {
+          "title": "Investment Management professional",
+          "optionID": "cba16e59-59cd-4d4e-a0cd-7cb00e89a1cc"
+        },
+        {
+          "title": "Investment operations ",
+          "optionID": "cd9361dc-96c5-4518-a9e3-a2471f475d1f"
+        }
+      ]
     }
   ],
   "professionalRecognition": [],
