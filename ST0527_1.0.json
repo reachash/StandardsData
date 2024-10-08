@@ -226,7 +226,7 @@
   "pathway": "Care Services",
   "cluster": "Care services professional",
   "clusterId": "44",
-  "clusterDescription": null,
+  "clusterDescription": "Lead, manage and deliver a whole care process to support clients including their assurance and improvement often requiring specialist care expertise.",
   "createdDate": "2021-12-15T10:00:44 +00:00",
   "lastUpdated": "2023-11-08T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-09-27T00:00:00 +00:00",
@@ -238,7 +238,9 @@
       "qualificationId": "405fd465-2775-4e8a-8f38-17dba95a0a8d",
       "title": "Bachelors degree with honours in theology and ministry",
       "level": "6 (integrated degree)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
