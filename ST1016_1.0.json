@@ -549,8 +549,8 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Protective Services",
-  "cluster": "Protective Service Officer",
+  "pathway": "Protective services",
+  "cluster": "Protective service officer",
   "clusterId": "15",
   "clusterDescription": "Provide safety, security, prevention, enforcement, protection and investigation services largely on behalf of society",
   "createdDate": "2023-07-27T15:41:26 +00:00",
@@ -564,7 +564,14 @@
       "qualificationId": "e2f73e33-64b0-45b6-8fb0-550e5b95f20b",
       "title": "Emergency First Aid at Work (regulated or unregulated and conforms to Health & Safety Executive guidelines)",
       "level": "Three",
-      "anyAdditionalInformation": "Apprentices will need to achieve a one day Emergency First Aid at Work qualification that is regulated by Ofqual or conforms to Health & Safety Executive guidelines."
+      "anyAdditionalInformation": "Apprentices will need to achieve a one day Emergency First Aid at Work qualification that is regulated by Ofqual or conforms to Health & Safety Executive guidelines.",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": [
+        {
+          "title": "Core",
+          "optionID": "core"
+        }
+      ]
     }
   ],
   "professionalRecognition": [
