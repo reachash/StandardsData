@@ -323,10 +323,10 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Manufacturing, Process and Control",
+  "pathway": "Engineering, manufacturing, process and control",
   "cluster": "Manufacturing and process operative or technician",
   "clusterId": "262",
-  "clusterDescription": null,
+  "clusterDescription": "Assemble and construct complex engineering products",
   "createdDate": "2023-09-25T13:25:15 +00:00",
   "lastUpdated": "2024-06-25T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2022-11-09T00:00:00 +00:00",
@@ -338,19 +338,25 @@
       "qualificationId": "484e1a75-551d-421d-9588-d0196ef7773c",
       "title": "EAL L3 Extended diploma in Machining (Development Knowledge) ",
       "level": "Three",
-      "anyAdditionalInformation": "EAL L3 Extended diploma in Machining (Development Knowledge) minimum 720GLH."
+      "anyAdditionalInformation": "EAL L3 Extended diploma in Machining (Development Knowledge) minimum 720GLH.",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "aa598dca-f72f-435b-bd63-7229faedffa4",
       "title": "Pearson BTEC Level 3 Diploma in Advanced Manufacturing Engineering (Machining) (Development Technical Knowledge)",
       "level": "Three",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "1019acc5-8ee5-4ba1-94e1-4fe2a2ef4f7e",
       "title": "City and Guilds Machining technician (1273)",
       "level": "Three",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
