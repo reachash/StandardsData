@@ -453,8 +453,8 @@
   ],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Maintenance, Installation & Repair",
-  "cluster": "Manufacturing/Process Maintenance Operative/Technician",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Manufacturing or process maintenance operative or technician",
   "clusterId": "71",
   "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2023-11-17T09:06:24 +00:00",
@@ -468,7 +468,9 @@
       "qualificationId": "1feabf44-6b79-491e-ae25-b595f946ed25",
       "title": "Emergency first aid 1 day course",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
