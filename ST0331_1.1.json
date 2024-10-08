@@ -68,7 +68,7 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Design, Surveying & Planning",
-  "cluster": "Design & Surveying Professional",
+  "cluster": "Design and surveying professional",
   "clusterId": "40",
   "clusterDescription": "Building/structure design, research, commercial cost management, contracts management with a wide range of knowledge of current technology developments and options, contracts, procurement and tracking. Consults with clients to determine functional and spatial requirements of new or renovated structures",
   "createdDate": "2020-10-05T12:35:35 +00:00",
@@ -82,7 +82,9 @@
       "qualificationId": "36d4ed43-9bde-4c3f-abd3-7ec5e4aab57d",
       "title": "Apprentices will be required to complete a Royal Institution of Chartered Surveyors (RICS) accredited BSc/BSc(Honours) or (where the apprentice already holds a Level 6 degree and subject to an assessment of prior learning) an RICS accredited Post Graduate Diploma or MSc that states it is linked to this apprenticeship.",
       "level": "6 (non-integrated degree)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
