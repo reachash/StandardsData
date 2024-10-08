@@ -323,8 +323,8 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Manufacturing, Process and Control",
-  "cluster": "Manufacturing and Process Operative/Technician",
+  "pathway": "Engineering, manufacturing, process and control",
+  "cluster": "Manufacturing and process operative or technician",
   "clusterId": "262",
   "clusterDescription": "Assemble and construct complex engineering products",
   "createdDate": "2023-01-23T16:03:20 +00:00",
@@ -338,13 +338,17 @@
       "qualificationId": "484e1a75-551d-421d-9588-d0196ef7773c",
       "title": "EAL L3 Extended diploma in Machining (Development Knowledge) ",
       "level": "3",
-      "anyAdditionalInformation": "EAL L3 Extended diploma in Machining (Development Knowledge) minimum 720GLH."
+      "anyAdditionalInformation": "EAL L3 Extended diploma in Machining (Development Knowledge) minimum 720GLH.",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "aa598dca-f72f-435b-bd63-7229faedffa4",
       "title": "Pearson BTEC Level 3 Diploma in Advanced Manufacturing Engineering (Machining) (Development Technical Knowledge)",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
