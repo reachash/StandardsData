@@ -427,7 +427,7 @@
   "pathway": "Legal",
   "cluster": "Legal professional or lawyer",
   "clusterId": "249",
-  "clusterDescription": null,
+  "clusterDescription": "Deliver legal services to internal and external clients based on specific specialism e.g. land/property conveyancing, Family law, civil litigation, criminal, company & business law",
   "createdDate": "2023-06-22T14:54:02 +00:00",
   "lastUpdated": "2023-06-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-06-22T00:00:00 +00:00",
@@ -439,7 +439,9 @@
       "qualificationId": "65d3e5e5-db41-4bfa-9825-46d4b54bffe3",
       "title": "Any qualification approved by CILEX Regulator ",
       "level": "SevenIntegratedQualification",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
