@@ -558,7 +558,7 @@
   "pathway": "Health",
   "cluster": "Health professional",
   "clusterId": "6",
-  "clusterDescription": null,
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2023-07-12T08:49:51 +00:00",
   "lastUpdated": "2023-09-01T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-05-14T00:00:00 +00:00",
@@ -570,13 +570,17 @@
       "qualificationId": "6734a013-ff41-4831-b3f0-78256d6aa374",
       "title": "BSc (Honours) in Podiatry",
       "level": "6 (integrated degree)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "a14e84d4-842d-42e3-acd3-e9a75f3ec8b4",
       "title": "A pre-registration MSc in Podiatry where the apprentice already holds a level 6 degree",
       "level": "7 (integrated degree)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
