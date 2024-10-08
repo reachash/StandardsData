@@ -262,19 +262,25 @@
       "qualificationId": "9de13b58-baf2-48c5-974d-3b44bf22af61",
       "title": "L4 HNC in Engineering or Manufacturing disciplines that fully align with the KSBs of the standard.",
       "level": "4",
-      "anyAdditionalInformation": "Aerospace sector:In addition, those undertaking this apprentice in the aerospace sector must undertake the additional qualifications listed below in order to meet the Civil Aviation (CAA) requirements"
+      "anyAdditionalInformation": "Aerospace sector:In addition, those undertaking this apprentice in the aerospace sector must undertake the additional qualifications listed below in order to meet the Civil Aviation (CAA) requirements",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "a1b5c2e4-d90f-47fb-9c9d-d4f7491c1268",
       "title": "Aerospace mandatory qualification: Level 2 Diploma in Aerospace and Aviation Engineering (Foundation Competence). ",
       "level": "2",
-      "anyAdditionalInformation": "In order to meet the requirements set out by CAA, all individuals undertaking this apprenticeship must complete a period of mandatory protected training leading to the successful achievement of this mandated qualification."
+      "anyAdditionalInformation": "In order to meet the requirements set out by CAA, all individuals undertaking this apprenticeship must complete a period of mandatory protected training leading to the successful achievement of this mandated qualification.",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "d0040355-8966-44d3-acc5-cea74d486798",
       "title": "Aerospace mandatory qualification Level 4 Diploma in Engineering and Advanced Manufacturing  (Development Competence).",
       "level": "4",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
