@@ -275,7 +275,7 @@
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Agricultural manager",
   "clusterId": "154",
-  "clusterDescription": null,
+  "clusterDescription": "Management of a whole agriculture enterprise or specific sections of an enterprise (e.g. livestock, fisheries).",
   "createdDate": "2024-02-06T10:45:12 +00:00",
   "lastUpdated": "2024-02-07T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-08-29T00:00:00 +00:00",
@@ -287,19 +287,25 @@
       "qualificationId": "cadf337c-c0f1-4c8b-935a-42ab4bdf8c69",
       "title": "Ofqual regulated Level 3 award in first aid at work (3-day course)",
       "level": "3",
-      "anyAdditionalInformation": "The Health and Safety (First-Aid) Regulations 1981 state that:\r\nan employer shall provide, or ensure that there is provided, such number of suitable persons as is adequate and appropriate in the circumstances for rendering first-aid to his employees if they are injured or become ill at work; and for this purpose a person shall not be suitable unless he has undergone such training and has such qualifications as may be appropriate in the circumstances of that case\r\nAgriculture is a high-risk sector where use of machinery, sharp tools and moving vehicles can lead to accidents and when they do occur, they are often more severe than in an office environment.  Workers are often in isolated locations working in small teams and it can take some time for them to get help if an accident occurs.  Responsible employers to meet the requirements of the law will make sure that a high proportion of their employees are first aid trained and to a sufficient level to deal with accidents that might occur.  \r\n"
+      "anyAdditionalInformation": "The Health and Safety (First-Aid) Regulations 1981 state that:\r\nan employer shall provide, or ensure that there is provided, such number of suitable persons as is adequate and appropriate in the circumstances for rendering first-aid to his employees if they are injured or become ill at work; and for this purpose a person shall not be suitable unless he has undergone such training and has such qualifications as may be appropriate in the circumstances of that case\r\nAgriculture is a high-risk sector where use of machinery, sharp tools and moving vehicles can lead to accidents and when they do occur, they are often more severe than in an office environment.  Workers are often in isolated locations working in small teams and it can take some time for them to get help if an accident occurs.  Responsible employers to meet the requirements of the law will make sure that a high proportion of their employees are first aid trained and to a sufficient level to deal with accidents that might occur.  \r\n",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "bf0a70e6-d9fd-41ed-9a76-28e023264a53",
       "title": "Lantra Awards Level 2 Award in Safe Use of Pesticides OR City & Guilds Level 2 Principles of safe handling and application of pesticides",
       "level": "2",
-      "anyAdditionalInformation": "Lantra Ofqual regulated 601/5977/7\r\nC&G not Ofqual regulated but pre-requisite for regulated qualifications\r\nUsers of professional products are required to hold a certificate showing they have sufficient knowledge of the subjects listed in Annex I of Guidance on the requirements of the Plant Protection Products (Sustainable Use) Regulations 2012 (https://www.hse.gov.uk/pesticides/using-pesticides/codes-of-practice/guidance-sustainable-use-ppp-regs-2012.htm).  This activity is regulated, and the qualifications mandated in the standards are all listed in the approved certificates for this purpose.  "
+      "anyAdditionalInformation": "Lantra Ofqual regulated 601/5977/7\r\nC&G not Ofqual regulated but pre-requisite for regulated qualifications\r\nUsers of professional products are required to hold a certificate showing they have sufficient knowledge of the subjects listed in Annex I of Guidance on the requirements of the Plant Protection Products (Sustainable Use) Regulations 2012 (https://www.hse.gov.uk/pesticides/using-pesticides/codes-of-practice/guidance-sustainable-use-ppp-regs-2012.htm).  This activity is regulated, and the qualifications mandated in the standards are all listed in the approved certificates for this purpose.  ",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "f2f58717-b1b4-4dd4-8795-3e0b336f129e",
       "title": "Lantra Awards Level 2 Award in the Safe Application of Pesticide Using Hand Held Equipment OR City & Guilds Level 2 Award In The Safe Application of Pesticides Using Pedestrian Hand Held Equipment",
       "level": "2",
-      "anyAdditionalInformation": "Users of professional products are required to hold a certificate showing they have sufficient knowledge of the subjects listed in Annex I of Guidance on the requirements of the Plant Protection \r\n\r\nProducts (Sustainable Use) Regulations 2012 (https://www.hse.gov.uk/pesticides/using-pesticides/codes-of-practice/guidance-sustainable-use-ppp-regs-2012.htm).  This activity is regulated, and the qualifications mandated in the standards are all listed in the approved certificates for this purpose.  "
+      "anyAdditionalInformation": "Users of professional products are required to hold a certificate showing they have sufficient knowledge of the subjects listed in Annex I of Guidance on the requirements of the Plant Protection \r\n\r\nProducts (Sustainable Use) Regulations 2012 (https://www.hse.gov.uk/pesticides/using-pesticides/codes-of-practice/guidance-sustainable-use-ppp-regs-2012.htm).  This activity is regulated, and the qualifications mandated in the standards are all listed in the approved certificates for this purpose.  ",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
