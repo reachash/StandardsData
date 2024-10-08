@@ -268,7 +268,7 @@
   "pathway": "Transport",
   "cluster": "Driver or crewmember",
   "clusterId": "82",
-  "clusterDescription": null,
+  "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
   "createdDate": "2023-04-25T09:52:17 +00:00",
   "lastUpdated": "2023-04-25T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-11-04T00:00:00 +00:00",
@@ -280,127 +280,169 @@
       "qualificationId": "e3b5cc33-1aad-4e71-80b4-f03bba48ef41",
       "title": "Manual Handling half day",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "1ff3adf1-cece-4610-a974-6c80c38086fb",
       "title": "STCW Personal Survival Techniques",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "b3289c9a-6f54-4ab1-9f8d-3295846970c1",
       "title": "MCA Approved Fire Safety Course",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "e2541ae2-9260-4011-90ad-564184fbd6ac",
       "title": "STCW Elementary First Aid",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "c5eee73c-1464-40ae-aa6d-f735c6c35a3e",
       "title": "STCW Proficiency in Security Awareness",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "fa69afa4-fb9a-4d99-8af6-4580ef997ed6",
       "title": "STCW Personal Safety and Social Responsibility",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "866d45f0-f6bf-4f95-aa02-0239dc5cbdc4",
       "title": "RYA/MCA GMDSS Short Range Certificate",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "161a22c6-3c1c-4b30-a9e8-68bb5e88dce3",
       "title": "RYA Powerboat Level 2",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "7b1b77d8-61e0-4097-92a0-9561521df3da",
       "title": "RYA Helmsman's Course",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "17661016-04e3-4440-a3d9-7dc0fdae4f45",
       "title": "RYA Professional Practices and Responsibilities",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "da1b479a-5d58-4970-ad3f-80e314d5296c",
       "title": "RYA Day Skipper Shore-based Certificate (Invigilated exam)",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "e73a8255-78a6-4d44-ac80-b0e932bbc43d",
       "title": "RYA Day Skipper Practical Course Completion Certificate",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "aa81ef03-056d-4e5b-8dee-ff1ab806d896",
       "title": "MCA Approved Stability Course Certificate",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "9a7767a5-a0d7-4d6f-ae2b-381b901248e8",
       "title": "MCA Approved Engine Course 1",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "8a7c437e-8a70-4305-8a75-425cc479ec4b",
       "title": "SQA Use of Radar for Safe Navigation and Collision Avoidance on Domestic and Code Vessels",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "0497ea9e-ed25-4e8c-9900-cfa424c4ac14",
       "title": "SQA Operate non ECDIS Marine Electronic Chart Systems",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "090dfbec-4ee5-4801-89ad-2857136e1447",
       "title": "RYA Intermediate Powerboat course",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "14757ec2-4f81-45ff-ad93-2e42bc38ff1a",
       "title": "RYA/MCA Yachtmaster Coastal Skipper Certificate of Competence",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "8d2e68f2-6adc-450f-bab6-1cfe18328ac8",
       "title": "STCW Crisis Management and Human Behaviour Certificate",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "f636bc04-17b8-4da0-8f29-0269c20d9cd1",
       "title": "STCW Human Element, Leadership and Management at Operational level “HELM(O)”",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "8f91841f-b3bd-498a-a7ef-c9cba7279209",
       "title": "SQA Diploma in Maritime Studies: Rivers, Inland Waterways and Limited Distances to Sea",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
