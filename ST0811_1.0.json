@@ -301,7 +301,7 @@
   "pathway": "Procurement",
   "cluster": "Procurement professional",
   "clusterId": "227",
-  "clusterDescription": null,
+  "clusterDescription": "Formulates direction and advice, manages change, and leads and influences both internal and external stakeholders in procurement and supply",
   "createdDate": "2023-10-20T08:49:58 +00:00",
   "lastUpdated": "2024-04-11T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-10-18T00:00:00 +00:00",
@@ -313,7 +313,9 @@
       "qualificationId": "efc5fbf2-6689-42b4-b1af-215ad48a3f00",
       "title": "CIPS L6 Professional diploma in procurement and supply",
       "level": "SixIntegratedQualification",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
