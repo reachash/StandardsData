@@ -643,7 +643,7 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Business Services",
-  "cluster": "Digital Solutions Professional",
+  "cluster": "Digital solutions professional",
   "clusterId": "235",
   "clusterDescription": "Provide and implement technology enabled solutions to internal and external customers",
   "createdDate": "2023-03-31T09:05:02 +00:00",
@@ -657,7 +657,9 @@
       "qualificationId": "f4400b5b-f6da-46f4-a868-27aa8994c638",
       "title": "Digital and Technology Solutions Professional",
       "level": "6 (integrated degree)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
