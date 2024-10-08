@@ -235,10 +235,10 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Manufacturing, Process and Control",
+  "pathway": "Engineering, manufacturing, process and control",
   "cluster": "Manufacturing and process operative or technician",
   "clusterId": "262",
-  "clusterDescription": null,
+  "clusterDescription": "Assemble and construct complex engineering products",
   "createdDate": "2023-11-14T08:06:29 +00:00",
   "lastUpdated": "2023-11-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-11-20T00:00:00 +00:00",
@@ -250,7 +250,9 @@
       "qualificationId": "2b4f7cdd-4632-4aba-adbc-9c52c671493a",
       "title": "Choose one of the following qualifications: 1) Advanced Manufacturing Engineering (Development Knowledge) – Awarding organisation EAL; GLH 750, or  2) Advanced Manufacturing Engineering (Development Technical Knowledge) – Awarding organisation Pearson; GLH 720 or  3) Diploma in Advanced Manufacturing Engineering (Development Knowledge) Awarding organisation City & Guilds; GLH 720.",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
