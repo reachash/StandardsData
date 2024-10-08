@@ -212,7 +212,7 @@
   "pathway": "Accountancy",
   "cluster": "Assistant accountant",
   "clusterId": "236",
-  "clusterDescription": null,
+  "clusterDescription": "Undertake routine accountancy support analysis and report on financial activities including dealing with HMRC",
   "createdDate": "2023-08-25T12:58:16 +00:00",
   "lastUpdated": "2023-08-01T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-09-07T00:00:00 +00:00",
@@ -224,13 +224,17 @@
       "qualificationId": "227db30d-153f-4a1f-8f2e-326922742929",
       "title": "AAT Advanced Diploma in Accounting ",
       "level": "Three",
-      "anyAdditionalInformation": "Superceded from 31 Aug 2022"
+      "anyAdditionalInformation": "Superceded from 31 Aug 2022",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "011a3588-e3f7-4842-b01a-13e55065dffb",
       "title": "AAT Level 3 Diploma in Accounting ",
       "level": "Three",
-      "anyAdditionalInformation": "Overtaking qualification to the AAT Advanced diploma in Accounting - Level 3 from 1st Sept 2022"
+      "anyAdditionalInformation": "Overtaking qualification to the AAT Advanced diploma in Accounting - Level 3 from 1st Sept 2022",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
