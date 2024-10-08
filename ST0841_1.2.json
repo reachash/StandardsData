@@ -247,8 +247,8 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Design and Development",
-  "cluster": "Design and Development Technical Manager",
+  "pathway": "Engineering, design and development",
+  "cluster": "Design and development technical manager",
   "clusterId": "254",
   "clusterDescription": "Design and develop whole product and/or process technologies using a specific discipline or technology or application expertise",
   "createdDate": "2023-11-02T15:20:32 +00:00",
@@ -262,19 +262,25 @@
       "qualificationId": "9de13b58-baf2-48c5-974d-3b44bf22af61",
       "title": "L4 HNC in Engineering or Manufacturing disciplines that fully align with the KSBs of the standard.",
       "level": "4",
-      "anyAdditionalInformation": "Aerospace sector:In addition, those undertaking this apprentice in the aerospace sector must undertake the additional qualifications listed below in order to meet the Civil Aviation (CAA) requirements"
+      "anyAdditionalInformation": "Aerospace sector:In addition, those undertaking this apprentice in the aerospace sector must undertake the additional qualifications listed below in order to meet the Civil Aviation (CAA) requirements",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "a1b5c2e4-d90f-47fb-9c9d-d4f7491c1268",
       "title": "Aerospace mandatory qualification: Level 2 Diploma in Aerospace and Aviation Engineering (Foundation Competence). ",
       "level": "2",
-      "anyAdditionalInformation": "In order to meet the requirements set out by CAA, all individuals undertaking this apprenticeship must complete a period of mandatory protected training leading to the successful achievement of this mandated qualification."
+      "anyAdditionalInformation": "In order to meet the requirements set out by CAA, all individuals undertaking this apprenticeship must complete a period of mandatory protected training leading to the successful achievement of this mandated qualification.",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "d0040355-8966-44d3-acc5-cea74d486798",
       "title": "Aerospace mandatory qualification Level 4 Diploma in Engineering and Advanced Manufacturing  (Development Competence).",
       "level": "4",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
