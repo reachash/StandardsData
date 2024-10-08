@@ -1405,7 +1405,7 @@
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
-  "cluster": "Midwifery and Nursing Professional",
+  "cluster": "Midwifery and nursing professional",
   "clusterId": "211",
   "clusterDescription": "Assess, plan, implement and evaluate patient care in multiple settings with specialist expertise often working independently",
   "createdDate": "2024-01-19T10:33:08 +00:00",
@@ -1419,7 +1419,22 @@
       "qualificationId": "7a3f2ccf-0099-42d8-9ba0-d2213f7b6129",
       "title": "NMC Approved Qualifications. Specialist Community Public Health Nursing",
       "level": "7 (non-degree qualification)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": [
+        {
+          "title": "Health Visitor",
+          "optionID": "88be59f7-839d-408b-8fd5-f43c88b5928a"
+        },
+        {
+          "title": "Occupational Health Nurse",
+          "optionID": "292e994c-5f45-408a-8a2a-7cbbda77bd6e"
+        },
+        {
+          "title": "School Nurse",
+          "optionID": "61081ff1-14c7-4765-b71a-613a2c076624"
+        }
+      ]
     }
   ],
   "professionalRecognition": [],
