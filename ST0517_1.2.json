@@ -659,7 +659,7 @@
   "pathway": "Health",
   "cluster": "Health professional",
   "clusterId": "6",
-  "clusterDescription": null,
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2023-06-23T10:02:29 +00:00",
   "lastUpdated": "2023-09-01T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-12-07T00:00:00 +00:00",
@@ -671,7 +671,9 @@
       "qualificationId": "21ee2b4d-15d3-4b7a-890e-f8238cd99b80",
       "title": "BSc (Hons) degree in Occupational Therapy or Level 7 qualification approved  by the Health and Care Professions Council (HCPC) where the apprentice already holds a Level 6 degree",
       "level": "6 (integrated degree)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
