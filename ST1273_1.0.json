@@ -305,10 +305,10 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Hair, Beauty and Aesthetics",
+  "pathway": "Hair, beauty and aesthetics",
   "cluster": "Hair specialist",
   "clusterId": "113",
-  "clusterDescription": null,
+  "clusterDescription": "Clean, condition, cut, style, finish, and colour hair including facial hair",
   "createdDate": "2024-03-11T16:24:00 +00:00",
   "lastUpdated": "2023-05-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-05-22T00:00:00 +00:00",
@@ -320,19 +320,25 @@
       "qualificationId": "8b15383f-84c9-4857-b4bc-50410ebecbea",
       "title": "City & Guilds Level 2 Diploma for Hair Professionals - Barbering 603/1380/8",
       "level": "2",
-      "anyAdditionalInformation": "This is an existing qualification that is required for insurance purposes, as there are no statutory or regulatory requirements."
+      "anyAdditionalInformation": "This is an existing qualification that is required for insurance purposes, as there are no statutory or regulatory requirements.",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "069df549-3437-4ace-b2f4-a4a3f674d09b",
       "title": " TQUK Level 2 Diploma for Hair Professionals (Barbering) (RQF) 603/3102/1",
       "level": "2",
-      "anyAdditionalInformation": "This is an existing qualification that is required for insurance purposes, as there are no statutory or regulatory requirements."
+      "anyAdditionalInformation": "This is an existing qualification that is required for insurance purposes, as there are no statutory or regulatory requirements.",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "2f05f4b9-28dc-4e09-b2e4-4cf5a8eb88f3",
       "title": "VTCT Level 2 Diploma for Hair Professionals (Barbering) 603/1324/9 ",
       "level": "2",
-      "anyAdditionalInformation": "This is an existing qualification that is required for insurance purposes, as there are no statutory or regulatory requirements. "
+      "anyAdditionalInformation": "This is an existing qualification that is required for insurance purposes, as there are no statutory or regulatory requirements. ",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
