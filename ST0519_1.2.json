@@ -581,7 +581,7 @@
   "pathway": "Health",
   "cluster": "Health professional",
   "clusterId": "6",
-  "clusterDescription": null,
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2023-07-12T12:21:11 +00:00",
   "lastUpdated": "2023-09-01T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-12-18T00:00:00 +00:00",
@@ -593,7 +593,9 @@
       "qualificationId": "4be9edff-0c76-43cb-b719-c62f162ada36",
       "title": "BSc (Hons) degree in Physiotherapy or Level 7 qualification approved  by the Health and Care Professions Council (HCPC) where the apprentice already holds a Level 6 degree",
       "level": "6 (integrated degree)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
