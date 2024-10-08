@@ -236,7 +236,7 @@
   "pathway": "Financial",
   "cluster": "Financial services administrator",
   "clusterId": "240",
-  "clusterDescription": null,
+  "clusterDescription": "Provide highly accurate support to operations and administration across wide areas of financial service areas including research and analysis compliant with relevant regulations. Deliver support to clients and to client account management (risk, collection, enforcement, recovery)",
   "createdDate": "2024-01-11T14:12:12 +00:00",
   "lastUpdated": "2024-01-11T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-10-30T00:00:00 +00:00",
@@ -248,19 +248,25 @@
       "qualificationId": "34d97308-d3fc-4bd0-baae-990698080340",
       "title": "CILA Certificate in Insurance",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "453f6634-6aba-4e3d-9815-d96a58a40568",
       "title": "CII Certificate in Insurance",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "c61a812e-8ca0-4958-ba1c-cee69bc6b300",
       "title": "CII Certificate in London markets insurance",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
