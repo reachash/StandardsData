@@ -424,7 +424,7 @@
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Building Services Engineering",
-  "cluster": "Building Services Engineering Operative/Technician",
+  "cluster": "Building services engineering operative or technician",
   "clusterId": "65",
   "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
   "createdDate": "2024-04-05T08:57:07 +00:00",
@@ -438,13 +438,27 @@
       "qualificationId": "4e144b3b-0181-464a-a4d1-ee521db72e3c",
       "title": "Diploma in plumbing and domestic heating",
       "level": "3",
-      "anyAdditionalInformation": "to be completed by all apprentices."
+      "anyAdditionalInformation": "to be completed by all apprentices.",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": [
+        {
+          "title": "Core",
+          "optionID": "core"
+        }
+      ]
     },
     {
       "qualificationId": "6de35042-215e-4f6b-ae35-8a0b915dd9b5",
       "title": "Nationally Accredited Certification Scheme for Gas Fitting Operatives (ACS) Assessments CCN1 and CENWAT",
       "level": "3",
-      "anyAdditionalInformation": "to be completed by apprentices following the domestic gas fired hot water heating appliances option. Apprentices must have completed the training for CCN1 and CENWAT, with the assessments forming part of the EPA."
+      "anyAdditionalInformation": "to be completed by apprentices following the domestic gas fired hot water heating appliances option. Apprentices must have completed the training for CCN1 and CENWAT, with the assessments forming part of the EPA.",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": [
+        {
+          "title": "Domestic gas fired hot water heating appliances technician",
+          "optionID": "f7b01a95-311e-47ad-ba14-eef114316df5"
+        }
+      ]
     }
   ],
   "professionalRecognition": [
