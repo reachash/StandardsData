@@ -283,7 +283,7 @@
   "pathway": "Engineering, manufacturing, process and control",
   "cluster": "Quality improvement and project control technician",
   "clusterId": "256",
-  "clusterDescription": null,
+  "clusterDescription": "Maintain and improve product and process integrity and quality, production and process efficiency, and the overall health and safety of the working environment",
   "createdDate": "2024-08-21T11:12:26 +00:00",
   "lastUpdated": "2024-09-07T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-08-21T00:00:00 +00:00",
@@ -295,7 +295,9 @@
       "qualificationId": "f1a40461-3c13-4509-abe1-c7a2e0d55d12",
       "title": "EAL Level 3 Diploma in Engineering and manufacturing support technologies (QAN 610/4353/9)",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
