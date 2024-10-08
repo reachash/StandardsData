@@ -273,7 +273,7 @@
   "pathway": "Science",
   "cluster": "Science technician",
   "clusterId": "102",
-  "clusterDescription": null,
+  "clusterDescription": "Provide routine and non-routine laboratory testing, experimenting and support to a research brief",
   "createdDate": "2022-11-04T15:28:43 +00:00",
   "lastUpdated": "2022-11-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-06-09T00:00:00 +00:00",
@@ -285,7 +285,9 @@
       "qualificationId": "07a6d8b8-8b94-4f1c-8d42-8d97af89b070",
       "title": "IAT Level 3 Diploma in Laboratory Animal Science and Technology (2021)",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
