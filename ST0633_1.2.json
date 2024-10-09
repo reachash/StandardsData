@@ -685,7 +685,22 @@
       "qualificationId": "e47fd33f-7432-401d-b429-d79eb4daa870",
       "title": " MSc/MA in either Art Therapy/Art Psychotherapy, Dramatherapy or Music Therapy accredited by the Health and Care Professions Council (HCPC)",
       "level": "7 (integrated degree)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": [
+        {
+          "title": "Art",
+          "optionID": "8bd9a32e-9a25-4365-b1e9-a020e9566adb"
+        },
+        {
+          "title": "Drama",
+          "optionID": "1ef73f6d-5578-4b82-8437-f35668cb2752"
+        },
+        {
+          "title": "Music",
+          "optionID": "b9e43736-2658-4edf-a656-3f2d9e9353c6"
+        }
+      ]
     }
   ],
   "professionalRecognition": [],
