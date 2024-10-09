@@ -711,7 +711,7 @@
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
-  "cluster": "Health Assistant",
+  "cluster": "Health assistant",
   "clusterId": "112",
   "clusterDescription": "Provide direct patient contact and caring undertaking routine well defined clinical duties",
   "createdDate": "2022-08-08T10:23:19 +00:00",
@@ -725,7 +725,9 @@
       "qualificationId": "148799fd-0051-46bf-94db-dcedf3fa9c3c",
       "title": "Level 3 Diploma in Healthcare Support",
       "level": "3",
-      "anyAdditionalInformation": "IAO 603/2467/3, NOCN 603/4310/2, iCQ 603/2428/4, BIIAB 603/2525/2, FAQ 603/2556/2, Gateway Qualifications 603/2504/5, City and Guilds 603/2544/6, TQUK 603/2494/6, NCFE Cache 603/2414/4, NCFE Cache 603/2412/0, Highfield 603/2558/6, Pearson 603/2462/4."
+      "anyAdditionalInformation": "IAO 603/2467/3, NOCN 603/4310/2, iCQ 603/2428/4, BIIAB 603/2525/2, FAQ 603/2556/2, Gateway Qualifications 603/2504/5, City and Guilds 603/2544/6, TQUK 603/2494/6, NCFE Cache 603/2414/4, NCFE Cache 603/2412/0, Highfield 603/2558/6, Pearson 603/2462/4.",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
