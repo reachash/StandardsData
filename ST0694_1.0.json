@@ -293,7 +293,7 @@
   "pathway": "Human Resources",
   "cluster": "Human resources professional",
   "clusterId": "7",
-  "clusterDescription": null,
+  "clusterDescription": "Provision of high level human resource advice and leadership across an organisation combined with the ability to define strategic and operational organisation-wide human resource challenges and to develop lasting solutions",
   "createdDate": "2019-12-20T14:06:20 +00:00",
   "lastUpdated": "2022-04-07T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-05-10T00:00:00 +00:00",
@@ -305,7 +305,9 @@
       "qualificationId": "11d1d46f-0319-4376-bc45-9872ea2c36e5",
       "title": "A level 6 or higher career-related qualification (minimum of 60 credits) approved by the Career Development Institute as giving eligibility to the Register of Career Development Professionals. https://www.thecdi.net/write/Documents/CDI_UK_Register_Brochure-Feb_2018.pdf",
       "level": "6 (non-degree qualification)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
