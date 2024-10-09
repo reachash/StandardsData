@@ -298,7 +298,7 @@
   "pathway": "Education and early years",
   "cluster": "Teaching professional",
   "clusterId": "171",
-  "clusterDescription": null,
+  "clusterDescription": "Develop a learners' knowledge, skills and behaviours relevant to their stage of progress and subject specialism. Covers the full range of tracking, assessment and support to ensure a learner succeeds in a timely way",
   "createdDate": "2024-02-29T10:10:57 +00:00",
   "lastUpdated": "2023-11-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-11-14T00:00:00 +00:00",
@@ -310,7 +310,9 @@
       "qualificationId": "694abf69-5b14-48e8-9ebf-8061c773befd",
       "title": "Post-graduate diploma for specialist teachers",
       "level": "7 (non-degree qualification)",
-      "anyAdditionalInformation": "Apprentices must complete one of the mandatory post-graduate diploma's for specialist teachers: Specialist teacher for the deaf; or Specialist teacher for the visually impaired; or Specialist teacher for the multi-sensory impaired https://www.gov.uk/guidance/mandatory-qualifications-specialist-teachers "
+      "anyAdditionalInformation": "Apprentices must complete one of the mandatory post-graduate diploma's for specialist teachers: Specialist teacher for the deaf; or Specialist teacher for the visually impaired; or Specialist teacher for the multi-sensory impaired https://www.gov.uk/guidance/mandatory-qualifications-specialist-teachers ",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
