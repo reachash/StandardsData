@@ -382,7 +382,7 @@
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
-  "cluster": "Health Professional",
+  "cluster": "Health professional",
   "clusterId": "6",
   "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2020-01-09T10:18:26 +00:00",
@@ -396,7 +396,9 @@
       "qualificationId": "72628a43-89bc-41fb-9d16-7699d245b198",
       "title": " BSc Honours Ultrasound; BSc Honours Medical Ultrasound; BSc Honours Diagnostic Imaging; BSc Honours Diagnostic Ultrasound; BSc Honours Medical Imaging (Ultrasound); BSc Honours Ultrasound Imaging",
       "level": "6 (integrated degree)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
