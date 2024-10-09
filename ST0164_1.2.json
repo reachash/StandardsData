@@ -508,43 +508,152 @@
       "qualificationId": "a4fde687-e4a1-4f82-b97d-629b3c2e5f82",
       "title": "BTEC Level 3 Diploma in advanced manufacturing engineering (development technical knowledge)",
       "level": "3",
-      "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications."
+      "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications.",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": [
+        {
+          "title": "Electrical power design technician",
+          "optionID": "0ac51ff2-a23f-4418-b0f3-e6da2493b877"
+        },
+        {
+          "title": "Control and instrumentation design technician",
+          "optionID": "7239b382-3f7a-4ad3-a2a6-27b3f0d7d027"
+        },
+        {
+          "title": "Mechanical design technician",
+          "optionID": "55b10859-c22c-45bb-b0f3-a485dde7280d"
+        },
+        {
+          "title": "Piping design technician",
+          "optionID": "39c5ec59-b91c-496e-8a68-dcb38bccc6d8"
+        },
+        {
+          "title": "Structural design technician",
+          "optionID": "ee4f66bb-a519-4dda-b4e6-e24fb832d106"
+        }
+      ]
     },
     {
       "qualificationId": "bf69df1d-3fab-4a46-b302-ddc3ba701b68",
       "title": "Level 3 Diploma in Advanced Manufacturing Engineering (Development Knowledge)",
       "level": "3",
-      "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications."
+      "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications.",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": [
+        {
+          "title": "Electrical power design technician",
+          "optionID": "0ac51ff2-a23f-4418-b0f3-e6da2493b877"
+        },
+        {
+          "title": "Control and instrumentation design technician",
+          "optionID": "7239b382-3f7a-4ad3-a2a6-27b3f0d7d027"
+        },
+        {
+          "title": "Mechanical design technician",
+          "optionID": "55b10859-c22c-45bb-b0f3-a485dde7280d"
+        },
+        {
+          "title": "Piping design technician",
+          "optionID": "39c5ec59-b91c-496e-8a68-dcb38bccc6d8"
+        },
+        {
+          "title": "Structural design technician",
+          "optionID": "ee4f66bb-a519-4dda-b4e6-e24fb832d106"
+        }
+      ]
     },
     {
       "qualificationId": "116e7f6d-d186-4ae2-be3a-ee11005689d1",
       "title": "BTEC Level 3 National Diploma in Construction and the Built Environment",
       "level": "3",
-      "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications."
+      "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications.",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": [
+        {
+          "title": "Structural design technician",
+          "optionID": "ee4f66bb-a519-4dda-b4e6-e24fb832d106"
+        }
+      ]
     },
     {
       "qualificationId": "e15f273e-7914-409b-980d-5cc8354a9fe0",
       "title": "BTEC Level 3 National Diploma in Building Services Engineering",
       "level": "3",
-      "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications."
+      "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications.",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": [
+        {
+          "title": "Electrical power design technician",
+          "optionID": "0ac51ff2-a23f-4418-b0f3-e6da2493b877"
+        },
+        {
+          "title": "Control and instrumentation design technician",
+          "optionID": "7239b382-3f7a-4ad3-a2a6-27b3f0d7d027"
+        },
+        {
+          "title": "Mechanical design technician",
+          "optionID": "55b10859-c22c-45bb-b0f3-a485dde7280d"
+        },
+        {
+          "title": "Piping design technician",
+          "optionID": "39c5ec59-b91c-496e-8a68-dcb38bccc6d8"
+        }
+      ]
     },
     {
       "qualificationId": "a2e96ab2-4d02-4a1c-ac9f-a7fd77c7d9e8",
       "title": "BTEC Level 3 National Diploma in Civil Engineering",
       "level": "3",
-      "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications."
+      "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications.",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": [
+        {
+          "title": "Electrical power design technician",
+          "optionID": "0ac51ff2-a23f-4418-b0f3-e6da2493b877"
+        },
+        {
+          "title": "Control and instrumentation design technician",
+          "optionID": "7239b382-3f7a-4ad3-a2a6-27b3f0d7d027"
+        },
+        {
+          "title": "Mechanical design technician",
+          "optionID": "55b10859-c22c-45bb-b0f3-a485dde7280d"
+        },
+        {
+          "title": "Piping design technician",
+          "optionID": "39c5ec59-b91c-496e-8a68-dcb38bccc6d8"
+        },
+        {
+          "title": "Structural design technician",
+          "optionID": "ee4f66bb-a519-4dda-b4e6-e24fb832d106"
+        }
+      ]
     },
     {
       "qualificationId": "b62478e8-3b0e-4a90-b166-b23c367b273c",
       "title": "BTEC Level 3 National Diploma in Electrical and Electronic Engineering",
       "level": "3",
-      "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications."
+      "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications.",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": [
+        {
+          "title": "Electrical power design technician",
+          "optionID": "0ac51ff2-a23f-4418-b0f3-e6da2493b877"
+        }
+      ]
     },
     {
       "qualificationId": "380c374f-d2e2-44d4-976b-e01091645959",
       "title": "BTEC Level 3 National Diploma in Mechanical Engineering ",
       "level": "3",
-      "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications."
+      "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications.",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": [
+        {
+          "title": "Mechanical design technician",
+          "optionID": "55b10859-c22c-45bb-b0f3-a485dde7280d"
+        }
+      ]
     }
   ],
   "professionalRecognition": [
