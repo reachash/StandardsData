@@ -267,7 +267,7 @@
   "pathway": "Transport",
   "cluster": "Transport operations operative or technician",
   "clusterId": "16",
-  "clusterDescription": null,
+  "clusterDescription": "Support a transport facility's operation and/or support the loading and movement of a freight or passenger vehicle or vessel",
   "createdDate": "2021-08-17T15:10:27 +00:00",
   "lastUpdated": "2021-11-26T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-09-13T00:00:00 +00:00",
@@ -279,7 +279,9 @@
       "qualificationId": "13abd2fa-af8c-4356-a8bf-7a71e8d93a76",
       "title": "Category 8 Certificate in Dangerous Goods awareness",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
