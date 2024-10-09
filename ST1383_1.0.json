@@ -766,7 +766,7 @@
   "pathway": "Health",
   "cluster": "Health professional",
   "clusterId": "6",
-  "clusterDescription": null,
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2024-07-24T09:52:27 +00:00",
   "lastUpdated": "2024-07-24T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-07-24T00:00:00 +00:00",
@@ -778,7 +778,9 @@
       "qualificationId": "b60f23d5-5d78-42a1-b2f4-f6ca83d34caa",
       "title": "BSc Dental Hygiene",
       "level": "6 (integrated degree)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
