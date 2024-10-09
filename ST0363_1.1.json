@@ -272,7 +272,7 @@
   "pathway": "Financial",
   "cluster": "Compliance or risk specialist",
   "clusterId": "239",
-  "clusterDescription": null,
+  "clusterDescription": "Provide high quality input and advice to employers based on specialism e.g. risk, financial crime, compliance, data modelling and analysis",
   "createdDate": "2023-07-31T08:49:32 +00:00",
   "lastUpdated": "2023-01-27T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-09-19T00:00:00 +00:00",
@@ -284,61 +284,81 @@
       "qualificationId": "ac745086-d0e8-4410-8cd7-41838e50518b",
       "title": "CISI Diploma in Investment Compliance",
       "level": "6 (non-degree qualification)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "fc422abc-e1df-46ff-92bc-2c6572ebeb00",
       "title": "IRM International Certificate in Enterprise Risk Management    ",
       "level": "5",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "573376a1-cd36-42b5-9f20-4d427eaf9bce",
       "title": "IRM International Certificate in Financial Services Risk Management",
       "level": "5",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "97102a95-b97f-492e-b762-e9ed0f14d7a1",
       "title": "IRM International Diploma in Risk Management",
       "level": "7 (non-degree qualification)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "c23b006c-47eb-4b84-af00-dc5b6dcb65cd",
       "title": "CBI Certificate in Climate Risk",
       "level": "5",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "769549c9-70fa-486d-b906-f375e2c22503",
       "title": "ICA International Diploma in Governance, Risk and Compliance     ",
       "level": "6 (non-degree qualification)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "6de04a02-e1d1-4f16-9ae2-fc257fd34993",
       "title": "ICA International Diploma in Financial Crime Prevention                 ",
       "level": "6 (non-degree qualification)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "2ca956ee-4ac3-46a3-a998-44ddd767b928",
       "title": "ICA International Diploma in Anti Money Laundering                       ",
       "level": "6 (non-degree qualification)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "e75c5ef1-5e53-4a08-bc33-9751f8432af5",
       "title": "ICA International Diploma in Managing Sanctions Risk ",
       "level": "6 (non-degree qualification)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "3c7f4c6d-38a0-455b-920b-faf5580ab259",
       "title": "CICM Level 5 Diploma in Credit and Collections MCICM (Grad) ",
       "level": "5",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
