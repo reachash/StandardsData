@@ -312,10 +312,10 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Design and Development",
+  "pathway": "Engineering, design and development",
   "cluster": "Design and development engineer",
   "clusterId": "253",
-  "clusterDescription": null,
+  "clusterDescription": "Design and develop a range of products and/or process technologies using discipline and applications specific expertise",
   "createdDate": "2023-04-17T09:28:30 +00:00",
   "lastUpdated": "2023-11-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-09-03T00:00:00 +00:00",
@@ -327,13 +327,17 @@
       "qualificationId": "5ad646ed-d9bf-49b2-904a-37f69b0f60bf",
       "title": "BEng Aerospace engineering; BSc Aerospace engineering or other engineering degree that fully aligns to the KSBs on the apprenticeship",
       "level": "6 (integrated degree)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "ebe10927-829a-45bb-a94c-56ca1f4489dc",
       "title": "EAL Diploma in engineering and advanced manufacturing (development competence)",
       "level": "4",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
