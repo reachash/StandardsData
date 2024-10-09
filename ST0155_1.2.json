@@ -265,7 +265,7 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Building Services Engineering",
-  "cluster": "Building Services Engineering Operative/Technician",
+  "cluster": "Building services engineering operative or technician",
   "clusterId": "65",
   "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
   "createdDate": "2024-06-10T13:54:22 +00:00",
@@ -279,13 +279,17 @@
       "qualificationId": "96acbdb0-c539-4219-a9a2-4b9239fe633d",
       "title": "IGEM IG/1 supplement 2 certification (Natural Gas) or IGEM IG/1 supplement 4 certification (LPG).",
       "level": "3",
-      "anyAdditionalInformation": "Apprentices will achieve either IGEM IG/1 Supplement 2 Certification (Natural Gas) or IGEM IG/1 Supplement 4 Certification (LPG)."
+      "anyAdditionalInformation": "Apprentices will achieve either IGEM IG/1 Supplement 2 Certification (Natural Gas) or IGEM IG/1 Supplement 4 Certification (LPG).",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "a3fe07c7-77bb-40f4-917e-afaaf1ff9cb6",
       "title": "Matters of Gas Safety Competency Accreditations to meet the requirements of the practical assessment with questions ",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
