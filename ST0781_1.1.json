@@ -559,7 +559,7 @@
   "pathway": "Health",
   "cluster": "Midwifery and nursing professional",
   "clusterId": "211",
-  "clusterDescription": null,
+  "clusterDescription": "Assess, plan, implement and evaluate patient care in multiple settings with specialist expertise often working independently",
   "createdDate": "2023-09-05T08:44:00 +00:00",
   "lastUpdated": "2022-02-21T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-02-13T00:00:00 +00:00",
@@ -571,13 +571,17 @@
       "qualificationId": "aac6240e-3894-43e5-a36c-829dbcb6f00e",
       "title": "Degree in Nursing or L7 qualification approved by the NMC where the apprentice already holds a Level 6 degree",
       "level": "6 (integrated degree)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "a87ac7ea-3ab3-4320-8960-015d3769f73e",
       "title": " Degree in Nursing or L7 qualification approved by the NMC where the apprentice already holds a Level 6 degree",
       "level": "7 (integrated degree)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
