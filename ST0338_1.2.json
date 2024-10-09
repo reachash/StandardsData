@@ -331,7 +331,7 @@
   "pathway": "Transport",
   "cluster": "Driver or crewmember",
   "clusterId": "82",
-  "clusterDescription": null,
+  "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
   "createdDate": "2023-11-10T15:10:57 +00:00",
   "lastUpdated": "2023-12-01T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-08-17T00:00:00 +00:00",
@@ -343,13 +343,27 @@
       "qualificationId": "9454425b-1d67-458a-a156-340c0a526277",
       "title": "option 1 bus and coach driver: UK driving licence Category D and Driver CPC ",
       "level": "Two",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": [
+        {
+          "title": "Bus and coach driver",
+          "optionID": "303898b1-6eef-4105-9acf-993064c7f7b8"
+        }
+      ]
     },
     {
       "qualificationId": "1d6821c6-852c-4b0c-8b8a-e08627631768",
       "title": "option 2 tram driver: UK driving licence Category B",
       "level": "Two",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": [
+        {
+          "title": "Tram Driver",
+          "optionID": "a1a1fa14-376f-4b9a-91c7-44aae5c448f7"
+        }
+      ]
     }
   ],
   "professionalRecognition": [],
