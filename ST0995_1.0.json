@@ -799,7 +799,7 @@
   "pathway": "Health",
   "cluster": "Health professional",
   "clusterId": "6",
-  "clusterDescription": null,
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2024-06-21T12:11:49 +00:00",
   "lastUpdated": "2022-07-19T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2022-07-19T00:00:00 +00:00",
@@ -811,7 +811,9 @@
       "qualificationId": "6df3dbd9-35eb-43d0-a922-70dfc6704508",
       "title": "Degree in Medicine from a UK university permitted by the General Medical Council to award Primary Medical Qualifications recognised by FHEQ and QAA",
       "level": "7 (integrated degree)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
