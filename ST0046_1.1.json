@@ -272,7 +272,7 @@
   "pathway": "Design, Surveying & Planning",
   "cluster": "Design and surveying advanced technician",
   "clusterId": "138",
-  "clusterDescription": null,
+  "clusterDescription": "Identify and monitor client requirements, H&S risks, regulatory compliance, environmental impact , build quality, co-ordinate information and manage build costs",
   "createdDate": "2023-12-08T15:19:42 +00:00",
   "lastUpdated": "2024-04-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-03-27T00:00:00 +00:00",
@@ -284,7 +284,9 @@
       "qualificationId": "819ab19b-4dbc-42c1-9002-e46bbd094486",
       "title": "A Level 4 qualification in Construction and Built Environment that meets the knowledge requirements of the standard and is approved by the Engineering Council as meeting the learning outcomes specified for Engineering Technician (EngTech) at level 4",
       "level": "4",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
