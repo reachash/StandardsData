@@ -226,7 +226,7 @@
   "pathway": "Legal",
   "cluster": "Legal professional or lawyer",
   "clusterId": "249",
-  "clusterDescription": null,
+  "clusterDescription": "Deliver legal services to internal and external clients based on specific specialism e.g. land/property conveyancing, Family law, civil litigation, criminal, company & business law",
   "createdDate": "2024-09-16T14:33:55 +00:00",
   "lastUpdated": "2024-09-16T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-09-16T00:00:00 +00:00",
@@ -238,7 +238,9 @@
       "qualificationId": "256f53e3-b708-43bd-a29b-05166460e58a",
       "title": "Costs Lawyer Qualification",
       "level": "6 (non-degree qualification)",
-      "anyAdditionalInformation": "https://www.acltraining.co.uk/clpq "
+      "anyAdditionalInformation": "https://www.acltraining.co.uk/clpq ",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
