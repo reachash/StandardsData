@@ -312,7 +312,7 @@
   "pathway": "Transport",
   "cluster": "Driver or crewmember",
   "clusterId": "82",
-  "clusterDescription": null,
+  "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
   "createdDate": "2021-09-10T13:27:28 +00:00",
   "lastUpdated": "2022-01-07T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-11-12T00:00:00 +00:00",
@@ -324,91 +324,121 @@
       "qualificationId": "e0741317-7206-42ee-8feb-d7f0d287562b",
       "title": "STCW Personal Survival Techniques (PST)",
       "level": "2",
-      "anyAdditionalInformation": "The government statutory regulator, MCA, has approved this apprenticeship standard and has confirmed each of the qualifications listed is a mandatory requirement. Passing these qualifications contributes to notice of eligibility - the application process that culminates in MCA oral and written tests - leading to certificate of competency. https://www.gov.uk/guidance/apply-for-a-uk-seafarer-coc-deck-and-engineer-officers#deck-officers"
+      "anyAdditionalInformation": "The government statutory regulator, MCA, has approved this apprenticeship standard and has confirmed each of the qualifications listed is a mandatory requirement. Passing these qualifications contributes to notice of eligibility - the application process that culminates in MCA oral and written tests - leading to certificate of competency. https://www.gov.uk/guidance/apply-for-a-uk-seafarer-coc-deck-and-engineer-officers#deck-officers",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "b96e82ed-c4fa-49d2-acb3-c6e93eaf7305",
       "title": "STCW Fire Prevention & Fire Fighting",
       "level": "2",
-      "anyAdditionalInformation": "see above"
+      "anyAdditionalInformation": "see above",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "ddd874be-8a9d-4d20-a675-f9f82181f902",
       "title": "STCW Elementary First Aid",
       "level": "2",
-      "anyAdditionalInformation": "see above"
+      "anyAdditionalInformation": "see above",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "77f5e4a4-129d-4f32-8d3e-076746e0b829",
       "title": "STCW Personal Safety and Social Responsibility",
       "level": "2",
-      "anyAdditionalInformation": "see above"
+      "anyAdditionalInformation": "see above",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "f314caf3-6ea8-437d-ac1e-d286c0ba8988",
       "title": "STCW Advanced Firefighting",
       "level": "2",
-      "anyAdditionalInformation": "see above"
+      "anyAdditionalInformation": "see above",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "cab33d8c-b3fe-4285-93fe-265db7413978",
       "title": "STCW Proficiency in Medical First Aid ",
       "level": "2",
-      "anyAdditionalInformation": "see above"
+      "anyAdditionalInformation": "see above",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "3510c05d-2640-4389-bf05-899b40f9ed82",
       "title": "STCW Proficiency in Survival Craft and Rescue Boats",
       "level": "2",
-      "anyAdditionalInformation": "see above"
+      "anyAdditionalInformation": "see above",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "342a35ec-821b-4893-9169-02d4daa06b2e",
       "title": "STCW Navigational Watch Rating ",
       "level": "2",
-      "anyAdditionalInformation": "see above"
+      "anyAdditionalInformation": "see above",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "b0ec0cc6-8cea-4a9b-8d86-817f9a4d61f6",
       "title": "MCA Efficient Deck Hand ",
       "level": "2",
-      "anyAdditionalInformation": "see above"
+      "anyAdditionalInformation": "see above",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "548d2ac4-0b53-4710-9f04-698d6c73a56a",
       "title": "AMERC GMDSS General Operators Certificate ",
       "level": "2",
-      "anyAdditionalInformation": "see above"
+      "anyAdditionalInformation": "see above",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "cb88edc7-323a-400f-ba67-2898c7784b7f",
       "title": "Navigation Aids, Equipment and Simulator Training (NAEST (O))",
       "level": "2",
-      "anyAdditionalInformation": "see above"
+      "anyAdditionalInformation": "see above",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "ef0ac5c5-8a28-4639-b8ad-d286cbfbe967",
       "title": "Human Element, Leadership and Management “HELM(O)” certificate",
       "level": "2",
-      "anyAdditionalInformation": "see above"
+      "anyAdditionalInformation": "see above",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "4c8e85e4-6220-405b-85b8-88704f9513d2",
       "title": "Signals Certificate ",
       "level": "2",
-      "anyAdditionalInformation": "see above"
+      "anyAdditionalInformation": "see above",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "7a3b852a-940c-43d0-91d9-5cd82c43ca64",
       "title": "Diploma in Maritime Studies: Officer of the Watch on Merchant Vessels of less than 500 Gross Tonnage (Near Coastal) - 603/4946/3",
       "level": "2",
-      "anyAdditionalInformation": "The diploma, awarded by MSQ, is the \"vehicle\" by which many of the other qualifications listed are delivered and assessed. The diploma was developed by MCA in conjunction with MSQ and MCA has confirmed it is a requirement as part of this apprenticeship. "
+      "anyAdditionalInformation": "The diploma, awarded by MSQ, is the \"vehicle\" by which many of the other qualifications listed are delivered and assessed. The diploma was developed by MCA in conjunction with MSQ and MCA has confirmed it is a requirement as part of this apprenticeship. ",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "a0f8b144-890c-44fd-8546-61397ca02009",
       "title": "Officer of the Watch certificate of competence",
       "level": "3",
-      "anyAdditionalInformation": "see above"
+      "anyAdditionalInformation": "see above",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
