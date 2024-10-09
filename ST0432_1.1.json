@@ -235,8 +235,8 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Manufacturing, Process and Control",
-  "cluster": "Manufacturing and Process Operative/Technician",
+  "pathway": "Engineering, manufacturing, process and control",
+  "cluster": "Manufacturing and process operative or technician",
   "clusterId": "262",
   "clusterDescription": "Assemble and construct complex engineering products",
   "createdDate": "2021-09-01T09:27:26 +00:00",
@@ -250,19 +250,25 @@
       "qualificationId": "2b4f7cdd-4632-4aba-adbc-9c52c671493a",
       "title": "Choose one of the qualifications: Advanced Manufacturing Engineering (Development Knowledge) – Awarding organization EAL; GLH 750, this qualification ensures full knowledge to complete the fitting role.",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "0bb43505-7e9c-4760-92a5-6553eaf258eb",
       "title": "Choose one of the qualifications: Advanced Manufacturing Engineering (Development Technical Knowledge) – Awarding organization Pearsons; GLH 720 – this qualification ensures full knowledge to complete the fitting role.",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "c325b183-254c-42a2-9bfb-f18bd1cb7e97",
       "title": " Choose one of the qualifications: Diploma in Advanced Manufacturing Engineering (Development Knowledge) – Awarding organisation City and Guilds; 720 GLH, this qualification ensures full knowledge to complete the fitting role.",
       "level": "3",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
