@@ -567,7 +567,7 @@
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
-  "cluster": "Health Professional",
+  "cluster": "Health professional",
   "clusterId": "6",
   "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2023-11-13T10:56:53 +00:00",
@@ -581,19 +581,25 @@
       "qualificationId": "2d28ab69-4b55-4869-b962-3755e3f7f995",
       "title": "BSc (Honours) Public Health",
       "level": "SixIntegratedDegree",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "870d9eeb-c375-437a-a9a8-918b7bcf4837",
       "title": "BSc (Honours) Public Health and Health Promotion",
       "level": "SixIntegratedDegree",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "59b9d5c5-aeb2-41e1-8ade-66cb5dea75f4",
       "title": "BSc (Honours) Health and Wellbeing",
       "level": "SixIntegratedDegree",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
