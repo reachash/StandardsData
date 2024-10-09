@@ -101,8 +101,8 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Education and Childcare",
-  "cluster": "Teaching Professional",
+  "pathway": "Education and early years",
+  "cluster": "Teaching professional",
   "clusterId": "171",
   "clusterDescription": "Develop a learners' knowledge, skills and behaviours relevant to their stage of progress and subject specialism. Covers the full range of tracking, assessment and support to ensure a learner succeeds in a timely way",
   "createdDate": "2024-05-22T08:34:19 +00:00",
@@ -116,7 +116,9 @@
       "qualificationId": "78b755f3-9b56-44d8-802f-3ac053fafbca",
       "title": "A BA or BSc degree that aligns to the occupational standard and leads to the award of QTS. ",
       "level": "6 (integrated degree)",
-      "anyAdditionalInformation": "All official degree titles must contain ‘Teacher Degree Apprenticeship’. Further requirements by phase are as follows:\nOfficial degree titles for primary phase courses must include ‘education’ or ‘primary education;•\tOfficial degree titles for secondary phase courses must include the ‘specialist subject’; they may include both the ‘specialist subject’ and ‘education’ or ‘secondary education’.\n\nAll courses must adhere to the ITT criteria, encompass all aspects of the ITT Core Content Framework (CCF) and Early Career Framework (ECF) and enable trainees to meet the Teachers’ Standards – which are reflected in the knowledge, skills and behaviours – at the appropriate level so they can be recommended for QTS."
+      "anyAdditionalInformation": "All official degree titles must contain ‘Teacher Degree Apprenticeship’. Further requirements by phase are as follows:\nOfficial degree titles for primary phase courses must include ‘education’ or ‘primary education;•\tOfficial degree titles for secondary phase courses must include the ‘specialist subject’; they may include both the ‘specialist subject’ and ‘education’ or ‘secondary education’.\n\nAll courses must adhere to the ITT criteria, encompass all aspects of the ITT Core Content Framework (CCF) and Early Career Framework (ECF) and enable trainees to meet the Teachers’ Standards – which are reflected in the knowledge, skills and behaviours – at the appropriate level so they can be recommended for QTS.",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
