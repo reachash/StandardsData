@@ -352,7 +352,14 @@
       "qualificationId": "b7dc6c99-3661-41ac-a4c4-fbdf3e09a9e4",
       "title": "BWF approved SiteRight Fire Door Installation Awareness delivered by an NOCN approved provider or Level 3 Award in Fire Door Safety delivery by a City and Guilds approved provider",
       "level": "Two",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": [
+        {
+          "title": "Core",
+          "optionID": "core"
+        }
+      ]
     }
   ],
   "professionalRecognition": [],
