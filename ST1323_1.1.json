@@ -320,7 +320,7 @@
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Landscape horticulture operative or technician",
   "clusterId": "161",
-  "clusterDescription": null,
+  "clusterDescription": "The design, construction and maintenance of gardens, designed landscapes and sports turf facilities for private, commercial and community use",
   "createdDate": "2023-10-26T11:00:16 +00:00",
   "lastUpdated": "2023-10-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2022-10-11T00:00:00 +00:00",
@@ -332,7 +332,9 @@
       "qualificationId": "10fd8292-154f-46ff-81ae-16e4beefd2d8",
       "title": "Level 2 Award in Safe Use of Pesticides (PA1) along with either PA2 (Boom Sprayer) OR PA6 (Handheld Applicators) or equivalents shown at https://www.hse.gov.uk/pesticides/resources/R/Recognised_certificates.pdf",
       "level": "2",
-      "anyAdditionalInformation": "If your job involves applying pesticides in a commercial role then you are legally required by the Plant Protection Products (Sustainable Use) Regulations (2012) to hold a certificate of competence. "
+      "anyAdditionalInformation": "If your job involves applying pesticides in a commercial role then you are legally required by the Plant Protection Products (Sustainable Use) Regulations (2012) to hold a certificate of competence. ",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
