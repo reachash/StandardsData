@@ -270,7 +270,7 @@
   "pathway": "Legal",
   "cluster": "Legal technician",
   "clusterId": "250",
-  "clusterDescription": null,
+  "clusterDescription": "Deliver Family Law, Civil Litigation, Criminal Law, Company, Business Law  and conveyancing transactions (land and property), estate administration and manage small, non-complex cases under supervision",
   "createdDate": "2024-02-29T14:12:07 +00:00",
   "lastUpdated": "2024-01-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-01-03T00:00:00 +00:00",
@@ -282,13 +282,27 @@
       "qualificationId": "03899886-adf5-45d1-a32f-26e3fd613a21",
       "title": "Diploma in conveyancing law and practice",
       "level": "4",
-      "anyAdditionalInformation": "Attainment of this qualification may be met by exemptions subject to Council for Licensed Conveyancers regulatory requirements."
+      "anyAdditionalInformation": "Attainment of this qualification may be met by exemptions subject to Council for Licensed Conveyancers regulatory requirements.",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": [
+        {
+          "title": "conveyancing technician",
+          "optionID": "93607c4c-0d22-49f8-b03b-d0896896bd68"
+        }
+      ]
     },
     {
       "qualificationId": "b1428476-49ad-4456-ae29-6f2a58349a54",
       "title": "Diploma in probate law and practice",
       "level": "4",
-      "anyAdditionalInformation": "Attainment of this qualification may be met by exemptions subject to Council for Licensed Conveyancers regulatory requirements."
+      "anyAdditionalInformation": "Attainment of this qualification may be met by exemptions subject to Council for Licensed Conveyancers regulatory requirements.",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": [
+        {
+          "title": "probate technician",
+          "optionID": "80353718-c581-49fe-958d-3e005077ec83"
+        }
+      ]
     }
   ],
   "professionalRecognition": [
