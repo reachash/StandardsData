@@ -242,7 +242,7 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Building Services Engineering",
-  "cluster": "Building Services Engineering Operative/Technician",
+  "cluster": "Building services engineering operative or technician",
   "clusterId": "65",
   "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
   "createdDate": "2023-12-08T11:11:44 +00:00",
@@ -256,19 +256,25 @@
       "qualificationId": "68d099b8-d26a-4015-89a7-77e555bd5b54",
       "title": "IGEM IG/1 Supplement 3 Certification",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "9c57bb12-8795-46ae-9082-b8ae24ac7951",
       "title": "Consolidated Metering Code of Practice (CoMCoP)",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "a07d1721-a796-4f69-9478-935895518fff",
       "title": "Matters of Gas Safety Competency Accreditation",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
