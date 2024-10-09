@@ -244,7 +244,7 @@
   "pathway": "Legal",
   "cluster": "Legal professional or lawyer",
   "clusterId": "249",
-  "clusterDescription": null,
+  "clusterDescription": "Deliver legal services to internal and external clients based on specific specialism e.g. land/property conveyancing, Family law, civil litigation, criminal, company & business law",
   "createdDate": "2024-02-29T14:19:40 +00:00",
   "lastUpdated": "2023-12-08T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-12-06T00:00:00 +00:00",
@@ -256,25 +256,53 @@
       "qualificationId": "c8902f92-046e-4bc4-a52f-2ece04c0f447",
       "title": "Level 4 Diploma in Conveyancing Law and Practice",
       "level": "4",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": [
+        {
+          "title": "Licensed Conveyancer",
+          "optionID": "48b07111-da49-4dbf-bca4-fc1341c75937"
+        }
+      ]
     },
     {
       "qualificationId": "6389fc72-b7be-43bf-8f82-669abf0b7b40",
       "title": "Level 4 Diploma in Probate Law and Practice",
       "level": "4",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": [
+        {
+          "title": "Licensed Probate Practitioner ",
+          "optionID": "02d5740a-8148-4a1b-81c8-d5d1759ae84a"
+        }
+      ]
     },
     {
       "qualificationId": "6ce0b65d-2ba4-4621-9ec5-84ebff7b5bfa",
       "title": "Level 6 Diploma in Conveyancing Law and Practice",
       "level": "6 (non-degree qualification)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": [
+        {
+          "title": "Licensed Conveyancer",
+          "optionID": "48b07111-da49-4dbf-bca4-fc1341c75937"
+        }
+      ]
     },
     {
       "qualificationId": "cebb92af-2673-4e3e-a671-6d63132bfa6a",
       "title": " Level 6 Diploma in Probate Law and Practice",
       "level": "6 (non-degree qualification)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": [
+        {
+          "title": "Licensed Probate Practitioner ",
+          "optionID": "02d5740a-8148-4a1b-81c8-d5d1759ae84a"
+        }
+      ]
     }
   ],
   "professionalRecognition": [
