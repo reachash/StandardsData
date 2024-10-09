@@ -305,8 +305,8 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Education and Childcare",
-  "cluster": "Primary/Secondary/Tertiary Teaching and Support Assistant",
+  "pathway": "Education and early years",
+  "cluster": "Primary or secondary or tertiary teaching and support assistant",
   "clusterId": "176",
   "clusterDescription": "Supports the development of a students' learning skills, behaviours and overall knowledge both one-to-one and in a small group",
   "createdDate": "2024-03-14T08:51:45 +00:00",
@@ -320,7 +320,9 @@
       "qualificationId": "67fa9275-9ec5-4b9d-a939-dc421f3128ec",
       "title": "Paediatric First Aid or Emergency Paediatric First Aid",
       "level": "Three",
-      "anyAdditionalInformation": "Apprentices must successfully complete a first aid qualification in line with the requirements of the EYFS Framework (Annex A): Early years foundation stage (EYFS) statutory framework - GOV.UK (www.gov.uk)."
+      "anyAdditionalInformation": "Apprentices must successfully complete a first aid qualification in line with the requirements of the EYFS Framework (Annex A): Early years foundation stage (EYFS) statutory framework - GOV.UK (www.gov.uk).",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
