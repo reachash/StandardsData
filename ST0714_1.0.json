@@ -315,7 +315,7 @@
   "pathway": "Health",
   "cluster": "Health professional",
   "clusterId": "6",
-  "clusterDescription": null,
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2019-12-23T09:27:44 +00:00",
   "lastUpdated": "2023-01-17T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-06-14T00:00:00 +00:00",
@@ -327,7 +327,9 @@
       "qualificationId": "10403fdb-b1b2-47ea-ad45-ab14046eb324",
       "title": "BSc (Hons) degree in Environmental Health/BSc (Hons) degree in Environmental Science",
       "level": "6 (integrated degree)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
