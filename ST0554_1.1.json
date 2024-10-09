@@ -384,7 +384,7 @@
   "pathway": "Health",
   "cluster": "Health professional",
   "clusterId": "6",
-  "clusterDescription": null,
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2021-08-11T15:22:04 +00:00",
   "lastUpdated": "2021-08-11T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-08-16T00:00:00 +00:00",
@@ -396,7 +396,9 @@
       "qualificationId": "72628a43-89bc-41fb-9d16-7699d245b198",
       "title": " BSc Honours Ultrasound; BSc Honours Medical Ultrasound; BSc Honours Diagnostic Imaging; BSc Honours Diagnostic Ultrasound; BSc Honours Medical Imaging (Ultrasound); BSc Honours Ultrasound Imaging",
       "level": "6 (integrated degree)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
