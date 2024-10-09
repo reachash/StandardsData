@@ -322,10 +322,10 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Manufacturing, Process and Control",
+  "pathway": "Engineering, manufacturing, process and control",
   "cluster": "Manufacturing engineer",
   "clusterId": "263",
-  "clusterDescription": null,
+  "clusterDescription": "Introduce complex technologies into the manufacturing environment and improve manufacturing technologies",
   "createdDate": "2022-12-07T16:50:01 +00:00",
   "lastUpdated": "2022-12-07T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2022-09-29T00:00:00 +00:00",
@@ -337,7 +337,9 @@
       "qualificationId": "dde4eb4f-54f0-451a-95d7-5b69cbf44885",
       "title": "BEng (Hons) Mining Engineering and Management",
       "level": "6 (integrated degree)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
