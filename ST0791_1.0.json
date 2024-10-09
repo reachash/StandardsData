@@ -310,10 +310,10 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Maintenance, Installation & Repair",
-  "cluster": "Service, repair and or or overhaul operative or technician",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Service, repair and/or overhaul operative or technician",
   "clusterId": "19",
-  "clusterDescription": null,
+  "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2019-12-20T14:35:53 +00:00",
   "lastUpdated": "2019-07-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-07-03T00:00:00 +00:00",
@@ -325,31 +325,41 @@
       "qualificationId": "3e373b40-3968-44af-bfd7-d22b23bd9a3b",
       "title": "Core Commercial Catering Gas Safety Natural Gas",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "563a8e30-f859-43f2-b7a2-e2bd5e6a97b4",
       "title": "ComCat 1, Commercial Catering Appliances – Group 1 boiler burners, open/solid top ranges, hot plates and bain maries",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "c8ac1ccb-c154-4607-87c7-a15b1c570b0a",
       "title": "ComCat 3, Commercial Catering Appliances – deep fat and pressure fryers, griddles and grills",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "f241fe39-fc80-4ac8-8d4b-a82c4552e579",
       "title": "ComCat 5, Commercial Catering Appliances – forced draught burner appliances",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     },
     {
       "qualificationId": "167e8396-3470-49ba-bb82-e9b7a415256c",
       "title": " CONGLP1 PD, Commercial Catering Appliances – Changeover from natural gas to Liquid Petroleum Gases core domestic gas safety for permanent dwell",
       "level": "2",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
