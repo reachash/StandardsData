@@ -198,7 +198,7 @@
   "pathway": "Cultural Heritage and Visitor Attractions",
   "cluster": "Collections and conservation expert",
   "clusterId": "183",
-  "clusterDescription": null,
+  "clusterDescription": "Manage the physical and digital preservation of collections of cultural collections",
   "createdDate": "2019-12-19T14:07:28 +00:00",
   "lastUpdated": "2021-03-25T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-07-11T00:00:00 +00:00",
@@ -210,7 +210,9 @@
       "qualificationId": "fb2d007e-bf1a-4491-9f88-673cc439c875",
       "title": " An MA or MSc degree in an Archaeology or Archaeological Science subject",
       "level": "7 (non-integrated degree)",
-      "anyAdditionalInformation": ""
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": null,
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
