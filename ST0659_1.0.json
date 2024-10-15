@@ -3,14 +3,14 @@
   "larsCode": 426,
   "referenceNumber": "ST0659",
   "title": "Materials process engineer (degree)",
-  "status": "Approved for delivery",
+  "status": "Retired",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/426",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/materials-process-engineer-degree",
   "versionNumber": "1.0",
-  "change": "",
-  "changedDate": "2019-03-22T00:00:00",
+  "change": "Approved for delivery",
+  "changedDate": "2024-10-14T00:00:00",
   "earliestStartDate": "2019-03-22T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2024-10-13T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Controlling and managing the complex manufacturing processes for different materials",
   "level": 7,
@@ -18,7 +18,13 @@
   "typicalDuration": 24,
   "maxFunding": 17000,
   "route": "Engineering and manufacturing",
-  "keywords": [],
+  "keywords": [
+    "Material process engineer",
+    "engineering",
+    "maufacturing",
+    "materials",
+    "processing"
+  ],
   "jobRoles": [
     "Process engineer",
     "Technologist",
@@ -312,7 +318,7 @@
   "clusterId": "266",
   "clusterDescription": "Develop and improve the operation and development of manufacturing processes and systems and enable them to operate safely and efficiently",
   "createdDate": "2019-09-30T11:56:55 +00:00",
-  "lastUpdated": "2019-03-22T00:00:00 +00:00",
+  "lastUpdated": "2024-10-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-03-22T00:00:00 +00:00",
   "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/materials-process-engineer-degree-v1-0?view=standard#OccupationalStandard",
@@ -323,7 +329,7 @@
       "title": "Manufacturing Technology and Management MSc",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
   ],
@@ -1205,5 +1211,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2019-03-22T00:00:00"
+  "publishDate": "2024-10-14T00:00:00"
 }
