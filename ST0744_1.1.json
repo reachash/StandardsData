@@ -7,16 +7,16 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/512",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/fenestration-fabricator-11",
   "versionNumber": "",
-  "change": "",
+  "change": "Occupational standard, end-point assessment plan and funding band revised.",
   "changedDate": "2023-02-15T00:00:00",
-  "earliestStartDate": null,
+  "earliestStartDate": "2024-11-06T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Manufacturing fenestration products such as windows, doors, shop fronts and walls.",
   "level": 2,
   "ePALength": 2,
   "typicalDuration": 18,
-  "maxFunding": 0,
+  "maxFunding": 9000,
   "route": "Engineering and manufacturing",
   "keywords": [
     "manufacturing",
@@ -672,5 +672,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-02-15T00:00:00"
+  "publishDate": "2024-11-06T00:00:00"
 }
