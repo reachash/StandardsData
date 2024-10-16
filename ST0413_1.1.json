@@ -7,16 +7,16 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/168",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/healthcare-science-practitioner-integrated-degree-11",
   "versionNumber": "",
-  "change": "",
-  "changedDate": "2024-08-01T00:00:00",
-  "earliestStartDate": null,
+  "change": "Occupational standard, end-point assessment and funding band revised.",
+  "changedDate": "2024-10-15T00:00:00",
+  "earliestStartDate": "2024-11-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Supporting the prevention, diagnosis and treatment of medical conditions.",
   "level": 6,
   "ePALength": 2,
   "typicalDuration": 36,
-  "maxFunding": 0,
+  "maxFunding": 27000,
   "route": "Health and science",
   "keywords": [
     "life sciences",
@@ -366,7 +366,7 @@
   "clusterId": "21",
   "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2024-08-01T14:18:35 +00:00",
-  "lastUpdated": "2024-08-01T00:00:00 +00:00",
+  "lastUpdated": "2024-10-15T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-03-31T00:00:00 +00:00",
   "occupationCode": "OCC0413",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/healthcare-science-practitioner-integrated-degree-in-revision?view=standard#OccupationalStandard",
@@ -377,7 +377,7 @@
       "title": "BSc (Hons) in Healthcare Science",
       "level": "6 (integrated degree)",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
   ],
@@ -649,5 +649,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-08-01T00:00:00"
+  "publishDate": "2024-11-01T00:00:00"
 }
