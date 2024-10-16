@@ -5,7 +5,7 @@
   "title": "Environmental practitioner (Degree)",
   "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/465",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/environmental-practitioner-degree",
+  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/environmental-practitioner-11-degree",
   "versionNumber": "1.1",
   "change": "Standard, end-point assessment plan revised",
   "changedDate": "2023-02-21T00:00:00",
@@ -28,7 +28,7 @@
   ],
   "jobRoles": [],
   "entryRequirements": "&lt;p&gt;Entry requirements will be decided by individual employers and with the training provider. Candidates might have three A-levels, equivalent relevant Level 3 qualifications, or will have successfully completed a relevant Level 3 Technician Apprenticeship. Candidates will need to be numerate and show a willingness to improve their numerical and mathematical capability. This is a degree (level 6) apprenticeship, and all candidates must complete an appropriately professionally approved or accredited environmental degree throughout which they will need to demonstrate their mathematical and numeracy capability beyond level 2 throughout their Apprenticeship.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/6765/for-pubication_st0778_environmental-practitioner_191222.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/l1eetjil/for-pubication_st0778_environmental-practitioner_111024.pdf",
   "ssa1": "3 Agriculture, Horticulture and Animal Care",
   "ssa2": "3.4 Environmental conservation",
   "version": "1.1",
@@ -208,7 +208,7 @@
       "title": "Professionally approved or accredited BSc or BA (Hons) Environmental Sciences degree (or equivalent degree title): 330 credits of which must be successfully completed prior to EPA Gateway",
       "level": "6 (integrated degree)",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
   ],
