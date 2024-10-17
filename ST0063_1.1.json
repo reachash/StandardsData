@@ -219,7 +219,7 @@
   "pathway": "Building Services Engineering",
   "cluster": "Building services engineering operative or technician",
   "clusterId": "65",
-  "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
+  "clusterDescription": null,
   "createdDate": "2022-01-27T11:29:34 +00:00",
   "lastUpdated": "2022-07-05T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-06-09T00:00:00 +00:00",
@@ -232,7 +232,7 @@
       "title": "Pearson BTEC Level 3 National Diploma in Building Services Engineering ",
       "level": "3",
       "anyAdditionalInformation": "All apprentices will be required to achieve as a minimum, one of these mandatory qualifications. These qualifications have been approved by one of the professional engineering institutions as meeting the learning outcomes for Engineering Technician (EngTech). Other qualifications may be added at a later date, but must achieve approval from one of the professional engineering institutions licenced by the Engineering Council and meet the Institute’s criteria for inclusion.",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -240,7 +240,7 @@
       "title": "Pearson BTEC Level 3 National Extended Diploma in Building Services Engineering",
       "level": "3",
       "anyAdditionalInformation": "All apprentices will be required to achieve as a minimum, one of these mandatory qualifications. These qualifications have been approved by one of the professional engineering institutions as meeting the learning outcomes for Engineering Technician (EngTech). Other qualifications may be added at a later date, but must achieve approval from one of the professional engineering institutions licenced by the Engineering Council and meet the Institute’s criteria for inclusion.",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -248,7 +248,7 @@
       "title": "EAL Level 3 Electrotechnical Qualification ",
       "level": "3",
       "anyAdditionalInformation": "All apprentices will be required to achieve as a minimum, one of these mandatory qualifications. These qualifications have been approved by one of the professional engineering institutions as meeting the learning outcomes for Engineering Technician (EngTech). Other qualifications may be added at a later date, but must achieve approval from one of the professional engineering institutions licenced by the Engineering Council and meet the Institute’s criteria for inclusion.",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -256,7 +256,7 @@
       "title": "Pearson BTEC Level 3 Diploma in Advanced Manufacturing Engineering (Development Technical Knowledge)",
       "level": "3",
       "anyAdditionalInformation": "All apprentices will be required to achieve as a minimum, one of these mandatory qualifications. These qualifications have been approved by one of the professional engineering institutions as meeting the learning outcomes for Engineering Technician (EngTech). Other qualifications may be added at a later date, but must achieve approval from one of the professional engineering institutions licenced by the Engineering Council and meet the Institute’s criteria for inclusion.",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -264,7 +264,7 @@
       "title": "City and Guilds Level 3 Electrotechnical Qualification ",
       "level": "3",
       "anyAdditionalInformation": "All apprentices will be required to achieve as a minimum, one of these mandatory qualifications. These qualifications have been approved by one of the professional engineering institutions as meeting the learning outcomes for Engineering Technician (EngTech). Other qualifications may be added at a later date, but must achieve approval from one of the professional engineering institutions licenced by the Engineering Council and meet the Institute’s criteria for inclusion.",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
   ],
