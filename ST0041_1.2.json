@@ -274,7 +274,7 @@
   "pathway": "Building Services Engineering",
   "cluster": "Building Services engineering technician",
   "clusterId": "140",
-  "clusterDescription": "Design and supervise the installation of building services during construction",
+  "clusterDescription": null,
   "createdDate": "2024-04-03T11:33:21 +00:00",
   "lastUpdated": "2024-09-05T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-05-08T00:00:00 +00:00",
@@ -287,7 +287,7 @@
       "title": " A qualification that meets the knowledge requirements of the standard and is approved by the Engineering Council as meeting the learning outcomes specified for EngTech at level 4. Specifically, Pearson Level 4 Higher National Certificate in Building Services Engineering (RQF/2023) qualification number (QN) 610/0940/4 ---OR--- Pearson BTEC Level 4 HNC in Construction and the Built Environment (Building Services Engineering) qualification number (QN) 603/0465/0.",
       "level": "4",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
   ],
