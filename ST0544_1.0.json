@@ -316,7 +316,7 @@
   "pathway": "Transport",
   "cluster": "Transport operations operative or technician",
   "clusterId": "16",
-  "clusterDescription": "Support a transport facility's operation and/or support the loading and movement of a freight or passenger vehicle or vessel",
+  "clusterDescription": null,
   "createdDate": "2022-05-05T07:50:22 +00:00",
   "lastUpdated": "2022-07-20T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2022-07-20T00:00:00 +00:00",
@@ -329,7 +329,7 @@
       "title": "Institute of Chartered Shipbrokers Foundation Diploma in Port Agency",
       "level": "3",
       "anyAdditionalInformation": "The Institute approved this qualification for inclusion when approving the original Port Agency Standard.  There are elements of \"hard sift\" - ie it is far easier to gain employment with the foundation diploma. This is because ICA qualifications act as a passport to working in certain sectors. But it also allows for greater rigour and structure in the apprenticeship training - ie a \"type 2\" qualification. There has never been an apprenticeship in Port Agency before. As the sole professional body, ICS offers a well established qualification that will provide this structure, especially in the early years of apprenticeship delivery. This revision mainly affects the EPA, the standard has just been brought into line with the Institute's latest guidance on quality. Therefore the Trailblazer group considers there is a continued need for this qualification to remain mandatory. ",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
   ],
