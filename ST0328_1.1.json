@@ -286,7 +286,7 @@
   "pathway": "Craft and Design",
   "cluster": "Heritage craftsperson",
   "clusterId": "63",
-  "clusterDescription": "Use traditional hand craft skills to shape and sculpt natural materials",
+  "clusterDescription": null,
   "createdDate": "2022-07-07T08:00:46 +00:00",
   "lastUpdated": "2023-03-07T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-06-27T00:00:00 +00:00",
@@ -299,7 +299,7 @@
       "title": "City & Guilds Level 3 Diploma in Saddlery (Saddle and Bridle pathways)",
       "level": "3",
       "anyAdditionalInformation": "All apprentices must complete both the Saddle and Bridle Pathways of this qualification. ",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
   ],
