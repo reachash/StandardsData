@@ -272,7 +272,7 @@
   "pathway": "Design, Surveying & Planning",
   "cluster": "Design and surveying advanced technician",
   "clusterId": "138",
-  "clusterDescription": "Identify and monitor client requirements, H&S risks, regulatory compliance, environmental impact , build quality, co-ordinate information and manage build costs",
+  "clusterDescription": null,
   "createdDate": "2024-09-05T14:28:40 +00:00",
   "lastUpdated": "2024-09-05T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-03-27T00:00:00 +00:00",
@@ -285,7 +285,7 @@
       "title": "one of the following qualifications: Pearson L4 HNC in Civil Engineering (RQF/2023) qualification number (QN) 610/0935/0  -OR-  Pearson BTEC L4 HNC in Construction and the Built Environment (Civil Engineering) qualification number (QN) 603/0465/0 -OR- A HNC or an equivalent qualification in civil engineering approved or accredited by the Joint Board of Moderators (JBM) as meeting the educational requirements for an Engineering Technician and for progression towards IEng registration",
       "level": "4",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
   ],
