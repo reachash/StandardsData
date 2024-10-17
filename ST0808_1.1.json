@@ -296,10 +296,10 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Maintenance, installation and repair",
-  "cluster": "Service, repair and/or overhaul operative or technician",
+  "pathway": "Maintenance, Installation & Repair",
+  "cluster": "Service, repair and or or overhaul operative or technician",
   "clusterId": "19",
-  "clusterDescription": "Install, maintain and service plant and equipment",
+  "clusterDescription": null,
   "createdDate": "2022-01-20T11:54:55 +00:00",
   "lastUpdated": "2023-11-15T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-05-17T00:00:00 +00:00",
@@ -312,7 +312,7 @@
       "title": "City and Guilds Level 2 Diploma in Marine Construction, Systems Engineering and Maintenance - all relevant units.",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -320,7 +320,7 @@
       "title": "City and Guilds Level 3 Diploma in Marine Electrical Engineering (Advanced) – with the exception of unit 312 learning outcome 5 which is integrated in to the EPA ",
       "level": "3",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -328,7 +328,7 @@
       "title": "British Marine Electrical Technician (BMET)",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -336,7 +336,7 @@
       "title": "Marine Electronics Installer (MEI)",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -344,7 +344,7 @@
       "title": "Very High Frequency (VHF) License.",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
   ],
