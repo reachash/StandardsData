@@ -447,8 +447,8 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Healthcare science",
-  "cluster": "Healthcare science practitioner",
+  "pathway": "Healthcare Science",
+  "cluster": "Healthcare Science Practitioner",
   "clusterId": "38",
   "clusterDescription": "Provide technical and science-based diagnostic, therapeutic and monitoring services in support of patient care working largely unsupervised and also the manufacture of appliances and devices using specialist medical expertise",
   "createdDate": "2023-11-28T14:04:25 +00:00",
@@ -463,7 +463,7 @@
       "title": "Level 4 Diploma in Healthcare Science (603/2313/9)",
       "level": "Four",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -471,7 +471,7 @@
       "title": "Level 4 Diploma in Healthcare Science (Anatomical Pathology Technology) (603/3970/6)",
       "level": "Four",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -479,7 +479,7 @@
       "title": "Sunderland University Level 4 Diploma in Healthcare Science",
       "level": "Four",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
   ],
