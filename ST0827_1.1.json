@@ -438,7 +438,7 @@
   "pathway": "Health",
   "cluster": "Health practitioner",
   "clusterId": "10",
-  "clusterDescription": "Provide direct patient contact and high quality care with in-depth knowledge of the factors influencing health and ill-health using specialist expertise",
+  "clusterDescription": null,
   "createdDate": "2021-02-19T08:52:10 +00:00",
   "lastUpdated": "2022-02-17T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-04-08T00:00:00 +00:00",
@@ -451,7 +451,7 @@
       "title": "Foundation Degree approved by the Nursing and Midwifery Council in line with the requirements specified in the Nursing Associates Programme Standards (NMC 2018) which includes the mandatory protected learning time and a minimum 460 hours of external practice placements.",
       "level": "5",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
   ],
