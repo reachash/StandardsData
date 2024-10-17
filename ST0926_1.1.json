@@ -327,7 +327,7 @@
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Environment specialist",
   "clusterId": "158",
-  "clusterDescription": "Manage and promote diverse environments, engaging with a range of stakeholders",
+  "clusterDescription": null,
   "createdDate": "2023-05-05T12:42:21 +00:00",
   "lastUpdated": "2023-12-20T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-08-07T00:00:00 +00:00",
@@ -340,7 +340,7 @@
       "title": "Award in Emergency First Aid at Work, which is a minimum of 1 day course",
       "level": "3",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -348,7 +348,7 @@
       "title": "Award in the Safe Use of Brushcutters and Trimmers",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
   ],
