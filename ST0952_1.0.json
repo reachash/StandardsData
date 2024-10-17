@@ -302,7 +302,7 @@
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Agricultural operative or technician",
   "clusterId": "143",
-  "clusterDescription": "Undertake largely routine arable and livestock tasks with some specialisation in either area",
+  "clusterDescription": null,
   "createdDate": "2021-02-22T16:57:34 +00:00",
   "lastUpdated": "2023-02-15T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-07-01T00:00:00 +00:00",
@@ -315,7 +315,7 @@
       "title": "Complete basic training approved by any Maritime Administration which is signatory to the Seafarers Training Certification and Watchkeeping (STCW) convention. •\t1 day Seafish Fishermen’s basic sea survival or STCW Personal Survival Techniques (1 day) (STCW A-VI/1)",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -323,7 +323,7 @@
       "title": "1 day Seafish Fishermen’s basic firefighting and prevention or 2 day STCW Fire Fighting and Fire Prevention (STCW A-VI/1-2)",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -331,7 +331,7 @@
       "title": "1 day Seafish Fishermen’s basic first aid or STCW Elementary First Aid (1 day) (STCW A-VI/1-3)",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -339,7 +339,7 @@
       "title": "1 day Seafish basic health and safety covering: know your vessel, understanding roles and responsibilities, maintaining effectiveness, working safely on a fishing vessel, dealing with emergencies.",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -347,7 +347,7 @@
       "title": "Certificated 5 day Seafish Navigation and Watchkeeping course ",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -355,7 +355,7 @@
       "title": "Certificated 5 day Marine Coastguard Agency (MCA) Approved Engine Course Diesel Engine course (AEC 1)",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -363,7 +363,7 @@
       "title": "Certificated 1 day Seafish Stability Awareness for Experienced Fishermen course ",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -371,7 +371,7 @@
       "title": "Certificated 1 day Seafish Advanced Stability Awareness course",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -379,7 +379,7 @@
       "title": "Certificated Royal Yacht Association (RYA) GMDSS VHF Short Range Certificate (Radio Operator) ",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
   ],
