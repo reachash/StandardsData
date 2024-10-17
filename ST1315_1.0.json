@@ -324,7 +324,7 @@
   "pathway": "Maintenance, installation and repair",
   "cluster": "Service, repair and/or overhaul operative or technician",
   "clusterId": "19",
-  "clusterDescription": "Install, maintain and service plant and equipment",
+  "clusterDescription": null,
   "createdDate": "2024-10-02T14:30:34 +00:00",
   "lastUpdated": "2024-06-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-05-31T00:00:00 +00:00",
@@ -337,7 +337,7 @@
       "title": "Level 2 Diploma in Aerospace and Aviation Engineering (Foundation Competence) - Pearson BTEC; QAN 601/7165/0 -OR- Level 2 Diploma in Aerospace and Aviation Engineering (Foundation Competence) C&G No.4605-02; QAN 601/7310/5 -OR- Level 2 Diploma in Aerospace and Aviation Engineering (Military Foundation Competence) C&G No.4608-50; QAN 603/1388/2 -OR- Level 2 Diploma in Aerospace and Aviation Engineering (Foundation Competence);  EAL QAN 601/7289/7",
       "level": "2",
       "anyAdditionalInformation": "The CAA CAP 1814 mandates one foundation competence qualification at level 2.   ",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -345,7 +345,7 @@
       "title": "Level 3 Diploma in Aerospace and Aviation Engineering (Development Competence)  601/9051/6 – Pearson BTEC -OR- Level 3 Diploma in Aviation Maintenance (Development Competence) C&G No.4608-30; QAN  601/9036/X -OR- Level 3 Diploma in Aviation Maintenance (Development Competence) – Military C&G 4608-60;  QAN 603/2068/0 -OR- EAL Level 3 Diploma in Aviation Maintenance (Development Competence) – 603/0372/4   ",
       "level": "3",
       "anyAdditionalInformation": "The CAA CAP 1814 mandates one development competence qualification at level 3.   ",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -353,7 +353,7 @@
       "title": "Level 3 Diploma in Aerospace and Aviation Engineering (Development Technical Knowledge) 601/9063/2 – Pearson BTEC -OR- Level 3 Diploma in On-Aircraft Maintenance Category A C&G No. 2675-04; QAN 600/1927/X -OR- Level 3 Diploma in Aircraft Maintenance (Military) C&G No. 4708-30; QAN 603/1392/4",
       "level": "3",
       "anyAdditionalInformation": "The CAA CAP 1814 mandates one development knowledge qualification at level 3.   ",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
   ],
