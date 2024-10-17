@@ -394,7 +394,7 @@
   "pathway": "Transport",
   "cluster": "Driver or crewmember",
   "clusterId": "82",
-  "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
+  "clusterDescription": null,
   "createdDate": "2023-12-14T11:26:15 +00:00",
   "lastUpdated": "2023-11-27T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-08-07T00:00:00 +00:00",
@@ -407,7 +407,7 @@
       "title": "STCW Personal Survival Techniques",
       "level": "Two",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -415,7 +415,7 @@
       "title": "STCW Firefighting and Fire Prevention",
       "level": "Two",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -423,7 +423,7 @@
       "title": "STCW Emergency First Aid",
       "level": "Two",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -431,7 +431,7 @@
       "title": "STCW Personal Safety and Social Responsibilities",
       "level": "Two",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -439,7 +439,7 @@
       "title": "STCW Proficiency in Designated Security Duties",
       "level": "Two",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -447,7 +447,7 @@
       "title": "MCA Small Ships Navigation and Radar or SQA Use of Radar for Safe Navigation and Collision Avoidance on Domestic and Code Vessels",
       "level": "Two",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -455,7 +455,7 @@
       "title": "SQA Operate Non-ECDIS Marine Electronic Chart Systems",
       "level": "Two",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -463,7 +463,7 @@
       "title": "MCA Stability Course",
       "level": "Two",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -471,7 +471,7 @@
       "title": "MCA Approved Engine Course (AEC) 1",
       "level": "Two",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -479,7 +479,7 @@
       "title": "MCA Approved Engine Course (AEC) 2",
       "level": "Two",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -487,7 +487,7 @@
       "title": "MCA Compliant L2 Food Handling",
       "level": "Two",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -495,7 +495,7 @@
       "title": "RYA Yachtmaster Coastal or Offshore Certificate of Competence Theory",
       "level": "Two",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -503,7 +503,7 @@
       "title": "RYA Yachtmaster Coastal or Offshore Certificate of Competence Practical",
       "level": "Two",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -511,7 +511,7 @@
       "title": "RYA or MCA GMDSS Short Range Communications Certificate",
       "level": "Two",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -519,7 +519,7 @@
       "title": "RYA Professional Practices and Responsibilities and RYA Commercial Endorsement",
       "level": "Two",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -527,7 +527,7 @@
       "title": "Manual Handling",
       "level": "Two",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -535,7 +535,7 @@
       "title": "Marine Hydraulic Loader Crane Operators Certificate",
       "level": "Two",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -543,7 +543,7 @@
       "title": "Slinger and Signallers Certificate",
       "level": "Two",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -551,7 +551,7 @@
       "title": "Level 2 Diploma in Maritime Studies: Workboats",
       "level": "Two",
       "anyAdditionalInformation": "Units to be completed:1. FA5M 54 Maritime Employment,Environmental and Health and Safety Practice2. FA69 54 Maritime Sector Overview3. FA60 54Vessel Ropework, Anchoring and Mooring Operations4. FA61 54 Securing a Vessel forPassage5. FA62 54 Vessel Construction and Stability6. H49Y 54 Contribute to WorkboatOperations7. FA5N 54 Survival in the Water During Maritime Emergencies8. FA5T 54 VesselFire Prevention and Firefighting (STCW)9. FA5R 54 Emergency First Aid in Response toMaritime Accidents or Medical Emergencies10. FA68 54 Communicate Using Equipment andVisual Means11. FN04 62 Basic Navigational Watchkeeping12. FF2D 57 Control Operation ofSurvival Craft and Rescue Boats",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
   ],
