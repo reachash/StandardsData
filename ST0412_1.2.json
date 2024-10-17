@@ -302,7 +302,7 @@
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Environment technician",
   "clusterId": "81",
-  "clusterDescription": "Manage diverse environments, providing technical support in a range of specialist areas",
+  "clusterDescription": null,
   "createdDate": "2023-07-25T14:44:54 +00:00",
   "lastUpdated": "2023-12-15T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-07-10T00:00:00 +00:00",
@@ -315,7 +315,7 @@
       "title": "•  Level 2 Award in Wild Game Meat Hygiene or the Game Meat Hygiene Training Course, provided by the National Game Keepers organisation",
       "level": "Two",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -323,7 +323,7 @@
       "title": "•  Level 2 award in Safe Use of Pesticides. On completion of the pesticides foundation one of the following units will also be required: a:) boom sprayer b:) mounted, trailed or self-propelled equipment c:) granular applicator equipment d:)  handheld applicator equipment",
       "level": "Two",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -331,7 +331,7 @@
       "title": "•  Level 2 Rat Control for Gamekeepers certificate. The following are acceptable: a:) NGO Rodenticide training for gamekeepers  b:) Lantra Awards Level 2 Award in pest management  c:) Lantra Awards Rodent control on farms",
       "level": "Two",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
   ],
