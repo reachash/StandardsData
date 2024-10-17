@@ -274,7 +274,7 @@
   "pathway": "Transport",
   "cluster": "Driver or crewmember",
   "clusterId": "82",
-  "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
+  "clusterDescription": null,
   "createdDate": "2022-02-25T13:14:45 +00:00",
   "lastUpdated": "2023-02-20T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-08-27T00:00:00 +00:00",
@@ -287,7 +287,7 @@
       "title": "Award in Maritime Studies: Deck Rating – SQA Code GC6K 62",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -295,7 +295,7 @@
       "title": "Certificate in Maritime Studies: Able Seafarer (Deck) – SQA Code GK54 54",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -303,7 +303,7 @@
       "title": "STCW Personal Survival Techniques ",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -311,7 +311,7 @@
       "title": "STCW Basic Firefighting and Fire prevention ",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -319,7 +319,7 @@
       "title": "STCW Elementary first aid ",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -327,7 +327,7 @@
       "title": "STCW Proficiency in security awareness ",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -335,7 +335,7 @@
       "title": "STCW Personal safety and social responsibility ",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -343,7 +343,7 @@
       "title": "MNTB Entry into Enclosed Spaces ",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -351,7 +351,7 @@
       "title": "MCA approved Steering Certificate ",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -359,7 +359,7 @@
       "title": "Proficiency in Survival Craft and Rescue Boats Certificate ",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -367,7 +367,7 @@
       "title": "Proficiency in Designated Security Duties ",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -375,7 +375,7 @@
       "title": "MCA approved Navigational Watch Rating Certificate (including 2 months statutory sea time)",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -383,7 +383,7 @@
       "title": "MCA approved Efficient Deck Hand (EDH) Certificate (including 6 months statutory sea time) ",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
   ],
