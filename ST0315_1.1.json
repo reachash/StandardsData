@@ -200,10 +200,10 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, design and development",
+  "pathway": "Engineering, Design and Development",
   "cluster": "Design and development technician",
   "clusterId": "255",
-  "clusterDescription": "Design and develop parts of product and/or process technologies",
+  "clusterDescription": null,
   "createdDate": "2022-01-07T13:33:42 +00:00",
   "lastUpdated": "2022-05-31T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-03-26T00:00:00 +00:00",
@@ -216,7 +216,7 @@
       "title": "Pearson Level 3 BTEC National Diploma in Engineering",
       "level": "3",
       "anyAdditionalInformation": "601/7580/1",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -224,7 +224,7 @@
       "title": "Pearson Edexcel Level 3 Diploma in Civil Engineering for Technicians (Institution of Civil Engineers)",
       "level": "3",
       "anyAdditionalInformation": "501/1115/2",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -232,7 +232,7 @@
       "title": "Pearson BTEC Level 3 National Diploma in Civil Engineering",
       "level": "3",
       "anyAdditionalInformation": "603/1217/8",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -240,7 +240,7 @@
       "title": "Pearson BTEC Level 3 National Diploma in Construction and the Built Environment",
       "level": "3",
       "anyAdditionalInformation": "603/0864/3",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -248,7 +248,7 @@
       "title": "Pearson BTEC Level 3 Diploma in Advanced Manufacturing Engineering (Development Technical Knowledge)",
       "level": "3",
       "anyAdditionalInformation": "601/9054/1",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -256,7 +256,7 @@
       "title": "Pearson BTEC Level 3 Diploma in Rail Engineering Technician",
       "level": "3",
       "anyAdditionalInformation": "603/2537/9",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -264,7 +264,7 @@
       "title": "Pearson BTEC Level 3 Diploma in Construction and the Built Environment ",
       "level": "3",
       "anyAdditionalInformation": "500/7137/3",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
   ],
