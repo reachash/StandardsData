@@ -247,8 +247,8 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, design and development",
-  "cluster": "Design and development technical manager",
+  "pathway": "Engineering, Design and Development",
+  "cluster": "Design and Development Technical Manager",
   "clusterId": "254",
   "clusterDescription": "Design and develop whole product and/or process technologies using a specific discipline or technology or application expertise",
   "createdDate": "2021-11-30T08:46:22 +00:00",
@@ -263,7 +263,7 @@
       "title": "Higher National Certificate in Engineering or Level 4 Higher National Certificate in Manufacturing Operations.",
       "level": "4",
       "anyAdditionalInformation": "Aerospace sector:\nIn addition, those undertaking this apprentice in the aerospace sector must undertake the additional qualifications listed below in order to meet the Civil Aviation (CAA) requirements",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -271,7 +271,7 @@
       "title": "Aerospace mandatory qualification: Level 2 Diploma in Aerospace and Aviation Engineering (Foundation Competence). ",
       "level": "2",
       "anyAdditionalInformation": "In order to meet the requirements set out by CAA, all individuals undertaking this apprenticeship must complete a period of mandatory protected training leading to the successful achievement of this mandated qualification.",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -279,7 +279,7 @@
       "title": "Aerospace mandatory qualification Level 4 Diploma in Engineering and Advanced Manufacturing  (Development Competence).",
       "level": "4",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
   ],
