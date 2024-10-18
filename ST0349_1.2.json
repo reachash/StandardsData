@@ -261,8 +261,8 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, manufacturing, process and control",
-  "cluster": "Fabrication and welding operative or technician",
+  "pathway": "Engineering, Manufacturing, Process and Control",
+  "cluster": "Fabrication and Welding Operative/Technician",
   "clusterId": "259",
   "clusterDescription": "Make products and plant by cutting, forming, jointing and shaping of materials",
   "createdDate": "2024-04-29T10:47:45 +00:00",
@@ -277,7 +277,7 @@
       "title": "AWS D1.1 Structural Welding - Steel: Certification: American Welding Society, OR",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -285,7 +285,7 @@
       "title": "AWS D1.2 Structural Welding Code - Aluminium: Certification: American Welding Society, OR",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -293,7 +293,7 @@
       "title": "ASME Section IX, OR",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -301,7 +301,7 @@
       "title": "ISO 9606 Qualification testing of welder, OR",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -309,7 +309,7 @@
       "title": "ISO 14732 Welding personnel - Approval of welding operator, OR",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
@@ -317,7 +317,7 @@
       "title": "BS4872 Specification for approval testing of welders when welding procedure approval is not required",
       "level": "2",
       "anyAdditionalInformation": "",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
   ],
