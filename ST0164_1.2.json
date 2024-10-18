@@ -493,8 +493,8 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, design and development",
-  "cluster": "Design and development technician",
+  "pathway": "Engineering, Design and Development",
+  "cluster": "Design and Development Technician",
   "clusterId": "255",
   "clusterDescription": "Design and develop parts of product and/or process technologies",
   "createdDate": "2024-09-16T10:45:35 +00:00",
@@ -509,7 +509,7 @@
       "title": "BTEC Level 3 Diploma in advanced manufacturing engineering (development technical knowledge)",
       "level": "3",
       "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications.",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": [
         {
           "title": "Electrical power design technician",
@@ -538,7 +538,7 @@
       "title": "Level 3 Diploma in Advanced Manufacturing Engineering (Development Knowledge)",
       "level": "3",
       "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications.",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": [
         {
           "title": "Electrical power design technician",
@@ -567,7 +567,7 @@
       "title": "BTEC Level 3 National Diploma in Construction and the Built Environment",
       "level": "3",
       "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications.",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": [
         {
           "title": "Structural design technician",
@@ -580,7 +580,7 @@
       "title": "BTEC Level 3 National Diploma in Building Services Engineering",
       "level": "3",
       "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications.",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": [
         {
           "title": "Electrical power design technician",
@@ -605,7 +605,7 @@
       "title": "BTEC Level 3 National Diploma in Civil Engineering",
       "level": "3",
       "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications.",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": [
         {
           "title": "Electrical power design technician",
@@ -634,7 +634,7 @@
       "title": "BTEC Level 3 National Diploma in Electrical and Electronic Engineering",
       "level": "3",
       "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications.",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": [
         {
           "title": "Electrical power design technician",
@@ -647,7 +647,7 @@
       "title": "BTEC Level 3 National Diploma in Mechanical Engineering ",
       "level": "3",
       "anyAdditionalInformation": "The apprentice must complete one of the listed qualifications.",
-      "qualificationEpaIntegration": null,
+      "qualificationEpaIntegration": "",
       "mappedOptions": [
         {
           "title": "Mechanical design technician",
