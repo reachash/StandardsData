@@ -205,7 +205,13 @@
   "epaApprovalDate": "",
   "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
+  "eQAProvider": {
+    "providerName": "Costs Lawyer Standards Board",
+    "contactName": "Jacqui Connelly",
+    "contactAddress": "PO Box 4336, <br>Manchester, <br>M61 0BW",
+    "contactEmail": "enquiries@clsb.info",
+    "webLink": "http://www.clsb.info"
+  },
   "approvedForDelivery": "2024-09-16T00:00:00 +00:00",
   "integratedApprenticeship": null,
   "integration": null,
