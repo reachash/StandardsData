@@ -3,14 +3,14 @@
   "larsCode": 671,
   "referenceNumber": "ST1025",
   "title": "Urban driver",
-  "status": "Approved for delivery",
+  "status": "Retired",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/671",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/urban-driver",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-02-15T00:00:00",
+  "changedDate": "2024-10-24T00:00:00",
   "earliestStartDate": "2021-12-16T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2024-10-23T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Transport goods by road to an agreed destination, quality and time standard.",
   "level": 2,
@@ -291,7 +291,7 @@
   "clusterId": "82",
   "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
   "createdDate": "2021-11-18T13:34:37 +00:00",
-  "lastUpdated": "2023-02-15T00:00:00 +00:00",
+  "lastUpdated": "2024-10-24T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-12-16T00:00:00 +00:00",
   "occupationCode": "OCC1025",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/urban-driver-v1-0?view=standard#OccupationalStandard",
@@ -982,5 +982,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-02-15T00:00:00"
+  "publishDate": "2024-10-24T00:00:00"
 }
