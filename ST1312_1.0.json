@@ -19,7 +19,7 @@
   "maxFunding": 10000,
   "route": "Legal, finance and accounting",
   "keywords": [
-    "legal technicia",
+    "legal technician",
     "Conveyancing Technician",
     "Probate Technician",
     "conveyancer",
@@ -247,11 +247,11 @@
   },
   "approvedForDelivery": "2024-01-03T00:00:00 +00:00",
   "integratedApprenticeship": true,
-  "integration": null,
+  "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0132",
   "tbMainContact": "nicola.houston@pavilionrow.com",
-  "involvedEmployers": "Al-HQ Law, Bradley's, Chartahouse, CLC Group, CLS Property Insight, co operative  group, Conveyancing Direct Property Lawyers, Countrywide Property Lawyers, Eden Conveyancing, Edkins Milward, Forbes Solicitors, Formby Law, G2 Conveyancing, Gen H Legal, Honey Legal, Ironbridge Gorge Museum, Law Training Centre, Pavilion Row, PCS Legal, PVT, Scottish Qualifications Authority, Shoosmiths, Simplify, Simply Conveyancing, Singletons Austin Ryder, Suremove",
+  "involvedEmployers": "Al-HQ Law, Bradley's, Chartahouse, CLC Group, CLS Property Insight, Co-operative  group, Conveyancing Direct Property Lawyers, Countrywide Property Lawyers, Eden Conveyancing, Edkins Milward, Forbes Solicitors, Formby Law, G2 Conveyancing, Gen H Legal, Honey Legal, Pavilion Row, PCS Legal, PVT, Scottish Qualifications Authority, Shoosmiths, Simplify, Simply Conveyancing, Singletons, Austin Ryder, Suremove.",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -271,10 +271,10 @@
   "cluster": "Legal technician",
   "clusterId": "250",
   "clusterDescription": null,
-  "createdDate": "2024-02-29T14:12:07 +00:00",
+  "createdDate": "2024-11-11T10:52:45 +00:00",
   "lastUpdated": "2024-01-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-01-03T00:00:00 +00:00",
-  "occupationCode": "",
+  "occupationCode": "OCC1312",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/legal-technician-conveyancing-technician-or-probate-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/legal-technician-conveyancing-technician-or-probate-technician-v1-0",
   "qualifications": [
@@ -698,12 +698,12 @@
     {
       "optionId": "93607c4c-0d22-49f8-b03b-d0896896bd68",
       "title": "conveyancing technician",
-      "occupationCode": "OCC1312A"
+      "occupationCode": ""
     },
     {
       "optionId": "80353718-c581-49fe-958d-3e005077ec83",
       "title": "probate technician",
-      "occupationCode": "OCC1312B"
+      "occupationCode": ""
     }
   ],
   "regulationDetail": [],
