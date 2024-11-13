@@ -266,7 +266,7 @@
     "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2017-09-26T00:00:00 +00:00",
@@ -288,12 +288,12 @@
     "Designer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Craft and Design",
   "cluster": "Precision manufacturing craftsperson",
   "clusterId": "72",
-  "clusterDescription": null,
+  "clusterDescription": "Use traditional craft hand engineering and metal working skills to manufacture and restore precision items often with a high artistic merit and value",
   "createdDate": "2022-11-09T13:40:04 +00:00",
   "lastUpdated": "2022-11-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-09-26T00:00:00 +00:00",
@@ -313,7 +313,7 @@
     {
       "dutyID": "b46c0812-4855-4fbc-b38a-243cd1b7aacd",
       "dutyDetail": "Undertake various woodworking and cabinet making tasks such as milling out of timber, finishing, staining  and polishing",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88ac093f-8468-4393-9e37-5a76f65e2794",
         "56595a41-e5fd-4f0b-aeea-3e3b5dc58b97",
@@ -354,7 +354,7 @@
     {
       "dutyID": "743c49b8-6c86-49df-95f7-989fcaa42752",
       "dutyDetail": "Re-leather bellows and motors",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88ac093f-8468-4393-9e37-5a76f65e2794",
         "f846711f-b829-4ba3-a596-fb6688835c46",
@@ -384,7 +384,7 @@
     {
       "dutyID": "ab8153e3-3453-4c48-836a-faf272222baa",
       "dutyDetail": "Glue timbers and other materials",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88ac093f-8468-4393-9e37-5a76f65e2794",
         "f846711f-b829-4ba3-a596-fb6688835c46"
@@ -416,7 +416,7 @@
     {
       "dutyID": "792e3bdb-7637-404a-8a85-7e640a013714",
       "dutyDetail": "Maintain tools, blades and machinery ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88ac093f-8468-4393-9e37-5a76f65e2794",
         "56595a41-e5fd-4f0b-aeea-3e3b5dc58b97",
@@ -441,7 +441,7 @@
     {
       "dutyID": "0930ac25-1f03-41df-a548-af9bc9c34285",
       "dutyDetail": "Restore soundboards and other organ parts",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88ac093f-8468-4393-9e37-5a76f65e2794",
         "56595a41-e5fd-4f0b-aeea-3e3b5dc58b97",
@@ -481,7 +481,7 @@
     {
       "dutyID": "2b70214a-f81b-408c-abd8-0b836545a11a",
       "dutyDetail": "Manufacture small components, such as rollerboards and mechanical action parts",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88ac093f-8468-4393-9e37-5a76f65e2794",
         "56595a41-e5fd-4f0b-aeea-3e3b5dc58b97",
@@ -517,7 +517,7 @@
     {
       "dutyID": "8eaf8b68-94d4-48ab-933e-a9efe7a2d650",
       "dutyDetail": " Manufacture medium-sized components  such as concussions, tremulants and roller blinds",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88ac093f-8468-4393-9e37-5a76f65e2794",
         "f846711f-b829-4ba3-a596-fb6688835c46"
@@ -552,7 +552,7 @@
     {
       "dutyID": "be01a6b3-8fb4-43b2-96bb-ace1c735fba5",
       "dutyDetail": "Work with hand tools and woodworking machinery to manufacture bespoke wooden parts where they are unable to be ordered",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88ac093f-8468-4393-9e37-5a76f65e2794",
         "f846711f-b829-4ba3-a596-fb6688835c46",
@@ -586,7 +586,7 @@
     {
       "dutyID": "449742ea-0e5d-438b-a73a-cb36fbb61feb",
       "dutyDetail": "Clean pipework",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88ac093f-8468-4393-9e37-5a76f65e2794",
         "f846711f-b829-4ba3-a596-fb6688835c46"
@@ -609,7 +609,7 @@
     {
       "dutyID": "f25cf879-4fe1-4368-af87-5b2f2535c055",
       "dutyDetail": "Make and repair metal pipes",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88ac093f-8468-4393-9e37-5a76f65e2794",
         "56595a41-e5fd-4f0b-aeea-3e3b5dc58b97"
@@ -646,7 +646,7 @@
     {
       "dutyID": "64f93e01-ad8a-4433-9a24-14404b263e1f",
       "dutyDetail": "Make and repair wooden pipes",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88ac093f-8468-4393-9e37-5a76f65e2794",
         "56595a41-e5fd-4f0b-aeea-3e3b5dc58b97",
@@ -684,7 +684,7 @@
     {
       "dutyID": "dae12cb3-eab1-46df-8e66-1dcc4d087369",
       "dutyDetail": "Tune pipe organs, keeping them in working order dependant on external factors such as temperature and humidity",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88ac093f-8468-4393-9e37-5a76f65e2794",
         "56595a41-e5fd-4f0b-aeea-3e3b5dc58b97",
@@ -713,7 +713,7 @@
     {
       "dutyID": "d538c30c-1d37-4dfd-a280-497c947b3a89",
       "dutyDetail": "Carry out repairs and maintenance as specified ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88ac093f-8468-4393-9e37-5a76f65e2794",
         "56595a41-e5fd-4f0b-aeea-3e3b5dc58b97",
@@ -756,7 +756,7 @@
     {
       "dutyID": "ea8067d4-87b8-43f0-8a8b-c999dc7d0127",
       "dutyDetail": "Create technical drawings to ensure all work is carried out to specification within the set tolerances, including wind systems, soundboards and casework",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88ac093f-8468-4393-9e37-5a76f65e2794",
         "56595a41-e5fd-4f0b-aeea-3e3b5dc58b97",
@@ -785,7 +785,7 @@
     {
       "dutyID": "f60de978-50bf-4863-b581-16c9e36c423a",
       "dutyDetail": "Write out cutting lists",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88ac093f-8468-4393-9e37-5a76f65e2794",
         "25beba07-ba42-414d-932c-6878a591b8a3"
@@ -810,7 +810,7 @@
     {
       "dutyID": "df62ce24-28c4-4355-a17c-4126c86b067a",
       "dutyDetail": "Carry out fault finding of low voltage electrical systems ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "cb6e1640-2254-4b15-aa17-6eecd5aaba19",
@@ -834,7 +834,7 @@
     {
       "dutyID": "c17f2c28-2dbd-41a0-bb96-c36bcdab6e88",
       "dutyDetail": "Undertake voicing and tonal finishing to achieve optimal tone",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88ac093f-8468-4393-9e37-5a76f65e2794",
         "f846711f-b829-4ba3-a596-fb6688835c46"
