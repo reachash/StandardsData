@@ -261,7 +261,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2017-06-27T00:00:00 +00:00",
@@ -281,12 +281,12 @@
     "Saddler"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Craft and Design",
   "cluster": "Heritage craftsperson",
   "clusterId": "63",
-  "clusterDescription": null,
+  "clusterDescription": "Use traditional hand craft skills to shape and sculpt natural materials",
   "createdDate": "2022-07-07T08:00:46 +00:00",
   "lastUpdated": "2023-03-07T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-06-27T00:00:00 +00:00",
@@ -315,7 +315,7 @@
     {
       "dutyID": "bf3e4d07-9cd2-46ad-86a3-06c25df352cc",
       "dutyDetail": "Record customer requirements and convert the information gathered to produce a working specification of cut and made-up measurements. Communicate with customer to agree the bespoke specification.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0225d8e-cf56-4545-a99f-2a5ec9e96e81"
       ],
@@ -332,7 +332,7 @@
     {
       "dutyID": "f955c8b1-d287-4c6e-9378-a5b103efa648",
       "dutyDetail": "Assess and evaluate the bespoke specification for the bridle and saddle to be made. As examples, specifications, style, quality, size, colour and timeline.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "13514a69-7d29-47d3-97b7-fa01bfab0127",
@@ -350,7 +350,7 @@
     {
       "dutyID": "34113306-c937-418b-b977-a93e5d85dcb7",
       "dutyDetail": "Source leather, materials and ancillary fittings to confirm availability, provide a quotation and agree final costs with the customer.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0225d8e-cf56-4545-a99f-2a5ec9e96e81"
       ],
@@ -370,7 +370,7 @@
     {
       "dutyID": "23fba521-8c17-4fbd-ba6d-0bd0b3eee0ab",
       "dutyDetail": "Create the necessary patterns.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "0cf2869a-e298-4332-be9e-9282b44ee6ad"
@@ -384,7 +384,7 @@
     {
       "dutyID": "fb734ce7-daf5-4da9-814c-8ecfc8942eb9",
       "dutyDetail": "Throughout the production process, continually identify faults that may lead to saddle and bridle fitting problems and report findings and recommendations to improve them.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c40dc1d-2a83-4998-a041-8d802a92e37e"
       ],
@@ -403,7 +403,7 @@
     {
       "dutyID": "8195fd11-cd98-4ff7-844d-12d8555521cf",
       "dutyDetail": "Select the appropriate tools and machinery to manufacture bespoke bridle and saddle production activity, to achieve quality within given timescales.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "3d6a8d46-7612-47b7-a586-9621c7f4ed3b",
@@ -419,7 +419,7 @@
     {
       "dutyID": "fa971b64-ba91-4384-bece-4d32a4727889",
       "dutyDetail": "Select leather, materials and ancillary fittings for the Bespoke Bridle and Saddle specification and report any shortages or quality issues.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "cffa4777-3893-4c38-b5ae-dd5233c6fd8c"
@@ -434,7 +434,7 @@
     {
       "dutyID": "a5eb2953-7582-4d7f-8c8d-68134c035327",
       "dutyDetail": "Prepare and test hand tools, sewing machine, bench splitter and other equipment to enable the formation of the required bespoke components. For example, different types of leathers, threads, fittings and other materials.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "3d6a8d46-7612-47b7-a586-9621c7f4ed3b",
@@ -452,7 +452,7 @@
     {
       "dutyID": "12eac461-745a-4fe0-9ca5-77e3998807ba",
       "dutyDetail": "Produce and/or repair saddlery products that meet both specification and customer requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a1542129-3043-4108-b97a-46264b264996",
         "6ebf81e1-581c-45f8-8d18-c9971ae1c512",
@@ -489,7 +489,7 @@
     {
       "dutyID": "c1cf338c-b8e0-4042-8238-fd9db934a264",
       "dutyDetail": "Communicate and report issues internally throughout the production process which impact quality, quantity and meeting deadlines. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "35518b68-b902-42a0-b039-113b50a6b3dc"
@@ -504,7 +504,7 @@
     {
       "dutyID": "1feb2a24-548c-48ee-bcdd-b98c0d81c395",
       "dutyDetail": "Inspect finished saddlery product against quality standards and bespoke specification.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "175f74d4-7649-4975-9e01-a246fb679663"
@@ -519,7 +519,7 @@
     {
       "dutyID": "900ccf3d-a9ec-42ec-beac-ffc325a9b208",
       "dutyDetail": "Complete work documentation, communicating as needed with colleagues. For example, production sheets and job cards.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "3f8ee7dd-4cb0-468c-a422-bf37ed0f4fc7"
@@ -533,7 +533,7 @@
     {
       "dutyID": "bc46cf0a-8951-4da6-84b5-efc57575b79d",
       "dutyDetail": "Investigate requests for repairs/restoration to used saddlery products to assess sustainability, viability and suggest remedies. For example, component wear, breakage, asymmetry, stretch, poor stitching, adjustments to improve fit. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a1542129-3043-4108-b97a-46264b264996",
         "6ebf81e1-581c-45f8-8d18-c9971ae1c512"
@@ -551,7 +551,7 @@
     {
       "dutyID": "dd41b983-3931-4a2f-9db5-e016ed8cf4a5",
       "dutyDetail": "Identify welfare and safety issues for both horse and rider.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c40dc1d-2a83-4998-a041-8d802a92e37e"
       ],
