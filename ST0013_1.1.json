@@ -304,12 +304,12 @@
     "Aerospace software test engineer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Design and Development",
+  "pathway": "Engineering, design and development",
   "cluster": "Design and development engineer",
   "clusterId": "253",
-  "clusterDescription": null,
+  "clusterDescription": "Design and develop a range of products and/or process technologies using discipline and applications specific expertise",
   "createdDate": "2023-02-23T15:19:44 +00:00",
   "lastUpdated": "2023-02-23T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-09-03T00:00:00 +00:00",
@@ -344,7 +344,7 @@
     {
       "dutyID": "84e9e6df-2ecf-43c6-9f7d-224e2fa67e83",
       "dutyDetail": "Define and maintain the engineering plan detailing the implementation of Aerospace software engineering solutions. In collaboration with multidisciplinary teams and organisational stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f6568743-b301-431b-b9f5-bb1ff959fbd4",
         "3831d394-c7ff-44bf-8d8c-383f99cdd5b2",
@@ -399,7 +399,7 @@
     {
       "dutyID": "ec16b867-03cb-4d77-a5f3-0118e72ca819",
       "dutyDetail": "Identify, evaluate, derive, analyse and maintain software requirements for customer and projects.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f6568743-b301-431b-b9f5-bb1ff959fbd4",
         "3831d394-c7ff-44bf-8d8c-383f99cdd5b2",
@@ -444,7 +444,7 @@
     {
       "dutyID": "b63a9c13-d520-429b-9c56-cb1fe4c6a0d7",
       "dutyDetail": "Define and maintain the architecture and design of software products, tools, utilities and applications to meet project requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3831d394-c7ff-44bf-8d8c-383f99cdd5b2",
         "dd3c11a3-b3c8-42d4-87a9-8d172c03ecd3",
@@ -495,7 +495,7 @@
     {
       "dutyID": "0f1ac1f5-b327-4674-84e3-f855b292c04d",
       "dutyDetail": "Implement Aerospace software design from combinations of new, modified and existing components to meet project requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd3c11a3-b3c8-42d4-87a9-8d172c03ecd3",
         "85647ea2-8d3f-427f-a5b6-5251f6d73c1b"
@@ -545,7 +545,7 @@
     {
       "dutyID": "3a74f118-e7b0-4416-b8c5-e765f2192f03",
       "dutyDetail": "Develop, define and execute testing of Aerospace software products to verify functionality and performance. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd3c11a3-b3c8-42d4-87a9-8d172c03ecd3",
         "85647ea2-8d3f-427f-a5b6-5251f6d73c1b"
@@ -594,7 +594,7 @@
     {
       "dutyID": "444068ec-517b-4586-abf4-8f66c60ae697",
       "dutyDetail": "Analyse and review the Aerospace software outputs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd3c11a3-b3c8-42d4-87a9-8d172c03ecd3",
         "85647ea2-8d3f-427f-a5b6-5251f6d73c1b"
@@ -638,7 +638,7 @@
     {
       "dutyID": "42b5306d-4913-4d7b-b151-9de58ee810ce",
       "dutyDetail": "Undertake and complete build, configure and release of the Aerospace software product.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd3c11a3-b3c8-42d4-87a9-8d172c03ecd3",
         "85647ea2-8d3f-427f-a5b6-5251f6d73c1b",
@@ -677,7 +677,7 @@
     {
       "dutyID": "4d9bb252-48b4-44b0-b109-ccc60ded2907",
       "dutyDetail": "Verify that software processes and procedures comply with standards throughout the life cycle. These include local, national and international regulatory, legislative, customer and company standards. For example, cyber security, development, environmental, anti-bribery and corruption. Official Secrets Act, export control, safety standards.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd3c11a3-b3c8-42d4-87a9-8d172c03ecd3",
         "85647ea2-8d3f-427f-a5b6-5251f6d73c1b",
@@ -727,7 +727,7 @@
     {
       "dutyID": "a76a7fc2-a7dc-4003-8580-07d889554082",
       "dutyDetail": "Review the in-service performance of software products, processes and systems. Assess the cause of any faults or problems and propose solutions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd3c11a3-b3c8-42d4-87a9-8d172c03ecd3",
         "85647ea2-8d3f-427f-a5b6-5251f6d73c1b",
@@ -765,7 +765,7 @@
     {
       "dutyID": "306e1373-77a5-43c6-b8df-196516fa2642",
       "dutyDetail": "Manage stakeholders by communicating project status, technical and commercial information. For example, communicate success, risks and issues to all levels of the business. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f6568743-b301-431b-b9f5-bb1ff959fbd4",
         "3831d394-c7ff-44bf-8d8c-383f99cdd5b2",
@@ -805,7 +805,7 @@
     {
       "dutyID": "46bff467-3ab3-40c8-b8ce-23219f4c32e1",
       "dutyDetail": "Define, monitor and co-ordinate the continuous improvement of software processes and methods.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f6568743-b301-431b-b9f5-bb1ff959fbd4",
         "3831d394-c7ff-44bf-8d8c-383f99cdd5b2",
