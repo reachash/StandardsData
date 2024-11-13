@@ -271,7 +271,7 @@
     "Volume and priority investigator"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Protective services",
   "cluster": "Protective service professional",
@@ -305,7 +305,7 @@
     {
       "dutyID": "3bc15b7f-7be1-4183-944e-64e72f1c7218",
       "dutyDetail": "Operate in accordance with the law, authorised professional practice and the Code of ethics in line with legal and professional practice requirements. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "89d35d81-ace8-4526-add5-f3ee3e80d6c3",
         "307f33b4-2381-49f4-868e-b2857affc0c6",
@@ -365,7 +365,7 @@
     {
       "dutyID": "ec2d026f-c33e-450d-9293-542d10470cd5",
       "dutyDetail": "Follow appropriate processes for the management of information and intelligence.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "89d35d81-ace8-4526-add5-f3ee3e80d6c3",
         "307f33b4-2381-49f4-868e-b2857affc0c6",
@@ -406,7 +406,7 @@
     {
       "dutyID": "184bbd2f-567b-40e4-b7b7-c71cb66435e9",
       "dutyDetail": "Provide an initial response to policing incidents in line with legal and professional practice requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "89d35d81-ace8-4526-add5-f3ee3e80d6c3",
         "307f33b4-2381-49f4-868e-b2857affc0c6",
@@ -442,7 +442,7 @@
     {
       "dutyID": "03274d8a-3df3-4144-a185-648426b9677f",
       "dutyDetail": "Manage conflict in a professional policing context.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "89d35d81-ace8-4526-add5-f3ee3e80d6c3",
         "307f33b4-2381-49f4-868e-b2857affc0c6",
@@ -473,7 +473,7 @@
     {
       "dutyID": "f774c018-effd-459c-8283-9f6570b008d1",
       "dutyDetail": "Provide support to vulnerable people, victims and witnesses.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "89d35d81-ace8-4526-add5-f3ee3e80d6c3",
         "307f33b4-2381-49f4-868e-b2857affc0c6",
@@ -513,7 +513,7 @@
     {
       "dutyID": "8fffe94c-1c8a-49ca-87d5-1ebb46aa88a9",
       "dutyDetail": "Use police powers to deal with suspects.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "89d35d81-ace8-4526-add5-f3ee3e80d6c3",
         "307f33b4-2381-49f4-868e-b2857affc0c6",
@@ -547,7 +547,7 @@
     {
       "dutyID": "5bbd5500-206b-4649-8723-f8a570eaa7ef",
       "dutyDetail": "Conduct safe, lawful and effective police searches of premises, vehicles and outside spaces.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "89d35d81-ace8-4526-add5-f3ee3e80d6c3",
         "307f33b4-2381-49f4-868e-b2857affc0c6",
@@ -573,7 +573,7 @@
     {
       "dutyID": "a73aff85-3546-4e8c-8761-390d7bfef51b",
       "dutyDetail": "Conduct police searches of individuals in line with legal and organisational requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "89d35d81-ace8-4526-add5-f3ee3e80d6c3",
         "307f33b4-2381-49f4-868e-b2857affc0c6",
@@ -600,7 +600,7 @@
     {
       "dutyID": "c23dbcd1-146b-4c16-bf79-3a745a02d068",
       "dutyDetail": "Conduct priority and volume investigations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "89d35d81-ace8-4526-add5-f3ee3e80d6c3",
         "307f33b4-2381-49f4-868e-b2857affc0c6",
@@ -636,7 +636,7 @@
     {
       "dutyID": "2aa72bd8-448c-44fb-ad3d-5dfe64c9aa13",
       "dutyDetail": "Interview victims, witnesses and suspects.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "89d35d81-ace8-4526-add5-f3ee3e80d6c3",
         "307f33b4-2381-49f4-868e-b2857affc0c6",
@@ -666,7 +666,7 @@
     {
       "dutyID": "589b988a-ca11-41db-a88b-40ef38794760",
       "dutyDetail": "Communicate and proactively engage with communities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "89d35d81-ace8-4526-add5-f3ee3e80d6c3",
         "307f33b4-2381-49f4-868e-b2857affc0c6",
@@ -703,7 +703,7 @@
     {
       "dutyID": "e774fbef-47cd-409b-b4cd-07c9be4be16e",
       "dutyDetail": "Provide an effective initial response to a critical incident.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "89d35d81-ace8-4526-add5-f3ee3e80d6c3",
         "307f33b4-2381-49f4-868e-b2857affc0c6",
@@ -739,7 +739,7 @@
     {
       "dutyID": "474b6328-839c-4b70-97e6-e73c0e51cf45",
       "dutyDetail": "Use roads policing prevention and enforcement methods to reduce driving and vehicle offences.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "89d35d81-ace8-4526-add5-f3ee3e80d6c3",
         "307f33b4-2381-49f4-868e-b2857affc0c6",
@@ -782,7 +782,7 @@
     {
       "dutyID": "978d11f8-ce1d-4065-92ed-2ba14affc3ea",
       "dutyDetail": "Analyse and evaluate information and intelligence to inform policing activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "89d35d81-ace8-4526-add5-f3ee3e80d6c3",
         "307f33b4-2381-49f4-868e-b2857affc0c6",
@@ -830,7 +830,7 @@
     {
       "dutyID": "77572869-ea4b-4d29-a34f-9e215f7d26c9",
       "dutyDetail": "Conduct more complex investigations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "89d35d81-ace8-4526-add5-f3ee3e80d6c3",
         "307f33b4-2381-49f4-868e-b2857affc0c6",
