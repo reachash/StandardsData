@@ -393,7 +393,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2017-09-12T00:00:00 +00:00",
@@ -412,10 +412,10 @@
     "Service and maintenance engineer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Building Services Engineering",
-  "cluster": "Building Services Engineering Operative/Technician",
+  "cluster": "Building services engineering operative or technician",
   "clusterId": "65",
   "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
   "createdDate": "2024-04-25T14:08:43 +00:00",
@@ -430,7 +430,7 @@
     {
       "dutyID": "c38d2a81-bb0c-4ae3-aac0-cd12fc8fe21e",
       "dutyDetail": "Comply with health, safety, and environmental regulations; building regulations; industry guidance notes and relevant codes of practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6a341f46-1e5c-452f-9787-82547ce7f9f8",
         "a38e9cad-05ae-4066-aa45-d4b347625cd1"
@@ -474,7 +474,7 @@
     {
       "dutyID": "2911a2a4-ba15-48f8-be15-70ab179940e6",
       "dutyDetail": "Plan and organise to undertake service and maintenance activities in ways which use resources to complete work, with consideration for cost, quality, time, safety, security and environmental impact.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a38e9cad-05ae-4066-aa45-d4b347625cd1",
         "a14fef65-22a4-4a78-a0f4-62f25c34e631"
@@ -529,7 +529,7 @@
     {
       "dutyID": "c6ec08d2-2722-4285-9424-ef5e4919fe06",
       "dutyDetail": "Prepare work areas to undertake service and maintenance activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6a341f46-1e5c-452f-9787-82547ce7f9f8"
       ],
@@ -570,7 +570,7 @@
     {
       "dutyID": "da20e64a-a475-4dfe-811a-c12673043b1f",
       "dutyDetail": "Carry out planned or reactive maintenance activities on systems. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "b161cc32-ebfa-4c2a-8446-f39ff1864dda",
@@ -609,7 +609,7 @@
     {
       "dutyID": "ebf83ace-161f-410e-8f9a-e75e7e8b56bb",
       "dutyDetail": "Provide the client or contract supervisor with recommendations for repairs, replacements, and potential improvements; and the likely impact, cost and timescales for any work required that is additional to the specification or contract.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "d50a7b8a-a46b-4c4c-b84b-e3eab92e1e8c",
@@ -644,7 +644,7 @@
     {
       "dutyID": "9b678e2c-c80d-4969-9e9e-539c8af3aa3e",
       "dutyDetail": "Finish service and maintenance activities by completing and submitting the necessary reports following contract related processes and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "81ab2443-0654-4f9c-8d76-06a30711488b",
@@ -673,7 +673,7 @@
     {
       "dutyID": "255c3ecf-8025-481a-b1ce-9514eab2b8c0",
       "dutyDetail": "Restore work area to a safe and clean condition on completion of service and maintenance activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "d33ecc14-4105-4598-84fa-2c7c801b155b",
@@ -690,7 +690,7 @@
     {
       "dutyID": "f9a47104-86b9-4754-b8f4-534015303bb3",
       "dutyDetail": "Communicate and liaise with own project team, and those in other teams, such as clients or specialist contractors. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0c112fb5-7697-42bd-b36b-73ce027f6012",
         "a14fef65-22a4-4a78-a0f4-62f25c34e631",
@@ -738,7 +738,7 @@
     {
       "dutyID": "4b5319dd-2c0c-441b-8bd0-6b8dad7299ad",
       "dutyDetail": "Prepare and complete required work documentation. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "ef5d70e4-c684-4699-93ac-61858aae6f23",
@@ -759,7 +759,7 @@
     {
       "dutyID": "48ad8921-c646-4a79-b198-a481aee4c469",
       "dutyDetail": "Plan and project manage servicing and maintenance activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0c112fb5-7697-42bd-b36b-73ce027f6012",
         "b57bad63-e00c-45a9-80a2-ce9b4aa380c5"
@@ -810,7 +810,7 @@
     {
       "dutyID": "3f157ee1-80ca-4c41-9524-652db4409705",
       "dutyDetail": "Develop and maintain competency in using a range of practical and workshop activities. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0c112fb5-7697-42bd-b36b-73ce027f6012",
         "5a2db880-1a8d-4a63-bfc7-e9857e78080f",
