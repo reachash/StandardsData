@@ -358,7 +358,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-05-10T00:00:00 +00:00",
@@ -375,10 +375,10 @@
     "Healthcare science assistant"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Healthcare Science",
-  "cluster": "Healthcare Science Assistant",
+  "pathway": "Healthcare science",
+  "cluster": "Healthcare science assistant",
   "clusterId": "43",
   "clusterDescription": "Provide technical and science-based support to patients delivering testing, diagnosis, monitoring services etc. of a low risk, routine nature and also the manufacture of appliances and devices",
   "createdDate": "2023-11-28T13:43:35 +00:00",
@@ -409,7 +409,7 @@
     {
       "dutyID": "e64bee7f-2da2-4759-8387-78c5a4ea0f0e",
       "dutyDetail": "Perform a range of routine technical and scientific procedures and services in accordance with standard operating procedures, policies and protocols. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf5e64d0-5454-4831-bce2-4fc3f4d59f4f",
         "d02f527f-4143-4f1b-9aaa-56143364152f"
@@ -432,7 +432,7 @@
     {
       "dutyID": "6dddd4b5-d414-4665-9716-709f58e1fab2",
       "dutyDetail": "Select and prepare equipment and the environment for healthcare science procedures. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "286a76b4-a6e0-4617-a3cc-b2d0cb09a10c",
         "3fbcec38-7988-4d4c-aded-be2adbb739b2",
@@ -452,7 +452,7 @@
     {
       "dutyID": "e4df7098-cfa9-4dd8-ab9b-7ca871897ffa",
       "dutyDetail": "Carry out stock control of healthcare science equipment and consumables. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf5e64d0-5454-4831-bce2-4fc3f4d59f4f",
         "d02f527f-4143-4f1b-9aaa-56143364152f"
@@ -469,7 +469,7 @@
     {
       "dutyID": "9fdb243c-a7a4-4eb2-a59e-09a74c2a44e8",
       "dutyDetail": "Support the provision of clinical care delivered to individuals and maintain client confidentiality.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "286a76b4-a6e0-4617-a3cc-b2d0cb09a10c",
         "90bb4f1b-7daf-4109-a48c-a4d3645ded43",
@@ -496,7 +496,7 @@
     {
       "dutyID": "861ef24f-0214-40aa-b349-5e556e581e1f",
       "dutyDetail": "Communicate effectively with individuals.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "286a76b4-a6e0-4617-a3cc-b2d0cb09a10c",
         "90bb4f1b-7daf-4109-a48c-a4d3645ded43",
@@ -516,7 +516,7 @@
     {
       "dutyID": "31542930-5178-4d3a-9d93-691aef5ba69e",
       "dutyDetail": "Record, report and store information adhering to information governance and confidentiality requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d02f527f-4143-4f1b-9aaa-56143364152f"
       ],
@@ -536,7 +536,7 @@
     {
       "dutyID": "ab61aabd-195c-4ac2-ba45-c7081578c0c0",
       "dutyDetail": "Support a multidisciplinary healthcare team.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "286a76b4-a6e0-4617-a3cc-b2d0cb09a10c",
         "3fbcec38-7988-4d4c-aded-be2adbb739b2",
@@ -560,7 +560,7 @@
     {
       "dutyID": "660538c7-ec8d-4126-99da-63122a528165",
       "dutyDetail": "Maintain a healthy, safe and secure workplace.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d02f527f-4143-4f1b-9aaa-56143364152f"
       ],
@@ -585,7 +585,7 @@
     {
       "dutyID": "73d42277-82af-4cff-a0b0-537fe34c8796",
       "dutyDetail": "Contribute to audit, innovation or research within scope of own role. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf5e64d0-5454-4831-bce2-4fc3f4d59f4f",
         "e0d60a6f-84a5-456a-a5cc-ec9fe27eec5c",
@@ -611,7 +611,7 @@
     {
       "dutyID": "79876290-9c8c-48f7-be1b-052f7ade32b6",
       "dutyDetail": "Maintain and develop own competence.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e0d60a6f-84a5-456a-a5cc-ec9fe27eec5c"
       ],
