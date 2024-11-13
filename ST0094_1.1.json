@@ -340,7 +340,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2017-02-16T00:00:00 +00:00",
@@ -360,12 +360,12 @@
     "Composites technician",
     "Composites tooling technician"
   ],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Manufacturing, Process and Control",
+  "pathway": "Engineering, manufacturing, process and control",
   "cluster": "Manufacturing and process operative or technician",
   "clusterId": "262",
-  "clusterDescription": null,
+  "clusterDescription": "Assemble and construct complex engineering products",
   "createdDate": "2023-03-14T10:20:49 +00:00",
   "lastUpdated": "2023-03-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-02-16T00:00:00 +00:00",
@@ -385,7 +385,7 @@
     {
       "dutyID": "15f5bf4a-b51f-4fd8-97f9-8f56797c3ea8",
       "dutyDetail": "Complete composite pre-processing activities. For example, organise and prepare mould tools and materials.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7751b4dc-aaa4-4eb5-be17-8921179317f7",
         "7e7bea49-f57f-4b71-8211-187eab7576f5",
@@ -438,7 +438,7 @@
     {
       "dutyID": "216dc98b-f4db-42e9-bfca-c229c670f778",
       "dutyDetail": "Conduct composite processing activities following technical instructions. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7751b4dc-aaa4-4eb5-be17-8921179317f7",
         "7e7bea49-f57f-4b71-8211-187eab7576f5",
@@ -495,7 +495,7 @@
     {
       "dutyID": "51b3a398-b1ac-4f0f-9dd2-00c1848d5c7a",
       "dutyDetail": "Complete quality assurance processes. For example, conduct grading parameters checks (size, appearance, weight), and take samples for laboratory testing.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7751b4dc-aaa4-4eb5-be17-8921179317f7",
         "7e7bea49-f57f-4b71-8211-187eab7576f5",
@@ -547,7 +547,7 @@
     {
       "dutyID": "42528a05-90ea-4294-8c8a-700b86398f7f",
       "dutyDetail": "Check the composite processing equipment and tooling for future usability; make repairs or escalate.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7751b4dc-aaa4-4eb5-be17-8921179317f7",
         "7e7bea49-f57f-4b71-8211-187eab7576f5",
@@ -589,7 +589,7 @@
     {
       "dutyID": "96aae2c3-38b9-4c31-9490-e9b0c19b3b8b",
       "dutyDetail": "Complete process manufacturing documentation - digital or paper based. For example, process and production records, traceability records, quality assurance records.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7751b4dc-aaa4-4eb5-be17-8921179317f7",
         "7e7bea49-f57f-4b71-8211-187eab7576f5",
@@ -625,7 +625,7 @@
     {
       "dutyID": "d7a4d631-514a-4cba-9756-f7d0c77cbcf2",
       "dutyDetail": "Conduct handover responsibilities - providing information to or receiving information from other shifts or maintenance teams.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7751b4dc-aaa4-4eb5-be17-8921179317f7",
         "7e7bea49-f57f-4b71-8211-187eab7576f5",
@@ -664,7 +664,7 @@
     {
       "dutyID": "dcd6cf6e-6de9-4085-825f-b437e4a3c4fb",
       "dutyDetail": "Maintain the work area (housekeeping) following safety, environmental and risk management systems. Ensure waste is separated, segregated, and disposed of in accordance with environmental standards.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7751b4dc-aaa4-4eb5-be17-8921179317f7",
         "7e7bea49-f57f-4b71-8211-187eab7576f5",
@@ -699,7 +699,7 @@
     {
       "dutyID": "a6261e20-77b8-466d-abe2-589e257c3b5c",
       "dutyDetail": "Participate in continuous improvement activities. For example, ways to contribute to achieving Net Carbon zero by focussing on reduction of unnecessary energy use and waste.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7751b4dc-aaa4-4eb5-be17-8921179317f7",
         "7e7bea49-f57f-4b71-8211-187eab7576f5",
@@ -748,7 +748,7 @@
     {
       "dutyID": "1913f205-13b2-4594-89a7-f4f81f0f7410",
       "dutyDetail": "Participate in risk assessment activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7751b4dc-aaa4-4eb5-be17-8921179317f7",
         "7e7bea49-f57f-4b71-8211-187eab7576f5",
