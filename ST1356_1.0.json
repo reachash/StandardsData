@@ -313,12 +313,12 @@
     "Structural geologist"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Science",
   "cluster": "Science professional",
   "clusterId": "213",
-  "clusterDescription": null,
+  "clusterDescription": "Define and lead science-based research projects to derive academic and applied information of value",
   "createdDate": "2023-10-16T14:35:00 +00:00",
   "lastUpdated": "2024-10-25T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-10-16T00:00:00 +00:00",
@@ -359,7 +359,7 @@
     {
       "dutyID": "6e21e40c-b1ef-403e-bb31-d5eb332b8207",
       "dutyDetail": "Manage and apply geoscience information to deliver outputs and support client and organisational objectives.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f207e0c2-d10d-4fbd-bdf6-934270d615f1",
         "a21fc71e-68c5-4200-9d2a-368cd0c3416d",
@@ -412,7 +412,7 @@
     {
       "dutyID": "1c57ced8-ffe4-4e3f-bbc9-ce13eae1cc04",
       "dutyDetail": "Conduct geoscientific assessments within multi-disciplinary projects.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f207e0c2-d10d-4fbd-bdf6-934270d615f1",
         "a21fc71e-68c5-4200-9d2a-368cd0c3416d",
@@ -466,7 +466,7 @@
     {
       "dutyID": "be25cc0f-b753-4163-90d5-dc5387d05e41",
       "dutyDetail": "Conduct research using tools and documents such as maps, remotely sensed imagery, existing data sets.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f207e0c2-d10d-4fbd-bdf6-934270d615f1",
         "a21fc71e-68c5-4200-9d2a-368cd0c3416d",
@@ -518,7 +518,7 @@
     {
       "dutyID": "bba01924-6e25-4809-ac7d-a9a15b16278a",
       "dutyDetail": "Develop preliminary geoscientific understanding of data using digital and non-digital methods.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f207e0c2-d10d-4fbd-bdf6-934270d615f1",
         "a21fc71e-68c5-4200-9d2a-368cd0c3416d",
@@ -568,7 +568,7 @@
     {
       "dutyID": "866490cc-4b99-4839-a234-3178c28a2056",
       "dutyDetail": "Evaluate geoscientific representations to determine whether they are sufficient for project needs and identify gaps in data.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f207e0c2-d10d-4fbd-bdf6-934270d615f1",
         "a21fc71e-68c5-4200-9d2a-368cd0c3416d",
@@ -618,7 +618,7 @@
     {
       "dutyID": "d2c41a08-3f5a-4a39-81a7-2e3a8a53b7ef",
       "dutyDetail": "Design and conduct geoscientific investigations and produce predictive computer-based models.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f207e0c2-d10d-4fbd-bdf6-934270d615f1",
         "a21fc71e-68c5-4200-9d2a-368cd0c3416d",
@@ -672,7 +672,7 @@
     {
       "dutyID": "283d6f79-0882-4291-80da-166ef7e67641",
       "dutyDetail": "Undertake and supervise relevant fieldwork activities, e.g., geological mapping, site investigation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f207e0c2-d10d-4fbd-bdf6-934270d615f1",
         "a21fc71e-68c5-4200-9d2a-368cd0c3416d",
@@ -714,7 +714,7 @@
     {
       "dutyID": "3cc4c0ce-dd09-4593-851f-521c62c0d935",
       "dutyDetail": "Update geoscientific representations using new information. Collect and correlate additional data to continue to develop understanding of project requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f207e0c2-d10d-4fbd-bdf6-934270d615f1",
         "a21fc71e-68c5-4200-9d2a-368cd0c3416d",
@@ -764,7 +764,7 @@
     {
       "dutyID": "b62dd3c7-e7fb-4864-a315-a91aaf95b8f6",
       "dutyDetail": "Prepare factual and interpretative reports, figures, and diagrams.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f207e0c2-d10d-4fbd-bdf6-934270d615f1",
         "a21fc71e-68c5-4200-9d2a-368cd0c3416d",
@@ -818,7 +818,7 @@
     {
       "dutyID": "3382ab00-267d-4f9c-ba23-74cc29ffcd14",
       "dutyDetail": "Present findings and contribute to developing cost effective solutions and providing advice on possible geoscientific solutions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f207e0c2-d10d-4fbd-bdf6-934270d615f1",
         "a21fc71e-68c5-4200-9d2a-368cd0c3416d",
@@ -873,7 +873,7 @@
     {
       "dutyID": "80b31d4c-f9c8-4408-aaa5-d63d2ce64706",
       "dutyDetail": "Develop and follow health and safety plans to cover identified works.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f207e0c2-d10d-4fbd-bdf6-934270d615f1",
         "a21fc71e-68c5-4200-9d2a-368cd0c3416d",
@@ -912,7 +912,7 @@
     {
       "dutyID": "a0987da1-48d3-4603-81b6-5196e09951f7",
       "dutyDetail": "Develop and maintain relationships, adapting communication style and format to different audiences.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f207e0c2-d10d-4fbd-bdf6-934270d615f1",
         "a21fc71e-68c5-4200-9d2a-368cd0c3416d",
@@ -945,7 +945,7 @@
     {
       "dutyID": "d1647f7f-48c1-4beb-9eb6-373ecad10cca",
       "dutyDetail": "Manage change and schedule programme activities to ensure projects are delivered on time and within budget.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f207e0c2-d10d-4fbd-bdf6-934270d615f1",
         "a21fc71e-68c5-4200-9d2a-368cd0c3416d",
@@ -983,7 +983,7 @@
     {
       "dutyID": "408c736f-2945-4b9b-9446-c27d575e8120",
       "dutyDetail": "Keep up to date with advances in working practices and technological developments, sharing good practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f207e0c2-d10d-4fbd-bdf6-934270d615f1",
         "a21fc71e-68c5-4200-9d2a-368cd0c3416d",
