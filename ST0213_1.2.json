@@ -320,7 +320,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-12-21T00:00:00 +00:00",
@@ -340,12 +340,12 @@
     "Stylist"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Hair, Beauty and Aesthetics",
+  "pathway": "Hair, beauty and aesthetics",
   "cluster": "Hair specialist",
   "clusterId": "113",
-  "clusterDescription": null,
+  "clusterDescription": "Clean, condition, cut, style, finish, and colour hair including facial hair",
   "createdDate": "2024-03-11T13:25:16 +00:00",
   "lastUpdated": "2023-05-23T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-12-21T00:00:00 +00:00",
@@ -383,7 +383,7 @@
     {
       "dutyID": "2c9f3091-6acf-4951-8141-c20ca24d7b9b",
       "dutyDetail": "Provide a positive impression of yourself, organisation and the hairdressing industry.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cbd28024-f951-44ad-8f4f-541bfabeb24a",
         "8ad0f005-2409-449f-9956-886ceb64c90e",
@@ -438,7 +438,7 @@
     {
       "dutyID": "99e12ab3-1439-46d3-8141-43fa6f3a8fff",
       "dutyDetail": "Adhere to health and safety, infection control, legal, industry and organisational requirements, industry protocols and manufacturer instructions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cbd28024-f951-44ad-8f4f-541bfabeb24a",
         "8ad0f005-2409-449f-9956-886ceb64c90e",
@@ -505,7 +505,7 @@
     {
       "dutyID": "737e95a9-7a82-451e-89d6-23f7eda63d24",
       "dutyDetail": "Advise, consult, examine and analyse the hair, skin and scalp.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cbd28024-f951-44ad-8f4f-541bfabeb24a",
         "8ad0f005-2409-449f-9956-886ceb64c90e",
@@ -560,7 +560,7 @@
     {
       "dutyID": "7095842a-7d67-4498-83d8-383269fc09d1",
       "dutyDetail": "Shampoo, condition and treat hair and scalp.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cbd28024-f951-44ad-8f4f-541bfabeb24a",
         "8ad0f005-2409-449f-9956-886ceb64c90e",
@@ -615,7 +615,7 @@
     {
       "dutyID": "62e202c4-cc34-46f5-bf76-ffe293a62d0f",
       "dutyDetail": "Cut hair using a range of techniques to create a variety of looks.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cbd28024-f951-44ad-8f4f-541bfabeb24a",
         "8ad0f005-2409-449f-9956-886ceb64c90e",
@@ -666,7 +666,7 @@
     {
       "dutyID": "2a9c7978-2698-44cf-b8a4-162015e12c36",
       "dutyDetail": "Style, set, dress and finish hair using a variety of techniques to create a variety of looks.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cbd28024-f951-44ad-8f4f-541bfabeb24a",
         "8ad0f005-2409-449f-9956-886ceb64c90e",
@@ -719,7 +719,7 @@
     {
       "dutyID": "66c33d04-73c5-4520-ac7e-b7cd22696b86",
       "dutyDetail": "Change the hair classification type by one classification using chemical services ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cbd28024-f951-44ad-8f4f-541bfabeb24a",
         "8ad0f005-2409-449f-9956-886ceb64c90e",
@@ -775,7 +775,7 @@
     {
       "dutyID": "44048d17-4ee3-4c91-b9ce-a90a4166d13e",
       "dutyDetail": "Perform a range of chemical services to change the colour depth and tone.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cbd28024-f951-44ad-8f4f-541bfabeb24a",
         "8ad0f005-2409-449f-9956-886ceb64c90e",
@@ -830,7 +830,7 @@
     {
       "dutyID": "d6bd89f1-100d-46e3-bf6e-042d8ee2e92e",
       "dutyDetail": "Use, apply and recommend a range of products, tools and equipment for a range of services.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cbd28024-f951-44ad-8f4f-541bfabeb24a",
         "8ad0f005-2409-449f-9956-886ceb64c90e",
@@ -886,7 +886,7 @@
     {
       "dutyID": "54f84738-4d09-460a-9a45-40720d51827c",
       "dutyDetail": "Maintain up to date knowledge and skills of new and emerging hairstyles, trends, techniques, products, tools and equipment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8ad0f005-2409-449f-9956-886ceb64c90e",
         "5da96d1e-c6e6-4dcc-bf02-7b3eae5eaa2e",
