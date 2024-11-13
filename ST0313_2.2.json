@@ -267,7 +267,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2017-12-17T00:00:00 +00:00",
@@ -288,7 +288,7 @@
     "Contract associate",
     "Performance monitoring officer"
   ],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Procurement",
   "cluster": "Procurement  manager",
@@ -322,7 +322,7 @@
     {
       "dutyID": "d41c8d71-6ddc-4289-b6df-faf2b5471484",
       "dutyDetail": "Contribute to the formulation of the procurement category strategy with recommendations generated for their assigned portfolio of work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ca1ceb75-a13e-4f18-b087-cff5315f38cf",
         "3c558bec-e1fe-4792-921f-10d880d85920"
@@ -345,7 +345,7 @@
     {
       "dutyID": "aa9f3799-27b8-44a2-af48-4e115263b8e0",
       "dutyDetail": "Contribute to, and where appropriate manage, all stages of the procurement process, within their portfolio of work, collaborating with stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6d6e2708-ff7c-4810-a3fd-19056a434132",
         "58380206-9408-4ccc-9a7a-30b607bd3cce"
@@ -372,7 +372,7 @@
     {
       "dutyID": "54978e3d-efa0-4c37-bf22-6f2ea7d4c44b",
       "dutyDetail": "Manage, advise and coach stakeholders on procurement processes, techniques and policies, procedures to ensure compliance with legal requirements, and to drive the best possible outcomes for the organisation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0883e193-b14d-405a-bfaf-8de0dd0b3809",
         "aff7a335-8b13-45e4-b309-c225921bb4d3"
@@ -394,7 +394,7 @@
     {
       "dutyID": "7ee2d483-8b3c-4b4e-b3b1-87c8d5b4c377",
       "dutyDetail": "Maintain a business or operational risk and opportunity register, for their own portfolio, in collaboration with stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3c558bec-e1fe-4792-921f-10d880d85920",
         "aff7a335-8b13-45e4-b309-c225921bb4d3"
@@ -417,7 +417,7 @@
     {
       "dutyID": "1346631a-58cf-4c2f-af60-44bd3458ba6c",
       "dutyDetail": "Undertake supply market and supplier analysis to identify procurement opportunities and risks to inform the sourcing strategies within the assigned portfolio.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6d6e2708-ff7c-4810-a3fd-19056a434132",
         "aff7a335-8b13-45e4-b309-c225921bb4d3"
@@ -441,7 +441,7 @@
     {
       "dutyID": "d17cf4b6-d36e-4e92-81c5-b267cc3cebe9",
       "dutyDetail": "Identify and mitigate compliance risks to procurement processes, within their portfolio of work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "58380206-9408-4ccc-9a7a-30b607bd3cce"
       ],
@@ -459,7 +459,7 @@
     {
       "dutyID": "735f2c88-ac07-4781-9007-851420ed8aff",
       "dutyDetail": "Deliver targeted management information to their stakeholder groups.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ca1ceb75-a13e-4f18-b087-cff5315f38cf",
         "0883e193-b14d-405a-bfaf-8de0dd0b3809"
@@ -484,7 +484,7 @@
     {
       "dutyID": "18d8fcae-66a8-423c-9dee-ad223e0b72d2",
       "dutyDetail": "Manage suppliers and stakeholders to ensure successful contractual delivery of purchased goods and services and take appropriate actions to address any shortfalls or excess in the assigned portfolio.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3c558bec-e1fe-4792-921f-10d880d85920",
         "aff7a335-8b13-45e4-b309-c225921bb4d3"
@@ -507,7 +507,7 @@
     {
       "dutyID": "1193c22b-32c3-4df5-9376-5d9a9c1d803b",
       "dutyDetail": "Within their portfolio of work, undertake a total cost ownership analysis to ensure overall value is delivered over the contract term.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ca1ceb75-a13e-4f18-b087-cff5315f38cf",
         "3c558bec-e1fe-4792-921f-10d880d85920"
@@ -527,7 +527,7 @@
     {
       "dutyID": "e3f11840-6582-4684-a57c-0bfa71c21f10",
       "dutyDetail": "Contribute to the negotiation of the terms and conditions of the 3rd party supply.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0883e193-b14d-405a-bfaf-8de0dd0b3809",
         "58380206-9408-4ccc-9a7a-30b607bd3cce"
@@ -547,7 +547,7 @@
     {
       "dutyID": "5df06a68-460c-4c59-bdd7-a45d1792e610",
       "dutyDetail": "Undertake analysis of spend and  review contracts and supplier performance, within their assigned portfolio of work, to ensure objectives are being achieved and maintained now and in the future.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aff7a335-8b13-45e4-b309-c225921bb4d3"
       ],
@@ -571,7 +571,7 @@
     {
       "dutyID": "c93c0405-6e1f-4f35-824d-0baaf9562875",
       "dutyDetail": "Ensure accurate and up to date contractual information is maintained within the organisation's guidelines.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0883e193-b14d-405a-bfaf-8de0dd0b3809"
       ],
@@ -590,7 +590,7 @@
     {
       "dutyID": "3d703a35-9cfc-4ed6-a139-cf7b057d5a33",
       "dutyDetail": "Monitor supplier performance and escalate if required.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "58380206-9408-4ccc-9a7a-30b607bd3cce",
         "aff7a335-8b13-45e4-b309-c225921bb4d3"
