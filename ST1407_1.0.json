@@ -439,7 +439,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-11-30T00:00:00 +00:00",
@@ -467,10 +467,10 @@
   "greenJobTitles": [
     "Hydrogen production technician"
   ],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Maintenance, Installation & Repair",
-  "cluster": "Manufacturing/Process Maintenance Operative/Technician",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Manufacturing or process maintenance operative or technician",
   "clusterId": "71",
   "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2024-03-07T13:36:29 +00:00",
@@ -492,7 +492,7 @@
     {
       "dutyID": "bcdae5c1-772d-4696-9d9e-a5cf7c86f2b7",
       "dutyDetail": "Run and maintain process industry plant and equipment in line with operational parameters. For example, pressures, flows, temperatures, levels, production targets, and specification.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1187e93e-5021-471c-b042-3b47d498bae7"
       ],
@@ -538,7 +538,7 @@
     {
       "dutyID": "7bb2d771-14d0-4f76-8c8f-b932920e6885",
       "dutyDetail": "Maintain the work area following health, safety, environmental and risk management systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c4b312cc-2e1b-4cd2-822a-e669217e7af3",
         "93d90d9f-67ed-426d-b0e3-4c2e964234a8"
@@ -564,7 +564,7 @@
     {
       "dutyID": "8d3bae76-3994-4b01-9bb5-9ccf42af2a19",
       "dutyDetail": "Resolve and report, or escalate, process, quality, health and safety, environment, and operating environment issues when operating out of normal parameters. For example, out of specification parameter.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3b465fb2-a523-4fd0-91d3-1311c9b4a603"
       ],
@@ -598,7 +598,7 @@
     {
       "dutyID": "fa994050-d0be-42da-b88e-16d08eed6a01",
       "dutyDetail": "Undertake quality assurance processes. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "8f22abef-5a2e-434a-83cc-6582de867e26",
@@ -611,7 +611,7 @@
     {
       "dutyID": "d276d9e9-8139-476f-be4b-0fc268f05cfe",
       "dutyDetail": "Conduct dispatch of intermediate product or final processed product.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1187e93e-5021-471c-b042-3b47d498bae7"
       ],
@@ -656,7 +656,7 @@
     {
       "dutyID": "8cf514ae-af83-4dc8-aa7e-b5dbbe0992cb",
       "dutyDetail": "Conduct handover responsibilities - receiving information from or providing information to other shifts or maintenance teams.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "55b5a8eb-2813-4e04-9b62-49459b75b89d"
       ],
@@ -686,7 +686,7 @@
     {
       "dutyID": "4f77e5bd-0c13-40b2-b02a-7b98f798d02c",
       "dutyDetail": "Complete process documentation - digital or paper based. For example, process and production records, traceability records, and quality assurance records.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "164fb2d9-6001-4566-b626-b72c36e1e09f",
@@ -705,7 +705,7 @@
     {
       "dutyID": "16bbad6b-52ec-4536-a5e5-0e5f11ea0158",
       "dutyDetail": "Conduct first line routine maintenance and testing of process and plant equipment. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1187e93e-5021-471c-b042-3b47d498bae7"
       ],
@@ -734,7 +734,7 @@
     {
       "dutyID": "640891e2-7585-4306-9c02-16b47a0271c0",
       "dutyDetail": "Prepare plant for shutdown for example, for maintenance, overall, and decommissioning. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1187e93e-5021-471c-b042-3b47d498bae7"
       ],
@@ -781,7 +781,7 @@
     {
       "dutyID": "5466ae46-9aad-489e-a131-eb1fb7c228b8",
       "dutyDetail": "Bring process industry equipment back on-line.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1187e93e-5021-471c-b042-3b47d498bae7"
       ],
@@ -828,7 +828,7 @@
     {
       "dutyID": "eaf04aed-5c56-436c-b3b2-1b01ca103c6e",
       "dutyDetail": "Participate in risk assessment activities. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "55b5a8eb-2813-4e04-9b62-49459b75b89d"
       ],
@@ -852,7 +852,7 @@
     {
       "dutyID": "a2f8babd-d66c-4baa-b5f6-4f8858ec819b",
       "dutyDetail": "Participate in continuous improvement activities. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "55b5a8eb-2813-4e04-9b62-49459b75b89d",
         "a1da7df6-244f-497f-b03f-ce55fabd1033"
@@ -883,7 +883,7 @@
     {
       "dutyID": "66fd1166-1410-4664-a82c-30cb443a9724",
       "dutyDetail": "Support audits - internal or external. For example, supply information.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "55b5a8eb-2813-4e04-9b62-49459b75b89d"
       ],
