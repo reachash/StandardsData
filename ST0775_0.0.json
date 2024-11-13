@@ -191,7 +191,7 @@
     "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "",
@@ -206,12 +206,12 @@
   "coreAndOptions": false,
   "typicalJobTitles": [],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Manufacturing, Process and Control",
+  "pathway": "Engineering, manufacturing, process and control",
   "cluster": "Plant and process engineer",
   "clusterId": "266",
-  "clusterDescription": null,
+  "clusterDescription": "Develop and improve the operation and development of manufacturing processes and systems and enable them to operate safely and efficiently",
   "createdDate": "2020-09-16T08:38:14 +00:00",
   "lastUpdated": "2024-04-24T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
@@ -224,7 +224,7 @@
     {
       "dutyID": "ab6d2e92-5710-4ced-84ab-6ef3e3cd5be9",
       "dutyDetail": "Identify radiation hazards associated with work activities, facilities and equipment. Identify who may be at risk from the hazard and use technical knowledge to estimate the magnitude of the risk e.g. by appraising workplace monitoring results, manufacturers’ data, dose histories and shielding calculations as appropriate.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "587817a4-f057-44c9-b2ae-783096344f16",
         "da5ca150-59e8-4779-b758-cff8e744c675"
@@ -255,7 +255,7 @@
     {
       "dutyID": "d781f329-cfb2-4242-a1e9-cb81eb1353fa",
       "dutyDetail": "Evaluate control or protection measures required to reduce radiation risks as far as is reasonably practicable (e.g. use of engineering and administrative controls). Use own judgment based on advanced knowledge of the hazard and legislative requirements to determine the adequacy of the controls. Provide authoritative advice on the implementation of any control measures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "587817a4-f057-44c9-b2ae-783096344f16",
         "da5ca150-59e8-4779-b758-cff8e744c675",
@@ -283,7 +283,7 @@
     {
       "dutyID": "57eec520-eca4-4a91-9bb1-c5c6a728791c",
       "dutyDetail": "Produce radiation protection documentation that contributes to the management of radiation safety. Use expert knowledge to produce reports or procedures that contain instructions, recommendations or advice relating to legal requirements, codes of practice or relevant good practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "da5ca150-59e8-4779-b758-cff8e744c675",
         "034972ce-79fd-4943-9548-4fb5b8feb722",
@@ -314,7 +314,7 @@
     {
       "dutyID": "9e3d4b3f-3f18-4a26-b774-dbb5c2ce3dd0",
       "dutyDetail": "Determine the requirements of a workplace-monitoring programme. Initiate, design and direct or lead surveys to monitor radiation levels in the workplace. Use own judgement to identify the most appropriate equipment and technique to employ based on advanced technical and practical knowledge of the radiation hazard, monitoring equipment types and techniques.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "587817a4-f057-44c9-b2ae-783096344f16",
         "da5ca150-59e8-4779-b758-cff8e744c675",
@@ -344,7 +344,7 @@
     {
       "dutyID": "1b458b4f-df92-43d9-ba50-b911587a0848",
       "dutyDetail": "Determine the most appropriate method for monitoring individuals’ exposure to radiation. Use detailed knowledge of the equipment and techniques available to ensure radiation exposures to employees and members of the public are adequately assessed. Use knowledge of legislation to ensure compliance with the requirements for recording and keeping of radiation dose information.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "587817a4-f057-44c9-b2ae-783096344f16",
         "da5ca150-59e8-4779-b758-cff8e744c675"
@@ -374,7 +374,7 @@
     {
       "dutyID": "ff4c9251-346f-4fa5-a9c7-a646e1a8ecb8",
       "dutyDetail": "Review maintenance or testing requirements for radiation protection equipment. Use detailed knowledge to review plans for maintenance/testing prior to, or during, use to ensure it meets both legislative and manufacturer’s requirements. Use technical knowledge to review the results of any maintenance/testing and use own judgement to identify if the equipment will provide its intended radiation protection function.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "da5ca150-59e8-4779-b758-cff8e744c675",
         "034972ce-79fd-4943-9548-4fb5b8feb722"
@@ -403,7 +403,7 @@
     {
       "dutyID": "f6b751aa-28c5-404e-8f04-cdea5c69c185",
       "dutyDetail": "Use technical expertise to determine adequate arrangements for the use of radiation generators and radioactive materials associated with their use of radiation in the workplace. This may include storage, movement, accountancy and disposal in accordance with legislative requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "da5ca150-59e8-4779-b758-cff8e744c675",
         "034972ce-79fd-4943-9548-4fb5b8feb722"
@@ -437,7 +437,7 @@
     {
       "dutyID": "55464ccd-a70b-4136-bcfa-e33bc4a01397",
       "dutyDetail": "Undertake safety audits. Critically evaluate work with radiation by inspecting facilities and reviewing documentation to identify technical and operational issues that may involve many interacting factors (e.g. other hazards and human factors) which may affect radiation protection measures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "034972ce-79fd-4943-9548-4fb5b8feb722",
         "841b8f27-9205-4f2e-887b-376d4fe4cccb"
@@ -466,7 +466,7 @@
     {
       "dutyID": "bb08690e-3d3c-4d64-82c1-477a6bb27dd4",
       "dutyDetail": "Undertake investigations and analysis of accidents and incidents. Working with others, apply technical and practical knowledge of the incident to address problems that will involve several interacting factors (e.g. other hazards, human factors) and make recommendations on remedial actions. Apply appropriate techniques to estimate the magnitude of radiation exposure from the accident or incident.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "034972ce-79fd-4943-9548-4fb5b8feb722",
         "f1bfe4e2-0ab7-4ec4-8f23-4484310e94a7"
@@ -499,7 +499,7 @@
     {
       "dutyID": "847d4663-cba3-4475-bb66-6dd484865e40",
       "dutyDetail": "Evaluate radiation safety performance by critically analysing data provided from measurements, audits and investigations. Use own judgement to identify adverse trends and propose solutions to improve performance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "034972ce-79fd-4943-9548-4fb5b8feb722",
         "841b8f27-9205-4f2e-887b-376d4fe4cccb"
@@ -525,7 +525,7 @@
     {
       "dutyID": "ea0aae8f-a708-4804-90d3-ad2e0990463b",
       "dutyDetail": "Effectively communicate radiation risks to others by preparing and undertaking briefings relating to work with radiation. Use technical knowledge to act as a subject matter expert in radiation protection to support the development or delivery of radiation protection training.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "da5ca150-59e8-4779-b758-cff8e744c675",
         "034972ce-79fd-4943-9548-4fb5b8feb722"
@@ -560,7 +560,7 @@
     {
       "dutyID": "e03673ab-2c04-41c9-8c86-3c619fcff289",
       "dutyDetail": "Provide technical expertise and leadership on radiation protection matters in the event of a radiation protection accident or emergency response situation. Apply advanced technological knowledge and understanding of the incident to address problems that will have limited definition and many interacting factors to formulate radiation protection advice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "da5ca150-59e8-4779-b758-cff8e744c675",
         "034972ce-79fd-4943-9548-4fb5b8feb722",
@@ -593,7 +593,7 @@
     {
       "dutyID": "407f116d-83c6-4efe-8e02-890597f61d4f",
       "dutyDetail": "Coach team members and others (e.g. customers, those in other departments) as relevant with respect to radiation protection activities to improve radiation safety performance. Demonstrate safety leadership and continuously role model safe working practices. Challenge unsafe practice and procedural non-conformance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "034972ce-79fd-4943-9548-4fb5b8feb722",
         "841b8f27-9205-4f2e-887b-376d4fe4cccb"
@@ -617,7 +617,7 @@
     {
       "dutyID": "ea2fa7d1-7229-41ac-9a15-22807b5c200a",
       "dutyDetail": "Pursue a programme of continuous professional development in accordance with professional body recognition (e.g. Chartered Radiation Protection Professional) or statutory requirement (e.g. Radiation Protection Advisor or Radiation Protection Advisor body membership).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "da5ca150-59e8-4779-b758-cff8e744c675"
       ],
