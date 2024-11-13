@@ -190,7 +190,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2015-08-27T00:00:00 +00:00",
@@ -209,12 +209,12 @@
     "Workplace pensions administrator"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Financial",
   "cluster": "Financial services administrator",
   "clusterId": "240",
-  "clusterDescription": null,
+  "clusterDescription": "Provide highly accurate support to operations and administration across wide areas of financial service areas including research and analysis compliant with relevant regulations. Deliver support to clients and to client account management (risk, collection, enforcement, recovery)",
   "createdDate": "2023-06-30T13:15:59 +00:00",
   "lastUpdated": "2023-08-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-08-27T00:00:00 +00:00",
@@ -227,7 +227,7 @@
     {
       "dutyID": "dd8ee175-eca7-4a96-ac4c-3e1054a52b14",
       "dutyDetail": "Provide customer service to pension scheme members or plan holders, in line with organisation standards and Service Level Agreements; treating each person fairly and providing a courteous, friendly, efficient, consistent and compliant service. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40ef1918-4cc0-48d9-88a9-7e9a41b35717",
         "55c0b295-4f15-43ed-b8fa-18f69ea45281",
@@ -260,7 +260,7 @@
     {
       "dutyID": "fbb4a3cc-2566-4532-a06b-3aa0a43acf1f",
       "dutyDetail": "Communicate routine information to customers or pension scheme members or plan holders using various communication channels. Identify when a member requires an alternative or additional service and refer them through to the appropriate area.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40ef1918-4cc0-48d9-88a9-7e9a41b35717"
       ],
@@ -288,7 +288,7 @@
     {
       "dutyID": "72d0e944-8df9-4f2d-941f-a94cbe27ed60",
       "dutyDetail": "Resolve pension queries and requests using standard letters and reference to procedures and develop knowledge of customers’ pension schemes or plans to support delivery.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40ef1918-4cc0-48d9-88a9-7e9a41b35717",
         "55c0b295-4f15-43ed-b8fa-18f69ea45281",
@@ -319,7 +319,7 @@
     {
       "dutyID": "f529d8bc-cae5-4741-b46c-1c036b4cfc24",
       "dutyDetail": "Recognise and escalate potential problems or potential complaint cases in line with organisational procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40ef1918-4cc0-48d9-88a9-7e9a41b35717",
         "55c0b295-4f15-43ed-b8fa-18f69ea45281",
@@ -350,7 +350,7 @@
     {
       "dutyID": "50cd1b90-25c0-48f8-88db-e8d600097588",
       "dutyDetail": "Calculate and process members’ benefits based on their entitlements under the rules of the pension scheme or plan and applicable regulations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "55c0b295-4f15-43ed-b8fa-18f69ea45281"
       ],
@@ -376,7 +376,7 @@
     {
       "dutyID": "9a5bd68d-04ba-4bb9-a2a8-fa6658b0cc15",
       "dutyDetail": "Ensure that all organisational procedures are followed when undertaking work for customers to ensure that processes are carried out effectively and efficiently",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40ef1918-4cc0-48d9-88a9-7e9a41b35717",
         "55c0b295-4f15-43ed-b8fa-18f69ea45281",
@@ -408,7 +408,7 @@
     {
       "dutyID": "aad33579-26c7-4839-8fe7-7aa642934808",
       "dutyDetail": "Contribute to continuous improvement activity within organisation to identify any areas where the service to customers, or internal procedures could be improved",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "203b0a89-5898-4093-ac39-dd5f1c5628ad",
         "4906a828-532d-4866-b872-0a3ecc705349",
@@ -436,7 +436,7 @@
     {
       "dutyID": "a9052a65-e31f-4522-a1a0-736394ea3507",
       "dutyDetail": "Undertake, under supervision, elements of specialised technical and administrative pensions processes and procedures which require interpretation and judgement to achieve satisfactory and required outcomes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40ef1918-4cc0-48d9-88a9-7e9a41b35717",
         "203b0a89-5898-4093-ac39-dd5f1c5628ad"
@@ -464,7 +464,7 @@
     {
       "dutyID": "5e88a7a4-73af-4a44-a0cb-f9b6a895183b",
       "dutyDetail": "Use digital systems to deliver accurate and efficient pensions administration activities safely and securely. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "9722a6aa-3998-4e5c-ae80-ae64d77ca217",
@@ -489,7 +489,7 @@
     {
       "dutyID": "92cb9814-5160-41a2-9fa3-5705bfb0d8e1",
       "dutyDetail": "Manage customer, member and pension scheme or plan data and information safely and securely.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40ef1918-4cc0-48d9-88a9-7e9a41b35717"
       ],
@@ -519,7 +519,7 @@
     {
       "dutyID": "6ec4d5e0-4a8d-4ca8-8da8-8825b4bbc9d0",
       "dutyDetail": "Monitor personal performance and workload to ensure compliance with team targets and support others within the organisation to ensure the Service Level Agreements (SLAs) are met. For example, ensure that cases are followed up on a timely basis and issues identified and resolved quickly especially where there is a risk that financial, or customer service standards may be breached.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "55c0b295-4f15-43ed-b8fa-18f69ea45281",
         "4906a828-532d-4866-b872-0a3ecc705349",
@@ -544,7 +544,7 @@
     {
       "dutyID": "25699897-73bb-4486-80ae-add5e4f28a86",
       "dutyDetail": "Take responsibility for personal and professional development in line with organisational expectations. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "55c0b295-4f15-43ed-b8fa-18f69ea45281",
         "203b0a89-5898-4093-ac39-dd5f1c5628ad",
@@ -571,7 +571,7 @@
     {
       "dutyID": "44f6a47d-6e8c-4cf2-9215-1f5318bce92f",
       "dutyDetail": "Ensure communications are accurate, compliant with data legislation and secure, professional, and courteous and that complex technical issues are explained in clear, non-technical language.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40ef1918-4cc0-48d9-88a9-7e9a41b35717",
         "235bd934-67d7-432e-966b-3244be7bbd57"
@@ -604,7 +604,7 @@
     {
       "dutyID": "67e99274-ec80-432e-81d1-6dd780c88c1e",
       "dutyDetail": "Liaise with key stakeholders, for example Department of Work and Pensions, HMRC, The Pensions Regulator and the Information Commissioner.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "235bd934-67d7-432e-966b-3244be7bbd57",
         "4d98dbad-f5db-4877-aa76-429bd405b962"
