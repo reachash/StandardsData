@@ -288,7 +288,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2022-10-11T00:00:00 +00:00",
@@ -315,10 +315,10 @@
     "Skilled grounds person"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Agriculture, Land Management and Production",
-  "cluster": "Landscape Horticulture Operative/Technician",
+  "cluster": "Landscape horticulture operative or technician",
   "clusterId": "161",
   "clusterDescription": "The design, construction and maintenance of gardens, designed landscapes and sports turf facilities for private, commercial and community use",
   "createdDate": "2022-11-04T11:32:06 +00:00",
@@ -349,7 +349,7 @@
     {
       "dutyID": "df795023-d545-481e-ab96-bc78fbab380b",
       "dutyDetail": "Supervise and undertake the preparation and maintenance of the playing surface in accordance with governing bodies requirements, rules and regulations.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e9b0b2c7-b14f-455a-86bd-6d4fe26b2300",
         "75d34df3-6efa-47b7-89e4-0b535150f949",
@@ -394,7 +394,7 @@
     {
       "dutyID": "f04fca0c-6701-4e2c-bddd-f6810c1faa01",
       "dutyDetail": "Evaluate performance and agronomic data of playing surfaces (e.g. weather data, soil conditions, performance quality standard).  Recommends improvements to turf health and playing surface conditions. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "df1eefdd-334a-4cd2-9612-034d4209bf07",
@@ -411,7 +411,7 @@
     {
       "dutyID": "70f568ec-b3c3-4553-923f-17701aab3817",
       "dutyDetail": "Monitor and control threats to turf health and apply sustainable integrated pest management practices (encompassing weeds, pests, and diseases).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "75d34df3-6efa-47b7-89e4-0b535150f949",
         "515b48f0-0c17-4ab0-8fe6-072f234d9da1",
@@ -435,7 +435,7 @@
     {
       "dutyID": "8c587eb4-8efa-4ae4-8568-b500caeddd12",
       "dutyDetail": "Supervise and implement processes, procedures and strategies for the effective usage of irrigation and drainage systems to maximise sports turf health and surface performance. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e9b0b2c7-b14f-455a-86bd-6d4fe26b2300",
         "75d34df3-6efa-47b7-89e4-0b535150f949",
@@ -473,7 +473,7 @@
     {
       "dutyID": "a98e59f0-cf42-4388-a739-b0ca0110c749",
       "dutyDetail": "Prepare sports turf machinery and supervise maintenance programmes for equipment and machinery.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "515b48f0-0c17-4ab0-8fe6-072f234d9da1",
         "57e1521d-ff63-4dd1-90f8-2ab7fb624adc"
@@ -500,7 +500,7 @@
     {
       "dutyID": "af96c5fc-2cc5-45fe-9cba-8511cb742761",
       "dutyDetail": "Agree the specification and implement resource and budget requirements for sports turf projects.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "75d34df3-6efa-47b7-89e4-0b535150f949",
         "5b62086a-6f4f-4149-89ba-611c68b8c2a3"
@@ -517,7 +517,7 @@
     {
       "dutyID": "c5fbbf7e-490b-4e65-a5c2-d35de469d7c5",
       "dutyDetail": "Supervise and mentor operatives and report on staff performance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e9b0b2c7-b14f-455a-86bd-6d4fe26b2300",
         "75d34df3-6efa-47b7-89e4-0b535150f949",
@@ -545,7 +545,7 @@
     {
       "dutyID": "d36e7440-9920-4a36-91dc-ad9e67d0a5a7",
       "dutyDetail": "Supervise the adoption of sustainable and environmentally friendly working practices.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e9b0b2c7-b14f-455a-86bd-6d4fe26b2300",
         "75d34df3-6efa-47b7-89e4-0b535150f949",
@@ -576,7 +576,7 @@
     {
       "dutyID": "12b9b6c5-6156-4848-a87e-049cf78d1914",
       "dutyDetail": "Ensure a safe working environment and the adoption of legal working practices including the reviewing of risk assessments. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "7e2930cc-a695-4863-ac4e-9d8880e1a88e"
@@ -591,7 +591,7 @@
     {
       "dutyID": "a86d1528-01da-4a2c-835f-4b5936dde0e9",
       "dutyDetail": "Maintain own personal development by keeping up to date with current industry practices.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7848966b-e12c-4b5b-8730-ff901bb7dd11",
         "a5defd66-303f-4377-8d8a-00d086dd1e89"
@@ -609,7 +609,7 @@
     {
       "dutyID": "caf81e7d-ab6a-43a1-832e-b150c7ecd838",
       "dutyDetail": "Communicate with stakeholders on the factors affecting the condition of the sports turf and manage expectations. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0dd1cfca-22a3-41d7-a53a-e040cc715ec6",
         "70396203-b86a-47c8-a26f-1dcd7f01b09d",
@@ -638,7 +638,7 @@
     {
       "dutyID": "7019fee4-122a-4640-adb3-661ed1943b5a",
       "dutyDetail": "Plan, prepare for and supervise the construction or renovation of the sports turf facilities. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "0dd049ef-f2e1-493f-90bc-6ad58da792a3",
