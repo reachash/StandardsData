@@ -285,7 +285,7 @@
     "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-06-26T00:00:00 +00:00",
@@ -303,12 +303,12 @@
     "Mobile transport refrigeration technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Maintenance, Installation & Repair",
-  "cluster": "Service, repair and or or overhaul operative or technician",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Service, repair and/or overhaul operative or technician",
   "clusterId": "19",
-  "clusterDescription": null,
+  "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2023-06-30T12:55:04 +00:00",
   "lastUpdated": "2024-07-01T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-06-26T00:00:00 +00:00",
@@ -330,7 +330,7 @@
     {
       "dutyID": "b410414e-2431-4b1e-8e8c-41498e72e0dc",
       "dutyDetail": "Conduct dynamic risk assessments before and throughout each job.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "386552cd-4d5c-4aec-a54b-6b9fef1806d7",
         "c3539d8d-a5e7-48ca-9259-4d074f7d914e"
@@ -356,7 +356,7 @@
     {
       "dutyID": "061cb181-fc74-4e48-969d-de20477f040d",
       "dutyDetail": "Install Transport Refrigeration Units (TRUs) to a range of vehicles including HGV trucks, trailers, and home delivery vans.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8bab9ce4-fd7c-4c56-8ce8-642427e55b24",
         "0d404b29-a914-43e1-a44c-44f9d1d23327",
@@ -404,7 +404,7 @@
     {
       "dutyID": "1ae5bd88-fc2a-4183-9df3-ac62a0bc4c1a",
       "dutyDetail": "Commission new TRUs to ensure the unit tests correctly and pulls the correct temperatures on diesel and electric vehicles.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8bab9ce4-fd7c-4c56-8ce8-642427e55b24",
         "0d404b29-a914-43e1-a44c-44f9d1d23327",
@@ -449,7 +449,7 @@
     {
       "dutyID": "3b18ceb0-e14d-415d-9bd2-cb02e34dca56",
       "dutyDetail": "Inspect or service TRUs both in the depot and at the client’s premises.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8bab9ce4-fd7c-4c56-8ce8-642427e55b24",
         "0d404b29-a914-43e1-a44c-44f9d1d23327",
@@ -501,7 +501,7 @@
     {
       "dutyID": "3aa7ae0c-c60f-4be6-8540-9be466d82489",
       "dutyDetail": "Fault-find and repair TRUs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8bab9ce4-fd7c-4c56-8ce8-642427e55b24",
         "0d404b29-a914-43e1-a44c-44f9d1d23327",
@@ -536,7 +536,7 @@
     {
       "dutyID": "ff682395-f0f2-4afe-ba97-60b6f8af64ec",
       "dutyDetail": "Attend breakdown calls, performing quick diagnoses in order to carry out emergency repairs on TRUs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8bab9ce4-fd7c-4c56-8ce8-642427e55b24",
         "0d404b29-a914-43e1-a44c-44f9d1d23327",
@@ -573,7 +573,7 @@
     {
       "dutyID": "5baaa817-a9bc-4fcc-bd13-e1e4b2b39abe",
       "dutyDetail": "Complete legal documentation for customers and employer.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "398a14fc-c748-48ee-93b9-90202764999b",
@@ -590,7 +590,7 @@
     {
       "dutyID": "04f89770-7c9d-41be-8c66-5e79beea3c67",
       "dutyDetail": "Liaise with customers: explain clearly the work being carried out, updating them on progress and providing estimates.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f1e52a25-e258-426e-b6b3-fe2105242df8"
       ],
@@ -610,7 +610,7 @@
     {
       "dutyID": "fada2f60-4c20-46e3-a651-a8c0026effdc",
       "dutyDetail": "Maintain a complete stock of base level equipment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -620,7 +620,7 @@
     {
       "dutyID": "41955618-ed30-4205-b212-bde95d9d214e",
       "dutyDetail": "Conduct driver training with the customer to ensure the most efficient use of TRUs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f1e52a25-e258-426e-b6b3-fe2105242df8"
       ],
