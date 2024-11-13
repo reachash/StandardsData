@@ -224,7 +224,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2015-08-27T00:00:00 +00:00",
@@ -239,10 +239,10 @@
   "coreAndOptions": false,
   "typicalJobTitles": [],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Building Services Engineering",
-  "cluster": "Building Services Engineering Operative/Technician",
+  "cluster": "Building services engineering operative or technician",
   "clusterId": "65",
   "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
   "createdDate": "2023-12-08T11:11:44 +00:00",
@@ -289,7 +289,7 @@
     {
       "dutyID": "fd9f224d-01d7-463c-852e-93cd4a8dec40",
       "dutyDetail": "Install, exchange and commission gas and electrical smart metering systems on customer premises. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5c57eaa5-eca5-4fcb-8e2d-1c5c688ea2c2",
         "f41e9a31-bd1c-424d-ae2a-b9080d8d0e69",
@@ -345,7 +345,7 @@
     {
       "dutyID": "431ed400-be5f-464a-bb84-610d07b23101",
       "dutyDetail": "Carry out routine maintenance on smart metering systems and associated equipment. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5c57eaa5-eca5-4fcb-8e2d-1c5c688ea2c2",
         "f41e9a31-bd1c-424d-ae2a-b9080d8d0e69",
@@ -401,7 +401,7 @@
     {
       "dutyID": "e9b32067-b3cc-4f1d-9754-72c2a5d630b9",
       "dutyDetail": "Decommission gas and electrical smart metering systems. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5c57eaa5-eca5-4fcb-8e2d-1c5c688ea2c2",
         "f41e9a31-bd1c-424d-ae2a-b9080d8d0e69",
@@ -457,7 +457,7 @@
     {
       "dutyID": "7751ba9a-7e54-4112-ab93-38aba7e9d49a",
       "dutyDetail": "Use and maintain the appropriate tools and equipment. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5c57eaa5-eca5-4fcb-8e2d-1c5c688ea2c2",
         "f41e9a31-bd1c-424d-ae2a-b9080d8d0e69",
@@ -513,7 +513,7 @@
     {
       "dutyID": "fbb6608d-c340-4357-bcf5-9ecca49b6835",
       "dutyDetail": "Respond to reported faults.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5c57eaa5-eca5-4fcb-8e2d-1c5c688ea2c2",
         "f41e9a31-bd1c-424d-ae2a-b9080d8d0e69",
@@ -569,7 +569,7 @@
     {
       "dutyID": "b89e624d-2946-495c-8839-99aeb18a2c2b",
       "dutyDetail": "Return the working area to a clean and tidy state, safely disposing of defective or damaged smart metering systems and recycling items where appropriate. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5c57eaa5-eca5-4fcb-8e2d-1c5c688ea2c2",
         "f41e9a31-bd1c-424d-ae2a-b9080d8d0e69",
@@ -625,7 +625,7 @@
     {
       "dutyID": "409cbdc9-4579-4e04-81da-9a5e1b473429",
       "dutyDetail": "Provide excellent customer service including providing advice and guidance on operating smart meters and ensuring full awareness of any disruption to power and heating provision.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5c57eaa5-eca5-4fcb-8e2d-1c5c688ea2c2",
         "f41e9a31-bd1c-424d-ae2a-b9080d8d0e69",
@@ -681,7 +681,7 @@
     {
       "dutyID": "8db46b48-0df0-4b51-b753-6de89580c853",
       "dutyDetail": "Provide energy and efficiency advice and guidance to enable customers to understand the benefits of smart meters. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5c57eaa5-eca5-4fcb-8e2d-1c5c688ea2c2",
         "f41e9a31-bd1c-424d-ae2a-b9080d8d0e69",
@@ -737,7 +737,7 @@
     {
       "dutyID": "7ea53ab8-c7a2-4c08-b418-c5667239a2d4",
       "dutyDetail": "Identify vulnerable customers and direct them to the most appropriate support service for their needs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5c57eaa5-eca5-4fcb-8e2d-1c5c688ea2c2",
         "f41e9a31-bd1c-424d-ae2a-b9080d8d0e69",
@@ -793,7 +793,7 @@
     {
       "dutyID": "38f76253-58af-4f39-8639-5e75518d97d3",
       "dutyDetail": "Prioritise health and safety at all times. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5c57eaa5-eca5-4fcb-8e2d-1c5c688ea2c2",
         "f41e9a31-bd1c-424d-ae2a-b9080d8d0e69",
