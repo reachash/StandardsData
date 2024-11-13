@@ -345,7 +345,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-11-23T00:00:00 +00:00",
@@ -363,7 +363,7 @@
     "Wall and floor tiler"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Onsite Construction",
   "cluster": "Core building tradesperson",
@@ -381,7 +381,7 @@
     {
       "dutyID": "4634cb8b-82d4-423c-9b3f-39acc9ec3552",
       "dutyDetail": "Work in compliance with occupational health and safety and environmental legislation, relevant regulations, and recognised industry guidance to ensure the health, safety and wellbeing of self and others always. Report in a timely manner any non-compliances against the construction programme to the appropriate person.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9d2eca0e-9594-4edf-ac04-25400fa6bc18",
         "cce432d4-e1c1-44a2-9ab3-51d3969289bf",
@@ -450,7 +450,7 @@
     {
       "dutyID": "837ec6e5-7117-4a4f-8395-167875eb067b",
       "dutyDetail": "Deliver work in accordance with design and specification.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cce432d4-e1c1-44a2-9ab3-51d3969289bf"
       ],
@@ -517,7 +517,7 @@
     {
       "dutyID": "2a4b85b0-06bd-43c9-9ce1-aaa0962994e4",
       "dutyDetail": "Use and inspect hand tools, power tools and associated equipment to complete task to industry standards.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cce432d4-e1c1-44a2-9ab3-51d3969289bf"
       ],
@@ -554,7 +554,7 @@
     {
       "dutyID": "9ecc7373-12c9-47f3-86a1-2f7b201bff1a",
       "dutyDetail": "Receive, unload, move and lift materials to site for installation following good handling practices preventing injury or damage.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cce432d4-e1c1-44a2-9ab3-51d3969289bf"
       ],
@@ -584,7 +584,7 @@
     {
       "dutyID": "d1be0e96-7d55-4548-88de-7d73b16909ba",
       "dutyDetail": "Work to the construction programme, adapting to changes in schedule and requirements where necessary.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cce432d4-e1c1-44a2-9ab3-51d3969289bf"
       ],
@@ -621,7 +621,7 @@
     {
       "dutyID": "ad6840a6-cd5f-4411-8d81-02b92c8c2a65",
       "dutyDetail": "Prepare the work area, checking it is safe and in accordance with method statements and risk assessments and implement the necessary control measures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cce432d4-e1c1-44a2-9ab3-51d3969289bf"
       ],
@@ -668,7 +668,7 @@
     {
       "dutyID": "db2c096c-b9fc-4550-896c-7eeba4c41cfc",
       "dutyDetail": "Maintain a clear and tidy workspace and ensure that waste materials are disposed appropriately and sustainably.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cce432d4-e1c1-44a2-9ab3-51d3969289bf",
         "eecee7b7-9722-4797-80db-b45050a1d94c"
@@ -699,7 +699,7 @@
     {
       "dutyID": "11dd28ac-ae57-4057-8e8f-8fbbbcb53468",
       "dutyDetail": "Complete accurate records of work undertaken in accordance with company policies and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cce432d4-e1c1-44a2-9ab3-51d3969289bf"
       ],
@@ -721,7 +721,7 @@
     {
       "dutyID": "071881a3-8e16-4b83-8dd0-b96a62dad0f1",
       "dutyDetail": "Remove existing wall and floor tiles, understanding what action should be taken or who to report situations to if problems arise.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cce432d4-e1c1-44a2-9ab3-51d3969289bf"
       ],
@@ -762,7 +762,7 @@
     {
       "dutyID": "ab784c4b-5736-448e-96ff-ca72104008f4",
       "dutyDetail": "Estimate materials needed, limiting wastage of resources.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cce432d4-e1c1-44a2-9ab3-51d3969289bf",
         "eecee7b7-9722-4797-80db-b45050a1d94c"
@@ -795,7 +795,7 @@
     {
       "dutyID": "5c641f2e-263c-4ce3-a8c3-3d31bf0a8ff4",
       "dutyDetail": "Prepare backgrounds for tiling. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cce432d4-e1c1-44a2-9ab3-51d3969289bf"
       ],
@@ -842,7 +842,7 @@
     {
       "dutyID": "6146d3cb-3d69-4a7c-81af-2d3d0232d06d",
       "dutyDetail": "Fix wall tiles  to meet design and specification. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cce432d4-e1c1-44a2-9ab3-51d3969289bf"
       ],
@@ -888,7 +888,7 @@
     {
       "dutyID": "03128729-98a5-4bee-a94f-8b56f3c9b05d",
       "dutyDetail": "Fix floor tiles to meet design and specification.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cce432d4-e1c1-44a2-9ab3-51d3969289bf"
       ],
@@ -935,7 +935,7 @@
     {
       "dutyID": "b08ec272-eb3c-46bf-9334-d53e548897e4",
       "dutyDetail": "Install under-tile heating systems, tanking systems and decoupling membranes to meet design and specification.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cce432d4-e1c1-44a2-9ab3-51d3969289bf"
       ],
@@ -973,7 +973,7 @@
     {
       "dutyID": "d78920c7-47f7-4600-b65a-cf281cdb8da3",
       "dutyDetail": "Collaborate with stakeholders including clients and other construction trades.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9d2eca0e-9594-4edf-ac04-25400fa6bc18",
         "cce432d4-e1c1-44a2-9ab3-51d3969289bf",
@@ -1021,7 +1021,7 @@
     {
       "dutyID": "1fae029e-bd60-46af-9929-a4202c79443b",
       "dutyDetail": "Carry out continuous professional development to maintain knowledge of current and future developments affecting the role.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9d2eca0e-9594-4edf-ac04-25400fa6bc18",
         "cce432d4-e1c1-44a2-9ab3-51d3969289bf",
