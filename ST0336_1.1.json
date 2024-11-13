@@ -182,7 +182,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-05-11T00:00:00 +00:00",
@@ -203,12 +203,12 @@
     "Assistant planner"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Design, Surveying & Planning",
   "cluster": "Design and surveying technician",
   "clusterId": "54",
-  "clusterDescription": null,
+  "clusterDescription": "Design, analyse, plan for site engineering and construction projects. Specialisms are common (e.g. rail infrastructure, asbestos management). Significant capability in the use of IT/digital technology, data collection, analysis and presentation",
   "createdDate": "2020-08-24T14:27:29 +00:00",
   "lastUpdated": "2021-11-24T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-05-11T00:00:00 +00:00",
@@ -243,7 +243,7 @@
     {
       "dutyID": "1de513c0-4063-4c13-b66e-8d2011e99208",
       "dutyDetail": "Assist in the planning, design, implementation or assessment of transport planning solutions, by carrying out data collection, analysis and evaluation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06c00227-cf4c-4d63-919b-920591bed0ae",
         "f84764dd-7291-4134-a20b-a91b396a46e0",
@@ -268,7 +268,7 @@
     {
       "dutyID": "f2256de4-4f59-44b2-84f2-663615017749",
       "dutyDetail": "Ensure safe systems of work are applied, hazards and risks are identified and mitigated in their own work and demonstrate compliance with industry standards, and with health, safety and environmental regulations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "efc11ec3-e8a5-4d20-b304-03328813f484",
         "06c00227-cf4c-4d63-919b-920591bed0ae"
@@ -293,7 +293,7 @@
     {
       "dutyID": "b1bc55ba-ac6c-4de0-ac22-fac3bebf9752",
       "dutyDetail": "Communicate effectively with a range of audiences, such as internal and external stakeholders, through the preparation of written reports and presentations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06c00227-cf4c-4d63-919b-920591bed0ae",
         "a6a1146f-aad2-460d-84ef-90849697df62",
@@ -318,7 +318,7 @@
     {
       "dutyID": "9a3ae668-abf8-4e4d-878c-89ad5cc8aacd",
       "dutyDetail": "Undertake planning for transport and travel in a way that influences travel behaviours and improves sustainability, safety, security and inclusion.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "efc11ec3-e8a5-4d20-b304-03328813f484",
         "06c00227-cf4c-4d63-919b-920591bed0ae",
@@ -344,7 +344,7 @@
     {
       "dutyID": "ae6e88a4-47ef-47b7-a59a-78439c530394",
       "dutyDetail": "Contribute to the modelling of transport and traffic systems, by preparing and producing models using digital technologies to agreed specifications, industry codes, policies and regulations, standards and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "efc11ec3-e8a5-4d20-b304-03328813f484",
         "06c00227-cf4c-4d63-919b-920591bed0ae",
@@ -376,7 +376,7 @@
     {
       "dutyID": "23b1a3f1-b80d-4035-b0a9-7c6aa265a974",
       "dutyDetail": "Collect, interpret and analyse inter-related and often dynamic technical information and data, to inform the development of policies, plans or projects.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06c00227-cf4c-4d63-919b-920591bed0ae",
         "be09ac27-75e2-4be0-8f92-d7a2992daac4"
@@ -400,7 +400,7 @@
     {
       "dutyID": "889f911e-f918-400d-a54b-f63594566a42",
       "dutyDetail": "Participate in community, or stakeholder engagement, or public consultations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a6a1146f-aad2-460d-84ef-90849697df62",
         "be09ac27-75e2-4be0-8f92-d7a2992daac4",
@@ -421,7 +421,7 @@
     {
       "dutyID": "381f67a9-5f4d-4e33-b962-f86e417630ec",
       "dutyDetail": "Use the quality management and assurance systems available to, proactively plan and, manage tasks which and contribute to the delivery of larger work programmes of work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06c00227-cf4c-4d63-919b-920591bed0ae",
         "a6a1146f-aad2-460d-84ef-90849697df62",
@@ -443,7 +443,7 @@
     {
       "dutyID": "a4ec6fb4-7abb-48d4-867d-2fccd09033ac",
       "dutyDetail": "Undertake transport planning with consideration for, and application of, ethical principles.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "efc11ec3-e8a5-4d20-b304-03328813f484",
         "69f74a3c-d45f-409f-bc16-01f953c84d32",
@@ -465,7 +465,7 @@
     {
       "dutyID": "1031af9d-8b92-4b78-bef2-acfcbfa89065",
       "dutyDetail": "Maintain their own learning and skills development by carrying out continuing professional development in line with professional codes of conduct and/or industry specifications and obligations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06c00227-cf4c-4d63-919b-920591bed0ae",
         "be09ac27-75e2-4be0-8f92-d7a2992daac4",
