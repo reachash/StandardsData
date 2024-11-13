@@ -285,7 +285,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-11-24T00:00:00 +00:00",
@@ -307,12 +307,12 @@
     "Digital brand and media specialist"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media, broadcast and production professional",
   "clusterId": "29",
-  "clusterDescription": null,
+  "clusterDescription": "Leadership, management, and the application technology of resources to create, produce and deliver broadcast content and artistic productions, often requiring specialist expertise",
   "createdDate": "2023-11-24T14:39:30 +00:00",
   "lastUpdated": "2023-11-24T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-11-24T00:00:00 +00:00",
@@ -325,7 +325,7 @@
     {
       "dutyID": "3fa0e648-ac09-4396-9a69-b3bfb1457b42",
       "dutyDetail": "Decode creative briefs to understand markets, drivers and blockers which impact deliverability. Providing strategic solutions to ensure a brief can be effectively delivered utilising success metrics. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "db2cc691-b2d0-4893-9b3f-f5a413f73606"
       ],
@@ -346,7 +346,7 @@
     {
       "dutyID": "f7d3e589-58af-41be-9893-84b4f65b63a0",
       "dutyDetail": "Answering briefs taking them through the creative development process, collaborating and responding to feedback from stakeholders to ensure the client vision is achieved, leading each project from the start to the end of the process.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "a70baba3-f20b-4732-97be-de1b89559df2",
@@ -365,7 +365,7 @@
     {
       "dutyID": "f229b5f7-2d44-45ee-b295-13ffc813e27e",
       "dutyDetail": "Providing, receiving and responding to feedback from internal and external stakeholders in the development process. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "cd9e94e4-4944-4651-b19b-996da7991ae2",
@@ -383,7 +383,7 @@
     {
       "dutyID": "eaed16cd-c03c-40ff-b9b7-cef20e7bc4d7",
       "dutyDetail": "Manage competing demands whilst working on multiple creative briefs ensuring stakeholder and client objectives and agreed deadlines are met.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "00255015-4633-4901-b241-ca257043395f",
@@ -399,7 +399,7 @@
     {
       "dutyID": "e13a4136-7c7d-49e6-ad5a-76b45386678e",
       "dutyDetail": "Liaise with appropriate internal and or external stakeholders to discover insights that will inform the development of ideas, briefs and pitches.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "cd9e94e4-4944-4651-b19b-996da7991ae2",
@@ -414,7 +414,7 @@
     {
       "dutyID": "9a260af6-55b3-4d45-9b66-f0881cf99693",
       "dutyDetail": "Establish and maintain positive relationships with internal and external customers, clients and other creatives to promote stakeholder engagement and achieve the vision of the brief.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a97d823e-6567-4b20-b530-d0b94b9a134c"
       ],
@@ -436,7 +436,7 @@
     {
       "dutyID": "ac9b40b8-e173-436f-80bc-29b46993fb36",
       "dutyDetail": "Present developed ideas to stakeholders, as part of a pitch, to build confidence and trust that the brief has been met and will achieve agreed objectives and commercial success.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "22c687f5-96e8-422f-a338-ec4a92a4c3d7",
@@ -453,7 +453,7 @@
     {
       "dutyID": "45108b53-7506-4a2c-895b-41eeb74b483a",
       "dutyDetail": "Manage workloads within given time frames using analytical, research and evaluation techniques such as six thinking hats and sticky thinking to identify ideas that could be further developed or improved that meet the client's vision. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9a061752-d870-414b-8fc7-76c5e9357b7e"
       ],
@@ -472,7 +472,7 @@
     {
       "dutyID": "4ded0b2b-0025-405b-a2cb-73d29a48b8c9",
       "dutyDetail": "Identify suitable specialists, for example photographers, animators and illustrators to work on the production of ideas. Express reasons why they are suitable. Supporting delivery if and when required. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "4d3fbcef-eb0b-44a1-b0dc-8fc09aab8986",
@@ -488,7 +488,7 @@
     {
       "dutyID": "6a41bd14-f489-4afb-b124-117e9bbbf4f9",
       "dutyDetail": "Provide creative direction to help guide specialists that have been hired to fulfil briefs following the commissioning process. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "99b66589-38a8-4e66-9815-6c619b38818c",
@@ -504,7 +504,7 @@
     {
       "dutyID": "87f7326b-cf91-4b9d-91da-3ec9fb17c3e6",
       "dutyDetail": "Proactively develop ideas and take responsibility to achieve industry awards and or recognition that is integral to the client and sector to build brand and business awareness and commercial opportunities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "ab7db3b3-c465-435b-80ea-d034ce346098",
@@ -522,7 +522,7 @@
     {
       "dutyID": "556d8db1-40e5-4117-8147-b56d4d94059a",
       "dutyDetail": "Identify and recognise new and emerging trends to ensure work is innovative and culturally relevant. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a7525b45-5401-45f8-8f0d-49ecafe07d09"
       ],
@@ -544,7 +544,7 @@
     {
       "dutyID": "9e87a198-d33a-4b6d-8ab5-76de65f7d38f",
       "dutyDetail": "Ensure legislation and regulation requirements inform work where relevant. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "d7ee9a77-38ae-46d7-89d2-7ea9e477b9a2",
@@ -561,7 +561,7 @@
     {
       "dutyID": "4cdca391-2902-4517-bc16-d176cc9212ad",
       "dutyDetail": "Maintain accurate record keeping following in house processes for the recording of billed hours. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9a061752-d870-414b-8fc7-76c5e9357b7e"
       ],
@@ -580,7 +580,7 @@
     {
       "dutyID": "4bc70bb6-45e3-449b-8b14-9be5bab100c4",
       "dutyDetail": "Follow organisational policies and procedures including for equality, diversity and inclusion. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "55ff9827-3e01-47c0-aad4-d40d1a863835",
         "67779fa5-8b8d-418b-9551-cbeb3780d7f1"
@@ -600,7 +600,7 @@
     {
       "dutyID": "cda0570a-7df7-4135-bf7e-f3a2c439debe",
       "dutyDetail": "Investing time in Continuous Professional Development including industry trends informing creative work. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a7525b45-5401-45f8-8f0d-49ecafe07d09"
       ],
@@ -622,7 +622,7 @@
     {
       "dutyID": "62afe025-b704-493f-a28e-3f6d3be0127a",
       "dutyDetail": "Demonstrating professional and personal integrity representing yourself and the business. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "17cbded6-0187-4a53-a051-8716c5bded9e",
         "d1c2d820-fcb2-4559-8a4f-2c9174a8651d"
