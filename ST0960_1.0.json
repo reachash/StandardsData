@@ -170,7 +170,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2022-02-11T00:00:00 +00:00",
@@ -192,12 +192,12 @@
     "Planning technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Design, Surveying & Planning",
   "cluster": "Design and surveying technician",
   "clusterId": "54",
-  "clusterDescription": null,
+  "clusterDescription": "Design, analyse, plan for site engineering and construction projects. Specialisms are common (e.g. rail infrastructure, asbestos management). Significant capability in the use of IT/digital technology, data collection, analysis and presentation",
   "createdDate": "2023-06-27T12:48:21 +00:00",
   "lastUpdated": "2023-06-29T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2022-02-11T00:00:00 +00:00",
@@ -210,7 +210,7 @@
     {
       "dutyID": "39e27994-4859-4b7b-8b5d-c0f228914441",
       "dutyDetail": "Support the coordination of construction site-based projects alongside supervisory and technical teams on an individual site, a range of sites or in an office environment. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "429d1488-85fb-49eb-9aad-d88b67b1c545",
         "4a8ab7bc-6744-4156-bac7-ff4ff825bf32",
@@ -245,7 +245,7 @@
     {
       "dutyID": "323777cf-872e-484c-bf04-23669c468bb9",
       "dutyDetail": "Identify the suitability of health and safety documentation, including risk assessments and method statements, to assist in ensuring sufficient planning has been carried out for tasks to be completed safely.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "429d1488-85fb-49eb-9aad-d88b67b1c545",
         "4a8ab7bc-6744-4156-bac7-ff4ff825bf32",
@@ -276,7 +276,7 @@
     {
       "dutyID": "50c17058-fb1e-4d9c-9099-e411a36e46c0",
       "dutyDetail": "Liaise with internal and external stakeholders to ensure the requirements of a project are met, ensuring records of the communications are kept in line with company processes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "429d1488-85fb-49eb-9aad-d88b67b1c545",
         "4a8ab7bc-6744-4156-bac7-ff4ff825bf32",
@@ -306,7 +306,7 @@
     {
       "dutyID": "eef4f7ce-4917-44c4-a8f7-238f7e20aa2e",
       "dutyDetail": "Ensure accurate contractual records are kept in relation to the planning of construction projects.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4a8ab7bc-6744-4156-bac7-ff4ff825bf32",
         "fa922e8a-267c-456c-acff-4df1842aad1b",
@@ -334,7 +334,7 @@
     {
       "dutyID": "614df9d2-a88f-4907-94fc-857d87b2c545",
       "dutyDetail": "Support the production of resource lists, based on estimates, using technical drawings to identify the requirements of the project.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4a8ab7bc-6744-4156-bac7-ff4ff825bf32",
         "fa922e8a-267c-456c-acff-4df1842aad1b",
@@ -364,7 +364,7 @@
     {
       "dutyID": "377575ad-cf5e-462b-a847-4244241f4139",
       "dutyDetail": "Assist with the development of tenders relevant to the construction project, ensuring records of tenders are kept and processed within the required timescales.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4a8ab7bc-6744-4156-bac7-ff4ff825bf32",
         "fa922e8a-267c-456c-acff-4df1842aad1b",
@@ -394,7 +394,7 @@
     {
       "dutyID": "cb36e0f3-391d-49ac-8634-d62dbd890750",
       "dutyDetail": "Support the procurement of project materials, plant and sub-contractors.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4a8ab7bc-6744-4156-bac7-ff4ff825bf32",
         "fa922e8a-267c-456c-acff-4df1842aad1b",
@@ -421,7 +421,7 @@
     {
       "dutyID": "31c71367-b37a-4bab-96f8-bc202794cf55",
       "dutyDetail": "Support the progress of construction projects, recommending and proposing revisions of programmes and assisting with the planning of schedules of work.\t",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "429d1488-85fb-49eb-9aad-d88b67b1c545",
         "4a8ab7bc-6744-4156-bac7-ff4ff825bf32",
@@ -457,7 +457,7 @@
     {
       "dutyID": "68f9e9e9-0108-4f0a-83ad-8f3d020bef5e",
       "dutyDetail": "Support the implementation of appropriate contract quantities and cost monitoring systems to provide early warning of problems for all contract phases on site.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4a8ab7bc-6744-4156-bac7-ff4ff825bf32",
         "fa922e8a-267c-456c-acff-4df1842aad1b",
@@ -488,7 +488,7 @@
     {
       "dutyID": "c92f8bb9-8099-4a0d-9893-81007332ea53",
       "dutyDetail": "Use surveying information to contribute to the measurement, evaluation and review of project performance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "429d1488-85fb-49eb-9aad-d88b67b1c545",
         "4a8ab7bc-6744-4156-bac7-ff4ff825bf32",
