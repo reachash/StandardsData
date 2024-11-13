@@ -228,7 +228,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-02-21T00:00:00 +00:00",
@@ -245,10 +245,10 @@
     "Commercial thermal insulation operative"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Onsite Construction",
-  "cluster": "Construction Operative/Supervisor",
+  "cluster": "Construction operative or supervisor",
   "clusterId": "1",
   "clusterDescription": "Use of heavy plant and equipment on surface construction sites and also specialist sites e.g. highways, tunnelling. Also the ability to undertake specialist construction work e.g. handling insulation, asbestos. Interprets drawings, plans and specifications along with methods and risk statement",
   "createdDate": "2023-12-07T10:01:30 +00:00",
@@ -263,7 +263,7 @@
     {
       "dutyID": "81b3a5bc-8002-4b3d-ab38-ebe9ea28c29d",
       "dutyDetail": "Work in compliance with occupational health, safety and environmental requirements to ensure the \r\nhealth, safety and wellbeing of self and others at all times. Use the correct Personal Protective Equipment in  line with organisational procedures, site requirements and key legislation. Report in a timely manner any non compliances to the appropriate person",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60e4b0a9-9419-485c-ab70-954513475342",
         "6dd98064-d518-441f-a98f-2497b40ef6a1",
@@ -295,7 +295,7 @@
     {
       "dutyID": "90daf7a1-b65b-49e8-8e51-5074074b2770",
       "dutyDetail": "Carry out their work conforming to all current and relevant regulations, quality standards and work \r\ninstructions",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3c397ae1-92f9-4d17-8909-0942dd6c6a69"
       ],
@@ -321,7 +321,7 @@
     {
       "dutyID": "fa58a194-51e9-4648-abf2-3238de5ebf15",
       "dutyDetail": "Develop and maintain good occupational working relationships in the workplace",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "cbcb1d38-c4db-4698-8e83-44090ff74fff",
@@ -338,7 +338,7 @@
     {
       "dutyID": "b047c29c-7cc9-431a-a7fb-fa81c4d9abed",
       "dutyDetail": "Read specifications and data sheets to complete insulating tasks",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "fcda3024-edc9-416f-88a9-fd6826ae16fe",
@@ -357,7 +357,7 @@
     {
       "dutyID": "90368fe4-8851-4772-a66c-da6d55b63b23",
       "dutyDetail": " Select suitable equipment and plan own operational activity",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "d55c11a1-4e88-4a77-8b7f-7a245e92195a",
@@ -375,7 +375,7 @@
     {
       "dutyID": "57049f60-df08-4f5d-b76d-316bf7593799",
       "dutyDetail": "Maintain a clear and safe worksite at all times, disposing of waste appropriately and adopt sustainable \r\nand environmentally friendly working practices",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60e4b0a9-9419-485c-ab70-954513475342",
         "6dd98064-d518-441f-a98f-2497b40ef6a1",
@@ -404,7 +404,7 @@
     {
       "dutyID": "6063dbda-9bdb-461d-81ba-27e3d9f3f939",
       "dutyDetail": "Undertake installation of insulation and pre-formed metal cladding or other finishing materials in line \r\nwith project specification",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b69742cb-18a2-47bb-b81b-56eb97b17c57"
       ],
@@ -426,7 +426,7 @@
     {
       "dutyID": "e26f8197-d291-4d05-8865-2a7cd53c19da",
       "dutyDetail": "Keep accurate records and have an understanding of reporting procedures",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "b4106fca-1953-4b10-8552-4d71b1f1ee08",
