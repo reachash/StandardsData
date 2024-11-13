@@ -446,7 +446,7 @@
     "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-10-17T00:00:00 +00:00",
@@ -461,12 +461,12 @@
   "coreAndOptions": false,
   "typicalJobTitles": [],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, manufacturing, process and control",
   "cluster": "Plant operative or technician",
   "clusterId": "267",
-  "clusterDescription": null,
+  "clusterDescription": "Operate plant and equipment for a part/sub process",
   "createdDate": "2024-10-17T09:39:19 +00:00",
   "lastUpdated": "2024-11-06T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-10-17T00:00:00 +00:00",
@@ -486,7 +486,7 @@
     {
       "dutyID": "37e1dbf7-8d39-4af1-a39e-e57221e417ab",
       "dutyDetail": "Maintain and promote site health, safety, security, and environmental compliance. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4672e1a7-8b7c-4738-bdcc-7bdfe9cb0663",
         "2ed87318-38d9-419f-ad97-f442141c2742",
@@ -529,7 +529,7 @@
     {
       "dutyID": "2abf9032-97b1-4fb3-8d9c-bbce7beb8379",
       "dutyDetail": "Organise own work to meet operational priorities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0efdedac-81e9-4a69-94f3-c5383b9488cf",
         "ec6c9660-ec26-45df-a243-02ae7331b550"
@@ -560,7 +560,7 @@
     {
       "dutyID": "390a8b4c-f7d3-461a-80d0-13ba221d4388",
       "dutyDetail": "Import bulk product following procedures to meet operational priorities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0efdedac-81e9-4a69-94f3-c5383b9488cf"
       ],
@@ -597,7 +597,7 @@
     {
       "dutyID": "2e13fb75-8cf6-4912-b7f3-0fd9b98b9fd9",
       "dutyDetail": "Monitor the storage of bulk product in line with procedures and operational requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0efdedac-81e9-4a69-94f3-c5383b9488cf"
       ],
@@ -631,7 +631,7 @@
     {
       "dutyID": "85430cc6-83de-41b7-9a90-b758558482c6",
       "dutyDetail": "Treat or blend bulk product in line with procedures and operational requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0efdedac-81e9-4a69-94f3-c5383b9488cf"
       ],
@@ -670,7 +670,7 @@
     {
       "dutyID": "55a6d8cf-d2f8-47af-b139-d93c8da1a8d4",
       "dutyDetail": "Export bulk product following procedures to meet operational requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0efdedac-81e9-4a69-94f3-c5383b9488cf"
       ],
@@ -708,7 +708,7 @@
     {
       "dutyID": "6b3e298e-5a99-4831-9193-efe94388fd50",
       "dutyDetail": "Conduct quality assurance processes in line with procedures and operational requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0efdedac-81e9-4a69-94f3-c5383b9488cf"
       ],
@@ -733,7 +733,7 @@
     {
       "dutyID": "82a105e2-957f-43e8-8bf7-7c7725efc113",
       "dutyDetail": "Complete work records - digital or paper based - in line with policy and procedures. For example, process records, traceability records, and quality assurance records.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0efdedac-81e9-4a69-94f3-c5383b9488cf"
       ],
@@ -758,7 +758,7 @@
     {
       "dutyID": "e034493d-dcc2-494d-897c-6bfa201e36d0",
       "dutyDetail": "Conduct first line routine maintenance and testing of bulk storage plant and equipment. For example, maintaining oil and lubrication levels, changing of filters, gas bottle replacement, and alarm and cut off switch testing.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0efdedac-81e9-4a69-94f3-c5383b9488cf"
       ],
@@ -786,7 +786,7 @@
     {
       "dutyID": "c29f1d68-c03e-4bdd-aed5-a9f5bd30c0f4",
       "dutyDetail": "Prepare bulk storage plant and equipment for shut down for maintenance, overhaul, or decommissioning. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0efdedac-81e9-4a69-94f3-c5383b9488cf"
       ],
@@ -816,7 +816,7 @@
     {
       "dutyID": "d949f7ce-bb91-4af8-bf87-71d306a1912e",
       "dutyDetail": "Reinstate bulk storage plant and equipment. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0efdedac-81e9-4a69-94f3-c5383b9488cf"
       ],
@@ -845,7 +845,7 @@
     {
       "dutyID": "3825f4e6-46eb-4716-b33e-377699d00998",
       "dutyDetail": "Resolve issues. For example, change in demand or breakdown problems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0efdedac-81e9-4a69-94f3-c5383b9488cf",
         "ec6c9660-ec26-45df-a243-02ae7331b550"
@@ -870,7 +870,7 @@
     {
       "dutyID": "b807f6db-380c-4fd5-a716-adc6ffd98845",
       "dutyDetail": "Participate in continuous improvement activities including continued professional development. For example, to improve sustainable working practices or to increase the use of artificial intelligence.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0efdedac-81e9-4a69-94f3-c5383b9488cf",
         "d7fbc482-0c3f-40ec-b043-bd0d565b95c6"
@@ -892,7 +892,7 @@
     {
       "dutyID": "01c01e9a-b5d1-4924-8cf4-8a317a2c0d0d",
       "dutyDetail": "Liaise with other teams. For example, provide information to or receive information from other shifts or maintenance teams. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0efdedac-81e9-4a69-94f3-c5383b9488cf",
         "86156658-9a1b-42ba-99a9-87fbe308d0bf"
