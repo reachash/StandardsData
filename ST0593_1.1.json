@@ -231,7 +231,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "",
@@ -253,10 +253,10 @@
     "Prevention advisor"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Protective Services",
-  "cluster": "Protective Service Officer",
+  "pathway": "Protective services",
+  "cluster": "Protective service officer",
   "clusterId": "15",
   "clusterDescription": "Provide safety, security, prevention, enforcement, protection and investigation services largely on behalf of society",
   "createdDate": "2024-11-01T12:28:10 +00:00",
@@ -271,7 +271,7 @@
     {
       "dutyID": "7eaf0d97-ca8a-4c45-ac86-c59cfb11a213",
       "dutyDetail": "Plan and gather information for the purpose of Home Fire Safety Visits (HFSVs) and other community safety initiatives.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "21e4b023-2649-4976-bd2f-3bbaca240a7f",
         "db99ea2c-6379-42d8-8819-ecdf2a04d1e9"
@@ -309,7 +309,7 @@
     {
       "dutyID": "c08c2ccb-9d7d-45b5-bdb0-764cb8d4ec53",
       "dutyDetail": "Carry out HFSVs in line with organisational and current fire safety guidance. Provide appropriate support, information, advice and guidance to members of the community.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "21e4b023-2649-4976-bd2f-3bbaca240a7f",
         "db99ea2c-6379-42d8-8819-ecdf2a04d1e9",
@@ -350,7 +350,7 @@
     {
       "dutyID": "e77ddd86-fec5-400f-8922-b8dc2dc5e824",
       "dutyDetail": "Identify hazards using the Person Centred Framework to provide advice and reduce risk.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4cfc4f9a-fe05-4153-99d9-ec7d57a75635"
       ],
@@ -381,7 +381,7 @@
     {
       "dutyID": "a9080213-cbe9-4a07-93f5-53ef51196f4a",
       "dutyDetail": "Assess risks and make judgements on appropriate interventions in order to reduce risks within the home.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6bb47eb6-f5a7-4296-8fdc-884e89aeb9d4",
         "db99ea2c-6379-42d8-8819-ecdf2a04d1e9",
@@ -419,7 +419,7 @@
     {
       "dutyID": "4ddcdcb8-6eec-4e56-a9f5-a8446c35d09d",
       "dutyDetail": "Provide, install, test and recommend fire risk reduction equipment including smoke alarms instructing  occupants to use and maintain equipment effectively.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "bda4b868-3786-4037-8c43-52221d6c8947",
@@ -438,7 +438,7 @@
     {
       "dutyID": "dd0ccda7-a88b-47e9-a0a0-47865bfbd75f",
       "dutyDetail": "Make referrals internally and to partner agencies to make behavioural or physical interventions to reduce risks.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6bb47eb6-f5a7-4296-8fdc-884e89aeb9d4",
         "db99ea2c-6379-42d8-8819-ecdf2a04d1e9"
@@ -471,7 +471,7 @@
     {
       "dutyID": "8c192617-6f90-4183-b9f2-679d0bba8499",
       "dutyDetail": "Assist in the delivery of community safety initiatives to encourage good practice and positive changes in behaviour.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9798f080-5964-49c1-8496-6ab3aec7aae0",
         "4cfc4f9a-fe05-4153-99d9-ec7d57a75635"
@@ -497,7 +497,7 @@
     {
       "dutyID": "17adc680-a49e-4e27-9b2e-49240f7afaa9",
       "dutyDetail": "Completes, maintains and stores accurate data in accordance with organisational processes, observing the principles of data protection, and shares information for the purposes of reducing risk.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b48871cc-f34d-4a38-a973-d6b0490fc488",
         "db99ea2c-6379-42d8-8819-ecdf2a04d1e9",
@@ -529,7 +529,7 @@
     {
       "dutyID": "22bf6594-8164-4c5a-a04a-52ae6194fdee",
       "dutyDetail": "Ensure continuous professional development is maintained to ensure knowledge on emerging risks and risk reduction strategies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b48871cc-f34d-4a38-a973-d6b0490fc488",
         "9798f080-5964-49c1-8496-6ab3aec7aae0",
