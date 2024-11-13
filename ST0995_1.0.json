@@ -794,12 +794,12 @@
     "Foundation Doctor"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
   "cluster": "Health professional",
   "clusterId": "6",
-  "clusterDescription": null,
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2024-06-21T12:11:49 +00:00",
   "lastUpdated": "2022-07-19T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2022-07-19T00:00:00 +00:00",
@@ -828,7 +828,7 @@
     {
       "dutyID": "2a556c5f-6b92-4601-ac3e-c855946e9399",
       "dutyDetail": "Be an accountable professional and behave according to statutory ethical and professional principles",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4478c603-8d07-441b-8589-7cecc1110524",
         "009ac530-20ba-434e-93d6-be5537a1b73e",
@@ -867,7 +867,7 @@
     {
       "dutyID": "941d7a60-a139-4902-8cba-1c243c9af7e3",
       "dutyDetail": "Maintain personal physical and mental wellbeing and incorporate compassionate self-care into their personal and professional life",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4478c603-8d07-441b-8589-7cecc1110524",
         "009ac530-20ba-434e-93d6-be5537a1b73e",
@@ -888,7 +888,7 @@
     {
       "dutyID": "e4d64f24-2eb9-4518-b1fc-57fb8fb53c31",
       "dutyDetail": "Practice safely and participates in and promotes activity to improve the quality and safety of patient care and clinical outcomes",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4478c603-8d07-441b-8589-7cecc1110524",
         "009ac530-20ba-434e-93d6-be5537a1b73e",
@@ -918,7 +918,7 @@
     {
       "dutyID": "bd190581-a0c1-49e8-a05e-8f34fc7560ed",
       "dutyDetail": "Recognise the complex and uncertain nature of illness and health inequalities and by seeking support and help from colleagues, develops confidence in managing these situations and responding to change",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4478c603-8d07-441b-8589-7cecc1110524",
         "009ac530-20ba-434e-93d6-be5537a1b73e",
@@ -944,7 +944,7 @@
     {
       "dutyID": "301de56d-179e-4d8b-a852-f27d6a63b9e5",
       "dutyDetail": "Recognise and identify factors that suggest patient vulnerability and take action in response",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4478c603-8d07-441b-8589-7cecc1110524",
         "009ac530-20ba-434e-93d6-be5537a1b73e",
@@ -975,7 +975,7 @@
     {
       "dutyID": "e99ef06c-1ca5-4c9f-a96d-faa649192403",
       "dutyDetail": "Learn and work effectively within and alongside a multi-professional and multi-disciplinary team and across multiple care settings ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4478c603-8d07-441b-8589-7cecc1110524",
         "009ac530-20ba-434e-93d6-be5537a1b73e",
@@ -1005,7 +1005,7 @@
     {
       "dutyID": "8a6c3fbd-b8e2-440a-9460-aa1e189629cb",
       "dutyDetail": "Communicate, openly and honestly with patients, their relatives, carers or other advocates, and with colleagues, applying patient confidentiality appropriately",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4478c603-8d07-441b-8589-7cecc1110524",
         "009ac530-20ba-434e-93d6-be5537a1b73e",
@@ -1029,7 +1029,7 @@
     {
       "dutyID": "e2d0cf23-b6fd-4f92-87fe-df174fbac01e",
       "dutyDetail": "Carry out effective consultations with patients",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4478c603-8d07-441b-8589-7cecc1110524",
         "009ac530-20ba-434e-93d6-be5537a1b73e",
@@ -1059,7 +1059,7 @@
     {
       "dutyID": "bbd9607a-8981-491c-80bf-78063951b0e3",
       "dutyDetail": "Work collaboratively with patients and colleagues to diagnose and manage clinical presentations safely in community, primary and secondary care settings and in patients’ homes and must, wherever possible, support and facilitate patients to make decisions about their care and management",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4478c603-8d07-441b-8589-7cecc1110524",
         "009ac530-20ba-434e-93d6-be5537a1b73e",
@@ -1101,7 +1101,7 @@
     {
       "dutyID": "016cf31d-8fb9-4f7e-8ade-f09e30b0a87d",
       "dutyDetail": "Work collaboratively with patients, their relatives, carers or other advocates to make clinical judgements and decisions based on a holistic assessment of the patient and their needs, priorities and concerns, appreciating the importance of the links between pathophysiological, psychological, spiritual, religious, social and cultural factors for each individual",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4478c603-8d07-441b-8589-7cecc1110524",
         "009ac530-20ba-434e-93d6-be5537a1b73e",
@@ -1167,7 +1167,7 @@
     {
       "dutyID": "adf1857f-60c9-47c2-9504-48ed3de7312f",
       "dutyDetail": "Prescribe medications safely, appropriately, effectively and economically and is aware of the common causes and consequences of prescribing errors",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4478c603-8d07-441b-8589-7cecc1110524",
         "009ac530-20ba-434e-93d6-be5537a1b73e",
@@ -1204,7 +1204,7 @@
     {
       "dutyID": "98a42e21-fc77-47c9-9654-8f07fc13242e",
       "dutyDetail": "Use information effectively and safely in a medical context, and maintain accurate, legible, contemporaneous and comprehensive medical records",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4478c603-8d07-441b-8589-7cecc1110524",
         "009ac530-20ba-434e-93d6-be5537a1b73e",
@@ -1229,7 +1229,7 @@
     {
       "dutyID": "2cb08059-cafc-40fd-a836-c837f918d3a5",
       "dutyDetail": "Apply scientific method and approaches to medical research and integrate these with a range of sources of information used to make decisions for care",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4478c603-8d07-441b-8589-7cecc1110524",
         "009ac530-20ba-434e-93d6-be5537a1b73e",
