@@ -244,7 +244,7 @@
     "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-06-20T00:00:00 +00:00",
@@ -262,12 +262,12 @@
     "Experienced florist",
     "Senior florist"
   ],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Production horticulture operative or technician",
   "clusterId": "165",
-  "clusterDescription": null,
+  "clusterDescription": "Propagation, production, preparation and delivery/distribution of plants and plant materials for food, non-food and therapeutic human use",
   "createdDate": "2024-06-20T14:39:30 +00:00",
   "lastUpdated": "2024-08-13T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-06-20T00:00:00 +00:00",
@@ -287,7 +287,7 @@
     {
       "dutyID": "9d352c92-caed-48fb-841f-38bc92636800",
       "dutyDetail": "Produce and present detailed design plans, concepts and quotations for corporate contracts, events and large-scale installations.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "8ceaeb39-8e66-49af-9505-b4e215484aea"
@@ -301,7 +301,7 @@
     {
       "dutyID": "d2e64822-c1f5-4962-b835-0c70a08458b1",
       "dutyDetail": "Research and evaluate the commercial suitability and viability of current floral trends and recommend their application across the business.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "b1aeaf13-7c85-4741-af7d-410ea053c4fe"
@@ -313,7 +313,7 @@
     {
       "dutyID": "6b15ad24-fc33-4b7c-a321-364caf37974a",
       "dutyDetail": "Construct complex, on trend floral designs that meet customer requirements and are in line with progressive design theory.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "02e5454d-a472-4f59-bd1d-c031f7cfdd45",
@@ -342,7 +342,7 @@
     {
       "dutyID": "3c659ba2-dff8-46b4-bc34-a6939b72faf1",
       "dutyDetail": "Plan, schedule, and manage work of the team to ensure that deadlines are achieved. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7ed44bd5-707d-4391-b86f-8fd03643a65b"
       ],
@@ -359,7 +359,7 @@
     {
       "dutyID": "80335970-7dcc-4815-926c-c34c751e88cb",
       "dutyDetail": "Assist to train and mentor colleagues  to develop their floristry techniques and produce bespoke and complex floral designs.   ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "3b7c166c-c2dc-4a3b-9b12-c860c885dcb0",
@@ -374,7 +374,7 @@
     {
       "dutyID": "4df8ed6a-ba01-41ff-b086-0a13fa6762a5",
       "dutyDetail": "Plan and schedule the distribution of botanical orders to ensure that product integrity is maintained, and deadlines achieved. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "a9d8e3af-2911-4ca4-94b1-5a05b8594569"
@@ -388,7 +388,7 @@
     {
       "dutyID": "68a9421f-1b8a-444f-933b-39fee03605b8",
       "dutyDetail": "Manage digital floristry systems to ensure the efficient day to day running of the business - for example purchasing, website monitoring and maintenance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "d7cedfa0-31a3-4db9-8c29-66774fdb2f47"
@@ -402,7 +402,7 @@
     {
       "dutyID": "6d6fe1df-3bd2-47f2-8e60-2f2839ebdb31",
       "dutyDetail": "Implement stock rotation and storage plans that optimise the life span of cut materials and minimise waste. Manage the appropriate actions or treatment of stock affected by pest and or disease. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "1631c0ca-2db1-4421-9470-a5fd88817682",
@@ -417,7 +417,7 @@
     {
       "dutyID": "13e655bd-c944-48a5-b624-8ca4831ad8a9",
       "dutyDetail": "Co-ordinate with manager to compile floristry buying lists. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -429,7 +429,7 @@
     {
       "dutyID": "15f5e958-1d68-4ec6-9174-743fd23dff71",
       "dutyDetail": "Promote and deliver against marketing targets.  Implement promotional merchandising and floral displays to develop sales and increase profitability ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "3d042aaa-1054-48b9-865d-91f8cafb16ca"
@@ -443,7 +443,7 @@
     {
       "dutyID": "51c729b4-0172-4480-b5f8-8cdd67dfc06e",
       "dutyDetail": "Develop, monitor and evaluate customer service initiatives to inform the development of sales opportunities and floristry designs. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2830d8e5-1ad3-4f91-a2c6-11a1a8184206"
       ],
@@ -458,7 +458,7 @@
     {
       "dutyID": "7a358f00-ebe5-4ccc-bf04-a96f6f87f6b2",
       "dutyDetail": "Support the preparation of financial forecasts for floral seasons and peak periods.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "6ae4e624-5102-4843-afa5-e2ecd88d149b"
@@ -470,7 +470,7 @@
     {
       "dutyID": "3aac5a08-3014-4316-bbe2-a9a11af54459",
       "dutyDetail": "Develop, promote, monitor and ensure that current health and safety legislation and environmental and sustainable working practices are adhered to on and off site.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7658a8f9-0aa3-48ed-827b-92a8261d56d0"
       ],
@@ -487,7 +487,7 @@
     {
       "dutyID": "b6ff755f-bfb3-45cb-8a4a-e5c47b64a424",
       "dutyDetail": "Manage own continuing professional development and keep up to date with the wider floral industry, competition work and influential floral designers .",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a9c65647-dd93-4cc4-ad4b-cfb83ca99be6"
       ],
