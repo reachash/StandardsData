@@ -38,7 +38,7 @@
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.0",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in the furniture, furnishings and interiors manufacturing industry. Mattress manufacturing operatives create a range of mattresses for consumers including memory foam, pocket sprung, latex, open coil, and continuous coil. They may also include hybrid mattress manufacturing combining both springs and foam layers producing more eco-friendly mattresses. They may use recyclable materials and fabrics for the filling of the mattresses impacting on the environment and sustainability. Production ranges from bespoke to mass-produced mattresses. Employers are usually medium to large businesses.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is the manufacture of mattresses. Mattress manufacturing operatives cut, sew and prepare materials and set up and operate machinery. Some machinery may be automated. They prepare and conduct operations for quilting, assembly, tape edging, tufting, packing and labelling. They will also perform quality assurance checks on mattresses. They perform first line maintenance on machinery. They read and interpret instructions and complete documentation. They contribute to continuous improvement activities. Mattress manufacturing operatives work in factory environments. The occupation can be physically demanding, involving lifting of heavy mattresses and standing for long periods of time. Mattress manufacturing operatives often work shift systems. Depending on the size of the organisation, they may be required to work on their own, or they may work as part of a wider team. The seasonality of the industry, plus peaks and troughs in orders, often demands overtime working. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with a range of colleagues including other Mattress manufacturing operatives, designers, production or manufacturing managers, quality technicians, production leaders and product developers. They usually report to a supervisor or shift team leader. They will be able to work with minimum supervision. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for completing their duties in line with company procedures, processes and priorities. They are responsible for meeting production targets. They must take responsibility for the quality, accuracy, and timely completion of the work they undertake. They must work within health, safety and environmental regulations and guidance. They must use the appropriate personal protective equipment (PPE), tools and equipment. All work must be completed in a safe and efficient manner as directed by supervisory staff. They are responsible for ensuring that they use resources efficiently. They recycle and reuse resources where possible, minimising waste and must include the safe disposal of waste.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the furniture, furnishings and interiors manufacturing industry. Mattress manufacturing operatives create a range of mattresses for consumers including memory foam, pocket sprung, latex, open coil, and continuous coil. They may also include hybrid mattress manufacturing combining both springs and foam layers producing more eco-friendly mattresses. They may use recyclable materials and fabrics for the filling of the mattresses impacting on the environment and sustainability. Production ranges from bespoke to mass-produced mattresses. Employers are usually medium to large businesses.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is the manufacture of mattresses. Mattress manufacturing operatives cut, sew and prepare materials and set up and operate machinery. Some machinery may be automated. They prepare and conduct operations for quilting, assembly, tape edging, tufting, packing and labelling. They will also perform quality assurance checks on mattresses. They perform first line maintenance on machinery. They read and interpret instructions and complete documentation. They contribute to continuous improvement activities. Mattress manufacturing operatives work in factory environments. The occupation can be physically demanding, involving lifting of heavy mattresses and standing for long periods of time. Mattress manufacturing operatives often work shift systems. Depending on the size of the organisation, they may be required to work on their own, or they may work as part of a wider team. The seasonality of the industry, plus peaks and troughs in orders, often demands overtime working. &lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with a range of colleagues including other Mattress manufacturing operatives, designers, production or manufacturing managers, quality technicians, production leaders and product developers. They usually report to a supervisor or shift team leader. They will be able to work with minimum supervision. &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for completing their duties in line with company procedures, processes and priorities. They are responsible for meeting production targets. They must take responsibility for the quality, accuracy, and timely completion of the work they undertake. They must work within health, safety and environmental regulations and guidance. They must use the appropriate personal protective equipment (PPE), tools and equipment. All work must be completed in a safe and efficient manner as directed by supervisory staff. They are responsible for ensuring that they use resources efficiently. They recycle and reuse resources where possible, minimising waste and must include the safe disposal of waste.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "15058347-92f7-4241-bf5e-662ad05a4d66",
@@ -300,7 +300,7 @@
     "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-10-15T00:00:00 +00:00",
@@ -320,12 +320,12 @@
     "Tape edger"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Manufacturing, Process and Control",
+  "pathway": "Engineering, manufacturing, process and control",
   "cluster": "Manufacturing operative",
   "clusterId": "264",
-  "clusterDescription": null,
+  "clusterDescription": "Routine assembly of manufactured products",
   "createdDate": "2024-09-05T10:40:26 +00:00",
   "lastUpdated": "2024-11-06T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-10-15T00:00:00 +00:00",
@@ -338,7 +338,7 @@
     {
       "dutyID": "e71e05d1-98d8-4eb4-b102-c1ab17a3d7f5",
       "dutyDetail": "Receive, read and interpret job specifications. For example drawings and technical information. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "64ee5781-76e2-494c-9673-f0f55d1726e2"
       ],
@@ -363,7 +363,7 @@
     {
       "dutyID": "efd5324f-1bcf-4c1f-81cb-3e0fe2a9f90d",
       "dutyDetail": "Maintain the work area for health, safety, and environmental compliance before, during, and after the mattress manufacturing activity. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "64ee5781-76e2-494c-9673-f0f55d1726e2",
         "fbd50e78-66a3-41a3-befd-a6cede138bef",
@@ -397,7 +397,7 @@
     {
       "dutyID": "697a55fa-d110-4859-a1e8-7316ab55c5ef",
       "dutyDetail": "Plan work and resources to complete mattress manufacturing activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "64ee5781-76e2-494c-9673-f0f55d1726e2",
         "356f4711-9db1-4983-aee6-e3f3436672eb",
@@ -432,7 +432,7 @@
     {
       "dutyID": "5a19c55e-6de8-4855-a5b8-af433488be85",
       "dutyDetail": "Organise availability and condition of machinery, tools, equipment and materials.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "64ee5781-76e2-494c-9673-f0f55d1726e2",
         "fbd50e78-66a3-41a3-befd-a6cede138bef",
@@ -463,7 +463,7 @@
     {
       "dutyID": "3057e0ca-7914-48f6-9687-395d2026b3a4",
       "dutyDetail": "Perform first line maintenance tasks on mattress manufacturing  machinery, tools and equipment. For example, checking, cleaning and lubricating.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "64ee5781-76e2-494c-9673-f0f55d1726e2",
         "fbd50e78-66a3-41a3-befd-a6cede138bef"
@@ -489,7 +489,7 @@
     {
       "dutyID": "e60dcf3e-66b2-411e-bf66-0f94b9621216",
       "dutyDetail": "Prepare for operation of machinery, power tools, hand tools and equipment used to manufacture mattresses.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "64ee5781-76e2-494c-9673-f0f55d1726e2",
         "fbd50e78-66a3-41a3-befd-a6cede138bef"
@@ -517,7 +517,7 @@
     {
       "dutyID": "8f66870f-3aba-4b93-9a0b-3e0e975b47b8",
       "dutyDetail": "Prepare materials for mattress construction. Resolve flaws or issues with materials. For example, cutting, sewing and quilting mattress panels and components using hand or automated equipment.    ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "64ee5781-76e2-494c-9673-f0f55d1726e2",
         "fbd50e78-66a3-41a3-befd-a6cede138bef"
@@ -550,7 +550,7 @@
     {
       "dutyID": "d6594419-8e0b-47ba-b3e9-3256953c1898",
       "dutyDetail": "Assemble mattress core. For example, apply the insulator, cushioning layers, springs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "64ee5781-76e2-494c-9673-f0f55d1726e2",
         "fbd50e78-66a3-41a3-befd-a6cede138bef"
@@ -578,7 +578,7 @@
     {
       "dutyID": "eee2c3cc-c07a-4ec7-8e2a-2dfd39f156a0",
       "dutyDetail": "Complete finishes to mattress assembly. For example, tufting, tape edging using hand or automated equipment. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "64ee5781-76e2-494c-9673-f0f55d1726e2",
         "fbd50e78-66a3-41a3-befd-a6cede138bef"
@@ -606,7 +606,7 @@
     {
       "dutyID": "9bf64af8-d4b1-4757-b962-8c9d789fc01d",
       "dutyDetail": "Complete rectification, repair, or rework on mattresses where necessary. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "64ee5781-76e2-494c-9673-f0f55d1726e2",
         "fbd50e78-66a3-41a3-befd-a6cede138bef"
@@ -634,7 +634,7 @@
     {
       "dutyID": "992fe922-c8ca-4704-ad02-1073e1ff98e2",
       "dutyDetail": "Pack and store completed mattresses and conduct quality assurance checks. Rectify or report issues.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "64ee5781-76e2-494c-9673-f0f55d1726e2",
         "fbd50e78-66a3-41a3-befd-a6cede138bef"
@@ -662,7 +662,7 @@
     {
       "dutyID": "8d4dd8c3-43a7-488a-a3cb-a4f7a817ca85",
       "dutyDetail": "Complete documentation relating to the mattress manufacturing process. For example, job sheets, work to do lists, production records.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "64ee5781-76e2-494c-9673-f0f55d1726e2"
       ],
@@ -686,7 +686,7 @@
     {
       "dutyID": "f75d0bc4-5ad2-4861-b55f-04267a447d20",
       "dutyDetail": "Support continuous improvement and problem solving activities. For example, identify issues to address business needs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "64ee5781-76e2-494c-9673-f0f55d1726e2",
         "fbd50e78-66a3-41a3-befd-a6cede138bef",
