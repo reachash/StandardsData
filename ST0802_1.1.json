@@ -325,7 +325,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-02-03T00:00:00 +00:00",
@@ -346,12 +346,12 @@
     "Façade installer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Onsite Construction",
   "cluster": "Core building tradesperson",
   "clusterId": "5",
-  "clusterDescription": null,
+  "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
   "createdDate": "2024-03-21T13:59:04 +00:00",
   "lastUpdated": "2024-09-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-02-03T00:00:00 +00:00",
@@ -364,7 +364,7 @@
     {
       "dutyID": "ebc619f9-32cc-4c56-b380-edc771b6bbb8",
       "dutyDetail": "Work in compliance with occupational health, safety and environmental requirements to ensure the health, safety and wellbeing of self and others at all times",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c3152ba-b0a2-49e5-a4f0-bf017fc6af2c"
       ],
@@ -394,7 +394,7 @@
     {
       "dutyID": "ab2bd9f5-4d8f-485a-903d-6b7201438761",
       "dutyDetail": "Interpret drawings, specifications, risk assessments, method statements, programmes, systems manuals, regulations and standards",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "d8ee194e-737c-4992-b11b-c5accb215528",
@@ -422,7 +422,7 @@
     {
       "dutyID": "a915ed49-59e5-4866-a6dd-59de50851126",
       "dutyDetail": "Receive, handle, store, load, transport and position materials and components safely",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c3152ba-b0a2-49e5-a4f0-bf017fc6af2c",
         "e832e3ef-25d0-49d6-b290-0c987fd7a6e0"
@@ -449,7 +449,7 @@
     {
       "dutyID": "d0556058-3dc8-49f0-8f83-b3a159870fa5",
       "dutyDetail": "Prepare the site, materials and access equipment ready for installation",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c3152ba-b0a2-49e5-a4f0-bf017fc6af2c",
         "1198a658-797f-432c-b960-14f4985c3969"
@@ -475,7 +475,7 @@
     {
       "dutyID": "93c45174-c0f5-4914-aa32-5ca5d25f3ce2",
       "dutyDetail": "Use the appropriate hand tools, power tools and equipment to install curtain walling to industry standards",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c3152ba-b0a2-49e5-a4f0-bf017fc6af2c"
       ],
@@ -502,7 +502,7 @@
     {
       "dutyID": "64cba606-ba4c-4af0-812c-4e216e3488be",
       "dutyDetail": "Install and fix grid work and datum in line with specifications",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c3152ba-b0a2-49e5-a4f0-bf017fc6af2c",
         "b2c0e6f6-e323-4f45-80bc-f144482034e3",
@@ -537,7 +537,7 @@
     {
       "dutyID": "12354043-7239-45d5-b3f3-4ab6dbd83266",
       "dutyDetail": "Identify and confirm installation requirements and components",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c3152ba-b0a2-49e5-a4f0-bf017fc6af2c",
         "b2c0e6f6-e323-4f45-80bc-f144482034e3",
@@ -577,7 +577,7 @@
     {
       "dutyID": "b17bb14b-9d84-4805-94c9-88bee2de34a4",
       "dutyDetail": "Install required setting blocks and support pieces to ensure correct load transfer of infill element",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c3152ba-b0a2-49e5-a4f0-bf017fc6af2c",
         "b2c0e6f6-e323-4f45-80bc-f144482034e3",
@@ -610,7 +610,7 @@
     {
       "dutyID": "867bcd50-356f-496b-8809-7e53e6027566",
       "dutyDetail": "Conduct installation in accordance with manufacturers' instructions and information and client requirements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c3152ba-b0a2-49e5-a4f0-bf017fc6af2c",
         "1198a658-797f-432c-b960-14f4985c3969",
@@ -643,7 +643,7 @@
     {
       "dutyID": "ffdb1cf5-14b0-4f87-b1ff-b31dc3a52d26",
       "dutyDetail": " Perimeter sealing to surrounding structure to ensure weather and air tightness",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c3152ba-b0a2-49e5-a4f0-bf017fc6af2c",
         "e832e3ef-25d0-49d6-b290-0c987fd7a6e0"
@@ -666,7 +666,7 @@
     {
       "dutyID": "f4e5eda3-2d18-40c0-8c83-41d0693422f0",
       "dutyDetail": "Secure infills to the correct torque setting.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c3152ba-b0a2-49e5-a4f0-bf017fc6af2c"
       ],
@@ -696,7 +696,7 @@
     {
       "dutyID": "20e92e0e-34f5-4f6a-ab4f-7ef2f0fd97b0",
       "dutyDetail": "Apply decorative face caps, gaskets or weather seals ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c3152ba-b0a2-49e5-a4f0-bf017fc6af2c"
       ],
@@ -718,7 +718,7 @@
     {
       "dutyID": "fbe58682-1a13-4b2b-bbf8-8e92b3bc4686",
       "dutyDetail": "Conduct interim and final inspections of the work to ensure adherence to specifications and project specific drawings and work instructions",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1198a658-797f-432c-b960-14f4985c3969",
         "e832e3ef-25d0-49d6-b290-0c987fd7a6e0",
@@ -749,7 +749,7 @@
     {
       "dutyID": "91019d72-73c4-448e-a0ae-2c19c18dd1ea",
       "dutyDetail": "Clean and handover to customer including main contractors, clients, architects, fabrication specialists, façade specialist",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2c0e6f6-e323-4f45-80bc-f144482034e3",
         "1198a658-797f-432c-b960-14f4985c3969",
@@ -780,7 +780,7 @@
     {
       "dutyID": "236e392a-07ea-44c1-843b-7fc752069218",
       "dutyDetail": "Complete project documentation at the relevant stages of the project",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1198a658-797f-432c-b960-14f4985c3969",
         "e832e3ef-25d0-49d6-b290-0c987fd7a6e0"
@@ -807,7 +807,7 @@
     {
       "dutyID": "261c769b-4dd4-4816-bb17-daa8b4c359d8",
       "dutyDetail": "Maintain a clear and safe worksite at all times, promoting sustainable building practices",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c3152ba-b0a2-49e5-a4f0-bf017fc6af2c"
       ],
