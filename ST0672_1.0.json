@@ -232,7 +232,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-12-16T00:00:00 +00:00",
@@ -258,12 +258,12 @@
     "Instrument engineer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Design and Development",
+  "pathway": "Engineering, design and development",
   "cluster": "Design and development engineer",
   "clusterId": "253",
-  "clusterDescription": null,
+  "clusterDescription": "Design and develop a range of products and/or process technologies using discipline and applications specific expertise",
   "createdDate": "2020-12-18T08:43:56 +00:00",
   "lastUpdated": "2022-06-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-12-16T00:00:00 +00:00",
@@ -289,7 +289,7 @@
     {
       "dutyID": "ff1b7f0f-055c-42cd-90ba-cb15677957db",
       "dutyDetail": "Identify and derive technical requirements for electro-mechanical projects or systems. The right requirements will ensure that any compliant final product will provide the desired function and performance, i.e. solve the problem at hand. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2d1a7db-e97a-4d6a-bb97-615248db347d",
         "c258dbd8-c377-4b72-8fda-dbda5b8fd22c",
@@ -320,7 +320,7 @@
     {
       "dutyID": "a5465835-eaa7-4472-9e86-03adc687fa1b",
       "dutyDetail": "Design or redesign electro-mechanical products or systems to fulfil customer and technical requirements. The design must consider the interface between the mechanical and electrical elements of the product. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3d31dfaf-7116-4b0f-b74b-677bb515b726",
         "b2d1a7db-e97a-4d6a-bb97-615248db347d",
@@ -363,7 +363,7 @@
     {
       "dutyID": "30353d99-e768-4401-b5c7-77a2db0d908b",
       "dutyDetail": "Create and utilise technical analyses models or simulations to predict the performance of products or systems. This includes modelling and analysis of electrical circuit behaviour and of mechanical behaviour (for example structural strength, kinematics, dynamic response).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2d1a7db-e97a-4d6a-bb97-615248db347d",
         "ed7c653b-b569-40b9-9e57-7b8ebf20f84d",
@@ -395,7 +395,7 @@
     {
       "dutyID": "0ff1df03-6301-43f6-9a41-9d2cd5269e7a",
       "dutyDetail": "Build or oversee the production of prototype systems, components or specimens to test functionality and performance of products.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3d31dfaf-7116-4b0f-b74b-677bb515b726",
         "4dce4246-755f-49c7-b1c6-6a139f7b6cf4",
@@ -428,7 +428,7 @@
     {
       "dutyID": "d39699c6-2c7e-4e3b-9528-eb8e660bf282",
       "dutyDetail": "Develop, define and execute testing of products or systems including:\r\na) Gathering and use of existing data to establish test needs\r\nb) Development testing of concept solutions and alternative designs\r\nc) Qualification testing of final design, including safety cases ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3d31dfaf-7116-4b0f-b74b-677bb515b726",
         "4dce4246-755f-49c7-b1c6-6a139f7b6cf4",
@@ -459,7 +459,7 @@
     {
       "dutyID": "fc77bc3a-5673-4e22-b8b1-1edd0d108d87",
       "dutyDetail": "Analyse test data and in-service data to review the suitability and performance of products or systems, including big data analytics.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2d1a7db-e97a-4d6a-bb97-615248db347d",
         "c258dbd8-c377-4b72-8fda-dbda5b8fd22c",
@@ -483,7 +483,7 @@
     {
       "dutyID": "1ed07ecd-0ad2-480d-be4f-77a63100c0d9",
       "dutyDetail": "Verify that products/systems comply with legislative and company standards throughout the life cycle, including quality, environmental, health & safety standards. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3d31dfaf-7116-4b0f-b74b-677bb515b726",
         "4dce4246-755f-49c7-b1c6-6a139f7b6cf4",
@@ -512,7 +512,7 @@
     {
       "dutyID": "8bb6c94d-9643-45b9-920d-6069e2e88eef",
       "dutyDetail": "Review performance of in-service products/systems, assess the cause of any faults or problems, and propose ways to fix them. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3d31dfaf-7116-4b0f-b74b-677bb515b726",
         "4dce4246-755f-49c7-b1c6-6a139f7b6cf4",
@@ -546,7 +546,7 @@
     {
       "dutyID": "80d33df3-ffd1-40a4-9aae-450f897076d3",
       "dutyDetail": "Plan and lead the delivery of an allocated work stream, ensuring integration with the wider project and company objectives/strategies. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3d31dfaf-7116-4b0f-b74b-677bb515b726",
         "b2d1a7db-e97a-4d6a-bb97-615248db347d",
@@ -575,7 +575,7 @@
     {
       "dutyID": "0fc1ec12-9973-49d8-9693-0e93f4b4ac4d",
       "dutyDetail": "Communicate information, progress, risks and issues at all levels of the business, including through formal technical reports.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2d1a7db-e97a-4d6a-bb97-615248db347d",
         "ed7c653b-b569-40b9-9e57-7b8ebf20f84d",
@@ -603,7 +603,7 @@
     {
       "dutyID": "aa5ed49b-ed3a-4e27-a2e0-400255d94e2b",
       "dutyDetail": "Contribute to risk identification and risk management processes within the scope of allocated work stream. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3d31dfaf-7116-4b0f-b74b-677bb515b726",
         "b2d1a7db-e97a-4d6a-bb97-615248db347d",
