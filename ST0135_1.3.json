@@ -281,7 +281,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-04-03T00:00:00 +00:00",
@@ -303,10 +303,10 @@
     "Childminder assistant"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Education and Childcare",
-  "cluster": "Primary/Secondary/Tertiary Teaching and Support Assistant",
+  "pathway": "Education and early years",
+  "cluster": "Primary or secondary or tertiary teaching and support assistant",
   "clusterId": "176",
   "clusterDescription": "Supports the development of a students' learning skills, behaviours and overall knowledge both one-to-one and in a small group",
   "createdDate": "2024-03-14T08:51:45 +00:00",
@@ -337,7 +337,7 @@
     {
       "dutyID": "333f983c-39bd-4dd5-b68e-ea2faad4de79",
       "dutyDetail": "Support children's learning and development through applying knowledge of pedagogy and the observation, assessment, and planning cycle.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "fd620a65-1b9b-491e-babd-8bf4a61076c1",
@@ -358,7 +358,7 @@
     {
       "dutyID": "1fe277bf-732e-4009-9021-12b63bef570c",
       "dutyDetail": "Develop secure and supportive relationships with children and families as the key person for children in their care, advocating for those children.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b13406d7-d67f-452c-83ef-b166ce11cc15",
         "e0764062-1320-4dd2-8ee4-799146bc21fc"
@@ -384,7 +384,7 @@
     {
       "dutyID": "2006c432-abd0-46a3-be09-6c59870f8b44",
       "dutyDetail": "Provide respectful and responsive physical and emotional care to children, promoting health and wellbeing.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d72ab11d-735b-45d1-a513-a8dedbe3c6eb",
         "e0764062-1320-4dd2-8ee4-799146bc21fc"
@@ -407,7 +407,7 @@
     {
       "dutyID": "a0d9d2a6-9c30-4424-a22e-70bf94c77a43",
       "dutyDetail": "Work with key individuals in children’s lives (for example parents, families, and carers) to improve all children’s outcomes and wellbeing.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b13406d7-d67f-452c-83ef-b166ce11cc15",
         "43b93907-73fc-4d63-a2ac-c367e6c1b2b3",
@@ -438,7 +438,7 @@
     {
       "dutyID": "a7884ded-3ded-4890-ab9c-4d96efc5a570",
       "dutyDetail": "Work in partnership with other organisations and agencies to support children’s learning, development, health and wellbeing.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b13406d7-d67f-452c-83ef-b166ce11cc15",
         "43b93907-73fc-4d63-a2ac-c367e6c1b2b3",
@@ -468,7 +468,7 @@
     {
       "dutyID": "cf36c01b-d09a-4839-9e48-f3e0c3f27afb",
       "dutyDetail": "Support the implementation of change to improve practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b13406d7-d67f-452c-83ef-b166ce11cc15",
         "878f1266-f0e2-44f1-97b0-40122d82f453",
@@ -486,7 +486,7 @@
     {
       "dutyID": "486c8384-106f-4cba-a9a7-5f7be333cd79",
       "dutyDetail": "Initiate and engage in continuous professional development, underpinned by reflective practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "878f1266-f0e2-44f1-97b0-40122d82f453",
         "75ac8ddd-66cc-4ba6-ae59-b606e13828c1"
@@ -504,7 +504,7 @@
     {
       "dutyID": "6561e430-20cb-4460-aaa7-4c25f84c30ad",
       "dutyDetail": "Ensure compliance with child protection and safeguarding legislation, policies, and procedures. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b13406d7-d67f-452c-83ef-b166ce11cc15",
         "c94081c3-8cf4-4856-bc64-0ca6f51b4e09",
@@ -526,7 +526,7 @@
     {
       "dutyID": "be8b58d0-e126-4e38-a8ea-25b6ae422ab0",
       "dutyDetail": "Work in ways that promote and support equality, diversity, and the inclusion of all children, respecting their social and cultural context.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b13406d7-d67f-452c-83ef-b166ce11cc15",
         "43b93907-73fc-4d63-a2ac-c367e6c1b2b3",
@@ -558,7 +558,7 @@
     {
       "dutyID": "aa1f7811-b92b-4543-85c6-8bc878aaac07",
       "dutyDetail": "Ensure compliance with Health and Safety legislation, policies, and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c94081c3-8cf4-4856-bc64-0ca6f51b4e09",
         "d72ab11d-735b-45d1-a513-a8dedbe3c6eb"
@@ -581,7 +581,7 @@
     {
       "dutyID": "d37b7c96-475c-4b77-8cc8-79ec0a2ca2ff",
       "dutyDetail": "Use technology to record and update information for example observations, assessments, reports, risk assessments, and safeguarding concerns.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "e1ef5956-67d3-4974-acbd-bd09b96c681d",
@@ -599,7 +599,7 @@
     {
       "dutyID": "375f8318-e136-40af-83e3-69a6c210330d",
       "dutyDetail": "Promote and engage in children’s play. Support all children to create and adapt the environment to reflect their interests and enable their learning and development.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06a8caba-3d13-4a9c-b109-a4eababc86a1"
       ],
@@ -636,7 +636,7 @@
     {
       "dutyID": "64f28102-9939-423f-8b84-c4117025856a",
       "dutyDetail": "Ensure legal requirements of statutory frameworks are met within policy, procedure, and practice. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b13406d7-d67f-452c-83ef-b166ce11cc15",
         "c94081c3-8cf4-4856-bc64-0ca6f51b4e09",
