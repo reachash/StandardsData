@@ -335,7 +335,7 @@
     "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-08-19T00:00:00 +00:00",
@@ -357,12 +357,12 @@
     "Multi-skilled site maintenance technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Maintenance, Installation & Repair",
-  "cluster": "Service, repair and or or overhaul operative or technician",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Service, repair and/or overhaul operative or technician",
   "clusterId": "19",
-  "clusterDescription": null,
+  "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2024-06-26T08:47:24 +00:00",
   "lastUpdated": "2024-09-06T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-08-19T00:00:00 +00:00",
@@ -397,7 +397,7 @@
     {
       "dutyID": "19633cae-4622-42e8-85b7-60d87b61b3b9",
       "dutyDetail": "Accept responsibility for the task and complete any preparatory documentation or opening of electronic recording that may be required to commence the task.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "34b43570-dd16-4c04-adf1-afa32d8acc2d",
         "eb49aebb-e704-43ed-bd1c-e6d858c2e85e",
@@ -434,7 +434,7 @@
     {
       "dutyID": "ec235d8a-d286-443c-a01f-7862365b312f",
       "dutyDetail": "Plan and prepare the maintenance activities to cause minimal disruption to normal working, agree planned actions and obtain any required permits or permissions required to carry out the task. Communicate and report issues affecting equipment availability that may impact on operations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "34b43570-dd16-4c04-adf1-afa32d8acc2d",
         "eb49aebb-e704-43ed-bd1c-e6d858c2e85e",
@@ -472,7 +472,7 @@
     {
       "dutyID": "0b14d5c5-5f45-451d-8d2b-066c0a704bda",
       "dutyDetail": "Select, obtain and prepare all resources required to carry out the task for example:  tools, materials, documentation, permits. Carry out pre-use checks of equipment, tools and other resources.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "34b43570-dd16-4c04-adf1-afa32d8acc2d",
         "eb49aebb-e704-43ed-bd1c-e6d858c2e85e",
@@ -505,7 +505,7 @@
     {
       "dutyID": "76419ad5-9479-409c-afed-26f30ef21270",
       "dutyDetail": "Set up safe systems of work ensuring that statutory regulations and organisational compliance requirements are met.   ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "eb49aebb-e704-43ed-bd1c-e6d858c2e85e",
         "28e4d1df-b88e-4867-b3eb-a33ba8f939c3"
@@ -532,7 +532,7 @@
     {
       "dutyID": "81f6bc73-9570-41d0-95d5-f65976906cc8",
       "dutyDetail": "Manufacture, repair or refurbish components using a range of hand and machine tools.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "34b43570-dd16-4c04-adf1-afa32d8acc2d",
         "eb49aebb-e704-43ed-bd1c-e6d858c2e85e",
@@ -561,7 +561,7 @@
     {
       "dutyID": "1122995f-8770-4cd6-b6c6-8abae2fa1851",
       "dutyDetail": "Perform mechatronics maintenance activities ensuring all parts and consumables used in the maintenance activity comply with manufacturers specifications.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "34b43570-dd16-4c04-adf1-afa32d8acc2d",
         "eb49aebb-e704-43ed-bd1c-e6d858c2e85e",
@@ -598,7 +598,7 @@
     {
       "dutyID": "61197439-271b-4092-b570-1d93377489d6",
       "dutyDetail": "Revise, edit, update and store documentation. Comply with organisational policies and legislation regarding document and electronic storage.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "34b43570-dd16-4c04-adf1-afa32d8acc2d",
         "eb49aebb-e704-43ed-bd1c-e6d858c2e85e",
@@ -633,7 +633,7 @@
     {
       "dutyID": "c261deee-269f-4f6c-b8b2-6df402c3aa4a",
       "dutyDetail": "Carry out planned preventative maintenance including functional, static and operational checks on complex equipment and assets.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "34b43570-dd16-4c04-adf1-afa32d8acc2d",
         "eb49aebb-e704-43ed-bd1c-e6d858c2e85e",
@@ -669,7 +669,7 @@
     {
       "dutyID": "f22cd60b-ecc8-4a2b-a4a0-cea37b33c129",
       "dutyDetail": "Apply condition monitoring techniques or use condition monitoring results (for example oil, vibration, thermal, NDT) to determine equipment condition.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "34b43570-dd16-4c04-adf1-afa32d8acc2d",
         "eb49aebb-e704-43ed-bd1c-e6d858c2e85e",
@@ -695,7 +695,7 @@
     {
       "dutyID": "ab961019-20cc-4c2f-b055-667c8e3a0435",
       "dutyDetail": "Use a range of test and measuring equipment (including both electrical and physical measures) and appropriate calculations required to carry out the task and to aid in fault diagnosis.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "34b43570-dd16-4c04-adf1-afa32d8acc2d",
         "eb49aebb-e704-43ed-bd1c-e6d858c2e85e",
@@ -734,7 +734,7 @@
     {
       "dutyID": "deb73525-7af9-4be3-a11c-532639038518",
       "dutyDetail": "Return equipment to operational condition, re-connect any ancillary equipment and services, and carry out required functional, static, quality and operational checks to confirm equipment serviceability and fitness for purpose.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "34b43570-dd16-4c04-adf1-afa32d8acc2d",
         "eb49aebb-e704-43ed-bd1c-e6d858c2e85e",
@@ -767,7 +767,7 @@
     {
       "dutyID": "5817e412-9f28-462f-ad7b-92d54f932b92",
       "dutyDetail": "Restore workplace and leave in a safe condition. Hand over completed work to responsible parties confirming completion of maintenance activities.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "34b43570-dd16-4c04-adf1-afa32d8acc2d",
         "eb49aebb-e704-43ed-bd1c-e6d858c2e85e",
@@ -801,7 +801,7 @@
     {
       "dutyID": "6c7e0fd9-2313-44d9-914b-149f699c37a6",
       "dutyDetail": "Carry out continuous improvement and identify possible opportunities for improvements and efficiencies which add value to business activities. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "701ca462-0387-4e3c-b059-6bb4b2d38ed6",
         "34b43570-dd16-4c04-adf1-afa32d8acc2d",
@@ -826,7 +826,7 @@
     {
       "dutyID": "156f5194-95d3-4d53-8031-7215a70555f0",
       "dutyDetail": "Communicate with stakeholders to achieve work goals. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a09120a1-97ca-4340-827e-19e0f6c1af49",
         "eb49aebb-e704-43ed-bd1c-e6d858c2e85e",
