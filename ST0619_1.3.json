@@ -795,12 +795,12 @@
     "Diagnostic radiographer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
   "cluster": "Health professional",
   "clusterId": "6",
-  "clusterDescription": null,
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2023-06-23T08:11:05 +00:00",
   "lastUpdated": "2023-09-01T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-04-05T00:00:00 +00:00",
@@ -822,7 +822,7 @@
     {
       "dutyID": "96461fa8-4095-4b6b-be38-2c55f448f8ca",
       "dutyDetail": "Practise safely and effectively within the scope of practice and within the legal and ethical boundaries of the profession.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6f6f7e3b-22b2-4628-a1e6-6996d6720d11",
         "e7e0551e-aec2-4c88-99df-6ab8a2931752",
@@ -861,7 +861,7 @@
     {
       "dutyID": "7d5f8e7f-04dd-4e53-9c75-d8f8b8f9ea36",
       "dutyDetail": "Look after own health and wellbeing, seeking appropriate support where necessary.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "43f106c6-4c4c-4a36-a566-554e63e4dcca",
         "2b529d20-e6da-4a40-9fae-57b5f16784ce"
@@ -880,7 +880,7 @@
     {
       "dutyID": "3e00d252-bcf7-4523-b481-3d6d58135196",
       "dutyDetail": "Practise as an autonomous professional, exercising professional judgement.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6f6f7e3b-22b2-4628-a1e6-6996d6720d11",
         "2b529d20-e6da-4a40-9fae-57b5f16784ce"
@@ -903,7 +903,7 @@
     {
       "dutyID": "20ed1f64-f375-4a5b-9c9f-22eb18774d28",
       "dutyDetail": "Practise in a non-discriminatory and inclusive manner recognising the impact of culture, equality and diversity.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2b529d20-e6da-4a40-9fae-57b5f16784ce"
       ],
@@ -926,7 +926,7 @@
     {
       "dutyID": "086461ac-dace-494d-b3e7-b9b1cc65aa36",
       "dutyDetail": "Communicate effectively, maintaining confidentiality and records appropriately.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e7e0551e-aec2-4c88-99df-6ab8a2931752",
         "22a4267e-4fca-4c0e-8cdc-c12a8c9144e4",
@@ -962,7 +962,7 @@
     {
       "dutyID": "f2f9bec5-1efe-4e1f-bc2f-8910e817baa8",
       "dutyDetail": "Work appropriately with others.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e7e0551e-aec2-4c88-99df-6ab8a2931752",
         "22a4267e-4fca-4c0e-8cdc-c12a8c9144e4"
@@ -996,7 +996,7 @@
     {
       "dutyID": "30d1ef5e-cfb7-47b9-be31-0f97b6639f3c",
       "dutyDetail": "Reflect on, review and assure the quality of own practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6f6f7e3b-22b2-4628-a1e6-6996d6720d11",
         "2b529d20-e6da-4a40-9fae-57b5f16784ce",
@@ -1022,7 +1022,7 @@
     {
       "dutyID": "f5d3716a-2cf9-40c9-933e-6a69a23944e3",
       "dutyDetail": "Draw on appropriate knowledge and skills to inform practice and apply the key concepts of the knowledge base relevant to the profession.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2b529d20-e6da-4a40-9fae-57b5f16784ce"
       ],
@@ -1104,7 +1104,7 @@
     {
       "dutyID": "e1d72438-7e83-4c42-a54f-2be5c33dfa54",
       "dutyDetail": "Establish and maintain a safe practice environment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6f6f7e3b-22b2-4628-a1e6-6996d6720d11",
         "e7e0551e-aec2-4c88-99df-6ab8a2931752",
@@ -1132,7 +1132,7 @@
     {
       "dutyID": "abc7dee6-a576-4836-a730-62e074bcaa49",
       "dutyDetail": "Promote public health and prevent ill health.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e7e0551e-aec2-4c88-99df-6ab8a2931752",
         "2b529d20-e6da-4a40-9fae-57b5f16784ce",
