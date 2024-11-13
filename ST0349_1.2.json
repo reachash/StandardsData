@@ -240,7 +240,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-04-27T00:00:00 +00:00",
@@ -259,10 +259,10 @@
     "Welding fabricator"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Manufacturing, Process and Control",
-  "cluster": "Fabrication and Welding Operative/Technician",
+  "pathway": "Engineering, manufacturing, process and control",
+  "cluster": "Fabrication and welding operative or technician",
   "clusterId": "259",
   "clusterDescription": "Make products and plant by cutting, forming, jointing and shaping of materials",
   "createdDate": "2024-04-29T10:47:45 +00:00",
@@ -326,7 +326,7 @@
     {
       "dutyID": "abb843eb-5d9e-4677-965d-215e14c48484",
       "dutyDetail": "Conduct safety checks of welding equipment and surrounding work areas",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4d9b7f4c-ccd8-4117-b52e-f2eb9223db79",
         "ead84c68-3923-43b0-8300-04699df8f86c",
@@ -354,7 +354,7 @@
     {
       "dutyID": "93fff018-c1d2-4c1f-aa2d-bd9c986537bb",
       "dutyDetail": "Receive and read welding data and documentation, engineering drawings and technical data",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "830fdd8b-56b3-4d78-aa6e-8761f5441ef1"
       ],
@@ -373,7 +373,7 @@
     {
       "dutyID": "982fa175-8b7b-4fb0-943e-6226a8a30266",
       "dutyDetail": "Identify, check and inspect materials to be welded and ensure they conform to quality standards. Report issues, such as incorrect grade, dimensions and thicknesses",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "830fdd8b-56b3-4d78-aa6e-8761f5441ef1",
         "c5803fb9-9e1f-45fa-b1b2-76f8c7811dd4"
@@ -397,7 +397,7 @@
     {
       "dutyID": "43eb9719-2bcc-41fb-8d56-8d15e109f053",
       "dutyDetail": "Plan and prepare for welding activities. Ensure that consumables, work area and materials for use are correct. This applies to basic or complex welding tasks",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4d9b7f4c-ccd8-4117-b52e-f2eb9223db79",
         "ead84c68-3923-43b0-8300-04699df8f86c",
@@ -431,7 +431,7 @@
     {
       "dutyID": "eb1e8041-a021-499a-bdce-ba20ed8b40b3",
       "dutyDetail": "Set up, operate and adjust welding controls for the welding equipment being used",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4d9b7f4c-ccd8-4117-b52e-f2eb9223db79",
         "ead84c68-3923-43b0-8300-04699df8f86c",
@@ -461,7 +461,7 @@
     {
       "dutyID": "b93e8add-167d-4ef6-8b73-071ef2c9a971",
       "dutyDetail": "Weld components to create an interim assembly or finished product",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4d9b7f4c-ccd8-4117-b52e-f2eb9223db79",
         "ead84c68-3923-43b0-8300-04699df8f86c",
@@ -490,7 +490,7 @@
     {
       "dutyID": "e058489d-10f1-44b7-857e-56d1d76422d2",
       "dutyDetail": "Inspect welds produced for dimensional and surface weld quality to ensure compliance prior to release",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "830fdd8b-56b3-4d78-aa6e-8761f5441ef1"
       ],
@@ -510,7 +510,7 @@
     {
       "dutyID": "1209fed5-cef6-4408-8981-089bb47ab5d3",
       "dutyDetail": "Identify, communicate and report issues affecting weld quality",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "830fdd8b-56b3-4d78-aa6e-8761f5441ef1"
       ],
@@ -539,7 +539,7 @@
     {
       "dutyID": "e89e07cb-d7bc-45c5-b97a-9bd5f99a8b08",
       "dutyDetail": "Complete welding documentation at all stages of the work activity. For example, Production Control Cards",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4d9b7f4c-ccd8-4117-b52e-f2eb9223db79",
         "830fdd8b-56b3-4d78-aa6e-8761f5441ef1"
@@ -560,7 +560,7 @@
     {
       "dutyID": "daebe1a1-6bff-40ae-8ff1-f959cfe65395",
       "dutyDetail": "Restore the work area and equipment to a safe and reliable condition on completion of welding, including remediation and recycling",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4d9b7f4c-ccd8-4117-b52e-f2eb9223db79",
         "ead84c68-3923-43b0-8300-04699df8f86c",
@@ -584,7 +584,7 @@
     {
       "dutyID": "9555da8f-d2ce-4c5b-96df-d9fb68e07d14",
       "dutyDetail": "Ensure tools, consumables, unused materials and equipment are returned to a safe, clean and approved condition on completion of welding work",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ead84c68-3923-43b0-8300-04699df8f86c",
         "830fdd8b-56b3-4d78-aa6e-8761f5441ef1"
