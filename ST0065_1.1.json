@@ -358,7 +358,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-03-24T00:00:00 +00:00",
@@ -377,10 +377,10 @@
     "Installation engineer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Building Services Engineering",
-  "cluster": "Building Services Engineering Operative/Technician",
+  "cluster": "Building services engineering operative or technician",
   "clusterId": "65",
   "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
   "createdDate": "2024-03-15T10:06:27 +00:00",
@@ -395,7 +395,7 @@
     {
       "dutyID": "ec0391e3-53fe-42e2-863e-a84b4d2010e5",
       "dutyDetail": "Comply with health, safety, and environmental regulations; building regulations; industry guidance notes and relevant codes of practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5a737e2d-babd-4ab1-a981-237deb4cd35d",
         "9f6069a4-6d08-495a-af39-13296a73c706",
@@ -440,7 +440,7 @@
     {
       "dutyID": "e7edab53-4c5b-4a40-902f-569010306aca",
       "dutyDetail": "Plan, and organise to undertake the installation of industrial and commercial systems pipework, components and fittings, in ways which uses resources to complete allocated work tasks",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "29670ec2-d2f5-40d4-a391-a1115597d3e4",
@@ -474,7 +474,7 @@
     {
       "dutyID": "73aa1752-51d9-4c94-bd07-f9939629865b",
       "dutyDetail": "Prepare work areas to undertake allocated pipework, components and fittings installation work tasks",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9f6069a4-6d08-495a-af39-13296a73c706",
         "5c02fc5b-d914-49e3-a99a-52f25262d1a2"
@@ -511,7 +511,7 @@
     {
       "dutyID": "f242f5b9-ddce-44ff-966f-3c5c32367ccd",
       "dutyDetail": "Apply pipework fabrication, installation and jointing techniques",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9f6069a4-6d08-495a-af39-13296a73c706"
       ],
@@ -550,7 +550,7 @@
     {
       "dutyID": "234fdc34-2bac-4e63-97e9-f134fec9bc4d",
       "dutyDetail": "Undertake allocated work tasks in the testing of pipework installed",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9f6069a4-6d08-495a-af39-13296a73c706",
         "5c02fc5b-d914-49e3-a99a-52f25262d1a2"
@@ -591,7 +591,7 @@
     {
       "dutyID": "22349d9c-006a-420c-9075-19cf982a8304",
       "dutyDetail": "Communicate and liaise with own project team, and those in other teams, such as clients or specialist contractors.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "13e48fb8-fd37-4f22-a3ab-cfa450b8d06a",
@@ -627,7 +627,7 @@
     {
       "dutyID": "a2398db7-e284-465a-8cfb-5c71fa6e7451",
       "dutyDetail": "Restore work area to a safe and reliable condition, to prescribed standards of cleanliness on completion of installation work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "98b09c6d-73eb-4311-ba35-215e2c37ebe9",
@@ -647,7 +647,7 @@
     {
       "dutyID": "0219effb-1396-4c63-98fd-766a3c276929",
       "dutyDetail": "Complete relevant work documentation in accordance with organisation policy and procedures",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "aed5fbc2-622a-4e7d-bbcc-c680d889f606",
@@ -675,7 +675,7 @@
     {
       "dutyID": "49e35b83-a0ec-4813-a5e4-d0b71bc57767",
       "dutyDetail": "Develop and maintain skills in using a range of practical and workshop techniques",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9f6069a4-6d08-495a-af39-13296a73c706",
         "fd45cb4f-e9a5-44fb-9af4-d4f40cd56086",
