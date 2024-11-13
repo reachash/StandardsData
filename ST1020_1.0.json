@@ -239,7 +239,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-08-09T00:00:00 +00:00",
@@ -258,12 +258,12 @@
     "Renewable heating installer/technician/engineer",
     "Solar thermal installer/technician/engineer"
   ],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Building Services Engineering",
   "cluster": "Building services engineering operative or technician",
   "clusterId": "65",
-  "clusterDescription": null,
+  "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
   "createdDate": "2023-09-27T12:46:06 +00:00",
   "lastUpdated": "2024-01-17T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-08-09T00:00:00 +00:00",
@@ -276,7 +276,7 @@
     {
       "dutyID": "b78317b8-2f51-4a6d-bf1b-9d2ff05b57e6",
       "dutyDetail": "Plan low carbon heating and hot water systems to meet customers’ needs and in accordance with manufacturers guidance, regulatory requirements and industry recognised standards and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "97162e63-5838-4226-94d1-3c7a2e85aae1",
         "c2c9deae-bd8d-4801-806f-6a7781f2feb7",
@@ -312,7 +312,7 @@
     {
       "dutyID": "940ed5e2-7172-4024-9f43-fe3beb5fd780",
       "dutyDetail": "Select and size low carbon heating and hot water systems to meet customers’ needs and in accordance with manufacturers guidance, regulatory requirements and industry recognised standards and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "97162e63-5838-4226-94d1-3c7a2e85aae1",
         "c2c9deae-bd8d-4801-806f-6a7781f2feb7",
@@ -345,7 +345,7 @@
     {
       "dutyID": "258e5e8d-42fd-47da-b1bb-5dfaa0ad0890",
       "dutyDetail": "Carry out preparatory work for the Installation of low carbon heating and hot water systems. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "97162e63-5838-4226-94d1-3c7a2e85aae1",
         "c2c9deae-bd8d-4801-806f-6a7781f2feb7",
@@ -379,7 +379,7 @@
     {
       "dutyID": "a2e181ec-504f-48e8-868b-51a4c4daf74a",
       "dutyDetail": "Install low carbon heating and hot water systems in accordance with design criteria, manufacturers guidance, regulatory requirements and industry recognised standards and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "97162e63-5838-4226-94d1-3c7a2e85aae1",
         "c2c9deae-bd8d-4801-806f-6a7781f2feb7",
@@ -415,7 +415,7 @@
     {
       "dutyID": "42b03f35-45dd-4bb2-8298-80b13d9d89d3",
       "dutyDetail": "Test and commission low carbon heating and hot water system installations in accordance with manufacturers guidance, regulatory requirements and industry recognised standards and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "97162e63-5838-4226-94d1-3c7a2e85aae1",
         "c2c9deae-bd8d-4801-806f-6a7781f2feb7",
@@ -450,7 +450,7 @@
     {
       "dutyID": "e462dc71-8778-494a-b1bd-acfedf62a51d",
       "dutyDetail": "Carry out appropriate handover procedures for low carbon heating and hot water systems to customers and or end users including the provision of written information, diagrammatic information, verbal information and demonstration regarding the systems operation and use.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "97162e63-5838-4226-94d1-3c7a2e85aae1",
         "c2c9deae-bd8d-4801-806f-6a7781f2feb7",
@@ -484,7 +484,7 @@
     {
       "dutyID": "9260f00e-bb05-4eac-9ea1-69edd7d6405e",
       "dutyDetail": "Carry out routine service and maintenance procedures on low carbon heating and hot water systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "97162e63-5838-4226-94d1-3c7a2e85aae1",
         "c2c9deae-bd8d-4801-806f-6a7781f2feb7",
@@ -526,7 +526,7 @@
     {
       "dutyID": "cad2927f-be26-461b-8f28-16a97309c18d",
       "dutyDetail": "Perform fault finding, diagnosis and rectification procedures on low carbon heating and hot water systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "97162e63-5838-4226-94d1-3c7a2e85aae1",
         "c2c9deae-bd8d-4801-806f-6a7781f2feb7",
@@ -565,7 +565,7 @@
     {
       "dutyID": "41001810-6e18-4839-a6cd-96f68bc0d13b",
       "dutyDetail": "Decommission heating and hot water systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "97162e63-5838-4226-94d1-3c7a2e85aae1",
         "c2c9deae-bd8d-4801-806f-6a7781f2feb7",
@@ -600,7 +600,7 @@
     {
       "dutyID": "dc6732a1-3870-4ce6-b5c3-28d0e8c6d9d9",
       "dutyDetail": "Conform to all health, safety and welfare in the workplace requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "97162e63-5838-4226-94d1-3c7a2e85aae1",
         "c2c9deae-bd8d-4801-806f-6a7781f2feb7",
