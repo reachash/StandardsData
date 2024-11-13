@@ -310,7 +310,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2017-05-16T00:00:00 +00:00",
@@ -327,7 +327,7 @@
     "Steel fixer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Onsite Construction",
   "cluster": "Metal and steel operative",
@@ -345,7 +345,7 @@
     {
       "dutyID": "b5f8830a-771b-4af0-9bd9-b374a89298d8",
       "dutyDetail": "Work in compliance with occupational health and safety and environmental legislation, relevant regulations, and recognised industry guidance to ensure the health, safety and wellbeing of self and others always. Report in a timely manner any non-compliances to the appropriate person.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "698ddcd2-97ce-47f3-bb54-66f90f714219",
         "d28f3a33-757e-4f44-9efb-cb4ce6c01dc7",
@@ -404,7 +404,7 @@
     {
       "dutyID": "4f66f0e8-e143-45f0-b053-7504b2bcf6b8",
       "dutyDetail": "Deliver work in accordance with design and specification. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "1c3803ca-2975-4271-9d07-387ca41f9446",
@@ -450,7 +450,7 @@
     {
       "dutyID": "9c5ae0e0-7577-46cc-8b66-256aefab53e9",
       "dutyDetail": "Use a range of equipment, hand and power tools to carry out the assembly and installation of reinforcing steel.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "09b11ef6-de59-4f61-8e98-4302f2efc4be",
@@ -484,7 +484,7 @@
     {
       "dutyID": "d8324305-a7ad-4313-9bce-54f15574469b",
       "dutyDetail": "Measure, cut and bend reinforcing steel. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "09b11ef6-de59-4f61-8e98-4302f2efc4be",
@@ -516,7 +516,7 @@
     {
       "dutyID": "2e8152e7-1ce6-4dfc-8c7d-c9e5d51a4332",
       "dutyDetail": "Prepare the work area, checking it is safe and in accordance with method statements and risk assessments and implement the necessary control measures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "09b11ef6-de59-4f61-8e98-4302f2efc4be",
@@ -538,7 +538,7 @@
     {
       "dutyID": "414039c4-8b92-4287-92a8-20dbc9520849",
       "dutyDetail": "Maintain a clear and tidy workspace and ensure that waste materials are disposed of in accordance with current legislation and sustainably.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d28f3a33-757e-4f44-9efb-cb4ce6c01dc7"
       ],
@@ -560,7 +560,7 @@
     {
       "dutyID": "53480ee5-f8ab-4d2b-a9ae-2db80d9b3a4f",
       "dutyDetail": "Work to the construction programme, adapting to changes in schedule and requirements where necessary.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "92c30f63-5579-423f-b69e-c4ec207cbe68"
       ],
@@ -584,7 +584,7 @@
     {
       "dutyID": "1d19fc75-1d75-4e1a-a4f6-d0eeab94dfda",
       "dutyDetail": "Carry out quality checks against specification and take remedial action where instructed. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "3030fb8b-fbec-4d84-8c7e-ef0569da6b21",
@@ -624,7 +624,7 @@
     {
       "dutyID": "5ede30b5-1189-43cd-9476-f60533af9293",
       "dutyDetail": "Conduct work safely at height.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "698ddcd2-97ce-47f3-bb54-66f90f714219"
       ],
@@ -661,7 +661,7 @@
     {
       "dutyID": "3e757a3c-4bc4-44b3-be84-ad649bfe178d",
       "dutyDetail": "Collaborate with stakeholders such as clients and other construction trades.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "698ddcd2-97ce-47f3-bb54-66f90f714219",
         "92c30f63-5579-423f-b69e-c4ec207cbe68",
@@ -711,7 +711,7 @@
     {
       "dutyID": "c7714ba3-0acd-40dc-908c-76e53fd30f03",
       "dutyDetail": "Carry out continuous professional development to maintain knowledge of current and future developments affecting the role.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d7f29d88-300a-4cb5-9e2c-a6c44b4ad053"
       ],
