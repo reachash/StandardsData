@@ -239,7 +239,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-08-24T00:00:00 +00:00",
@@ -265,12 +265,12 @@
     "Spacecraft propulsion engineering technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Design and Development",
+  "pathway": "Engineering, design and development",
   "cluster": "Design and development technical manager",
   "clusterId": "254",
-  "clusterDescription": null,
+  "clusterDescription": "Design and develop whole product and/or process technologies using a specific discipline or technology or application expertise",
   "createdDate": "2023-04-25T09:24:26 +00:00",
   "lastUpdated": "2023-04-25T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-08-24T00:00:00 +00:00",
@@ -302,7 +302,7 @@
     {
       "dutyID": "4d161c49-db0a-430c-9757-584b9d26aa03",
       "dutyDetail": "Plan, prepare and carry out inspection, fabrication or assembly of spacecraft components and subsystems to meet required specification and quality requirements in appropriately controlled environments.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3a1c4ea2-a087-4ab5-b966-53d068a995b4",
         "cc96b8cf-d090-4376-a9dd-9d44491b1cf7",
@@ -339,7 +339,7 @@
     {
       "dutyID": "c64dcee1-3347-46d8-a44f-223b547cc071",
       "dutyDetail": "Deal with problems that occur within the activity (such as unexpected behaviour of a component or assembly, incorrect fitting of parts or missing procedural information in a process being undertaken) in line with responsibilities of the role in a structured and controlled approach.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3a1c4ea2-a087-4ab5-b966-53d068a995b4",
         "cc96b8cf-d090-4376-a9dd-9d44491b1cf7",
@@ -367,7 +367,7 @@
     {
       "dutyID": "9f1a3b05-c0a4-4e0c-9799-b4b77fc86609",
       "dutyDetail": "Complete documentation (such as Non Conformance Reports and Technical Build Records) at the appropriate stages of the work activity.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3a1c4ea2-a087-4ab5-b966-53d068a995b4",
         "cc96b8cf-d090-4376-a9dd-9d44491b1cf7"
@@ -392,7 +392,7 @@
     {
       "dutyID": "33fe07d0-f911-44b5-a49a-6d3e8485ac18",
       "dutyDetail": "Review processes and procedures to identify improvements to quality and efficiency of e.g. products and processes, including the generation of engineering change requests.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cc96b8cf-d090-4376-a9dd-9d44491b1cf7",
         "3d530149-b611-43a8-b180-a8ddc4514f8b",
@@ -419,7 +419,7 @@
     {
       "dutyID": "77697a31-d8de-4b75-88d3-1d34b2a27f98",
       "dutyDetail": "Contribute to definition of spacecraft and subsystem integration, validation,  verification and qualification plans, procedures and presentation of test results to support correlation including space-specific testing such as vibration, thermal vacuum and electromagnetic compatibility testing.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3a1c4ea2-a087-4ab5-b966-53d068a995b4",
         "b3fcfdd6-92ed-450b-b902-1e2e1d016411"
@@ -450,7 +450,7 @@
     {
       "dutyID": "534a8cc0-9a7c-4848-aa81-17ab61195adf",
       "dutyDetail": "Carry out integration and testing activities at subsystem and spacecraft, launch vehicle and ground level (for example, performing a functional test of a communications subsystem; participating in the installation of a subsystem within the complete spacecraft; monitoring of  subsystems during comprehensive system testing).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3a1c4ea2-a087-4ab5-b966-53d068a995b4",
         "cc96b8cf-d090-4376-a9dd-9d44491b1cf7",
@@ -484,7 +484,7 @@
     {
       "dutyID": "5f41a571-ceac-470d-9063-75324b947abd",
       "dutyDetail": "Operate equipment, subsystems and systems (such as analysis tools, ground support equipment and flight assemblies) in compliance with written operational procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "71a02a2e-4bea-4f64-96cf-4c5036ab2103",
         "e5869dbd-bbb3-4a57-9ce6-fa828829fd43"
@@ -508,7 +508,7 @@
     {
       "dutyID": "db1036c0-7b3b-4bee-8624-62f71920dbc1",
       "dutyDetail": "Build and test precision components and assemblies such as electronics boards, deployment mechanisms and fuel cooling pipework to design specifications.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cc96b8cf-d090-4376-a9dd-9d44491b1cf7"
       ],
@@ -533,7 +533,7 @@
     {
       "dutyID": "6f3c9553-1d7c-4a87-8bca-21a3a59be915",
       "dutyDetail": "Carry out inspection activities on equipment, components and systems (for example, use of microscopes to inspect electronics assemblies; helium leak testing of thermal vacuum chambers, thermal cycling and optical alignment).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3a1c4ea2-a087-4ab5-b966-53d068a995b4",
         "cc96b8cf-d090-4376-a9dd-9d44491b1cf7",
@@ -562,7 +562,7 @@
     {
       "dutyID": "57f0ed2b-dd08-41e0-93b1-124f1e99fdfe",
       "dutyDetail": "Monitor, test, fault find, and maintain manufacturing plant and equipment (such as thermal vacuum chambers, composite layup systems, and soldering stations) and carry out scheduled service activities on production infrastructure.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cc96b8cf-d090-4376-a9dd-9d44491b1cf7",
         "fab410de-23a5-4a74-8638-27e0d5b3e2ca",
