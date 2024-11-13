@@ -177,7 +177,7 @@
     "Tax technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Accountancy",
   "cluster": "Accounting or tax technician",
@@ -202,7 +202,7 @@
     {
       "dutyID": "cb0e70f1-e31e-49ee-8bd5-72bfc25708b5",
       "dutyDetail": "prepare and review Self-Assessment Tax Returns and supporting schedules and documentation for the area of tax specialism relevant to the team",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -212,7 +212,7 @@
     {
       "dutyID": "c0af1966-fdae-4154-a801-61550a5fc06a",
       "dutyDetail": "assist senior colleagues in liaising with stakeholders to gather information and communicate on routine matters.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -222,7 +222,7 @@
     {
       "dutyID": "54f98423-3f34-4456-84d0-aee7fae371e3",
       "dutyDetail": "assist in the creation of solutions for stakeholders on a range of tax matters such as Income Tax, Capital Gains Tax, Inheritance Tax ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -232,7 +232,7 @@
     {
       "dutyID": "07bb6fb5-c1a7-4542-b0d6-fd6d8782fbe0",
       "dutyDetail": "assist in dealing with HMRC enquiries and comply with the requirements of HMRC and government digital systems",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -242,7 +242,7 @@
     {
       "dutyID": "6ae8e3e1-bef2-4c19-9c26-1390a86c8e4c",
       "dutyDetail": "identify and draw attention to opportunities for enhancing delivery and providing additional services such as support for meeting overseas tax obligations. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -252,7 +252,7 @@
     {
       "dutyID": "e34e2ad9-d4a7-48f5-9c81-d7e9a2d6a8b7",
       "dutyDetail": "build and maintain strong stakeholder relationships including with finance colleagues within the organisation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -262,7 +262,7 @@
     {
       "dutyID": "62e01555-2db9-4a2e-99ef-cabab3d0ce8c",
       "dutyDetail": "ensure data is collected and stored accurately and confidentiality.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -272,7 +272,7 @@
     {
       "dutyID": "418670d2-4633-4dc7-a30a-7fc75043d567",
       "dutyDetail": "assist in the full compliance process from requesting information from stakeholders to completing final tax returns which are drafted to send for agreement.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -282,7 +282,7 @@
     {
       "dutyID": "c5cbf734-11fb-4388-8079-221fca079158",
       "dutyDetail": "undertake tax analysis of key data such as expenditure",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -292,7 +292,7 @@
     {
       "dutyID": "53068871-788e-4d70-89bf-d0ce4461d8cb",
       "dutyDetail": "assist with claims for reliefs and repayments within legislative timescales being mindful of the impact of the tax calendar ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -302,7 +302,7 @@
     {
       "dutyID": "43e8bf2f-2a8b-4b22-a071-f9406182ca68",
       "dutyDetail": "assist in maintaining robust and auditable records of taxation activities including working papers and communications that inform the completion of taxation returns and documentation",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -312,7 +312,7 @@
     {
       "dutyID": "52e75cb6-1d75-4e54-bd35-e9a24a7867f4",
       "dutyDetail": "co-ordinate accounting and finance input from colleagues and peers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -322,7 +322,7 @@
     {
       "dutyID": "73b3cc24-0d3e-4f48-9310-ef76ce11c1a8",
       "dutyDetail": "apply professional scepticism to identify and evaluate what information is missing or incomplete and takes steps to obtain it.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -332,7 +332,7 @@
     {
       "dutyID": "e3bccc9c-0c40-4ebb-85b1-5784fb904477",
       "dutyDetail": "communicate and present accurate and timely data to stakeholders, on an ad hoc and regular basis, using an appropriate channel to meet deadlines.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -342,7 +342,7 @@
     {
       "dutyID": "f44816ca-27bb-454b-814b-67e39e996bd6",
       "dutyDetail": "use financial digital and technology systems and processes to support the delivery of accurate and timely tax information.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -352,7 +352,7 @@
     {
       "dutyID": "02e1402e-ddc8-4099-bb63-5ec0d897f615",
       "dutyDetail": "deliver taxation activities taking account of confidentiality, reputational risks and data security.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -362,7 +362,7 @@
     {
       "dutyID": "582a858e-144e-4089-893d-b5162696d568",
       "dutyDetail": "undertake Continuous Professional Development by keeping up to date with relevant statutory obligations and procedural best practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -372,7 +372,7 @@
     {
       "dutyID": "074ad445-9db1-4a5f-bddf-9057ea91ebbd",
       "dutyDetail": "collaborate with stakeholders at appropriate levels to deliver a service that meets customer’s needs with a commitment to professional and ethical standards, for example, professional code of conduct and duty of confidentiality as appropriate.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -382,7 +382,7 @@
     {
       "dutyID": "dc2bd17e-036c-45c2-ac4f-42d360e25cd5",
       "dutyDetail": "undertake scheduled reporting of taxation information. This will include the timely collation of data from a range of sources, including both predictable routine taxation, finance and accounting data requirements and unexpected requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -392,7 +392,7 @@
     {
       "dutyID": "a9d6e78c-9fee-4db2-a20a-d39c349cd15e",
       "dutyDetail": "complete and maintain taxation records including the timely collation of routine and specialised data from a range of sources. For example, different functions within one organisation, or a range of external clients if operating in practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
