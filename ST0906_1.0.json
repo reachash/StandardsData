@@ -297,7 +297,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-12-07T00:00:00 +00:00",
@@ -320,12 +320,12 @@
     "Youth Support Worker"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Care Services",
   "cluster": "Children, young people and families worker",
   "clusterId": "48",
-  "clusterDescription": null,
+  "clusterDescription": "Assess, review and deliver services to support and meet the needs of clients under the direct guidance of professional leadership",
   "createdDate": "2020-12-04T16:22:57 +00:00",
   "lastUpdated": "2020-12-07T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-12-07T00:00:00 +00:00",
@@ -354,7 +354,7 @@
     {
       "dutyID": "6bffdcd3-3285-4240-8739-78140cbb97ac",
       "dutyDetail": "Establish and maintain relationships with young people",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aec07e74-4fec-440a-ac4f-c338df088677",
         "8bb0b526-629c-44f5-adf5-f16a55ebd154",
@@ -378,7 +378,7 @@
     {
       "dutyID": "d46c8c50-035a-44ed-aed9-690bd23bff01",
       "dutyDetail": "Establish and maintain relationships with community groups and/or key partners.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8bb0b526-629c-44f5-adf5-f16a55ebd154",
         "aa8d4b1f-3622-4375-8724-ef1439074784",
@@ -399,7 +399,7 @@
     {
       "dutyID": "ada338f2-6bb8-4f8c-853a-fb7142da3fa7",
       "dutyDetail": "Use informal education practices to develop young people’s social education; providing programmes of activities, services and facilities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8bb0b526-629c-44f5-adf5-f16a55ebd154",
         "8cb29b77-6ecc-4801-b403-8cab9a6617db",
@@ -422,7 +422,7 @@
     {
       "dutyID": "99683609-f2b2-4a28-8a49-65edfb7441f1",
       "dutyDetail": "Actively participate in supervision with a professional youth worker or equivalent",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aec07e74-4fec-440a-ac4f-c338df088677",
         "aa8d4b1f-3622-4375-8724-ef1439074784",
@@ -443,7 +443,7 @@
     {
       "dutyID": "08df77bf-d3cf-436f-b6a6-ba27ccad001e",
       "dutyDetail": "Plan for, deliver  and evaluate  youth work experiences supported by the supervision of a professional youth worker or equivalent",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aec07e74-4fec-440a-ac4f-c338df088677",
         "8bb0b526-629c-44f5-adf5-f16a55ebd154",
@@ -473,7 +473,7 @@
     {
       "dutyID": "2789af82-f78a-45f9-9517-4a6d1e0add8e",
       "dutyDetail": "Enable young people to explore their values,  beliefs and identity",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aec07e74-4fec-440a-ac4f-c338df088677",
         "8bb0b526-629c-44f5-adf5-f16a55ebd154",
@@ -498,7 +498,7 @@
     {
       "dutyID": "ee820607-3448-4dd8-8280-83622d5e8331",
       "dutyDetail": "Work with young people in line with youth participation principles to promote and facilitate youth voice and influence",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aec07e74-4fec-440a-ac4f-c338df088677",
         "8bb0b526-629c-44f5-adf5-f16a55ebd154",
@@ -524,7 +524,7 @@
     {
       "dutyID": "6f724647-a7e2-41c5-816b-f82e38f5e4e2",
       "dutyDetail": "Work within relevant legislative requirements including those regarding Health and Safety, Child Protection, Safeguarding, Data Protection and the Equalities Act 2010",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aec07e74-4fec-440a-ac4f-c338df088677",
         "072ea7e5-209c-4a6b-9ec6-0401b3e0311a",
@@ -549,7 +549,7 @@
     {
       "dutyID": "6f9257a5-bf8f-434a-9441-b5212f5716a9",
       "dutyDetail": "Maintain a safe environment for group work under the supervision of a JNC qualified professional range youth worker or equivalent*",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aec07e74-4fec-440a-ac4f-c338df088677",
         "8bb0b526-629c-44f5-adf5-f16a55ebd154",
@@ -567,7 +567,7 @@
     {
       "dutyID": "5d24fc3b-81c2-4695-9287-c938a1b8cce9",
       "dutyDetail": "Perform and ensure the discharge of administrative duties (for example budget control, records keeping or reporting)",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "072ea7e5-209c-4a6b-9ec6-0401b3e0311a",
         "77fda829-cd61-4ca1-9300-0d8d6f9f388d"
@@ -586,7 +586,7 @@
     {
       "dutyID": "0b772f23-f670-49b6-9e41-b6e7149790b3",
       "dutyDetail": "Line management responsibility for assistant youth support workers, sessional workers, volunteers or peer leaders, including recruiting, developing and support",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aec07e74-4fec-440a-ac4f-c338df088677",
         "8bb0b526-629c-44f5-adf5-f16a55ebd154",
