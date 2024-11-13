@@ -247,7 +247,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-08-29T00:00:00 +00:00",
@@ -270,12 +270,12 @@
     "Production manager",
     "Trainee farm manager"
   ],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Agricultural manager",
   "clusterId": "154",
-  "clusterDescription": null,
+  "clusterDescription": "Management of a whole agriculture enterprise or specific sections of an enterprise (e.g. livestock, fisheries).",
   "createdDate": "2024-02-06T10:45:12 +00:00",
   "lastUpdated": "2024-02-07T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-08-29T00:00:00 +00:00",
@@ -313,7 +313,7 @@
     {
       "dutyID": "d2627bc8-ab02-4a4b-b289-b785a4469ffd",
       "dutyDetail": "Review performance of their area of responsibility within a farming enterprise to evaluate results and set plans for business, financial and production improvements that contribute to strategy and implementation on the ground in the day-to-day farming operations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b35e6e4e-ee51-4861-85b0-3ea85af78227"
       ],
@@ -332,7 +332,7 @@
     {
       "dutyID": "a67f9a23-58a3-4a4b-a74e-95f2fe1a550a",
       "dutyDetail": "Create and implement soil management plans that focus on the balance between nutritional requirements for crop grasses, soil and environmental requirements, informed by relevant soil analysis data and working with others.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "74cea937-b87f-4f83-9e42-47221409b1e1",
@@ -347,7 +347,7 @@
     {
       "dutyID": "ebc5c2d8-3a27-4be5-9bd4-c4544abc6504",
       "dutyDetail": "Develop and implement plans to manage organic by-product and inorganic waste produced by the business that adhere to legislative and environmental permitting requirements, as well as management of nitrate vulnerable zones.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "5edd0af6-49cc-432d-9279-d689f24efe41",
@@ -363,7 +363,7 @@
     {
       "dutyID": "09eb78cb-a068-467d-8635-b0df72fc3a08",
       "dutyDetail": "Plan and implement farm business environmental operations that meet compliance and legal requirements, including environmental practices, emerging legislation, Net Zero, health and safety and and farm bi-product such as slurry/manure.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "f0ec8b8b-bf57-40db-979f-24bfcda30f9b",
@@ -380,7 +380,7 @@
     {
       "dutyID": "055f3e58-0500-40c0-ab67-39e2cda70af9",
       "dutyDetail": "Implement scientific principles and good practice for relevant specialisms, e.g. livestock and/or crop (such as Welfare Codes, Biosecurity, COPs, 5 freedoms, Crop husbandry/Integrated Pest Management), that adhere to business crop and/or livestock health plan, and work with third parties to carry out recommendations. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "96a254b3-bc4d-4c88-b3a5-fa382154b3b4",
@@ -398,7 +398,7 @@
     {
       "dutyID": "90d735a1-61a1-4afd-896a-8f70692e0ca2",
       "dutyDetail": "Assist with the development of long-term farm business plans and working within strategic plans to improve the profitability of each enterprise (for  example, but not limited to agriculture support payments linked to marketing plan, horizon scanning, policy, external environment updates and commercial contracts)",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b35e6e4e-ee51-4861-85b0-3ea85af78227"
       ],
@@ -418,7 +418,7 @@
     {
       "dutyID": "6896c86c-2a38-416f-b00a-038562a014ac",
       "dutyDetail": "Interact and engage across the supply chain (e.g. genetics, feed) to produce products and or services to specification requirements that meets business and end-use and or consumer needs. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "e148487f-5a5e-463b-8d9a-8a9b6e22fb32",
@@ -435,7 +435,7 @@
     {
       "dutyID": "3cec8192-a2ee-489e-8baa-f3732be3e698",
       "dutyDetail": "Assist with planning, utilisation, management and replacement of machinery and infrastructure, in line with business policy and ensuring Return on Investment. For example, tractor, harvesters, temperature-controlled rooms, or robotics",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "7845f48f-fd58-4ccf-970b-58f5f5b76eff",
@@ -451,7 +451,7 @@
     {
       "dutyID": "710730c9-6769-471d-aca3-56fa3e9815fc",
       "dutyDetail": "Use data analysis (for example, from dairy robots, yield mapping, soil analysis, livestock feed nutrient analysis, machine calibration) to produce recommendations for improving business efficiency.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b35e6e4e-ee51-4861-85b0-3ea85af78227"
       ],
@@ -471,7 +471,7 @@
     {
       "dutyID": "911d500f-ee67-4e8b-95cc-34a2fd6c01dd",
       "dutyDetail": "Interpret basic farm financial records to benchmark against other farm businesses and set targets for improvement. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b35e6e4e-ee51-4861-85b0-3ea85af78227"
       ],
@@ -492,7 +492,7 @@
     {
       "dutyID": "7c54d9ee-09b6-4118-9c49-6d5b3f87e4bd",
       "dutyDetail": "Manage people within their influence on a day-to-day basis, supporting own and others’ Continuing Professional Development and taking responsibility to develop own leadership skills to help motivate the team and external stakeholders for mutual benefit. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "748269b0-a2ac-4cbc-9c6c-f97936746e75",
         "ab0a4d9f-9c8d-47db-bc09-7815cdee02f0",
@@ -511,7 +511,7 @@
     {
       "dutyID": "7f019b21-2720-42ac-9ff3-04211af770c3",
       "dutyDetail": "Manage communications with stakeholders that involve complex terminology (e.g. veterinary surgeons, agronomists, consultants), adapting communication method and style where relevant.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "16c01312-ed6f-429a-a8c3-acc6263b274e"
@@ -525,7 +525,7 @@
     {
       "dutyID": "58ed26c5-8300-4134-b85d-6d7275cc9f9a",
       "dutyDetail": "Maintain records in accordance with legal and industry audit requirements that allow facilitation and provision of evidence for compliance purposes. (For example but not restricted to farm assurance, rural payments agency, animal and plant health authority, trading standards etc)",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "7f20ed49-da04-430b-ab3a-b0e6620e2e92"
@@ -539,7 +539,7 @@
     {
       "dutyID": "e9eabb19-91ff-4c3b-afe8-ee696dc2ce1f",
       "dutyDetail": "Promote a positive health and safety and wellbeing culture within the organisation, managing risk and multiple complex (indoor working, outdoor working, lone workers machinery, live animals) work environments safely, physically and mentally, for self and others. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ab15b0b8-7a25-47bc-a399-700bc80b9d96"
       ],
@@ -556,7 +556,7 @@
     {
       "dutyID": "1679643b-6165-4e0b-b362-1f39f855b9ab",
       "dutyDetail": "Assist in the evaluation of sources of financial capital investment, including suitability and risk. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "c61eeb9d-c06f-4424-b849-e4fc9c6c8ab4"
