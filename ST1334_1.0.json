@@ -298,7 +298,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-06-08T00:00:00 +00:00",
@@ -317,10 +317,10 @@
     "Senior bricklayer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Onsite Construction",
-  "cluster": "Core Building Tradesperson",
+  "cluster": "Core building tradesperson",
   "clusterId": "5",
   "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
   "createdDate": "2023-11-24T11:12:14 +00:00",
@@ -335,7 +335,7 @@
     {
       "dutyID": "d078ced1-bc81-4482-9bee-76af03a5adba",
       "dutyDetail": "Work in compliance with occupational health, safety and environmental requirements to ensure the health, safety and wellbeing of self and others at all times. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2e6ea666-66fe-4ca1-97f3-f56aa6487638",
         "47c3a1fc-4988-4897-a0b8-0d77ccc035cf",
@@ -401,7 +401,7 @@
     {
       "dutyID": "31b187c6-0c7e-478b-91e7-707fd83b86b4",
       "dutyDetail": "Carry out their work in compliance with all current and relevant building regulations and quality standards, where appropriate checking the work of others for compliance. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2e6ea666-66fe-4ca1-97f3-f56aa6487638",
         "47c3a1fc-4988-4897-a0b8-0d77ccc035cf",
@@ -473,7 +473,7 @@
     {
       "dutyID": "f1ce538d-a970-4fea-abe8-07fe633203a4",
       "dutyDetail": "Lead the bricklaying team in the delivery of the construction programme including interpreting technical specifications, manufacturers instructions and drawings, including digital information. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2e6ea666-66fe-4ca1-97f3-f56aa6487638",
         "47c3a1fc-4988-4897-a0b8-0d77ccc035cf",
@@ -539,7 +539,7 @@
     {
       "dutyID": "f0512d07-a7ce-4604-b7b6-7e74fc97b4e4",
       "dutyDetail": "Plan and organise the work site including setting out the work site materials and tools appropriate to the project for self and others.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2e6ea666-66fe-4ca1-97f3-f56aa6487638",
         "47c3a1fc-4988-4897-a0b8-0d77ccc035cf",
@@ -608,7 +608,7 @@
     {
       "dutyID": "350d405f-7235-4530-aa3f-87b1c6214889",
       "dutyDetail": "Plan the work to obtain optimum environmental, quality and schedule performance from the team, hand tools, power tools and associated equipment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2e6ea666-66fe-4ca1-97f3-f56aa6487638",
         "47c3a1fc-4988-4897-a0b8-0d77ccc035cf",
@@ -673,7 +673,7 @@
     {
       "dutyID": "53034186-c974-4a92-94ed-9c430f021653",
       "dutyDetail": "Construct complex masonry structures to industry standards and specifications. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2e6ea666-66fe-4ca1-97f3-f56aa6487638",
         "47c3a1fc-4988-4897-a0b8-0d77ccc035cf",
@@ -743,7 +743,7 @@
     {
       "dutyID": "13103fdd-3f8d-422a-9f80-56ed573b5c03",
       "dutyDetail": "Work effectively on their own and supervise others.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2e6ea666-66fe-4ca1-97f3-f56aa6487638",
         "47c3a1fc-4988-4897-a0b8-0d77ccc035cf",
@@ -815,7 +815,7 @@
     {
       "dutyID": "35da213b-21a8-4e38-8a35-2fe4aedfe2a2",
       "dutyDetail": "Maintain a clear and safe worksite at all times, promoting sustainable building practices. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2e6ea666-66fe-4ca1-97f3-f56aa6487638",
         "47c3a1fc-4988-4897-a0b8-0d77ccc035cf",
@@ -883,7 +883,7 @@
     {
       "dutyID": "4e803009-2fe7-4990-9c26-4c7703952e42",
       "dutyDetail": "Carry out continuous professional development to maintain knowledge of current and future developments affecting the role and share with others.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2e6ea666-66fe-4ca1-97f3-f56aa6487638",
         "47c3a1fc-4988-4897-a0b8-0d77ccc035cf",
@@ -953,7 +953,7 @@
     {
       "dutyID": "cec36e31-e6f7-468c-a660-3c77988de245",
       "dutyDetail": "Proactively collaborate with stakeholders, clients and other construction trades, including programming and technical matters.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2e6ea666-66fe-4ca1-97f3-f56aa6487638",
         "47c3a1fc-4988-4897-a0b8-0d77ccc035cf",
@@ -1021,7 +1021,7 @@
     {
       "dutyID": "d29c3a1c-9c52-4cf7-bd0e-cdc4c8dedf86",
       "dutyDetail": "Repair, modify, maintain or replace a variety of masonry types.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2e6ea666-66fe-4ca1-97f3-f56aa6487638",
         "47c3a1fc-4988-4897-a0b8-0d77ccc035cf",
