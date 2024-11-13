@@ -259,7 +259,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2022-09-21T00:00:00 +00:00",
@@ -283,10 +283,10 @@
     "Train service manager"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Transport",
-  "cluster": "Transport Operations Operative/Technician",
+  "cluster": "Transport operations operative or technician",
   "clusterId": "16",
   "clusterDescription": "Support a transport facility's operation and/or support the loading and movement of a freight or passenger vehicle or vessel",
   "createdDate": "2024-09-04T16:21:16 +00:00",
@@ -308,7 +308,7 @@
     {
       "dutyID": "68d1360a-a94e-43e1-83a0-52c6be63eb22",
       "dutyDetail": "Operate compliantly in accordance with regulatory and organisational requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c38426-8fbe-4877-a467-cc871039e334",
         "51940183-8b76-4cc1-9443-539362da10df",
@@ -370,7 +370,7 @@
     {
       "dutyID": "e8399f8a-206c-44f5-bbd6-28c3bdba7425",
       "dutyDetail": "Prepare and deliver a handover at the beginning and the end of your shift.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c38426-8fbe-4877-a467-cc871039e334",
         "51940183-8b76-4cc1-9443-539362da10df",
@@ -432,7 +432,7 @@
     {
       "dutyID": "f6a98f2b-4a0b-4707-adf0-89ea2339ff1f",
       "dutyDetail": "Proactively working with other stakeholders involved in enabling the rail network to operate safely and efficiently. E.g., arranging protection to maintenance working on track, station staff, train operating companies and train crew.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c38426-8fbe-4877-a467-cc871039e334",
         "51940183-8b76-4cc1-9443-539362da10df",
@@ -494,7 +494,7 @@
     {
       "dutyID": "bd8272be-9bc3-4750-92cb-57e1e6da3862",
       "dutyDetail": "Control train movements in line with planned timetables.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c38426-8fbe-4877-a467-cc871039e334",
         "51940183-8b76-4cc1-9443-539362da10df",
@@ -556,7 +556,7 @@
     {
       "dutyID": "1b4469d6-8c2d-4698-a901-b053a8f79672",
       "dutyDetail": "Manage the progress of rail traffic against the timetable and adjust operations to help maintain efficient train services and avoid disruption.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c38426-8fbe-4877-a467-cc871039e334",
         "51940183-8b76-4cc1-9443-539362da10df",
@@ -618,7 +618,7 @@
     {
       "dutyID": "0dd027c4-a384-490d-a3be-94406f8ba8ab",
       "dutyDetail": "Manage your area of control, be situationally aware and respond to any reports of issues and/or concerns. E.g., reports of trespasses and animals on the line.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c38426-8fbe-4877-a467-cc871039e334",
         "51940183-8b76-4cc1-9443-539362da10df",
@@ -680,7 +680,7 @@
     {
       "dutyID": "f1dfd286-fec7-4c65-94ba-8cc4ce548535",
       "dutyDetail": "Contribute to the handling of routine degraded working, non-routine, and emergency incidents, as necessary.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c38426-8fbe-4877-a467-cc871039e334",
         "51940183-8b76-4cc1-9443-539362da10df",
@@ -742,7 +742,7 @@
     {
       "dutyID": "eace8a2c-15e6-4862-b26a-62461603bf7e",
       "dutyDetail": "Return the rail network to normal operation following an incident or disruption including working to any service recovery and mitigating the impact to customers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c38426-8fbe-4877-a467-cc871039e334",
         "51940183-8b76-4cc1-9443-539362da10df",
@@ -804,7 +804,7 @@
     {
       "dutyID": "50bd4a1b-9ba0-429b-8339-eb8051970d09",
       "dutyDetail": "Provide reports on network performance in line with requirements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c38426-8fbe-4877-a467-cc871039e334",
         "51940183-8b76-4cc1-9443-539362da10df",
@@ -866,7 +866,7 @@
     {
       "dutyID": "3aa0cdb2-fde2-49b7-b1be-f7080453f89f",
       "dutyDetail": "Take responsibility for information received regarding incidents and delays to proactively manage disruption to train services and return train services to normal timetable as soon as possible.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c38426-8fbe-4877-a467-cc871039e334",
         "51940183-8b76-4cc1-9443-539362da10df",
@@ -928,7 +928,7 @@
     {
       "dutyID": "57892c15-29ea-42c9-9d52-fa86e211d1ed",
       "dutyDetail": "Clearly communicate any alterations to the published train service that may affect the service to the customer.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c38426-8fbe-4877-a467-cc871039e334",
         "51940183-8b76-4cc1-9443-539362da10df",
@@ -990,7 +990,7 @@
     {
       "dutyID": "155c2b04-eef0-47af-8a57-dac5754764e5",
       "dutyDetail": "Maintain a log of activities and decisions relevant to the delivery of the train service, and during incidents.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c38426-8fbe-4877-a467-cc871039e334",
         "51940183-8b76-4cc1-9443-539362da10df",
