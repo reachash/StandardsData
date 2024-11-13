@@ -333,7 +333,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-06-24T00:00:00 +00:00",
@@ -358,12 +358,12 @@
     "Tv production assistant"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media and broadcast assistant",
   "clusterId": "42",
-  "clusterDescription": null,
+  "clusterDescription": "Production and distribution of media content using communications, archive and visual technology",
   "createdDate": "2023-08-11T09:25:37 +00:00",
   "lastUpdated": "2023-06-20T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-06-24T00:00:00 +00:00",
@@ -376,7 +376,7 @@
     {
       "dutyID": "e92419aa-3da6-41aa-bd2d-b87e68a6fffc",
       "dutyDetail": "Interpret a creative brief, scope, evaluate and develop production ideas. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d845b323-0627-41fb-9d3e-6649da54d81e",
         "6520d3c7-a7b0-483c-8366-fdbc6bfa4e8a"
@@ -398,7 +398,7 @@
     {
       "dutyID": "580ad951-7d4b-4de0-a230-b9d022b7855d",
       "dutyDetail": "Assist in the development of content and/or production assets.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d845b323-0627-41fb-9d3e-6649da54d81e",
         "6520d3c7-a7b0-483c-8366-fdbc6bfa4e8a"
@@ -421,7 +421,7 @@
     {
       "dutyID": "71b5c357-7836-4a73-a98e-3657b3af919c",
       "dutyDetail": "Contribute to the production process, monitoring budgets and resources and adapting to operational changes as required.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "85ca63e3-d165-42b9-9740-5b6488b9cfd8",
         "d3611d34-9963-4356-bd4d-da8dfc052376",
@@ -445,7 +445,7 @@
     {
       "dutyID": "ffdc2406-5210-4a22-b37c-d69f88f6a929",
       "dutyDetail": "Collaborate with internal and external stakeholders to plan and develop productions. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "85ca63e3-d165-42b9-9740-5b6488b9cfd8"
       ],
@@ -465,7 +465,7 @@
     {
       "dutyID": "0b7cd8d7-033b-4444-962c-d0e2910af645",
       "dutyDetail": "Maintain production documentation and/or programme logs. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6520d3c7-a7b0-483c-8366-fdbc6bfa4e8a"
       ],
@@ -486,7 +486,7 @@
     {
       "dutyID": "ecef1a28-fa0d-4375-929c-14a784ea5482",
       "dutyDetail": "Research, identify and suggest resources, logistics and equipment taking into consideration constraints. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "85ca63e3-d165-42b9-9740-5b6488b9cfd8",
         "278d141a-d08e-4f27-b755-c753ded60dff"
@@ -511,7 +511,7 @@
     {
       "dutyID": "44cd7b4b-ac65-4110-9afa-8053c50a3bbf",
       "dutyDetail": "Provide technical support to colleagues for audio and visual productions. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "85ca63e3-d165-42b9-9740-5b6488b9cfd8"
       ],
@@ -537,7 +537,7 @@
     {
       "dutyID": "c1295b3f-b4e4-4c05-8979-e3a6342c2c64",
       "dutyDetail": "Edit production content to meet production requirements. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6520d3c7-a7b0-483c-8366-fdbc6bfa4e8a"
       ],
@@ -560,7 +560,7 @@
     {
       "dutyID": "7fb94176-1385-4d10-afdc-077ae56ab193",
       "dutyDetail": "Reflect on the production and offer ideas for continuous improvement. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d845b323-0627-41fb-9d3e-6649da54d81e"
       ],
@@ -579,7 +579,7 @@
     {
       "dutyID": "2a79a832-e7cf-4b07-a3e6-981f671fad98",
       "dutyDetail": "Review your own professional practice and keep up-to-date with trends and technology. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d3611d34-9963-4356-bd4d-da8dfc052376",
         "278d141a-d08e-4f27-b755-c753ded60dff"
