@@ -183,7 +183,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-07-19T00:00:00 +00:00",
@@ -207,10 +207,10 @@
     "Junior cashier"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Accountancy",
-  "cluster": "Assistant Accountant",
+  "cluster": "Assistant accountant",
   "clusterId": "236",
   "clusterDescription": "Undertake routine accountancy support analysis and report on financial activities including dealing with HMRC",
   "createdDate": "2024-07-01T10:51:53 +00:00",
@@ -263,7 +263,7 @@
     {
       "dutyID": "0f7dfafb-d68a-49be-be1f-200ca069db64",
       "dutyDetail": " Be aware of the organisation's needs and activities and their impact for accounting and finance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1b3e89b9-ea47-42ac-bc08-3a4cd2cbeefb",
         "f313027f-e597-4e85-8589-7bec94854490",
@@ -292,7 +292,7 @@
     {
       "dutyID": "76ec7f07-40e0-4849-8714-68a5c9abc325",
       "dutyDetail": "Identify, collate and process financial and accounting data from primary sources such as business records. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f313027f-e597-4e85-8589-7bec94854490",
         "dd9b91a3-3ba4-4fc1-b012-f2ff00cd1c65",
@@ -321,7 +321,7 @@
     {
       "dutyID": "4ec46605-bcf9-4725-b382-31874c1933ab",
       "dutyDetail": "Examine financial and accounting data to identify issues with quality and reliability as instructed and in accordance with guidance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f313027f-e597-4e85-8589-7bec94854490",
         "dd9b91a3-3ba4-4fc1-b012-f2ff00cd1c65",
@@ -350,7 +350,7 @@
     {
       "dutyID": "44786511-2160-46ba-810d-01fb2a486749",
       "dutyDetail": "Rectify errors in financial and accounting data, escalating problems beyond their remit as appropriate.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5d3cb071-14af-4b56-ad12-002edd47cfb1",
         "f313027f-e597-4e85-8589-7bec94854490",
@@ -381,7 +381,7 @@
     {
       "dutyID": "62547d20-e841-4542-b6d1-c0cf70fb163c",
       "dutyDetail": "Reconcile transactional data to minimise the chance of errors in financial and accounting outputs such as sales and purchase invoices, sale and purchase orders, bank statements and payroll. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f313027f-e597-4e85-8589-7bec94854490",
         "dd9b91a3-3ba4-4fc1-b012-f2ff00cd1c65",
@@ -411,7 +411,7 @@
     {
       "dutyID": "c51b2cdb-49fa-402c-a0f3-1dc6b05c9217",
       "dutyDetail": "Plan and review workloads with supervisor to ensure best use of time to complete allocated tasks efficiently. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5d3cb071-14af-4b56-ad12-002edd47cfb1",
         "1b3e89b9-ea47-42ac-bc08-3a4cd2cbeefb",
@@ -437,7 +437,7 @@
     {
       "dutyID": "9a49dd62-878e-418e-9a5d-0c38d6b180c8",
       "dutyDetail": "Communicate with internal and external stakeholders using appropriate methods and professional language. Examples may include letters, ‘phone, face-to-face, e-mail, video call, online chat functions etc.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f313027f-e597-4e85-8589-7bec94854490",
         "7c86d332-0484-405b-8307-d57644a64442",
@@ -464,7 +464,7 @@
     {
       "dutyID": "fc8db8bd-7acb-405a-b622-3c4e5433df67",
       "dutyDetail": "Use financial and accounting software packages to input and manage data safely and securely in line with organisational instructions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f313027f-e597-4e85-8589-7bec94854490",
         "dd9b91a3-3ba4-4fc1-b012-f2ff00cd1c65",
@@ -493,7 +493,7 @@
     {
       "dutyID": "3080bb85-2646-4745-891e-e1f8f21365e0",
       "dutyDetail": "Provide support to team members to help ensure that financial and accounting activities are carried out within expected timescales and quality expectations.\t",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5d3cb071-14af-4b56-ad12-002edd47cfb1",
         "1b3e89b9-ea47-42ac-bc08-3a4cd2cbeefb",
@@ -520,7 +520,7 @@
     {
       "dutyID": "f8646da4-9d64-482d-ac7f-e28b30abc199",
       "dutyDetail": "Keep up to date with developments to enhance relevant skills and take responsibility for own professional development.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f313027f-e597-4e85-8589-7bec94854490",
         "7c86d332-0484-405b-8307-d57644a64442",
