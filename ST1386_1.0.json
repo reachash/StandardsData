@@ -313,7 +313,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-12-11T00:00:00 +00:00",
@@ -330,12 +330,12 @@
     "Data engineer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Business Services",
   "cluster": "Data analyst advanced technician",
   "clusterId": "189",
-  "clusterDescription": null,
+  "clusterDescription": "Collect, organise and analyse data to provide business insights using extensive knowledge of data solutions, database systems and analytical tools",
   "createdDate": "2024-04-26T08:20:41 +00:00",
   "lastUpdated": "2023-12-11T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-12-11T00:00:00 +00:00",
@@ -348,7 +348,7 @@
     {
       "dutyID": "62abf2cb-683b-4dcc-a757-ba40eb9c9ea3",
       "dutyDetail": "Build and optimise automated data systems and pipelines considering data quality, description, cataloguing, data cleaning, validation, technical documentation and requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "69758fed-f271-478e-8773-552b2b9b4e9c",
         "37b50b16-9575-499a-94d2-fa9489b71797",
@@ -386,7 +386,7 @@
     {
       "dutyID": "78a45319-0894-41ae-8a42-619b64ce3068",
       "dutyDetail": "Integrate, support and manage data using standalone, distributed and cloud-based platforms. To ensure efficient, sustainable and effective provision of data storage solutions. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "37b50b16-9575-499a-94d2-fa9489b71797",
         "129a2fc2-8415-4b02-9137-324875714544"
@@ -414,7 +414,7 @@
     {
       "dutyID": "778ef096-1b8f-44bd-82e6-f5618ed5e440",
       "dutyDetail": "Support the identification and evaluation of opportunities for data acquisition and data enrichment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "37b50b16-9575-499a-94d2-fa9489b71797",
         "9f554ea7-7c1f-4872-bd53-829ef14ee835"
@@ -435,7 +435,7 @@
     {
       "dutyID": "bf5e1b75-343a-4c69-9dbd-27fe1619fd24",
       "dutyDetail": "Select and use appropriate tools to process data in any format, such as structured and unstructured data and in any mode of delivery, such as streaming or batching. Adapt to legacy systems as required.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "129a2fc2-8415-4b02-9137-324875714544"
       ],
@@ -456,7 +456,7 @@
     {
       "dutyID": "9443c8b0-d9a2-4c2b-8820-e0a72c496260",
       "dutyDetail": "Ensure resilience is built into data products against business continuity and disaster recovery plans, and document change management to limit service outages. Support and respond to incidents through the application of technology and service management best practice including configuration, change and incident management.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "37b50b16-9575-499a-94d2-fa9489b71797",
         "9f554ea7-7c1f-4872-bd53-829ef14ee835",
@@ -480,7 +480,7 @@
     {
       "dutyID": "158fb973-073b-4a0e-8aea-724b4c057333",
       "dutyDetail": "Analyse requirements, research scope and options and present recommendations for solutions to stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "37b50b16-9575-499a-94d2-fa9489b71797",
         "9f554ea7-7c1f-4872-bd53-829ef14ee835",
@@ -504,7 +504,7 @@
     {
       "dutyID": "c7c1982a-91de-4e0c-83c1-6fe1ef0e056f",
       "dutyDetail": "Support the implementation of prototype or proof-of-concept data products within a production environment",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9f554ea7-7c1f-4872-bd53-829ef14ee835",
         "129a2fc2-8415-4b02-9137-324875714544"
@@ -526,7 +526,7 @@
     {
       "dutyID": "f7bb02bc-128e-448a-a816-471a66078456",
       "dutyDetail": "Maintain data solutions as continually evolving products, to service the organisation, user or client requirements. Collaborate with technical support teams and stakeholders from implementation to management. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "69758fed-f271-478e-8773-552b2b9b4e9c",
         "9f554ea7-7c1f-4872-bd53-829ef14ee835",
@@ -553,7 +553,7 @@
     {
       "dutyID": "9c2ec9c0-a258-46bb-a4ea-a150009f9293",
       "dutyDetail": "Working within compliance and contribute towards data governance, organisational policies, standards, and guidelines for data engineering. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9f554ea7-7c1f-4872-bd53-829ef14ee835"
       ],
@@ -575,7 +575,7 @@
     {
       "dutyID": "a94b42db-103f-48ed-ba7f-3bc379067e0f",
       "dutyDetail": "Monitor the data system to meet service requirements to enable solutions such as data analysis, dashboards, data products, pipelines, and storage solutions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9f554ea7-7c1f-4872-bd53-829ef14ee835",
         "7d6be63c-bcc3-49d5-bdc2-f56fcf8774ee"
@@ -594,7 +594,7 @@
     {
       "dutyID": "ddd759fb-1ee9-4242-bd61-0a6d48e6b6b3",
       "dutyDetail": "Keep up to date with engineering developments to advance own skills and knowledge.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6071541d-5dd0-4ae8-b719-568127403588"
       ],
