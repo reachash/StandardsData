@@ -243,7 +243,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-11-09T00:00:00 +00:00",
@@ -274,12 +274,12 @@
     "Graphics installer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Manufacturing, Process and Control",
+  "pathway": "Engineering, manufacturing, process and control",
   "cluster": "Manufacturing and process operative or technician",
   "clusterId": "262",
-  "clusterDescription": null,
+  "clusterDescription": "Assemble and construct complex engineering products",
   "createdDate": "2020-09-30T07:45:10 +00:00",
   "lastUpdated": "2021-07-26T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-11-09T00:00:00 +00:00",
@@ -292,7 +292,7 @@
     {
       "dutyID": "5bb37a44-84f5-41bd-94fa-c8426e827986",
       "dutyDetail": "Review the customer brief and undertake site surveys to work out the signage design, manufacturing and installation methods.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2380e9ef-57ce-4ee7-a792-e6357d68257e",
         "ad063fd3-d4bc-4423-b44f-8f9067cd3373",
@@ -319,7 +319,7 @@
     {
       "dutyID": "1fb577ca-6a4d-47b0-bb03-b87db19f3810",
       "dutyDetail": "Organise signage work activities, ensuring machinery, tools, equipment, materials and work-space are available and resolve any issues.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2380e9ef-57ce-4ee7-a792-e6357d68257e",
         "1c1462c9-3cfc-445d-909b-67a72bef9540",
@@ -347,7 +347,7 @@
     {
       "dutyID": "0367957e-878a-44b8-a572-203a7e74c725",
       "dutyDetail": "Prepare signage illustrations, costings and quotes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ad063fd3-d4bc-4423-b44f-8f9067cd3373",
         "1c1462c9-3cfc-445d-909b-67a72bef9540",
@@ -376,7 +376,7 @@
     {
       "dutyID": "a93b71af-d08b-4293-ba2e-9b1e8026ddab",
       "dutyDetail": "Design signage using graphic design software (Computer Aided Design).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2380e9ef-57ce-4ee7-a792-e6357d68257e",
         "1c1462c9-3cfc-445d-909b-67a72bef9540",
@@ -407,7 +407,7 @@
     {
       "dutyID": "3c046450-42ca-4854-b2df-f27ab8dd8678",
       "dutyDetail": "Prepare pre-fabrication files and instructions for signage production and manufacture.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2380e9ef-57ce-4ee7-a792-e6357d68257e",
         "1c1462c9-3cfc-445d-909b-67a72bef9540",
@@ -438,7 +438,7 @@
     {
       "dutyID": "1742be66-b6e4-431d-9091-0b3efcf568f4",
       "dutyDetail": "Manufacture signs using machinery, equipment and/or tools.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2380e9ef-57ce-4ee7-a792-e6357d68257e",
         "1c1462c9-3cfc-445d-909b-67a72bef9540",
@@ -472,7 +472,7 @@
     {
       "dutyID": "3876f0bd-0f29-4108-b6cd-f290f7333959",
       "dutyDetail": "Perform finishing operations on signs. For example, trimming, cleaning and adding fixing features such as eyelets, hinges and brackets.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2380e9ef-57ce-4ee7-a792-e6357d68257e",
         "1c1462c9-3cfc-445d-909b-67a72bef9540",
@@ -504,7 +504,7 @@
     {
       "dutyID": "ca52c53d-f87e-4c6c-856e-f8ec593a4665",
       "dutyDetail": "Apply, install or erect signage products to end point location.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2380e9ef-57ce-4ee7-a792-e6357d68257e",
         "ad063fd3-d4bc-4423-b44f-8f9067cd3373",
@@ -541,7 +541,7 @@
     {
       "dutyID": "c6112fad-3341-45df-836a-a58ac4fdc3db",
       "dutyDetail": "Keep stakeholders for example, customers, colleagues and line managers informed about signage work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ad063fd3-d4bc-4423-b44f-8f9067cd3373",
         "1c1462c9-3cfc-445d-909b-67a72bef9540",
@@ -563,7 +563,7 @@
     {
       "dutyID": "f5fc3e28-a51d-47d1-9e6e-bd0400f5a1aa",
       "dutyDetail": "Conduct quality assurance checks and rectify or report issues.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2380e9ef-57ce-4ee7-a792-e6357d68257e",
         "1c1462c9-3cfc-445d-909b-67a72bef9540",
