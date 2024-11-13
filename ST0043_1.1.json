@@ -315,7 +315,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-09-13T00:00:00 +00:00",
@@ -345,7 +345,7 @@
     "Engineering technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Design, Surveying & Planning",
   "cluster": "Design and surveying advanced technician",
@@ -376,7 +376,7 @@
     {
       "dutyID": "177d8d34-a0c8-486e-8365-dec27fb2e122",
       "dutyDetail": "Collate, interpret and analyse all design and technical information. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "756e8507-d5e9-4447-a315-357ed14ac25a",
         "6b6dbcf4-de9f-4d6f-9b15-709034defd3a"
@@ -419,7 +419,7 @@
     {
       "dutyID": "f5291e6b-7bad-4cdd-ade6-81850ae49e12",
       "dutyDetail": "Select and apply appropriate materials, technologies and processes, to plan, analyse and undertake design and construction activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "f9804016-2490-46f9-8f9c-097f96b3f149",
@@ -451,7 +451,7 @@
     {
       "dutyID": "5dacc577-c5c1-4955-8a6b-a00cb9477f82",
       "dutyDetail": "Contribute to design projects and deliver appropriate and effective schematic and technical design solutions, by selecting, reviewing and evaluating various sources of information/data and technical information.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4e78e487-7466-45d4-babd-f3ce25250ad9",
         "756e8507-d5e9-4447-a315-357ed14ac25a",
@@ -496,7 +496,7 @@
     {
       "dutyID": "57be442a-4501-4f87-9fcd-4e8f551dfd94",
       "dutyDetail": "Propose design solutions to technical problems, by preparing and presenting design documentation to industry standards.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4e78e487-7466-45d4-babd-f3ce25250ad9",
         "def387ec-bc7e-4e49-98fc-a0c70ec43b0c"
@@ -525,7 +525,7 @@
     {
       "dutyID": "3cb4fbda-e22b-4896-936a-b92ec56b7b1d",
       "dutyDetail": "Demonstrate compliance with health, safety and welfare requirements, apply and improve safe systems of work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4e78e487-7466-45d4-babd-f3ce25250ad9",
         "6b6dbcf4-de9f-4d6f-9b15-709034defd3a",
@@ -555,7 +555,7 @@
     {
       "dutyID": "5d668798-ab03-4c3c-ae5e-ba7400adfb79",
       "dutyDetail": "Identify, evaluate and mitigate risks associated with their own work, and in the projects and activities they are responsible for.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4e78e487-7466-45d4-babd-f3ce25250ad9",
         "756e8507-d5e9-4447-a315-357ed14ac25a"
@@ -580,7 +580,7 @@
     {
       "dutyID": "8ac13d6e-5aaa-4b0f-b24c-8aec53988bb7",
       "dutyDetail": "Carry out and report on inspection activities related to compliance against design, contractual and technical aspects of the design  and produce clearly written, technically accurate inspection reports.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4e78e487-7466-45d4-babd-f3ce25250ad9"
       ],
@@ -618,7 +618,7 @@
     {
       "dutyID": "eb7bb4e9-63f3-4011-a87c-6bc7a62c4341",
       "dutyDetail": "Review design and engineering methods, identifying potential improvements to processes, materials, resources or planning. For example, improvements in quality, cost, efficiency and environmental impact. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "756e8507-d5e9-4447-a315-357ed14ac25a",
         "6b6dbcf4-de9f-4d6f-9b15-709034defd3a"
@@ -657,7 +657,7 @@
     {
       "dutyID": "9e0b2297-4b7f-42f2-93be-8cb1ca1fc5e3",
       "dutyDetail": "Continually research and evaluate sector changes and innovations to inform personal professional development activity to enhance knowledge and skills.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b015e2e0-f559-4f63-8563-7415a08bb8ab"
       ],
@@ -681,7 +681,7 @@
     {
       "dutyID": "34fa945f-0b49-4d20-ac9c-84818cb6689f",
       "dutyDetail": "Work collaboratively with, and facilitate communication between clients, design and construction teams, statutory bodies, end-users and other stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4e78e487-7466-45d4-babd-f3ce25250ad9",
         "756e8507-d5e9-4447-a315-357ed14ac25a",
@@ -725,7 +725,7 @@
     {
       "dutyID": "a8bffa5f-47a5-426c-8ac7-299201b28a4f",
       "dutyDetail": "Demonstrate the application of quality and information management, and assurance systems and processes, for example ISO 19650, recognising the need for these, and their role in continuous improvement.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4e78e487-7466-45d4-babd-f3ce25250ad9",
         "756e8507-d5e9-4447-a315-357ed14ac25a"
@@ -758,7 +758,7 @@
     {
       "dutyID": "7f2b7ccc-e088-4349-8f67-59695167757f",
       "dutyDetail": "Demonstrate compliance with environmental policies and legislation, practice sustainable principles, and evaluate how these impact on projects and assist in the achievement of net zero carbon emissions targets.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4e78e487-7466-45d4-babd-f3ce25250ad9",
         "756e8507-d5e9-4447-a315-357ed14ac25a"
@@ -796,7 +796,7 @@
     {
       "dutyID": "3b4616bd-ad34-43ef-88f2-2cfcdcaa12ef",
       "dutyDetail": "Use analytical design and engineering analysis software as part of a BIM process and other techniques, to inform, develop or manage architectural and engineering solutions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "f9804016-2490-46f9-8f9c-097f96b3f149",
@@ -828,7 +828,7 @@
     {
       "dutyID": "ac482bd5-a8d1-46e7-a12c-b8d44c5fb2dc",
       "dutyDetail": "Contribute to the implementation and management of legal and contractual processes on a construction project.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4e78e487-7466-45d4-babd-f3ce25250ad9",
         "def387ec-bc7e-4e49-98fc-a0c70ec43b0c"
@@ -855,7 +855,7 @@
     {
       "dutyID": "9abc9302-5fc1-44b3-af02-f6f65f224e6c",
       "dutyDetail": "Contribute to the measurement and costing of design and construction works during a project.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "f9804016-2490-46f9-8f9c-097f96b3f149",
@@ -883,7 +883,7 @@
     {
       "dutyID": "aa8c6858-9c5b-4f9e-8a96-d982fde59e62",
       "dutyDetail": "Contribute to the recording, analysis and reporting of progress on a construction project.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "f9804016-2490-46f9-8f9c-097f96b3f149",
