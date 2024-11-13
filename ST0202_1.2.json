@@ -278,7 +278,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "",
@@ -305,12 +305,12 @@
     "Shoe operative"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Manufacturing, Process and Control",
+  "pathway": "Engineering, manufacturing, process and control",
   "cluster": "Manufacturing operative",
   "clusterId": "264",
-  "clusterDescription": null,
+  "clusterDescription": "Routine assembly of manufactured products",
   "createdDate": "2024-10-17T16:06:27 +00:00",
   "lastUpdated": "2024-10-17T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-06-21T00:00:00 +00:00",
@@ -323,7 +323,7 @@
     {
       "dutyID": "e3b83321-565b-4411-9441-fc3813688569",
       "dutyDetail": "Prepare for footwear manufacturing operations. For example, get or request materials and components, prepare equipment and machinery, and conduct safety checks.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9c0e9e43-241d-4286-8859-8e188928c134",
         "5397d503-9a1d-4543-bdb2-20a95dcf47a7",
@@ -365,7 +365,7 @@
     {
       "dutyID": "b8e684be-463d-4361-95c6-f1980e451231",
       "dutyDetail": "Conduct footwear manufacturing operations using specialist equipment and machinery following standard operating procedures. For example, cutting materials, skiving, closing, lasting, attaching the sole, and finishing the footwear.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9c0e9e43-241d-4286-8859-8e188928c134",
         "5397d503-9a1d-4543-bdb2-20a95dcf47a7",
@@ -404,7 +404,7 @@
     {
       "dutyID": "4fcfdfa0-3688-468b-8181-863fb70af8a4",
       "dutyDetail": "Check own work. For example, checking output against specification.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9c0e9e43-241d-4286-8859-8e188928c134",
         "5397d503-9a1d-4543-bdb2-20a95dcf47a7",
@@ -441,7 +441,7 @@
     {
       "dutyID": "836d920a-33db-4473-afec-1e14bc9d76f1",
       "dutyDetail": "Prepare footwear product produced - intermediate or final - for next stage in process. For example, labelling and packing.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9c0e9e43-241d-4286-8859-8e188928c134",
         "5397d503-9a1d-4543-bdb2-20a95dcf47a7",
@@ -478,7 +478,7 @@
     {
       "dutyID": "b0bfd70b-f342-4479-8930-a8f56795b807",
       "dutyDetail": "Contribute to maintaining the workplace environment. For example, ensure there are no safety hazards and keep the work area tidy.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c6164c5-dd0d-48d4-9437-a90d0817983f",
         "0e7d7732-3142-421a-b431-46d5746e00c4",
@@ -509,7 +509,7 @@
     {
       "dutyID": "c03edaeb-ec83-4d40-b857-aee0b6989064",
       "dutyDetail": "Conduct basic maintenance to ensure equipment and machinery efficiency.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9c0e9e43-241d-4286-8859-8e188928c134",
         "5397d503-9a1d-4543-bdb2-20a95dcf47a7",
@@ -535,7 +535,7 @@
     {
       "dutyID": "f5efec9d-598e-4380-be21-c32cd973ac61",
       "dutyDetail": "Complete work records - digital or paper based – in line with policy and procedures. For example, production and quality records.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5397d503-9a1d-4543-bdb2-20a95dcf47a7",
         "dfe0859e-dbee-401d-81a6-abcb2049eaa2"
@@ -566,7 +566,7 @@
     {
       "dutyID": "8296c299-c039-4873-a14d-636195eec9a8",
       "dutyDetail": "Contribute to continuous improvement including own personal learning and development. For example, work as part of an improvement team, identify issues, and put ideas forward.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5397d503-9a1d-4543-bdb2-20a95dcf47a7",
         "dfe0859e-dbee-401d-81a6-abcb2049eaa2",
