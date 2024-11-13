@@ -225,7 +225,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-08-07T00:00:00 +00:00",
@@ -255,12 +255,12 @@
     "Technical support scientist"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Science",
   "cluster": "Science advanced technician",
   "clusterId": "11",
-  "clusterDescription": null,
+  "clusterDescription": "Provide laboratory-based investigative and scientific experimentation analyses, interpretations and evaluations of scientific information",
   "createdDate": "2022-11-04T15:50:14 +00:00",
   "lastUpdated": "2023-04-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-08-07T00:00:00 +00:00",
@@ -280,7 +280,7 @@
     {
       "dutyID": "1353fdee-81e4-47e9-88a3-56dc5f8070ec",
       "dutyDetail": "Prepare for laboratory-based scientific investigations and experiments. Identifying appropriate scientific techniques, procedures, and methods to meet objectives (including environmental and risk management systems).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "94630f72-e34d-4621-a92c-691a076fe32d",
         "01624b3c-b3f0-407b-a437-f10c8321bbb6"
@@ -302,7 +302,7 @@
     {
       "dutyID": "f49a72d9-7c6a-4b0d-b764-156f3c84f2b5",
       "dutyDetail": "Plan and perform laboratory-based scientific investigations and experiments using specialised techniques, following specified methodologies, and quality standards, and in accordance with relevant H&S procedures and wider regulation/ legislation. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "94630f72-e34d-4621-a92c-691a076fe32d",
         "01624b3c-b3f0-407b-a437-f10c8321bbb6"
@@ -326,7 +326,7 @@
     {
       "dutyID": "925ab850-f24a-4fb3-be77-86f0c46c7353",
       "dutyDetail": "Use specified instrumentation and laboratory equipment. Calibrate and troubleshoot equipment where required.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "94630f72-e34d-4621-a92c-691a076fe32d",
         "01624b3c-b3f0-407b-a437-f10c8321bbb6"
@@ -343,7 +343,7 @@
     {
       "dutyID": "96b07d20-efb0-4c38-8909-cde6cd2fc8b0",
       "dutyDetail": "Systematically collect and produce reliable and accurate information from scientific investigations and experiments and keep accurate records. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "94630f72-e34d-4621-a92c-691a076fe32d"
       ],
@@ -361,7 +361,7 @@
     {
       "dutyID": "eb6b665c-bd57-4a58-8d2c-334493fcbb7e",
       "dutyDetail": "Use data analysis tools to process or produce reliable analysis, interpretation, and evaluation of data.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "94630f72-e34d-4621-a92c-691a076fe32d"
       ],
@@ -381,7 +381,7 @@
     {
       "dutyID": "70a03f4f-48d9-46d1-b988-bd74b54ed3a4",
       "dutyDetail": "Collaborate with stakeholders and communicate scientific information.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e14393d9-84c5-4799-9bfc-39b9279cb792"
       ],
@@ -402,7 +402,7 @@
     {
       "dutyID": "812b37e3-bbfa-403e-9ded-b1130fd20e97",
       "dutyDetail": "Apply scientific techniques for data presentation to scientific and non-scientific audiences. e.g. statistics.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "b4590a19-6b88-465a-aba0-ba4b657a1a22",
@@ -418,7 +418,7 @@
     {
       "dutyID": "2375b8de-9373-422f-9379-cdfa42a6a029",
       "dutyDetail": "Recognise problems and apply appropriate scientific methods to identify causes and achieve solutions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e9b86f74-346e-490e-9c5d-b14782eb732a",
         "259e32d0-439b-4fd2-b31c-03dfd32e1cf7"
@@ -433,7 +433,7 @@
     {
       "dutyID": "906a251d-e28f-4a67-a7fb-690d3976ef4d",
       "dutyDetail": "Maintain knowledge of advances in scientific and sector working practices and participate in continuous business performance improvement.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e14393d9-84c5-4799-9bfc-39b9279cb792",
         "e9b86f74-346e-490e-9c5d-b14782eb732a",
@@ -458,7 +458,7 @@
     {
       "dutyID": "b3bee9ed-6c97-43f9-bb71-2e0e1b6c06b9",
       "dutyDetail": "Support, organise and manage personal workload and contributes to the development of staff in own area.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ea12eb98-190e-4d95-8a0b-8e7ab5572613"
       ],
