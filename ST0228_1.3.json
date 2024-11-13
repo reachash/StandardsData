@@ -310,7 +310,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-04-27T00:00:00 +00:00",
@@ -327,12 +327,12 @@
     "commis chef"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Catering",
   "cluster": "Caterer",
   "clusterId": "18",
-  "clusterDescription": null,
+  "clusterDescription": "Preparation and cooking of food through to the management of either part of or the whole kitchen",
   "createdDate": "2023-06-26T09:34:21 +00:00",
   "lastUpdated": "2024-04-19T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-04-27T00:00:00 +00:00",
@@ -345,7 +345,7 @@
     {
       "dutyID": "e5edad52-495d-4c20-9c8e-ea1a2c4cb0f0",
       "dutyDetail": "Prepare food items in line with legislation relevant to this occupation. Follow organisational brand standards and recipe specifications including portion control and waste management.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bebb57d8-ee39-414e-b10d-17cee751bf00",
         "c10ef24c-09f1-41ca-b2a7-1f6270ccd4ee",
@@ -406,7 +406,7 @@
     {
       "dutyID": "413b79ee-ead6-49fa-ac4b-0772e42ea4b3",
       "dutyDetail": "Cook food items in line with legislation relevant to this occupation. Follow organisational brand standards and recipe specifications including portion control and waste management.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bebb57d8-ee39-414e-b10d-17cee751bf00",
         "c10ef24c-09f1-41ca-b2a7-1f6270ccd4ee",
@@ -461,7 +461,7 @@
     {
       "dutyID": "aee7abd4-8797-46cd-959f-c11e0a57bfee",
       "dutyDetail": "Finish food items in line with legislation relevant to this occupation. Follow organisational brand standards and recipe specifications including portion control and waste management.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bebb57d8-ee39-414e-b10d-17cee751bf00",
         "c10ef24c-09f1-41ca-b2a7-1f6270ccd4ee",
@@ -510,7 +510,7 @@
     {
       "dutyID": "03880949-2a51-403a-82e3-b32aa6a52c4d",
       "dutyDetail": "Clean and maintain a safe and hygienic kitchen environment including preparation, cooking and storage areas",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bebb57d8-ee39-414e-b10d-17cee751bf00",
         "c10ef24c-09f1-41ca-b2a7-1f6270ccd4ee",
@@ -543,7 +543,7 @@
     {
       "dutyID": "62b1ce66-52fd-4dbb-b68f-6a051099eb36",
       "dutyDetail": "Complete food safety management system documentation",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bebb57d8-ee39-414e-b10d-17cee751bf00",
         "c10ef24c-09f1-41ca-b2a7-1f6270ccd4ee",
@@ -576,7 +576,7 @@
     {
       "dutyID": "093b3f06-b50e-4496-a61e-b9a29452c539",
       "dutyDetail": "Check and report food items and commodity (for example kitchen foil, film, plastic gloves, cloths etc) stock levels following stock rotation systems",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bebb57d8-ee39-414e-b10d-17cee751bf00",
         "c10ef24c-09f1-41ca-b2a7-1f6270ccd4ee",
@@ -609,7 +609,7 @@
     {
       "dutyID": "12c28ade-a5fc-4093-9a96-5130304cf10e",
       "dutyDetail": "Operate and clean specialist kitchen equipment following safe handling procedures",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bebb57d8-ee39-414e-b10d-17cee751bf00",
         "c10ef24c-09f1-41ca-b2a7-1f6270ccd4ee",
@@ -665,7 +665,7 @@
     {
       "dutyID": "4ee7fa24-32b3-46b7-bc3f-d1606af8ebae",
       "dutyDetail": "Receive and check internal and external deliveries of food items, equipment and chemicals and store correctly",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bebb57d8-ee39-414e-b10d-17cee751bf00",
         "c10ef24c-09f1-41ca-b2a7-1f6270ccd4ee",
@@ -699,7 +699,7 @@
     {
       "dutyID": "db236587-ce76-42fb-b343-8a3d9abaed50",
       "dutyDetail": "Work with others to ensure dishes produced are of high quality, delivered on time and to the standard required",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "04b98e62-245d-484f-9df3-b845cdaa24fc",
         "bebb57d8-ee39-414e-b10d-17cee751bf00",
@@ -743,7 +743,7 @@
     {
       "dutyID": "7221e84f-d20e-4018-bdb2-b54c8e772824",
       "dutyDetail": "Contribute to reviewing and refreshing menus and improving the culinary offer",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "04b98e62-245d-484f-9df3-b845cdaa24fc",
         "bebb57d8-ee39-414e-b10d-17cee751bf00",
@@ -772,7 +772,7 @@
     {
       "dutyID": "26e4e365-cdae-4eda-b7b8-0b799e71db29",
       "dutyDetail": "Develop own skills and knowledge through training and experiences",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "04b98e62-245d-484f-9df3-b845cdaa24fc",
         "ad07f60f-5b9d-4b23-a3a0-5be6bc702338",
