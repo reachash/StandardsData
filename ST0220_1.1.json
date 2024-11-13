@@ -428,7 +428,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-10-31T00:00:00 +00:00",
@@ -445,10 +445,10 @@
     "Healthcare science associate"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Healthcare Science",
-  "cluster": "Healthcare Science Practitioner",
+  "pathway": "Healthcare science",
+  "cluster": "Healthcare science practitioner",
   "clusterId": "38",
   "clusterDescription": "Provide technical and science-based diagnostic, therapeutic and monitoring services in support of patient care working largely unsupervised and also the manufacture of appliances and devices using specialist medical expertise",
   "createdDate": "2023-11-28T14:04:25 +00:00",
@@ -501,7 +501,7 @@
     {
       "dutyID": "acdef261-fc96-44ef-adb5-b6d7f1b70370",
       "dutyDetail": "Practice professionally and within the limits of own competence and the role, adhering to the standards, policies and protocols used in the workplace.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf1957f7-2df5-4374-a6c3-a7ada5b931ad",
         "ff47540d-7edf-4a2a-86f6-deac0666ebbe",
@@ -527,7 +527,7 @@
     {
       "dutyID": "08083cb0-691b-415f-9c4d-5f4dae942c7a",
       "dutyDetail": "Provide technical scientific services and use problem solving skills to recognise and address issues.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf1957f7-2df5-4374-a6c3-a7ada5b931ad",
         "ff47540d-7edf-4a2a-86f6-deac0666ebbe",
@@ -557,7 +557,7 @@
     {
       "dutyID": "1bb43fc1-2159-4721-ab3c-b64b32dd0edc",
       "dutyDetail": "Support the provision of clinical care.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf1957f7-2df5-4374-a6c3-a7ada5b931ad",
         "ff47540d-7edf-4a2a-86f6-deac0666ebbe",
@@ -585,7 +585,7 @@
     {
       "dutyID": "6abc31f4-5f44-4c44-a631-2c393cd7e22d",
       "dutyDetail": "Use communication techniques to facilitate understanding and provide feedback.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf1957f7-2df5-4374-a6c3-a7ada5b931ad",
         "ff47540d-7edf-4a2a-86f6-deac0666ebbe",
@@ -612,7 +612,7 @@
     {
       "dutyID": "97290c36-a24d-4c05-8610-2a5ce7704b3f",
       "dutyDetail": "Provide leadership to colleagues and work in partnership with the wider healthcare team.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf1957f7-2df5-4374-a6c3-a7ada5b931ad",
         "ff47540d-7edf-4a2a-86f6-deac0666ebbe",
@@ -639,7 +639,7 @@
     {
       "dutyID": "107fa350-e538-4e67-b252-a1b0892458de",
       "dutyDetail": "Maintain a healthy, safe and secure workplace and support others to do the same.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf1957f7-2df5-4374-a6c3-a7ada5b931ad",
         "ff47540d-7edf-4a2a-86f6-deac0666ebbe",
@@ -671,7 +671,7 @@
     {
       "dutyID": "77ff8ac1-d97a-4b0d-a6a1-4b0664394168",
       "dutyDetail": "Adhere to quality procedures relevant to own role and take part in audit or service improvement programmes that contribute to patient care.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf1957f7-2df5-4374-a6c3-a7ada5b931ad",
         "ff47540d-7edf-4a2a-86f6-deac0666ebbe",
@@ -695,7 +695,7 @@
     {
       "dutyID": "e23d376f-102e-4c52-babb-f68493462301",
       "dutyDetail": "Contribute to innovation or research within scope of own role.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf1957f7-2df5-4374-a6c3-a7ada5b931ad",
         "ff47540d-7edf-4a2a-86f6-deac0666ebbe",
@@ -717,7 +717,7 @@
     {
       "dutyID": "79224854-5103-437a-9f44-7d3dd2a616da",
       "dutyDetail": "Maintain and develop own competence and that of others by taking part in personal and professional development.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf1957f7-2df5-4374-a6c3-a7ada5b931ad",
         "ff47540d-7edf-4a2a-86f6-deac0666ebbe",
@@ -745,7 +745,7 @@
     {
       "dutyID": "742b2e08-0b28-4c9d-96b0-71998e215cb2",
       "dutyDetail": "Promote information governance and maintain confidentiality.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf1957f7-2df5-4374-a6c3-a7ada5b931ad",
         "ff47540d-7edf-4a2a-86f6-deac0666ebbe",
