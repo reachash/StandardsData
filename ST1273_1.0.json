@@ -285,7 +285,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-05-22T00:00:00 +00:00",
@@ -303,12 +303,12 @@
     "Mens barber/ hairstylist"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Hair, Beauty and Aesthetics",
+  "pathway": "Hair, beauty and aesthetics",
   "cluster": "Hair specialist",
   "clusterId": "113",
-  "clusterDescription": null,
+  "clusterDescription": "Clean, condition, cut, style, finish, and colour hair including facial hair",
   "createdDate": "2024-03-11T16:24:00 +00:00",
   "lastUpdated": "2023-05-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-05-22T00:00:00 +00:00",
@@ -346,7 +346,7 @@
     {
       "dutyID": "1f9512d9-bce9-4a8f-a1e4-a0d6af512a67",
       "dutyDetail": "Provide a positive customer experience, showcasing yourself, your organisation and the barbering industry.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "28b3dc6e-3879-40ab-a406-6c971917f6f6",
         "5eead89e-00f1-4b48-9acd-297e3a2b0c8e",
@@ -398,7 +398,7 @@
     {
       "dutyID": "bf99ff14-de48-472f-8819-07a73ec3b208",
       "dutyDetail": "Barbershop health and safety, legal and organisational requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "28b3dc6e-3879-40ab-a406-6c971917f6f6",
         "5eead89e-00f1-4b48-9acd-297e3a2b0c8e",
@@ -459,7 +459,7 @@
     {
       "dutyID": "bf108851-e6a6-4429-9aae-38be672d8a87",
       "dutyDetail": "Determine requirements, advise, discuss and agree the service with the client.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "28b3dc6e-3879-40ab-a406-6c971917f6f6",
         "cd119b05-0f7c-402b-b392-af625deb169b",
@@ -515,7 +515,7 @@
     {
       "dutyID": "17ab114b-2abc-4716-9af4-1b8c524461b4",
       "dutyDetail": "Prepare the hair for barbering services.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "28b3dc6e-3879-40ab-a406-6c971917f6f6",
         "cd119b05-0f7c-402b-b392-af625deb169b",
@@ -569,7 +569,7 @@
     {
       "dutyID": "9c8cf4a0-adad-467f-8397-3b9306b0a24f",
       "dutyDetail": "Cut hair using barbering techniques to create a variety of looks.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "28b3dc6e-3879-40ab-a406-6c971917f6f6",
         "cd119b05-0f7c-402b-b392-af625deb169b",
@@ -615,7 +615,7 @@
     {
       "dutyID": "5ed3311d-404d-42fb-822f-5693dca1460e",
       "dutyDetail": "Style and finish using barbering techniques.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "28b3dc6e-3879-40ab-a406-6c971917f6f6",
         "cd119b05-0f7c-402b-b392-af625deb169b",
@@ -659,7 +659,7 @@
     {
       "dutyID": "c6e0c20e-da4f-4b32-a8eb-acfae88f2302",
       "dutyDetail": "Cut facial hair into shape.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "28b3dc6e-3879-40ab-a406-6c971917f6f6",
         "cd119b05-0f7c-402b-b392-af625deb169b",
@@ -703,7 +703,7 @@
     {
       "dutyID": "cde04c2e-9209-41e1-a379-3a0b15a0accd",
       "dutyDetail": "Provide shaving services.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "28b3dc6e-3879-40ab-a406-6c971917f6f6",
         "cd119b05-0f7c-402b-b392-af625deb169b",
@@ -748,7 +748,7 @@
     {
       "dutyID": "9593689d-d0d0-4e25-8e69-92f100f51447",
       "dutyDetail": "Promote self, organisation, products and services using a variety of channels.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "28b3dc6e-3879-40ab-a406-6c971917f6f6",
         "a0ddb1c3-fac7-430c-b414-eba0ea090a62"
@@ -779,7 +779,7 @@
     {
       "dutyID": "1172c1e1-b2bb-4539-9242-1728dd811ec4",
       "dutyDetail": "Maintain up to date knowledge and skills of new and emerging hairstyles, trends, techniques, products, tools and equipment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
