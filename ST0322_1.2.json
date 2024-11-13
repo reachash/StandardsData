@@ -289,7 +289,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2015-09-10T00:00:00 +00:00",
@@ -311,7 +311,7 @@
     "Service engineer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Building Services Engineering",
   "cluster": "Building services engineering operative or technician",
@@ -361,7 +361,7 @@
     {
       "dutyID": "42704da8-a991-4c21-b9d5-a0af828437c1",
       "dutyDetail": "Plans tasks, taking into account technical diagrams, product manuals and refrigerant selection in accordance with standards, legislation and codes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "16f454a7-9f2b-469b-9860-db8b6b4ea477",
         "bfc8d03e-acc0-4f73-9978-7214cafffbfa",
@@ -409,7 +409,7 @@
     {
       "dutyID": "bb95e599-a103-4804-a336-8c390a8dded6",
       "dutyDetail": "Carries out site specific risk assessment and prepares for tasks ensuringselection of appropriate tools, equipment, PPE.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "16f454a7-9f2b-469b-9860-db8b6b4ea477",
         "bfc8d03e-acc0-4f73-9978-7214cafffbfa",
@@ -459,7 +459,7 @@
     {
       "dutyID": "2d7a5cce-8aff-4a4a-987d-a8c63cf4c8ea",
       "dutyDetail": "Carries out component installation tasks in relation to vapour compression systems with due regard to the safety of those in the vicinity and the environment including pipework, jointing, component fixing and connection.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "16f454a7-9f2b-469b-9860-db8b6b4ea477",
         "bfc8d03e-acc0-4f73-9978-7214cafffbfa",
@@ -510,7 +510,7 @@
     {
       "dutyID": "556f967e-625b-4178-ad49-0fc5f3e952f4",
       "dutyDetail": "Charges system with refrigerant, minimising leakage.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "16f454a7-9f2b-469b-9860-db8b6b4ea477",
         "bfc8d03e-acc0-4f73-9978-7214cafffbfa",
@@ -558,7 +558,7 @@
     {
       "dutyID": "d4360362-57f0-4ec4-b155-f684341d0c4b",
       "dutyDetail": "Performs commissioning activities to ensure efficient functioning including system testing (pressure testing and tightness testing) and performance recording.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "16f454a7-9f2b-469b-9860-db8b6b4ea477",
         "bfc8d03e-acc0-4f73-9978-7214cafffbfa",
@@ -611,7 +611,7 @@
     {
       "dutyID": "f85e19c7-f1d6-4a7c-9dc6-65e45db3987e",
       "dutyDetail": "Completes system equipment documentation and hands over to customer.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "16f454a7-9f2b-469b-9860-db8b6b4ea477",
         "bfc8d03e-acc0-4f73-9978-7214cafffbfa",
@@ -669,7 +669,7 @@
     {
       "dutyID": "51c3b8e9-f25c-48da-b9b3-ae1fde661e20",
       "dutyDetail": "Carries out planned service, maintenance, regular leak checks and recording aswell as reactive fault finding and repair of existing systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "16f454a7-9f2b-469b-9860-db8b6b4ea477",
         "bfc8d03e-acc0-4f73-9978-7214cafffbfa",
@@ -725,7 +725,7 @@
     {
       "dutyID": "1e480390-d97e-41ba-bc6b-ced5797b258e",
       "dutyDetail": "Performs decommissioning activities including safe recovery, recycling or disposal of refrigerant and other waste products.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "16f454a7-9f2b-469b-9860-db8b6b4ea477",
         "bfc8d03e-acc0-4f73-9978-7214cafffbfa",
@@ -779,7 +779,7 @@
     {
       "dutyID": "bc399103-deee-4d7a-afe5-305e50c2d930",
       "dutyDetail": "Work with other trades or equipment operators on site and communicates relevant information about appropriate use and interaction with other services.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "16f454a7-9f2b-469b-9860-db8b6b4ea477",
         "bfc8d03e-acc0-4f73-9978-7214cafffbfa",
