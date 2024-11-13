@@ -276,7 +276,7 @@
     "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-09-10T00:00:00 +00:00",
@@ -297,12 +297,12 @@
     "Shore based technical engineer (marine)"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Manufacturing, Process and Control",
+  "pathway": "Engineering, manufacturing, process and control",
   "cluster": "Quality improvement and project control technician",
   "clusterId": "256",
-  "clusterDescription": null,
+  "clusterDescription": "Maintain and improve product and process integrity and quality, production and process efficiency, and the overall health and safety of the working environment",
   "createdDate": "2024-09-10T11:29:58 +00:00",
   "lastUpdated": "2024-11-06T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-09-10T00:00:00 +00:00",
@@ -331,7 +331,7 @@
     {
       "dutyID": "cbe1a458-a396-4a8c-bb61-d3cff36a03f1",
       "dutyDetail": "Receive, read and interpret engineering data and documentation such as engineering drawings, technical data, blueprints, schematic drawings, and technical documentation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8616a0cc-2e09-4cc6-9a68-fda045d1397c",
         "0c28a524-e2d3-4754-8862-858d74a3f847",
@@ -353,7 +353,7 @@
     {
       "dutyID": "03ad25f0-5444-4a03-b136-eef14f9367a7",
       "dutyDetail": "Plan and prepare maritime mechanical maintenance, installation and other work activities to cause minimal disruption. Agree planned actions and obtain any required permits or permissions required to carry out the work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8616a0cc-2e09-4cc6-9a68-fda045d1397c",
         "0c28a524-e2d3-4754-8862-858d74a3f847",
@@ -384,7 +384,7 @@
     {
       "dutyID": "6c2fdc11-b310-43eb-a1b6-c26ca8e07aeb",
       "dutyDetail": "Select, obtain and prepare resources required to carry out the task. Carry out pre-use checks of equipment, tools and other resources.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8616a0cc-2e09-4cc6-9a68-fda045d1397c",
         "b43450b9-6d49-40f6-a63d-5ccb85d760d9",
@@ -414,7 +414,7 @@
     {
       "dutyID": "f6660f24-2abd-4b32-90fa-7a5b2a108e10",
       "dutyDetail": "Comply with safe systems of work ensuring statutory regulations and organisational compliance requirements are met. Ensure the safe and secure isolation of equipment as required by organisational policies. Report any accidents and near misses through the required process.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8616a0cc-2e09-4cc6-9a68-fda045d1397c",
         "0c28a524-e2d3-4754-8862-858d74a3f847",
@@ -441,7 +441,7 @@
     {
       "dutyID": "eb1d5279-c7c6-4209-b449-76c42a68ff95",
       "dutyDetail": "Use common and specialist machine and hand tools to perform tasks.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8616a0cc-2e09-4cc6-9a68-fda045d1397c",
         "0c28a524-e2d3-4754-8862-858d74a3f847",
@@ -470,7 +470,7 @@
     {
       "dutyID": "e2d950d5-f18b-4fd3-9fc1-585a6bc15f9d",
       "dutyDetail": "Keep stakeholders informed about work, for example customers, colleagues and line managers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8616a0cc-2e09-4cc6-9a68-fda045d1397c",
         "b4457c70-6ff7-42aa-b016-4f38b95b7ba9",
@@ -498,7 +498,7 @@
     {
       "dutyID": "0ef345c3-4611-43d6-9e86-24fa3187d24c",
       "dutyDetail": "Use a range of testing and measuring equipment to carry out the task and to aid in fault diagnosis.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8616a0cc-2e09-4cc6-9a68-fda045d1397c",
         "0c28a524-e2d3-4754-8862-858d74a3f847",
@@ -524,7 +524,7 @@
     {
       "dutyID": "65af8ff6-5fb4-476e-b56c-ad306b47547f",
       "dutyDetail": "Carry out installation, removal, overhaul or planned maintenance on mechanical equipment, machinery and systems within the maritime sector such as fluid power, pumps, valves, hydraulic systems or air systems to required specifications. Ensure all parts and consumables used in the activity comply with specifications.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8616a0cc-2e09-4cc6-9a68-fda045d1397c",
         "b43450b9-6d49-40f6-a63d-5ccb85d760d9",
@@ -560,7 +560,7 @@
     {
       "dutyID": "421cb4d9-f033-4da3-88fd-38c1549c11d8",
       "dutyDetail": "Carry out reactive work and resolve breakdown or failure conditions on mechanical equipment within the maritime sector. Apply fault-finding and diagnostic testing procedures to identify faults using recognised methods and techniques. Diagnose and resolve faulty items relevant to the maritime environment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8616a0cc-2e09-4cc6-9a68-fda045d1397c",
         "b43450b9-6d49-40f6-a63d-5ccb85d760d9",
@@ -597,7 +597,7 @@
     {
       "dutyID": "173980b4-ab00-4744-b9a7-702d198ac0dc",
       "dutyDetail": "Identify, communicate and report health, safety, performance and functionality issues and environmental conditions affecting mechanical equipment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8616a0cc-2e09-4cc6-9a68-fda045d1397c",
         "b43450b9-6d49-40f6-a63d-5ccb85d760d9",
@@ -625,7 +625,7 @@
     {
       "dutyID": "d4371264-e9db-44f0-b1b7-1f8a9a110d51",
       "dutyDetail": "Return mechanical equipment to operational condition and carry out required functional, quality and operational checks to confirm equipment serviceability and fitness for purpose.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8616a0cc-2e09-4cc6-9a68-fda045d1397c",
         "0c28a524-e2d3-4754-8862-858d74a3f847",
@@ -651,7 +651,7 @@
     {
       "dutyID": "49a10e2f-c53b-4ddd-adff-2775a848a40c",
       "dutyDetail": "Maintain and restore the work area, performing housekeeping and waste management as appropriate in line with environmental and organisational requirements. Ensure tools, unused materials and equipment are returned to a safe, clean and approved condition on completion of work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8616a0cc-2e09-4cc6-9a68-fda045d1397c",
         "b43450b9-6d49-40f6-a63d-5ccb85d760d9",
@@ -678,7 +678,7 @@
     {
       "dutyID": "b70c38aa-c586-4394-a16d-74d2a92aecce",
       "dutyDetail": "Complete electronic or paper-based documentation at all required stages of the work activity.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8616a0cc-2e09-4cc6-9a68-fda045d1397c",
         "b43450b9-6d49-40f6-a63d-5ccb85d760d9",
@@ -706,7 +706,7 @@
     {
       "dutyID": "cd92976d-1560-4cca-9bed-c4f311f32b78",
       "dutyDetail": "Carry out continuous improvement opportunities and identify possible opportunities for improvements and efficiencies. Identify and complete professional development activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8616a0cc-2e09-4cc6-9a68-fda045d1397c",
         "94b7595b-1847-4d65-bb24-c484c24a5640",
