@@ -298,10 +298,10 @@
     "Test engineer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Design and Development",
-  "cluster": "Design and Development Engineer",
+  "pathway": "Engineering, design and development",
+  "cluster": "Design and development engineer",
   "clusterId": "253",
   "clusterDescription": "Design and develop a range of products and/or process technologies using discipline and applications specific expertise",
   "createdDate": "2023-12-07T14:12:38 +00:00",
@@ -338,7 +338,7 @@
     {
       "dutyID": "ca368039-1ed3-4e71-b9fb-5eeb9505abf4",
       "dutyDetail": "Lead a safety culture in their defined work area at all times, ensuring their own safety and the safety of others.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12ea981b-0f8c-4d63-8c4d-e76d35431354",
         "22482342-f7d1-4587-955d-974389bbe5e9",
@@ -366,7 +366,7 @@
     {
       "dutyID": "7fd37ed2-56a6-4793-ae74-a6f362138cb9",
       "dutyDetail": "Ensure that designs, developments or modifications or updates comply with national and/or international legislation, compliance testing or regulatory requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12ea981b-0f8c-4d63-8c4d-e76d35431354",
         "22482342-f7d1-4587-955d-974389bbe5e9",
@@ -403,7 +403,7 @@
     {
       "dutyID": "d6c4a692-296b-4f2a-9bb3-87028ba26ecb",
       "dutyDetail": "Take responsibility for developing and maintaining of own technical knowledge.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6a9f06c6-5e53-499b-8cf4-55900c8aee6f",
         "1ae1b35b-e14e-45b5-a21b-70c1f31583cf"
@@ -428,7 +428,7 @@
     {
       "dutyID": "363b89c5-1151-4075-9449-256693023bf3",
       "dutyDetail": "Work independently or as part of a team to provide specialist research, design, development or modifications or updates to products, systems or components. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12ea981b-0f8c-4d63-8c4d-e76d35431354",
         "22482342-f7d1-4587-955d-974389bbe5e9",
@@ -471,7 +471,7 @@
     {
       "dutyID": "57fbc194-933c-448f-8953-3842dcb1de39",
       "dutyDetail": "Determine the type and level of technical data and information required to complete the project or task outcome.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "22482342-f7d1-4587-955d-974389bbe5e9",
         "91c69e42-2862-48d5-a87b-1cac00ddc2c3",
@@ -514,7 +514,7 @@
     {
       "dutyID": "f8619641-62b6-431c-bbbc-5d5b2a11dcab",
       "dutyDetail": "Plan, organise and manage resources such as human, equipment, components, data, to monitor progress, identify risks and any relevant mitigation to meet project or task outcomes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12ea981b-0f8c-4d63-8c4d-e76d35431354",
         "22482342-f7d1-4587-955d-974389bbe5e9",
@@ -562,7 +562,7 @@
     {
       "dutyID": "32173abc-2b19-478e-921a-356ceccfe1ce",
       "dutyDetail": "Lead and deliver product, system or component design or development or modification projects or programmes of work to the agreed schedule, quality and budget.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12ea981b-0f8c-4d63-8c4d-e76d35431354",
         "22482342-f7d1-4587-955d-974389bbe5e9",
@@ -614,7 +614,7 @@
     {
       "dutyID": "498a6406-ba64-46e7-a3ad-8c491fd0e3bb",
       "dutyDetail": "Develop and maintain effective working relationships with stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ac3378b2-82ec-4847-b389-7ca1a4906917",
         "6f23f0b5-0522-4f00-92f6-cb668611c8f6",
@@ -633,7 +633,7 @@
     {
       "dutyID": "745176c3-b1c3-4603-8e1d-ce6f37eb5dc9",
       "dutyDetail": "Determine the appropriate problem solving and diagnostic tools and techniques to be used and lead the problem-solving activity to enable development and modifications or updates of products, components or systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "22482342-f7d1-4587-955d-974389bbe5e9",
         "91c69e42-2862-48d5-a87b-1cac00ddc2c3",
@@ -662,7 +662,7 @@
     {
       "dutyID": "ebf5de2a-8b05-4fef-8fe7-bbc2cc8b08ba",
       "dutyDetail": "Identify and lead improvement activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "22482342-f7d1-4587-955d-974389bbe5e9",
         "91c69e42-2862-48d5-a87b-1cac00ddc2c3",
@@ -693,7 +693,7 @@
     {
       "dutyID": "cfaecc7f-c444-4d50-ba62-b256aadb7502",
       "dutyDetail": "Produce validated designs, developments, modifications or updates of products, components or systems through computer aided design, drawing or modelling, “live” testing or using virtual simulation software to industry standards. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "22482342-f7d1-4587-955d-974389bbe5e9",
         "91c69e42-2862-48d5-a87b-1cac00ddc2c3",
@@ -735,7 +735,7 @@
     {
       "dutyID": "7e3b331b-7402-4c73-92b2-78bb2bbdc634",
       "dutyDetail": "Check all project or work programme documentation has been completed correctly and accurately to ensure it meets organisational compliance, industry standards or Key Performance Indicators (KPIs) and traceability requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12ea981b-0f8c-4d63-8c4d-e76d35431354",
         "22482342-f7d1-4587-955d-974389bbe5e9",
@@ -763,7 +763,7 @@
     {
       "dutyID": "87020b26-2287-49ac-9f6c-c1565d8b80b4",
       "dutyDetail": "Produce technical documentation with applicable supporting data or information, as required, to inform project outcomes and decision making.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "22482342-f7d1-4587-955d-974389bbe5e9",
         "1ae1b35b-e14e-45b5-a21b-70c1f31583cf"
@@ -795,7 +795,7 @@
     {
       "dutyID": "bbd971a9-8ba9-404c-8f66-aeb74642568f",
       "dutyDetail": "Identify and share good practice and work collaboratively.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "22482342-f7d1-4587-955d-974389bbe5e9",
         "ac3378b2-82ec-4847-b389-7ca1a4906917",
