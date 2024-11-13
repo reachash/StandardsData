@@ -594,12 +594,12 @@
     "Speech therapist"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
   "cluster": "Health professional",
   "clusterId": "6",
-  "clusterDescription": null,
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2023-06-23T09:54:34 +00:00",
   "lastUpdated": "2023-09-01T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-07-03T00:00:00 +00:00",
@@ -621,7 +621,7 @@
     {
       "dutyID": "d22ee51a-204c-43a1-b6bb-fc2b6d314a0f",
       "dutyDetail": "Practise safely and effectively within the scope of practice and within the legal and ethical boundaries of the profession.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6cfb94a9-549c-4cf6-a61f-c4884e6521af",
         "53768813-c1c2-4910-af51-1c8d2be3f343",
@@ -659,7 +659,7 @@
     {
       "dutyID": "91c063a7-f188-4cf5-b013-d780f735bd11",
       "dutyDetail": "Look after own health and wellbeing, seeking appropriate support where necessary.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "08909f70-b882-41be-91b7-08e8696bd531"
       ],
@@ -677,7 +677,7 @@
     {
       "dutyID": "ba1972ce-c544-42b9-861d-4adcf516b18b",
       "dutyDetail": "Practise as an autonomous professional, exercising professional judgement.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6cfb94a9-549c-4cf6-a61f-c4884e6521af",
         "08909f70-b882-41be-91b7-08e8696bd531",
@@ -701,7 +701,7 @@
     {
       "dutyID": "ef21f0cb-9d9a-458e-b5ed-68971a378332",
       "dutyDetail": "Practise in a non-discriminatory and inclusive manner recognising the impact of culture, equality and diversity.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6213e98e-eea4-448f-8b5e-9500fc11991e",
         "53768813-c1c2-4910-af51-1c8d2be3f343",
@@ -725,7 +725,7 @@
     {
       "dutyID": "f47e5ca6-088e-4d2c-ac62-db3059c9a276",
       "dutyDetail": "Use advanced communication to transform the communication abilities of individuals, groups and communities and to negotiate, mediate and influence.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "53768813-c1c2-4910-af51-1c8d2be3f343",
         "a4ad1346-39fd-4da6-97cb-1a28ffb06ccc",
@@ -754,7 +754,7 @@
     {
       "dutyID": "47db7f8a-96a3-42c7-9d6a-9d246b84d921",
       "dutyDetail": "Work appropriately with others.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6cfb94a9-549c-4cf6-a61f-c4884e6521af",
         "a4ad1346-39fd-4da6-97cb-1a28ffb06ccc",
@@ -783,7 +783,7 @@
     {
       "dutyID": "f2010fc2-2326-435a-a6e5-d688ae64796e",
       "dutyDetail": "Reflect on, review and assure the quality of own practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "08909f70-b882-41be-91b7-08e8696bd531"
       ],
@@ -805,7 +805,7 @@
     {
       "dutyID": "9601af16-2342-4e9a-9be4-2c9e47995351",
       "dutyDetail": "Draw on appropriate knowledge and skills to inform practice and apply the key concepts of the knowledge base relevant to  speech, language and communication needs (SLCN) and eating, drinking and swallowing interventions in line with local, national and professional body guidelines.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "53768813-c1c2-4910-af51-1c8d2be3f343",
         "08909f70-b882-41be-91b7-08e8696bd531"
@@ -852,7 +852,7 @@
     {
       "dutyID": "afe3c971-8fd0-45eb-91c3-47c2a44ab2c1",
       "dutyDetail": "Establish and maintain a safe practice environment, maintaining confidentiality and records appropriately.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f301bf1e-8ad5-44d2-8fe1-ae76625115d9"
       ],
@@ -882,7 +882,7 @@
     {
       "dutyID": "4e779830-6994-4b78-893e-6e05cf8ab8a0",
       "dutyDetail": "Promote public health and prevent ill health.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "08909f70-b882-41be-91b7-08e8696bd531"
       ],
