@@ -238,7 +238,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "",
@@ -259,7 +259,7 @@
     "Junior it systems support"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Support and Services",
   "cluster": "IT support and services technician",
@@ -284,7 +284,7 @@
     {
       "dutyID": "9a3f35b4-eacf-4c7c-8844-31f0805cdb7e",
       "dutyDetail": "Works within a defined role within a solutions development lifecycle.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "758d6a1c-e8fd-4204-9f4a-1e90d6b3e82d",
         "3ff2ed47-4a67-4dfa-bf30-3689d263a2cf",
@@ -311,7 +311,7 @@
     {
       "dutyID": "b8ecb866-51dc-4855-a76c-26c1a9372f35",
       "dutyDetail": "Apply prioritisation methodologies to manage workload and tasks in order to support timely completion of projects and solutions whilst working within a defined and structured approach.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "758d6a1c-e8fd-4204-9f4a-1e90d6b3e82d",
         "3ff2ed47-4a67-4dfa-bf30-3689d263a2cf",
@@ -340,7 +340,7 @@
     {
       "dutyID": "e083afcb-cb87-4ba2-9d1d-daaa9ac48e0a",
       "dutyDetail": "Apply technical IT knowledge and skills across solution architecture.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1dd663aa-edaf-406c-bf8e-edfb26ba6c0f"
       ],
@@ -368,7 +368,7 @@
     {
       "dutyID": "01e380d5-d8a4-4f7b-8ac5-66117a05ddf4",
       "dutyDetail": "Investigate existing systems and apply technical research to support the design of new solutions in order to meet project and business requirements.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1dd663aa-edaf-406c-bf8e-edfb26ba6c0f"
       ],
@@ -393,7 +393,7 @@
     {
       "dutyID": "fa037e52-1f32-4539-b75a-09b6c4cbaa9e",
       "dutyDetail": "Identify a variety of potential solutions to meet requirements, considering economic impacts.       ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4eb86216-8bd3-4b50-b0c9-9a2076fb8b1b",
         "1dd663aa-edaf-406c-bf8e-edfb26ba6c0f"
@@ -421,7 +421,7 @@
     {
       "dutyID": "71beb7f2-afbb-4532-b56c-52b232e6631a",
       "dutyDetail": "Demonstrate technical contribution to a chosen solution.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "758d6a1c-e8fd-4204-9f4a-1e90d6b3e82d",
         "1dd663aa-edaf-406c-bf8e-edfb26ba6c0f"
@@ -448,7 +448,7 @@
     {
       "dutyID": "293aeb0e-6f63-49ad-9ab6-9e93cc422a9d",
       "dutyDetail": "Safely implement tested solutions whilst considering sustainability factors.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4eb86216-8bd3-4b50-b0c9-9a2076fb8b1b",
         "1dd663aa-edaf-406c-bf8e-edfb26ba6c0f"
@@ -475,7 +475,7 @@
     {
       "dutyID": "dc0b81c4-cb7b-4fca-8e1e-89910d2b3013",
       "dutyDetail": "Communicate with stakeholders throughout the solution process, managing expectations whilst providing an excellent and inclusive service.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3ff2ed47-4a67-4dfa-bf30-3689d263a2cf",
         "bf14a7ba-2999-40e8-979c-f1898f5836ab",
@@ -495,7 +495,7 @@
     {
       "dutyID": "aa12aabe-397c-449e-8630-45ffadf72d51",
       "dutyDetail": "Test and manage issues that arise across any stages of the Solutions Life Cycle.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "758d6a1c-e8fd-4204-9f4a-1e90d6b3e82d",
         "1dd663aa-edaf-406c-bf8e-edfb26ba6c0f"
@@ -519,7 +519,7 @@
     {
       "dutyID": "456e4dd0-fe43-4884-8363-4aa7ec7ba960",
       "dutyDetail": "Create, and or maintain, professional documentation to ensure a clear audit trail and progression of issues.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9ea1b5d4-de39-4096-9b88-3ee858a48f1e",
         "1dd663aa-edaf-406c-bf8e-edfb26ba6c0f"
@@ -539,7 +539,7 @@
     {
       "dutyID": "05964c39-87ea-4e51-88d6-57dff172018f",
       "dutyDetail": "Create test plans and apply a range of testing tools that allow a solution to be thoroughly tested to ensure it is working as expected.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1dd663aa-edaf-406c-bf8e-edfb26ba6c0f"
       ],
@@ -558,7 +558,7 @@
     {
       "dutyID": "afb77b26-f2a1-48c8-997a-a2dabfae9db7",
       "dutyDetail": "Apply security measures and securely manage data throughout the solution lifecycle, in line with legislation and the organisation’s policies and requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1dd663aa-edaf-406c-bf8e-edfb26ba6c0f"
       ],
@@ -585,7 +585,7 @@
     {
       "dutyID": "173bbecf-dd90-49ce-8a47-f1a5d312a18a",
       "dutyDetail": "Practice guided continuous self-learning to keep up to date with technological developments to enhance relevant skills and take responsibility for own professional development.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3ff2ed47-4a67-4dfa-bf30-3689d263a2cf",
         "1dd663aa-edaf-406c-bf8e-edfb26ba6c0f"
