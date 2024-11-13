@@ -328,7 +328,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-10-31T00:00:00 +00:00",
@@ -356,12 +356,12 @@
     "Technical manager"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Science",
   "cluster": "Science advanced technician",
   "clusterId": "11",
-  "clusterDescription": null,
+  "clusterDescription": "Provide laboratory-based investigative and scientific experimentation analyses, interpretations and evaluations of scientific information",
   "createdDate": "2022-11-09T14:07:51 +00:00",
   "lastUpdated": "2022-11-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-10-31T00:00:00 +00:00",
@@ -387,7 +387,7 @@
     {
       "dutyID": "a6fddf6f-be8b-4d7e-b4f9-fac6efdae75c",
       "dutyDetail": "Provide dairy technical knowledge to support efficient and optimised production from milk intake to finished product. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "411a7078-2c17-47dd-9e78-da7c98faf29b",
         "98aaf125-6eb9-41f0-aa40-17db9331f333",
@@ -453,7 +453,7 @@
     {
       "dutyID": "fac2e0fc-0531-4475-92c9-2f5d4ca5f4ce",
       "dutyDetail": "Develop dairy technical knowledge within other functions (knowledge transfer): such as, engineering, finance, production, continuous improvement, and demand and supply). For example, training and coaching others.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "411a7078-2c17-47dd-9e78-da7c98faf29b",
         "98aaf125-6eb9-41f0-aa40-17db9331f333",
@@ -512,7 +512,7 @@
     {
       "dutyID": "5848bfeb-7ba6-453e-bc18-0a2a55e8743f",
       "dutyDetail": "Identify and resolve dairy product quality issues using resources and stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "411a7078-2c17-47dd-9e78-da7c98faf29b",
         "98aaf125-6eb9-41f0-aa40-17db9331f333",
@@ -578,7 +578,7 @@
     {
       "dutyID": "d4e99f5e-56bd-40fc-a8ba-983ca2f8f576",
       "dutyDetail": "Conduct dairy process and product optimisation activities. For example, dairy component, unit operations (a piece of equipment with a specific dairy output for example, homogenisation effect), or production or process analysis. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "411a7078-2c17-47dd-9e78-da7c98faf29b",
         "98aaf125-6eb9-41f0-aa40-17db9331f333",
@@ -645,7 +645,7 @@
     {
       "dutyID": "4f9ea075-450d-444c-af04-a81027aa9c90",
       "dutyDetail": "Lead or contribute to cross-functional dairy production process or product improvement projects. For example, product loss reduction, or resource efficiency. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "411a7078-2c17-47dd-9e78-da7c98faf29b",
         "98aaf125-6eb9-41f0-aa40-17db9331f333",
@@ -720,7 +720,7 @@
     {
       "dutyID": "faf4e5ba-d970-4e7b-9fbb-cab2a6da04f7",
       "dutyDetail": "Support dairy production research and development projects. For example, testing of new or improved dairy processes or products.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "411a7078-2c17-47dd-9e78-da7c98faf29b",
         "98aaf125-6eb9-41f0-aa40-17db9331f333",
@@ -795,7 +795,7 @@
     {
       "dutyID": "96c156b1-ce71-48ff-bcde-688918e6d095",
       "dutyDetail": "Lead or contribute to cross-functional teams to implement new or improved dairy products or processes. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "411a7078-2c17-47dd-9e78-da7c98faf29b",
         "98aaf125-6eb9-41f0-aa40-17db9331f333",
@@ -869,7 +869,7 @@
     {
       "dutyID": "1153f7a3-5892-4370-9810-4d91b4e87436",
       "dutyDetail": "Provide dairy technical input to product and process documentation. For example, standard operating procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "411a7078-2c17-47dd-9e78-da7c98faf29b",
         "98aaf125-6eb9-41f0-aa40-17db9331f333",
@@ -924,7 +924,7 @@
     {
       "dutyID": "07755c2d-de32-4df4-81e5-1cfb185cbe75",
       "dutyDetail": "Provide dairy technical specialist knowledge in audits.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "411a7078-2c17-47dd-9e78-da7c98faf29b",
         "98aaf125-6eb9-41f0-aa40-17db9331f333",
@@ -979,7 +979,7 @@
     {
       "dutyID": "ca88e87d-2d92-48c9-8dcb-90ddcd303192",
       "dutyDetail": "Make technical recommendations based on dairy knowledge, taking account of financial considerations. For example, dairy recipe or formulations, mass balance, fluctuations in dairy prices (commodity), plant and factory running costs, and bill of materials.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "411a7078-2c17-47dd-9e78-da7c98faf29b",
         "98aaf125-6eb9-41f0-aa40-17db9331f333",
