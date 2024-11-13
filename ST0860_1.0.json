@@ -322,7 +322,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-08-29T00:00:00 +00:00",
@@ -343,12 +343,12 @@
     "Head of asset management",
     "Head of asset planning"
   ],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Manufacturing, Process and Control",
+  "pathway": "Engineering, manufacturing, process and control",
   "cluster": "Quality improvement, health and safety professional",
   "clusterId": "257",
-  "clusterDescription": null,
+  "clusterDescription": "Direct and manage overall product and process integrity and quality, and the health and safety of a whole workplace",
   "createdDate": "2023-09-28T10:40:07 +00:00",
   "lastUpdated": "2024-04-05T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-08-29T00:00:00 +00:00",
@@ -368,7 +368,7 @@
     {
       "dutyID": "274cbb74-c9f7-4543-83ac-4b58083fe8e2",
       "dutyDetail": "Formulate and lead the development of organisation asset management policy, strategy, plans, and objectives including resolving of multiple competing organisational goals.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6193dbcb-54a1-443b-8ed2-1fe42a821332",
         "132a9e0e-61b4-4a4f-a155-3f4da6ecc82b"
@@ -395,7 +395,7 @@
     {
       "dutyID": "5934278c-3f23-422b-b58d-6f5b6538f958",
       "dutyDetail": "Manage the implementation of organisation asset management policy, strategy, plans, objectives.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6193dbcb-54a1-443b-8ed2-1fe42a821332",
         "132a9e0e-61b4-4a4f-a155-3f4da6ecc82b"
@@ -425,7 +425,7 @@
     {
       "dutyID": "37b07cb5-70d2-4c81-babe-d5c8e536c8a3",
       "dutyDetail": "Formulate the asset management resource strategy, including the development of capabilities (resources, competencies, logistics etc.) and supply chain dependencies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6193dbcb-54a1-443b-8ed2-1fe42a821332",
         "132a9e0e-61b4-4a4f-a155-3f4da6ecc82b"
@@ -452,7 +452,7 @@
     {
       "dutyID": "dd8b125b-96b4-449d-bd37-a3499a3a4be1",
       "dutyDetail": "Create and implement asset data and information strategy and standards to ensure consistency and/or effectiveness of asset management information across asset portfolio and its life-cycles.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6193dbcb-54a1-443b-8ed2-1fe42a821332"
       ],
@@ -468,7 +468,7 @@
     {
       "dutyID": "26f41136-51ec-491b-8d82-79051c7089dd",
       "dutyDetail": "Create and implement plans to ensure effective, ethical, and sustainable lifecycle plans, from demand identification, through creation, and operation and maintenance, to disposal, of the assets and systems of assets with the overall asset portfolio.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "c55e3f91-cf76-46ff-a8bf-5947749be65f",
@@ -501,7 +501,7 @@
     {
       "dutyID": "586b32e9-6cf1-4b1b-bd85-362c485f21ae",
       "dutyDetail": "Define, establish, implement, and review frameworks for risk quantification and proactive asset decision making balancing performance, risk, and cost across the asset life cycle with risk appetite and tolerance boundaries.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "0880b523-be7f-4135-84e9-010056d911a6",
@@ -523,7 +523,7 @@
     {
       "dutyID": "bf7cd7fb-cc05-4922-b03b-03f3464e0e0b",
       "dutyDetail": "Set and manage strategic mitigation plans to ensure long term resilience of asset systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "0880b523-be7f-4135-84e9-010056d911a6",
@@ -542,7 +542,7 @@
     {
       "dutyID": "114f4a1e-fe46-4065-9df9-75f9216f6efe",
       "dutyDetail": "Lead and support a culture of collaboration between stakeholders and across disciplines to achieve asset management objectives.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "79b36028-6160-446d-806f-5d0fdc0ac5a5",
         "d6e00865-989f-413c-b014-8e36e25b0224",
@@ -567,7 +567,7 @@
     {
       "dutyID": "14e78405-615d-4fda-8cec-dbfc259b3b11",
       "dutyDetail": "Initiate the audit and assurance of the asset management activity.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "79b36028-6160-446d-806f-5d0fdc0ac5a5"
       ],
@@ -582,7 +582,7 @@
     {
       "dutyID": "f543b9fd-5de7-4b59-a848-6e697b447174",
       "dutyDetail": "Evaluate and report on the effectiveness of the asset management activity and drive continuous improvement.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8ff3dc3e-c931-4e6f-b2a3-df82dc46f4c4"
       ],
@@ -612,7 +612,7 @@
     {
       "dutyID": "a2b153c3-1a0b-4e72-a8fd-bb5ad7db951f",
       "dutyDetail": "Report on asset and/or service performance, delivery of asset management plans, emerging risks to external or internal stakeholders for example regulators, investors, and shareholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "c55e3f91-cf76-46ff-a8bf-5947749be65f",
@@ -633,7 +633,7 @@
     {
       "dutyID": "fef0d410-8c24-4222-8f3e-4ac2658bb126",
       "dutyDetail": "Lead the creation of long-term investment plans using appropriate optimisation and prioritisation methods taking into account complexity and business significance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "79b36028-6160-446d-806f-5d0fdc0ac5a5"
       ],
@@ -654,7 +654,7 @@
     {
       "dutyID": "fad1c36e-8eae-4bbd-be5b-df74248ab329",
       "dutyDetail": "Assure the delivery of programmes and portfolios of work to meet the objectives of the asset management strategy and plans.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "77f1d65b-cd4d-4ca8-82ae-adb9c71dddbf",
@@ -673,7 +673,7 @@
     {
       "dutyID": "edd28313-6bae-4b04-b0d9-0e42683c9600",
       "dutyDetail": "Oversight and acceptance of asset investment business cases across the asset portfolio, in line with organisational decision framework and governance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "d9c9ce9c-1050-4880-a42b-fdd5d45fe1bc",
@@ -691,7 +691,7 @@
     {
       "dutyID": "ecaa4843-9f3a-45d1-a0e5-72c7db2308d7",
       "dutyDetail": "Develop robust proposals for clients and internal stakeholders for the development and delivery of management of the portfolios of assets.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d6e00865-989f-413c-b014-8e36e25b0224"
       ],
@@ -718,7 +718,7 @@
     {
       "dutyID": "fdeb86d0-3767-4176-bd5f-aace68eb1b4b",
       "dutyDetail": "Procure and manage projects, products, and services from external suppliers, setting of objectives for suppliers and performance measurement of suppliers in line with organisations asset management approach. Use Through Life Service providers to support the process for specific asset groups.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "79b36028-6160-446d-806f-5d0fdc0ac5a5",
         "d6e00865-989f-413c-b014-8e36e25b0224",
@@ -753,7 +753,7 @@
     {
       "dutyID": "8f1b98af-ec8a-4b0b-a7ad-3c99065a5f92",
       "dutyDetail": "Engage and manage customers and stakeholder (clients, shareholders, regulators and/or investors) relationships across diverse organisational contexts.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d6e00865-989f-413c-b014-8e36e25b0224"
       ],
@@ -775,7 +775,7 @@
     {
       "dutyID": "c2524b3a-accc-48f9-a8a5-a6083c4a8da2",
       "dutyDetail": "Lead on research, development, and innovation activities within the business to enable the achievement of asset management objectives.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "79b36028-6160-446d-806f-5d0fdc0ac5a5"
       ],
