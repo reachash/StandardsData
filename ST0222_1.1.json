@@ -238,12 +238,12 @@
     "Royal marines rifleman"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Protective Services",
+  "pathway": "Protective services",
   "cluster": "Protective service officer",
   "clusterId": "15",
-  "clusterDescription": null,
+  "clusterDescription": "Provide safety, security, prevention, enforcement, protection and investigation services largely on behalf of society",
   "createdDate": "2022-11-04T11:52:19 +00:00",
   "lastUpdated": "2023-01-26T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-06-10T00:00:00 +00:00",
@@ -256,7 +256,7 @@
     {
       "dutyID": "07939bc9-5ab0-4b7c-ac78-34c4f553b3c5",
       "dutyDetail": "Participate in individual and teamwork drills and activities to develop self and others to deliver organisational objectives.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2cc1c285-a61f-49f5-998a-5e68a27b5c31",
         "28dcfe0f-0381-4747-b9cb-1d8f0fa1abf4",
@@ -293,7 +293,7 @@
     {
       "dutyID": "85ad52b2-6b20-49ba-9200-238f2ed7dd95",
       "dutyDetail": "Administer first aid, use recognised methods in preserving life, move casualties utilising recognised casualty evacuation procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "3674c28c-7259-4d8d-84a9-b0e23d257953",
@@ -319,7 +319,7 @@
     {
       "dutyID": "d24e56e0-0151-41d1-87bd-168c5cabefdd",
       "dutyDetail": "Use, monitor and maintain physical resources, use appropriate tools and equipment in a reliable and safe manner throughout.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "5a91fc1d-22e4-40ff-a637-4c9a5d00bf94",
@@ -343,7 +343,7 @@
     {
       "dutyID": "357957ed-ba9c-4e78-a9dd-6dd51a5d4c00",
       "dutyDetail": "Use suitable methods of communication for the task, acknowledge, send and receive messages in line with procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "28dcfe0f-0381-4747-b9cb-1d8f0fa1abf4",
         "37c331c2-bdb8-4862-a95c-44f0801d00cd"
@@ -367,7 +367,7 @@
     {
       "dutyID": "ec834700-1704-4d44-8807-cddcc7f34ad9",
       "dutyDetail": "Monitor and maintain own physical fitness requirements to conform to the organisations mandated physical fitness levels.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "068c3503-26a3-46b1-a126-364349463dd2",
         "9ad0798b-bf1b-4409-a729-64f998eaf3a9"
@@ -390,7 +390,7 @@
     {
       "dutyID": "a4eeb33d-bd26-4bdd-8f47-71a3e387da66",
       "dutyDetail": "Plan and navigate specified routes using recognised aids and techniques, in a variety of conditions and terrains.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "3674c28c-7259-4d8d-84a9-b0e23d257953",
@@ -410,7 +410,7 @@
     {
       "dutyID": "090677d6-d4b2-4941-9e00-89843f94f285",
       "dutyDetail": "Use safe systems of training to operate individual and team weapon systems, associated ancillaries, ammunitions and pyrotechnics.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "37c331c2-bdb8-4862-a95c-44f0801d00cd"
       ],
@@ -433,7 +433,7 @@
     {
       "dutyID": "2af907cb-5a27-46b6-918e-7d0a812f2c8a",
       "dutyDetail": "Operate both individually and as a team member using a full range of field techniques and skills, team weapon systems and assets.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2cc1c285-a61f-49f5-998a-5e68a27b5c31",
         "28dcfe0f-0381-4747-b9cb-1d8f0fa1abf4",
@@ -468,7 +468,7 @@
     {
       "dutyID": "72920b80-c04f-44c7-9970-85a73a5a3b9a",
       "dutyDetail": "Plan and prepare personal equipment and resources, conduct simple and complex drill movements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "3674c28c-7259-4d8d-84a9-b0e23d257953",
@@ -492,7 +492,7 @@
     {
       "dutyID": "79dd7169-32fa-4cfe-9ba8-0d0e5636d6d7",
       "dutyDetail": "Carry out post action activities in accordance with organisational procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "28dcfe0f-0381-4747-b9cb-1d8f0fa1abf4",
         "37c331c2-bdb8-4862-a95c-44f0801d00cd",
