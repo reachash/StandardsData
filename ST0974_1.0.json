@@ -217,7 +217,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-05-25T00:00:00 +00:00",
@@ -239,12 +239,12 @@
     "Learning technologist"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Business Services",
   "cluster": "Digital solutions advanced technician",
   "clusterId": "194",
-  "clusterDescription": null,
+  "clusterDescription": "Facilitate and instigate direct communication online between the end user or customer and the organisation, implementing communication strategies to support business objectives.",
   "createdDate": "2024-02-02T15:22:29 +00:00",
   "lastUpdated": "2023-05-30T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-05-25T00:00:00 +00:00",
@@ -264,7 +264,7 @@
     {
       "dutyID": "cf7e160d-f45e-4bfd-8a65-e42c0a23f9ca",
       "dutyDetail": "Scope the digital learning project requirements in liaison with stakeholders in response to an organisational learning need. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "01494a79-f781-4ed6-8110-c522d67c517c",
         "95f85ac8-163b-453a-b8b2-a9abb9d393ad"
@@ -285,7 +285,7 @@
     {
       "dutyID": "138e3bcd-24b2-47a1-889a-5ded63e65196",
       "dutyDetail": "Analyse learning requirements to inform and agree learning objectives in line with organisational need.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "72cb7b34-9cec-4a76-ada5-a4fcb7ce7d70",
@@ -301,7 +301,7 @@
     {
       "dutyID": "25186919-065f-43c2-927a-023fb643639e",
       "dutyDetail": "Write learning outcomes to appropriate level, and format.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "c3af066c-d785-496d-8bdd-dfd9d8c27c19"
@@ -317,7 +317,7 @@
     {
       "dutyID": "760ed13d-eada-41a1-9d07-bec6e8f2cb01",
       "dutyDetail": "Develop and map the curriculum, to structure content, formative learning activities, and summative assessment strategy. Whilst being mindful of the differences between pedagogy and andragogy, and other appropriate learning theories.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "6ef72a2c-f911-40d8-b025-5a09eabe4352",
@@ -336,7 +336,7 @@
     {
       "dutyID": "21f4c85c-0f40-4373-b360-cc03829dbe59",
       "dutyDetail": "Advise project sponsors and stakeholders of appropriate good practice approaches to design for learning in line with performance, knowledge, skills and behaviours.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "25a51239-a6c0-4847-94ec-ae4940f281dc",
         "7e502b48-a1f3-479c-af91-10919c5e0329",
@@ -364,7 +364,7 @@
     {
       "dutyID": "cd4f668f-19ea-4d3f-b19c-d3592fe15470",
       "dutyDetail": "Capture and align technical and user requirements, considering User Experience (UX) and User Interface (UI), by working with end users and or stakeholders, in conjunction with applied learning theories and models.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3a7e96d8-893b-45eb-8409-8f08041e2385"
       ],
@@ -390,7 +390,7 @@
     {
       "dutyID": "03e30e27-b3a1-4b8e-a1f4-0e967656bbe6",
       "dutyDetail": "Determine an appropriate learning design and development strategy to ensure design objectives are met within budget and time constraints.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7e502b48-a1f3-479c-af91-10919c5e0329"
       ],
@@ -414,7 +414,7 @@
     {
       "dutyID": "4ae1f684-d6b8-4c80-8d4e-dc78fe34c793",
       "dutyDetail": "Communicate learning design and development strategies and proposed solutions to different stakeholders (including end users and senior management), using appropriate digital tools, formats, supported by relevant business, technical, learning needs and design justifications.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3a7e96d8-893b-45eb-8409-8f08041e2385",
         "46599445-8258-4928-b5b7-afb9714fcb0b",
@@ -445,7 +445,7 @@
     {
       "dutyID": "bbaa4b69-104c-49da-b3e3-c815af4de526",
       "dutyDetail": "Facilitate design processes and activities with different stakeholders, such as subject matter experts, corporate services including learning and development and HR departments, and external partners.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "46599445-8258-4928-b5b7-afb9714fcb0b",
         "01494a79-f781-4ed6-8110-c522d67c517c"
@@ -467,7 +467,7 @@
     {
       "dutyID": "64077364-d2fa-4c3a-9e63-d5c950fe0087",
       "dutyDetail": "Design digital learning outputs aligned with learning outcomes and objectives.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "307e7bb5-1361-4404-935f-bd308d1e023e",
@@ -484,7 +484,7 @@
     {
       "dutyID": "936b164e-0a99-482a-9feb-60fcfc0405d8",
       "dutyDetail": "Create digital media and other digital assets to agreed specifications using specialist learning technologies",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "307e7bb5-1361-4404-935f-bd308d1e023e"
@@ -500,7 +500,7 @@
     {
       "dutyID": "e4efb21b-11d1-407f-b65a-875203d75a53",
       "dutyDetail": "Present learning design proposals, storyboards and outputs at various iterative stages, using appropriate digital formats and tools to appropriate stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "78c81cf2-4024-4871-8a94-3130a7074cbd",
@@ -518,7 +518,7 @@
     {
       "dutyID": "847d5ed2-9f27-4155-8f67-8df14acf8e7f",
       "dutyDetail": "Collate, document and action feedback and decisions on own work to underpin wider project management and learning design, development phases.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "221e46c9-3b79-42c4-81f1-fbdfa022957e",
         "b8779324-f8fd-4e6f-9504-e6a336141ee7"
@@ -539,7 +539,7 @@
     {
       "dutyID": "72d1e030-fc0a-4a61-bdfe-41c47e6f9b81",
       "dutyDetail": "Inform processes and decisions, from an effective learning and user perspective relating to the selection, procurement and application of digital technologies, in line with relevant standards and policies, and wider project, business requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3a7e96d8-893b-45eb-8409-8f08041e2385",
         "25a51239-a6c0-4847-94ec-ae4940f281dc"
@@ -560,7 +560,7 @@
     {
       "dutyID": "96d05218-6b1d-455d-9e5f-586d2bff3597",
       "dutyDetail": "Plan, coordinate, and support project communications and documentation, using appropriate technologies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "95f85ac8-163b-453a-b8b2-a9abb9d393ad"
       ],
@@ -578,7 +578,7 @@
     {
       "dutyID": "bde40a16-6004-46c5-9a67-f7d28d79d664",
       "dutyDetail": "Populate and configure digital learning platforms to deliver, facilitate, and track learning experiences for different learning objectives and contexts. Whilst conforming to relevant organisational and regulatory data security protocols.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "cdb76590-10d8-4c02-98b3-b2cd414b31bd",
@@ -595,7 +595,7 @@
     {
       "dutyID": "c2101b46-f8ed-4543-b48b-2f9f5b784e25",
       "dutyDetail": "Review, quality check and test digital resources and platforms to ensure they meet project and compliance requirements including relevant legal, professional, technical, and organisational standards. Such as accessibility, inclusivity, branding, relevant data protection regulation, and intellectual property regulations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "75469d2d-c60b-44c7-9121-659b6dc25412"
@@ -611,7 +611,7 @@
     {
       "dutyID": "5fa421cf-5bb7-40b2-a93f-9fcd85c3f9b3",
       "dutyDetail": "Plan, coordinate and deliver communications and support needed for learners, educators and other relevant stakeholders to access and use learning resources and digital technologies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3a7e96d8-893b-45eb-8409-8f08041e2385"
       ],
@@ -627,7 +627,7 @@
     {
       "dutyID": "59434bbd-4075-4d38-a03d-3eb84961f3b6",
       "dutyDetail": "Evaluate and analyse the effectiveness of learners’ experiences using appropriate tools and learning methodologies and make recommendations to enhance digital designs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3a7e96d8-893b-45eb-8409-8f08041e2385",
         "7e502b48-a1f3-479c-af91-10919c5e0329",
@@ -653,7 +653,7 @@
     {
       "dutyID": "17681a9b-cd70-470f-b895-fde457ee5ffd",
       "dutyDetail": "Organise and manage the storage of project outputs, files and documentation, and facilitate handover of assets to project owner and or client, including development notes and maintenance and review recommendations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -665,7 +665,7 @@
     {
       "dutyID": "7b76cb41-71f6-4726-b319-6c299be1088c",
       "dutyDetail": "Maintain and update one’s own knowledge and skills relating to digital learning design practices and technologies, through both formal and informal self-directed learning and engagement with professional learning communities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "25a51239-a6c0-4847-94ec-ae4940f281dc",
         "bad1effe-7e46-4743-8f02-65870ba8aff3",
@@ -683,7 +683,7 @@
     {
       "dutyID": "b5589bd7-ab8d-4c9f-b3eb-54b687a2f7ab",
       "dutyDetail": "Work across disciplines and fields to draw good practice and evidence based approaches across learning technologies and a variety of approaches to learning and broader societal uses of new technologies for adoption in diverse learning contexts.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3a7e96d8-893b-45eb-8409-8f08041e2385",
         "25a51239-a6c0-4847-94ec-ae4940f281dc",
