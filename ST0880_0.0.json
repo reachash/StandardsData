@@ -222,7 +222,7 @@
     "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "",
@@ -245,12 +245,12 @@
     "Contract validation specialist"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Financial",
   "cluster": "Financial services customer advisor",
   "clusterId": "242",
-  "clusterDescription": null,
+  "clusterDescription": "Handle enquiries coming directly from customers in all forms across a range of financial products and services and suppor sales generation using product/service specialisms commonly driven by regulations",
   "createdDate": "2020-10-08T08:26:26 +00:00",
   "lastUpdated": "2021-05-27T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
@@ -263,7 +263,7 @@
     {
       "dutyID": "60e7b0f0-3ea8-4663-a6d6-bdfb113aec30",
       "dutyDetail": "Support commercial aims by contributing to the generation and/or handling of sales opportunities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "667aeffe-a8c8-4c15-9187-8972e553b625",
         "7a3faec5-a2ce-40bb-a3d4-e71e9b39ea3b",
@@ -296,7 +296,7 @@
     {
       "dutyID": "a7c16338-93ee-4e6d-9b29-0c32fcd5c832",
       "dutyDetail": "Create and review documentation to the required standard in order to fund an asset for the lessee.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "667aeffe-a8c8-4c15-9187-8972e553b625",
         "24477807-1e9c-4ad3-9081-c87183a78503"
@@ -324,7 +324,7 @@
     {
       "dutyID": "51f0f5df-1c99-4e17-9816-749d7fce91d2",
       "dutyDetail": "Analyse and interpret data that is relevant to the delivery of asset finance. Take appropriate action such as making a recommendation, a decision or a referral.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "667aeffe-a8c8-4c15-9187-8972e553b625",
         "18e14aeb-510b-4ae5-bc20-c37bce6424fa"
@@ -354,7 +354,7 @@
     {
       "dutyID": "344e0d67-c2c9-4ae8-97b1-f18b4bdf31d0",
       "dutyDetail": "Prepare and submit proposals for credit or for underwriting in line with lessor set criteria.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "667aeffe-a8c8-4c15-9187-8972e553b625",
         "18e14aeb-510b-4ae5-bc20-c37bce6424fa"
@@ -376,7 +376,7 @@
     {
       "dutyID": "44b8167f-377f-4ff9-b6ac-e0c893f2ba31",
       "dutyDetail": "Quality assure the asset finance arrangement in order to process and fund the transaction.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "667aeffe-a8c8-4c15-9187-8972e553b625",
         "18e14aeb-510b-4ae5-bc20-c37bce6424fa"
@@ -401,7 +401,7 @@
     {
       "dutyID": "757a91db-59c5-4bc1-a49f-98a3b4acf42a",
       "dutyDetail": "Liaise with lessees, brokers, suppliers and internal stakeholders to ensure delivery of asset finance to the lessee.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "667aeffe-a8c8-4c15-9187-8972e553b625",
         "7a3faec5-a2ce-40bb-a3d4-e71e9b39ea3b",
@@ -427,7 +427,7 @@
     {
       "dutyID": "6e52df0d-5297-4d71-9884-637927e010c4",
       "dutyDetail": "Update and maintain information relating to the asset finance deal via the organisations IT system(s).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2de2c40e-cd15-4982-b1da-f77dbac3ecd0"
       ],
@@ -450,7 +450,7 @@
     {
       "dutyID": "edacaa77-0895-4229-af00-a7742b4bb71d",
       "dutyDetail": "Deliver the asset finance offering by identifying and providing the required administration and communication support.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cd6f75b5-24e8-4b06-b6d4-f35f804ae181"
       ],
@@ -472,7 +472,7 @@
     {
       "dutyID": "354b8158-3364-458f-91e7-37349339f4df",
       "dutyDetail": "Identify and handle in-life events that occur during the life of an asset finance agreement. Operate within regulation, the lessor's processes, and relevant codes of conduct. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "667aeffe-a8c8-4c15-9187-8972e553b625",
         "18e14aeb-510b-4ae5-bc20-c37bce6424fa",
@@ -505,7 +505,7 @@
     {
       "dutyID": "efd8bd19-55cf-456b-9545-ae2840b4b8ea",
       "dutyDetail": "Negotiate and/or administer the return, collection/disposal, extension or buy-out of the asset. This may be either at the natural end of the agreement or due to other termination events.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "667aeffe-a8c8-4c15-9187-8972e553b625",
         "7a3faec5-a2ce-40bb-a3d4-e71e9b39ea3b",
@@ -535,7 +535,7 @@
     {
       "dutyID": "584868d5-7c73-4d23-a633-c422fa9f3ee3",
       "dutyDetail": "Identify potential fraud and other types of non-compliance, escalating as appropriate.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "667aeffe-a8c8-4c15-9187-8972e553b625",
         "7a3faec5-a2ce-40bb-a3d4-e71e9b39ea3b",
@@ -563,7 +563,7 @@
     {
       "dutyID": "36703930-5fad-42c1-8c25-9889143ec2a5",
       "dutyDetail": "Identify and handle complaints from stakeholders in line with regulation, the lessor's processes, and relevant codes of conduct.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "667aeffe-a8c8-4c15-9187-8972e553b625",
         "7a3faec5-a2ce-40bb-a3d4-e71e9b39ea3b",
