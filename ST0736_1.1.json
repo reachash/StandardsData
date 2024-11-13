@@ -215,7 +215,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-07-10T00:00:00 +00:00",
@@ -239,12 +239,12 @@
     "Note: each of these titles is supported by the machine type e.g. 360 excavator operator"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Onsite Construction",
   "cluster": "Construction operative or supervisor",
   "clusterId": "1",
-  "clusterDescription": null,
+  "clusterDescription": "Use of heavy plant and equipment on surface construction sites and also specialist sites e.g. highways, tunnelling. Also the ability to undertake specialist construction work e.g. handling insulation, asbestos. Interprets drawings, plans and specifications along with methods and risk statement",
   "createdDate": "2023-05-09T14:23:52 +00:00",
   "lastUpdated": "2024-01-15T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-07-10T00:00:00 +00:00",
@@ -257,7 +257,7 @@
     {
       "dutyID": "53a8099f-1d57-421a-9442-fc85f64ce704",
       "dutyDetail": "Carry out operator-level servicing and maintenance activities using relevant information sources",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fe37edc4-7b04-41cb-8334-2deaafdd76f4",
         "9b22ab44-8a7a-437d-824a-fae39b98a2a0",
@@ -285,7 +285,7 @@
     {
       "dutyID": "5e6af8c2-d4c6-4fa3-b957-b0ed056d19ca",
       "dutyDetail": "Carry out checks, make adjustments and alterations to the machine and preparing the machines for work",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fe37edc4-7b04-41cb-8334-2deaafdd76f4",
         "9b22ab44-8a7a-437d-824a-fae39b98a2a0",
@@ -316,7 +316,7 @@
     {
       "dutyID": "02549648-ff6f-4a85-9f52-2fb7ff4c2dbe",
       "dutyDetail": "Extract and use information from the machine’s operator’s manual, site plans and drawings and verbal communication",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fe37edc4-7b04-41cb-8334-2deaafdd76f4",
         "9b22ab44-8a7a-437d-824a-fae39b98a2a0",
@@ -349,7 +349,7 @@
     {
       "dutyID": "2207c334-9be1-4768-8538-c4ad3639924f",
       "dutyDetail": "Make requests and procure materials, equipment and tools needed for the operational activities",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fe37edc4-7b04-41cb-8334-2deaafdd76f4",
         "9b22ab44-8a7a-437d-824a-fae39b98a2a0",
@@ -379,7 +379,7 @@
     {
       "dutyID": "471d5489-4166-4581-86ed-1cee2629b558",
       "dutyDetail": "Manoeuvre the machine on construction and similar sites from parking areas to the working area in all terrain and conditions",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fe37edc4-7b04-41cb-8334-2deaafdd76f4",
         "9b22ab44-8a7a-437d-824a-fae39b98a2a0",
@@ -413,7 +413,7 @@
     {
       "dutyID": "dd7fbb5f-0b91-4edc-a4d2-414bf90a3357",
       "dutyDetail": "Position and set up the machine to carry out a range of given work activities relevant to the machine's capabilities",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fe37edc4-7b04-41cb-8334-2deaafdd76f4",
         "9b22ab44-8a7a-437d-824a-fae39b98a2a0",
@@ -445,7 +445,7 @@
     {
       "dutyID": "0575d008-5605-41d0-8615-aae8405df0dd",
       "dutyDetail": "Organise, control and communicate with others to set up the work and whilst carrying out the work",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fe37edc4-7b04-41cb-8334-2deaafdd76f4",
         "9b22ab44-8a7a-437d-824a-fae39b98a2a0",
@@ -473,7 +473,7 @@
     {
       "dutyID": "7571232c-55c2-4745-bad9-10b0dee4aa82",
       "dutyDetail": "Operate an excavator 360 according to its intended purpose to carry out working activities according to the contract specifications which will include excavating earth; forming excavations, levelling and shaping ground, forming stockpiles; lifting basic loads; loading vehicles with earth and other materials",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fe37edc4-7b04-41cb-8334-2deaafdd76f4",
         "9b22ab44-8a7a-437d-824a-fae39b98a2a0",
@@ -507,7 +507,7 @@
     {
       "dutyID": "8fe49798-42f4-47dc-ab2c-abea754324c6",
       "dutyDetail": "Operate a forward tipping dumper according to its intended purpose to carry out working activities according to the contract specifications which will include receiving earth and other loose materials; transport the materials to the discharging area; forming stockpiles of discharged materials; deposit materials into trenches; excavations etc.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fe37edc4-7b04-41cb-8334-2deaafdd76f4",
         "9b22ab44-8a7a-437d-824a-fae39b98a2a0",
@@ -545,7 +545,7 @@
     {
       "dutyID": "1ead90a9-2b54-463a-964c-db6092abb9ed",
       "dutyDetail": "Operate a ride-on roller according to its intended purpose to carry out working activities according to the contract specifications which will include compacting loose granular materials; bitumous and tarmac-bound materials",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fe37edc4-7b04-41cb-8334-2deaafdd76f4",
         "9b22ab44-8a7a-437d-824a-fae39b98a2a0",
@@ -583,7 +583,7 @@
     {
       "dutyID": "69bed559-04f8-48ec-8449-4a3d50ba756d",
       "dutyDetail": "Operate a telescopic handler according to its intended purpose to carry out working activities according to the contract specifications which will include retrieving, lifting and placing loads at height using the forks; lifting and placing suspended loads at height and reach; transporting fork-mounted loads and suspended loads across the site",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fe37edc4-7b04-41cb-8334-2deaafdd76f4",
         "9b22ab44-8a7a-437d-824a-fae39b98a2a0",
@@ -621,7 +621,7 @@
     {
       "dutyID": "d3576352-a546-4223-b096-9d256410dbbd",
       "dutyDetail": "Monitor their work activity, ensure the machine is working safely and efficiently, and make adjustments or alterations as required",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fe37edc4-7b04-41cb-8334-2deaafdd76f4",
         "9b22ab44-8a7a-437d-824a-fae39b98a2a0",
@@ -654,7 +654,7 @@
     {
       "dutyID": "3d296a0f-bd46-45c3-b555-ca011d52e54f",
       "dutyDetail": "Park, shut down and make safe the machine or machines after work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fe37edc4-7b04-41cb-8334-2deaafdd76f4",
         "9b22ab44-8a7a-437d-824a-fae39b98a2a0",
@@ -679,7 +679,7 @@
     {
       "dutyID": "18c547df-879c-491c-9300-8353ce9bc681",
       "dutyDetail": "Marshall, guide and control other types of similar construction equipment for delivery and transporting activities",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fe37edc4-7b04-41cb-8334-2deaafdd76f4",
         "9b22ab44-8a7a-437d-824a-fae39b98a2a0",
@@ -709,7 +709,7 @@
     {
       "dutyID": "25b0a9f6-24f0-48cd-94de-ff35e53162a7",
       "dutyDetail": "Provide assistance when a machine is to be loaded onto and unloaded from an HGV/low loader truck and assist in securing for transport",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fe37edc4-7b04-41cb-8334-2deaafdd76f4",
         "9b22ab44-8a7a-437d-824a-fae39b98a2a0",
