@@ -220,7 +220,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-07-01T00:00:00 +00:00",
@@ -245,12 +245,12 @@
     "Air Engineer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Maintenance, Installation & Repair",
-  "cluster": "Installation, service, repair and or or overhaul advanced technician",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Installation, service, repair and/or overhaul advanced technician",
   "clusterId": "97",
-  "clusterDescription": null,
+  "clusterDescription": "Install, maintain and service plant and equipment using application and/or context specific expertise",
   "createdDate": "2020-11-18T16:27:46 +00:00",
   "lastUpdated": "2022-05-31T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-07-01T00:00:00 +00:00",
@@ -295,7 +295,7 @@
     {
       "dutyID": "644a540e-d2f1-4273-8491-8792c7324384",
       "dutyDetail": "Certify and ensure that aircraft maintenance activities are carried out in compliance with current company policy and procedures and regulatory Airworthiness requirements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -336,7 +336,7 @@
     {
       "dutyID": "cda9f280-c8a2-4636-aa66-3cb1ff48e98e",
       "dutyDetail": "Ensure a safe working environment and just culture in the workplace",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -367,7 +367,7 @@
     {
       "dutyID": "c9a43937-a010-4634-a863-42870f793897",
       "dutyDetail": "Ensure that the staff working under their supervision and others in their environment obey Health and Safety and Environmental regulations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -398,7 +398,7 @@
     {
       "dutyID": "a5b21810-ae7a-4b40-b460-8dd2efa1c56c",
       "dutyDetail": "Perform, assist and record task and dynamic risk assessment for themselves and others in the environment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -429,7 +429,7 @@
     {
       "dutyID": "c03a4b6e-28f9-4252-82f8-c897dee041c8",
       "dutyDetail": "Report and record physical, psychological or emotional limitations or injuries relating to themselves or other team members.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -458,7 +458,7 @@
     {
       "dutyID": "cf0e6ce8-e14b-47b0-b037-3b29a7423908",
       "dutyDetail": "Liaise with other engineers, contractors and supervisors as necessary to ensure the continued airworthiness of the aircraft or component.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -488,7 +488,7 @@
     {
       "dutyID": "d7923d36-5ae2-4073-92b7-28fa8eba0c0c",
       "dutyDetail": "Identify and immediately report any incidents and defects with the aircraft, tooling or test equipment to the relevant authority.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -529,7 +529,7 @@
     {
       "dutyID": "6aa5e41a-3097-46ad-bdc6-3b1b07a469fc",
       "dutyDetail": "Communicate effectively to resolve issues with a wide range of stakeholders including flight crew, shift leaders, customers, colleagues and the regulator.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
         "6a0a6882-9794-4c8a-be97-dbb5fbd8b9e0",
@@ -558,7 +558,7 @@
     {
       "dutyID": "7d829dd6-be62-4d47-8339-90002e2bd3d7",
       "dutyDetail": "Plan and conduct scheduled maintenance, inspection and rectification tasks within allotted time scales to ensure the safety and integrity of the aircraft, its systems and components.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -609,7 +609,7 @@
     {
       "dutyID": "9efc6ea9-9d85-476f-840f-5c3aa715a7f2",
       "dutyDetail": "Ensure the safe and efficient performance of each task by themselves and others",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -652,7 +652,7 @@
     {
       "dutyID": "63acb58d-6e0c-4e22-bdcb-811e2cacd63a",
       "dutyDetail": "Ensure all personal and team authorisations and mandatory training are current and documented and assist with the further development of the staff.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -682,7 +682,7 @@
     {
       "dutyID": "e0dbf454-9f35-4940-8ff1-b51043e1dc1c",
       "dutyDetail": "Ensure all documentation is completed correctly before the end of the shift and a detailed handover of any work in progress is completed and recorded.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -716,7 +716,7 @@
     {
       "dutyID": "5ad23e82-9b40-4490-96db-66e29b061708",
       "dutyDetail": "Maintain a record of personal engineering experience and training as required by company procedures and the regulator to provide evidence of competence.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -746,7 +746,7 @@
     {
       "dutyID": "53f1d32e-6f99-4bf6-b4bc-e6c3d4493e84",
       "dutyDetail": "Conduct audits of the hangar and/or facilities in accordance with company procedures or regulatory requirements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
