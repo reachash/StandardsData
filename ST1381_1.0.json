@@ -357,12 +357,12 @@
     "Visualisation systems engineer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Design and Development",
+  "pathway": "Engineering, design and development",
   "cluster": "Design and development engineer",
   "clusterId": "253",
-  "clusterDescription": null,
+  "clusterDescription": "Design and develop a range of products and/or process technologies using discipline and applications specific expertise",
   "createdDate": "2024-04-26T08:37:29 +00:00",
   "lastUpdated": "2024-04-26T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-04-26T00:00:00 +00:00",
@@ -397,7 +397,7 @@
     {
       "dutyID": "2ac642d2-d693-4610-8dc3-e4ac89404578",
       "dutyDetail": "Initiate, design, plan and lead research activities to determine feasibility and applicability of complex robotic solutions including the use of AI (Artificial Intelligence) and ML (Machine Learning).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "646fd708-20e1-42fb-86b1-53909e8c0f09",
         "81e648ae-974b-4399-a442-efac4a6d4560"
@@ -421,7 +421,7 @@
     {
       "dutyID": "a2f278ad-a5aa-4eeb-89cd-67f3b6d50ab4",
       "dutyDetail": "Use appropriate evaluation methodologies, benchmarking and acceptance criteria to capture technical, user and environmental requirements and identify constraints. Identify and design suitable architectures for robotic systems to meet the target requirements, performance and sustainability criteria.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dbe4ca86-3651-43bb-b696-08581d5982f3",
         "a063a5eb-67ec-4f3c-a910-5ddd4450a709",
@@ -448,7 +448,7 @@
     {
       "dutyID": "267e5fe3-1f0e-4a41-bebc-deb6a17f05c8",
       "dutyDetail": "Design, simulate and optimise robotic processes and parts using appropriate methodologies and tools (such as Computer Aided Engineering Design and simulation tools) and evaluate using appropriate means. Analyse and account for any limitations in the tools being used.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dbe4ca86-3651-43bb-b696-08581d5982f3",
         "42657fb7-b963-4568-b1d3-9865283d3b27"
@@ -469,7 +469,7 @@
     {
       "dutyID": "3b2f633d-1857-4903-b273-1a0e4bfa1623",
       "dutyDetail": "Design and implement sustainable robotic solutions to fulfil customer and technical requirements and relevant standards. Build condition based monitoring into the robotic system for continuous monitoring of performance. Consider the whole product lifecycle and environmental impact in the course of system and component design.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "81e648ae-974b-4399-a442-efac4a6d4560",
         "42657fb7-b963-4568-b1d3-9865283d3b27",
@@ -492,7 +492,7 @@
     {
       "dutyID": "369a95f2-4ab9-4f12-ba85-d6beecffdd98",
       "dutyDetail": "Establish categories of target end-users, apply design thinking, User Experience (UX) and product design skills in developing and integrating intuitive or collaborative human-robot interfaces, taking into account the ethical and human experience such as safety, trust, fear and acceptance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "646fd708-20e1-42fb-86b1-53909e8c0f09",
         "dbe4ca86-3651-43bb-b696-08581d5982f3",
@@ -520,7 +520,7 @@
     {
       "dutyID": "b1d1e085-9a6d-4250-a688-065ca77edd18",
       "dutyDetail": "Collect and analyse data from robot sensors and cameras using advanced techniques. Formulate actions and recommendations based on the patterns identified.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dbe4ca86-3651-43bb-b696-08581d5982f3",
         "81e648ae-974b-4399-a442-efac4a6d4560",
@@ -541,7 +541,7 @@
     {
       "dutyID": "bdf4187e-faaf-471e-8458-c8cb1c8d052f",
       "dutyDetail": "Apply engineering and scientific knowledge and problem-solving skills in investigating the root cause of faults and exercise broad autonomy, judgement and leadership in implementing appropriate solutions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a654f955-c114-4cda-93cd-2bc76efbc72b",
         "81e648ae-974b-4399-a442-efac4a6d4560",
@@ -565,7 +565,7 @@
     {
       "dutyID": "75ddddee-2a28-4a57-a6e0-1da6db92234f",
       "dutyDetail": "Initiate and undertake hazard identification and risk assessment considering the impact on users and the environment. Critically evaluate the results and their short-term and long-term implications to recommend and implement effective mitigation strategies as an ongoing vigilance throughout the product life cycle.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5845fb90-4a20-4ab3-8158-a8686ef9f5d0",
         "646fd708-20e1-42fb-86b1-53909e8c0f09",
@@ -588,7 +588,7 @@
     {
       "dutyID": "6438fecd-958e-428e-8071-1d5a3c35d29c",
       "dutyDetail": "Identify interacting factors contributing to system safety compliance and liaise with accredited safety engineers in complex compliance verification procedures. Ensure compliance with relevant standards and quality processes during design and development.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5845fb90-4a20-4ab3-8158-a8686ef9f5d0",
         "646fd708-20e1-42fb-86b1-53909e8c0f09",
@@ -613,7 +613,7 @@
     {
       "dutyID": "0a68f201-c75f-4e22-a6c2-77c607edbde5",
       "dutyDetail": "Develop software and algorithms in collaboration with other contributors. Use, share and manage access control, version control, software feature requests, tasks, continuous integration and wikis for projects.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "646fd708-20e1-42fb-86b1-53909e8c0f09",
         "dbe4ca86-3651-43bb-b696-08581d5982f3",
@@ -642,7 +642,7 @@
     {
       "dutyID": "33e396af-3b88-4e48-a2ef-f9233a650397",
       "dutyDetail": "Build, integrate and test functional robots or robotic systems (multiple robots working in coordination) taking into account hazards and risks in complex and unstructured environments. Take a leading role in demonstrating prototypes and finished products to customers or stakeholders and explain operating procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5845fb90-4a20-4ab3-8158-a8686ef9f5d0",
         "646fd708-20e1-42fb-86b1-53909e8c0f09",
@@ -664,7 +664,7 @@
     {
       "dutyID": "fbed1db3-f16a-4985-9a56-1f345f6ee776",
       "dutyDetail": "Develop technical reports, presentations and system documents such as tracking project progress, assessing sustainability and technical performance, deployment and maintenance manuals, architecture description, system and user manuals, requirements specification, risks and issue logging.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "646fd708-20e1-42fb-86b1-53909e8c0f09",
         "a063a5eb-67ec-4f3c-a910-5ddd4450a709",
@@ -688,7 +688,7 @@
     {
       "dutyID": "ce6dc3f5-4620-4e2f-a7a9-f13ba47fe416",
       "dutyDetail": "Maintain an active approach to continuous technical and personal development. Provide technical leadership and guidance to colleagues in the relevant areas of expertise.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "646fd708-20e1-42fb-86b1-53909e8c0f09",
         "a654f955-c114-4cda-93cd-2bc76efbc72b",
