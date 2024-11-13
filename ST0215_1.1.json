@@ -361,10 +361,10 @@
     "Assistant practitioner"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
-  "cluster": "Health Practitioner",
+  "cluster": "Health practitioner",
   "clusterId": "10",
   "clusterDescription": "Provide direct patient contact and high quality care with in-depth knowledge of the factors influencing health and ill-health using specialist expertise",
   "createdDate": "2024-09-11T07:49:27 +00:00",
@@ -388,7 +388,7 @@
     {
       "dutyID": "51501148-f007-4c9d-b68e-46fe753f11ec",
       "dutyDetail": "Act within the limits of own competence and within agreed ways of working, following relevant legislation, local and national standards, policies, standard operating procedures and protocols used in the workplace",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7074e01f-0176-4dc0-9701-746ab7b4d53f",
         "40c96965-73f5-452b-93e6-56cf5947cce5",
@@ -412,7 +412,7 @@
     {
       "dutyID": "675a965e-87e0-4d52-9662-21a7417de334",
       "dutyDetail": "Contribute to the on-going holistic assessment of individuals",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7074e01f-0176-4dc0-9701-746ab7b4d53f",
         "40c96965-73f5-452b-93e6-56cf5947cce5",
@@ -435,7 +435,7 @@
     {
       "dutyID": "f5d8701f-a592-4cec-b3cb-f0c1a3090fd7",
       "dutyDetail": "Deliver evidence-based programmes of clinical, diagnostic and therapeutic interventions within own scope of practice and monitor their impact",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7074e01f-0176-4dc0-9701-746ab7b4d53f",
         "40c96965-73f5-452b-93e6-56cf5947cce5",
@@ -460,7 +460,7 @@
     {
       "dutyID": "6a8afe32-164a-409a-9ca7-f9d693527e60",
       "dutyDetail": "Promote inter-professional and multi-disciplinary team working with peers, colleagues and staff from other agencies",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7074e01f-0176-4dc0-9701-746ab7b4d53f",
         "40c96965-73f5-452b-93e6-56cf5947cce5",
@@ -484,7 +484,7 @@
     {
       "dutyID": "e7a75fa4-6815-48ed-9c3c-4e5e3cc53f25",
       "dutyDetail": "Communicate complex sensitive information effectively with individuals, their families, carers and health and care professionals  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7074e01f-0176-4dc0-9701-746ab7b4d53f",
         "40c96965-73f5-452b-93e6-56cf5947cce5",
@@ -506,7 +506,7 @@
     {
       "dutyID": "2c7f4451-1ef1-4389-8696-c617a0c0337c",
       "dutyDetail": "Maintain and further develop own knowledge and skills through recognised continuing professional development activities ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7074e01f-0176-4dc0-9701-746ab7b4d53f",
         "40c96965-73f5-452b-93e6-56cf5947cce5",
@@ -528,7 +528,7 @@
     {
       "dutyID": "3fd24c6d-fe42-484b-91b1-c52f36f39c2c",
       "dutyDetail": "Support the development of others through role-modelling, supervision, guidance and leadership ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7074e01f-0176-4dc0-9701-746ab7b4d53f",
         "40c96965-73f5-452b-93e6-56cf5947cce5",
@@ -550,7 +550,7 @@
     {
       "dutyID": "9d234d86-d267-4a7f-bfed-0ab97319f684",
       "dutyDetail": "Promote the health and wellbeing of individuals, acting on opportunities to educate and empower individuals to maximise their own health and well-being",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7074e01f-0176-4dc0-9701-746ab7b4d53f",
         "40c96965-73f5-452b-93e6-56cf5947cce5",
@@ -571,7 +571,7 @@
     {
       "dutyID": "4febd82b-1fab-44b3-b1dd-8d26b95636d4",
       "dutyDetail": "Contribute to the identification and management of risks to self and others to maintain a safe and healthy working environment",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7074e01f-0176-4dc0-9701-746ab7b4d53f",
         "40c96965-73f5-452b-93e6-56cf5947cce5",
@@ -595,7 +595,7 @@
     {
       "dutyID": "8de7d380-43f6-4e1d-aaef-33b8de00062d",
       "dutyDetail": "Promote an evidence-based approach to providing health and care services, participating in quality improvement and research activity",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7074e01f-0176-4dc0-9701-746ab7b4d53f",
         "40c96965-73f5-452b-93e6-56cf5947cce5",
