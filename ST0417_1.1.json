@@ -293,7 +293,7 @@
     "Transport engineer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": null,
   "cluster": null,
@@ -327,7 +327,7 @@
     {
       "dutyID": "e7c9c1ae-c872-446c-99db-a12bee05597c",
       "dutyDetail": "Deliver solutions to broadly defined civil engineering problems, by preparing, producing and presenting engineering diagrams and documents, to engineering specifications, industry codes of practice, regulations, standards, and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dc7f1ce2-11d3-4b49-9d2e-9a26a5c2b0de",
         "368e7034-1431-4888-99ab-33002b5d9f00",
@@ -389,7 +389,7 @@
     {
       "dutyID": "8a9f2893-901a-46c1-a6d3-5cf5f56f490f",
       "dutyDetail": "Deliver appropriate and effective technical civil engineering solutions, through the identification, selection, review and evaluation of data and technical information, and the use of a range of appropriate engineering analytical methods, techniques, processes, and technologies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dc7f1ce2-11d3-4b49-9d2e-9a26a5c2b0de",
         "368e7034-1431-4888-99ab-33002b5d9f00",
@@ -451,7 +451,7 @@
     {
       "dutyID": "b0c1604e-42a0-46b4-afc1-869ff3a6f5f8",
       "dutyDetail": "Manage civil engineering tasks or projects, and the input of others, by applying project, team and quality management principles and techniques to effectively identify, organise and manage resources, budgets or costs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dc7f1ce2-11d3-4b49-9d2e-9a26a5c2b0de",
         "368e7034-1431-4888-99ab-33002b5d9f00",
@@ -513,7 +513,7 @@
     {
       "dutyID": "f590f8a1-ae9d-40ba-b242-e7c1119db0bf",
       "dutyDetail": "Contribute to the design and development of civil engineering systems, checking the systems meet the requirements of the end user or business need, and that relevant industry standards and procedures are adhered to.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dc7f1ce2-11d3-4b49-9d2e-9a26a5c2b0de",
         "368e7034-1431-4888-99ab-33002b5d9f00",
@@ -575,7 +575,7 @@
     {
       "dutyID": "611acddd-38c3-41a4-bba8-f3749758688e",
       "dutyDetail": "Use a range of practical and workshop skills, selecting and applying appropriate materials, equipment, technologies and processes, to plan, undertake, analyse and evaluate civil engineering activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dc7f1ce2-11d3-4b49-9d2e-9a26a5c2b0de",
         "368e7034-1431-4888-99ab-33002b5d9f00",
@@ -637,7 +637,7 @@
     {
       "dutyID": "9306f8bc-ffc3-496c-9dc6-162fc3ccd45c",
       "dutyDetail": "Use analytical and engineering analysis software (such as Computer Aided Design (CAD), digital data modelling systems (such as Building Information Management (BIM), and other techniques), recognising the limitations of the techniques used, to inform, develop or manage civil engineering solutions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dc7f1ce2-11d3-4b49-9d2e-9a26a5c2b0de",
         "368e7034-1431-4888-99ab-33002b5d9f00",
@@ -699,7 +699,7 @@
     {
       "dutyID": "3c1f9fd8-c839-4bcf-8872-da8fe8e849ba",
       "dutyDetail": "Ensure compliance with health, safety & welfare requirements, apply safe systems of work (including for example the Health and Safety at Work Act 1974, the Construction (Design and Management) regulations), understanding the safety implications of their works, ensuring they apply and improve safe systems of work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dc7f1ce2-11d3-4b49-9d2e-9a26a5c2b0de",
         "368e7034-1431-4888-99ab-33002b5d9f00",
@@ -761,7 +761,7 @@
     {
       "dutyID": "d52b2520-9135-4fa6-8a46-79f4619ade0f",
       "dutyDetail": "Identify, evaluate and mitigate risks associated with their work, and in the tasks and activities they are responsible for.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dc7f1ce2-11d3-4b49-9d2e-9a26a5c2b0de",
         "368e7034-1431-4888-99ab-33002b5d9f00",
@@ -823,7 +823,7 @@
     {
       "dutyID": "165b6dcb-84e4-4af7-88ba-acd2dca7115e",
       "dutyDetail": "Comply with relevant policies, standards, regulations, legislation, strategies, technical guidance, and codes of practice, for example Building Safety Act 2022 or BSI Flex 8670, ensuring they are interpreted, implemented and communicated correctly and appropriately.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dc7f1ce2-11d3-4b49-9d2e-9a26a5c2b0de",
         "368e7034-1431-4888-99ab-33002b5d9f00",
@@ -885,7 +885,7 @@
     {
       "dutyID": "3a505427-549d-47cb-8cfb-2cf82a0284ad",
       "dutyDetail": "Comply with environmental policies and legislation, practice sustainable principles, evaluating how these impact on civil engineering, and how these assist in the achievement of United Nations Sustainable Development Goals (UNSDG) and reducing carbon emissions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dc7f1ce2-11d3-4b49-9d2e-9a26a5c2b0de",
         "368e7034-1431-4888-99ab-33002b5d9f00",
@@ -947,7 +947,7 @@
     {
       "dutyID": "ccc970f8-3d20-45ce-b6b2-4a90473f1f28",
       "dutyDetail": "Use data, information and quality management, and assurance systems and processes, for example ISO 19650, recognising the need for these in managing civil engineering information (for example, information relating to the golden thread) and their application in continuous improvement.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dc7f1ce2-11d3-4b49-9d2e-9a26a5c2b0de",
         "368e7034-1431-4888-99ab-33002b5d9f00",
@@ -1009,7 +1009,7 @@
     {
       "dutyID": "143e3022-3553-4d02-bed1-1c2f5a664e2e",
       "dutyDetail": "Communicate and liaise effectively with others internal and external to their organisation, such as customers or specialist contractors, respecting the need for the confidentiality and security of data and information.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dc7f1ce2-11d3-4b49-9d2e-9a26a5c2b0de",
         "368e7034-1431-4888-99ab-33002b5d9f00",
@@ -1071,7 +1071,7 @@
     {
       "dutyID": "1eca798e-9a2e-4e0b-a301-0a1e1b4fc1b7",
       "dutyDetail": "Work reliably and effectively with others, taking responsibility for their own work and the input of others, and where appropriate, managing others.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dc7f1ce2-11d3-4b49-9d2e-9a26a5c2b0de",
         "368e7034-1431-4888-99ab-33002b5d9f00",
@@ -1133,7 +1133,7 @@
     {
       "dutyID": "b72986cc-b008-43e0-bd0d-002bd37270d0",
       "dutyDetail": "Ensure compliance with equality, diversity & inclusion (EDI) and ethical standards, recognising the importance of these in the workplace.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dc7f1ce2-11d3-4b49-9d2e-9a26a5c2b0de",
         "368e7034-1431-4888-99ab-33002b5d9f00",
@@ -1195,7 +1195,7 @@
     {
       "dutyID": "f208a329-8446-46ad-9151-17bb128607f0",
       "dutyDetail": "Plan and maintain their own learning and skills development by carrying out continuing professional development in line with professional codes of conduct and/or industry specifications and obligations, and promoting the benefits of this to others.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dc7f1ce2-11d3-4b49-9d2e-9a26a5c2b0de",
         "368e7034-1431-4888-99ab-33002b5d9f00",
