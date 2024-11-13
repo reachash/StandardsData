@@ -238,7 +238,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-05-08T00:00:00 +00:00",
@@ -269,12 +269,12 @@
     "Senior site technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Building Services Engineering",
-  "cluster": "Building services engineering technician",
+  "cluster": "Building Services engineering technician",
   "clusterId": "140",
-  "clusterDescription": null,
+  "clusterDescription": "Design and supervise the installation of building services during construction",
   "createdDate": "2022-05-13T14:37:13 +00:00",
   "lastUpdated": "2024-04-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-05-08T00:00:00 +00:00",
@@ -303,7 +303,7 @@
     {
       "dutyID": "dca949c1-7fd2-4b28-91f8-f55881e080d9",
       "dutyDetail": "Propose building services engineering solutions to well-defined technical problems, by preparing, producing and presenting engineering diagrams and documents, to engineering specifications, industry codes of practice, regulations, standards, and procedures ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1ba695b1-cb3e-4e40-8765-b7c33e688cb5",
         "89ba86ff-2961-452d-a841-ac6c21dba55a",
@@ -327,7 +327,7 @@
     {
       "dutyID": "9ebc70fb-e709-4c25-b2eb-a65061d62f4f",
       "dutyDetail": "Deliver appropriate and effective technical building services engineering solutions, by selecting, reviewing and evaluating data and technical information, and by using a range of appropriate engineering methods and processes, including the undertaking of complex calculations",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b84ed138-0143-450e-98d4-4663618134a2"
       ],
@@ -350,7 +350,7 @@
     {
       "dutyID": "e24a17bd-203b-4b70-af29-bd9ded8e1a06",
       "dutyDetail": "Manage building services tasks and supervise team members, by applying engineering management principles to effectively identify, organise and use resources within projects to specification, whilst recording and reporting against agreed budgets or costs, targets and timescales, and with consideration for quality, safety and the contracted terms and conditions",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "89ba86ff-2961-452d-a841-ac6c21dba55a",
         "ed39f98c-785c-48fa-bafa-0372b36743f9",
@@ -378,7 +378,7 @@
     {
       "dutyID": "402452ca-dd2c-462e-86e3-37265a3ad7d3",
       "dutyDetail": "Contribute to the design of building services systems, checking the systems designed meet the requirements of the end user or business need, and that relevant industry standards and procedures are adhered to",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1ba695b1-cb3e-4e40-8765-b7c33e688cb5",
         "b84ed138-0143-450e-98d4-4663618134a2"
@@ -401,7 +401,7 @@
     {
       "dutyID": "cc7c6a05-d61a-47e3-a980-84610a1336b5",
       "dutyDetail": "Use a range of practical and workshop skills, selecting and applying appropriate materials, equipment, technologies and processes, to plan, undertake and analyse building services activities",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ed39f98c-785c-48fa-bafa-0372b36743f9",
         "b84ed138-0143-450e-98d4-4663618134a2"
@@ -422,7 +422,7 @@
     {
       "dutyID": "1e01c11e-b690-48ee-9bc0-f3932c86b5dd",
       "dutyDetail": "Use analytical and engineering analysis software (such as Computer Aided Design (CAD) or Revit), digital data modelling systems (such as Building Information Management (BIM) or Building Energy Management Systems (BEMS)) to inform, develop or manage building service engineering solutions recognising the limitations of the techniques used  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ed39f98c-785c-48fa-bafa-0372b36743f9",
         "b84ed138-0143-450e-98d4-4663618134a2"
@@ -442,7 +442,7 @@
     {
       "dutyID": "b3533145-66f4-4a2e-abef-71f5c93cefdf",
       "dutyDetail": "Ensure compliance with health, safety & welfare requirements, apply safe systems of work, for example the Construction (Design and Management) regulation, understanding the safety implications of their role, ensuring they apply and improve safe systems of work",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b84ed138-0143-450e-98d4-4663618134a2"
       ],
@@ -461,7 +461,7 @@
     {
       "dutyID": "f7320d6c-877b-4d89-9b19-5391b0c851cb",
       "dutyDetail": "Identify, evaluate and mitigate risks associated with their own work, and in the projects and activities they are responsible for",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1ba695b1-cb3e-4e40-8765-b7c33e688cb5",
         "89ba86ff-2961-452d-a841-ac6c21dba55a",
@@ -481,7 +481,7 @@
     {
       "dutyID": "820b0e0d-d071-4bfb-bb03-5dcecfce91d4",
       "dutyDetail": "Comply with relevant policies, standards, regulations, legislation, strategies, technical guidance, and codes of practice, for example Building Safety legislation or BSI Flex 8670, ensuring they are interpreted, and communicated correctly and appropriately",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1ba695b1-cb3e-4e40-8765-b7c33e688cb5",
         "89ba86ff-2961-452d-a841-ac6c21dba55a",
@@ -501,7 +501,7 @@
     {
       "dutyID": "fbffd61d-3038-4051-8061-684cd121326f",
       "dutyDetail": "Comply with environmental policies and legislation, practice sustainable principles, and evaluate how these impact on the building services engineering projects they work on, and how these assist in the achievement of United Nations Sustainable Development Goals (UNSDG) and net-zero carbon emissions",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1ba695b1-cb3e-4e40-8765-b7c33e688cb5"
       ],
@@ -518,7 +518,7 @@
     {
       "dutyID": "b3329395-023f-40ca-b3eb-122011d42fb2",
       "dutyDetail": "Use quality and information management, and assurance systems and processes, for example ISO 19650, recognising the need for these and their role in continuous improvement",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ed39f98c-785c-48fa-bafa-0372b36743f9"
       ],
@@ -534,7 +534,7 @@
     {
       "dutyID": "cf96529c-da01-4e39-9947-ea1c1b012c3b",
       "dutyDetail": "Communicate and liaise effectively with own project team, and those in other teams, such as customers or specialist contractors, and with internal or external stakeholders, respecting the need for the security of data and information",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7ce47aa-9250-404f-be85-6a7ac5d8b43b"
       ],
@@ -557,7 +557,7 @@
     {
       "dutyID": "080324ad-26c5-41cb-acab-76aeb6597e19",
       "dutyDetail": "Work reliably and effectively independently without close supervision, and as a member of a team, taking responsibility for their own work, and supervising others where appropriate",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "89ba86ff-2961-452d-a841-ac6c21dba55a",
         "ed39f98c-785c-48fa-bafa-0372b36743f9",
@@ -584,7 +584,7 @@
     {
       "dutyID": "6582faef-71e6-49ba-9997-59d889c8404a",
       "dutyDetail": "Ensure compliance with equality, diversity & inclusion (EDI) and ethical standards, recognising the importance of these in the workplace ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ed39f98c-785c-48fa-bafa-0372b36743f9",
         "b84ed138-0143-450e-98d4-4663618134a2"
@@ -603,7 +603,7 @@
     {
       "dutyID": "fe202b0c-2ff2-4af2-b057-cae56e89db15",
       "dutyDetail": "Plan and maintain own learning and skills development by carrying out continuing professional development in line with professional codes of conduct and/or industry specifications and obligations, and promoting the benefits of this to others",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "71290e2a-7b9c-42e4-b595-08c344812779"
       ],
