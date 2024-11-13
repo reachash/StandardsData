@@ -316,7 +316,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "",
@@ -337,10 +337,10 @@
     "Vehicle technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Maintenance, Installation & Repair",
-  "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Service, repair and/or overhaul operative or technician",
   "clusterId": "19",
   "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2024-10-30T17:56:45 +00:00",
@@ -379,7 +379,7 @@
     {
       "dutyID": "97fb1ff5-6acf-4789-b87e-d9393c0d00d1",
       "dutyDetail": "Communicate with customers establishing vehicle problems and their requirements. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8076f8c4-0170-4e72-a5af-dbba1057b608",
         "fd82830d-b5c2-4a01-91d2-169b95b3f6c7",
@@ -444,7 +444,7 @@
     {
       "dutyID": "544f212b-c46e-448f-a6f6-00f1b926580c",
       "dutyDetail": "Conduct vehicle inspections and routine maintenance work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8076f8c4-0170-4e72-a5af-dbba1057b608",
         "fd82830d-b5c2-4a01-91d2-169b95b3f6c7",
@@ -512,7 +512,7 @@
     {
       "dutyID": "52bf0adc-dad4-4d8e-88ec-f63aa43344c6",
       "dutyDetail": "Work independently and as part of a team, contributing to business outcomes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8076f8c4-0170-4e72-a5af-dbba1057b608",
         "fd82830d-b5c2-4a01-91d2-169b95b3f6c7",
@@ -588,7 +588,7 @@
     {
       "dutyID": "99cc46db-5105-4883-a6bd-5303a80dadcf",
       "dutyDetail": "Inspect, repair, and replace car, car derived van, or light goods vehicle tyres and vehicle systems components.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8076f8c4-0170-4e72-a5af-dbba1057b608",
         "fd82830d-b5c2-4a01-91d2-169b95b3f6c7",
@@ -650,7 +650,7 @@
     {
       "dutyID": "251ed2aa-0337-416b-ba98-34afe421e68e",
       "dutyDetail": "Identify and source, vehicle components in line with workplace procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8076f8c4-0170-4e72-a5af-dbba1057b608",
         "fd82830d-b5c2-4a01-91d2-169b95b3f6c7",
@@ -713,7 +713,7 @@
     {
       "dutyID": "8a8615e7-a74a-42ac-98fa-a01f9bb3bc7f",
       "dutyDetail": "Follow workplace instructions or procedures for vehicle maintenance or repair.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8076f8c4-0170-4e72-a5af-dbba1057b608",
         "fd82830d-b5c2-4a01-91d2-169b95b3f6c7",
@@ -785,7 +785,7 @@
     {
       "dutyID": "182009d4-6df6-429b-a624-61f6114deebe",
       "dutyDetail": "Maintain the workplace environment, follow good housekeeping practices in accordance with health and safety procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8076f8c4-0170-4e72-a5af-dbba1057b608",
         "fd82830d-b5c2-4a01-91d2-169b95b3f6c7",
@@ -857,7 +857,7 @@
     {
       "dutyID": "a81bcc3f-bf87-44ac-b4a5-f85fe4b0a388",
       "dutyDetail": "Post inspection, provide customer quotation of the work required, before agreeing and commencing the work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "75f4f3a7-2c8c-41c2-928a-81c9ba677e7d",
         "688b962a-3dff-414f-9ed1-f83a799a793d"
@@ -914,7 +914,7 @@
     {
       "dutyID": "d5a1cdf8-7494-468d-a077-d070cf76d8f5",
       "dutyDetail": "Contribute to stock management routines. For example, ordering, booking, receiving, and ensuring safe storage, of stock and consumables.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8076f8c4-0170-4e72-a5af-dbba1057b608",
         "fd82830d-b5c2-4a01-91d2-169b95b3f6c7",
@@ -966,7 +966,7 @@
     {
       "dutyID": "fc4c91e2-7184-4ab0-bed8-4e385103b0cc",
       "dutyDetail": "Promote the safety of themselves, customers, colleagues, and the environment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8076f8c4-0170-4e72-a5af-dbba1057b608",
         "fd82830d-b5c2-4a01-91d2-169b95b3f6c7",
