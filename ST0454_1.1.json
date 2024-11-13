@@ -217,7 +217,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-06-26T00:00:00 +00:00",
@@ -240,12 +240,12 @@
     "Teaching assistant"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Education and Early Years",
+  "pathway": "Education and early years",
   "cluster": "Primary or secondary or tertiary teaching and support assistant",
   "clusterId": "176",
-  "clusterDescription": null,
+  "clusterDescription": "Supports the development of a students' learning skills, behaviours and overall knowledge both one-to-one and in a small group",
   "createdDate": "2023-03-06T13:20:00 +00:00",
   "lastUpdated": "2023-05-05T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-06-26T00:00:00 +00:00",
@@ -258,7 +258,7 @@
     {
       "dutyID": "e4738612-3b85-48d4-afd9-a25eee179dfd",
       "dutyDetail": "Contribute to the overall ethos and aims of the organisation and promote diversity, inclusion, equality and acceptance of all learners in line with school policies, including by challenging stereotyped views, bullying or harassment. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "59ff5752-84b7-4089-96eb-ce0a8bc8c042",
         "3563886e-8abd-4fa8-adc1-6d004a528e3c",
@@ -289,7 +289,7 @@
     {
       "dutyID": "66cc41c6-ce48-4f1a-b59c-db4d63e61c8d",
       "dutyDetail": "Implement safeguarding polices and safe practice, including online safety, in line with legislation, policies, and procedures including maintaining confidentiality.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "59ff5752-84b7-4089-96eb-ce0a8bc8c042",
         "3563886e-8abd-4fa8-adc1-6d004a528e3c",
@@ -318,7 +318,7 @@
     {
       "dutyID": "27a857d3-b601-42e6-8be8-252d69c41b0b",
       "dutyDetail": "Work in partnership and liaise with other professionals (such as the teaching staff, SENDCo, or external advisors) and parents/carers to support all learners’ learning.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "59ff5752-84b7-4089-96eb-ce0a8bc8c042",
         "3563886e-8abd-4fa8-adc1-6d004a528e3c",
@@ -350,7 +350,7 @@
     {
       "dutyID": "c3df3d2f-e76b-4de6-8824-6904efd709a5",
       "dutyDetail": "Reflect on their own practice and identify appropriate professional development opportunities with the support of colleagues.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "59ff5752-84b7-4089-96eb-ce0a8bc8c042",
         "3563886e-8abd-4fa8-adc1-6d004a528e3c",
@@ -373,7 +373,7 @@
     {
       "dutyID": "cf7659f3-5037-4403-9963-5e50735e45e2",
       "dutyDetail": "Understand the specific needs of learners and use strategies to support all learners to achieve their learning goals.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "59ff5752-84b7-4089-96eb-ce0a8bc8c042",
         "3563886e-8abd-4fa8-adc1-6d004a528e3c",
@@ -412,7 +412,7 @@
     {
       "dutyID": "8975b91a-e17f-421b-a603-3285dbe31d65",
       "dutyDetail": "Promote engagement and teach learning behaviours to support the development of independent learners.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "59ff5752-84b7-4089-96eb-ce0a8bc8c042",
         "3563886e-8abd-4fa8-adc1-6d004a528e3c",
@@ -444,7 +444,7 @@
     {
       "dutyID": "70090212-7baf-4f1b-8b3a-8cf0cd108d2f",
       "dutyDetail": "Establish positive relationships with learners and promote positive behaviours, consistently applying the school’s behaviour policy.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "59ff5752-84b7-4089-96eb-ce0a8bc8c042",
         "3563886e-8abd-4fa8-adc1-6d004a528e3c",
@@ -474,7 +474,7 @@
     {
       "dutyID": "d4f6d0e0-fb2a-43a2-a583-ad5e55278971",
       "dutyDetail": "Support the social, emotional, mental health, wellbeing and personal care of all learners in line with organisational policy and procedures. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "59ff5752-84b7-4089-96eb-ce0a8bc8c042",
         "3563886e-8abd-4fa8-adc1-6d004a528e3c",
@@ -506,7 +506,7 @@
     {
       "dutyID": "b6ad4959-1c24-4fd9-b137-f25ec73a2e65",
       "dutyDetail": "Deliver individual and small group teaching within clearly defined/planned parameters in partnership with the teacher and other professionals.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "59ff5752-84b7-4089-96eb-ce0a8bc8c042",
         "3563886e-8abd-4fa8-adc1-6d004a528e3c",
@@ -546,7 +546,7 @@
     {
       "dutyID": "5291fd18-0ff7-4b5e-adfd-35da54b976a9",
       "dutyDetail": "Contribute to assessment and planning by supporting the monitoring, recording, and reporting of learner outcomes and participation as agreed with the teacher.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "59ff5752-84b7-4089-96eb-ce0a8bc8c042",
         "3563886e-8abd-4fa8-adc1-6d004a528e3c",
@@ -580,7 +580,7 @@
     {
       "dutyID": "1e690363-9449-4eea-8de5-5598dbf7ff6a",
       "dutyDetail": "Support the development of a stimulating and safe learning environment by contributing to the selection and preparation of teaching resources that meet the diverse needs and interests of learners.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "59ff5752-84b7-4089-96eb-ce0a8bc8c042",
         "3563886e-8abd-4fa8-adc1-6d004a528e3c",
@@ -617,7 +617,7 @@
     {
       "dutyID": "d1167e4e-6583-490d-8346-61eaff07e47c",
       "dutyDetail": "Support or lead enrichment activities for example visits, out of school activities and in school clubs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "59ff5752-84b7-4089-96eb-ce0a8bc8c042",
         "3563886e-8abd-4fa8-adc1-6d004a528e3c",
