@@ -264,7 +264,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2021-12-16T00:00:00 +00:00",
@@ -284,12 +284,12 @@
     "Delivery driver"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Transport",
   "cluster": "Driver or crewmember",
   "clusterId": "82",
-  "clusterDescription": null,
+  "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
   "createdDate": "2024-10-31T10:51:15 +00:00",
   "lastUpdated": "2024-10-24T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-12-16T00:00:00 +00:00",
@@ -319,7 +319,7 @@
     {
       "dutyID": "2f70a09c-072f-43e8-8d84-dc4a88693fd1",
       "dutyDetail": "Fuel, prepare and monitor the urban vehicle.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0922643b-57eb-4898-a50b-96dc130d128d",
         "310d5931-80f4-43f7-9e51-20d8f01dcaf3",
@@ -358,7 +358,7 @@
     {
       "dutyID": "839ad431-5e82-4b0a-9a02-7596b0f1d6fd",
       "dutyDetail": "Select and operate machinery, tools and protective equipment designed to correctly load and unload goods to and from the vehicle. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0922643b-57eb-4898-a50b-96dc130d128d",
         "310d5931-80f4-43f7-9e51-20d8f01dcaf3",
@@ -391,7 +391,7 @@
     {
       "dutyID": "84b45c88-5127-4bbc-a363-6002b48be326",
       "dutyDetail": "Co-ordinate own activities with those of team members to support business needs across a designated urban area. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0922643b-57eb-4898-a50b-96dc130d128d",
         "86f6de30-afaa-4d1d-808a-9dbac9103ac6",
@@ -427,7 +427,7 @@
     {
       "dutyID": "522367ac-fcc4-4c0d-86ce-e784b6c9e0b4",
       "dutyDetail": "Drive a fixed axle vehicle from over 3500 kg in weight, delivering or collecting goods between typically short-haul urban locations in accordance with contractual agreements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0922643b-57eb-4898-a50b-96dc130d128d",
         "310d5931-80f4-43f7-9e51-20d8f01dcaf3",
@@ -465,7 +465,7 @@
     {
       "dutyID": "4cc47864-938c-4ca3-a3eb-6acc5c957ebe",
       "dutyDetail": "Design and/or follow the route plan for the journey, adjusting where necessary, and taking account of incidents, delays and route constraints (such as the challenges faced when driving a fixed axle vehicle over 3500 kg in weight through busy urban areas).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0922643b-57eb-4898-a50b-96dc130d128d",
         "310d5931-80f4-43f7-9e51-20d8f01dcaf3",
@@ -495,7 +495,7 @@
     {
       "dutyID": "980cac3c-453c-4887-afcf-51e29466fb5d",
       "dutyDetail": "Perform dynamic assessments on work progress against plans, keeping customers informed throughout. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0922643b-57eb-4898-a50b-96dc130d128d",
         "310d5931-80f4-43f7-9e51-20d8f01dcaf3",
@@ -534,7 +534,7 @@
     {
       "dutyID": "56321253-01ef-4c66-9ef8-8812cd945388",
       "dutyDetail": "Contribute to environmental and sustainability objectives.   ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0922643b-57eb-4898-a50b-96dc130d128d",
         "86f6de30-afaa-4d1d-808a-9dbac9103ac6",
@@ -581,7 +581,7 @@
     {
       "dutyID": "78223147-957c-4b3c-b637-dc305369dd9e",
       "dutyDetail": "Uphold corporate values when driving, by considering the needs of vulnerable road users and other stakeholders.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "5d16a4dd-3ea9-428f-8239-bffaeb8a3dd8",
@@ -601,7 +601,7 @@
     {
       "dutyID": "bedceeae-2f97-477a-912b-b7f80c9e6007",
       "dutyDetail": "Manage changing volumes of load held in the vehicle during the daily urban delivery cycle. Regularly review, adjust, and secure the load.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0922643b-57eb-4898-a50b-96dc130d128d",
         "310d5931-80f4-43f7-9e51-20d8f01dcaf3",
@@ -634,7 +634,7 @@
     {
       "dutyID": "575b0b13-22b1-47c2-8fe9-fb0d2fe4c00c",
       "dutyDetail": "Manoeuvre the vehicle into position, typically in urban areas where space is at a premium. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0922643b-57eb-4898-a50b-96dc130d128d",
         "310d5931-80f4-43f7-9e51-20d8f01dcaf3",
@@ -670,7 +670,7 @@
     {
       "dutyID": "a290283d-c8fd-493f-8571-654756a9241b",
       "dutyDetail": "Perform dynamic risk assessment of the site and the planned activities, negotiating with others and adjusting operations as required.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0922643b-57eb-4898-a50b-96dc130d128d",
         "310d5931-80f4-43f7-9e51-20d8f01dcaf3",
@@ -709,7 +709,7 @@
     {
       "dutyID": "d2e0f628-e9a2-4fc6-801a-06b60cad9359",
       "dutyDetail": "Work compliantly at all times, including but not limited to driving regulations, site specific requirements, company policies, and health and safety.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0922643b-57eb-4898-a50b-96dc130d128d",
         "310d5931-80f4-43f7-9e51-20d8f01dcaf3",
@@ -759,7 +759,7 @@
     {
       "dutyID": "e9dd539e-1752-4ea6-80b7-b486a7c05b3b",
       "dutyDetail": "Represent the external face of the business, exhibiting the expected corporate image and quality service standards to customers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0922643b-57eb-4898-a50b-96dc130d128d",
         "86f6de30-afaa-4d1d-808a-9dbac9103ac6",
@@ -790,7 +790,7 @@
     {
       "dutyID": "efd0905a-efc8-4c7d-8f8d-ed6aac131ee3",
       "dutyDetail": "Process goods in line with agreed procedures. For example, refusals, returns or partial deliveries.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0922643b-57eb-4898-a50b-96dc130d128d",
         "86f6de30-afaa-4d1d-808a-9dbac9103ac6",
@@ -830,7 +830,7 @@
     {
       "dutyID": "cb13e352-f534-443b-996a-9b19b2402da2",
       "dutyDetail": "Complete any additional contracted services, using the correct tools and equipment and providing product information. This includes for instance assembly, installation, packing and positioning.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0922643b-57eb-4898-a50b-96dc130d128d",
         "310d5931-80f4-43f7-9e51-20d8f01dcaf3",
@@ -870,7 +870,7 @@
     {
       "dutyID": "e6bc6f5b-8fdc-4017-80a5-2a2186deabc3",
       "dutyDetail": "Adjust customer contracts within limits of own role, escalating issues where required.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0922643b-57eb-4898-a50b-96dc130d128d",
         "310d5931-80f4-43f7-9e51-20d8f01dcaf3",
@@ -904,7 +904,7 @@
     {
       "dutyID": "389a4c13-75ce-4af3-bef5-36638e159a67",
       "dutyDetail": "Complete all required reporting procedures in accordance with the contract and own organisations procedures and formats (e.g. digital and paper based). ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0922643b-57eb-4898-a50b-96dc130d128d",
         "86f6de30-afaa-4d1d-808a-9dbac9103ac6",
@@ -943,7 +943,7 @@
     {
       "dutyID": "9ae38b87-8898-47de-a1b5-ac3a973e3fb5",
       "dutyDetail": "Follow continuous professional development, maintaining own drivers licence and ensuring required training and knowledge is kept up to date.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0922643b-57eb-4898-a50b-96dc130d128d",
         "310d5931-80f4-43f7-9e51-20d8f01dcaf3",
