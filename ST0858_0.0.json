@@ -287,7 +287,7 @@
     "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "",
@@ -302,12 +302,12 @@
   "coreAndOptions": false,
   "typicalJobTitles": [],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Healthcare Science",
+  "pathway": "Healthcare science",
   "cluster": "Healthcare science professional",
   "clusterId": "21",
-  "clusterDescription": null,
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2020-08-07T14:36:36 +00:00",
   "lastUpdated": "2023-09-28T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
@@ -333,7 +333,7 @@
     {
       "dutyID": "f342b0be-b949-4fcb-96f3-baa3dd4ea934",
       "dutyDetail": "Work safely and effectively alongside other clinical staff and within the limits of own competence, knowledge and sphere of professional practice, in line with legislation, local policy, procedures and professional code of conduct.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0be9d772-a42e-4a19-a752-06851a9b2756",
         "90502b4e-fe1c-4ea1-8a47-fd12a71272b4",
@@ -376,7 +376,7 @@
     {
       "dutyID": "eb2d1d11-5b83-46d3-833b-8dcbf1dbcb6b",
       "dutyDetail": "Be accountable and responsible for undertaking repeatable and standardised clinical photography in a wide range of healthcare settings that capture the salient visual features of disease and treatment. e.g. clinical photographic studio, operating theatres, mortuary, clinics, wards. Make decisions based on an understanding of anatomy and medical terminology and use professional judgement to select and use imaging techniques to aid clinical decision making, support patient records, patient care, teaching, research and medico-legal evidence.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0be9d772-a42e-4a19-a752-06851a9b2756",
         "90502b4e-fe1c-4ea1-8a47-fd12a71272b4",
@@ -417,7 +417,7 @@
     {
       "dutyID": "ed82691b-808e-43e1-8646-9b7310f61d4c",
       "dutyDetail": "Capture complex and accurate clinical photographic evidence for safeguarding purposes to support multidisciplinary teams, e.g. social services, police and appropriate clinicians",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0be9d772-a42e-4a19-a752-06851a9b2756",
         "77688eac-b321-4511-98eb-d4eb2d481806"
@@ -449,7 +449,7 @@
     {
       "dutyID": "294f668d-0ad4-424c-abeb-6acab7a2ff85",
       "dutyDetail": "Lead on the production of repeatable and standardised clinical video sequences and finished films to demonstrate the dynamic, chronic and acute aspects of disease and treatment and capture the salient visual (and audio) features of disease and treatment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0be9d772-a42e-4a19-a752-06851a9b2756",
         "77688eac-b321-4511-98eb-d4eb2d481806"
@@ -480,7 +480,7 @@
     {
       "dutyID": "be1da1f4-d851-4744-9ce3-655e7878505d",
       "dutyDetail": "Provide clinical photographic expertise to clinical trials and studies e.g. designing and managing a photographic protocol to monitor patients’ progress in a clinical trial.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "77688eac-b321-4511-98eb-d4eb2d481806"
       ],
@@ -506,7 +506,7 @@
     {
       "dutyID": "d35f7e28-0377-4023-b4f9-a98d4146f3a1",
       "dutyDetail": "Working independently, undertake photography in the healthcare environment to support patient information, medical education, public relations and corporate communications working in compliance with legal, ethical and professional code of conduct standards.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "77688eac-b321-4511-98eb-d4eb2d481806"
       ],
@@ -531,7 +531,7 @@
     {
       "dutyID": "181d314f-ad49-4421-9e2d-9f1dbd919b0e",
       "dutyDetail": "Ensure that patient images have been accurately captured, processed and made available, in accordance with relevant legislation and ethical guidance to support patient care.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "77688eac-b321-4511-98eb-d4eb2d481806"
       ],
@@ -553,7 +553,7 @@
     {
       "dutyID": "8a92189a-a97e-4663-acf2-eba17b807eb8",
       "dutyDetail": "Use professional judgement to ensure appropriate, informed consent is obtained or in cases where a patient lacks capacity ensures that the relevent Code of Practics are adhered to. Ensuring information governance safeguards are in place for the intended use of clinical images. Manage and promote best practice in the safe use of clinical images within the healthcare environment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "77688eac-b321-4511-98eb-d4eb2d481806"
       ],
@@ -573,7 +573,7 @@
     {
       "dutyID": "2918a5ef-b1bc-4cb2-bd87-db92fecde538",
       "dutyDetail": "Critically evaluate practice and contribute expert advice on research, new imaging technology and innovative techniques to develop and improve the service. Identify and implement change to improve the clinical photography service, making decisions based on legal, financial, user and organisational requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "77688eac-b321-4511-98eb-d4eb2d481806"
       ],
@@ -600,7 +600,7 @@
     {
       "dutyID": "593860ab-ef52-4916-b691-4e388a61a438",
       "dutyDetail": "Develop self and others through a commitment to career-long learning and demonstration of best practice, training, coaching and mentoring evidenced through CPD.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "90502b4e-fe1c-4ea1-8a47-fd12a71272b4",
         "642eefdd-e496-4d9d-a15b-fe5868370752",
@@ -621,7 +621,7 @@
     {
       "dutyID": "4afafe9f-f0ed-4b85-97d6-88d84b5df38f",
       "dutyDetail": "Contribute photographic and video expertise to support major incident planning as part of a multidisciplinary, clinical and wider team e.g. terrorist incident, pandemic. Undertake photography and video as an integral part of the major incident response team.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "15af571b-8ab9-4a4c-9710-721f71dc4fbc",
         "77688eac-b321-4511-98eb-d4eb2d481806"
