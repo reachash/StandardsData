@@ -265,7 +265,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-01-23T00:00:00 +00:00",
@@ -287,7 +287,7 @@
     "Rights assistant"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media, broadcast and production technician",
@@ -305,7 +305,7 @@
     {
       "dutyID": "8e4c4a05-cff6-4721-b2f7-39c0cfff6d76",
       "dutyDetail": "Support the publishing journey from commissioning through to publication, such as working with manuscripts and proofs for print, or content management systems and mark-up languages for digital.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "c5fed163-011e-4b1d-9329-816bf8ba70cc",
@@ -320,7 +320,7 @@
     {
       "dutyID": "a2f0f39d-127e-4fac-ba7e-b07429f0007a",
       "dutyDetail": "Assist in key publishing processes such as editing, proofreading and design, and understand accessibility requirements. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "eb26b4f5-fb8c-448e-9046-cb5801ccf87d"
       ],
@@ -337,7 +337,7 @@
     {
       "dutyID": "9ae3c43b-64f7-486a-9699-45a16aaab86a",
       "dutyDetail": "Ensure that products or publications remain within budgets, are on schedule and meet company and industry standards, agreeing changes with stakeholders, making informed judgements and recognising when it is appropriate to escalate concerns.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "3b61f039-8ac1-47e2-acf5-86e37335241e"
@@ -353,7 +353,7 @@
     {
       "dutyID": "2d5c3661-af2e-4b14-8f10-6e982c879624",
       "dutyDetail": "Support rights and permissions management processes, such as deal structures with authors or contributors and understand policies regarding third-party permissions",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "621cb00e-3827-492c-b812-1cfbe6b3e796"
       ],
@@ -370,7 +370,7 @@
     {
       "dutyID": "c98ec2f1-a5c3-4787-9717-f5b28b67f9f9",
       "dutyDetail": "Understand, input, maintain and continually improve publishing data using relevant systems and software.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "945d6ec5-124d-42c4-9b6a-86f962571550"
       ],
@@ -390,7 +390,7 @@
     {
       "dutyID": "d695af82-8f75-4b06-a09c-a60fa7479dde",
       "dutyDetail": "Understand the needs of target users and how to engage with them through sales, marketing and publicity processes. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "55500a01-0c82-4dbb-a625-c2c504c0f0e6",
@@ -405,7 +405,7 @@
     {
       "dutyID": "21ee4a44-0559-454d-a8d0-2e3aa66ff87b",
       "dutyDetail": "Collaborate and communicate clearly with internal and external stakeholders, including briefing stakeholders to achieve the correct and appropriate outcomes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ecd7a9ce-4f64-48f4-bf96-0a47cdb582e1"
       ],
@@ -425,7 +425,7 @@
     {
       "dutyID": "1ef2ec6f-3bca-4dc6-97d0-3daaeebcb361",
       "dutyDetail": "Work effectively as part of a wider team, taking on tasks with enthusiasm and working cooperatively with others.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fd565f2e-20cc-4eae-a968-0dd976b20148",
         "05c02545-3717-43fe-8bdb-6a12ede81624",
@@ -443,7 +443,7 @@
     {
       "dutyID": "b9171739-56e1-48e8-b38c-83b9eaf0ce49",
       "dutyDetail": "Work independently and flexibly as needed to manage a range of activities at the same time as meeting numerous critical deadlines, prioritising activities and multiple demands appropriately. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2628682a-9810-478f-9d10-5bc6b47fa8a7"
       ],
@@ -458,7 +458,7 @@
     {
       "dutyID": "b684937c-e1d7-47af-8ca2-bc3dd4ffc257",
       "dutyDetail": "Maintain up-to-date market intelligence and an understanding of the broader publishing industry, including competitors, trends, and social issues such as sustainability and diversity, equity and inclusion.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a33312ca-f04e-4dd7-aa69-beaa0f020917",
         "57bbb7bb-048e-4ecb-8f4f-7f9781732a2e"
