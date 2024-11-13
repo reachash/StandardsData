@@ -341,7 +341,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-08-22T00:00:00 +00:00",
@@ -363,12 +363,12 @@
     "Furniture manufacturer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Manufacturing, Process and Control",
+  "pathway": "Engineering, manufacturing, process and control",
   "cluster": "Manufacturing and process operative or technician",
   "clusterId": "262",
-  "clusterDescription": null,
+  "clusterDescription": "Assemble and construct complex engineering products",
   "createdDate": "2024-07-08T11:47:23 +00:00",
   "lastUpdated": "2024-09-06T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-08-22T00:00:00 +00:00",
@@ -381,7 +381,7 @@
     {
       "dutyID": "9f87ea02-f906-46d1-ad07-2afbb17e7624",
       "dutyDetail": "Receive, read, and interpret job specifications. For example, drawings, and technical information. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "187e0340-a4cc-44c1-94cb-b9e3f34d360a",
         "08c8de84-d27e-4eb2-b1bf-362c4bacb1e9"
@@ -438,7 +438,7 @@
     {
       "dutyID": "4f325808-aae7-482d-b70b-555512cefcca",
       "dutyDetail": "Maintain the work area for health, safety, and environmental compliance before, during, and after the furniture making activity. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7790135f-9147-4365-9a3b-915394c88c9a",
         "187e0340-a4cc-44c1-94cb-b9e3f34d360a",
@@ -498,7 +498,7 @@
     {
       "dutyID": "2c2ccf92-0630-41eb-a1c1-83037d55e8db",
       "dutyDetail": "Plan work and resources, including sustainable practices to complete and meet targets for the furniture manufacturing activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7790135f-9147-4365-9a3b-915394c88c9a",
         "187e0340-a4cc-44c1-94cb-b9e3f34d360a",
@@ -569,7 +569,7 @@
     {
       "dutyID": "c2d41f0f-cfba-48c1-adf5-7b52e1e02220",
       "dutyDetail": "Organise availability and condition of machinery, tools, equipment and materials.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7790135f-9147-4365-9a3b-915394c88c9a",
         "187e0340-a4cc-44c1-94cb-b9e3f34d360a",
@@ -624,7 +624,7 @@
     {
       "dutyID": "a6c4d734-1115-4ebf-a604-9e039f8a60df",
       "dutyDetail": "Perform first line maintenance tasks on furniture machinery, tools and equipment. For example, checking, cleaning and lubricating.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7790135f-9147-4365-9a3b-915394c88c9a",
         "187e0340-a4cc-44c1-94cb-b9e3f34d360a",
@@ -666,7 +666,7 @@
     {
       "dutyID": "ad5921c1-16b3-425b-a12c-924fa1d8c685",
       "dutyDetail": "Prepare for operation of machinery, power tools, hand tools and equipment used to manufacture furniture and components. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7790135f-9147-4365-9a3b-915394c88c9a",
         "187e0340-a4cc-44c1-94cb-b9e3f34d360a",
@@ -710,7 +710,7 @@
     {
       "dutyID": "bcfe7664-7e8a-455d-b670-79a4c3f1f215",
       "dutyDetail": "Check jigs and templates for furniture production. For example, checking for any faults or damage, reporting issues.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7790135f-9147-4365-9a3b-915394c88c9a",
         "187e0340-a4cc-44c1-94cb-b9e3f34d360a",
@@ -751,7 +751,7 @@
     {
       "dutyID": "0b8ed7ba-92a3-4b96-ac95-0d10ccbeaf39",
       "dutyDetail": "Prepare materials prior to assembly and post-assembly and for job completion. Resolve flaws or issues with materials. For example, sand, clean and glue materials, including plywood, medium density fibreboard (MDF), and melamine faced chipboard (MFC).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7790135f-9147-4365-9a3b-915394c88c9a",
         "187e0340-a4cc-44c1-94cb-b9e3f34d360a",
@@ -802,7 +802,7 @@
     {
       "dutyID": "9e3ba817-807f-4108-8390-c631188b06ef",
       "dutyDetail": "Manufacture components of furniture using machinery,  tools, and equipment.  For example, measure, cut and shape materials using saws, chisels, planes, power tools and woodworking machinery. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7790135f-9147-4365-9a3b-915394c88c9a",
         "187e0340-a4cc-44c1-94cb-b9e3f34d360a",
@@ -851,7 +851,7 @@
     {
       "dutyID": "4780bc17-e10d-46cb-b9cf-2763b9b2b0ef",
       "dutyDetail": "Assemble components of furniture. For example, glue joints and fit part sections using staples, dowels, screws, and nails.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7790135f-9147-4365-9a3b-915394c88c9a",
         "187e0340-a4cc-44c1-94cb-b9e3f34d360a",
@@ -894,7 +894,7 @@
     {
       "dutyID": "e600808f-037c-4e27-9421-f6745c30840b",
       "dutyDetail": "Complete finishing operations on assembled furniture. For example, spray techniques on surfaces, attach fittings and fixtures to assembled furniture. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7790135f-9147-4365-9a3b-915394c88c9a",
         "187e0340-a4cc-44c1-94cb-b9e3f34d360a",
@@ -935,7 +935,7 @@
     {
       "dutyID": "20aba500-b9e6-4844-9cda-4f8f22a6d090",
       "dutyDetail": "Complete rectification, repair, or rework on furniture items where necessary. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7790135f-9147-4365-9a3b-915394c88c9a",
         "187e0340-a4cc-44c1-94cb-b9e3f34d360a",
@@ -973,7 +973,7 @@
     {
       "dutyID": "1fd1adcf-3cf0-47a3-aef7-d45b197b7ddf",
       "dutyDetail": "Pack and store finished assemblies and conduct quality assurance checks. Rectify or report issues. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7790135f-9147-4365-9a3b-915394c88c9a",
         "187e0340-a4cc-44c1-94cb-b9e3f34d360a",
@@ -1005,7 +1005,7 @@
     {
       "dutyID": "e9faf643-961a-49a2-a067-def17f3d1ff1",
       "dutyDetail": "Complete documentation or digital information relating to the furniture making process. For example, job sheets, work to do lists, production records.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "187e0340-a4cc-44c1-94cb-b9e3f34d360a",
         "e10a90a3-e62e-49ce-8022-736c1c25d6ba",
@@ -1035,7 +1035,7 @@
     {
       "dutyID": "541e2202-03ef-4e61-9cbd-e005d3b00118",
       "dutyDetail": "Support continuous improvement and problem solving activities. For example, identify issues to address business needs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7790135f-9147-4365-9a3b-915394c88c9a",
         "187e0340-a4cc-44c1-94cb-b9e3f34d360a",
