@@ -346,7 +346,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2021-08-03T00:00:00 +00:00",
@@ -370,7 +370,7 @@
     "Scheduling lead"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Quality improvement, health and safety professional",
@@ -395,7 +395,7 @@
     {
       "dutyID": "797237cb-5b73-4d43-b84c-d2844897783b",
       "dutyDetail": "Determine, establish and implement (adapt/refine) the required project controls procedures, methods and systems to provide the project, programme or portfolio manager with reliable, consistent, quality, technical controls information.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "abd69290-0408-408e-a2f8-79c221499b64",
         "8ac07d90-e2ad-457e-a5ff-cb8910b93c0c",
@@ -422,7 +422,7 @@
     {
       "dutyID": "3f66eb84-5e03-4ec3-aa32-2cc2ba3b5490",
       "dutyDetail": "Develop comprehensive project controls plan(s) and reporting framework(s) to generate meaningful controls data.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "abd69290-0408-408e-a2f8-79c221499b64",
         "e5d7acbc-369a-4e23-81ba-bb7fcf31d6d0",
@@ -444,7 +444,7 @@
     {
       "dutyID": "349428e9-501e-42d4-bc94-f0be4c2ecbac",
       "dutyDetail": "Review and interpret technical project documents (including engineering scope and engineering drawings).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8ac07d90-e2ad-457e-a5ff-cb8910b93c0c",
         "90c897fa-723f-4982-b4ac-a0fd093ebb30",
@@ -464,7 +464,7 @@
     {
       "dutyID": "a85bafa0-2152-4b8e-a47a-7e572fe97cc3",
       "dutyDetail": "Ensure project control work is undertaken in accordance with the requirements of regulations, safety, ethics, the environment and duty of care.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "abd69290-0408-408e-a2f8-79c221499b64",
         "c905fd03-e84c-42cf-a99b-95a51409631f",
@@ -489,7 +489,7 @@
     {
       "dutyID": "0d075cbb-0523-4a6b-85eb-d0a8f11d8ff5",
       "dutyDetail": "Be accountable for integrity and technical appropriateness of data in order to provide insight into progress.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c905fd03-e84c-42cf-a99b-95a51409631f",
         "8ac07d90-e2ad-457e-a5ff-cb8910b93c0c",
@@ -513,7 +513,7 @@
     {
       "dutyID": "c3a85e6a-e970-48f0-aa4b-f20cf47c73f1",
       "dutyDetail": "Ensure controls information and recommendations are reported and communicated effectively in order to influence key decision-makers and colleagues.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c905fd03-e84c-42cf-a99b-95a51409631f",
         "8ac07d90-e2ad-457e-a5ff-cb8910b93c0c",
@@ -542,7 +542,7 @@
     {
       "dutyID": "8b726ce4-4576-44bf-8050-65d65d7c87da",
       "dutyDetail": "Underpin the risk management process – lead reviews, challenge risks and assumptions, identify which mitigation measures will work and provide advice and recommendations to the project, programme or portfolio manager.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "abd69290-0408-408e-a2f8-79c221499b64",
         "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
@@ -568,7 +568,7 @@
     {
       "dutyID": "f9ec3001-cf9c-4607-8f0c-ab34313c13da",
       "dutyDetail": "Carry out effective cost and schedule risk analysis, what if scenarios and impact analysis for the project.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
         "e5d7acbc-369a-4e23-81ba-bb7fcf31d6d0",
@@ -602,7 +602,7 @@
     {
       "dutyID": "7ef57bd0-68f1-4af2-af42-99f125673fe2",
       "dutyDetail": "Implement and enforce project control change procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "abd69290-0408-408e-a2f8-79c221499b64",
         "c905fd03-e84c-42cf-a99b-95a51409631f"
@@ -619,7 +619,7 @@
     {
       "dutyID": "735b4918-8eed-4776-bfc0-0fbf6b50716c",
       "dutyDetail": "Evaluate invitations to tender received, contractual requirements and bid responses and create project controls’ content for inclusion in bid responses.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
         "8ac07d90-e2ad-457e-a5ff-cb8910b93c0c",
@@ -639,7 +639,7 @@
     {
       "dutyID": "4458209c-e75b-477e-9df1-47102f8f7a0b",
       "dutyDetail": "Create project controls content for outgoing invitations to tender, interrogate bids received and related contractual requirements to ensure project controls deliverables are achievable and in line with organisational objectives (e.g. review and create estimates of cost and time).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8ac07d90-e2ad-457e-a5ff-cb8910b93c0c",
         "90c897fa-723f-4982-b4ac-a0fd093ebb30",
@@ -659,7 +659,7 @@
     {
       "dutyID": "b8a8365c-e5a0-404e-90bb-4952b851c2d2",
       "dutyDetail": "Develop, challenge and analyse the technical coding and breakdown structures to ensure the overall project scope and engineering activities are captured correctly.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c905fd03-e84c-42cf-a99b-95a51409631f",
         "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
@@ -681,7 +681,7 @@
     {
       "dutyID": "5c13e566-d187-49a2-a792-2af6e0471a51",
       "dutyDetail": "Determine and apply the best methodology for estimating the project value, taking into account the level of design maturity and project risks, analyse the estimate outcomes, benchmark and report on pros and cons and degree of certainty.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c905fd03-e84c-42cf-a99b-95a51409631f",
         "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
@@ -710,7 +710,7 @@
     {
       "dutyID": "c82c95db-ff78-490e-ae37-11cf953b6bf0",
       "dutyDetail": "Use planning and scheduling techniques to create credible, realistic schedules.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
         "56169dad-90b2-451c-ae22-b4fd4ea59080",
@@ -734,7 +734,7 @@
     {
       "dutyID": "e1a4e3ad-41ba-4f2e-8dd5-033382692751",
       "dutyDetail": "Set the strategy for management of the controls baseline - develop and maintain the baseline for control including scope, schedule, risk and cost (ensuring alignment between cost and schedule using the coding structures).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c905fd03-e84c-42cf-a99b-95a51409631f",
         "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
@@ -756,7 +756,7 @@
     {
       "dutyID": "f6477f5d-3cdc-4526-9cca-0f5fb0f8ad3c",
       "dutyDetail": "Undertake optimisation and efficiency practice and produce reports containing recommendations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
         "e5d7acbc-369a-4e23-81ba-bb7fcf31d6d0",
@@ -780,7 +780,7 @@
     {
       "dutyID": "2a2f8444-a221-4b00-935f-355288fb601a",
       "dutyDetail": "Undertake forensic analysis of data supported by accurate, timely, secure record keeping in order to support dispute resolution.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
         "e5d7acbc-369a-4e23-81ba-bb7fcf31d6d0",
@@ -795,7 +795,7 @@
     {
       "dutyID": "f84f54df-d89a-4825-bbfd-c78f791f3164",
       "dutyDetail": "Undertake effective cost engineering control by monitoring at the appropriate level, measuring commitments, expenditures and cash flow and putting the framework in place to perform effective cost forecasting.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c905fd03-e84c-42cf-a99b-95a51409631f",
         "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
@@ -819,7 +819,7 @@
     {
       "dutyID": "da0a625b-3d8b-4970-80f0-82bd3877d1e8",
       "dutyDetail": "Take responsibility to foster sound decision making based on analysis of progress, making recommendations and providing appropriate challenge to the project, portfolio or programme manager.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8ac07d90-e2ad-457e-a5ff-cb8910b93c0c",
         "3951c6b9-fe76-48ba-93d7-32cc968b4e83",
@@ -837,7 +837,7 @@
     {
       "dutyID": "905d63bc-0f94-4f33-a77a-a84e4cd2e086",
       "dutyDetail": "Select and use the most appropriate forecasting techniques to forecast cost and schedule out-turns, considering the technical and sector requirements and related assumptions and metrics being used.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
         "e5d7acbc-369a-4e23-81ba-bb7fcf31d6d0",
@@ -855,7 +855,7 @@
     {
       "dutyID": "049febc5-2616-4ed5-975e-7846a16a4036",
       "dutyDetail": "Ensure continuous improvement in project control by monitoring and incorporating (where appropriate) the latest innovative techniques, relevant technologies and lessons learned from other projects.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c905fd03-e84c-42cf-a99b-95a51409631f",
         "113a86ed-517d-4126-a2e2-112c89310b4c",
@@ -876,7 +876,7 @@
     {
       "dutyID": "d569aea3-b9a0-49cb-9064-bb1e6f96c3b9",
       "dutyDetail": "Provide leadership and steering across project controls functions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c905fd03-e84c-42cf-a99b-95a51409631f",
         "1fc4d627-8b26-41cf-b45f-a9077d2500f3"
