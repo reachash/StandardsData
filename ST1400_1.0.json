@@ -227,7 +227,7 @@
     "Costs negotiator"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Legal",
   "cluster": "Legal professional or lawyer",
@@ -254,7 +254,7 @@
     {
       "dutyID": "23d61ba1-8358-4c04-b244-7584ce7b8700",
       "dutyDetail": "Take instructions from clients, gather an understanding of client need and explain the risks and benefits of options available and proposed next steps.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3f69216f-b60f-434e-bebe-cab536a9bf33",
         "4814f970-805a-4e24-915e-e906923ca621",
@@ -304,7 +304,7 @@
     {
       "dutyID": "a7a19fc6-d15b-45b4-bb33-0aa6f3184f29",
       "dutyDetail": "Set out legal research strategies, conduct legal research using a range of approaches and sources and provide analysis of outcomes to stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6ed42f1d-bd9c-4512-a21e-6adde9a39f60"
       ],
@@ -329,7 +329,7 @@
     {
       "dutyID": "af4cc175-a421-44f0-9b2a-f8696149876f",
       "dutyDetail": "Analyse and evaluate research, data and information to inform strategies, risk and decision-making in legal casework.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4814f970-805a-4e24-915e-e906923ca621",
         "6ed42f1d-bd9c-4512-a21e-6adde9a39f60",
@@ -356,7 +356,7 @@
     {
       "dutyID": "4ac5fa38-d0d8-4703-a18a-b47e2e6b0741",
       "dutyDetail": "Draft key documents including: Bills and Schedules of Costs, Points of Dispute and Replies to claims for costs. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4814f970-805a-4e24-915e-e906923ca621"
       ],
@@ -382,7 +382,7 @@
     {
       "dutyID": "da5871eb-09e2-4a8e-84ea-29fa07682685",
       "dutyDetail": "Assist in the preparation of costs budgets and advise on costs budgets presented by an opposing party.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4814f970-805a-4e24-915e-e906923ca621"
       ],
@@ -407,7 +407,7 @@
     {
       "dutyID": "e7a3466d-9e71-4ddf-ad87-a0a07ae875e9",
       "dutyDetail": "Advise on retainers and fee arrangements between clients and their legal advisors.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4814f970-805a-4e24-915e-e906923ca621",
         "9e103f01-8d7b-42bc-85f4-49a487f375fe",
@@ -433,7 +433,7 @@
     {
       "dutyID": "09f4c2cf-47b8-4ee1-adc0-088ff8241910",
       "dutyDetail": "Advise on and prepare claims for costs from public funds such as Legal Aid.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4814f970-805a-4e24-915e-e906923ca621",
         "9e103f01-8d7b-42bc-85f4-49a487f375fe",
@@ -457,7 +457,7 @@
     {
       "dutyID": "51deeaaf-d8ae-4283-80a6-e508e7485148",
       "dutyDetail": "Advise on disputes between solicitors and their clients.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9e103f01-8d7b-42bc-85f4-49a487f375fe"
       ],
@@ -482,7 +482,7 @@
     {
       "dutyID": "ee92d012-1b77-4cd1-9340-502f762d172b",
       "dutyDetail": "Lead negotiations on legal costs. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3f69216f-b60f-434e-bebe-cab536a9bf33",
         "4814f970-805a-4e24-915e-e906923ca621",
@@ -521,7 +521,7 @@
     {
       "dutyID": "4c1aa117-9a85-4d5e-98c1-15c05bdc377b",
       "dutyDetail": "Act as costs mediators or arbitrators in costs disputes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3f69216f-b60f-434e-bebe-cab536a9bf33",
         "4814f970-805a-4e24-915e-e906923ca621",
@@ -560,7 +560,7 @@
     {
       "dutyID": "2795a70c-4acd-41a7-a9f4-236461fe646b",
       "dutyDetail": "Deliver advice on legal costs to different types of clients, ensuring that they fully understand their options and make informed decisions. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3f69216f-b60f-434e-bebe-cab536a9bf33",
         "4814f970-805a-4e24-915e-e906923ca621",
@@ -599,7 +599,7 @@
     {
       "dutyID": "a699d9bd-8492-4d4b-ad13-237a0ae7d5dd",
       "dutyDetail": "Undertake advocacy on behalf of clients in respect of contentious costs disputes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4814f970-805a-4e24-915e-e906923ca621",
         "6ed42f1d-bd9c-4512-a21e-6adde9a39f60",
@@ -625,7 +625,7 @@
     {
       "dutyID": "4fe772f1-03f0-4e38-b496-00652ede0de5",
       "dutyDetail": "Source, handle and store personal data and confidential information safely and securely. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6f62f255-3a28-417b-a22e-a9e0a25d9ea7"
       ],
@@ -648,7 +648,7 @@
     {
       "dutyID": "995234c8-a122-4810-baee-c38de7661a8b",
       "dutyDetail": "Deliver legal services using digital technology safely and securely to protect the organisation from cyber security risks and reputational harm.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4814f970-805a-4e24-915e-e906923ca621",
         "6f62f255-3a28-417b-a22e-a9e0a25d9ea7"
@@ -671,7 +671,7 @@
     {
       "dutyID": "efe30875-2260-4d1e-ad16-258a4003e639",
       "dutyDetail": "Maintain professional standards by undertaking Continuous Professional Development and maintain the records required to retain qualified and regulated status.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2146d321-a833-43e8-bed8-879781b583cc"
       ],
@@ -692,7 +692,7 @@
     {
       "dutyID": "1bbd0888-a5a5-45ea-a48a-0c36627e8f4b",
       "dutyDetail": "Provide legal services in line with Regulatory requirements regarding Ethics Conduct and Professionalism including working regarding Equality, Diversity and Inclusion.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9e103f01-8d7b-42bc-85f4-49a487f375fe",
         "16534b2e-6b2a-493f-9eb4-df1be3cdbfca"
@@ -712,7 +712,7 @@
     {
       "dutyID": "79180a2b-6394-4571-a8f5-7cd15dbf6028",
       "dutyDetail": "Manage caseload in line with organisational approaches and ensure commerciality of activities is considered throughout.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3f69216f-b60f-434e-bebe-cab536a9bf33",
         "4814f970-805a-4e24-915e-e906923ca621"
@@ -734,7 +734,7 @@
     {
       "dutyID": "602f308b-0725-4e07-94ae-3a5cdedb37b5",
       "dutyDetail": "Manage and apply financial information to caseloads to deliver outputs that are value for money and support customer or organisational objectives.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3f69216f-b60f-434e-bebe-cab536a9bf33",
         "4814f970-805a-4e24-915e-e906923ca621",
@@ -759,7 +759,7 @@
     {
       "dutyID": "c2dc784d-acd1-4968-8573-a2724618c398",
       "dutyDetail": "Undertake the technical supervision of cases by junior lawyers and provide feedback and training as needed.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9e103f01-8d7b-42bc-85f4-49a487f375fe",
         "6f62f255-3a28-417b-a22e-a9e0a25d9ea7",
