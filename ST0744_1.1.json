@@ -286,7 +286,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-09-27T00:00:00 +00:00",
@@ -307,7 +307,7 @@
     "Windows/doors fabricator"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Fabrication and welding operative or technician",
@@ -325,7 +325,7 @@
     {
       "dutyID": "cf2b3111-0b46-4a66-bb87-542883fb5fda",
       "dutyDetail": "Work in compliance with occupational health, safety and environmental requirements to ensure the health, safety and wellbeing of self and others at all times. Report in a timely manner any non-compliances to the appropriate person.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "14e1f8b3-047f-4691-976c-9931e440a3cb",
         "d32f0c7e-0a06-4179-8b5b-36091bc2f26c",
@@ -372,7 +372,7 @@
     {
       "dutyID": "8ab9cacf-f545-466a-9bc4-5d1db11ea22e",
       "dutyDetail": "Inspect components prior to fabrication for example profile material and ancillary items ready for the fabrication process; ensuring all materials are present and meet quality and specification requirements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "14e1f8b3-047f-4691-976c-9931e440a3cb",
         "d32f0c7e-0a06-4179-8b5b-36091bc2f26c",
@@ -401,7 +401,7 @@
     {
       "dutyID": "3539e873-bb5a-4d53-a1a3-3603708af707",
       "dutyDetail": "Identify and confirm fabrication requirements against work instructions or specifications",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d32f0c7e-0a06-4179-8b5b-36091bc2f26c",
         "67d43fd1-2db0-4550-8b84-d728987f54db"
@@ -426,7 +426,7 @@
     {
       "dutyID": "97624399-3e46-439d-a3cb-f0c60d9aa378",
       "dutyDetail": "Use fabrication equipment such as machines, hand and power tools; including machinery checks and adjustments in preparation for fabrication",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "14e1f8b3-047f-4691-976c-9931e440a3cb",
         "d32f0c7e-0a06-4179-8b5b-36091bc2f26c",
@@ -461,7 +461,7 @@
     {
       "dutyID": "6dda91bc-d364-4d2f-a71e-78b50f3c53d0",
       "dutyDetail": "Measure, drill and prepare the profile length of materials being fabricated that will form the finished product",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "14e1f8b3-047f-4691-976c-9931e440a3cb",
         "d32f0c7e-0a06-4179-8b5b-36091bc2f26c",
@@ -492,7 +492,7 @@
     {
       "dutyID": "b8bc21c9-fd85-4c82-b599-bc8cdf867244",
       "dutyDetail": "Manufacture the product including mullions (vertical bars) and transoms (horizontal bars) using the relevant jointing method and/or machinery",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "14e1f8b3-047f-4691-976c-9931e440a3cb",
         "d32f0c7e-0a06-4179-8b5b-36091bc2f26c",
@@ -526,7 +526,7 @@
     {
       "dutyID": "c96b5d53-2a3f-4227-aa51-9e4c4b2fc85a",
       "dutyDetail": "Assemble the product including opening frames, sashes or vents if applicable using fabrication methods such as crimping, welding, machining, bending and beading",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "14e1f8b3-047f-4691-976c-9931e440a3cb",
         "d32f0c7e-0a06-4179-8b5b-36091bc2f26c",
@@ -556,7 +556,7 @@
     {
       "dutyID": "5832b635-704e-4668-9049-808633fff73b",
       "dutyDetail": "Fix ancillary items to the product, for example handles",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "14e1f8b3-047f-4691-976c-9931e440a3cb",
         "d32f0c7e-0a06-4179-8b5b-36091bc2f26c",
@@ -586,7 +586,7 @@
     {
       "dutyID": "d77b0960-a3de-42d8-bd8f-b9a9128affed",
       "dutyDetail": "Check and inspect the product for any damage or imperfections, rectifying any defects and reporting to line manager",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d32f0c7e-0a06-4179-8b5b-36091bc2f26c",
         "67d43fd1-2db0-4550-8b84-d728987f54db"
@@ -614,7 +614,7 @@
     {
       "dutyID": "0eb62908-c1f0-4973-bd21-bec9f8a6e0a4",
       "dutyDetail": "Clean and finish the product safely and ensuring the finished product functions correctly",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "14e1f8b3-047f-4691-976c-9931e440a3cb",
         "d32f0c7e-0a06-4179-8b5b-36091bc2f26c",
@@ -638,7 +638,7 @@
     {
       "dutyID": "4bfc33ce-b947-4755-a19a-28282ae2537d",
       "dutyDetail": "Complete sign off documentation, for example worksheets, quality and environmental records when necessary",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d32f0c7e-0a06-4179-8b5b-36091bc2f26c",
         "67d43fd1-2db0-4550-8b84-d728987f54db"
