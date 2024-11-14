@@ -286,7 +286,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-11-22T00:00:00 +00:00",
@@ -305,10 +305,10 @@
     "Dog trainer instructor including search and rescue"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Animal Care and Management",
-  "cluster": "Animal care specialist",
+  "cluster": "Animal Care Specialist",
   "clusterId": "83",
   "clusterDescription": "Active management of the welfare of animals including making care/health interventions usually under supervision",
   "createdDate": "2024-07-23T15:44:35 +00:00",
@@ -323,7 +323,7 @@
     {
       "dutyID": "d3e77285-0575-4f32-acae-81be2e28c04a",
       "dutyDetail": "Gather information and knowledge required and incorporate into training plans for animals and their guardians. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9876e683-fb94-49a0-a07c-0f45de771bdd",
         "e8d433d5-4c57-4f24-8385-70b3c1b9b7db",
@@ -374,7 +374,7 @@
     {
       "dutyID": "d6a7fb3a-d570-414e-ac6c-cfbb9266a14a",
       "dutyDetail": "Assess and meet the physical, psychological and emotional needs of animals    and guardians.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9876e683-fb94-49a0-a07c-0f45de771bdd",
         "e8d433d5-4c57-4f24-8385-70b3c1b9b7db",
@@ -418,7 +418,7 @@
     {
       "dutyID": "7cc948a8-2977-4c9e-aae7-4cab5123144e",
       "dutyDetail": "Create training plans to deliver desired animal behaviours and effects.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9876e683-fb94-49a0-a07c-0f45de771bdd",
         "e8d433d5-4c57-4f24-8385-70b3c1b9b7db",
@@ -467,7 +467,7 @@
     {
       "dutyID": "2879071e-1e11-45bc-bfe1-afb9cb76f10e",
       "dutyDetail": "Teach guardians to train, work with and manage their animal(s) in accordance with training plans.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9876e683-fb94-49a0-a07c-0f45de771bdd",
         "e8d433d5-4c57-4f24-8385-70b3c1b9b7db",
@@ -517,7 +517,7 @@
     {
       "dutyID": "b1f8e4d0-746b-4fa3-939c-636efa0c02f3",
       "dutyDetail": "Assess the progress of animals and guardians against training plans and modify them accordingly.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9876e683-fb94-49a0-a07c-0f45de771bdd",
         "e8d433d5-4c57-4f24-8385-70b3c1b9b7db",
@@ -562,7 +562,7 @@
     {
       "dutyID": "55936123-d8d6-4126-8056-0b4beaf2131d",
       "dutyDetail": "Undertake risk assessments and manage health and safety.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e8d433d5-4c57-4f24-8385-70b3c1b9b7db",
         "a94a3ec9-a342-43d2-8442-360ccf55553c",
@@ -598,7 +598,7 @@
     {
       "dutyID": "69e4e85d-52d9-4b06-9c87-c5e1024434ac",
       "dutyDetail": "Maintain records in accordance with organisational policies and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9876e683-fb94-49a0-a07c-0f45de771bdd",
         "e8d433d5-4c57-4f24-8385-70b3c1b9b7db",
@@ -627,7 +627,7 @@
     {
       "dutyID": "3eee921e-a77c-4ee5-b8fb-a3f2fbfb9362",
       "dutyDetail": "Undertake continuing professional development and keep up to date with current legislation and policies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e8d433d5-4c57-4f24-8385-70b3c1b9b7db",
         "be2e8d00-d7be-4112-a282-6a1bacbb895d",
@@ -649,7 +649,7 @@
     {
       "dutyID": "0113549a-7233-4d68-a957-7c7229a3f695",
       "dutyDetail": "Manage resources  and environment to deliver efficient and effective training plans.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9876e683-fb94-49a0-a07c-0f45de771bdd",
         "e8d433d5-4c57-4f24-8385-70b3c1b9b7db",
@@ -683,7 +683,7 @@
     {
       "dutyID": "493f31f2-0419-4a1c-bb15-453218ebfac7",
       "dutyDetail": "Support organisational governance and quality assurance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9876e683-fb94-49a0-a07c-0f45de771bdd",
         "e8d433d5-4c57-4f24-8385-70b3c1b9b7db",
