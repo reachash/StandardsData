@@ -250,7 +250,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2021-08-03T00:00:00 +00:00",
@@ -276,7 +276,7 @@
     "district forester"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Arboriculture and Forestry Professional",
@@ -310,7 +310,7 @@
     {
       "dutyID": "34134767-800c-4679-b395-23d63a4b5a17",
       "dutyDetail": "Provide technical expertise in relation to all aspects of sustainable forest management from woodland creation to timber harvesting. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e916b80f-7963-4cc5-8f1d-a8cc52418448",
         "ad92e878-bab6-4134-bdad-3bd7844d3952",
@@ -335,7 +335,7 @@
     {
       "dutyID": "e3873ff2-8d1e-496b-a5c3-7d39e5594b11",
       "dutyDetail": "Research survey and collect data on established woodlands and forests, and measure, map and record established forest management units (FMUs) using, for example, on-the-ground mapping, geospatial and UAV technology.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "69317c20-8445-4558-9d91-10092cbe9611",
@@ -355,7 +355,7 @@
     {
       "dutyID": "2c8f1a81-1061-44c4-8a5f-c2bb1f2211f0",
       "dutyDetail": "Survey, collate and interpret silvicultural data on established woodlands and forests for safety, resilience, pests & diseases, tree health, and woodland condition.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "69317c20-8445-4558-9d91-10092cbe9611",
@@ -380,7 +380,7 @@
     {
       "dutyID": "02d09bdf-f045-4983-b163-93967338b18c",
       "dutyDetail": "Survey, evaluate and inventory woodland potential for timber production and communicate results to clients, colleagues and others to inform, for example, commercial timber sales contracts and production forecasts.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "69317c20-8445-4558-9d91-10092cbe9611",
@@ -409,7 +409,7 @@
     {
       "dutyID": "a051b990-f5f2-40ea-b235-5cfdc0811edb",
       "dutyDetail": "Collect, analyse and evaluate landscape and environmental information to write Woodland Creation Design Plans for new woodland planting and afforestation schemes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "69317c20-8445-4558-9d91-10092cbe9611",
@@ -434,7 +434,7 @@
     {
       "dutyID": "de3aaf37-3fd6-4d7c-a0b5-685bbac319ae",
       "dutyDetail": "Advise clients / landowners / others on the commercial potential for woodland carbon, for example the Woodland Carbon Guarantee.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e916b80f-7963-4cc5-8f1d-a8cc52418448",
         "ad92e878-bab6-4134-bdad-3bd7844d3952",
@@ -465,7 +465,7 @@
     {
       "dutyID": "d7983dfe-84ed-48f1-bd6a-6bfe2343c2a9",
       "dutyDetail": "Analyse and evaluate silvicultural and other information, for example archaeological or ecological to develop UKFS-compliant forest / Woodland Management Plans for established woodlands and forests.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "69317c20-8445-4558-9d91-10092cbe9611",
@@ -491,7 +491,7 @@
     {
       "dutyID": "c53151af-b579-4430-8b64-18374d7a9464",
       "dutyDetail": "Interpret and implement forest / Woodland Management Plans for the management of established woodlands and forests for timber production.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "69317c20-8445-4558-9d91-10092cbe9611",
@@ -521,7 +521,7 @@
     {
       "dutyID": "4952de4e-f0ff-4426-beeb-4739b967b083",
       "dutyDetail": "Provide expert technical advice to others on the development, interpretation and implementation of forest / woodland design creation and management plans.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e916b80f-7963-4cc5-8f1d-a8cc52418448",
         "ad92e878-bab6-4134-bdad-3bd7844d3952",
@@ -559,7 +559,7 @@
     {
       "dutyID": "f36812c7-8ad7-4d8e-9b5a-dfbdbeb1cf56",
       "dutyDetail": "Interpret and implement forest / woodland establishment, maintenance and harvesting operations in accordance with forest / woodland design creation and management plans, and production forecasts.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e916b80f-7963-4cc5-8f1d-a8cc52418448"
       ],
@@ -594,7 +594,7 @@
     {
       "dutyID": "eea3a29c-8388-44cd-bf2d-e70e368d8436",
       "dutyDetail": "Plan, manage and be responsible for onsite operations, including health, safety & welfare, legal and regulatory compliance, silvicultural & environmental good practice, compliance with the UKFS, access and haulage.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e916b80f-7963-4cc5-8f1d-a8cc52418448",
         "ad92e878-bab6-4134-bdad-3bd7844d3952"
@@ -629,7 +629,7 @@
     {
       "dutyID": "7500d658-6351-45b0-ab1f-3bf8876570cf",
       "dutyDetail": "Develop, maintain and manage relationships with clients, timber buyers, colleagues, contractors and volunteers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e916b80f-7963-4cc5-8f1d-a8cc52418448",
         "ad92e878-bab6-4134-bdad-3bd7844d3952",
