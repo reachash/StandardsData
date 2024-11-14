@@ -370,7 +370,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-08-07T00:00:00 +00:00",
@@ -389,7 +389,7 @@
     "Workboat crew member"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Transport",
   "cluster": "Driver or crewmember",
@@ -560,7 +560,7 @@
     {
       "dutyID": "e0a5301e-7ccb-497f-bea7-84e9274e68ff",
       "dutyDetail": "Follow the instructions of the Master and work compliantly with regulations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06063175-6d8b-4afd-9189-29989f2756c0",
         "d6df66e2-d51c-4080-9a29-6730fb68a153",
@@ -637,7 +637,7 @@
     {
       "dutyID": "52e2b517-c998-4546-a93c-a384578e15c9",
       "dutyDetail": "Ensure their responsibilities under the Companies Safety Management Systems (SMS) are being complied with, including liaising and communicating with others to ensure the safe working of the vessel",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06063175-6d8b-4afd-9189-29989f2756c0",
         "d6df66e2-d51c-4080-9a29-6730fb68a153",
@@ -712,7 +712,7 @@
     {
       "dutyID": "c05d6427-4532-47ca-99f6-26fa27a02df6",
       "dutyDetail": "Follow the instructions of the Master, to ensure good housekeeping, cleanliness and hygiene on board",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06063175-6d8b-4afd-9189-29989f2756c0",
         "d6df66e2-d51c-4080-9a29-6730fb68a153",
@@ -759,7 +759,7 @@
     {
       "dutyID": "e5a07f59-a29a-45bd-8c4b-5cb5905fe79f",
       "dutyDetail": "Take charge of the vessel should, in an emergency, the Master become incapacitated, following the appropriate contingency plan",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06063175-6d8b-4afd-9189-29989f2756c0",
         "d6df66e2-d51c-4080-9a29-6730fb68a153",
@@ -830,7 +830,7 @@
     {
       "dutyID": "4744fbb6-631f-4b1c-88cd-43b0e9b08f41",
       "dutyDetail": "Assist in preparing a vessel for sea, including pre-departure checks. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06063175-6d8b-4afd-9189-29989f2756c0",
         "d6df66e2-d51c-4080-9a29-6730fb68a153",
@@ -897,7 +897,7 @@
     {
       "dutyID": "6da5f7db-aff8-4e0b-907c-82146acf9fed",
       "dutyDetail": "Operate, check and maintain onboard machinery and equipment. Make simple running and emergency repairs while at sea",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06063175-6d8b-4afd-9189-29989f2756c0",
         "d6df66e2-d51c-4080-9a29-6730fb68a153",
@@ -937,7 +937,7 @@
     {
       "dutyID": "240dbac4-1d5a-4d53-94f8-e88feb65471b",
       "dutyDetail": "Manage the deck during mooring or anchoring operations",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06063175-6d8b-4afd-9189-29989f2756c0",
         "d6df66e2-d51c-4080-9a29-6730fb68a153",
@@ -976,7 +976,7 @@
     {
       "dutyID": "217f4250-d5f5-417f-b567-cb38aef47240",
       "dutyDetail": "Be able to contribute to a safe navigational watch, determining the vessel’s location using bridge equipment; navigating and steering a vessel as per the passage plan",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06063175-6d8b-4afd-9189-29989f2756c0",
         "d6df66e2-d51c-4080-9a29-6730fb68a153",
@@ -1014,7 +1014,7 @@
     {
       "dutyID": "8e53e46b-b7f8-42cc-aeda-8e3d8a576d03",
       "dutyDetail": "Ensure sufficient supplies of water, food, and consumables are onboard for the passage",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06063175-6d8b-4afd-9189-29989f2756c0",
         "d6df66e2-d51c-4080-9a29-6730fb68a153",
@@ -1055,7 +1055,7 @@
     {
       "dutyID": "e51af43c-a4dc-4e75-ad0b-64aa123bf323",
       "dutyDetail": "Manage the safety of those onboard the vessel, promoting a safe working environment",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06063175-6d8b-4afd-9189-29989f2756c0",
         "d6df66e2-d51c-4080-9a29-6730fb68a153",
@@ -1124,7 +1124,7 @@
     {
       "dutyID": "31e20a3c-14a0-4b17-a253-465fbeb85670",
       "dutyDetail": "Respond to emergencies on board ship as per the vessel contingency plan",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06063175-6d8b-4afd-9189-29989f2756c0",
         "d6df66e2-d51c-4080-9a29-6730fb68a153",
@@ -1187,7 +1187,7 @@
     {
       "dutyID": "0402f4bd-4b88-4ae5-a910-bcbdca8d53b2",
       "dutyDetail": "Use specialist machinery and equipment to perform operational tasks appropriate to the vessel",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06063175-6d8b-4afd-9189-29989f2756c0",
         "d6df66e2-d51c-4080-9a29-6730fb68a153",
@@ -1243,7 +1243,7 @@
     {
       "dutyID": "778c3021-2fa2-4712-b1c4-d4c02425defb",
       "dutyDetail": "Create, maintain and enhance productive working relations on board (Refer to Personal Safety and Social Responsibilities)",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06063175-6d8b-4afd-9189-29989f2756c0",
         "d6df66e2-d51c-4080-9a29-6730fb68a153",
