@@ -242,7 +242,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2021-09-13T00:00:00 +00:00",
@@ -262,7 +262,7 @@
     "Ramp agent"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Transport",
   "cluster": "Transport operations operative or technician",
@@ -289,7 +289,7 @@
     {
       "dutyID": "90d361d2-b0f3-4db9-a1b6-812e304249a9",
       "dutyDetail": "Ensure cargo and baggage is carefully and safely prepared for the arrival, turnaround and departure of aircraft when loading and building of load. Ensure no damage has occurred during transit from make-up to aircraft side and ensure accuracy and destination checks are made including checking luggage against the flight list. Report any damage to supervisor/operator.  (ULD, cargo pallet, animals, high value items, outsized Items).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "de5bc20a-ea38-4270-bb1c-22c687152ca6",
         "394eecc1-80a5-4c12-a8cf-508564d03f83",
@@ -336,7 +336,7 @@
     {
       "dutyID": "b83e189f-5115-4191-9181-4842ef6a3f49",
       "dutyDetail": "Apply dangerous goods awareness protocols inclusive of general philosophy, limitations, labelling and marking, storage and loading procedures, pilot notification, provisions for passengers and crew and emergency response planning (ERP). Use load instruction reports (LIR) to load /unload cargo or baggage on to the aircraft /reclaim conveyor belt. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "de5bc20a-ea38-4270-bb1c-22c687152ca6",
         "394eecc1-80a5-4c12-a8cf-508564d03f83",
@@ -386,7 +386,7 @@
     {
       "dutyID": "74e7f200-8f7b-4c43-99cc-40333f1ea03a",
       "dutyDetail": "Operate safely ULD stops and locks, lashing and netting, applying restraint options depending on load type and aircraft to ensure the safe arrival, turnaround and departure of aircraft.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "de5bc20a-ea38-4270-bb1c-22c687152ca6",
         "394eecc1-80a5-4c12-a8cf-508564d03f83",
@@ -436,7 +436,7 @@
     {
       "dutyID": "8ddf66d2-3586-468b-9fc1-66e67749ba81",
       "dutyDetail": "Safely secure load spreading materials and in the event of unacceptable loads, escalating to supervisor when needed.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "de5bc20a-ea38-4270-bb1c-22c687152ca6",
         "394eecc1-80a5-4c12-a8cf-508564d03f83",
@@ -476,7 +476,7 @@
     {
       "dutyID": "1b0f282f-2e93-49d1-a43d-66161384ce2f",
       "dutyDetail": "Safe use of aircraft handling equipment (drivable or towable steps, luggage tractors, ULD dollies and baggage trolley) to ensure the safe arrival, turnaround and departure of aircraft.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "de5bc20a-ea38-4270-bb1c-22c687152ca6",
         "394eecc1-80a5-4c12-a8cf-508564d03f83",
@@ -525,7 +525,7 @@
     {
       "dutyID": "c63507b7-25b9-4c43-9204-4a19ee8065cc",
       "dutyDetail": "Operate Chocks, power and cones to ensure aircraft is safely held in position.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "de5bc20a-ea38-4270-bb1c-22c687152ca6",
         "394eecc1-80a5-4c12-a8cf-508564d03f83",
@@ -576,7 +576,7 @@
     {
       "dutyID": "92b374ab-3786-4e7d-ab60-34e37eb936c0",
       "dutyDetail": "Report to any suspicious activity or safety concerns relating to persons/item and personal safety.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "de5bc20a-ea38-4270-bb1c-22c687152ca6",
         "394eecc1-80a5-4c12-a8cf-508564d03f83",
@@ -621,7 +621,7 @@
     {
       "dutyID": "61fb468f-2d85-4dbe-b0c2-b0fada1513e6",
       "dutyDetail": "Challenge and report to supervisor / local security personnel any unsolicited persons around the aircraft.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "de5bc20a-ea38-4270-bb1c-22c687152ca6",
         "394eecc1-80a5-4c12-a8cf-508564d03f83",
@@ -656,7 +656,7 @@
     {
       "dutyID": "a73eb730-fe51-4fed-94cd-998c632c08da",
       "dutyDetail": "Safe marshalling of vehicles to and or around the aircraft and on stand/airfield. (Wingman or Banksman) to ensure the safe arrival, turnaround and departure of aircraft.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "de5bc20a-ea38-4270-bb1c-22c687152ca6",
         "394eecc1-80a5-4c12-a8cf-508564d03f83",
@@ -697,7 +697,7 @@
     {
       "dutyID": "8eac7f6f-61a4-4b55-9e11-9d9490e93471",
       "dutyDetail": "Complete pre-use inspections of ground service equipment, vehicles and handling equipment including the area of operation around the aircraft and report faults to your supervisor.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "de5bc20a-ea38-4270-bb1c-22c687152ca6",
         "394eecc1-80a5-4c12-a8cf-508564d03f83",
@@ -740,7 +740,7 @@
     {
       "dutyID": "b28f7c40-487d-4be9-bc08-e36db615043d",
       "dutyDetail": "Report incidents or accidents around the aircraft or on wider airfield, ensuring reporting protocol is adhered to.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "de5bc20a-ea38-4270-bb1c-22c687152ca6",
         "394eecc1-80a5-4c12-a8cf-508564d03f83",
@@ -791,7 +791,7 @@
     {
       "dutyID": "8b5fb2bd-46f7-4c52-b149-d3a1e4fb5068",
       "dutyDetail": "Safely load aircraft in accordance with Loading Instruction report.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "de5bc20a-ea38-4270-bb1c-22c687152ca6",
         "394eecc1-80a5-4c12-a8cf-508564d03f83",
@@ -843,7 +843,7 @@
     {
       "dutyID": "8b0fca3a-44b3-4b23-8e78-3bf36f7e1ce1",
       "dutyDetail": "Liaise and coordinate with other teams operating in the aircraft or vicinity of the airfield in order to help maintain an efficient and safe service.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "de5bc20a-ea38-4270-bb1c-22c687152ca6",
         "394eecc1-80a5-4c12-a8cf-508564d03f83",
