@@ -217,7 +217,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2021-11-12T00:00:00 +00:00",
@@ -235,7 +235,7 @@
     "Application Support Analyst"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Support and Services",
   "cluster": "IT systems technician",
@@ -260,7 +260,7 @@
     {
       "dutyID": "c99c9e6d-bb7c-401b-abdb-60d596208c34",
       "dutyDetail": "Maintain application support processes, for example developing workflow plans/technical specification road maps",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "52500164-9f18-4ec9-a94c-6c47fd635167"
       ],
@@ -277,7 +277,7 @@
     {
       "dutyID": "30b4f85b-4a1b-4a37-a3a8-85363c24a86e",
       "dutyDetail": "Document and implement policy and procedures, for example on-boarding and leaver policies, and remote working procedures using a support desk operating platform",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "0c2bb1cb-cdc6-4283-9eb4-4ea615924876"
@@ -291,7 +291,7 @@
     {
       "dutyID": "4f3cc9fb-eba7-425c-9954-816e92640289",
       "dutyDetail": "Diagnose, resolve and recommend improvements to address hardware and software problems and compatibility issues experienced by external clients and customers, including liaison with third party vendors",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0b101a32-e6f5-4940-9bac-eb0ecd67bf7d",
         "a6993d7c-2939-4815-abeb-59d4d8ad79f1"
@@ -308,7 +308,7 @@
     {
       "dutyID": "3a49edfe-2ff8-4e67-99b0-f22253aeefd9",
       "dutyDetail": "Lead and manage upgrades and new technology implementations taking opportunities to speed up deployment through automation and process efficiency",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4940e0bd-2f41-49dd-a3ce-611376370454"
       ],
@@ -324,7 +324,7 @@
     {
       "dutyID": "b7e78718-d094-4f70-b98b-fb26d7bb736f",
       "dutyDetail": "Monitor systems performance, investigate issues, collect performance statistics and create reports using application management software and tools",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4940e0bd-2f41-49dd-a3ce-611376370454",
         "0b101a32-e6f5-4940-9bac-eb0ecd67bf7d"
@@ -343,7 +343,7 @@
     {
       "dutyID": "26b60a38-2989-4502-bf17-f54c9b0bc50a",
       "dutyDetail": "Provide first fix unassisted strategic technical advice both in person or with remote desktop support tools by using the correct tool to provide analysis, diagnosis and resolution.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fd0e2830-d570-4dbd-925e-ba2f2450e6d3"
       ],
@@ -359,7 +359,7 @@
     {
       "dutyID": "ad2e1fbd-94c1-4b68-bb58-184e670ff904",
       "dutyDetail": "Categorise and prioritise incoming applications support requests",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4940e0bd-2f41-49dd-a3ce-611376370454"
       ],
@@ -377,7 +377,7 @@
     {
       "dutyID": "0e8bfc9f-1099-4ce2-8375-da513d8555dd",
       "dutyDetail": "Monitor systems and software cycles to identify need for upgrades and patching with timely deployment  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fd0e2830-d570-4dbd-925e-ba2f2450e6d3"
       ],
@@ -393,7 +393,7 @@
     {
       "dutyID": "74b95bc6-5c03-441c-b1c9-f194e0b49c7f",
       "dutyDetail": "Identify trends and solve systemic issues using analytical tools. Work alongside the support team to address systemic issues, involving relevant in-house teams or third-party vendors where necessary",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "122dc51d-a5fd-44d0-9c8f-6d1593187d51",
         "2398bce4-d1ae-41d1-9028-a3e2bab2620d"
@@ -410,7 +410,7 @@
     {
       "dutyID": "4023dc2e-358e-47c4-a9dc-606781fe9b48",
       "dutyDetail": "Ensure that all requests for application support are dealt with according to agreed framework and procedures, recommending and implementing support team improvements  where necessary.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "3baee3cb-f3e1-4acf-b8e4-bf2c43f7d174"
@@ -424,7 +424,7 @@
     {
       "dutyID": "931d240e-1e88-4739-8c08-2b7d317b6e8a",
       "dutyDetail": "Co-create and deliver training to colleagues, clients and customers  of all levels of seniority, working with learning and development colleagues",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "52500164-9f18-4ec9-a94c-6c47fd635167",
         "a6993d7c-2939-4815-abeb-59d4d8ad79f1"
@@ -441,7 +441,7 @@
     {
       "dutyID": "4fe2982e-1cb0-444f-9b1e-2c9b1175772e",
       "dutyDetail": "Identify how services will be delivered to clients/customers including use of technology, process and individual delivery responsibilities, working as part of the external client delivery team (with direct influence over the chosen solution) alongside commercial colleagues",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "17d58569-6677-4859-b25d-77616e251512"
@@ -456,7 +456,7 @@
     {
       "dutyID": "9531f9d1-5f46-4850-80f5-859540fb8ef3",
       "dutyDetail": "Liaise with internal compliance and, in some instances, regulators to provide data to such regulators in accordance with the employer organisation’s compliance obligations",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "53288c34-3358-42c4-9ac4-c2ca78ea435f"
@@ -470,7 +470,7 @@
     {
       "dutyID": "d7500b62-359d-40df-b63a-c44ec72da80b",
       "dutyDetail": "Ensure work product complies with applicable regulation and legislation including data privacy, cyber security and anti-money laundering laws",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2398bce4-d1ae-41d1-9028-a3e2bab2620d"
       ],
@@ -486,7 +486,7 @@
     {
       "dutyID": "d9f22510-48f3-4bc5-998f-75251a9d55f3",
       "dutyDetail": "Devise plans to implement and improve IT infrastructure and application change projects, for example, identifying organisational need for new applications and design and development of existing applications.  Accepting ownership of changes that embody the DevOps culture with focus on user experience.   Create project plans and assume or designate project management responsibilities",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2398bce4-d1ae-41d1-9028-a3e2bab2620d"
       ],
@@ -502,7 +502,7 @@
     {
       "dutyID": "8a0b5edf-33ac-4efc-be36-2f17994114cd",
       "dutyDetail": "Lead and manage the physical implementation of software (including updates/upgrades) and hardware relating to IT infrastructure (including routine back up processes of data) and application change projects directly with colleagues",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "e901ccac-86ae-4453-b0cb-73c02c1394c6"
@@ -516,7 +516,7 @@
     {
       "dutyID": "29327e05-9e7a-4d6c-97d3-a7620632f905",
       "dutyDetail": "Conduct software and hardware testing relating to IT infrastructure and application change projects, for example FAT (Factory Acceptance Testing) SAT (Site Acceptance Testing) and UAT (User Acceptance Testing)",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "52500164-9f18-4ec9-a94c-6c47fd635167"
       ],
@@ -533,7 +533,7 @@
     {
       "dutyID": "b9e2547f-9643-400b-93e0-8d61d6207fce",
       "dutyDetail": "Provide first line ‘day 1 go-live’ floorwalking and deskside support to colleagues in respect of IT infrastructure and application change projects",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0b101a32-e6f5-4940-9bac-eb0ecd67bf7d"
       ],
@@ -550,7 +550,7 @@
     {
       "dutyID": "a636950b-021f-401c-a0fe-fc69c4c4b7d7",
       "dutyDetail": "Build, implement and support the creation of remote working environments and collaborative working platforms for colleagues and external clients and customers",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "b7f0d197-dc74-4286-ac5b-554e93638485",
@@ -565,7 +565,7 @@
     {
       "dutyID": "92f697f4-68f9-442e-bc6f-664921cb054b",
       "dutyDetail": "Practise continuous self-learning to keep up to date with technological developments to enhance relevant skills and take responsibility for own professional development",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a6993d7c-2939-4815-abeb-59d4d8ad79f1"
       ],
