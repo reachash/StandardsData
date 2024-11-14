@@ -40,7 +40,7 @@
   "ssa2": "9.2 Crafts, creative arts and design",
   "version": "1.0",
   "standardInformation": "&lt;p&gt;c&lt;/p&gt;",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in theatres, live entertainment venues, TV and film studios. The broad purpose of the occupation is to programme, operate and maintain automation systems to ensure they meet the requirements of a production by consistently fulfilling the artistic vision for it. The highest standards of safety, efficiency and technical standards must be achieved. &lt;br /&gt;&lt;br /&gt;Scenic automation technicians consult and collaborate with other departments to carry out planning and work activities to meet performance requirements including timing and order of all mechanised set movements during a theatrical production or other live performance. They control scenery and other equipment on the stage or set and in the air.&lt;br /&gt;&lt;br /&gt;They support the running of shows including fit-ups, rehearsals, set changes, rotations and get-outs in all aspects of a show or production related automation. They work within the parameters which various environments dictate for example working at height or within confined spaces.&lt;br /&gt;&lt;br /&gt;They undertake the safe set-up operation, inspection and first line performance maintenance of specialist automation equipment for example electrical and hydraulic drives, winches, hoists, stage elevators, traps, revolves and associated controls ensuring technical staff and where they are present public safety at all times. They ensure that equipment is compliant with industry standards such as Lifting Operations and Lifting Equipment Regulations (LOLER) and Provision and Use of Work Equipment and Regulations (PUWER). They may undertake stage or set rigging requirements.&lt;br /&gt;&lt;br /&gt;They have excellent communication skills and a practical approach to problem solving. They are self-motivated as well as being a good team player. In their daily work, an employee in this occupation interacts with the performance artists to make sure they understand their role and the impact of automation on their performance. They work with designers to understand the artistic vision. They work with other departments involved in the technical aspects of a production or performance for example lighting, projection, sound, engineering departments, scenic construction, technical and production managers, stage crew, stage managers, digital design team and the health and safety team. They may work in a team with other scenic automation technicians and may come in to contact with scenic automation suppliers. An employee in this occupation will be responsible for programming and safely operating automation control systems to achieve the artistic vision for the production or performance through automation. &lt;br /&gt;&lt;br /&gt;Scenic automation technicians assemble and repair automated equipment for moving scenery or set elements as well as delivering planned maintenance of all stage or set machinery ensuring it is compliant to current regulations. Some scenic automation technicians may undertake emergency repairs and fixes during live performances&lt;br /&gt;&lt;br /&gt;They are responsible for performer safety including those who may be flown or who are on a moving scenic item. They must ensure health and safety compliance including keeping up to date with regulations and industry developments&lt;br /&gt;&lt;br /&gt;They will adapt their approach as the situation, circumstances or people change whilst achieving personal objectives set by their manager They are trusted to work unsupervised under the brief of their supervisor. They will be required to work during evenings and weekends during fit up and production periods.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in theatres, live entertainment venues, TV and film studios. The broad purpose of the occupation is to programme, operate and maintain automation systems to ensure they meet the requirements of a production by consistently fulfilling the artistic vision for it. The highest standards of safety, efficiency and technical standards must be achieved. &lt;br&gt;&lt;br&gt;Scenic automation technicians consult and collaborate with other departments to carry out planning and work activities to meet performance requirements including timing and order of all mechanised set movements during a theatrical production or other live performance. They control scenery and other equipment on the stage or set and in the air.&lt;br&gt;&lt;br&gt;They support the running of shows including fit-ups, rehearsals, set changes, rotations and get-outs in all aspects of a show or production related automation. They work within the parameters which various environments dictate for example working at height or within confined spaces.&lt;br&gt;&lt;br&gt;They undertake the safe set-up operation, inspection and first line performance maintenance of specialist automation equipment for example electrical and hydraulic drives, winches, hoists, stage elevators, traps, revolves and associated controls ensuring technical staff and where they are present public safety at all times. They ensure that equipment is compliant with industry standards such as Lifting Operations and Lifting Equipment Regulations (LOLER) and Provision and Use of Work Equipment and Regulations (PUWER). They may undertake stage or set rigging requirements.&lt;br&gt;&lt;br&gt;They have excellent communication skills and a practical approach to problem solving. They are self-motivated as well as being a good team player. In their daily work, an employee in this occupation interacts with the performance artists to make sure they understand their role and the impact of automation on their performance. They work with designers to understand the artistic vision. They work with other departments involved in the technical aspects of a production or performance for example lighting, projection, sound, engineering departments, scenic construction, technical and production managers, stage crew, stage managers, digital design team and the health and safety team. They may work in a team with other scenic automation technicians and may come in to contact with scenic automation suppliers. An employee in this occupation will be responsible for programming and safely operating automation control systems to achieve the artistic vision for the production or performance through automation. &lt;br&gt;&lt;br&gt;Scenic automation technicians assemble and repair automated equipment for moving scenery or set elements as well as delivering planned maintenance of all stage or set machinery ensuring it is compliant to current regulations. Some scenic automation technicians may undertake emergency repairs and fixes during live performances&lt;br&gt;&lt;br&gt;They are responsible for performer safety including those who may be flown or who are on a moving scenic item. They must ensure health and safety compliance including keeping up to date with regulations and industry developments&lt;br&gt;&lt;br&gt;They will adapt their approach as the situation, circumstances or people change whilst achieving personal objectives set by their manager They are trusted to work unsupervised under the brief of their supervisor. They will be required to work during evenings and weekends during fit up and production periods.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "cd57979e-20e2-47af-bd5c-5b5a3e35f128",
@@ -211,10 +211,10 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual is the intended EQA provider",
+    "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-05-14T00:00:00 +00:00",
@@ -236,7 +236,7 @@
     "Theatre maintenance technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Production arts assistant",
@@ -254,7 +254,7 @@
     {
       "dutyID": "8503a5b2-ab22-49af-8b69-f187a25d8940",
       "dutyDetail": "Work with artistic, production and technical teams to provide the technical interpretation and deliver the creative vision for the performance or production within budget and other constraints. This may include building, hiring or modifying existing automation components.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1833ff10-8aab-4f4d-a347-a5105780fd89",
         "807077bd-047e-4ff0-8a98-1e7d80a4756f",
@@ -285,7 +285,7 @@
     {
       "dutyID": "a1083661-dc22-48e6-a240-97b9fa632abc",
       "dutyDetail": "Define the parameters of safe operation of required stage or set machinery or equipment. For example,  speed, height, limits of travel, weight as part of the creative design process, prior to rehearsal and communicate that information to the artistic team.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1833ff10-8aab-4f4d-a347-a5105780fd89",
         "03732d19-381b-4665-b158-ceba221fcaf8"
@@ -306,7 +306,7 @@
     {
       "dutyID": "df6a6db0-0c07-4d34-bd7d-0d9e2bec2436",
       "dutyDetail": "Manage personal workload to meet deadlines using the production schedules.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1833ff10-8aab-4f4d-a347-a5105780fd89",
         "001d0f71-db9a-494d-8510-288da901ff2b"
@@ -325,7 +325,7 @@
     {
       "dutyID": "98a0d48a-1f09-45f5-a5f7-c26b4faaaf4e",
       "dutyDetail": "Interpret technical drawings for example stage or set ground plans, cabling schedules as part of a fit-up or maintenance planning activities. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1833ff10-8aab-4f4d-a347-a5105780fd89",
         "b5c0617d-f240-497a-96b5-98de6a0b5630",
@@ -359,7 +359,7 @@
     {
       "dutyID": "d01e8bc3-a7f5-4a65-8bb1-a5a3ab67571a",
       "dutyDetail": "Assemble, test and commission automated equipment for moving scenery, sets or performers. For example hoists, elevators and revolves in accordance with industry standards such as  CWA15902 Pt1, BS7905, BS7906. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1833ff10-8aab-4f4d-a347-a5105780fd89",
         "b5c0617d-f240-497a-96b5-98de6a0b5630",
@@ -391,7 +391,7 @@
     {
       "dutyID": "d217b7e2-7b0c-4d90-92db-4e22d273c191",
       "dutyDetail": "Ensure that all stage or set machinery which may be bespoke is safe and compliant with LOLER and PUWER whilst meeting the artistic vision of the production or performance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "807077bd-047e-4ff0-8a98-1e7d80a4756f",
         "001d0f71-db9a-494d-8510-288da901ff2b"
@@ -413,7 +413,7 @@
     {
       "dutyID": "1f2fa54e-7b27-45df-81d0-14b577226cb9",
       "dutyDetail": "Interpret creative direction or production requirements by programming automation control software or using mechanical special effects to create production effects, physical special effects props and stunts. Achieve the desired movements and performance or production sequences in-line with budget constraints.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b5c0617d-f240-497a-96b5-98de6a0b5630",
         "46b51639-34bc-4fdc-b69f-71a3790e6150"
@@ -433,7 +433,7 @@
     {
       "dutyID": "d01cc623-93b1-4225-a5b2-499a3629f62e",
       "dutyDetail": "Carry out the safe operation of automation systems and machinery for example computerised control desks using clear communication protocol during all phases of the production process  including preparation, rehearsal and live performance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1833ff10-8aab-4f4d-a347-a5105780fd89",
         "b5c0617d-f240-497a-96b5-98de6a0b5630",
@@ -460,7 +460,7 @@
     {
       "dutyID": "8f6d8fbc-8e41-4f5d-96de-107949c891a8",
       "dutyDetail": "Carry out emergency repairs of machinery during the live performance or production whilst ensuring the safety of those on stage or set. For example artists, technical staff and the public and where possible, without interrupting the performance or production. Know when to stop the performance or production and the impact of that decision. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1833ff10-8aab-4f4d-a347-a5105780fd89",
         "b5c0617d-f240-497a-96b5-98de6a0b5630",
@@ -496,7 +496,7 @@
     {
       "dutyID": "2e4060ea-9f2d-4c5c-9e7d-b056c9e66e9b",
       "dutyDetail": "Carry out planned and reactive maintenance of stage or set machinery such as pre-show or production checks, which may include 6-monthly insurance inspections, taking into account performance or production and rehearsal schedules.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "001d0f71-db9a-494d-8510-288da901ff2b"
       ],
@@ -517,7 +517,7 @@
     {
       "dutyID": "25b87968-f03d-4c1b-9470-578a597e3d3e",
       "dutyDetail": "Complete relevant documentation regarding inspection, repair and maintenance issues in accordance with reporting protocols. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1833ff10-8aab-4f4d-a347-a5105780fd89",
         "b5c0617d-f240-497a-96b5-98de6a0b5630",
@@ -536,7 +536,7 @@
     {
       "dutyID": "d81103f2-e1f0-41f7-809f-378b0ee60036",
       "dutyDetail": "De-rig, pack-up and safely store or dispose of stage or set machinery at the end of runs of performances or productions in accordance with requirements such as time constraints and environmental regulations. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "03732d19-381b-4665-b158-ceba221fcaf8"
       ],
@@ -555,7 +555,7 @@
     {
       "dutyID": "b10942ae-f25e-4e8d-ab52-7d05ddfc981f",
       "dutyDetail": "Identify best practice by keeping up to date with new technologies and working practices",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "03732d19-381b-4665-b158-ceba221fcaf8"
       ],
