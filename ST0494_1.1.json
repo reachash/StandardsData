@@ -233,7 +233,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-08-20T00:00:00 +00:00",
@@ -255,10 +255,10 @@
     "Victim liaison officer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Protective services",
-  "cluster": "Protective service officer",
+  "pathway": "Protective Services",
+  "cluster": "Protective Service Officer",
   "clusterId": "15",
   "clusterDescription": "Provide safety, security, prevention, enforcement, protection and investigation services largely on behalf of society",
   "createdDate": "2024-07-16T12:42:41 +00:00",
@@ -273,7 +273,7 @@
     {
       "dutyID": "cbcb0480-1ecd-45b9-8f10-2f9328054e55",
       "dutyDetail": "Complete risk assessments to inform risk management plans for individuals eligible for probation support and record findings in line with policy and practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c223e48c-a345-407a-beeb-5fdc53eccd70",
         "2025fead-8757-48f0-a9d9-66a2bbb406a0",
@@ -301,7 +301,7 @@
     {
       "dutyID": "2d59ce92-2e95-45ab-8072-6f19833c7dca",
       "dutyDetail": "Develop and implement initial plans to reduce risk of reoffending and harm to the public. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c223e48c-a345-407a-beeb-5fdc53eccd70",
         "ff3acf87-465b-454e-8bff-ddf8fe05701b",
@@ -335,7 +335,7 @@
     {
       "dutyID": "f92e7fc5-5980-4405-bcc1-d10d4242bdec",
       "dutyDetail": "Work with internal and external partner agencies to review the behaviours and progress of the individuals eligible for probation support.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c223e48c-a345-407a-beeb-5fdc53eccd70",
         "93a1301e-f9aa-4ec0-8eec-2d15521b033f",
@@ -365,7 +365,7 @@
     {
       "dutyID": "64367272-c628-4aee-b1db-5ad0d43a10ed",
       "dutyDetail": "Manage risk to reduce reoffending behaviour and harm, responding to changes, in line with policy and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ff3acf87-465b-454e-8bff-ddf8fe05701b",
         "2025fead-8757-48f0-a9d9-66a2bbb406a0",
@@ -404,7 +404,7 @@
     {
       "dutyID": "ad5ba240-35f0-424a-be7d-d10e6e4408f6",
       "dutyDetail": "Apply public protection and safeguarding guidelines and procedures to protect the public from the risk of reoffending and harm.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c223e48c-a345-407a-beeb-5fdc53eccd70",
         "ff3acf87-465b-454e-8bff-ddf8fe05701b",
@@ -438,7 +438,7 @@
     {
       "dutyID": "129787cd-181b-48f8-b66f-344723404da1",
       "dutyDetail": "Engage and motivate individuals eligible for probation support to promote positive change.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c223e48c-a345-407a-beeb-5fdc53eccd70",
         "ff3acf87-465b-454e-8bff-ddf8fe05701b",
@@ -469,7 +469,7 @@
     {
       "dutyID": "f73e60a8-dd28-4fb7-bafe-9214b33636bf",
       "dutyDetail": "Deliver interventions to meet the objectives of the risk management and sentence plans.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c223e48c-a345-407a-beeb-5fdc53eccd70",
         "ff3acf87-465b-454e-8bff-ddf8fe05701b",
@@ -505,7 +505,7 @@
     {
       "dutyID": "8b07b490-a188-4f9f-8dfe-101b1d86361f",
       "dutyDetail": "Participate in continuous professional development.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "93a1301e-f9aa-4ec0-8eec-2d15521b033f"
       ],
@@ -524,7 +524,7 @@
     {
       "dutyID": "5e6dd900-5d01-4ff9-b8b0-bdd9fef56ee7",
       "dutyDetail": "Adhere to organisational processes and procedures for securely recording and maintaining information relating to individuals eligible for probation support.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "93a1301e-f9aa-4ec0-8eec-2d15521b033f"
       ],
@@ -549,7 +549,7 @@
     {
       "dutyID": "ea22a46f-7878-495c-aa04-ff8b6cf72a66",
       "dutyDetail": "Adhere to organisational ethics, values and professional standards.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c223e48c-a345-407a-beeb-5fdc53eccd70",
         "ff3acf87-465b-454e-8bff-ddf8fe05701b",
