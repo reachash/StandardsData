@@ -269,7 +269,7 @@
     "Social researcher"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Management and Administration",
   "cluster": "Management professional",
@@ -303,7 +303,7 @@
     {
       "dutyID": "581717bf-5ca8-4df4-8b49-3252721d316a",
       "dutyDetail": "Explain the value of social research to potential users to encourage them to make use of it and make sure they use it appropriately.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "459b3b1e-e892-4e12-b336-b9b1a21047ab",
         "1976be22-2127-459a-a748-737e4539fa32",
@@ -347,7 +347,7 @@
     {
       "dutyID": "6c4695bb-f733-40b3-9a67-849d5247201e",
       "dutyDetail": "Advise stakeholders on the best approaches to meet a research brief, invitation to tender, such as piloting, trialling, or large-scale research; advise on best methods, such as qualitative, quantitative or both.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "459b3b1e-e892-4e12-b336-b9b1a21047ab",
         "1976be22-2127-459a-a748-737e4539fa32",
@@ -389,7 +389,7 @@
     {
       "dutyID": "dffb37bc-8552-4bc0-9f3d-5e8a4256e5e1",
       "dutyDetail": "Problem formulation with stakeholders to design research and evaluation questions using social research tools, such as logic mapping and theory of change.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "459b3b1e-e892-4e12-b336-b9b1a21047ab",
         "1976be22-2127-459a-a748-737e4539fa32",
@@ -427,7 +427,7 @@
     {
       "dutyID": "f9de7132-7337-47ca-9c29-0808bd9b1589",
       "dutyDetail": "Conduct desk research and, or literature reviews, such as rapid evidence assessments or other systematic approaches, to build the evidence base on a particular subject.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "459b3b1e-e892-4e12-b336-b9b1a21047ab",
         "1976be22-2127-459a-a748-737e4539fa32",
@@ -460,7 +460,7 @@
     {
       "dutyID": "7f2df68e-7de3-46f0-ada3-cd862b08fc43",
       "dutyDetail": "Develop or respond to the commissioning and subcontracting of social research projects, working within relevant commercial frameworks.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "459b3b1e-e892-4e12-b336-b9b1a21047ab",
         "1976be22-2127-459a-a748-737e4539fa32",
@@ -500,7 +500,7 @@
     {
       "dutyID": "80a1e30f-e01f-494a-ab3e-edcfa67dc69f",
       "dutyDetail": "Design and deliver a social research or evaluation project in line with professional guidance, such as ethical principles, and central government guidance on quality assurance and evaluation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "459b3b1e-e892-4e12-b336-b9b1a21047ab",
         "1976be22-2127-459a-a748-737e4539fa32",
@@ -551,7 +551,7 @@
     {
       "dutyID": "b8d54c8b-e875-4c88-aa53-77de14cc2205",
       "dutyDetail": "Project management of research, including managing progress to ensure quality and meet agreed timescales and budgets.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "459b3b1e-e892-4e12-b336-b9b1a21047ab",
         "1976be22-2127-459a-a748-737e4539fa32",
@@ -584,7 +584,7 @@
     {
       "dutyID": "7ff96ae0-e323-4b8d-ba18-84a508818414",
       "dutyDetail": "Design, conduct and analyse qualitative research such as in-depth interviews, focus groups, participatory and deliberative research, to draw out detailed, thematic insights for customers and stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "459b3b1e-e892-4e12-b336-b9b1a21047ab",
         "1976be22-2127-459a-a748-737e4539fa32",
@@ -630,7 +630,7 @@
     {
       "dutyID": "3341658f-dd55-4619-a95b-ba096c72fa45",
       "dutyDetail": "Design and undertake quantitative research such as surveys, advising on sampling and data collection approaches.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "459b3b1e-e892-4e12-b336-b9b1a21047ab",
         "1976be22-2127-459a-a748-737e4539fa32",
@@ -675,7 +675,7 @@
     {
       "dutyID": "24f8b8d5-ac68-460d-8c64-59fa7586fc40",
       "dutyDetail": "Prepares data and analysis frameworks, prepares, and cleans data for analysis, leading descriptive and bivariate analysis of quantitative data, including applying appropriate statistical significance tests.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "459b3b1e-e892-4e12-b336-b9b1a21047ab",
         "1976be22-2127-459a-a748-737e4539fa32",
@@ -709,7 +709,7 @@
     {
       "dutyID": "7a26be10-3d7e-4f7c-8cb5-d4c5891d9fd6",
       "dutyDetail": "Deliver research and evaluation projects using a range of digital tools and software.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "459b3b1e-e892-4e12-b336-b9b1a21047ab",
         "1976be22-2127-459a-a748-737e4539fa32",
@@ -744,7 +744,7 @@
     {
       "dutyID": "037ab7b3-5574-488c-ac74-0a14f2dd7284",
       "dutyDetail": "Write up and present social research findings, which may include published reports, taking into account the needs and ability of the intended audience.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "459b3b1e-e892-4e12-b336-b9b1a21047ab",
         "1976be22-2127-459a-a748-737e4539fa32",
@@ -777,7 +777,7 @@
     {
       "dutyID": "6d93c322-28ef-40f9-9ece-60b7fb87d300",
       "dutyDetail": "Manage and develop others, prioritising, and delegating tasks in line with project objectives.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "459b3b1e-e892-4e12-b336-b9b1a21047ab",
         "1976be22-2127-459a-a748-737e4539fa32",
