@@ -238,7 +238,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-10-18T00:00:00 +00:00",
@@ -253,7 +253,7 @@
   "coreAndOptions": false,
   "typicalJobTitles": [],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Onsite Construction",
   "cluster": "Core building tradesperson",
@@ -271,7 +271,7 @@
     {
       "dutyID": "6c3ad108-8ac3-4fbe-b72c-5a90c5bdc6b4",
       "dutyDetail": "Survey locations and support sales of fitted interiors.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "52dd38b2-215d-4870-91b1-0f10b6eb4b54",
         "9e3b865d-315b-498a-9e0e-a2a928e347e0",
@@ -308,7 +308,7 @@
     {
       "dutyID": "83433663-0d84-4474-bbe6-0a7e53e08fa2",
       "dutyDetail": "Transport installation equipment and materials to site.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "52dd38b2-215d-4870-91b1-0f10b6eb4b54",
         "9e3b865d-315b-498a-9e0e-a2a928e347e0",
@@ -335,7 +335,7 @@
     {
       "dutyID": "b3bfd758-ba22-47a9-9297-5aa66b5944c7",
       "dutyDetail": "Interpret and implement plans and designs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "52dd38b2-215d-4870-91b1-0f10b6eb4b54",
         "9e3b865d-315b-498a-9e0e-a2a928e347e0",
@@ -374,7 +374,7 @@
     {
       "dutyID": "37b5bd69-4954-4d52-8eec-0ea243cb1111",
       "dutyDetail": "Prepare locations for assembly and placement of furniture.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "52dd38b2-215d-4870-91b1-0f10b6eb4b54",
         "9e3b865d-315b-498a-9e0e-a2a928e347e0",
@@ -412,7 +412,7 @@
     {
       "dutyID": "359ba3f2-0283-4885-a16e-a624178ae87e",
       "dutyDetail": "Set up, operate and maintain tools and equipment used to assemble and install furniture.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "52dd38b2-215d-4870-91b1-0f10b6eb4b54",
         "9e3b865d-315b-498a-9e0e-a2a928e347e0",
@@ -446,7 +446,7 @@
     {
       "dutyID": "d694d3e1-dc7f-42b8-a717-2e8c698f5f8f",
       "dutyDetail": "Assemble components of fitted furniture.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "52dd38b2-215d-4870-91b1-0f10b6eb4b54",
         "9e3b865d-315b-498a-9e0e-a2a928e347e0",
@@ -486,7 +486,7 @@
     {
       "dutyID": "5ad1c009-68fd-4bab-8f41-ced0d92d9542",
       "dutyDetail": "Install pre-installation/post-installation structures such as framework, boxing etc. ready for installation and/or decoration.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "52dd38b2-215d-4870-91b1-0f10b6eb4b54",
         "9e3b865d-315b-498a-9e0e-a2a928e347e0",
@@ -526,7 +526,7 @@
     {
       "dutyID": "fb6ccfe4-8dec-426f-a49d-ba6e780accdd",
       "dutyDetail": "Complete installation of fitted furniture and décor accessories in accordance with manufacturers’ instructions and information and client requirements, e.g. install kitchens, bedrooms or bathrooms.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "52dd38b2-215d-4870-91b1-0f10b6eb4b54",
         "9e3b865d-315b-498a-9e0e-a2a928e347e0",
@@ -566,7 +566,7 @@
     {
       "dutyID": "15666361-14ac-4533-b458-96a4c992ba5d",
       "dutyDetail": "The dry-fit installation of ancillary products for example appliances, bathroom suite, media equipment etc. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "52dd38b2-215d-4870-91b1-0f10b6eb4b54",
         "9e3b865d-315b-498a-9e0e-a2a928e347e0",
@@ -606,7 +606,7 @@
     {
       "dutyID": "dce47e52-e1ce-4f1b-84f0-94dbca16cab2",
       "dutyDetail": "Re-instate a location after assembly and placement of furniture.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "52dd38b2-215d-4870-91b1-0f10b6eb4b54",
         "9e3b865d-315b-498a-9e0e-a2a928e347e0",
@@ -640,7 +640,7 @@
     {
       "dutyID": "6c9454f0-5a89-424d-a2c3-7076c99f96f3",
       "dutyDetail": "Handover completed installation to customers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "52dd38b2-215d-4870-91b1-0f10b6eb4b54",
         "9e3b865d-315b-498a-9e0e-a2a928e347e0",
@@ -672,7 +672,7 @@
     {
       "dutyID": "c332bdd8-fca9-4efd-985c-7e0211fffa7b",
       "dutyDetail": "Provide support to stakeholders including customers, contractors, designers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "52dd38b2-215d-4870-91b1-0f10b6eb4b54",
         "9e3b865d-315b-498a-9e0e-a2a928e347e0",
@@ -705,7 +705,7 @@
     {
       "dutyID": "8b7133d8-c91e-4226-9962-8df2e83cc831",
       "dutyDetail": "Carry out rectification or rework.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "52dd38b2-215d-4870-91b1-0f10b6eb4b54",
         "9e3b865d-315b-498a-9e0e-a2a928e347e0",
