@@ -232,7 +232,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-02-02T00:00:00 +00:00",
@@ -256,7 +256,7 @@
     "Policy researcher"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Management and Administration",
   "cluster": "Business manager",
@@ -274,7 +274,7 @@
     {
       "dutyID": "3ddb7f91-252c-43c2-a66a-4db831de8b7d",
       "dutyDetail": "Conduct research and analysis on the relevant policy area.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c4bfee0e-a280-46ee-8f7e-254edf7b32ea",
         "345c589d-ebe5-4605-abf3-b9495a604072",
@@ -307,7 +307,7 @@
     {
       "dutyID": "b3d384b2-e7d7-472c-aa45-d70f3d095ba7",
       "dutyDetail": "Use evidence and data to present arguments and recommendations for policy interventions to senior colleagues and stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "345c589d-ebe5-4605-abf3-b9495a604072",
         "f4cc9f41-8049-47b3-af10-8170bbf362a5",
@@ -343,7 +343,7 @@
     {
       "dutyID": "46dd40f7-277a-4244-9ac4-7ca11d08ecea",
       "dutyDetail": "Develop materials or products that explain the policy area to stakeholders.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c4bfee0e-a280-46ee-8f7e-254edf7b32ea",
         "345c589d-ebe5-4605-abf3-b9495a604072",
@@ -379,7 +379,7 @@
     {
       "dutyID": "8694acf5-9794-44c7-9d76-010220ed5c90",
       "dutyDetail": "Manage and respond to formal and informal information requests concerning the policy area. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "345c589d-ebe5-4605-abf3-b9495a604072",
         "f4cc9f41-8049-47b3-af10-8170bbf362a5",
@@ -408,7 +408,7 @@
     {
       "dutyID": "7c33bd82-61e3-4377-9d1f-307c28c6234f",
       "dutyDetail": "Implement agreed policies by contributing to business cases, supporting the management of contractors, managing discrete workstreams within larger projects, and engaging with external partners.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c4bfee0e-a280-46ee-8f7e-254edf7b32ea",
         "345c589d-ebe5-4605-abf3-b9495a604072",
@@ -441,7 +441,7 @@
     {
       "dutyID": "d344021a-a745-4da2-8fe6-e7380eb36a2c",
       "dutyDetail": "Manage projects within agreed timescales and budget. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8df911e9-d3bc-47c4-8727-02999ec4b96d"
       ],
@@ -463,7 +463,7 @@
     {
       "dutyID": "d0615635-41bc-4ec4-b01c-a7d8d775a2b3",
       "dutyDetail": "Track, monitor and report on the progress of policy interventions against key milestones, following established governance and scrutiny processes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "345c589d-ebe5-4605-abf3-b9495a604072",
         "8df911e9-d3bc-47c4-8727-02999ec4b96d"
@@ -494,7 +494,7 @@
     {
       "dutyID": "4d89734e-4410-4147-9a85-37ee2940557a",
       "dutyDetail": "Contribute to the evaluation of policy interventions using measures such as effectiveness, efficiency, customer satisfaction, and value for money, either at set stages or continually, depending on stakeholder requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "345c589d-ebe5-4605-abf3-b9495a604072",
         "8df911e9-d3bc-47c4-8727-02999ec4b96d"
@@ -515,7 +515,7 @@
     {
       "dutyID": "f82f9653-191d-4d00-8405-d96522fc40ed",
       "dutyDetail": "Manage and coordinate engagement activities with professional networks and stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "345c589d-ebe5-4605-abf3-b9495a604072"
       ],
@@ -542,7 +542,7 @@
     {
       "dutyID": "23c3e92a-b940-4aed-b357-0dd656821a5f",
       "dutyDetail": "Provide technical and administrative support to policy decision making forums such as boards, committees, project groups, and steering panels. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c4bfee0e-a280-46ee-8f7e-254edf7b32ea",
         "8df911e9-d3bc-47c4-8727-02999ec4b96d",
@@ -573,7 +573,7 @@
     {
       "dutyID": "f616f3c1-d617-438a-b2a5-79dc5b33073a",
       "dutyDetail": "Manage sensitive information and keep accurate records of the evolving policy landscape, including evidence used to make policy decisions, to inform evaluation of past and present policies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "345c589d-ebe5-4605-abf3-b9495a604072",
         "f4cc9f41-8049-47b3-af10-8170bbf362a5"
@@ -595,7 +595,7 @@
     {
       "dutyID": "3d1e838a-a08f-4c4f-a05c-91f9543905f0",
       "dutyDetail": "Support the design, development and delivery of team training or coaching.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c4bfee0e-a280-46ee-8f7e-254edf7b32ea",
         "345c589d-ebe5-4605-abf3-b9495a604072",
@@ -619,7 +619,7 @@
     {
       "dutyID": "8beb9faa-ed11-48c1-ba2e-3f445b5fb0e3",
       "dutyDetail": "Monitor identified risks to policy delivery plans, and take appropriate mitigating actions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "345c589d-ebe5-4605-abf3-b9495a604072",
         "8df911e9-d3bc-47c4-8727-02999ec4b96d"
