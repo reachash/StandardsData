@@ -374,7 +374,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2021-02-24T00:00:00 +00:00",
@@ -393,7 +393,7 @@
     "Wellbeing therapist"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Hair, Beauty and Aesthetics",
   "cluster": "Beauty therapist",
@@ -411,7 +411,7 @@
     {
       "dutyID": "0274b1fa-70ca-4101-a44d-0c9637dc8ef2",
       "dutyDetail": "Develop and create client lifestyle profiles from which holistic therapy treatments and wellbeing experience schedules can be produced, in pursuit of optimal functioning and balance of the physical, emotional and mental aspects of daily life resulting in a dynamic state of equilibrium and wellbeing for the client",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2531e00a-bb52-4280-8c70-e33f6c570720",
         "60a575d3-5693-4a3c-80d9-40745a08f14b",
@@ -460,7 +460,7 @@
     {
       "dutyID": "cae67bcf-2b41-404a-a994-336ed6c3f4db",
       "dutyDetail": "Plan holistic, thermal treatments (heat applied by direct or indirect means) and wellbeing experience schedules, both singularly or as courses of treatments embedding holistic principles, theories and applications",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2531e00a-bb52-4280-8c70-e33f6c570720",
         "60a575d3-5693-4a3c-80d9-40745a08f14b"
@@ -506,7 +506,7 @@
     {
       "dutyID": "11f2c294-7fbe-4147-a08f-2f6b8acf5cb7",
       "dutyDetail": "Treat clients with variable needs, including those with specific health issues. Ensuring any required consent has been established with other multi-disciplinary professionals",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60a575d3-5693-4a3c-80d9-40745a08f14b",
         "0488d9ce-fdb0-47ad-b0a4-1db8057c46b7",
@@ -564,7 +564,7 @@
     {
       "dutyID": "4631aa53-1304-421c-8219-8d06b7f4441e",
       "dutyDetail": "Provide holistic therapy treatments and wellness experiences for improving the condition of the client's physical and emotional welfare and wellbeing, utilising fundamental relaxation techniques, strategies and stress management. This includes: Indian head massage, lymphatic drainage massage, aromatherapy (using 20 oils essential oils), manual acupressure massage (digit pressure massage applied by the hands to specific points on the face or body) and holistic massage  (therapeutic hands-on massage therapy that affects the clients physical, emotional and mental wellbeing) to induce, relaxation, improve circulation, promote skin healing and energise",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2531e00a-bb52-4280-8c70-e33f6c570720",
         "60a575d3-5693-4a3c-80d9-40745a08f14b",
@@ -642,7 +642,7 @@
     {
       "dutyID": "b194ff99-6b73-4d6d-96c3-d09522505eb5",
       "dutyDetail": "Provide thermal (heat) treatments and wellness experiences, applied by direct or indirect means, to improve the condition of the client's physical and emotional welfare and wellbeing to including body treatments, heat experiences and pre-treatments in preparation for further treatments",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2531e00a-bb52-4280-8c70-e33f6c570720",
         "60a575d3-5693-4a3c-80d9-40745a08f14b",
@@ -721,7 +721,7 @@
     {
       "dutyID": "9e3a7a99-5f6d-4aa6-a997-89286d8c6c67",
       "dutyDetail": "Use and apply a range of holistic therapy and wellness experiences, products, tools and equipment to provide holistic therapy treatments and wellness experiences",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2531e00a-bb52-4280-8c70-e33f6c570720",
         "60a575d3-5693-4a3c-80d9-40745a08f14b"
@@ -757,7 +757,7 @@
     {
       "dutyID": "79af64c7-9879-42f3-acad-3df8ad788ee0",
       "dutyDetail": "Use and apply a range of thermal therapy techniques, products, tools and equipment to provide thermal treatments",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2531e00a-bb52-4280-8c70-e33f6c570720",
         "60a575d3-5693-4a3c-80d9-40745a08f14b"
@@ -797,7 +797,7 @@
     {
       "dutyID": "356c24ed-c062-4f71-9670-cf6cc3e8e319",
       "dutyDetail": "Modify and adapt holistic and thermal treatments and wellness experiences based on client feedback and reaction during treatments. maintaining the client's wellbeing",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2531e00a-bb52-4280-8c70-e33f6c570720",
         "60a575d3-5693-4a3c-80d9-40745a08f14b",
@@ -849,7 +849,7 @@
     {
       "dutyID": "6e13c089-5ebc-4c58-9f13-2c031b3d8a57",
       "dutyDetail": "Provide advice on immediate post treatment aftercare and future recommendations, including advice regarding healing crisis as a result of holistic or thermal therapy treatments and experiences",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0488d9ce-fdb0-47ad-b0a4-1db8057c46b7"
       ],
@@ -883,7 +883,7 @@
     {
       "dutyID": "c7dcf863-4221-4853-934a-863d8c4fa264",
       "dutyDetail": "Adhere to health and safety, legal and organisational requirements, treatment protocols and manufacturer instructions relating to holistic, thermal and wellbeing experiences and therapies",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60a575d3-5693-4a3c-80d9-40745a08f14b",
         "0488d9ce-fdb0-47ad-b0a4-1db8057c46b7"
@@ -906,7 +906,7 @@
     {
       "dutyID": "3b783e5f-260c-4ba5-9902-9835c89001e7",
       "dutyDetail": "Contribute to promoting the business, its products and services to drive business growth and client satisfaction",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2531e00a-bb52-4280-8c70-e33f6c570720",
         "b2b7894d-1975-4b8e-bd82-5e975268b909"
@@ -932,7 +932,7 @@
     {
       "dutyID": "90b5305d-dd72-4af8-a75b-a41365923281",
       "dutyDetail": "Perform, implement and complete risk assessment protocols in relation to the client, treatment and environment",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2531e00a-bb52-4280-8c70-e33f6c570720",
         "60a575d3-5693-4a3c-80d9-40745a08f14b",
@@ -959,7 +959,7 @@
     {
       "dutyID": "bd988766-e52b-47f1-96aa-7f1c1268e208",
       "dutyDetail": "Liaise with colleagues, non-health care or health care practitioners",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2531e00a-bb52-4280-8c70-e33f6c570720",
         "60a575d3-5693-4a3c-80d9-40745a08f14b",
@@ -978,7 +978,7 @@
     {
       "dutyID": "775113d7-6cb7-4e26-aaec-16e9031c71b0",
       "dutyDetail": "Maintain up to date knowledge and skills of new and emerging techniques, equipment and business practices",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2b7894d-1975-4b8e-bd82-5e975268b909",
         "fdf09d40-f34a-427f-93c0-d96dcef92ab3"
