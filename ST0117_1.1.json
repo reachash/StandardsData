@@ -334,7 +334,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2017-03-31T00:00:00 +00:00",
@@ -349,7 +349,7 @@
   "coreAndOptions": false,
   "typicalJobTitles": [],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Production, Design and Development",
   "cluster": "Software development advanced technician",
@@ -374,7 +374,7 @@
     {
       "dutyID": "0e08a80c-f58f-4ad0-b5e8-fd9c987b1101",
       "dutyDetail": "Apply structured techniques to investigate wants, needs, problems and opportunities",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
         "95eddc30-9459-4409-96d2-171e71b51529",
@@ -415,7 +415,7 @@
     {
       "dutyID": "f0b1d096-0955-4b92-bbdf-c5f103437d84",
       "dutyDetail": "Document the current situation and apply relevant techniques to structure information",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
         "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
@@ -456,7 +456,7 @@
     {
       "dutyID": "d7b2d905-679b-46c6-8296-635045988697",
       "dutyDetail": "Assist in the development of options and recommendations for change",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
         "95eddc30-9459-4409-96d2-171e71b51529",
@@ -504,7 +504,7 @@
     {
       "dutyID": "e69b8aca-f5f2-4af1-ae7c-77afd541584b",
       "dutyDetail": "Model business processes using relevant techniques",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
         "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
@@ -545,7 +545,7 @@
     {
       "dutyID": "e3937bd5-bb25-424f-85ec-2c18b0d9b582",
       "dutyDetail": "Perform business process analysis and improvement",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
         "95eddc30-9459-4409-96d2-171e71b51529",
@@ -584,7 +584,7 @@
     {
       "dutyID": "34ac3d7a-cd0c-4d41-9ead-ebb759108e00",
       "dutyDetail": "Redesign business process models in order to reflect changes in working practice or deliver improvements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
         "95eddc30-9459-4409-96d2-171e71b51529",
@@ -632,7 +632,7 @@
     {
       "dutyID": "d192d964-106c-4b8b-ad6f-6c54cc18fe8f",
       "dutyDetail": "Undertake requirements elicitation with stakeholders to identify business and user needs",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
         "95eddc30-9459-4409-96d2-171e71b51529",
@@ -677,7 +677,7 @@
     {
       "dutyID": "3dcbcfae-24df-4d4b-ae74-ccf92c279ae1",
       "dutyDetail": "Analyse, validate, prioritise and document functional and non-functional requirements for business situations, using relevant techniques",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
         "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
@@ -722,7 +722,7 @@
     {
       "dutyID": "03db6518-7412-4c7b-bbe7-5a6e602a36fa",
       "dutyDetail": "Identify data requirements relating to business improvement",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
         "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
@@ -763,7 +763,7 @@
     {
       "dutyID": "1cb98d61-1c12-4ddc-930a-8b7fb480494d",
       "dutyDetail": "Assist in the management and controlled change of requirements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
         "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
@@ -799,7 +799,7 @@
     {
       "dutyID": "bc323677-8354-49dc-bf31-eb567285103f",
       "dutyDetail": "Support the creation of data models to illustrate how data is represented within a business system",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
         "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
@@ -834,7 +834,7 @@
     {
       "dutyID": "e6b10256-6bc0-42eb-b88a-5d68b8738a8b",
       "dutyDetail": "Compare current and future state business situations in order to identify the changes required for business improvement",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
         "95eddc30-9459-4409-96d2-171e71b51529",
@@ -880,7 +880,7 @@
     {
       "dutyID": "528a0ef6-4904-43d7-8e23-410224553a3e",
       "dutyDetail": "Define acceptance criteria for business and system changes, and support business acceptance",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
         "95eddc30-9459-4409-96d2-171e71b51529",
@@ -922,7 +922,7 @@
     {
       "dutyID": "68ed10ea-b602-4f8b-a8c1-8e5eabed85fb",
       "dutyDetail": "Identify and analyse stakeholders impacted by a proposed change, understand their perspectives and assess how their interests are best managed",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
         "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
@@ -959,7 +959,7 @@
     {
       "dutyID": "336b597c-857a-4dae-b64c-9ab8b42a2d9f",
       "dutyDetail": "Assess and document the drivers, costs, benefits and impacts of a proposed business change",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
         "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
