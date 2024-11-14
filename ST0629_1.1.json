@@ -256,7 +256,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-02-03T00:00:00 +00:00",
@@ -274,7 +274,7 @@
     "BEMS Engineer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Building Services Engineering",
   "cluster": "Building services engineering technician",
@@ -292,7 +292,7 @@
     {
       "dutyID": "3bdf5a02-5d30-452a-91f5-eaa5d9d9eea8",
       "dutyDetail": "Design and create BEMS Technical Documentation",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2d27e4d3-13dc-43ed-9251-9b56631531da",
         "7f1d3c59-bb58-4e06-81fe-d5e18977d34f"
@@ -323,7 +323,7 @@
     {
       "dutyID": "5e5e5b08-600d-4d97-86b8-3bbf7064b756",
       "dutyDetail": "Create wiring schedule and power loadings for panel manufacture",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2d27e4d3-13dc-43ed-9251-9b56631531da"
       ],
@@ -343,7 +343,7 @@
     {
       "dutyID": "4e1fc513-be71-4d69-833c-64d6037c86fb",
       "dutyDetail": "Adhere to safe working practices to ensure the BEMS elements of the electrical systems are safe to use",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "17cf42ed-51f3-4b47-bf3c-4ae913a4d783",
         "f17c804d-d949-41bc-9c8e-e3c84d480507"
@@ -363,7 +363,7 @@
     {
       "dutyID": "b04c81e4-727c-4956-ac09-7d47e8e9b3b0",
       "dutyDetail": "Create Health & Safety documentation such as Risk Assessments and Method Statements (RAMS)",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "17cf42ed-51f3-4b47-bf3c-4ae913a4d783",
         "f17c804d-d949-41bc-9c8e-e3c84d480507"
@@ -384,7 +384,7 @@
     {
       "dutyID": "32f61a3b-085d-4cad-ac5b-9442c2e112c2",
       "dutyDetail": "Design and write software for control systems to an industry approved standard",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7f1d3c59-bb58-4e06-81fe-d5e18977d34f",
         "08b85b3c-0436-4d1d-b768-ff72b33924e5"
@@ -406,7 +406,7 @@
     {
       "dutyID": "8a14d801-daf9-40af-a0cd-7978738532fd",
       "dutyDetail": "Design and create client approved user interface for plant and systems with appropriate reference to integration issues",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2d27e4d3-13dc-43ed-9251-9b56631531da",
         "7f1d3c59-bb58-4e06-81fe-d5e18977d34f"
@@ -427,7 +427,7 @@
     {
       "dutyID": "62300cd4-0d6c-42f3-9780-d2f0b5ca51bb",
       "dutyDetail": "Review completed control panel drawings to check, amend and approve",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2d27e4d3-13dc-43ed-9251-9b56631531da",
         "114bd1e1-c2b3-4133-a484-5d58dbdb84ae"
@@ -450,7 +450,7 @@
     {
       "dutyID": "44cc04d6-fc6c-4952-ab74-9cf3cb923749",
       "dutyDetail": "Install BEMS control equipment and wiring systems",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "17cf42ed-51f3-4b47-bf3c-4ae913a4d783",
         "fcdf144c-5b25-407b-95a2-38c0a6ba3d3e",
@@ -485,7 +485,7 @@
     {
       "dutyID": "0d8bab01-d375-4bf0-8a81-20596830df04",
       "dutyDetail": "Commission BEMS software and controls equipment",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "17cf42ed-51f3-4b47-bf3c-4ae913a4d783",
         "fcdf144c-5b25-407b-95a2-38c0a6ba3d3e",
@@ -532,7 +532,7 @@
     {
       "dutyID": "66e91d5d-16eb-46c4-9423-bb7e29d7e323",
       "dutyDetail": "Undertake a servicing and maintenance requirement of an existing BEMS installation",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "17cf42ed-51f3-4b47-bf3c-4ae913a4d783",
         "f17c804d-d949-41bc-9c8e-e3c84d480507",
@@ -565,7 +565,7 @@
     {
       "dutyID": "2d95d7ef-2da3-47d0-883f-0751a833395a",
       "dutyDetail": " Carry out fault finding and rectification of defective control equipment or software algorithms",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "17cf42ed-51f3-4b47-bf3c-4ae913a4d783",
         "fcdf144c-5b25-407b-95a2-38c0a6ba3d3e",
@@ -600,7 +600,7 @@
     {
       "dutyID": "2b206f29-d07a-4120-81b5-d5f6f767dfc1",
       "dutyDetail": "Carry out and produce detailed conditional site survey reports along with remedial/ enhancement recommendations",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "17cf42ed-51f3-4b47-bf3c-4ae913a4d783",
         "fcdf144c-5b25-407b-95a2-38c0a6ba3d3e",
@@ -636,7 +636,7 @@
     {
       "dutyID": "5e51926a-8736-4e37-961b-4ac404580e17",
       "dutyDetail": "Produce recommendations for enhancing energy performance",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "17cf42ed-51f3-4b47-bf3c-4ae913a4d783",
         "fcdf144c-5b25-407b-95a2-38c0a6ba3d3e",
@@ -666,7 +666,7 @@
     {
       "dutyID": "8fe65821-20a9-4145-8fd3-5d24efa50fba",
       "dutyDetail": "Carry out the electrical testing and inspection of BEMS related controls equipment",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f17c804d-d949-41bc-9c8e-e3c84d480507",
         "2d27e4d3-13dc-43ed-9251-9b56631531da",
@@ -694,7 +694,7 @@
     {
       "dutyID": "fc8babbe-3fe8-46a7-b4c8-50d40aa92de1",
       "dutyDetail": "Create Operation and Maintenance documentation",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2d27e4d3-13dc-43ed-9251-9b56631531da",
         "7f1d3c59-bb58-4e06-81fe-d5e18977d34f"
