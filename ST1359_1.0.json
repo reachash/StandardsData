@@ -301,7 +301,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-10-16T00:00:00 +00:00",
@@ -327,7 +327,7 @@
     "Pet retail manager"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Animal Care and Management",
   "cluster": "Animal Care and Welfare Assistant",
@@ -345,7 +345,7 @@
     {
       "dutyID": "63fa798a-a8af-425d-ab8b-7144658c1c5a",
       "dutyDetail": "Oversee and monitor the provision of care to animals in accordance with appropriate legislation, regulations and organisational policies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
         "2942a5db-ad49-41a7-8418-7a3b75db7a16",
@@ -397,7 +397,7 @@
     {
       "dutyID": "1ff6ebf0-762f-497b-8c71-7efa4c479cca",
       "dutyDetail": "Assess and evaluate animal behaviour and health to establish care requirements. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
         "2942a5db-ad49-41a7-8418-7a3b75db7a16",
@@ -441,7 +441,7 @@
     {
       "dutyID": "6ef98cee-528d-422d-9b3b-405852a063ea",
       "dutyDetail": "Provide animals with suitable social contact to prevent conflict and ensure stress free environments, recognising where social contact is not appropriate taking into account the individual requirements of the animal e.g. species, breed, animal life stage, health conditions. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
         "2942a5db-ad49-41a7-8418-7a3b75db7a16",
@@ -485,7 +485,7 @@
     {
       "dutyID": "3de0d48c-0def-480c-bd51-40f31f8acbe5",
       "dutyDetail": "Plan bespoke and sustainable accommodation to ensure animal welfare, safety and security.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
         "2942a5db-ad49-41a7-8418-7a3b75db7a16",
@@ -528,7 +528,7 @@
     {
       "dutyID": "9e7d51ea-3134-4141-8679-ca90ab8ef38b",
       "dutyDetail": "Plan feeding to suit individual animal needs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
         "2942a5db-ad49-41a7-8418-7a3b75db7a16",
@@ -572,7 +572,7 @@
     {
       "dutyID": "823cb44a-698d-47e1-99a2-a289f8ab101e",
       "dutyDetail": "Develop and implement tailored healthcare plans to meet individual animal needs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
         "2942a5db-ad49-41a7-8418-7a3b75db7a16",
@@ -620,7 +620,7 @@
     {
       "dutyID": "52c4ce81-e1f3-4533-ae4f-e273b7da21a8",
       "dutyDetail": "Collaborate with stakeholders and manage difficult conversations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2942a5db-ad49-41a7-8418-7a3b75db7a16",
         "d1e40736-09aa-4c3e-8d57-76c6b2bb4f1e",
@@ -660,7 +660,7 @@
     {
       "dutyID": "a4d872ac-e301-4339-98b2-1aeba24573cf",
       "dutyDetail": "Contribute to the development of Health and Safety policies, carry out risk assessments and monitor and maintain biosecurity.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2942a5db-ad49-41a7-8418-7a3b75db7a16",
         "7eb1fbe0-58eb-442b-a541-d91d3d04942c",
@@ -694,7 +694,7 @@
     {
       "dutyID": "df7bdd88-8584-41dc-aa78-fc57db9b6afc",
       "dutyDetail": "Oversee the day-to-day running of the business and minimise the impact on the environment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
         "2942a5db-ad49-41a7-8418-7a3b75db7a16",
@@ -757,7 +757,7 @@
     {
       "dutyID": "bef37ba5-e518-4562-ab4b-c695280b1452",
       "dutyDetail": "Supervise or support and mentor colleagues.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
         "2942a5db-ad49-41a7-8418-7a3b75db7a16",
@@ -808,7 +808,7 @@
     {
       "dutyID": "e110fa7b-dbdf-4df7-8660-2b6ec79f022c",
       "dutyDetail": "Keep up to date with advances in animal care working practices and emerging technologies. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
         "2942a5db-ad49-41a7-8418-7a3b75db7a16",
@@ -838,7 +838,7 @@
     {
       "dutyID": "bfe39df0-208a-47a5-a56d-2a27e159abda",
       "dutyDetail": "Schedule activities and allocate resources based on the work environment and incoming work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
         "2942a5db-ad49-41a7-8418-7a3b75db7a16",
@@ -887,7 +887,7 @@
     {
       "dutyID": "9ebff426-3280-41c0-9d1e-331e5ca7d933",
       "dutyDetail": "Maintain a professional, safe and welfare focussed working environment in line with legislation and company policies and take responsibility for themselves, animals and others.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
         "2942a5db-ad49-41a7-8418-7a3b75db7a16",
@@ -939,7 +939,7 @@
     {
       "dutyID": "ba12ffa3-94e8-45f8-a6a4-448b355c5915",
       "dutyDetail": "Identify and promote opportunities for continuous improvement to working practices and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2942a5db-ad49-41a7-8418-7a3b75db7a16",
         "d1e40736-09aa-4c3e-8d57-76c6b2bb4f1e",
