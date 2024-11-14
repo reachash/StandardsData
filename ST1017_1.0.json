@@ -238,7 +238,7 @@
     "Domestic electrician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Building Services Engineering",
   "cluster": "Building services engineering operative or technician",
@@ -272,7 +272,7 @@
     {
       "dutyID": "ad4cd121-93dc-4cbe-bcf9-ad59bd45100c",
       "dutyDetail": "Understand fully and work in full compliance with health, safety, and environmental regulations; building regulations; industry guidance notes; relevant codes of practice, the requirements of the current edition of the Wiring Regulations (BS7671) and other relevant standards ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d65696d6-5b39-47b1-94d6-27fd32adb290",
         "9151c975-ae1d-4302-befc-fb5a7c5794ca",
@@ -299,7 +299,7 @@
     {
       "dutyID": "94b6e291-dce6-46d0-9f7e-a09105705fc3",
       "dutyDetail": "Always provide appropriate customer service, prioritising their care, safety, and security and that of any children and pets on customer property",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d65696d6-5b39-47b1-94d6-27fd32adb290",
         "9151c975-ae1d-4302-befc-fb5a7c5794ca",
@@ -324,7 +324,7 @@
     {
       "dutyID": "15bb4245-1bda-49c3-8749-3054d31eba2f",
       "dutyDetail": "Undertake the installation of both wired and wireless solutions in achieving a desired outcome appropriate to customer need in accordance with the requirements of BS 7671 and other relevant industry standards, and assess electrical loads on domestic installations to ensure safe and suitable solutions can be provided to the customer including assisted living technologies, lighting design and comfort and convenience technologies ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d65696d6-5b39-47b1-94d6-27fd32adb290",
         "9151c975-ae1d-4302-befc-fb5a7c5794ca",
@@ -358,7 +358,7 @@
     {
       "dutyID": "3c24f20d-4d57-4ff8-ba01-3178b2f71ffd",
       "dutyDetail": "Plan and deliver the best solution for the customer, incorporating and integrating comfort and convenience technologies for the homeowner, within agreed budget, including the installation, maintenance, and inspection of domestic electric vehicle charging systems and other domestic use special installations, in accordance with the requirements of BS 7671 and other relevant industry standards",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d65696d6-5b39-47b1-94d6-27fd32adb290",
         "9151c975-ae1d-4302-befc-fb5a7c5794ca",
@@ -391,7 +391,7 @@
     {
       "dutyID": "485fa2d4-e2cb-4ed8-b72b-17d071757769",
       "dutyDetail": "Carry out electrical installation, initial verification, maintenance and testing work on a variety of voltages; both AC and DC; not exceeding 230V single phase",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d65696d6-5b39-47b1-94d6-27fd32adb290",
         "9151c975-ae1d-4302-befc-fb5a7c5794ca",
@@ -423,7 +423,7 @@
     {
       "dutyID": "b004e16c-90b3-40b8-b4a1-9be88c438d49",
       "dutyDetail": "Site and install mains powered smoke and heat detectors for domestic premises only and advise the customer regarding electric vehicle (EV) charging points, detector cleaning, maintenance, and user testing.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d65696d6-5b39-47b1-94d6-27fd32adb290",
         "9151c975-ae1d-4302-befc-fb5a7c5794ca",
@@ -454,7 +454,7 @@
     {
       "dutyID": "0ad17dfc-4d6c-4054-95e2-ff5592049683",
       "dutyDetail": "Design and install wiring for domestic heating systems including central heating boilers and other domestic heating systems which need electrical connections",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d65696d6-5b39-47b1-94d6-27fd32adb290",
         "9151c975-ae1d-4302-befc-fb5a7c5794ca",
@@ -483,7 +483,7 @@
     {
       "dutyID": "2b78b1c5-8af4-4f96-83f2-630e80caa1ce",
       "dutyDetail": "Understand the different types of environmental technologies that may be found in a domestic dwelling including solar photovoltaic systems, heat pumps, micro wind turbines and domestic battery storage and their interaction with conventional electrical installations",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d65696d6-5b39-47b1-94d6-27fd32adb290",
         "9151c975-ae1d-4302-befc-fb5a7c5794ca",
@@ -510,7 +510,7 @@
     {
       "dutyID": "fbdfb042-de0c-451e-97ff-bbf2c585a605",
       "dutyDetail": "Install cables within the fabric of the building for internal and external installations while maintaining the integrity of fire compartments and customers belongings",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d65696d6-5b39-47b1-94d6-27fd32adb290",
         "9151c975-ae1d-4302-befc-fb5a7c5794ca",
@@ -528,7 +528,7 @@
     {
       "dutyID": "f1229f48-0488-419d-9377-aaec0ff04c3f",
       "dutyDetail": "Understand the need for appropriate consideration towards, and knowledge of specialist requirements when working in historical installations and settings",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d65696d6-5b39-47b1-94d6-27fd32adb290",
         "9151c975-ae1d-4302-befc-fb5a7c5794ca",
@@ -547,7 +547,7 @@
     {
       "dutyID": "b8069492-61a7-429a-b31b-9efecac89459",
       "dutyDetail": "Carry out maintenance regimes, periodic inspection and testing of existing single phase domestic electrical installations in accordance with manufacturer instructions and the requirements for electrical installations ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d65696d6-5b39-47b1-94d6-27fd32adb290",
         "9151c975-ae1d-4302-befc-fb5a7c5794ca",
@@ -575,7 +575,7 @@
     {
       "dutyID": "94bde67a-6160-4845-9b02-dde9ac9dc969",
       "dutyDetail": "Prepare and complete relevant work documentation from quotation to certification and handover stages",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "0b04f1f3-a8d7-437d-9d0c-e27204751cb9",
@@ -592,7 +592,7 @@
     {
       "dutyID": "fa86a81e-35c2-43d9-929b-54ba8b1d4fbd",
       "dutyDetail": "Understand how to plan and project manage typical Domestic Electrician work",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ae6f209d-271c-4b37-89ac-b7ef01252247",
         "7927e6c7-f978-4b99-b3b3-4ca816069450"
