@@ -5,7 +5,7 @@
   "title": "Thatcher",
   "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/753",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/thatcher-v10",
+  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/thatcher-10",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2024-02-28T00:00:00",
@@ -253,7 +253,7 @@
     "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-02-27T00:00:00 +00:00",
@@ -270,13 +270,13 @@
     "Thatcher"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Onsite Construction",
   "cluster": "Core building tradesperson",
   "clusterId": "5",
   "clusterDescription": null,
-  "createdDate": "2024-02-28T09:42:54 +00:00",
+  "createdDate": "2024-11-13T15:52:25 +00:00",
   "lastUpdated": "2024-02-28T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-02-27T00:00:00 +00:00",
   "occupationCode": "OCC0821",
@@ -288,7 +288,7 @@
     {
       "dutyID": "b1cbb4ad-d286-495c-a1c5-81dd8c7ceb89",
       "dutyDetail": "Manage resources ready for use including thatching materials, tools, equipment and vehicles. Check prepared and fit for purpose.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "57e08cc9-b99f-4e8d-b8e2-9ba35ed068c0",
         "11f8382f-65be-44a2-907d-b59956b7fa0a",
@@ -331,7 +331,7 @@
     {
       "dutyID": "7f903b77-fd4c-4085-b847-a26ddd3afbc4",
       "dutyDetail": "Establish daily and weekly tasks and organise own work with emphasis on efficiency and safety.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "57e08cc9-b99f-4e8d-b8e2-9ba35ed068c0",
         "11f8382f-65be-44a2-907d-b59956b7fa0a",
@@ -369,7 +369,7 @@
     {
       "dutyID": "5ed2d220-2bc1-42f7-aea0-63445164cfe3",
       "dutyDetail": "Establish the suitability of the work area including PPE equipment, scaffolding, ladders and an understanding of how any risk assessment affects them.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "57e08cc9-b99f-4e8d-b8e2-9ba35ed068c0",
         "11f8382f-65be-44a2-907d-b59956b7fa0a",
@@ -409,7 +409,7 @@
     {
       "dutyID": "50022173-9c0f-4fec-8c6e-e2a234768101",
       "dutyDetail": "Assess the condition of the roof per agreed works, prepare the roof for thatching, understanding the differences between the different buildings to be thatched.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "57e08cc9-b99f-4e8d-b8e2-9ba35ed068c0",
         "11f8382f-65be-44a2-907d-b59956b7fa0a",
@@ -452,7 +452,7 @@
     {
       "dutyID": "a2ad6e24-ce63-4fab-8b39-5dd5159de85b",
       "dutyDetail": "Preparation of thatching materials including long straw, combed wheat reed and water reed; correct handling, checking and storage.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "57e08cc9-b99f-4e8d-b8e2-9ba35ed068c0",
         "11f8382f-65be-44a2-907d-b59956b7fa0a",
@@ -500,7 +500,7 @@
     {
       "dutyID": "d8827636-224c-4ceb-8e63-0c2d519a4002",
       "dutyDetail": "Fix appropriate thatching materials to basic roof structure with correct depth over fixings and adequate tension.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "57e08cc9-b99f-4e8d-b8e2-9ba35ed068c0",
         "11f8382f-65be-44a2-907d-b59956b7fa0a",
@@ -541,7 +541,7 @@
     {
       "dutyID": "6f45eec1-091e-4f88-98b0-027817e45489",
       "dutyDetail": "Fix appropriate thatching materials to roof features with correct depth over fixings and adequate tensions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "57e08cc9-b99f-4e8d-b8e2-9ba35ed068c0",
         "11f8382f-65be-44a2-907d-b59956b7fa0a",
@@ -588,7 +588,7 @@
     {
       "dutyID": "9eecd2e5-ea17-4075-8f62-0f0f9cd31067",
       "dutyDetail": "Use and maintain thatching tools and equipment; understand their correct use and maintenance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "57e08cc9-b99f-4e8d-b8e2-9ba35ed068c0",
         "11f8382f-65be-44a2-907d-b59956b7fa0a",
@@ -627,7 +627,7 @@
     {
       "dutyID": "5a0f47c3-855f-40f4-853f-b749362ab4a2",
       "dutyDetail": "Manage resources after use, clearing of site, removal of excess materials and storing tools and equipment correctly for future use.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "57e08cc9-b99f-4e8d-b8e2-9ba35ed068c0",
         "11f8382f-65be-44a2-907d-b59956b7fa0a",
@@ -664,7 +664,7 @@
     {
       "dutyID": "b2a5cb10-396a-42dc-bc50-3617b4f57b6c",
       "dutyDetail": "Quantifying thatching work and materials with the ability to work out how much material and time is required to complete a thatching job efficiently and safely.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "57e08cc9-b99f-4e8d-b8e2-9ba35ed068c0",
         "11f8382f-65be-44a2-907d-b59956b7fa0a",
