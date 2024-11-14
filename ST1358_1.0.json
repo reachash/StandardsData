@@ -414,7 +414,7 @@
     "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-07-17T00:00:00 +00:00",
@@ -432,7 +432,7 @@
     "Foreman painter and decorator"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Onsite Construction",
   "cluster": "Core building tradesperson",
@@ -450,7 +450,7 @@
     {
       "dutyID": "6bcd19e4-9813-4a03-8f7b-4875850b9317",
       "dutyDetail": "work in compliance with occupational health, safety and environmental requirements to ensurethe health, safety and wellbeing of self and others at all times",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1fc280f2-b2f3-47cb-b29d-aaec3af8edbc",
         "b9e36a60-2535-487b-9635-499874294cc2",
@@ -496,7 +496,7 @@
     {
       "dutyID": "2788cb6a-0258-4554-9f71-9b484e5fd369",
       "dutyDetail": "carry out their work in compliance with all current and relevant building regulations and quality standards, where appropriate checking the work of others for compliance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1fc280f2-b2f3-47cb-b29d-aaec3af8edbc",
         "b9e36a60-2535-487b-9635-499874294cc2",
@@ -532,7 +532,7 @@
     {
       "dutyID": "b4e68347-b827-4238-b19d-c7a7d7987ffd",
       "dutyDetail": "Lead the painting and decorating team in the delivery of the construction programme including interpreting technical specifications, manufacturers’ instructions and drawings, including digital information",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1fc280f2-b2f3-47cb-b29d-aaec3af8edbc",
         "9a75f0f2-9a1c-4d90-873a-b2a75b5eb70c"
@@ -558,7 +558,7 @@
     {
       "dutyID": "0ae565fc-e7c4-4122-9745-db88777eb6d1",
       "dutyDetail": "plan and organise the work site including setting out the work site materials and tools appropriate to the project for self and others",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9a75f0f2-9a1c-4d90-873a-b2a75b5eb70c"
       ],
@@ -607,7 +607,7 @@
     {
       "dutyID": "7d171b2b-cbb8-41eb-b408-69ad29d82e57",
       "dutyDetail": "plan the work to obtain optimum environmental, quality and schedule performance from the team, hand tools, power tools and associated equipment",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9a75f0f2-9a1c-4d90-873a-b2a75b5eb70c"
       ],
@@ -666,7 +666,7 @@
     {
       "dutyID": "ec489989-aef0-4d97-8c02-b53f170548c0",
       "dutyDetail": "carry out complex painting and decorating tasks using specialist materials to industry standards and specifications.                           ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9a75f0f2-9a1c-4d90-873a-b2a75b5eb70c"
       ],
@@ -709,7 +709,7 @@
     {
       "dutyID": "a2c66554-3261-4191-92b7-8e23058d36da",
       "dutyDetail": "work effectively on their own and supervise others.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b9e36a60-2535-487b-9635-499874294cc2",
         "9a75f0f2-9a1c-4d90-873a-b2a75b5eb70c"
@@ -732,7 +732,7 @@
     {
       "dutyID": "9bf47dd1-d6af-42bd-b7cd-2c2968807e06",
       "dutyDetail": "maintain a clear and safe worksite at all\ttimes, promoting sustainable building practices",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1fc280f2-b2f3-47cb-b29d-aaec3af8edbc",
         "b9e36a60-2535-487b-9635-499874294cc2"
@@ -760,7 +760,7 @@
     {
       "dutyID": "475cb5bd-f090-49a2-9a43-57b69a750720",
       "dutyDetail": "carry out continuous professional development to maintain knowledge of current and future developments affecting the role and share with others.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8edb7e69-fbfe-4768-9442-154ce17a7ac1"
       ],
@@ -774,7 +774,7 @@
     {
       "dutyID": "a197fa0c-6e6d-4dee-a07b-1042cd6be93c",
       "dutyDetail": "proactively collaborate with stakeholders, clients and other construction trades, including programming and technical matters",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b3582ea7-5603-4fa2-8561-2eabd6434379",
         "d5f1f84f-d552-4e47-8e0b-bda16cb325e3"
@@ -799,7 +799,7 @@
     {
       "dutyID": "3ebb6670-4473-4a9e-87db-de5a367aae26",
       "dutyDetail": "repair, modify, maintain or replace a variety of painting and decorating defects to different substrates and circumstances ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9a75f0f2-9a1c-4d90-873a-b2a75b5eb70c"
       ],
