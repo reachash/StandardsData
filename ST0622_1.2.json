@@ -262,7 +262,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-08-22T00:00:00 +00:00",
@@ -281,7 +281,7 @@
     "Bike mechanic",
     "Cycle mechanic"
   ],
-  "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Service, repair and or or overhaul operative or technician",
@@ -299,7 +299,7 @@
     {
       "dutyID": "f11c32b2-a9af-45a5-b593-3e3cc3ec5bef",
       "dutyDetail": "Build a bicycle from scratch to a customer’s or client’s specification.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
         "641a5e52-af89-4c89-9168-8cb13d64c54e",
@@ -344,7 +344,7 @@
     {
       "dutyID": "b8230ce3-41ce-4ed9-892a-6b39282d4fc7",
       "dutyDetail": "Identify problems with a bicycle and discuss solutions with the customer or client.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
         "641a5e52-af89-4c89-9168-8cb13d64c54e",
@@ -381,7 +381,7 @@
     {
       "dutyID": "fd51274a-fe05-40a0-90df-b28b5a327c88",
       "dutyDetail": "Estimate the cost of repairs and give quotes; advising on economic viability.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
         "641a5e52-af89-4c89-9168-8cb13d64c54e",
@@ -411,7 +411,7 @@
     {
       "dutyID": "30834d30-6a53-4348-8e16-7e0fc219c562",
       "dutyDetail": "Carry out a bicycle service and safety checks.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
         "641a5e52-af89-4c89-9168-8cb13d64c54e",
@@ -460,7 +460,7 @@
     {
       "dutyID": "3ab6dc44-7bc7-4def-a288-9f43a9956ae5",
       "dutyDetail": "Carry out repairs and replace parts for example, changing brake cables and chains.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
         "641a5e52-af89-4c89-9168-8cb13d64c54e",
@@ -511,7 +511,7 @@
     {
       "dutyID": "2f70cf3c-a392-4cb6-9e27-0bfceedf8d4b",
       "dutyDetail": "Clean, degrease and lubricate bicycle parts.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
         "641a5e52-af89-4c89-9168-8cb13d64c54e",
@@ -539,7 +539,7 @@
     {
       "dutyID": "2a34b05a-0a7d-4d3e-a92c-b9deccd7e6b4",
       "dutyDetail": "Give advice to customers or clients, including the sale of bikes, parts and accessories.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
         "641a5e52-af89-4c89-9168-8cb13d64c54e",
@@ -574,7 +574,7 @@
     {
       "dutyID": "48185759-6a44-4d82-a07e-bfe9e9978ba9",
       "dutyDetail": "Take bookings for repairs and process paperwork via paper or computerised systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
         "641a5e52-af89-4c89-9168-8cb13d64c54e",
@@ -602,7 +602,7 @@
     {
       "dutyID": "82cb25c2-7ef2-457a-8807-710c940c5150",
       "dutyDetail": "Support retail or contractual processes and warranty claims.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
         "641a5e52-af89-4c89-9168-8cb13d64c54e",
@@ -653,7 +653,7 @@
     {
       "dutyID": "0cc717d7-a30e-4082-82c1-7f8ff31ad223",
       "dutyDetail": "Maintain and adhere to the industry standards and best practice for quality control over their own work and take an active role in general workshop quality control.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
         "641a5e52-af89-4c89-9168-8cb13d64c54e",
@@ -680,7 +680,7 @@
     {
       "dutyID": "a5aa6667-c84f-47f1-ac82-ad8be2515bff",
       "dutyDetail": "Maintain bicycle mechanic tools and equipment; and workshop tidiness.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
         "641a5e52-af89-4c89-9168-8cb13d64c54e",
