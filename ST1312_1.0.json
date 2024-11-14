@@ -242,7 +242,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-01-03T00:00:00 +00:00",
@@ -265,7 +265,7 @@
     "Registered probate technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Legal",
   "cluster": "Legal technician",
@@ -274,7 +274,7 @@
   "createdDate": "2024-11-11T10:52:45 +00:00",
   "lastUpdated": "2024-01-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-01-03T00:00:00 +00:00",
-  "occupationCode": "OCC1312",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/legal-technician-conveyancing-technician-or-probate-technician-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/legal-technician-conveyancing-technician-or-probate-technician-v1-0",
   "qualifications": [
@@ -698,12 +698,12 @@
     {
       "optionId": "93607c4c-0d22-49f8-b03b-d0896896bd68",
       "title": "conveyancing technician",
-      "occupationCode": ""
+      "occupationCode": "OCC1312A"
     },
     {
       "optionId": "80353718-c581-49fe-958d-3e005077ec83",
       "title": "probate technician",
-      "occupationCode": ""
+      "occupationCode": "OCC1312B"
     }
   ],
   "regulationDetail": [],
