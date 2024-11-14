@@ -400,7 +400,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-12-13T00:00:00 +00:00",
@@ -417,7 +417,7 @@
     "Dispensing optician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Healthcare Science",
   "cluster": "Healthcare science professional",
@@ -451,7 +451,7 @@
     {
       "dutyID": "4a6189e7-7a95-49a6-9806-6d74671bd98e",
       "dutyDetail": "Practice independently to the legal, ethical and professional standards for dispensing opticians and in line with scope of own practice and limits of competence.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2bd7e2b3-25d8-4202-a27f-7b8201facf31",
         "0eb3e5e2-15d6-4d62-a47d-1f2add9e6abb",
@@ -492,7 +492,7 @@
     {
       "dutyID": "c9b67dd2-bfc3-4c42-81f2-e1c81f171246",
       "dutyDetail": "Interpret and dispense prescriptions using appropriate lenses, frame choices and accurate facial and frame measurements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2bd7e2b3-25d8-4202-a27f-7b8201facf31",
         "0eb3e5e2-15d6-4d62-a47d-1f2add9e6abb",
@@ -515,7 +515,7 @@
     {
       "dutyID": "856fe51f-2060-404f-874d-9220cf11a7e8",
       "dutyDetail": "Manage and verify optical appliances and comply with relevant standards, guidelines and evidence.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2bd7e2b3-25d8-4202-a27f-7b8201facf31",
         "0eb3e5e2-15d6-4d62-a47d-1f2add9e6abb",
@@ -538,7 +538,7 @@
     {
       "dutyID": "8cc8cc7f-e23f-45d1-825c-8f9c36465d41",
       "dutyDetail": "Prescribe, advise and dispense appropriate vocational and special optical appliances in accordance with personal eye protection regulations and relevant standards.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2bd7e2b3-25d8-4202-a27f-7b8201facf31",
         "0eb3e5e2-15d6-4d62-a47d-1f2add9e6abb",
@@ -561,7 +561,7 @@
     {
       "dutyID": "d08c7f18-d3a0-4660-a96b-3ef4f2817d14",
       "dutyDetail": "Manage and dispense appropriate spectacles for paediatric patients and patients with complex or additional needs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2bd7e2b3-25d8-4202-a27f-7b8201facf31",
         "0eb3e5e2-15d6-4d62-a47d-1f2add9e6abb",
@@ -587,7 +587,7 @@
     {
       "dutyID": "1955278a-e5c5-4be8-9301-7f7ca6a6a3c9",
       "dutyDetail": "Manage cases where the patient feels their vision is not satisfactory through their spectacle lenses and therefore cannot be tolerated.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2bd7e2b3-25d8-4202-a27f-7b8201facf31",
         "0eb3e5e2-15d6-4d62-a47d-1f2add9e6abb",
@@ -612,7 +612,7 @@
     {
       "dutyID": "c2c1d110-b927-4ecd-aa76-99b6933b33a9",
       "dutyDetail": "Identify and advise patients who could benefit from simple or complex low-vision aids. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2bd7e2b3-25d8-4202-a27f-7b8201facf31",
         "0eb3e5e2-15d6-4d62-a47d-1f2add9e6abb",
@@ -633,7 +633,7 @@
     {
       "dutyID": "ccde8359-5eb1-4064-9bf4-1a8854d25ac5",
       "dutyDetail": "Conduct low-vision assessments, using the full patient history and evaluation of visual requirements. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2bd7e2b3-25d8-4202-a27f-7b8201facf31",
         "0eb3e5e2-15d6-4d62-a47d-1f2add9e6abb",
@@ -657,7 +657,7 @@
     {
       "dutyID": "dc755903-1ed2-4b84-8806-4e8f9f0b63ed",
       "dutyDetail": "Select appropriate visual aid to meet patient needs and provide appropriate advice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2bd7e2b3-25d8-4202-a27f-7b8201facf31",
         "0eb3e5e2-15d6-4d62-a47d-1f2add9e6abb",
@@ -678,7 +678,7 @@
     {
       "dutyID": "adbc90e3-eb0a-4052-94c7-da9f54384d81",
       "dutyDetail": "Work as part of a multi-disciplinary team to ensure evidence-informed clinical decision making, maintaining knowledge of optical products and advancements in technology, to provide patients with the most appropriate optical appliances, care, advice, and referral to other professionals.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2bd7e2b3-25d8-4202-a27f-7b8201facf31",
         "0eb3e5e2-15d6-4d62-a47d-1f2add9e6abb",
@@ -703,7 +703,7 @@
     {
       "dutyID": "e8bd5477-4e38-4bd5-9ae1-d51354f01092",
       "dutyDetail": "Recognise potential problems and appraise suitable lens solutions for different types of prescription, modifying the prescription in accordance with legal requirements relative to the visual task analysis for individual patient requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2bd7e2b3-25d8-4202-a27f-7b8201facf31",
         "0eb3e5e2-15d6-4d62-a47d-1f2add9e6abb",
@@ -726,7 +726,7 @@
     {
       "dutyID": "d3213d1b-35ef-4c87-b2db-68772211bcaa",
       "dutyDetail": "Use knowledge of facial development to relate anatomical features and material properties to the dispensing of optical appliances.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2bd7e2b3-25d8-4202-a27f-7b8201facf31",
         "0eb3e5e2-15d6-4d62-a47d-1f2add9e6abb",
@@ -747,7 +747,7 @@
     {
       "dutyID": "ce9d5c8e-184e-4d8f-889b-8c0a2b333171",
       "dutyDetail": "Modify, repair, adjust and accurately fit optical appliances.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2bd7e2b3-25d8-4202-a27f-7b8201facf31",
         "0eb3e5e2-15d6-4d62-a47d-1f2add9e6abb",
@@ -769,7 +769,7 @@
     {
       "dutyID": "2a604f39-bc0a-4e65-a686-dc997f06b54b",
       "dutyDetail": "Ensures high and or complex prescriptions are managed and dispensed appropriately using knowledge of optical performance and production of the appliance to meet patients’ visual and aesthetic needs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "430f96d2-831e-4eb4-99a5-d50b3ed46090"
       ],
@@ -785,7 +785,7 @@
     {
       "dutyID": "869e50aa-2ab0-4ce4-a0c7-333a187731a9",
       "dutyDetail": "Advise on the safe and effective use of contact lenses and removal in an emergency.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2bd7e2b3-25d8-4202-a27f-7b8201facf31",
         "0eb3e5e2-15d6-4d62-a47d-1f2add9e6abb",
@@ -809,7 +809,7 @@
     {
       "dutyID": "6155b91b-d561-4f92-b8de-47c8ecea9037",
       "dutyDetail": "Identify patient conditions that need medical referral in a timely way, including when urgent or emergency attention is required.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2bd7e2b3-25d8-4202-a27f-7b8201facf31",
         "0eb3e5e2-15d6-4d62-a47d-1f2add9e6abb",
@@ -831,7 +831,7 @@
     {
       "dutyID": "f14cfbb8-30f2-470b-bc52-51d2ad2eed1f",
       "dutyDetail": "Advise patients on the use of common ophthalmic drugs to safely facilitate optometric examination and the diagnosis and or treatment of ocular disease.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2bd7e2b3-25d8-4202-a27f-7b8201facf31",
         "0eb3e5e2-15d6-4d62-a47d-1f2add9e6abb",
@@ -859,7 +859,7 @@
     {
       "dutyID": "c10e6b30-9f4b-416c-ad82-22151cba2bce",
       "dutyDetail": "Use verbal and non-verbal communication methods and techniques to overcome barriers and meet individuals’ preferences, needs and desired outcomes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2bd7e2b3-25d8-4202-a27f-7b8201facf31",
         "0eb3e5e2-15d6-4d62-a47d-1f2add9e6abb",
@@ -884,7 +884,7 @@
     {
       "dutyID": "050751e4-d6bc-431a-b628-e5a3265efe56",
       "dutyDetail": "Analyse and interpret the results of diagnostic tests, clinical investigations and assessments of eye health to determine an appropriate optical management plan.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2bd7e2b3-25d8-4202-a27f-7b8201facf31",
         "0eb3e5e2-15d6-4d62-a47d-1f2add9e6abb",
@@ -907,7 +907,7 @@
     {
       "dutyID": "0c7e1976-00ec-4050-bf5d-794620fd003b",
       "dutyDetail": "Maintain and further develop own skills and knowledge and contribute to the development of others by participating in appraisal and Continuing Professional Development (CPD).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2bd7e2b3-25d8-4202-a27f-7b8201facf31",
         "0eb3e5e2-15d6-4d62-a47d-1f2add9e6abb",
@@ -932,7 +932,7 @@
     {
       "dutyID": "1b3eb1cc-c32d-43ae-8ce5-ec1117fcf7a7",
       "dutyDetail": "Provide leadership and supervision for others in the multidisciplinary optical team.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2bd7e2b3-25d8-4202-a27f-7b8201facf31",
         "0eb3e5e2-15d6-4d62-a47d-1f2add9e6abb",
@@ -960,7 +960,7 @@
     {
       "dutyID": "415a56d0-bb1c-4e40-8cf7-a4746aa181c1",
       "dutyDetail": "Interpret patient histories and refractive and ocular motor status examination results to inform clinical decision making and care management plans.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "430f96d2-831e-4eb4-99a5-d50b3ed46090"
       ],
