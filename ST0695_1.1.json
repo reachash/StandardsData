@@ -252,7 +252,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-03-04T00:00:00 +00:00",
@@ -272,7 +272,7 @@
     "Section leader"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing, plant and process technologist",
@@ -297,7 +297,7 @@
     {
       "dutyID": "b7a4b94b-906d-4924-ad41-e4048a339b57",
       "dutyDetail": "Work autonomously as part of a wider production team to undertake and direct production activities, plant operations, maintenance and performance against KPIs. Provide technical or specialist input and direction to own team and to others.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "95b79c41-5926-4c73-92cd-59b31d4bfa9b",
         "746190f5-10a5-4f95-bd45-34e0bf18e595"
@@ -316,7 +316,7 @@
     {
       "dutyID": "dc341b78-dd3f-483a-90ec-82c6b4a718d2",
       "dutyDetail": "Manage resources effectively to ensure the efficient running of their department in line with organisational procedures and budgets.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "95b79c41-5926-4c73-92cd-59b31d4bfa9b",
         "4c530a95-300a-4728-b641-8c5a522042f0",
@@ -337,7 +337,7 @@
     {
       "dutyID": "1c1a3246-f153-4997-90a5-b26acd93be58",
       "dutyDetail": "Use KPIs as the basis of the continuous improvement cycle for quality, cost and volume, using lean, operational excellence and production improvement techniques.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4c530a95-300a-4728-b641-8c5a522042f0",
         "746190f5-10a5-4f95-bd45-34e0bf18e595"
@@ -354,7 +354,7 @@
     {
       "dutyID": "cb6bc0d7-f331-4d64-90bd-011ef7992516",
       "dutyDetail": "Undertake and manage quality resolutions as well as volume problem resolution.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6d949acf-a17a-49c1-bac4-edca3bb32a64",
         "746190f5-10a5-4f95-bd45-34e0bf18e595"
@@ -373,7 +373,7 @@
     {
       "dutyID": "9b4fd87b-792b-414a-8f75-70770e569766",
       "dutyDetail": "Manage health, safety and environment within their area of responsibility, ensuring staff are compliant with all requirements and driving improvements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b8944c75-791a-432e-9cff-bd3845a35bf0",
         "6d949acf-a17a-49c1-bac4-edca3bb32a64",
@@ -393,7 +393,7 @@
     {
       "dutyID": "aae0725c-fcab-4682-a5d1-b78110fba326",
       "dutyDetail": "Use project management tools to plan, organise and manage resources, monitor progress, identify risks and mitigation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4c530a95-300a-4728-b641-8c5a522042f0",
         "266cccc8-a19f-4235-835e-4abade7aabe2",
@@ -411,7 +411,7 @@
     {
       "dutyID": "34aafff9-26bc-4a37-8b19-8437108b33fe",
       "dutyDetail": "Develop, build and motivate team members as manage performance and industrial relations to achieve production, quality and cost targets.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "266cccc8-a19f-4235-835e-4abade7aabe2",
         "b8944c75-791a-432e-9cff-bd3845a35bf0",
@@ -433,7 +433,7 @@
     {
       "dutyID": "3e5a136d-03c6-4953-86ad-9047ca876d1a",
       "dutyDetail": "Provide clear direction and leadership to own team and others, giving open and honest feedback.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "95b79c41-5926-4c73-92cd-59b31d4bfa9b",
         "266cccc8-a19f-4235-835e-4abade7aabe2",
@@ -456,7 +456,7 @@
     {
       "dutyID": "2682ed76-df57-4234-b9dd-34677f4786e3",
       "dutyDetail": "Build and maintain strong relationships across different disciplines, to ensure that the activities of functions such as HR, purchasing, planning, finance focus on core production KPIs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4c530a95-300a-4728-b641-8c5a522042f0",
         "266cccc8-a19f-4235-835e-4abade7aabe2",
@@ -476,7 +476,7 @@
     {
       "dutyID": "73030ff1-63ac-4392-8bfb-ca077bb478a0",
       "dutyDetail": "Lead the communication of corporate vision and strategy to own team. Use data or information to create compelling presentations and drive management decisions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "266cccc8-a19f-4235-835e-4abade7aabe2",
         "b8944c75-791a-432e-9cff-bd3845a35bf0",
