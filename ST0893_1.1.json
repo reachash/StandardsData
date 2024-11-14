@@ -271,7 +271,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-11-09T00:00:00 +00:00",
@@ -289,7 +289,7 @@
     "Individuals undertaking this occupation must be registered with the Health and Care Professions Council as a clinical scientist (a protected title)"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Science",
   "cluster": "Science professional",
@@ -307,7 +307,7 @@
     {
       "dutyID": "bfb21f41-b9a6-4935-a00c-04154c8ae874",
       "dutyDetail": "Work autonomously, safely and effectively within the Health and Care Professions Council (HCPC) regulated standards of proficiency for practice for clinical scientists, take professional accountability for and understand the limitations of own practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ba9323fd-1637-4f84-b13a-5666c7f6b612",
         "8caae457-56ed-4651-8a4a-e51b46ea28e3",
@@ -337,7 +337,7 @@
     {
       "dutyID": "863e5af0-db71-422d-8879-c2e35c7c7c05",
       "dutyDetail": "Apply knowledge, relevant guidelines and judgement to complex clinical and scientific situations to inform decision making, and make decisions, as appropriate, to ensure effective patient-centred care.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ba9323fd-1637-4f84-b13a-5666c7f6b612",
         "8caae457-56ed-4651-8a4a-e51b46ea28e3",
@@ -364,7 +364,7 @@
     {
       "dutyID": "69ae0c64-eab6-4690-b261-eeecffe8ba6a",
       "dutyDetail": "Collect, process, analyse and critically evaluate raw data from a variety of sources in different forms in the context of clinical science and interpret the results to formulate a response which, for clinical practice/reporting data, takes into account the prevailing clinical and specialist scientific context.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "63cb162d-4d55-46b6-8f0b-b7411ee4306c"
       ],
@@ -389,7 +389,7 @@
     {
       "dutyID": "6860b92e-fcec-4019-800b-1c1223857a18",
       "dutyDetail": "Develop, optimise, evaluate, validate and verify new or existing scientific, technical, diagnostic, monitoring, treatment, therapeutic procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8caae457-56ed-4651-8a4a-e51b46ea28e3",
         "63cb162d-4d55-46b6-8f0b-b7411ee4306c"
@@ -417,7 +417,7 @@
     {
       "dutyID": "4fd33509-f0b1-4ce3-919a-b8c0cd30f4ae",
       "dutyDetail": "Instigate investigative techniques to solve problems and/or find the source of errors in a wide range of healthcare systems, devise and implement strategies to correct them and/or mitigate their effect where appropriate.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "63cb162d-4d55-46b6-8f0b-b7411ee4306c"
       ],
@@ -438,7 +438,7 @@
     {
       "dutyID": "a8b9341f-4575-4e64-a03e-4ed9ac9af8fc",
       "dutyDetail": "Utilise evidence-based practice to adapt and embed new methodologies in routine scientific or clinical practice to drive forward science improvements in healthcare.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "63cb162d-4d55-46b6-8f0b-b7411ee4306c"
       ],
@@ -466,7 +466,7 @@
     {
       "dutyID": "2f30a8fa-bd13-4eb8-9797-1df559f48648",
       "dutyDetail": "Communicate and/or explain information which may be complex, contentious or sensitive, effectively to a diverse range of audiences, including colleagues, service users and the public, taking into account relevant prior knowledge to further their understanding at a level appropriate to their needs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ba9323fd-1637-4f84-b13a-5666c7f6b612",
         "8caae457-56ed-4651-8a4a-e51b46ea28e3",
@@ -486,7 +486,7 @@
     {
       "dutyID": "d338b72c-912e-4857-a2b7-32a8b81bae79",
       "dutyDetail": "Adapt clinical and scientific practice to meet the needs of different groups and individuals.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ba9323fd-1637-4f84-b13a-5666c7f6b612",
         "8caae457-56ed-4651-8a4a-e51b46ea28e3"
@@ -509,7 +509,7 @@
     {
       "dutyID": "7c234aaf-f415-4993-96c6-6103f0b35a65",
       "dutyDetail": "Work effectively as part of a multidisciplinary team to ensure integrated patient-centred care.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ba9323fd-1637-4f84-b13a-5666c7f6b612",
         "8caae457-56ed-4651-8a4a-e51b46ea28e3",
@@ -532,7 +532,7 @@
     {
       "dutyID": "2e0ef214-9654-4d46-9a16-1261c52488f9",
       "dutyDetail": "Direct the management and further development of processes, systems and/or devices, to ensure continuous improvement, and their safe and effective use in the healthcare environment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ba9323fd-1637-4f84-b13a-5666c7f6b612",
         "63cb162d-4d55-46b6-8f0b-b7411ee4306c"
@@ -559,7 +559,7 @@
     {
       "dutyID": "2b8ddfc8-7bec-41a2-a7ad-6dc274a01824",
       "dutyDetail": "Design, implement, maintain and apply quality control and assurance techniques across clinical, scientific and technological activities across the healthcare environment, to ensure that a given intervention is fit for purpose.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "63cb162d-4d55-46b6-8f0b-b7411ee4306c"
       ],
@@ -584,7 +584,7 @@
     {
       "dutyID": "a1eace23-1bdb-4243-b007-61d9ce0ea212",
       "dutyDetail": "Design, lead and undertake research and development projects and communicate results and conclusions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "63cb162d-4d55-46b6-8f0b-b7411ee4306c",
         "e4ea36e4-53e0-4167-a095-0ff80645869d"
@@ -616,7 +616,7 @@
     {
       "dutyID": "50c76cbd-83a7-45d9-a5f9-c8b42ddaee7e",
       "dutyDetail": "Supervise, train and/or lead others in own area of practice as appropriate, including setting and monitoring outcomes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8caae457-56ed-4651-8a4a-e51b46ea28e3",
         "e4ea36e4-53e0-4167-a095-0ff80645869d"
@@ -640,7 +640,7 @@
     {
       "dutyID": "bb62c867-84aa-4758-bf40-8e668fd6f65f",
       "dutyDetail": "Establish, maintain and promote a safe and sustainable working environment conducive to safe clinical and scientific practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ba9323fd-1637-4f84-b13a-5666c7f6b612",
         "8caae457-56ed-4651-8a4a-e51b46ea28e3",
@@ -666,7 +666,7 @@
     {
       "dutyID": "925aa167-6ede-4e95-83dc-4aa1cb1ad6e5",
       "dutyDetail": "Drive service improvements and innovation, including effective use of resources and identification and implementation of change management initiatives, to ensure sustained optimal delivery of current and future clinical scientific services.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "63cb162d-4d55-46b6-8f0b-b7411ee4306c"
       ],
@@ -694,7 +694,7 @@
     {
       "dutyID": "3eeb82ef-4320-4b2f-bf49-9a183e34508c",
       "dutyDetail": "Record, maintain and handle clinical and scientific results and information, ensuring accuracy, integrity and security.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ba9323fd-1637-4f84-b13a-5666c7f6b612"
       ],
@@ -714,7 +714,7 @@
     {
       "dutyID": "0f8b6c3e-ffbb-4804-868c-c129e0a06f35",
       "dutyDetail": "Use continuing professional development (CPD), as required, for HCPC registration.  Keep up to date and engage with current research and evidence-based practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ba9323fd-1637-4f84-b13a-5666c7f6b612",
         "63cb162d-4d55-46b6-8f0b-b7411ee4306c"
