@@ -554,7 +554,7 @@
     "Registered nurse (mental health)"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
   "cluster": "Midwifery and nursing professional",
@@ -596,7 +596,7 @@
     {
       "dutyID": "0471dba5-d57f-4d28-a998-5b19c644e3f1",
       "dutyDetail": "Be an accountable professional acting in the best interests of people, putting them first and providing nursing care that is person-centred, safe and compassionate.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "38e4b458-e81d-42df-985b-dd4f1854e7b2",
         "31aa27c2-da89-4969-b32d-e4cb2872aaa7",
@@ -623,7 +623,7 @@
     {
       "dutyID": "ab64ff99-9a39-4ec9-adc5-8fa71bd18a87",
       "dutyDetail": "Communicate effectively, act as a role models for others and be accountable for their own actions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "38e4b458-e81d-42df-985b-dd4f1854e7b2",
         "31aa27c2-da89-4969-b32d-e4cb2872aaa7",
@@ -649,7 +649,7 @@
     {
       "dutyID": "9c876a05-98c5-4525-96b9-e66269411c99",
       "dutyDetail": "Promote health and prevent ill-health to improve and maintain the mental, physical and behavioural health and well-being of people, families, communities and populations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "38e4b458-e81d-42df-985b-dd4f1854e7b2",
         "31aa27c2-da89-4969-b32d-e4cb2872aaa7",
@@ -678,7 +678,7 @@
     {
       "dutyID": "ccc3c91e-3090-4ba5-ae07-8b5a5875622b",
       "dutyDetail": "Assess individuals nursing care needs and plan care using information obtained during assessments to identify the priorities and requirements for person-centred and evidence-based nursing interventions and support.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "38e4b458-e81d-42df-985b-dd4f1854e7b2",
         "31aa27c2-da89-4969-b32d-e4cb2872aaa7",
@@ -710,7 +710,7 @@
     {
       "dutyID": "299a5d34-e0f1-4f27-bb35-4e85a621b796",
       "dutyDetail": "Provide and evaluate nursing care to individuals and groups taking the lead in providing evidence based, compassionate and safe nursing interventions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "38e4b458-e81d-42df-985b-dd4f1854e7b2",
         "31aa27c2-da89-4969-b32d-e4cb2872aaa7",
@@ -750,7 +750,7 @@
     {
       "dutyID": "b055a2c9-d82f-467c-8d5d-b32044dbae45",
       "dutyDetail": "Improve safety of care by assessing risks to safety or experience and take appropriate action to manage those, putting the best interests, needs and preferences of people first.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "38e4b458-e81d-42df-985b-dd4f1854e7b2",
         "31aa27c2-da89-4969-b32d-e4cb2872aaa7",
@@ -777,7 +777,7 @@
     {
       "dutyID": "0860d22b-e2ee-4f0e-bff1-5553034ff0f7",
       "dutyDetail": "Improve quality of care by making a key contribution to the continuous monitoring and quality improvement of care and treatment in order to enhance health outcomes and people’s experience of nursing and related care.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "38e4b458-e81d-42df-985b-dd4f1854e7b2",
         "31aa27c2-da89-4969-b32d-e4cb2872aaa7",
@@ -798,7 +798,7 @@
     {
       "dutyID": "5af2ecc3-2fed-45da-8119-e7261ac8471b",
       "dutyDetail": "Provide professional leadership in the coordination and management of complex nursing and integrated care needs of people at any stage of their lives, across a range of organisations and settings.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "38e4b458-e81d-42df-985b-dd4f1854e7b2",
         "31aa27c2-da89-4969-b32d-e4cb2872aaa7",
@@ -828,7 +828,7 @@
     {
       "dutyID": "9518c168-322b-4704-af90-34ba8beb7794",
       "dutyDetail": "Lead nursing care, taking responsibility for managing nursing care and accountability for the appropriate delegation and supervision of care provided by others in the team including lay carers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "38e4b458-e81d-42df-985b-dd4f1854e7b2",
         "31aa27c2-da89-4969-b32d-e4cb2872aaa7",
@@ -850,7 +850,7 @@
     {
       "dutyID": "2f22283c-c0b9-4bea-bab3-209f5cbcadd1",
       "dutyDetail": "Work in teams, collaborating and communicating effectively with a range of colleagues.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "38e4b458-e81d-42df-985b-dd4f1854e7b2",
         "31aa27c2-da89-4969-b32d-e4cb2872aaa7",
