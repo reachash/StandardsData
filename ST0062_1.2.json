@@ -408,7 +408,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2017-06-06T00:00:00 +00:00",
@@ -429,7 +429,7 @@
     "Mechanical services fitter"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Building Services Engineering",
   "cluster": "Building services engineering operative or technician",
@@ -447,7 +447,7 @@
     {
       "dutyID": "1334fc77-e22f-4225-9f72-2fa580a98cc6",
       "dutyDetail": "Comply with health, safety, and environmental regulations; building regulations; industry guidance notes and relevant codes of practice",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7f8ad4c7-eef8-4e64-9356-098a6aa09a8e",
         "a8e81daf-d63d-47d6-a16e-f758b3c3b371",
@@ -497,7 +497,7 @@
     {
       "dutyID": "f5b2ee67-a6bf-4706-aaef-f73690595e44",
       "dutyDetail": "Plan, and organise to undertake the installation of systems in ways which use resources effectively to complete work, with consideration for material, quality, safety, security and environmental impact, within relevant legislative requirements, codes of practice and industry recognised practices",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a8e81daf-d63d-47d6-a16e-f758b3c3b371",
         "689d7a2e-9afe-43b1-bf62-52c1330e7267",
@@ -533,7 +533,7 @@
     {
       "dutyID": "7d8120c4-394e-446d-bcdc-c8db2c10e022",
       "dutyDetail": "Prepare work areas in both new or existing sites to undertake building services engineering installation, ensuring safe and is maintained; materials, tools and equipment are stored and positioned safely and to allow efficient workflow",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "a9d341ae-a642-4f73-8d8f-b482761eaf4b",
@@ -558,7 +558,7 @@
     {
       "dutyID": "b95bc1af-b174-4fd1-8635-0cad4fbe26a2",
       "dutyDetail": "Apply pipework fabrication and jointing techniques for example prefabricated, modularised components or distribution systems",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "689d7a2e-9afe-43b1-bf62-52c1330e7267",
         "df67719d-d74a-4b28-a764-c82d0358952a"
@@ -588,7 +588,7 @@
     {
       "dutyID": "a699bcc2-c005-4ef2-a221-427bc568a174",
       "dutyDetail": "Identify improvements in the installation against the design. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "689d7a2e-9afe-43b1-bf62-52c1330e7267",
         "df67719d-d74a-4b28-a764-c82d0358952a"
@@ -616,7 +616,7 @@
     {
       "dutyID": "58b3d367-a544-44ea-bcb2-f006fec06915",
       "dutyDetail": "Apply installation, testing, pre-commissioning, commissioning and decommissioning techniques for including cold water systems; hot water systems, heating systems, chilled water systems",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a76ad411-63d8-4865-8f95-c4b5f10ea4ed"
       ],
@@ -664,7 +664,7 @@
     {
       "dutyID": "601b9b8d-c111-4af8-aa46-b0ede5d7902f",
       "dutyDetail": "Instruct, communicate and liaise with own project team, and those in other teams, such as clients or specialist contractors, and with stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "689d7a2e-9afe-43b1-bf62-52c1330e7267",
         "df67719d-d74a-4b28-a764-c82d0358952a"
@@ -700,7 +700,7 @@
     {
       "dutyID": "d6a48e4f-b815-4cc6-bf5a-831595e2e8ed",
       "dutyDetail": "Ensure that work area is restored to a safe condition, to prescribed standards of cleanliness on completion of installation work",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "a9d341ae-a642-4f73-8d8f-b482761eaf4b",
@@ -726,7 +726,7 @@
     {
       "dutyID": "0b5fa7e5-8412-44dd-b3a9-7963b3016276",
       "dutyDetail": "Prepare and complete relevant work documentation, and handover stages in accordance with organisation policy and procedures and any other relevant information and guidance",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "c324416c-d6c4-49b9-8341-7c6b5470eec6",
@@ -755,7 +755,7 @@
     {
       "dutyID": "992cbdbc-ea9a-41d9-9b33-eb22975f023a",
       "dutyDetail": "Plan and project manage building engineering services work to ensure quality of outcomes",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a8e81daf-d63d-47d6-a16e-f758b3c3b371",
         "a76ad411-63d8-4865-8f95-c4b5f10ea4ed",
@@ -805,7 +805,7 @@
     {
       "dutyID": "5590e1ad-238f-406e-9d3d-ac2333d7ce9d",
       "dutyDetail": "Develop and maintain skills in using a range of practical and workshop skills",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b8e33ac1-14a5-4969-8c05-56717b5d95a8"
       ],
