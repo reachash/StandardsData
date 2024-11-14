@@ -213,7 +213,7 @@
     "Statistician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Science",
   "cluster": "Science professional",
@@ -240,7 +240,7 @@
     {
       "dutyID": "2ddfd071-2b0f-4f88-a8ec-aa542de13e13",
       "dutyDetail": "Lead on the statistical design of medical trials and research projects.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "31738746-5148-4632-b135-eb71e9d5a2cd",
         "f1f6c49a-8de4-420f-afe3-7cbf745c48a3",
@@ -269,7 +269,7 @@
     {
       "dutyID": "0b45b8b3-f0ad-47f3-a0a6-fc703e071cab",
       "dutyDetail": "Calculate appropriate sample size in medical research to answer the medical research question of interest. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d5f540f6-eb56-49dd-912f-6da9994c2bf0",
         "3dcfa2dc-bc5f-4bdc-84cc-fca8422aa26a"
@@ -288,7 +288,7 @@
     {
       "dutyID": "693a031c-5100-4fca-b03e-78f238d8e1d3",
       "dutyDetail": "Produce technical writing in medical research",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d5f540f6-eb56-49dd-912f-6da9994c2bf0",
         "f5955d73-ecda-4a68-9163-20f4c96f0636"
@@ -311,7 +311,7 @@
     {
       "dutyID": "2c748cdb-88e3-40d1-8391-edb205448bad",
       "dutyDetail": "Plan, oversee and perform data collection and selection of endpoints/variables in medical research for the therapeutic/disease area of interest.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "31738746-5148-4632-b135-eb71e9d5a2cd",
         "f1f6c49a-8de4-420f-afe3-7cbf745c48a3"
@@ -332,7 +332,7 @@
     {
       "dutyID": "233ea154-8d17-404d-82a7-54c3372752f9",
       "dutyDetail": "Select and apply statistical methods applicable for medical research and interpret results",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d5f540f6-eb56-49dd-912f-6da9994c2bf0"
       ],
@@ -353,7 +353,7 @@
     {
       "dutyID": "34696676-b7ad-4d65-ad3e-324ba821d051",
       "dutyDetail": "Carry out data visualisation for reporting of medical research: ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d5f540f6-eb56-49dd-912f-6da9994c2bf0"
       ],
@@ -370,7 +370,7 @@
     {
       "dutyID": "0d97531f-ca3f-460d-8a91-d4dcdd87e227",
       "dutyDetail": "Critically review medical scientific literature and contribute to ongoing medical research publications ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f5955d73-ecda-4a68-9163-20f4c96f0636"
       ],
@@ -390,7 +390,7 @@
     {
       "dutyID": "18a36d1f-cd85-4420-88db-b0510c277ccc",
       "dutyDetail": "Lead, support and advise on statistical aspects of trials or studies. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "31738746-5148-4632-b135-eb71e9d5a2cd",
         "f1f6c49a-8de4-420f-afe3-7cbf745c48a3",
@@ -426,7 +426,7 @@
     {
       "dutyID": "e1ad40cf-110f-412d-bc0d-9a9dedd5137d",
       "dutyDetail": "Effectively communicate the results from both basic and advanced statistical methods used in medical research",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "31738746-5148-4632-b135-eb71e9d5a2cd",
         "f1f6c49a-8de4-420f-afe3-7cbf745c48a3",
@@ -453,7 +453,7 @@
     {
       "dutyID": "64063144-3513-4e8a-9dfb-9233276c6103",
       "dutyDetail": "Develop self and others through demonstration of best practice by effective coaching, mentoring, teaching and training.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "31738746-5148-4632-b135-eb71e9d5a2cd",
         "f1f6c49a-8de4-420f-afe3-7cbf745c48a3",
