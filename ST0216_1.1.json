@@ -290,7 +290,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-05-19T00:00:00 +00:00",
@@ -312,7 +312,7 @@
     "Support Worker"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
   "cluster": "Health assistant",
@@ -330,7 +330,7 @@
     {
       "dutyID": "bbd90722-1890-408a-ab00-6278ea7922e0",
       "dutyDetail": "Act within the limits of own competence and within agreed ways of working, following the relevant local and national standards, policies and protocols used in the workplace ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e70f61c4-0db5-4a09-b1e9-e4a5dc36abf9",
         "5d6a106d-bd75-4f14-9239-92d82788ec2d",
@@ -354,7 +354,7 @@
     {
       "dutyID": "77276615-20bd-462b-af41-b75a8a68782e",
       "dutyDetail": "Monitor the health and well-being of individuals in your care",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e70f61c4-0db5-4a09-b1e9-e4a5dc36abf9",
         "5d6a106d-bd75-4f14-9239-92d82788ec2d",
@@ -380,7 +380,7 @@
     {
       "dutyID": "32b6b822-71e9-41c8-8618-253a1742775f",
       "dutyDetail": "Assist individuals to maximise their independence ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e70f61c4-0db5-4a09-b1e9-e4a5dc36abf9",
         "5d6a106d-bd75-4f14-9239-92d82788ec2d",
@@ -400,7 +400,7 @@
     {
       "dutyID": "0ad734e8-0bd1-4ca1-973f-d2639f9d4bf5",
       "dutyDetail": "Contribute to the daily running and administration of an effective and efficient service or team",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e70f61c4-0db5-4a09-b1e9-e4a5dc36abf9",
         "5d6a106d-bd75-4f14-9239-92d82788ec2d",
@@ -422,7 +422,7 @@
     {
       "dutyID": "536c0ae1-70f0-4d98-bf45-80d005bf8bbf",
       "dutyDetail": "Use communication methods and techniques to overcome barriers and meet individuals’ wishes, preferences and needs",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e70f61c4-0db5-4a09-b1e9-e4a5dc36abf9",
         "5d6a106d-bd75-4f14-9239-92d82788ec2d",
@@ -442,7 +442,7 @@
     {
       "dutyID": "d767b805-8032-402a-87c8-ab3afab0ac6a",
       "dutyDetail": "Promote the health and wellbeing of individuals ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e70f61c4-0db5-4a09-b1e9-e4a5dc36abf9",
         "5d6a106d-bd75-4f14-9239-92d82788ec2d",
@@ -460,7 +460,7 @@
     {
       "dutyID": "011dbf72-3053-4eb4-9a01-a0014faebe4b",
       "dutyDetail": "Record, report and store information related to individuals ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e70f61c4-0db5-4a09-b1e9-e4a5dc36abf9",
         "5d6a106d-bd75-4f14-9239-92d82788ec2d",
@@ -480,7 +480,7 @@
     {
       "dutyID": "67067279-0ee1-40f9-9183-759b27df8c14",
       "dutyDetail": "Maintain own and others’ safety at work ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e70f61c4-0db5-4a09-b1e9-e4a5dc36abf9",
         "5d6a106d-bd75-4f14-9239-92d82788ec2d",
@@ -502,7 +502,7 @@
     {
       "dutyID": "4c52d102-966a-4613-9755-d577de57e604",
       "dutyDetail": "Maintain and further develop your own skills and knowledge ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e70f61c4-0db5-4a09-b1e9-e4a5dc36abf9",
         "5d6a106d-bd75-4f14-9239-92d82788ec2d",
@@ -524,7 +524,7 @@
     {
       "dutyID": "d0d4abc3-b467-4d72-9f57-9a1ee85fb1ca",
       "dutyDetail": "Contribute to the quality of services by participating in improvement activities",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e70f61c4-0db5-4a09-b1e9-e4a5dc36abf9",
         "5d6a106d-bd75-4f14-9239-92d82788ec2d",
