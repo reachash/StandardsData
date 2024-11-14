@@ -340,7 +340,7 @@
     "Chartered legal executive lawyer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Legal",
   "cluster": "Legal professional or lawyer",
@@ -374,7 +374,7 @@
     {
       "dutyID": "dd0f6e64-fdce-4298-8179-71c55c125b22",
       "dutyDetail": "take instructions from clients, gather an understanding of client need and explain the risks and benefits of options available and proposed next steps",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6340f549-a9b8-4761-8741-6726d7ff2271",
         "9b0b3d7c-02b7-45c1-ab0f-9e718dddfb3f",
@@ -402,7 +402,7 @@
     {
       "dutyID": "cd0355b9-3eec-482c-aa3c-3a9b86c1a79f",
       "dutyDetail": "set out legal research strategies, conduct legal research using a range of approaches and sources and provide analysis of outcomes to stakeholders",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6340f549-a9b8-4761-8741-6726d7ff2271"
       ],
@@ -425,7 +425,7 @@
     {
       "dutyID": "f78b8f89-4fed-4480-9a36-15f8b003bc03",
       "dutyDetail": "review and analyse documents and data to identify key facts and evidence and form judgements on the quality of evidence and any gaps or contradictions",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6340f549-a9b8-4761-8741-6726d7ff2271"
       ],
@@ -448,7 +448,7 @@
     {
       "dutyID": "ec537e11-4c9d-484e-ae74-e2d6b85efe06",
       "dutyDetail": "apply findings from legal research to inform casework and decision-making strategies",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6340f549-a9b8-4761-8741-6726d7ff2271",
         "a3ac9743-1d39-42ed-8ef2-849fb16a71d5"
@@ -476,7 +476,7 @@
     {
       "dutyID": "b8d31171-62d0-43fd-b668-ecb64114567f",
       "dutyDetail": "analyse and evaluate data and information to inform strategies and decision-making in legal casework",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6340f549-a9b8-4761-8741-6726d7ff2271",
         "a3ac9743-1d39-42ed-8ef2-849fb16a71d5",
@@ -506,7 +506,7 @@
     {
       "dutyID": "5d801533-ec2b-4e27-af78-1cbb3129cf6f",
       "dutyDetail": "make decisions in legal matters based on legal principles or the rule of law and within all legal and regulatory requirements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6340f549-a9b8-4761-8741-6726d7ff2271",
         "a3ac9743-1d39-42ed-8ef2-849fb16a71d5",
@@ -536,7 +536,7 @@
     {
       "dutyID": "562ac56f-e7fe-4512-ab34-de36f26d5236",
       "dutyDetail": "provide ethical legal advice to clients appropriate to their circumstances and objectives ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6340f549-a9b8-4761-8741-6726d7ff2271",
         "9b0b3d7c-02b7-45c1-ab0f-9e718dddfb3f",
@@ -572,7 +572,7 @@
     {
       "dutyID": "56b3a8a4-4c9f-4a7d-a424-9f2e04fc58db",
       "dutyDetail": "communicate with a range of stakeholders including clients selecting the most appropriate approach and tools",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6340f549-a9b8-4761-8741-6726d7ff2271",
         "9b0b3d7c-02b7-45c1-ab0f-9e718dddfb3f",
@@ -610,7 +610,7 @@
     {
       "dutyID": "a4c1ae14-260e-408c-8a2c-e083ace15ac9",
       "dutyDetail": "present visualisations of data and information to communicate solutions to clients and stakeholders   ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6340f549-a9b8-4761-8741-6726d7ff2271",
         "a3ac9743-1d39-42ed-8ef2-849fb16a71d5",
@@ -633,7 +633,7 @@
     {
       "dutyID": "705a9c31-7af5-41d5-86ee-f79c585099f7",
       "dutyDetail": "draft and produce legal documents within a template format and bespoke",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6340f549-a9b8-4761-8741-6726d7ff2271"
       ],
@@ -656,7 +656,7 @@
     {
       "dutyID": "4620552a-b0c3-4fbc-ad6a-f66cea36c51b",
       "dutyDetail": "advocate and negotiate on behalf of clients in legal matters",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6340f549-a9b8-4761-8741-6726d7ff2271",
         "9b0b3d7c-02b7-45c1-ab0f-9e718dddfb3f",
@@ -685,7 +685,7 @@
     {
       "dutyID": "b61140a7-e0ce-46ab-86a2-3f7fa6125246",
       "dutyDetail": "undertake risk and compliance activities in regard to anti-money laundering regulations and due diligence and ensure compliance",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6340f549-a9b8-4761-8741-6726d7ff2271",
         "bc228456-0166-49ef-a7ae-40f207cb34f2",
@@ -714,7 +714,7 @@
     {
       "dutyID": "ca0cc572-0ad2-472b-8b2f-108a76212c4e",
       "dutyDetail": "undertake \"Know Your Customer\" activities to ensure that the service being provided is the most effective and appropriate to their circumstances ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6340f549-a9b8-4761-8741-6726d7ff2271",
         "9b0b3d7c-02b7-45c1-ab0f-9e718dddfb3f",
@@ -759,7 +759,7 @@
     {
       "dutyID": "9b7e5404-0ff9-4999-ba0c-b520610f751a",
       "dutyDetail": "manage and apply financial information to caseloads to deliver outputs that are value for money and support customer or organisational objectives",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c477f63-1e41-4915-a68c-a906888b90d6",
         "a3ac9743-1d39-42ed-8ef2-849fb16a71d5",
@@ -796,7 +796,7 @@
     {
       "dutyID": "ff692051-c738-4c42-9c69-4e9862031d32",
       "dutyDetail": "manage caseload in line with organisational approaches and ensure commerciality of activities is considered throughout",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c477f63-1e41-4915-a68c-a906888b90d6",
         "95e6a0b8-fadf-47af-bfc9-5ae57d18b536",
@@ -835,7 +835,7 @@
     {
       "dutyID": "241a1ffe-fcb1-4959-8583-13320b23f148",
       "dutyDetail": "source, handle and store confidential and sensitive information and digital data safely and securely ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c477f63-1e41-4915-a68c-a906888b90d6",
         "95e6a0b8-fadf-47af-bfc9-5ae57d18b536"
@@ -859,7 +859,7 @@
     {
       "dutyID": "bd1010c3-77bf-44e5-ab9a-04300549945c",
       "dutyDetail": "deliver legal services using digital technology safely and securely to protect the organisation from cyber security risks and reputational harm with an awareness of benefits and risks to the organisation and clients ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c477f63-1e41-4915-a68c-a906888b90d6",
         "95e6a0b8-fadf-47af-bfc9-5ae57d18b536",
@@ -894,7 +894,7 @@
     {
       "dutyID": "6e84113e-91ad-4bb1-8a3d-2dbc722b4c8d",
       "dutyDetail": "undertake legal tasks with commercial impact and resource management in view",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c477f63-1e41-4915-a68c-a906888b90d6",
         "95e6a0b8-fadf-47af-bfc9-5ae57d18b536",
@@ -930,7 +930,7 @@
     {
       "dutyID": "5b428186-c40b-4b35-8e41-fdff2abd4b60",
       "dutyDetail": "provide technical advice and support to technical and non-technical colleagues including peer review of case work",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a3ac9743-1d39-42ed-8ef2-849fb16a71d5",
         "95e6a0b8-fadf-47af-bfc9-5ae57d18b536",
@@ -964,7 +964,7 @@
     {
       "dutyID": "bcd93d92-a6e9-45fd-96d9-049429c088e5",
       "dutyDetail": "provide legal services in line with Regulatory requirements regarding Ethics Conduct and Professionalism including working with regard to Equality, Diversity and Inclusion ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6340f549-a9b8-4761-8741-6726d7ff2271",
         "a3ac9743-1d39-42ed-8ef2-849fb16a71d5",
@@ -1016,7 +1016,7 @@
     {
       "dutyID": "a8d270df-b455-444d-9cdb-d553cdba129c",
       "dutyDetail": "maintain professional standards by undertaking continuous professional development activities",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6340f549-a9b8-4761-8741-6726d7ff2271",
         "9b0b3d7c-02b7-45c1-ab0f-9e718dddfb3f",
