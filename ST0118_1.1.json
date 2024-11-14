@@ -206,7 +206,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-03-23T00:00:00 +00:00",
@@ -230,7 +230,7 @@
   "greenJobTitles": [
     "Energy Data Analyst"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Business Services",
   "cluster": "Data analyst advanced technician",
@@ -248,7 +248,7 @@
     {
       "dutyID": "a52734e7-832e-4532-9390-1a6bd0544128",
       "dutyDetail": "Identify data sources to meet the organisation's requirement, using evidence-based decision making to establish a rationale for inclusion and exclusion of various data sets and models",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "105b45ea-4b76-4da8-9106-57041eed8889",
         "d9a719e2-ae60-4dbf-9ccb-ee5b25b1666c",
@@ -283,7 +283,7 @@
     {
       "dutyID": "b63ebc70-65b6-4314-92c0-0923ec5c7d57",
       "dutyDetail": "Liaise with the client and colleagues from other areas of the organisation to establish reporting needs and deliver insightful and accurate information",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "73baabb8-3d0e-43b3-9027-57f929cc37b4",
         "d9a719e2-ae60-4dbf-9ccb-ee5b25b1666c",
@@ -319,7 +319,7 @@
     {
       "dutyID": "2dc1ade0-9aa8-413d-8d73-5c7d004c46cb",
       "dutyDetail": "Collect, compile and, if needed, cleanse data, such as sales figures, Digital Twins etc. solving any problems that arise, to or from a range of internal and external systems",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "73baabb8-3d0e-43b3-9027-57f929cc37b4",
         "105b45ea-4b76-4da8-9106-57041eed8889",
@@ -361,7 +361,7 @@
     {
       "dutyID": "7fb88743-d798-45c6-a53d-00b35a5d4c55",
       "dutyDetail": "Produce performance dashboards and reports in the Visualisation and Model Building Phase",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "105b45ea-4b76-4da8-9106-57041eed8889",
         "d9a719e2-ae60-4dbf-9ccb-ee5b25b1666c",
@@ -405,7 +405,7 @@
     {
       "dutyID": "726cbc3c-6311-4eb7-a0c1-e673af0ed487",
       "dutyDetail": "Support the organisation by maintaining and developing reports for analysis to aid with decisions, and adhering to organisational policy/legislation",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "73baabb8-3d0e-43b3-9027-57f929cc37b4",
         "105b45ea-4b76-4da8-9106-57041eed8889",
@@ -436,7 +436,7 @@
     {
       "dutyID": "e38de336-835d-46c4-9915-0fd42976f56c",
       "dutyDetail": "Produce a range of standard and non standard statistical and data analysis reports in the Model Building phase",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "105b45ea-4b76-4da8-9106-57041eed8889",
         "d9a719e2-ae60-4dbf-9ccb-ee5b25b1666c",
@@ -477,7 +477,7 @@
     {
       "dutyID": "4dcfd214-a210-4007-8eb5-c646714acd3f",
       "dutyDetail": "Identify, analyse, and interpret trends or patterns in data sets",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "105b45ea-4b76-4da8-9106-57041eed8889",
         "d9a719e2-ae60-4dbf-9ccb-ee5b25b1666c",
@@ -517,7 +517,7 @@
     {
       "dutyID": "e5ee39c9-c65e-43f1-a9bc-ac362fe1f3e5",
       "dutyDetail": "Draw conclusions and recommend an appropriate response, offer guidance or interpretation to aid understanding of the data ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "105b45ea-4b76-4da8-9106-57041eed8889",
         "d9a719e2-ae60-4dbf-9ccb-ee5b25b1666c",
@@ -552,7 +552,7 @@
     {
       "dutyID": "2a2a4955-d91b-4b07-8939-a29f2ca649fa",
       "dutyDetail": "Summarise and present the results of data analysis to a range of stakeholders, making recommendations",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "73baabb8-3d0e-43b3-9027-57f929cc37b4",
         "d9a719e2-ae60-4dbf-9ccb-ee5b25b1666c",
@@ -588,7 +588,7 @@
     {
       "dutyID": "42cfe633-337c-4cfd-accd-23934f207f60",
       "dutyDetail": "Provide regular reports and analysis to different management or leadership teams, ensuring data is used and represented ethically in line with relevant legislation (e.g. GDPR which incorporates Privacy by Design).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d9a719e2-ae60-4dbf-9ccb-ee5b25b1666c",
         "98a77de1-e7b5-4b37-8b7d-a74b35983844",
@@ -625,7 +625,7 @@
     {
       "dutyID": "58319d6b-f820-4f50-8147-e1b3a87848c7",
       "dutyDetail": "Ensure data is appropriately stored and archived, in line with relevant legislation e.g. GDPR",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "73baabb8-3d0e-43b3-9027-57f929cc37b4",
         "d9a719e2-ae60-4dbf-9ccb-ee5b25b1666c",
@@ -652,7 +652,7 @@
     {
       "dutyID": "9f3794fd-3c26-499c-80fd-d0833d4ce7a5",
       "dutyDetail": "Practice continuous self learning to keep up to date with technological developments to enhance relevant skills and take responsibility for own professional development",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "73baabb8-3d0e-43b3-9027-57f929cc37b4",
         "105b45ea-4b76-4da8-9106-57041eed8889",
