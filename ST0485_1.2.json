@@ -214,7 +214,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-04-23T00:00:00 +00:00",
@@ -233,10 +233,10 @@
     "Telecoms cable installer,"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Support and Services",
-  "cluster": "IT support and services technician",
+  "cluster": "IT Support and Services Technician",
   "clusterId": "187",
   "clusterDescription": "Help internal and external customers to install and use IT technology along with trouble - shooting their problems. Skills are developed across IT security and data management",
   "createdDate": "2024-07-18T15:08:11 +00:00",
@@ -258,7 +258,7 @@
     {
       "dutyID": "91fbe0e1-66b5-4b04-9d6d-89e78ce89c82",
       "dutyDetail": "Install cables to inter-connect communicating devices such as computers, scanners and printers to servers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "910da977-d6c0-4b32-a822-bedbbd5e2d75",
@@ -279,7 +279,7 @@
     {
       "dutyID": "8d04d8c1-3380-49bb-baa1-7e45ddfc9963",
       "dutyDetail": "Interpret detailed project plans to construct and fix network equipment cabinets. Prepare cable pathways and install cable support and containment systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "bf11e055-d0cd-45e0-89f7-2c30d214b107"
@@ -294,7 +294,7 @@
     {
       "dutyID": "f81e7755-b082-4053-9cd9-aafe102ea67a",
       "dutyDetail": "Install network equipment in cabinets, in accordance with manufacturer’s specifications including routers, switches, power over ethernet , internet of things , wi-fi, smart buildings and wide area network equipment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "910da977-d6c0-4b32-a822-bedbbd5e2d75",
@@ -313,7 +313,7 @@
     {
       "dutyID": "60fd332f-2d5f-4c96-bdc1-dfa3424c0298",
       "dutyDetail": "Undertake performance-based testing and provision of certification to the customer. During the lifespan of the network, carry out maintenance where faults have occurred.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "bd687688-cb3c-4c34-8758-e59caf742bd8",
@@ -334,7 +334,7 @@
     {
       "dutyID": "7a957225-d5aa-456a-9d21-e4f383b77812",
       "dutyDetail": "Exercise responsibility for the safety of themselves as well as anybody in the local area who could be affected by their actions. Takes responsibility to keep area clean and tidy to minimise risks to themselves and other.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a291e05f-2196-40f3-8560-5151e7c5f968",
         "ab6c42e5-e932-47ab-9c6b-afc9fdef47ae"
@@ -361,7 +361,7 @@
     {
       "dutyID": "5a04f9c6-8796-4d60-b5ad-5171d6bc0dfd",
       "dutyDetail": "Exercise responsibility for the care and maintenance of a wide range of specialist tools, ensuring that equipment is serviceable and always in calibration.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ab6c42e5-e932-47ab-9c6b-afc9fdef47ae"
       ],
@@ -381,7 +381,7 @@
     {
       "dutyID": "ae1064b4-d014-4b41-9f32-2c9fb23e4d67",
       "dutyDetail": "Use a wide variety of both hand and power tools.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ab6c42e5-e932-47ab-9c6b-afc9fdef47ae"
       ],
@@ -404,7 +404,7 @@
     {
       "dutyID": "cc800c9c-73d0-4cc7-80df-f47a5767c70b",
       "dutyDetail": "Use workforce management systems for a range of workflow activities as well as personal time and attendance tracking.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a291e05f-2196-40f3-8560-5151e7c5f968",
         "97c4c143-187b-4f90-bd92-a648be208fd9"
@@ -423,7 +423,7 @@
     {
       "dutyID": "7a92aaa0-cff8-492d-b2ba-131b85febdc9",
       "dutyDetail": "Conduct work in an environmentally safe manner, minimising and recycling waste correctly in accordance with company policies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ab6c42e5-e932-47ab-9c6b-afc9fdef47ae",
         "5d267ee4-5275-4d70-b47b-1868e926ee6a"
@@ -449,7 +449,7 @@
     {
       "dutyID": "94f27a55-5109-4057-b3bb-eb287a193842",
       "dutyDetail": "Consider emerging technologies effects on media selection, installation practices and additional testing requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "b462a495-0043-4e4c-b890-7c2937d6c1c3"
@@ -461,7 +461,7 @@
     {
       "dutyID": "cd52789a-8441-45bc-93e5-2ab07c9c2c70",
       "dutyDetail": "Comply with cyber security principles for the maintenance of confidentiality, integrity and availability of data.   ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "cefe451c-b8f0-4bef-8817-b3f7030c97f6",
@@ -476,7 +476,7 @@
     {
       "dutyID": "cc4814ac-4559-4fcd-9e03-42598398cb31",
       "dutyDetail": "Deliver high quality and consistent levels of customer service. Work diligently to accurately interpret customer requirements and endeavour to meet high quality standards.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a291e05f-2196-40f3-8560-5151e7c5f968",
         "ab6c42e5-e932-47ab-9c6b-afc9fdef47ae"
