@@ -246,7 +246,7 @@
     "Engineering geologist"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and development engineer",
@@ -286,7 +286,7 @@
     {
       "dutyID": "9491e797-579e-46fa-b562-cfc243703429",
       "dutyDetail": "Create ground-models by interpreting geological, geomorphological and hydrogeological data and identify geo-hazards for example, adverse settlements, subsidence and landslides, across both surface and sub-surface to facilitate management of risk and uncertainty in the ground throughout the life of a project.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "49060cb4-cd25-4113-94e1-de382dd67fdd"
       ],
@@ -303,7 +303,7 @@
     {
       "dutyID": "11f3e503-ce49-4c09-8526-1b8720694123",
       "dutyDetail": "Analyse, interpret and critically evaluate the data of a ground investigation via desk study research, using for example, historical maps and planning records to plan future engineering investigations and activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "49060cb4-cd25-4113-94e1-de382dd67fdd"
       ],
@@ -324,7 +324,7 @@
     {
       "dutyID": "cb2adfed-c21d-4a6a-b7ba-dc7e4bf9c4ab",
       "dutyDetail": "Design and supervise a ground investigation for example, intrusive investigations such as trial pits and boreholes, non-invasive investigations via geophysical techniques, taking of samples for laboratory testing and testing in the field (to determine ground properties), scheduling laboratory testing, establishing monitoring approaches and setting up appropriate instrumentation to monitor ground responses.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0e5ba693-705f-491b-a03b-70420bab6dbf",
         "49060cb4-cd25-4113-94e1-de382dd67fdd",
@@ -350,7 +350,7 @@
     {
       "dutyID": "ab29f56c-42c0-4b96-9752-fb337f6189b1",
       "dutyDetail": "Identify, manage and mitigate risks for example, health and safety, project and financial risks on site (throughout the life of a project, whether during ground investigation or construction process).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "39161a6b-2a1e-421e-bd6b-888f0ef5b208",
         "0e5ba693-705f-491b-a03b-70420bab6dbf",
@@ -375,7 +375,7 @@
     {
       "dutyID": "b830bbdc-2ae1-41dc-bd74-a70fc4deeefa",
       "dutyDetail": "Work with contaminated land specialists to identify risks associated with contaminated land and determine engineering measures to manage those risks.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "39161a6b-2a1e-421e-bd6b-888f0ef5b208",
         "0e5ba693-705f-491b-a03b-70420bab6dbf",
@@ -399,7 +399,7 @@
     {
       "dutyID": "01ac8073-cba9-4e4a-afc8-fb66d7e5fb27",
       "dutyDetail": "Undertake detailed assessment and analysis (using appropriate methods for example, analytical,  numerical, critical analysis) of the ground behaviour including properties of rocks and soils, and their response to natural or proposed engineering activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "49060cb4-cd25-4113-94e1-de382dd67fdd",
         "3a30a47d-e312-475c-9a11-aee625ad9f22",
@@ -421,7 +421,7 @@
     {
       "dutyID": "7b7634f4-9aaf-4a5f-9ad5-70cccf422f0a",
       "dutyDetail": "Design geotechnical structures for example, slopes, foundations, retaining structures including optioneering and detailed design, allowing for consideration of sustainability, constructability and ground conditions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "39161a6b-2a1e-421e-bd6b-888f0ef5b208",
         "0e5ba693-705f-491b-a03b-70420bab6dbf",
@@ -454,7 +454,7 @@
     {
       "dutyID": "0334e2c1-0f35-478b-b4f7-31624a2012c9",
       "dutyDetail": "Produce geotechnical reports throughout the phases of investigation, optioneering, design and construction for stakeholders for example, engineers and clients.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "39161a6b-2a1e-421e-bd6b-888f0ef5b208",
         "49060cb4-cd25-4113-94e1-de382dd67fdd",
@@ -483,7 +483,7 @@
     {
       "dutyID": "7a2bcbfe-b0a7-4790-895a-b001e58fc334",
       "dutyDetail": "Provide geotechnical and/or engineering geology support to stakeholders for example, engineers and clients and guidance throughout investigation and construction stages.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "39161a6b-2a1e-421e-bd6b-888f0ef5b208",
         "49060cb4-cd25-4113-94e1-de382dd67fdd",
@@ -508,7 +508,7 @@
     {
       "dutyID": "506aaed9-fa5c-42ec-b2c9-88d57df1bfd9",
       "dutyDetail": "Develop maintenance strategies and recommend practical interventions for asset management of geotechnical structures for example, earthworks, retaining structures, foundations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "39161a6b-2a1e-421e-bd6b-888f0ef5b208",
         "0e5ba693-705f-491b-a03b-70420bab6dbf",
@@ -534,7 +534,7 @@
     {
       "dutyID": "60b1af30-cadc-4f13-839f-53ed2b89ef48",
       "dutyDetail": "Manage, supervise and develop (depending on the level of seniority) other engineers/professionals.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "39161a6b-2a1e-421e-bd6b-888f0ef5b208",
         "49060cb4-cd25-4113-94e1-de382dd67fdd",
@@ -558,7 +558,7 @@
     {
       "dutyID": "17cd2fe5-ad0b-4fe9-9993-d88b4d157f61",
       "dutyDetail": "Manage stakeholders for example, communicate and negotiate with other engineers, clients, subcontractors and regulatory bodies .",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "39161a6b-2a1e-421e-bd6b-888f0ef5b208",
         "0e5ba693-705f-491b-a03b-70420bab6dbf",
@@ -584,7 +584,7 @@
     {
       "dutyID": "cfdef466-2d5f-4687-adce-bb5ba520be01",
       "dutyDetail": "Manage geotechnical projects, including: planning, programming, design, risk, budgets, costs and resources.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "39161a6b-2a1e-421e-bd6b-888f0ef5b208",
         "0e5ba693-705f-491b-a03b-70420bab6dbf",
@@ -619,7 +619,7 @@
     {
       "dutyID": "318e90b4-5d49-44ec-a41d-d942895929dd",
       "dutyDetail": "Assess and promote sustainable geotechnical solutions considering societal, environmental and economic impacts.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "39161a6b-2a1e-421e-bd6b-888f0ef5b208",
         "49060cb4-cd25-4113-94e1-de382dd67fdd",
