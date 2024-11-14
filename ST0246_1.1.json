@@ -217,7 +217,7 @@
   "greenJobTitles": [
     "Environmental solicitor"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Legal",
   "cluster": "Legal Professional/Lawyer",
@@ -257,7 +257,7 @@
     {
       "dutyID": "274ef8ab-7fe6-4dba-8467-81c423b3f988",
       "dutyDetail": "progress legal matters and transactions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "83e234eb-f977-49e6-b444-f1a5221ae4b8",
         "655b2431-e8fd-4494-85fe-6c4aa1997c60"
@@ -281,7 +281,7 @@
     {
       "dutyID": "79017373-d2c6-4330-86ed-68a7c3345a81",
       "dutyDetail": "apply legal knowledge and commercial judgement to produce solutions which meet clients' needs and address their commercial or personal circumstances.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "83e234eb-f977-49e6-b444-f1a5221ae4b8",
         "655b2431-e8fd-4494-85fe-6c4aa1997c60"
@@ -308,7 +308,7 @@
     {
       "dutyID": "20316e9e-6aef-4102-900f-9b9b123aed3e",
       "dutyDetail": "undertake research on legal matters. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "83e234eb-f977-49e6-b444-f1a5221ae4b8",
         "655b2431-e8fd-4494-85fe-6c4aa1997c60"
@@ -331,7 +331,7 @@
     {
       "dutyID": "bfe32499-4281-471c-ade8-0278c144cdf3",
       "dutyDetail": "interview and advise clients and stakeholders on legal matters and transactions. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "83e234eb-f977-49e6-b444-f1a5221ae4b8",
         "655b2431-e8fd-4494-85fe-6c4aa1997c60"
@@ -358,7 +358,7 @@
     {
       "dutyID": "c84ba2ed-fc10-4ea9-8485-18cc75ccbc7b",
       "dutyDetail": "advocate and negotiate on behalf of clients on legal matters and transactions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "83e234eb-f977-49e6-b444-f1a5221ae4b8",
         "655b2431-e8fd-4494-85fe-6c4aa1997c60"
@@ -383,7 +383,7 @@
     {
       "dutyID": "4dec9f5f-6ebe-49d3-873a-d081be4a879a",
       "dutyDetail": "draft and review legal documents. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "83e234eb-f977-49e6-b444-f1a5221ae4b8",
         "655b2431-e8fd-4494-85fe-6c4aa1997c60"
@@ -404,7 +404,7 @@
     {
       "dutyID": "244938bf-1495-4632-9aec-19c70d30b4a5",
       "dutyDetail": "communicate complex concepts to technical and non-technical audiences using a range of tools and approaches.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "83e234eb-f977-49e6-b444-f1a5221ae4b8",
         "655b2431-e8fd-4494-85fe-6c4aa1997c60"
@@ -431,7 +431,7 @@
     {
       "dutyID": "9fee6157-df9c-4880-aa2d-2650b56203f9",
       "dutyDetail": "establish and maintain effective and professional relationships with clients and other stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "83e234eb-f977-49e6-b444-f1a5221ae4b8",
         "655b2431-e8fd-4494-85fe-6c4aa1997c60"
@@ -461,7 +461,7 @@
     {
       "dutyID": "a0f8f467-3492-41c5-8bd8-0808325e3bef",
       "dutyDetail": "manage workloads and prioritise work effectively to meet timelines. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "655b2431-e8fd-4494-85fe-6c4aa1997c60"
       ],
