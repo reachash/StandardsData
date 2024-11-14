@@ -298,7 +298,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-07-19T00:00:00 +00:00",
@@ -321,7 +321,7 @@
     "Transport operator"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Logistics",
   "cluster": "Supply chain operative or technician",
@@ -339,7 +339,7 @@
     {
       "dutyID": "49195556-461a-4cd9-803b-e7d9bbb5c2bd",
       "dutyDetail": "Comply with current legislation and regulations and maintain the health, safety, and security of people at all times.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "030fbfeb-e160-43de-a9c2-3c393ca5f5e5",
         "6867bbab-7636-489f-b0c1-40eac34ceecb"
@@ -371,7 +371,7 @@
     {
       "dutyID": "87f725d4-2c4c-4439-80a9-50e82078341b",
       "dutyDetail": "Plan and provide documents and instructions for colleagues in a timely manner in line with the operation, to include the use of technology and equipment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ab536d38-7aca-49cf-aa2a-efdfa60856cb",
         "10ee3e21-def5-4126-b972-7558987cba0b",
@@ -405,7 +405,7 @@
     {
       "dutyID": "bff1cb8f-abf9-44a6-905f-c313d5dc85d9",
       "dutyDetail": "Support the maintenance plan by allocating the vehicles and equipment and work with colleagues for planned and unplanned maintenance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ab536d38-7aca-49cf-aa2a-efdfa60856cb",
         "030fbfeb-e160-43de-a9c2-3c393ca5f5e5",
@@ -432,7 +432,7 @@
     {
       "dutyID": "22ac7143-3c06-422a-833f-7cf361e15a49",
       "dutyDetail": "Plan the route, considering fuel and time efficiency, for the safe delivery of products. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "31e5fe20-090c-42f4-8e08-2e63135dda11",
         "c7f54f12-903e-49ef-9bba-48f55819789d",
@@ -469,7 +469,7 @@
     {
       "dutyID": "4d461a05-5c6c-43d1-a320-196d34699fc4",
       "dutyDetail": "Select the most appropriate vehicle type for the delivery, considering access limitations, route, cost, and fuel efficiency. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c7f54f12-903e-49ef-9bba-48f55819789d",
         "6867bbab-7636-489f-b0c1-40eac34ceecb"
@@ -495,7 +495,7 @@
     {
       "dutyID": "db4687c3-c499-40ee-bf91-e2387a777059",
       "dutyDetail": "Allocate appropriate resources and equipment to jobs, considering sustainability, and utilising internal and external organisations as required.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "31e5fe20-090c-42f4-8e08-2e63135dda11",
         "c7f54f12-903e-49ef-9bba-48f55819789d",
@@ -531,7 +531,7 @@
     {
       "dutyID": "dae3237f-0345-4621-ab80-7c5bf84e266f",
       "dutyDetail": "Monitor and track progress of jobs, communicate with colleagues and customers appropriately.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6820c637-ce97-4ee9-a162-1cae822931e2",
         "ab536d38-7aca-49cf-aa2a-efdfa60856cb",
@@ -570,7 +570,7 @@
     {
       "dutyID": "42061b13-0ea0-49bc-8fb6-24fd908eea68",
       "dutyDetail": "Plan and organise work according to business need in relation to deadlines, prioritisation, and unforeseen circumstances",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6820c637-ce97-4ee9-a162-1cae822931e2",
         "ab536d38-7aca-49cf-aa2a-efdfa60856cb",
@@ -614,7 +614,7 @@
     {
       "dutyID": "60b040d1-67c8-4519-8b85-87ec64f08acf",
       "dutyDetail": "Populate the transport management system (TMS) or relevant system with job information, following related processes and instructions to achieve deadlines.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "31e5fe20-090c-42f4-8e08-2e63135dda11",
         "6867bbab-7636-489f-b0c1-40eac34ceecb"
@@ -641,7 +641,7 @@
     {
       "dutyID": "120f254d-7d1a-43b8-8982-350f408d9c40",
       "dutyDetail": "Provide detailed briefings to ensure effective handover between shifts, including prioritisation instructions when necessary. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6820c637-ce97-4ee9-a162-1cae822931e2",
         "ab536d38-7aca-49cf-aa2a-efdfa60856cb",
@@ -676,7 +676,7 @@
     {
       "dutyID": "e3c3b686-a0db-4569-9cf2-a94304357b55",
       "dutyDetail": "Deal with and escalate complaints to ensure effective resolution and protect the company image and brand within policy and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6820c637-ce97-4ee9-a162-1cae822931e2",
         "ab536d38-7aca-49cf-aa2a-efdfa60856cb",
