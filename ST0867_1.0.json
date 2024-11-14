@@ -272,7 +272,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-02-02T00:00:00 +00:00",
@@ -293,7 +293,7 @@
     "Playworker"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Care Services",
   "cluster": "Children, young people and families worker",
@@ -318,7 +318,7 @@
     {
       "dutyID": "87f02fd0-f50b-4f05-a130-184002eeccd9",
       "dutyDetail": "Support children and young people’s freely chosen, self-directed play by enhancing the play using appropriate intervention style. Foster children and young people’s development in line with their culture, age and stage of development.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "67b9db6a-bc97-41e2-8a1b-e8eddeed0468",
         "2994818d-022e-4257-afb0-c6aabc8d1e3e",
@@ -339,7 +339,7 @@
     {
       "dutyID": "08e6af9c-727a-4949-a051-f35db995b4f8",
       "dutyDetail": "Build playful relationships with children, recognising professional boundaries.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "67b9db6a-bc97-41e2-8a1b-e8eddeed0468",
         "17fe9b5d-33e8-470b-9c88-7f0d9640179e",
@@ -362,7 +362,7 @@
     {
       "dutyID": "0e7c19ea-aa78-49b9-bae8-fe35f150b776",
       "dutyDetail": "Provide a diverse, inclusive and accessible setting for all children and young people, taking into consideration any additional requirements they may have.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "67b9db6a-bc97-41e2-8a1b-e8eddeed0468",
         "17fe9b5d-33e8-470b-9c88-7f0d9640179e",
@@ -384,7 +384,7 @@
     {
       "dutyID": "c331b4d3-2fa8-40ef-a79b-a5317d74651c",
       "dutyDetail": "Observe children and young people playing, including how they interact with different environments, other children and young people and staff.  Keep reflective records to inform future planning.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "67b9db6a-bc97-41e2-8a1b-e8eddeed0468",
         "626a7bae-2ca5-492d-b249-6c180da02794",
@@ -407,7 +407,7 @@
     {
       "dutyID": "f1cd8e90-6ecf-40ce-b872-a3205a4fb795",
       "dutyDetail": "Reflect individually and as part of a team to improve Playwork practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2994818d-022e-4257-afb0-c6aabc8d1e3e"
       ],
@@ -424,7 +424,7 @@
     {
       "dutyID": "06a72ea9-8d04-432a-8273-38dd78d0c6e0",
       "dutyDetail": "Advocate for all children and young people’s right to play when liaising with parents, carer givers, colleagues, local residents and other professionals.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "17fe9b5d-33e8-470b-9c88-7f0d9640179e",
         "159f7cc6-ad2c-4fd0-8227-b4d0491713f2"
@@ -442,7 +442,7 @@
     {
       "dutyID": "19e30a28-1d49-4310-8844-bb07cc6d41b4",
       "dutyDetail": "Facilitate the creation of inspiring play spaces with opportunities to include a range of loose parts which foster and stimulate children and young people’s imagination, and build an understanding of sustainable attitudes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d64f006d-eeb4-41d5-ba83-c4bd3ad73eed",
         "67b9db6a-bc97-41e2-8a1b-e8eddeed0468",
@@ -465,7 +465,7 @@
     {
       "dutyID": "25689479-d7ca-4d90-a70f-2ffe172156bb",
       "dutyDetail": "Contribute to the process of risk-benefit assessment in children and young people’s play.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d64f006d-eeb4-41d5-ba83-c4bd3ad73eed",
         "626a7bae-2ca5-492d-b249-6c180da02794",
@@ -485,7 +485,7 @@
     {
       "dutyID": "b2aced62-eed2-43e4-a621-1d075069cdcc",
       "dutyDetail": "Choose intervention styles that support children and young people, responding to their behaviour and extending their play.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d64f006d-eeb4-41d5-ba83-c4bd3ad73eed",
         "67b9db6a-bc97-41e2-8a1b-e8eddeed0468",
@@ -510,7 +510,7 @@
     {
       "dutyID": "eeb2d955-7de5-4e82-a2bc-9d770d72fb31",
       "dutyDetail": "Build and maintain a professional relationship with parents and caregivers in relation to their children’s experiences in the Playwork setting/local community.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2994818d-022e-4257-afb0-c6aabc8d1e3e",
         "17fe9b5d-33e8-470b-9c88-7f0d9640179e",
@@ -529,7 +529,7 @@
     {
       "dutyID": "53dc8285-0b89-4094-98bf-be10291e34e2",
       "dutyDetail": "Assist in regular health and safety checks and the maintenance of equipment, resources, play structures, identifying and reporting any issues.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d64f006d-eeb4-41d5-ba83-c4bd3ad73eed",
         "626a7bae-2ca5-492d-b249-6c180da02794"
@@ -547,7 +547,7 @@
     {
       "dutyID": "5f462368-b479-4154-9b8c-a5f11822c2ae",
       "dutyDetail": "Respond calmly to any accidents or emergencies that may occur during a Playwork session and record appropriately.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d64f006d-eeb4-41d5-ba83-c4bd3ad73eed",
         "626a7bae-2ca5-492d-b249-6c180da02794",
@@ -567,7 +567,7 @@
     {
       "dutyID": "aff59074-fa4a-4414-8cb1-8709741f6f60",
       "dutyDetail": "Work in line with safeguarding policies and procedures to prevent and protect all children from harm.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "67b9db6a-bc97-41e2-8a1b-e8eddeed0468",
         "626a7bae-2ca5-492d-b249-6c180da02794",
@@ -591,7 +591,7 @@
     {
       "dutyID": "b5f8af31-24de-4d33-8740-5558d55ae7be",
       "dutyDetail": "Contribute to appropriate administration and financial record keeping in relation to the play setting.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "626a7bae-2ca5-492d-b249-6c180da02794"
       ],
@@ -608,7 +608,7 @@
     {
       "dutyID": "05899102-9bf3-40d2-a121-687fc6970e8e",
       "dutyDetail": "Follow policies and procedures that support the health and wellbeing of children and young people, including preparing and providing food and activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d64f006d-eeb4-41d5-ba83-c4bd3ad73eed",
         "67b9db6a-bc97-41e2-8a1b-e8eddeed0468",
@@ -630,7 +630,7 @@
     {
       "dutyID": "9ad4fdea-52cb-4e57-903c-406fbefcf1b8",
       "dutyDetail": "Work as part of a team to assist in cleaning and tidying up, including site opening and closure procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d64f006d-eeb4-41d5-ba83-c4bd3ad73eed",
         "626a7bae-2ca5-492d-b249-6c180da02794",
@@ -650,7 +650,7 @@
     {
       "dutyID": "cd28ef12-bcea-4ef5-8596-00dc5d9d6215",
       "dutyDetail": "Work as part of a team to support and supervise children in off-site activities, including trips, outings, residentials and other community events.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d64f006d-eeb4-41d5-ba83-c4bd3ad73eed",
         "67b9db6a-bc97-41e2-8a1b-e8eddeed0468",
@@ -671,7 +671,7 @@
     {
       "dutyID": "73676f12-dc6c-4b2d-98b0-7568e5de261e",
       "dutyDetail": "Participate in appraisals, professional development and training opportunities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40826400-9beb-4b76-94c7-6158c14d1544"
       ],
@@ -687,7 +687,7 @@
     {
       "dutyID": "1da26c3a-6c46-4bd4-b8f4-d06bacf05b9e",
       "dutyDetail": "Work within the professional boundaries of a Playworker, to protect the child’s welfare.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40826400-9beb-4b76-94c7-6158c14d1544"
       ],
@@ -709,7 +709,7 @@
     {
       "dutyID": "330239b6-d6e0-4e42-8e9c-cd9fab8ca23a",
       "dutyDetail": "Use their knowledge of child development, adapting to different behaviours and possible learning needs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "67b9db6a-bc97-41e2-8a1b-e8eddeed0468"
       ],
