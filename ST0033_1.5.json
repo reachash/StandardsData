@@ -211,7 +211,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2015-10-22T00:00:00 +00:00",
@@ -238,7 +238,7 @@
     "Ev motor vehicle service and maintenance technician",
     "Hybrid motor vehicle service and maintenance technician"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Service, Repair and/or Overhaul Operative/Technician",
@@ -256,7 +256,7 @@
     {
       "dutyID": "5ddecfd7-027e-4088-b719-426ada83c1f4",
       "dutyDetail": "Inspect and service vehicles.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "24365d6b-ba99-43a6-81bc-37d7d656b0fc",
         "d6c6958a-4b9c-4747-b1e6-e4984f3d999b",
@@ -295,7 +295,7 @@
     {
       "dutyID": "ceba1152-6fe3-469b-bc9a-672b0c5d5fb9",
       "dutyDetail": "Maintain a healthy and safe workshop.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "24365d6b-ba99-43a6-81bc-37d7d656b0fc",
         "204ee84c-2247-4281-9f7c-37d74849f1d7",
@@ -316,7 +316,7 @@
     {
       "dutyID": "fa6d52e7-0888-4d70-a638-2b8805a160de",
       "dutyDetail": "Diagnose faults and carry out repairs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "24365d6b-ba99-43a6-81bc-37d7d656b0fc",
         "d6c6958a-4b9c-4747-b1e6-e4984f3d999b",
@@ -364,7 +364,7 @@
     {
       "dutyID": "c6a4fb59-102f-45ef-a093-68b711726912",
       "dutyDetail": "Provide customer service.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "24365d6b-ba99-43a6-81bc-37d7d656b0fc",
         "d6c6958a-4b9c-4747-b1e6-e4984f3d999b",
