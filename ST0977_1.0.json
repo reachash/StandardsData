@@ -272,7 +272,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-08-22T00:00:00 +00:00",
@@ -292,7 +292,7 @@
     "Spray polisher"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Service, repair and or or overhaul operative or technician",
@@ -310,7 +310,7 @@
     {
       "dutyID": "318bebaf-011e-4592-a11a-89b57fe22a58",
       "dutyDetail": "Review tasks and agree furniture finishing requirements with stakeholders and plan the day’s activity.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bb5b9220-29fd-4ae8-a220-0ddb20fc5b97",
         "a3546aa4-7625-4ef6-9a9c-1c694339a00a",
@@ -342,7 +342,7 @@
     {
       "dutyID": "c7d908c3-4b40-41f8-b125-bb950e23b7d5",
       "dutyDetail": "Identify, select and use the appropriate tools and materials for furniture finishing.  For example, using the correct stain for the type of surface to build depth of colour; allowing sufficient drying times between multiple coats.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bb5b9220-29fd-4ae8-a220-0ddb20fc5b97",
         "368ae97f-b6a0-4092-a643-1e2d6ccb19e9",
@@ -378,7 +378,7 @@
     {
       "dutyID": "ef10c75a-b992-48ee-9dbb-c4fd4e9dc007",
       "dutyDetail": "Prepare furniture for finishing. Inspect furniture and report issues. For example knots, wane, blue stain or resin pockets.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bb5b9220-29fd-4ae8-a220-0ddb20fc5b97",
         "368ae97f-b6a0-4092-a643-1e2d6ccb19e9",
@@ -415,7 +415,7 @@
     {
       "dutyID": "c7cffb39-7ebb-4b98-97a1-cc8771fc6890",
       "dutyDetail": "Set up and operate furniture finishing machinery, tools and equipment. For example, spray equipment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bb5b9220-29fd-4ae8-a220-0ddb20fc5b97",
         "368ae97f-b6a0-4092-a643-1e2d6ccb19e9",
@@ -453,7 +453,7 @@
     {
       "dutyID": "424ede0d-be85-4223-970f-c28b5ef4960b",
       "dutyDetail": "Match the colour of the finishing product and furniture, mix applications and record ratios.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bb5b9220-29fd-4ae8-a220-0ddb20fc5b97",
         "368ae97f-b6a0-4092-a643-1e2d6ccb19e9",
@@ -489,7 +489,7 @@
     {
       "dutyID": "233d07d9-cf79-4d9a-a2b8-e7e2e5a58353",
       "dutyDetail": "Create and apply decorative effects or specialist finishes on furniture. For example, patinas, distressing, rag rolling, shabby chic, stipple feathering, liming, crackle, grading, scumble, French polishing.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bb5b9220-29fd-4ae8-a220-0ddb20fc5b97",
         "368ae97f-b6a0-4092-a643-1e2d6ccb19e9",
@@ -527,7 +527,7 @@
     {
       "dutyID": "cfdc2c80-1331-4195-818c-c2890645663a",
       "dutyDetail": "Revive existing finishes by sanding and cleaning surface, then applying a protecting finish.  For example, oil, lacquer, shellac or varnish. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bb5b9220-29fd-4ae8-a220-0ddb20fc5b97",
         "368ae97f-b6a0-4092-a643-1e2d6ccb19e9",
@@ -563,7 +563,7 @@
     {
       "dutyID": "193ad97a-280c-40f8-a4cd-c7e12bcea034",
       "dutyDetail": "Identify and report issues relating to quality, quantity, specifications, workload, equipment, plans and deadlines.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bb5b9220-29fd-4ae8-a220-0ddb20fc5b97",
         "368ae97f-b6a0-4092-a643-1e2d6ccb19e9",
@@ -589,7 +589,7 @@
     {
       "dutyID": "55c7ffc7-8d8b-48b3-bf7f-be0bf1dcfb84",
       "dutyDetail": "Complete documentation relating to the furniture finishing process. For example, job sheets, work to lists, production records. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bb5b9220-29fd-4ae8-a220-0ddb20fc5b97",
         "d1537a22-7a16-4ff1-9713-fd9d2954991e"
@@ -616,7 +616,7 @@
     {
       "dutyID": "5d751ebf-2a1b-4833-91cf-7cb25e28792d",
       "dutyDetail": "Identify problems with furniture finishes and apply solutions. For example blooming, moisture, temperature, blotching, runs, streaks, curing, and silicones – orange peel, fish eye. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bb5b9220-29fd-4ae8-a220-0ddb20fc5b97",
         "d1537a22-7a16-4ff1-9713-fd9d2954991e"
@@ -641,7 +641,7 @@
     {
       "dutyID": "afcae91b-177b-4cc5-ba51-eff5ffe4de24",
       "dutyDetail": "Conduct preventative maintenance on finishing machinery, tools and equipment. For example, checking, cleaning and lubricating tools.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bb5b9220-29fd-4ae8-a220-0ddb20fc5b97",
         "368ae97f-b6a0-4092-a643-1e2d6ccb19e9",
@@ -671,7 +671,7 @@
     {
       "dutyID": "67ba1092-4584-4aec-a9c6-4ec4b27343f5",
       "dutyDetail": "Support continuous improvement activities to address business needs. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bb5b9220-29fd-4ae8-a220-0ddb20fc5b97",
         "a3546aa4-7625-4ef6-9a9c-1c694339a00a",
