@@ -395,7 +395,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-08-09T00:00:00 +00:00",
@@ -423,7 +423,7 @@
     "Polymer process technician",
     "Polymer processing technician"
   ],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing and process operative or technician",
@@ -454,7 +454,7 @@
     {
       "dutyID": "8a23ca5a-be86-49b9-86f3-cb9839644352",
       "dutyDetail": "Prepare polymer equipment and materials for processing. For example, complete tool changes, set machine parameters.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b1fa14fc-7bd2-4a5f-8b33-52f20f45142e",
         "e914e5fa-5d8b-4720-b8e8-eabdeebbe7ac",
@@ -511,7 +511,7 @@
     {
       "dutyID": "1bfd6d37-1868-423b-9445-fb4510195de7",
       "dutyDetail": "Run and monitor polymer processes, adjusting parameters such as speed, temperature, pressure, and time.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b1fa14fc-7bd2-4a5f-8b33-52f20f45142e",
         "e914e5fa-5d8b-4720-b8e8-eabdeebbe7ac",
@@ -565,7 +565,7 @@
     {
       "dutyID": "b61ef778-7c0f-4ba8-a8cf-d46f577337f3",
       "dutyDetail": "Complete secondary operations such as assembling, printing, decorating, cooling operations, packing, and labelling.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b1fa14fc-7bd2-4a5f-8b33-52f20f45142e",
         "e914e5fa-5d8b-4720-b8e8-eabdeebbe7ac",
@@ -615,7 +615,7 @@
     {
       "dutyID": "5be19097-a153-4a62-aa35-1a9549fc3824",
       "dutyDetail": "Complete quality control processes. For example, conduct grade parameter checks (size, colour, weight). Take samples for laboratory testing. Perform material testing (melt flow index (MFI), moisture, tensile etc).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b1fa14fc-7bd2-4a5f-8b33-52f20f45142e",
         "e914e5fa-5d8b-4720-b8e8-eabdeebbe7ac",
@@ -670,7 +670,7 @@
     {
       "dutyID": "57655361-6194-41c3-9634-48d1c8b1d86d",
       "dutyDetail": "Resolve process, quality and operating environment issues when operating out of normal parameters. For example, out of specification parameter.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b1fa14fc-7bd2-4a5f-8b33-52f20f45142e",
         "e914e5fa-5d8b-4720-b8e8-eabdeebbe7ac",
@@ -734,7 +734,7 @@
     {
       "dutyID": "fbda2b74-2bf2-435b-a5b3-2d854adfb551",
       "dutyDetail": "Conduct handover responsibilities - providing information to or receiving information from other shifts or maintenance teams.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b1fa14fc-7bd2-4a5f-8b33-52f20f45142e",
         "e914e5fa-5d8b-4720-b8e8-eabdeebbe7ac",
@@ -774,7 +774,7 @@
     {
       "dutyID": "cde9dbcb-623d-43f1-95bb-8ec3390fc06b",
       "dutyDetail": "Complete process documentation - digital or paper based. For example, process and production records, traceability records, quality assurance records.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b1fa14fc-7bd2-4a5f-8b33-52f20f45142e",
         "e914e5fa-5d8b-4720-b8e8-eabdeebbe7ac",
@@ -812,7 +812,7 @@
     {
       "dutyID": "0dc093fa-8a25-4d1c-91e0-b98a3fc90544",
       "dutyDetail": "Maintain the work area (housekeeping) following safety, environmental and risk management systems. Ensure waste is separated, segregated, and handled in accordance with environmental standards.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b1fa14fc-7bd2-4a5f-8b33-52f20f45142e",
         "e914e5fa-5d8b-4720-b8e8-eabdeebbe7ac",
@@ -845,7 +845,7 @@
     {
       "dutyID": "a59eb75d-f0f6-4a6d-9513-82fb7714684e",
       "dutyDetail": "Establish a process involving new or modified equipment, tooling or material and report on the outcomes. Carry out process trials and capability studies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b1fa14fc-7bd2-4a5f-8b33-52f20f45142e",
         "e914e5fa-5d8b-4720-b8e8-eabdeebbe7ac",
@@ -912,7 +912,7 @@
     {
       "dutyID": "499e2154-98bd-48ed-9021-debd716f8d98",
       "dutyDetail": "Conduct first line routine maintenance (daily and preventative) and testing of polymer processing equipment. For example, checking guarding, lubrication, cleaning of tooling, safety checks, and inspection for wear and tear.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b1fa14fc-7bd2-4a5f-8b33-52f20f45142e",
         "e914e5fa-5d8b-4720-b8e8-eabdeebbe7ac",
@@ -947,7 +947,7 @@
     {
       "dutyID": "9c656449-646f-4633-89e2-eb6a7c4a4240",
       "dutyDetail": "Prepare polymer process equipment for maintenance and overhaul.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b1fa14fc-7bd2-4a5f-8b33-52f20f45142e",
         "e914e5fa-5d8b-4720-b8e8-eabdeebbe7ac",
@@ -978,7 +978,7 @@
     {
       "dutyID": "cb24a110-484c-4ccb-85ab-ff9b5b0d88d3",
       "dutyDetail": "Support internal audits to ensure regulatory compliance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b1fa14fc-7bd2-4a5f-8b33-52f20f45142e",
         "e914e5fa-5d8b-4720-b8e8-eabdeebbe7ac",
@@ -1017,7 +1017,7 @@
     {
       "dutyID": "10d26a02-8055-488b-bc74-60ca3a7f8353",
       "dutyDetail": "Participate in continuous improvement activities. For example, identifying ways to contribute to sustainability by reducing energy use and waste, improving cycle times, tool trialling.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b1fa14fc-7bd2-4a5f-8b33-52f20f45142e",
         "e914e5fa-5d8b-4720-b8e8-eabdeebbe7ac",
@@ -1088,7 +1088,7 @@
     {
       "dutyID": "9b6bc7d2-cf02-4ac0-8e7f-fd26a0b8d677",
       "dutyDetail": "Participate in risk assessment activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b1fa14fc-7bd2-4a5f-8b33-52f20f45142e",
         "e914e5fa-5d8b-4720-b8e8-eabdeebbe7ac",
@@ -1126,7 +1126,7 @@
     {
       "dutyID": "f30fa68a-5f45-4314-b6ce-358738311135",
       "dutyDetail": "Participate in root cause investigations for quality related issues and implement the corrective action to ensure that failures are non-repeatable and production is ongoing.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b1fa14fc-7bd2-4a5f-8b33-52f20f45142e",
         "e914e5fa-5d8b-4720-b8e8-eabdeebbe7ac",
