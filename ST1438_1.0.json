@@ -249,7 +249,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-12-21T00:00:00 +00:00",
@@ -272,7 +272,7 @@
     "Train planner"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Transport",
   "cluster": "Transport operations operative or technician",
@@ -290,7 +290,7 @@
     {
       "dutyID": "5e3a622a-19ef-484b-8010-add3779b6742",
       "dutyDetail": "Receive and provide other stakeholders with handover data to ensure continuity of planned travel operations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "c74eb207-d00f-4385-84f9-bb5f6496f1f9",
@@ -306,7 +306,7 @@
     {
       "dutyID": "9d73a51c-3be0-434b-81c6-fc16abfd42ec",
       "dutyDetail": "Create the timetable, schedule, roster or diagram to meet  objectives in relation to the transport service,  contractual requirements, passenger experience and commercial requirements as appropriate.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "6f53848b-d0d4-402d-882d-1413446ef67d",
@@ -323,7 +323,7 @@
     {
       "dutyID": "84407d5d-8384-4d9f-bbee-0afc23d217c7",
       "dutyDetail": "Revise the timetable, schedule, roster or diagram to meet  objectives in relation to the transport service,  contractual requirements, passenger experience and commercial requirements as appropriate.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "fae54c7a-bd2c-4d08-b8b8-cb84c6cc6d03",
@@ -340,7 +340,7 @@
     {
       "dutyID": "b0b54eaa-0861-48b0-9652-c5566c1ee90f",
       "dutyDetail": "Operate organisational digital platforms to support the creating, revising and presenting of the timetable, schedule, roster or diagram.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "fecae302-8d75-4cfd-8cc1-0b509f5bf84e",
@@ -355,7 +355,7 @@
     {
       "dutyID": "98ca865f-7ece-463b-b73e-cbe1829955d7",
       "dutyDetail": "Consider the needs of the planned transport service when creating a timetable, schedule, roster or diagram.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -367,7 +367,7 @@
     {
       "dutyID": "12b3a336-abc5-4687-ae2a-147bc4a6ebd6",
       "dutyDetail": "Arrange access to travel routes and register timetables, schedules, rosters or diagrams as required.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "e6055d41-ed89-4805-9836-f582f0428f43",
@@ -385,7 +385,7 @@
     {
       "dutyID": "a2d6aa54-a1e6-4eb6-b7c4-33c7a1d8765e",
       "dutyDetail": "Allocate resources or slots to travel operations in line with organisational objectives.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -395,7 +395,7 @@
     {
       "dutyID": "9b24f3d5-b882-4fd8-b688-4a0322490480",
       "dutyDetail": "Ensure timetable, schedule, roster or diagram complies with legislative and sector specific requirements. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a53f724f-e159-4a00-a0f8-65e06dc21352"
       ],
@@ -411,7 +411,7 @@
     {
       "dutyID": "1402082c-8645-4187-9f1f-004a917e0ebd",
       "dutyDetail": "Monitor and assess transport services performance, providing timely interventions and advice as needed.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "607f6ab4-810d-4dfa-b3be-310551c6a66d",
@@ -426,7 +426,7 @@
     {
       "dutyID": "05ce9d78-c3f4-4f2c-a78b-a5c2433ce900",
       "dutyDetail": "Respond to prolonged or persistent disruption to transport services.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "c490cc97-12d6-4707-8406-8573ae7c87e3"
@@ -440,7 +440,7 @@
     {
       "dutyID": "7a9de87d-98a0-49f8-8b24-dfecfdd74e4f",
       "dutyDetail": "Contribute to supporting situations that occur due to unforeseen circumstances and liaising with key stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "bc5e5a67-5ef6-4edb-ac55-7415206eac02"
@@ -455,7 +455,7 @@
     {
       "dutyID": "c8eb45f8-6720-4a03-b823-d7c4466e979d",
       "dutyDetail": "Carry out compliance monitoring, report non-compliance and escalate to the appropriate person or authority. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "f9b4cbc3-c1f2-41ec-aeab-7382c2f062f6"
@@ -470,7 +470,7 @@
     {
       "dutyID": "9bcca789-a48f-45ac-b7fe-e8a339f6bb38",
       "dutyDetail": "Balance and prioritise own workload, contributing to organisational objectives. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ccc1763d-2279-4e4d-8101-f0b254958e31",
         "6c9e393d-4e60-4d09-be60-2e986289bd14"
@@ -489,7 +489,7 @@
     {
       "dutyID": "57b69492-8b8d-4dfe-aa01-8be6d99c078c",
       "dutyDetail": "Provide evidence-based recommendations that improve operational performance of an individual transport service or the wider travel network.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "2742b269-6c1e-417d-b5aa-86affe66db57"
@@ -503,7 +503,7 @@
     {
       "dutyID": "d4788aee-2dda-4880-8d10-9710f056a0d5",
       "dutyDetail": "Complete compulsory training.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cfbb937c-1083-4772-a309-36e2769115b1"
       ],
