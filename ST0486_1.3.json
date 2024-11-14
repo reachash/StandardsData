@@ -198,7 +198,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-02-27T00:00:00 +00:00",
@@ -217,7 +217,7 @@
     "Civil Aviation or within small private sector fire services that may be incorporated in other organisations such as manufacturers and engineering"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Protective Services",
   "cluster": "Protective service officer",
@@ -235,7 +235,7 @@
     {
       "dutyID": "741c7479-bd9c-433c-93ec-1925fd94e6c7",
       "dutyDetail": "Educate the community to improve awareness of fire and rescue safety matters ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3dfd5793-bc9b-4349-a8cd-76d06c77d24e",
         "c9c8183c-fbf2-444c-b556-862b51cea572",
@@ -262,7 +262,7 @@
     {
       "dutyID": "a220b5bd-3afd-4991-915f-1ed73f70247e",
       "dutyDetail": "Take responsibility for effective personal performance in fire and rescue",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a2907c53-6e0b-4598-8b22-03701ed1bb3e",
         "d295311c-62b5-4aee-9499-5ab20de7e3a8"
@@ -282,7 +282,7 @@
     {
       "dutyID": "8e91bff3-eadc-40ad-a0e1-b8ab14a1f760",
       "dutyDetail": "Establish and maintain effective working relationships with people",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3dfd5793-bc9b-4349-a8cd-76d06c77d24e",
         "c9c8183c-fbf2-444c-b556-862b51cea572",
@@ -303,7 +303,7 @@
     {
       "dutyID": "d15ca830-8b09-403a-b6bf-b552638ec342",
       "dutyDetail": "Save and preserve endangered life. Safely conduct a search to locate life involved in fire and other incidents, using a range of rescue equipment. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "07727d8c-0d82-403e-b625-a93a0d96857d",
         "00fdfc56-7bfa-4898-9cf7-e637054643e0",
@@ -333,7 +333,7 @@
     {
       "dutyID": "fd1625de-4516-4109-bab6-f16bf67a9e16",
       "dutyDetail": "Rescue life (human or animal) involved in incidents.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c9c8183c-fbf2-444c-b556-862b51cea572",
         "07727d8c-0d82-403e-b625-a93a0d96857d",
@@ -368,7 +368,7 @@
     {
       "dutyID": "5cf2e655-8d18-4dc1-9136-8dcc286fc27b",
       "dutyDetail": "Provide treatment to casualties ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3dfd5793-bc9b-4349-a8cd-76d06c77d24e",
         "c9c8183c-fbf2-444c-b556-862b51cea572",
@@ -401,7 +401,7 @@
     {
       "dutyID": "5c77070e-c82e-4efd-a0e4-4a408fe1d6b4",
       "dutyDetail": "Respond and provide resolution to fire and rescue operational incidents.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "07727d8c-0d82-403e-b625-a93a0d96857d",
         "00fdfc56-7bfa-4898-9cf7-e637054643e0",
@@ -438,7 +438,7 @@
     {
       "dutyID": "d4ef2363-0687-440c-bdb7-54c0554f5db1",
       "dutyDetail": "Provide support to people directly or indirectly involved in operational incidents",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3dfd5793-bc9b-4349-a8cd-76d06c77d24e",
         "c9c8183c-fbf2-444c-b556-862b51cea572",
@@ -477,7 +477,7 @@
     {
       "dutyID": "4029c7ee-4b52-4a9c-bfa7-89c359bfd6ad",
       "dutyDetail": "Carry out roles and responsibilities, within the incident command system, alongside other agencies during fire and operational incidents.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3dfd5793-bc9b-4349-a8cd-76d06c77d24e",
         "c9c8183c-fbf2-444c-b556-862b51cea572",
@@ -512,7 +512,7 @@
     {
       "dutyID": "c9478b0d-0997-40e8-97fa-ac754c72bb70",
       "dutyDetail": "Protect the environment from the effects of hazardous materials and support people involved. This could include the use of appropriate PPE and decontamination methods",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "07727d8c-0d82-403e-b625-a93a0d96857d",
         "00fdfc56-7bfa-4898-9cf7-e637054643e0",
@@ -544,7 +544,7 @@
     {
       "dutyID": "fd00b085-e297-4147-9214-0bde5c20b7f0",
       "dutyDetail": "Test and maintain equipment to support the effectiveness of operational response",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "07727d8c-0d82-403e-b625-a93a0d96857d",
         "00fdfc56-7bfa-4898-9cf7-e637054643e0",
@@ -564,7 +564,7 @@
     {
       "dutyID": "f9bd45e3-3550-4e6b-b70f-0206e8757ebb",
       "dutyDetail": "Collect information on risks and resources in your community",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3dfd5793-bc9b-4349-a8cd-76d06c77d24e",
         "c9c8183c-fbf2-444c-b556-862b51cea572",
@@ -592,7 +592,7 @@
     {
       "dutyID": "8d9eff06-ad56-4a5c-97fe-69048e2550cf",
       "dutyDetail": "Support the development of colleagues in the fire and rescue ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3dfd5793-bc9b-4349-a8cd-76d06c77d24e",
         "c9c8183c-fbf2-444c-b556-862b51cea572",
@@ -617,7 +617,7 @@
     {
       "dutyID": "e72befdf-8afe-4461-a98f-4478c7ed5225",
       "dutyDetail": "Contribute to fire safety inspections and outcomes to minimise risks to people property and environment. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3dfd5793-bc9b-4349-a8cd-76d06c77d24e",
         "c9c8183c-fbf2-444c-b556-862b51cea572",
