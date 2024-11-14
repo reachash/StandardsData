@@ -272,7 +272,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-07-19T00:00:00 +00:00",
@@ -297,7 +297,7 @@
     "Removals specialist"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Logistics",
   "cluster": "Supply chain operative or technician",
@@ -315,7 +315,7 @@
     {
       "dutyID": "c4e8d6aa-5efe-4cc9-80a9-96150cb7bd12",
       "dutyDetail": "Plan work in line with initial instructions, adapt work due to changing circumstances.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "743f6f8c-cc99-4a4d-afac-5ec35b103a2b",
         "7c130925-8859-4d50-b4e1-090fa606f7a1",
@@ -358,7 +358,7 @@
     {
       "dutyID": "4767a421-76b2-4907-b4d0-293bd33c6b64",
       "dutyDetail": "Report external factors which may occur, preventing the delay or completion of planned work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "743f6f8c-cc99-4a4d-afac-5ec35b103a2b",
         "9c590429-7809-44a9-b7a6-c28e74c4c6a0"
@@ -383,7 +383,7 @@
     {
       "dutyID": "49436cd0-d53a-47f3-a8d4-721d40fd7b08",
       "dutyDetail": "Carry out risk assessment following arrival at collection or delivery address. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "743f6f8c-cc99-4a4d-afac-5ec35b103a2b",
         "499cdd83-bf33-4778-949d-39f6a09c17fd"
@@ -408,7 +408,7 @@
     {
       "dutyID": "b5ff7f9c-fbf8-47a1-a766-53f99851c6b0",
       "dutyDetail": "Select sustainable resources and packing materials appropriate to the job in a way that reduces risk of damage, waste, costs, and environment impact. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "94ee7438-f70c-4372-887c-1f5b61e3b5cf"
       ],
@@ -427,7 +427,7 @@
     {
       "dutyID": "8736ae0c-cb7e-4090-a818-b614582ace97",
       "dutyDetail": "Follow appropriate processes for moving, handling, packing and unpacking items and making preparations for transportation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "94ee7438-f70c-4372-887c-1f5b61e3b5cf"
       ],
@@ -454,7 +454,7 @@
     {
       "dutyID": "551f0f24-0f5c-4d16-94ce-ee372af6c3e0",
       "dutyDetail": "Load, unload and stow items into and from vehicles, containers, crates and lift crates and boxes safely and efficiently.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "743f6f8c-cc99-4a4d-afac-5ec35b103a2b",
         "94ee7438-f70c-4372-887c-1f5b61e3b5cf",
@@ -484,7 +484,7 @@
     {
       "dutyID": "5ab849ab-f092-4f6e-ace6-b4c05d0401d2",
       "dutyDetail": "Use equipment and machinery safely, following instructions, company guidelines and legislative rules and regulations including wearing and using associated personal protective equipment (PPE).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "743f6f8c-cc99-4a4d-afac-5ec35b103a2b",
         "94ee7438-f70c-4372-887c-1f5b61e3b5cf",
@@ -519,7 +519,7 @@
     {
       "dutyID": "d137f873-cb02-4da3-bb31-fbae385837e0",
       "dutyDetail": "Direct the movement of vehicles and forklifts safely.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "743f6f8c-cc99-4a4d-afac-5ec35b103a2b",
         "9c590429-7809-44a9-b7a6-c28e74c4c6a0",
@@ -546,7 +546,7 @@
     {
       "dutyID": "71a4e698-1404-46a1-b05d-984429c41a21",
       "dutyDetail": "Dismantle and reassemble furniture safely and efficiently, using appropriate tools and resources.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c5fd734c-93c0-4b58-b023-98533d2fa195"
       ],
@@ -565,7 +565,7 @@
     {
       "dutyID": "ab188057-7ebd-49c6-96f5-3898522c2c81",
       "dutyDetail": "Prepare and process relevant documentation, inventories, and records of information.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c5fd734c-93c0-4b58-b023-98533d2fa195"
       ],
@@ -593,7 +593,7 @@
     {
       "dutyID": "b7f0c2cf-df43-420e-a0e0-403b55caf5cb",
       "dutyDetail": "Identify and record pre-existing damage to furniture and effects, buildings, and floors.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c5fd734c-93c0-4b58-b023-98533d2fa195"
       ],
@@ -615,7 +615,7 @@
     {
       "dutyID": "d5aec400-6efe-43a0-a4ec-78e2a27727a8",
       "dutyDetail": "Understand the needs of the customers, for example: elderly, disabled, parents, young or vulnerable people including pets, along with cultural and religious needs. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7c130925-8859-4d50-b4e1-090fa606f7a1",
         "9c590429-7809-44a9-b7a6-c28e74c4c6a0",
@@ -648,7 +648,7 @@
     {
       "dutyID": "2dff03c1-ef27-4301-81d1-0378be42ba9a",
       "dutyDetail": "Maintain required quality standards of company equipment and cleanliness of vehicles and warehouse.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "94ee7438-f70c-4372-887c-1f5b61e3b5cf",
         "c5fd734c-93c0-4b58-b023-98533d2fa195",
