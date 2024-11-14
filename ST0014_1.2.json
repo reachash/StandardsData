@@ -287,7 +287,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-09-15T00:00:00 +00:00",
@@ -308,7 +308,7 @@
     "Unlicensed aircraft mechanic"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Service, Repair and/or Overhaul Operative/Technician",
@@ -326,7 +326,7 @@
     {
       "dutyID": "b5b8ac17-1105-4ef0-b29f-5d66afc05662",
       "dutyDetail": "Identify, prepare, and check the work area for the maintenance activity.  Perform a health, safety, and environmental check.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9f2161fd-f781-40ae-9364-e042934bfe4d",
         "37fd7d17-bb6f-4b2a-8c77-00426355c25e",
@@ -353,7 +353,7 @@
     {
       "dutyID": "f41b63be-e70f-494b-94c8-311c59057bb8",
       "dutyDetail": "Select aircraft data, publications and maintenance documents required for the maintenance activity.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9ee5a509-66e7-41f2-bd9e-6e3d7605691b"
       ],
@@ -375,7 +375,7 @@
     {
       "dutyID": "941d7321-3d66-402f-b144-a14a3c7dab0c",
       "dutyDetail": "Prepare for any aircraft maintenance activity by checking the availability of tools, equipment, and materials.  Carry out pre-use checks of equipment and resources ensuring there are sufficient supplies of materials and consumables for the maintenance activity.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9f2161fd-f781-40ae-9364-e042934bfe4d",
         "37fd7d17-bb6f-4b2a-8c77-00426355c25e",
@@ -403,7 +403,7 @@
     {
       "dutyID": "2e7a75fc-f4c8-4ab8-95e2-778ff3002a9a",
       "dutyDetail": "Carry out the control care and maintenance activities required to preserve the quality and integrity of designated aircraft parts and components.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9f2161fd-f781-40ae-9364-e042934bfe4d",
         "37fd7d17-bb6f-4b2a-8c77-00426355c25e",
@@ -431,7 +431,7 @@
     {
       "dutyID": "04f59a97-b9b1-47d1-adce-29f6799a99b3",
       "dutyDetail": "Perform aircraft or aircraft component inspection activities reporting any issues.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9f2161fd-f781-40ae-9364-e042934bfe4d",
         "37fd7d17-bb6f-4b2a-8c77-00426355c25e",
@@ -468,7 +468,7 @@
     {
       "dutyID": "97cbc6a6-6a94-42e3-90d1-9564f53812c0",
       "dutyDetail": "Carry out aircraft ground handling operations, as a supervised member of an aircraft movement team.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9f2161fd-f781-40ae-9364-e042934bfe4d",
         "37fd7d17-bb6f-4b2a-8c77-00426355c25e",
@@ -502,7 +502,7 @@
     {
       "dutyID": "4577fbd4-5350-4d39-9f04-62d0430094fd",
       "dutyDetail": "Carry out aircraft preparation for flight and recovery from flight, including replenishment of consumables.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9f2161fd-f781-40ae-9364-e042934bfe4d",
         "37fd7d17-bb6f-4b2a-8c77-00426355c25e",
@@ -551,7 +551,7 @@
     {
       "dutyID": "56b59c3b-1824-4f3a-94c0-95bcafd9caf8",
       "dutyDetail": "Conduct first line aircraft or aircraft component maintenance - preventative and corrective.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9f2161fd-f781-40ae-9364-e042934bfe4d",
         "37fd7d17-bb6f-4b2a-8c77-00426355c25e",
@@ -593,7 +593,7 @@
     {
       "dutyID": "cba4e252-08fe-4811-9213-fd086156841a",
       "dutyDetail": "Perform routine and non-routine mechanical system component removal, installation, setup and testing as directed by an authorised person. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9f2161fd-f781-40ae-9364-e042934bfe4d",
         "37fd7d17-bb6f-4b2a-8c77-00426355c25e",
@@ -639,7 +639,7 @@
     {
       "dutyID": "413f91b6-7547-45e3-8418-5f278797e859",
       "dutyDetail": "Perform routine and non-routine electrical or avionic system component removal, installation, setup and testing as directed by an authorised person. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9f2161fd-f781-40ae-9364-e042934bfe4d",
         "37fd7d17-bb6f-4b2a-8c77-00426355c25e",
@@ -685,7 +685,7 @@
     {
       "dutyID": "4c7670da-65ca-4e3b-9035-b3e4f879a9d2",
       "dutyDetail": "Complete all documentation associated with the maintenance activity.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9f2161fd-f781-40ae-9364-e042934bfe4d",
         "9ee5a509-66e7-41f2-bd9e-6e3d7605691b",
@@ -712,7 +712,7 @@
     {
       "dutyID": "cf22df93-c005-49e7-bf8a-c5ff742a3536",
       "dutyDetail": "Reinstate the work area on completion of the maintenance activities. Complete post activity tool and equipment checks.  Ensure all waste materials are disposed of in accordance with current legislation. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9f2161fd-f781-40ae-9364-e042934bfe4d",
         "37fd7d17-bb6f-4b2a-8c77-00426355c25e",
