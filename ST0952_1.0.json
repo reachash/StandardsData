@@ -275,7 +275,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2021-07-01T00:00:00 +00:00",
@@ -297,7 +297,7 @@
     "Sea Fisher"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Agricultural operative or technician",
@@ -395,7 +395,7 @@
     {
       "dutyID": "e6b474a3-2bbc-46b1-9a06-651fb839079a",
       "dutyDetail": "Prepare for sea. Carry out personal safety checks. Check weather and sea conditions. Acquire the necessary food, water and supplies for the trip.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1b7d4e0-ce24-4bff-bf73-4cb71cff02b2",
         "9a1dd3a1-8829-4ad2-b1c0-96fa6a1bb405",
@@ -416,7 +416,7 @@
     {
       "dutyID": "6d9513a0-223d-4cbf-8757-eb9d8dc91a58",
       "dutyDetail": "Prepare the boat for sea. Carry out safety checks. Check the engine, fuel levels, and maintain and fit fishing gear. Obtain ice, bait and prepare deck and storage areas.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1b7d4e0-ce24-4bff-bf73-4cb71cff02b2",
         "5afeefd2-2255-48b6-aa45-9954692b6f82"
@@ -439,7 +439,7 @@
     {
       "dutyID": "28ecf642-e51a-482a-baa6-0dbf35329bc8",
       "dutyDetail": "Carry out preventative maintenance of the boat under supervision. Including engineering, fish rooms, storage areas and hydraulics.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1b7d4e0-ce24-4bff-bf73-4cb71cff02b2",
         "f2e9a892-d279-41da-ba9e-c5ae914e34cf"
@@ -462,7 +462,7 @@
     {
       "dutyID": "265c16f4-880d-4175-b7e7-4147da515648",
       "dutyDetail": "Shoot, haul and clear fish and/or shellfish using a range of fishing gears. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1b7d4e0-ce24-4bff-bf73-4cb71cff02b2",
         "5afeefd2-2255-48b6-aa45-9954692b6f82"
@@ -480,7 +480,7 @@
     {
       "dutyID": "b6374979-d6c6-4a2b-be6c-16f6cf310ebd",
       "dutyDetail": "Contribute to maintaining a stable and safe deck and working area. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1b7d4e0-ce24-4bff-bf73-4cb71cff02b2"
       ],
@@ -498,7 +498,7 @@
     {
       "dutyID": "5f793575-9aba-495f-9a9c-b8057305bc68",
       "dutyDetail": "Land, sort and grade the catch. Identify species. Release fish in line with regulations and quota requirements. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1b7d4e0-ce24-4bff-bf73-4cb71cff02b2",
         "5afeefd2-2255-48b6-aa45-9954692b6f82"
@@ -516,7 +516,7 @@
     {
       "dutyID": "ce2f5d06-bdf9-4af2-b4eb-356af2b95b77",
       "dutyDetail": "Collect fisheries data. Record the catch accurately and estimate the weight of the catch.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1b7d4e0-ce24-4bff-bf73-4cb71cff02b2",
         "cd059d6b-41f0-4f2f-95f3-6e3291256f9b",
@@ -535,7 +535,7 @@
     {
       "dutyID": "3a02d64a-a7ae-4f7d-aa1a-73eddbc3ae0a",
       "dutyDetail": "Process and store the catch using ice and refrigeration to maintain a quality product.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1b7d4e0-ce24-4bff-bf73-4cb71cff02b2",
         "cd059d6b-41f0-4f2f-95f3-6e3291256f9b",
@@ -555,7 +555,7 @@
     {
       "dutyID": "ba078323-568d-4936-bef1-8f1b3f81187f",
       "dutyDetail": "Troubleshoot to address problems with the boat and fishing gear.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1b7d4e0-ce24-4bff-bf73-4cb71cff02b2",
         "cd059d6b-41f0-4f2f-95f3-6e3291256f9b",
@@ -573,7 +573,7 @@
     {
       "dutyID": "7812ddb4-8ecb-45d3-917d-be21b2fabf8a",
       "dutyDetail": "Watch-keep taking account of maritime regulations, weather, meteorology and forecasting.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1b7d4e0-ce24-4bff-bf73-4cb71cff02b2",
         "9a1dd3a1-8829-4ad2-b1c0-96fa6a1bb405",
@@ -596,7 +596,7 @@
     {
       "dutyID": "8bce6f58-81fe-497d-bbab-970a31ef5f53",
       "dutyDetail": "Carry out ropework and line handling for mooring and berthing. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1b7d4e0-ce24-4bff-bf73-4cb71cff02b2",
         "9a1dd3a1-8829-4ad2-b1c0-96fa6a1bb405"
@@ -614,7 +614,7 @@
     {
       "dutyID": "b2f010a1-5bd2-4fdd-8a29-79c5bd8a8ca0",
       "dutyDetail": "Operate communications equipment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1b7d4e0-ce24-4bff-bf73-4cb71cff02b2"
       ],
@@ -631,7 +631,7 @@
     {
       "dutyID": "0f0cb5a1-5681-4fb8-b2ba-7e821eab63fe",
       "dutyDetail": "Carry out and take part in safety drills, to ensure safe working boat and crew. For example, man over-board recovery, deploy anchor. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1b7d4e0-ce24-4bff-bf73-4cb71cff02b2"
       ],
@@ -650,7 +650,7 @@
     {
       "dutyID": "48e76bf5-0db1-4e20-b711-9fbd30ee96bc",
       "dutyDetail": "Unload the catch and take to market.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1b7d4e0-ce24-4bff-bf73-4cb71cff02b2",
         "5afeefd2-2255-48b6-aa45-9954692b6f82"
