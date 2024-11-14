@@ -256,7 +256,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2014-11-12T00:00:00 +00:00",
@@ -280,7 +280,7 @@
     "Dynamic Network Engineer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Support and Services",
   "cluster": "Hardware, networks and infrastructure technician",
@@ -305,7 +305,7 @@
     {
       "dutyID": "51a7615c-252e-4624-b921-637b785a19e7",
       "dutyDetail": "Install, configure, and test appropriate network components or devices securely to well-defined specifications whether physical or virtual",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a636cf9b-0f30-46b6-a9ee-8b15dec2e96e",
         "36a8ecd3-3cfa-43b3-a063-8afb0fbfab94",
@@ -339,7 +339,7 @@
     {
       "dutyID": "79a43fcf-6833-4350-8532-001abf7d1afa",
       "dutyDetail": "Acquire and analyse network performance data to monitor network activity",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a636cf9b-0f30-46b6-a9ee-8b15dec2e96e",
         "36a8ecd3-3cfa-43b3-a063-8afb0fbfab94",
@@ -365,7 +365,7 @@
     {
       "dutyID": "67eb2a1a-ab51-4b44-99c8-5d210dbad13c",
       "dutyDetail": "Optimise and maintain the performance of network systems or services in line with well-defined specification whether physical or virtual",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a636cf9b-0f30-46b6-a9ee-8b15dec2e96e",
         "36a8ecd3-3cfa-43b3-a063-8afb0fbfab94",
@@ -397,7 +397,7 @@
     {
       "dutyID": "9dd2b106-0845-4284-8236-82b69882a635",
       "dutyDetail": "Investigate and problem solve to address technical performance issues in networks to return the network to successful operation and escalate as necessary",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a636cf9b-0f30-46b6-a9ee-8b15dec2e96e",
         "36a8ecd3-3cfa-43b3-a063-8afb0fbfab94",
@@ -437,7 +437,7 @@
     {
       "dutyID": "3f55f00c-1575-4273-a8de-2f401aa43688",
       "dutyDetail": "Undertake upgrades to a network including physical or virtual systems",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a636cf9b-0f30-46b6-a9ee-8b15dec2e96e"
       ],
@@ -473,7 +473,7 @@
     {
       "dutyID": "79bb4084-42f3-4ec1-bd42-e85ed43ff3e7",
       "dutyDetail": "Interpret written requirements and technical specifications in relation to delivery of network systems and services",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "36a8ecd3-3cfa-43b3-a063-8afb0fbfab94",
         "a8b2bd60-13f8-4256-bcdd-9614db1efd12",
@@ -497,7 +497,7 @@
     {
       "dutyID": "c8b91beb-c702-46b5-9960-5c3f32f50e22",
       "dutyDetail": "Maintain accurate logical records in line within organisational policy when carrying out network tasks",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "36a8ecd3-3cfa-43b3-a063-8afb0fbfab94",
         "dc72006f-d38e-4ac6-b5d3-8cd5c86e31f2",
@@ -519,7 +519,7 @@
     {
       "dutyID": "51ed521f-3656-4fb3-a6fe-81badd9cc270",
       "dutyDetail": "Use operational data to manage weekly work schedule in an efficient and cost effective way",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a636cf9b-0f30-46b6-a9ee-8b15dec2e96e",
         "36a8ecd3-3cfa-43b3-a063-8afb0fbfab94",
@@ -540,7 +540,7 @@
     {
       "dutyID": "7fef9c92-412b-4168-b546-83cf8c9f5edb",
       "dutyDetail": "Consider the impact and risks when implementing network changes in line with work activities and escalating as required by organisational policies",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "36a8ecd3-3cfa-43b3-a063-8afb0fbfab94",
         "a8b2bd60-13f8-4256-bcdd-9614db1efd12",
@@ -566,7 +566,7 @@
     {
       "dutyID": "76a1b07b-ea07-4064-bf38-cca0b91b45d5",
       "dutyDetail": "Communicate technical network requirements effectively and professionally with a range of stakeholders ensuring stakeholder relationships are maintained",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a8b2bd60-13f8-4256-bcdd-9614db1efd12",
         "0ef8eadd-e29a-4e48-b987-5d15f944b52c",
@@ -587,7 +587,7 @@
     {
       "dutyID": "5efcf80f-ace6-4746-a1e6-e77d40fa432b",
       "dutyDetail": "Practice continuous self-learning to keep up to date with technological developments to enhance relevant skills and take responsibility for own professional development",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a636cf9b-0f30-46b6-a9ee-8b15dec2e96e",
         "8dccf5df-44b8-4894-a7ac-dabf43968300"
@@ -604,7 +604,7 @@
     {
       "dutyID": "90fc1810-a08a-4eb3-8451-6808af328436",
       "dutyDetail": "Incorporate considerations of the requirements of the wider digital context in which they operate to ensure that network engineering activities are carried out effectively",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a636cf9b-0f30-46b6-a9ee-8b15dec2e96e",
         "36a8ecd3-3cfa-43b3-a063-8afb0fbfab94",
@@ -628,7 +628,7 @@
     {
       "dutyID": "0a7828b8-21e7-4dc3-aa49-29ea4ed6cc9a",
       "dutyDetail": "Ensure all network engineering activity complies with organisational policies, technical standards, Health and Safety legislation, data security requirements, professional ethics, privacy and confidentiality",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a636cf9b-0f30-46b6-a9ee-8b15dec2e96e",
         "36a8ecd3-3cfa-43b3-a063-8afb0fbfab94",
@@ -650,7 +650,7 @@
     {
       "dutyID": "9bf73342-b79a-464b-ba04-ef7a4795ce28",
       "dutyDetail": "Deliver and manage a high quality service under pressure",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a8b2bd60-13f8-4256-bcdd-9614db1efd12",
         "0ef8eadd-e29a-4e48-b987-5d15f944b52c",
