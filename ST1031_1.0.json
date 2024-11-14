@@ -246,7 +246,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-12-11T00:00:00 +00:00",
@@ -269,10 +269,10 @@
     "Social media assistant"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Marketing",
-  "cluster": "Marketing assistant",
+  "cluster": "Marketing Assistant",
   "clusterId": "124",
   "clusterDescription": "Plan, organise and deliver key marketing actions and events",
   "createdDate": "2024-05-17T09:29:46 +00:00",
@@ -306,7 +306,7 @@
     {
       "dutyID": "96033fcf-f695-4fc4-ac5b-d72236315fad",
       "dutyDetail": "Contribute to the marketing plan, delivery or evaluation of strategic marketing activity through the creation of written planning and evaluation documents and presentations, e.g., marketing campaign, market and customer intelligence research, communicate and present to stakeholders, agencies and internal teams.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9cb99c32-c0d0-4309-b2ac-21baab07df2d",
         "7b478d0e-99f4-4612-83be-a0bc8aa4e4f8"
@@ -341,7 +341,7 @@
     {
       "dutyID": "c5b0650b-7fa0-491f-9a10-a769605d68d0",
       "dutyDetail": "Use appropriate primary and/or secondary research methods including survey tools, key word research tools and desktop research to gather marketing insight or evaluation. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf4b1512-5f04-45ff-b874-d3918cd6ed2f"
       ],
@@ -362,7 +362,7 @@
     {
       "dutyID": "f2f113df-e0b8-4db4-93cd-f469daeeb3d9",
       "dutyDetail": "Use research data to inform marketing decisions, targeting, planning, delivery.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9cb99c32-c0d0-4309-b2ac-21baab07df2d"
       ],
@@ -387,7 +387,7 @@
     {
       "dutyID": "ebc6274a-98f8-480a-84ab-512fef56c1ff",
       "dutyDetail": "Source, create and edit content in collaboration with colleagues for appropriate marketing channels, such as website, email, social media, sales materials, affiliate marketing or event displays, ensuring that brand guidelines are met in order to achieve marketing objectives.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf4b1512-5f04-45ff-b874-d3918cd6ed2f",
         "9cb99c32-c0d0-4309-b2ac-21baab07df2d"
@@ -418,7 +418,7 @@
     {
       "dutyID": "6dd397f1-c0b0-4480-b623-926a78ded864",
       "dutyDetail": "Support and manage the cataloguing of offline and digital marketing materials and assets in line with marketing regulations and legislation including sustainability of hard copy and digital campaigns, e.g., storage and organisation of marketing materials, administering creative asset management systems, recycling/circular economy/energy consumption.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0c96de9b-ad00-4832-a19b-99f69ba9e3ce"
       ],
@@ -439,7 +439,7 @@
     {
       "dutyID": "6aaa0421-6514-455b-b466-a2b6656474c8",
       "dutyDetail": "Publish, monitor and respond to editorial, creative or video content via website, social media/video sharing platforms, offline platforms.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf4b1512-5f04-45ff-b874-d3918cd6ed2f"
       ],
@@ -470,7 +470,7 @@
     {
       "dutyID": "6affefba-554a-4b5a-9264-9e261a6f6ec2",
       "dutyDetail": "Support the administration of marketing activities, e.g., organise a webinar or online/offline event; run an email campaign, run a pay per click (PPC) campaign, support press, advertising and PR activity, and partner marketing activity.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf4b1512-5f04-45ff-b874-d3918cd6ed2f",
         "0c96de9b-ad00-4832-a19b-99f69ba9e3ce",
@@ -505,7 +505,7 @@
     {
       "dutyID": "89afd8da-2ac0-4f5a-9bbc-acd4f8b3c0c5",
       "dutyDetail": "Use the organisation’s customer relationship management system (inhouse or externally sourced) to maintain accurate customer data and relationships are managed in the pursuit of marketing goals.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf4b1512-5f04-45ff-b874-d3918cd6ed2f",
         "398d21b1-7838-4cab-bb38-94fa2b109645"
@@ -527,7 +527,7 @@
     {
       "dutyID": "4b8b99ea-b904-48a3-8ee0-f968a61df33a",
       "dutyDetail": "Identify and use relevant/emerging trends, solutions and technologies to implement effective marketing activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf4b1512-5f04-45ff-b874-d3918cd6ed2f",
         "398d21b1-7838-4cab-bb38-94fa2b109645",
@@ -555,7 +555,7 @@
     {
       "dutyID": "fc989678-ea4f-4ccd-938d-4e8f3e97bfd4",
       "dutyDetail": "Contribute to the monitoring of marketing expenditure and activities to a specified budget and plan in line with company processes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "f4c5f7c1-7dc4-43b7-a7a6-0c3a4e917de7",
@@ -574,7 +574,7 @@
     {
       "dutyID": "c9fa2550-022f-4e4b-8e4c-d4139f71c220",
       "dutyDetail": "Monitor, optimise, analyse and evaluate marketing campaigns and channels in order to deliver on marketing objectives for the organisation and/or clients, measuring marketing delivery effectiveness.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf4b1512-5f04-45ff-b874-d3918cd6ed2f",
         "7b478d0e-99f4-4612-83be-a0bc8aa4e4f8"
