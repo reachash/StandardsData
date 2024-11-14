@@ -182,7 +182,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2015-03-26T00:00:00 +00:00",
@@ -199,7 +199,7 @@
     "Actuarial technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Financial",
   "cluster": "Financial technician",
@@ -217,7 +217,7 @@
     {
       "dutyID": "cb5ff6d5-7390-455e-8577-5d2b7a44fbe6",
       "dutyDetail": "Identify and access source data to inform mathematical models. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "72bc7688-bae4-43f0-b348-ac0b532ac4e9"
       ],
@@ -238,7 +238,7 @@
     {
       "dutyID": "924b722b-55e5-42a9-a60b-7ef183f2d9f6",
       "dutyDetail": "Prepare data for use in mathematical models and ensure its quality and accuracy.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "72bc7688-bae4-43f0-b348-ac0b532ac4e9"
       ],
@@ -261,7 +261,7 @@
     {
       "dutyID": "01be231c-dc60-469d-b169-19bc3c6da88e",
       "dutyDetail": "Create and use spreadsheets and models to convey data and findings to stakeholders. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "72bc7688-bae4-43f0-b348-ac0b532ac4e9"
       ],
@@ -283,7 +283,7 @@
     {
       "dutyID": "8f9d1143-ae26-4d90-9e27-58dcbdd37f42",
       "dutyDetail": "Communicate the outputs from mathematical models to stakeholders in an accurate and clear way, using language appropriate to the audience.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7be1f798-ed14-46b5-b4c7-cbd03fc5ba8f",
         "e74bbeee-3e6c-4876-a6d5-3cf63219d4a2"
@@ -308,7 +308,7 @@
     {
       "dutyID": "6afc4318-3ece-46bf-aff5-465b36eabf1b",
       "dutyDetail": "Provide technical actuarial analytical support to the wider team. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7be1f798-ed14-46b5-b4c7-cbd03fc5ba8f",
         "b6583eb6-d569-4f5c-b9d5-298496c7a7ea",
@@ -337,7 +337,7 @@
     {
       "dutyID": "73580893-b907-4673-a5b4-c79f8fb1312b",
       "dutyDetail": "Develop and test data and mathematical systems.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "72bc7688-bae4-43f0-b348-ac0b532ac4e9"
       ],
@@ -357,7 +357,7 @@
     {
       "dutyID": "e48b5719-7495-461d-b1bb-5ff4b8bf145f",
       "dutyDetail": "Use digital technologies to deliver organisational objectives. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "72bc7688-bae4-43f0-b348-ac0b532ac4e9",
         "e74bbeee-3e6c-4876-a6d5-3cf63219d4a2"
@@ -384,7 +384,7 @@
     {
       "dutyID": "3a8e1c64-e80e-4c7e-8911-c35373253587",
       "dutyDetail": "Provide stakeholder support in response to queries from clients, third party stakeholders and other internal teams.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7be1f798-ed14-46b5-b4c7-cbd03fc5ba8f",
         "b6583eb6-d569-4f5c-b9d5-298496c7a7ea",
@@ -416,7 +416,7 @@
     {
       "dutyID": "e3e44e56-4f26-4991-a71b-c166e2920fa4",
       "dutyDetail": "Maintain knowledge of current key trends in the actuarial profession to inform their capacity to give good advice and analysis. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b6583eb6-d569-4f5c-b9d5-298496c7a7ea"
       ],
@@ -435,7 +435,7 @@
     {
       "dutyID": "9f7eb011-42fa-41af-abb3-7bdf913be50e",
       "dutyDetail": "Maintain internal and external documentation. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7be1f798-ed14-46b5-b4c7-cbd03fc5ba8f",
         "b6583eb6-d569-4f5c-b9d5-298496c7a7ea"
