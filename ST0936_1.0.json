@@ -174,7 +174,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2021-06-15T00:00:00 +00:00",
@@ -198,7 +198,7 @@
     "Planning Support Officer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Design, Surveying & Planning",
   "cluster": "Design and surveying advanced technician",
@@ -223,7 +223,7 @@
     {
       "dutyID": "078c6bdf-e1f8-462a-a715-cecc5c989f8e",
       "dutyDetail": "Research and compile site history including any land use policy restrictions and constraints",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1fd2322-39cf-47ec-a7fb-c92e3c5cb200",
         "ceee0c34-b485-44f8-b032-a5c3e7752555",
@@ -250,7 +250,7 @@
     {
       "dutyID": "a7b99c9d-77e9-4a06-b686-03ec703f5398",
       "dutyDetail": "Undertake initial site analysis through site visits, taking site photographs, analysis of maps",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1fd2322-39cf-47ec-a7fb-c92e3c5cb200",
         "ceee0c34-b485-44f8-b032-a5c3e7752555",
@@ -273,7 +273,7 @@
     {
       "dutyID": "2137f1de-710d-4955-b9f3-6d4e1af6b48f",
       "dutyDetail": "Measure proposals for development, as represented on a site plan or in elevation, to understand the size and scale of the proposed buildings and structures",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1fd2322-39cf-47ec-a7fb-c92e3c5cb200",
         "ceee0c34-b485-44f8-b032-a5c3e7752555",
@@ -295,7 +295,7 @@
     {
       "dutyID": "4654ffb6-741a-4109-b6a9-4cd2635a9330",
       "dutyDetail": "Summarise policy constraints, site research and baseline analysis with regards to planning applications or proposal for developments and present the information clearly and concisely in written and verbal format to Chartered Town Planners",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1fd2322-39cf-47ec-a7fb-c92e3c5cb200",
         "ceee0c34-b485-44f8-b032-a5c3e7752555",
@@ -325,7 +325,7 @@
     {
       "dutyID": "dee0a68a-da0c-45a2-9fce-bec2f4cf14b1",
       "dutyDetail": "Review environmental and other specialist designations and reports to provide a preliminary assessment of the environmental and physical impact of planning applications and/or development proposals.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1fd2322-39cf-47ec-a7fb-c92e3c5cb200",
         "ceee0c34-b485-44f8-b032-a5c3e7752555",
@@ -346,7 +346,7 @@
     {
       "dutyID": "de1bb680-2325-4304-bfdf-484ef0f9d956",
       "dutyDetail": "Monitor and check proposals for development, planning applications and/or completed proposals for compliance against relevant local, strategic and national planning requirements including statutory obligations and conditions. Commence Enforcement investigations under the supervision of a Chartered Town Planner.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1fd2322-39cf-47ec-a7fb-c92e3c5cb200",
         "ceee0c34-b485-44f8-b032-a5c3e7752555",
@@ -375,7 +375,7 @@
     {
       "dutyID": "705eb904-08c8-4525-8c7b-d2a7c9203d91",
       "dutyDetail": "Apply relevant legislation and national and locally adopted policy when working on planning projects and casework.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1fd2322-39cf-47ec-a7fb-c92e3c5cb200",
         "ceee0c34-b485-44f8-b032-a5c3e7752555",
@@ -402,7 +402,7 @@
     {
       "dutyID": "0c792dde-be7e-4f65-9486-7b7f46ef71d3",
       "dutyDetail": "Provide clear and relevant advice to members of the public, councillors, agents and/or clients on planning issues, face to face, by phone and by email and other communications.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1fd2322-39cf-47ec-a7fb-c92e3c5cb200",
         "ceee0c34-b485-44f8-b032-a5c3e7752555",
@@ -430,7 +430,7 @@
     {
       "dutyID": "1bcea32e-7815-476b-9e65-9ab3aa0e0e89",
       "dutyDetail": "Manage a caseload of straight-forward planning applications and representations to development plans under supervision.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1fd2322-39cf-47ec-a7fb-c92e3c5cb200",
         "ceee0c34-b485-44f8-b032-a5c3e7752555",
@@ -463,7 +463,7 @@
     {
       "dutyID": "49337123-d149-4f3a-82a2-1401052b1748",
       "dutyDetail": "Assist Chartered Town Planners with consultation and/or community engagement on planning applications and/or strategic or local plans including taking part in technical discussions on proposals for development with members of the public and/or councillors and justifying the stance you take.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1fd2322-39cf-47ec-a7fb-c92e3c5cb200",
         "ceee0c34-b485-44f8-b032-a5c3e7752555",
@@ -486,7 +486,7 @@
     {
       "dutyID": "3cf701dd-77f6-456a-a4fc-35bc6a790aa5",
       "dutyDetail": "Attend and speak at planning meetings, in an office environment and on site, and keep an accurate record of meetings",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1fd2322-39cf-47ec-a7fb-c92e3c5cb200",
         "ceee0c34-b485-44f8-b032-a5c3e7752555",
@@ -514,7 +514,7 @@
     {
       "dutyID": "6e0044f3-1bf9-4ed2-acfe-b8ab31a299c0",
       "dutyDetail": "Support Chartered Town Planners to deliver projects including following a project plan and ensuring key timescales are met.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1fd2322-39cf-47ec-a7fb-c92e3c5cb200",
         "ceee0c34-b485-44f8-b032-a5c3e7752555",
@@ -538,7 +538,7 @@
     {
       "dutyID": "7a2fcd14-2803-481d-948b-0a72022f40a0",
       "dutyDetail": "Describe and code plans, planning documents, and supporting material accurately within a relevant workplace document filing system or casework management system",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1fd2322-39cf-47ec-a7fb-c92e3c5cb200",
         "ceee0c34-b485-44f8-b032-a5c3e7752555",
@@ -561,7 +561,7 @@
     {
       "dutyID": "781cbb0e-2c60-4cb8-90b8-43d1287912ae",
       "dutyDetail": "Work as part of a multidisciplinary team, knowing who to consult and seeking advice from other disciplines where relevant",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1fd2322-39cf-47ec-a7fb-c92e3c5cb200",
         "ceee0c34-b485-44f8-b032-a5c3e7752555",
@@ -593,7 +593,7 @@
     {
       "dutyID": "05175304-61b5-4703-87b6-bdc03c2cf181",
       "dutyDetail": "Prepare documentation including graphical representations, maps and site plans and present to clients and/or local authority committee under supervision.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1fd2322-39cf-47ec-a7fb-c92e3c5cb200",
         "ceee0c34-b485-44f8-b032-a5c3e7752555",
@@ -616,7 +616,7 @@
     {
       "dutyID": "cfd47e95-b3a6-4857-b758-8d18338dbdfb",
       "dutyDetail": "Assist Chartered Town Planners with planning appeals, collating casework materials and supporting documentation and responding to written evidence and other planning information presented by the opposing side.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1fd2322-39cf-47ec-a7fb-c92e3c5cb200",
         "ceee0c34-b485-44f8-b032-a5c3e7752555",
