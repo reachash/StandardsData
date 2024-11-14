@@ -761,7 +761,7 @@
     "Dental hygienist"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
   "cluster": "Health professional",
@@ -795,7 +795,7 @@
     {
       "dutyID": "66537c46-c703-472c-8bd5-e0d0dfb338d5",
       "dutyDetail": "Conduct clinical consultations, oral health examinations and diagnostic procedures to assess the oral healthcare needs of patients.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "15e2d5bd-37cb-4a58-957a-f6a3d22a10e2",
@@ -845,7 +845,7 @@
     {
       "dutyID": "bbcd872f-eea6-4632-97fd-19c45bb7ff09",
       "dutyDetail": "Critically analyse and interpret the results of clinical consultations, oral health examinations and diagnostic procedures, to diagnose and plan oral health care treatment, including cross referral to other members of the dental team and wider health and social care team. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "fdbd08bd-0edd-4056-8c10-9ea8d892ad23",
@@ -878,7 +878,7 @@
     {
       "dutyID": "f45f49db-c95a-4f8c-8264-af4c1dac1c62",
       "dutyDetail": "Provide oral healthcare advice and preventative treatments, periodontal therapy, manage tooth wear, early decay, the maintenance of dental implants and soft tissue conditions within the General Dental Council scope of practice for dental hygienists.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "6c5d8ce2-db04-4fdc-a643-f550669a33fe",
@@ -902,7 +902,7 @@
     {
       "dutyID": "bb6c4a7f-ff57-4168-a832-958bbe62654a",
       "dutyDetail": "Communicate effectively, maintaining confidentiality and records appropriately.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "e984e811-9637-40b9-bf08-9d2d147a0f3e",
@@ -921,7 +921,7 @@
     {
       "dutyID": "51f861e7-27a4-4372-98a2-d6fc82517b63",
       "dutyDetail": "Provide professional leadership within the team working in partnership with patients, dental teams, other health and social care professionals. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "c84873af-9b8a-4ca2-a657-cad53ebdd901",
@@ -952,7 +952,7 @@
     {
       "dutyID": "8b68dc5e-f0af-475b-80ca-4dd10cfe633b",
       "dutyDetail": "Practise as an autonomous professional exercising judgement and integrity, keeping within the scope of practice and the legal and ethical boundaries of the profession.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5670da8d-9bb9-4165-becc-b1b3a9484cc7",
         "b10e8847-69a0-4c95-8f13-4f545353f60f",
@@ -992,7 +992,7 @@
     {
       "dutyID": "cd30cbcc-f07a-4da9-a3ad-576673c8adc6",
       "dutyDetail": "Practise in a non-discriminatory and inclusive manner recognising the impact of culture, equality and diversity.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "bdad676c-6a40-451f-97d4-cc2aa22dc635",
@@ -1012,7 +1012,7 @@
     {
       "dutyID": "829679d6-7f21-42a1-930d-969dfe7f05e6",
       "dutyDetail": "Promote oral health to individuals and the wider population and raise awareness of its role in preventing ill health amongst communities. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "c657f40c-5643-4869-8d9e-560ca2a98bd5",
@@ -1038,7 +1038,7 @@
     {
       "dutyID": "f4804af3-81de-4e65-97be-45e6d9b97318",
       "dutyDetail": "Reflect on, review and develop the quality of own practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dc6c3e71-0c72-4ec7-9689-4c7b334040a2"
       ],
@@ -1071,7 +1071,7 @@
     {
       "dutyID": "1e28d0a6-9f13-4143-ac74-71de030094fe",
       "dutyDetail": "Manage own health and well-being and promote the well-being of others in the team.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "3ced39f0-57b9-4b24-b113-704b52e3c591",
