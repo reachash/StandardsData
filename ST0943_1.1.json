@@ -263,7 +263,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2021-09-01T00:00:00 +00:00",
@@ -284,7 +284,7 @@
     "Spa Assistant Stylist"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Animal Care and Management",
   "cluster": "Animal care and welfare assistant",
@@ -302,7 +302,7 @@
     {
       "dutyID": "76374f2c-2a69-49bc-a93b-ad36ba607d69",
       "dutyDetail": "Collaborate with customers. Gather information on the owners’ requirements, dog’s welfare needs and grooming history. Take into account coat type, length and condition (i.e. wool, wool mix, wire, silk, smooth, double and combination coats). Manage expectations of the groom in terms of the appearance, duration and cost. Identify and agree the outcome. Record the requirements in line with salon procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e2b7869e-07e7-4212-91d0-19cb667af3be",
         "fa4f67ca-b7ee-4643-b4ec-e42c03a12767",
@@ -341,7 +341,7 @@
     {
       "dutyID": "a78f4395-f432-49f7-81dd-3b69a8b2f25e",
       "dutyDetail": "Assess dog for signs of abnormal health and behavioural/ stress indicators. Take into account, breed, size, life stage, coat type and condition, pre-existing health conditions, medication, known temperament and behavioural observations. Use this information and additional findings obtained during the grooming process to develop the grooming plan. Adapt the plan, taking into account the individual dog requirements and continue to consider overall suitability for groom.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aba3236d-b40a-4a1b-94f5-a4858353a6bd",
         "e2b7869e-07e7-4212-91d0-19cb667af3be",
@@ -371,7 +371,7 @@
     {
       "dutyID": "e7f76236-225b-471d-ac67-b23368f30624",
       "dutyDetail": "Handle, restrain and move dogs in accordance with the needs of the dog. For example, breed, size, age, pre-existing conditions, behaviour. Use safe manual handling techniques. Select and use suitable equipment to maintain the health, safety and welfare of the dog and groomer. Adapt the approach taken should conditions change.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aba3236d-b40a-4a1b-94f5-a4858353a6bd",
         "e2b7869e-07e7-4212-91d0-19cb667af3be",
@@ -401,7 +401,7 @@
     {
       "dutyID": "376a7b34-c5b3-4de3-af1a-7a584585414c",
       "dutyDetail": "Select grooming products according to dog needs and workplace. Take into account known allergies and sensitivities, anti-parasitic and anti-bacterial properties, fragrance and suitability to enhance the coat. Dilute and prepare the products in line with manufacturer guidelines.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aba3236d-b40a-4a1b-94f5-a4858353a6bd",
         "e2b7869e-07e7-4212-91d0-19cb667af3be"
@@ -425,7 +425,7 @@
     {
       "dutyID": "a206b815-241e-4d1e-859e-96dfaa874b22",
       "dutyDetail": "Bathing dogs. Adapt techniques for different skull shapes, ear shapes and the breed. Select equipment and products relevant to the needs of the dog. Take account of skin and coat condition and presence of parasites. Establish and maintain suitable water temperature and pressure. Ensure that products are applied in line with manufacturer guidelines. Modify approach where needed.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aba3236d-b40a-4a1b-94f5-a4858353a6bd",
         "e2b7869e-07e7-4212-91d0-19cb667af3be"
@@ -450,7 +450,7 @@
     {
       "dutyID": "96b06a13-1f9b-41f6-bc37-963db353f16d",
       "dutyDetail": "Select equipment and apply drying techniques taking account of the coat type, breed, and the dogs’ grooming plan. Adapt approach to suit the dog and its behaviour.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aba3236d-b40a-4a1b-94f5-a4858353a6bd",
         "e2b7869e-07e7-4212-91d0-19cb667af3be"
@@ -476,7 +476,7 @@
     {
       "dutyID": "a3f6fb2a-2c8a-43cd-8b2e-59f0234ec129",
       "dutyDetail": "Assess nail length and use correct techniques to trim to optimum length. Avoid damage to the quick and take account of the angle of cut according to the dog, breed and exercise requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aba3236d-b40a-4a1b-94f5-a4858353a6bd",
         "e2b7869e-07e7-4212-91d0-19cb667af3be"
@@ -499,7 +499,7 @@
     {
       "dutyID": "9fce0a0f-56ff-478b-a89f-39f629a0b4e7",
       "dutyDetail": "Carry out maintenance trims, safely using scissors and clippers. Safely manipulate limbs and feet during trimming of the feet and pads. Modify handling techniques according to dog temperament, breed, life stage and any relevant health issues.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aba3236d-b40a-4a1b-94f5-a4858353a6bd",
         "e2b7869e-07e7-4212-91d0-19cb667af3be"
@@ -525,7 +525,7 @@
     {
       "dutyID": "fb2239af-b5a3-4568-976b-85f5ce130d03",
       "dutyDetail": "Recognise when to terminate a groom when it is in the welfare interest of the dog, groomer, other dogs and colleagues in the salon. Monitor the dogs’ behaviour and welfare and adapt techniques, methods and equipment to maximise the dogs’ welfare.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aba3236d-b40a-4a1b-94f5-a4858353a6bd",
         "e2b7869e-07e7-4212-91d0-19cb667af3be",
@@ -561,7 +561,7 @@
     {
       "dutyID": "e43aec9c-597f-4347-9220-d5ae263f7a31",
       "dutyDetail": "Use correct manual handling techniques to transfer and move the dog to the holding area. Brief colleagues on the dog’s current state and highlight any pertinent information.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aba3236d-b40a-4a1b-94f5-a4858353a6bd",
         "e2b7869e-07e7-4212-91d0-19cb667af3be",
@@ -592,7 +592,7 @@
     {
       "dutyID": "1f8f1439-c46a-47ae-827c-f790b8ffe402",
       "dutyDetail": "Maintain cleanliness and biosecurity of the work environment, including the correct maintenance, storage and sterilisation of equipment. Dispose of waste materials in line with regulatory requirements. Report maintenance requirements in line with workplace procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aba3236d-b40a-4a1b-94f5-a4858353a6bd",
         "fa4f67ca-b7ee-4643-b4ec-e42c03a12767"
@@ -616,7 +616,7 @@
     {
       "dutyID": "7514f87c-65a4-4c61-80da-91a5a4bc1ead",
       "dutyDetail": "Transfer dog to client, update records, take payment, provide generic coat maintenance and product advice and feedback specific to the groom. Handle complaints and address straightforward problems in accordance with workplace processes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aba3236d-b40a-4a1b-94f5-a4858353a6bd"
       ],
@@ -641,7 +641,7 @@
     {
       "dutyID": "af3bd97c-2126-435e-a994-d9132fbcdf37",
       "dutyDetail": "Deal with customer enquiries. Assimilate information (face to face, telephone, social media). Schedule bookings taking into consideration the availability of resources. Take account of grooming requirements applicable to the dog, breed, health conditions and life stage.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aba3236d-b40a-4a1b-94f5-a4858353a6bd",
         "81d96ade-b5ff-4c1f-a13a-0268eaad0ed9"
@@ -664,7 +664,7 @@
     {
       "dutyID": "56e66f7b-473f-4307-8f4d-380386db84e8",
       "dutyDetail": "Maintain working relationships and communicate effectively with internal and external stakeholders. Share technical knowledge with peers and/ or support newly appointed dog groomers or volunteers. Comply with relevant data protection regulations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aba3236d-b40a-4a1b-94f5-a4858353a6bd",
         "fa4f67ca-b7ee-4643-b4ec-e42c03a12767",
@@ -691,7 +691,7 @@
     {
       "dutyID": "4c083cf8-ef36-4477-9122-301d0acb9458",
       "dutyDetail": "Respond to canine first aid situations and carry out appropriate actions. Report to owner and seek veterinary attention and escalate where required.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aba3236d-b40a-4a1b-94f5-a4858353a6bd",
         "e2b7869e-07e7-4212-91d0-19cb667af3be",
@@ -718,7 +718,7 @@
     {
       "dutyID": "3763a472-d34d-4162-8947-7bc20578ea73",
       "dutyDetail": "Support business objectives by achieving Key Performance Indicators, customer service targets and feed into continuous improvement.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aba3236d-b40a-4a1b-94f5-a4858353a6bd",
         "57eadb29-88a0-4c02-b3a8-70060114e717",
