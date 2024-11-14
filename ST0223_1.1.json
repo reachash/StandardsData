@@ -207,7 +207,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2017-06-27T00:00:00 +00:00",
@@ -226,7 +226,7 @@
     "Tree surgeon"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Arboriculture and Forestry Operative",
@@ -301,7 +301,7 @@
     {
       "dutyID": "0b4bbf15-51f0-45cd-8caa-86019a24dcf1",
       "dutyDetail": "Identify tree(s) to be worked on by common name",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "319a4144-aacb-4048-a71a-0ac03d9d9e82"
@@ -315,7 +315,7 @@
     {
       "dutyID": "6860d700-00af-433d-b3b4-2fb58c26d6d8",
       "dutyDetail": "Complete arboricultural operations safely, using the correct equipment in accordance with guidelines and training, including the transfer of equipment to colleagues.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0feddae4-7028-4c6b-849d-fa2c91780b0d",
         "1ca66b5e-f4d2-4ec1-84ff-a57657898499",
@@ -350,7 +350,7 @@
     {
       "dutyID": "7d1bef53-cd9f-4f48-b675-8d7758efb3a3",
       "dutyDetail": "Promote safe working practices at all times and ensure that all equipment is safe to use.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0feddae4-7028-4c6b-849d-fa2c91780b0d",
         "0888656d-d91d-4a6c-9640-e3bc8c23fc58",
@@ -383,7 +383,7 @@
     {
       "dutyID": "255678f3-14f8-4df9-82ff-51d22063e2b6",
       "dutyDetail": "Carry out onsite risk assessments and use outcomes to put in place measures to help ensure the safety of work colleagues and members of the public.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0feddae4-7028-4c6b-849d-fa2c91780b0d",
         "07caa992-355b-44d7-b76f-f77a5e9b51e9"
@@ -417,7 +417,7 @@
     {
       "dutyID": "67b39127-cc35-44e3-a079-889d33a61753",
       "dutyDetail": "Climb and conduct aerial arboricultural operations from a rope and harness to industry best practice standards. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "08b4a307-1b0b-41be-bc4f-cd2a3ca566d4",
@@ -441,7 +441,7 @@
     {
       "dutyID": "baf9a6d3-cdc7-4746-96a4-1b6227b19c19",
       "dutyDetail": "Perform aerial rescue of colleagues from a rope and harness in emergencies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0888656d-d91d-4a6c-9640-e3bc8c23fc58"
       ],
@@ -460,7 +460,7 @@
     {
       "dutyID": "49d76840-e7b7-47db-9f9f-6f6511a3d945",
       "dutyDetail": "Fell and process trees safely.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "07caa992-355b-44d7-b76f-f77a5e9b51e9"
       ],
@@ -484,7 +484,7 @@
     {
       "dutyID": "88c3100b-1752-4fe3-8dd1-d502bc76feb0",
       "dutyDetail": "Use specialist machinery to manage and process brush wood.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "08b4a307-1b0b-41be-bc4f-cd2a3ca566d4",
@@ -500,7 +500,7 @@
     {
       "dutyID": "09b88f9b-d2a6-458d-b952-c9cfb6d5c228",
       "dutyDetail": "Ensure work sites are left in a safe and tidy condition at the end of each working day. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "07caa992-355b-44d7-b76f-f77a5e9b51e9"
       ],
@@ -517,7 +517,7 @@
     {
       "dutyID": "938d9098-a2d7-46d2-a1f2-609d30520619",
       "dutyDetail": "Carry out formative pruning to young trees to form good canopy structure ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "07caa992-355b-44d7-b76f-f77a5e9b51e9"
       ],
@@ -534,7 +534,7 @@
     {
       "dutyID": "cac6f59a-a626-4487-8e75-b95d09ce8be0",
       "dutyDetail": "Carries out target pruning to mature trees",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "fe5a790f-2bbf-4439-a607-568d33dfdc33",
@@ -550,7 +550,7 @@
     {
       "dutyID": "fdf2a9e0-540c-4a47-b449-7ad9f800d047",
       "dutyDetail": "Operate duties in a way that minimises impact upon the environment including safe and efficient use of fuels/oils, the correct handling and disposal of waste materials and sterilisation of tools and boots.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0888656d-d91d-4a6c-9640-e3bc8c23fc58",
         "07caa992-355b-44d7-b76f-f77a5e9b51e9"
@@ -569,7 +569,7 @@
     {
       "dutyID": "95bdddc3-99a4-416f-92cf-35b0c13b1b75",
       "dutyDetail": "Provide good customer service and care at all times.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0feddae4-7028-4c6b-849d-fa2c91780b0d",
         "0888656d-d91d-4a6c-9640-e3bc8c23fc58",
