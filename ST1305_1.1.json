@@ -286,7 +286,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2022-11-09T00:00:00 +00:00",
@@ -321,7 +321,7 @@
     "Precision engineer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing and Process Operative/Technician",
@@ -367,7 +367,7 @@
     {
       "dutyID": "e0e5401c-4ac8-41bf-8627-7a9283c81b40",
       "dutyDetail": "Conduct safety checks and performance monitoring for machining, associated equipment and surrounding work area.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ed083582-6624-42e8-b6f6-3dc483d0c2b4"
       ],
@@ -388,7 +388,7 @@
     {
       "dutyID": "072872ca-5982-4549-a48f-bb218aa45ff0",
       "dutyDetail": "Receive, read and interpret engineering data and documentation, engineering drawings and technical data. Contribute to or plan the days machining schedule.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ed083582-6624-42e8-b6f6-3dc483d0c2b4",
         "a85d7d03-3bc3-49e8-a589-81b36fb1a5ff",
@@ -412,7 +412,7 @@
     {
       "dutyID": "7e6136e8-7ad9-47fe-a597-76dd913a3f50",
       "dutyDetail": "Check and inspect materials to be machined to ensure that they conform to quality standards. Identify and report any issues or faults such as incorrect grades, dimensions and thicknesses.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ed083582-6624-42e8-b6f6-3dc483d0c2b4"
       ],
@@ -431,7 +431,7 @@
     {
       "dutyID": "8bd5cc94-17b7-4ac0-8c02-83d7c5941a49",
       "dutyDetail": "Plan and prepare sequence for the machining activities. Ensure that the correct tooling, work holding, and materials are used. This applies to conventional complex or CNC complex machining tasks.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ed083582-6624-42e8-b6f6-3dc483d0c2b4",
         "a85d7d03-3bc3-49e8-a589-81b36fb1a5ff"
@@ -454,7 +454,7 @@
     {
       "dutyID": "d9c55f88-9c99-40dc-bdde-8c3c88aa8137",
       "dutyDetail": "Set up, operate, adjust or edit conventional or CNC machining equipment settings and programmes for the machine tool being used. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ed083582-6624-42e8-b6f6-3dc483d0c2b4"
       ],
@@ -474,7 +474,7 @@
     {
       "dutyID": "e044ab57-51ec-4aad-b3ec-2015d8473c25",
       "dutyDetail": "Machine high-quality complex components using a broad range of processes. For example, internal or external thread cutting, slots and pockets, internal or external under cutting. Also profile forms, tapered and eccentric diameters, bored holes, and tee slots.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ed083582-6624-42e8-b6f6-3dc483d0c2b4"
       ],
@@ -495,7 +495,7 @@
     {
       "dutyID": "e4cd2681-c1b3-4652-a1bb-1b61754988b8",
       "dutyDetail": "Inspect components produced.  Adjust the machining equipment or programme and tooling to ensure components meet quality requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ed083582-6624-42e8-b6f6-3dc483d0c2b4",
         "a85d7d03-3bc3-49e8-a589-81b36fb1a5ff"
@@ -517,7 +517,7 @@
     {
       "dutyID": "4ff86764-5b85-409f-9116-5467cccd6146",
       "dutyDetail": "Identify, communicate and report issues affecting machining component quality, quantity and deadlines.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ed083582-6624-42e8-b6f6-3dc483d0c2b4"
       ],
@@ -537,7 +537,7 @@
     {
       "dutyID": "045b52b3-ab6c-42b3-9191-ba8232621647",
       "dutyDetail": "Complete machining documentation at all stages of the work activity. For example, standard operational procedures, control documentation and contribution to audits.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ed083582-6624-42e8-b6f6-3dc483d0c2b4"
       ],
@@ -557,7 +557,7 @@
     {
       "dutyID": "2a76ebb3-a377-496d-8349-9f8a08d14d0f",
       "dutyDetail": "Maintain and restore the machining work area, performing housekeeping and waste management as appropriate. Ensure tools, unused materials and equipment are returned to a safe, clean and approved condition on completion of machining work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ed083582-6624-42e8-b6f6-3dc483d0c2b4"
       ],
@@ -575,7 +575,7 @@
     {
       "dutyID": "76a700c1-7978-43e6-9654-79437d0c8206",
       "dutyDetail": "Keep stakeholders for example, customers, colleagues and line managers informed about machining work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1d6a4af-53d3-42d0-963a-2400c02a4400"
       ],
@@ -596,7 +596,7 @@
     {
       "dutyID": "01749a65-ddc3-4a7b-9b87-7702644259ba",
       "dutyDetail": "Perform scheduled daily inspection and machine shut down or safe isolation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ed083582-6624-42e8-b6f6-3dc483d0c2b4"
       ],
@@ -613,7 +613,7 @@
     {
       "dutyID": "263253db-eda5-4285-b33b-f89d5753f8eb",
       "dutyDetail": "Support continuous improvement activity to address business problems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ed083582-6624-42e8-b6f6-3dc483d0c2b4",
         "17b2dff3-628e-4b17-af9c-bd2297e67774",
