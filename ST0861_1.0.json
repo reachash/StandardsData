@@ -264,7 +264,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2021-05-17T00:00:00 +00:00",
@@ -287,7 +287,7 @@
     "Infrastructure asset manager"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Quality improvement and project control manager",
@@ -312,7 +312,7 @@
     {
       "dutyID": "3c1a3dfd-b5c9-497a-a3dc-cd79aa394468",
       "dutyDetail": "Contribute to the development of asset strategies to meet organisational goals.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
         "78f770b2-47e4-4280-8d95-6f1016a4af8d",
@@ -349,7 +349,7 @@
     {
       "dutyID": "57e60752-4ddf-4136-b2cc-b7b08a62fcd6",
       "dutyDetail": "Inform the information management approach, specifications and rules. For example, how to collect data on condition assessment, age profiles and asset failures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
         "c06e053b-bb52-4758-ab80-b741bd13f6e5",
@@ -381,7 +381,7 @@
     {
       "dutyID": "b37b93e2-c972-4b33-a6ac-4307a6afe892",
       "dutyDetail": "Collate, process and evaluate data and information for assets and asset systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
         "f40c0803-b043-4593-8df8-30f6f47c4591"
@@ -413,7 +413,7 @@
     {
       "dutyID": "33c3b898-9ce9-4de4-ae0c-ccd3eb70edba",
       "dutyDetail": "Conduct assessments of asset systems. Identify current and future risk of the asset and consequential service failure. For example, reviewing the performance of assets, loss of service, failure of legal compliance, asset failure/breakage.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
         "f40c0803-b043-4593-8df8-30f6f47c4591"
@@ -447,7 +447,7 @@
     {
       "dutyID": "f6907748-c380-4b7e-9fc3-b0263fa0dcb1",
       "dutyDetail": "Analyse the root cause of asset failure and the impact upon service.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
         "f40c0803-b043-4593-8df8-30f6f47c4591"
@@ -474,7 +474,7 @@
     {
       "dutyID": "2a3f1aa2-fc2f-4f1d-849c-94c6c83b80b9",
       "dutyDetail": "Identify intervention and mitigation options for the failure of assets. For example, preventative/reactive maintenance, new build, refurbishment, replacement, change in operation, rapid response.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
         "78f770b2-47e4-4280-8d95-6f1016a4af8d",
@@ -508,7 +508,7 @@
     {
       "dutyID": "0e72ad3e-031c-4d12-b6eb-1ec25b227668",
       "dutyDetail": "Identify and prioritise the asset needs using for example, whole life cost, cost-benefit analysis, cost effectiveness analysis, multi-criteria decision making and options comparisons.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
         "85ed1917-344a-4ca2-8038-9a3d00f46bd5",
@@ -539,7 +539,7 @@
     {
       "dutyID": "c8aaf84a-8739-4918-b012-0d82a96fde8c",
       "dutyDetail": "Develop business cases to address investment needs and/or to inform asset management decision making.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
         "78f770b2-47e4-4280-8d95-6f1016a4af8d",
@@ -575,7 +575,7 @@
     {
       "dutyID": "670fed5f-6202-4356-b6e7-df7c9bd395de",
       "dutyDetail": "Categorise assets according to common features, consistent with the organisation’s asset management system.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
         "f40c0803-b043-4593-8df8-30f6f47c4591"
@@ -598,7 +598,7 @@
     {
       "dutyID": "25c6c5be-517b-4f92-b424-15159b2864d8",
       "dutyDetail": "Develop impact and contingency plans for asset and/or service failure in consultation with subject matter experts.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
         "85ed1917-344a-4ca2-8038-9a3d00f46bd5",
@@ -631,7 +631,7 @@
     {
       "dutyID": "7d47bf2b-4bde-4d29-b6dd-c20f9be8cb00",
       "dutyDetail": "Contribute to reports, for example, internal performance reports, asset management plans, reports to sector specific regulators and certifying bodies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
         "c06e053b-bb52-4758-ab80-b741bd13f6e5",
@@ -659,7 +659,7 @@
     {
       "dutyID": "bc0e4a91-8d5a-4217-ab70-b140a9b537d4",
       "dutyDetail": "Undertake assurance to challenge data quality, interpretations and assumptions across asset management.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
         "f40c0803-b043-4593-8df8-30f6f47c4591"
@@ -677,7 +677,7 @@
     {
       "dutyID": "a627477f-cdda-493d-8dae-ea33c730595a",
       "dutyDetail": "Engage with stakeholders to support the asset management process. For example, internal colleagues, customers, technical, economic, and environmental regulators.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
         "78f770b2-47e4-4280-8d95-6f1016a4af8d",
@@ -707,7 +707,7 @@
     {
       "dutyID": "74855dda-00b5-4954-9039-d242ead093d2",
       "dutyDetail": "Identify opportunities for continuous improvement of asset management systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
         "78f770b2-47e4-4280-8d95-6f1016a4af8d",
@@ -735,7 +735,7 @@
     {
       "dutyID": "2cf9ccba-a7c4-4715-967e-8d01981211e5",
       "dutyDetail": "Support the selection of external suppliers, the setting of objectives for suppliers and performance measurement of suppliers within the context of the organisation’s asset management approach.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
         "78f770b2-47e4-4280-8d95-6f1016a4af8d",
@@ -767,7 +767,7 @@
     {
       "dutyID": "0e44f955-ec42-4add-921a-cf52c22d4400",
       "dutyDetail": "Champion the asset management approach, including implementation of the resource and competence strategy, within the organisation to support clear and consistent decision making.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
         "78f770b2-47e4-4280-8d95-6f1016a4af8d",
