@@ -183,7 +183,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-09-07T00:00:00 +00:00",
@@ -207,7 +207,7 @@
     "Sales ledger clerk"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Accountancy",
   "cluster": "Assistant accountant",
@@ -249,7 +249,7 @@
     {
       "dutyID": "40f59e8d-c38c-4102-8db1-eb1a2f0308b2",
       "dutyDetail": "Assist with monthly and year end reporting of financial and accounts information. This will include the timely collation of data from a range of sources, such as different functions within one organisation, or a range of external clients if operating in a practice. This includes both foreseeable finance and accounting data requirements and unexpected requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d225ea4d-c762-4e2d-b724-f546cb2f03a7",
         "294c7c81-4f23-4257-b50a-98130ceed4ec",
@@ -277,7 +277,7 @@
     {
       "dutyID": "0f17c86c-5dc6-49ba-8b9a-fe6f7bb1892d",
       "dutyDetail": "Maintain financial and accounting records including the timely collation of data from a range of sources.  For example, different functions within one organisation, or a range of external clients if operating in practice. This includes both foreseeable requirements and unexpected requests, often to tight timescales.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d225ea4d-c762-4e2d-b724-f546cb2f03a7",
         "294c7c81-4f23-4257-b50a-98130ceed4ec",
@@ -299,7 +299,7 @@
     {
       "dutyID": "5352419d-58db-4892-aba6-d1b466d89b78",
       "dutyDetail": "Safeguard against suspicious activities for example anti-money laundering.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d225ea4d-c762-4e2d-b724-f546cb2f03a7",
         "294c7c81-4f23-4257-b50a-98130ceed4ec",
@@ -324,7 +324,7 @@
     {
       "dutyID": "7dae2994-a8a0-4527-ba61-29ab8890d31a",
       "dutyDetail": "Assist with the compilation of accounting and financial records, for example, to inform direct and indirect tax returns under supervision, audit documentation or control account reconciliations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d225ea4d-c762-4e2d-b724-f546cb2f03a7",
         "294c7c81-4f23-4257-b50a-98130ceed4ec"
@@ -348,7 +348,7 @@
     {
       "dutyID": "568be708-9646-41a7-8be1-b894d87a80f3",
       "dutyDetail": "Deliver financial and accounting information and data to stakeholders to ensure that key messages are communicated. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2ec1665f-734a-4505-9830-9fb9521b1ed9",
         "d225ea4d-c762-4e2d-b724-f546cb2f03a7",
@@ -371,7 +371,7 @@
     {
       "dutyID": "4b1c224b-1cb7-4ae8-a7cd-81bd11b6de2d",
       "dutyDetail": "Assist in the maintenance and use of digital systems by using software applications and packages to support the delivery of accurate and timely financial and accounting information. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d225ea4d-c762-4e2d-b724-f546cb2f03a7",
         "294c7c81-4f23-4257-b50a-98130ceed4ec",
@@ -390,7 +390,7 @@
     {
       "dutyID": "1af7a5b7-a473-4241-9a17-6fb9dbb11423",
       "dutyDetail": "Use digital systems safely to ensure that the cyber security of the organisation is not compromised, and data handling legislative requirements are met.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d225ea4d-c762-4e2d-b724-f546cb2f03a7"
       ],
@@ -410,7 +410,7 @@
     {
       "dutyID": "b68a03af-7ef3-4a76-ab4d-07ab05ae1069",
       "dutyDetail": "Undertake Continuous Professional Development by keeping up to date with relevant statutory obligations and procedural best practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d225ea4d-c762-4e2d-b724-f546cb2f03a7",
         "08768ed2-6f0a-43e3-90cb-088c37a1a4d8",
@@ -431,7 +431,7 @@
     {
       "dutyID": "4435bd81-1418-4c87-a6cf-7856320b7dd8",
       "dutyDetail": "Collaborate with people both internally and/or externally at appropriate levels with a view to deliver a service that meets customer’s needs with a commitment to professional and ethical standards, for example, professional code of conduct and duty of confidentiality as appropriate.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2ec1665f-734a-4505-9830-9fb9521b1ed9",
         "d225ea4d-c762-4e2d-b724-f546cb2f03a7",
