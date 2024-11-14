@@ -368,7 +368,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-06-26T00:00:00 +00:00",
@@ -389,7 +389,7 @@
     "Senior field engineer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Building Services Engineering",
   "cluster": "Utilities installation and maintenance advanced technician",
@@ -414,7 +414,7 @@
     {
       "dutyID": "01bbcbb5-981d-4a16-b12e-a1d1a296084a",
       "dutyDetail": "Lead end to end cell site installation and maintenance activities, having the responsibility for teams and contractors simultaneously on site.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "555db5c3-4277-4b8a-85a3-181cc15e7e1e",
         "e7c92005-8272-4bdf-8447-2b7cccff066a",
@@ -476,7 +476,7 @@
     {
       "dutyID": "dd61d7c3-6634-4f4a-bf92-df6134736004",
       "dutyDetail": "Identify, evaluate and mitigate risks associated with their own work and activities they and their team are responsible for",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "555db5c3-4277-4b8a-85a3-181cc15e7e1e",
         "e7c92005-8272-4bdf-8447-2b7cccff066a",
@@ -542,7 +542,7 @@
     {
       "dutyID": "2611e918-052a-4903-a4a7-054910156f15",
       "dutyDetail": "Safely install and maintain cell site electrical systems, specifically DC electrical systems, at height and at ground level in line with current BS 7671 regulations",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "555db5c3-4277-4b8a-85a3-181cc15e7e1e",
         "e7c92005-8272-4bdf-8447-2b7cccff066a",
@@ -609,7 +609,7 @@
     {
       "dutyID": "d74f4bf0-eda1-43c0-b396-15ab0edc9024",
       "dutyDetail": "Install, commission, decommission and maintain field-based cell site apparatus and cellular network systems including RAN, core design and transmission fundamentals",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "555db5c3-4277-4b8a-85a3-181cc15e7e1e",
         "e7c92005-8272-4bdf-8447-2b7cccff066a",
@@ -678,7 +678,7 @@
     {
       "dutyID": "6998cd46-fe7e-4bf2-9f40-131b705a5616",
       "dutyDetail": "Conduct work at height on all cell site apparatus, setting up lifting systems and apparatus to permit safe manual handling and lifting whilst at height.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "555db5c3-4277-4b8a-85a3-181cc15e7e1e",
         "e7c92005-8272-4bdf-8447-2b7cccff066a",
@@ -736,7 +736,7 @@
     {
       "dutyID": "0478c47c-c3c4-4d1a-9c01-8a0ff741b2fd",
       "dutyDetail": "Undertake the physical on-site field installation, commissioning, maintenance and optimisation of electrical power systems, Radio Frequency Systems and Microwave links, Mast Head Amplifiers, Remote Radio Units, Radio Frequency Combiners, Hybrid Fibre and DC Power Cabling Systems, Fibre and Power Breakout Boxes, base station cabinets, Power Supply Units, AC to DC rectification units and site designed steelwork",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "555db5c3-4277-4b8a-85a3-181cc15e7e1e",
         "e7c92005-8272-4bdf-8447-2b7cccff066a",
@@ -812,7 +812,7 @@
     {
       "dutyID": "221b37e4-8d6c-43fc-8f25-66b7970d2efb",
       "dutyDetail": "Install and construct all cell site apparatus and ancillary items, following detailed construction drawings and verification of works post installation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "555db5c3-4277-4b8a-85a3-181cc15e7e1e",
         "e7c92005-8272-4bdf-8447-2b7cccff066a",
@@ -874,7 +874,7 @@
     {
       "dutyID": "075ecb4b-5202-4f68-81d1-3e2a8eb395db",
       "dutyDetail": "Ensure compliance with all current and relevant H&S legislation ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "555db5c3-4277-4b8a-85a3-181cc15e7e1e",
         "e7c92005-8272-4bdf-8447-2b7cccff066a",
@@ -934,7 +934,7 @@
     {
       "dutyID": "d0320327-b58b-4844-8d2f-e21df5761a54",
       "dutyDetail": "Install, maintain and certify all cell site safety apparatus including vertical and horizontal systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "555db5c3-4277-4b8a-85a3-181cc15e7e1e",
         "e7c92005-8272-4bdf-8447-2b7cccff066a",
@@ -997,7 +997,7 @@
     {
       "dutyID": "eed3fa97-d0e7-4300-8b9a-7163e045713a",
       "dutyDetail": "Install maintain, repair, and certify all cell site electrical systems including single phase and three phase. This includes battery backup supplies, prime and standby power sources, earthing systems including temporary, permanent or generated supplies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "555db5c3-4277-4b8a-85a3-181cc15e7e1e",
         "e7c92005-8272-4bdf-8447-2b7cccff066a",
@@ -1068,7 +1068,7 @@
     {
       "dutyID": "e25629e6-8423-4c1e-922a-b9f439139ff9",
       "dutyDetail": "Undertake the safe testing and certification of electrical systems to comply with BS7671",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "555db5c3-4277-4b8a-85a3-181cc15e7e1e",
         "e7c92005-8272-4bdf-8447-2b7cccff066a",
@@ -1123,7 +1123,7 @@
     {
       "dutyID": "bb886664-45db-4c36-8eca-73ce01bac667",
       "dutyDetail": "Comply with environmental policies and legislation, practice sustainable principles, and evaluate how these impact on their work and activities they are responsible for and how these assist in the achievement of united nations sustainable development goals (UNSDG) and net-zero carbon emissions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e307bb00-d882-4d31-bbd5-4489545ad528"
       ],
@@ -1147,7 +1147,7 @@
     {
       "dutyID": "64901093-2e5a-4831-954b-9d2162c34abd",
       "dutyDetail": "Ensure compliance with equity, diversity & inclusion (EDI) and ethical standards, recognising the importance of these in the workplace. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e98d3556-6de5-4a98-b6c6-73918730bdcb"
       ],
