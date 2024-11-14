@@ -200,7 +200,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2021-07-01T00:00:00 +00:00",
@@ -222,7 +222,7 @@
     "Reparation Officer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Protective Services",
   "cluster": "Protective service manager",
@@ -240,7 +240,7 @@
     {
       "dutyID": "59b73e0b-4eef-430f-9063-f3fc11c4341f",
       "dutyDetail": "Work with children between the ages of 10 and 17/18 who offend or who are at risk of offending using knowledge of youth justice legislation and corresponding guidance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7abc0f22-e566-4a99-b536-2ca872f0a62b",
         "1ba92c5f-4f7c-444f-b695-446166c559ca"
@@ -259,7 +259,7 @@
     {
       "dutyID": "927705b8-7a9d-468b-8573-51becb642772",
       "dutyDetail": "Promote resilience and support the positive development of children using in depth knowledge of child and adolescent development, emotional and mental health, and adverse childhood experiences.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7abc0f22-e566-4a99-b536-2ca872f0a62b",
         "7bc46aeb-b4c0-4f0e-b5dd-3581962feb27"
@@ -282,7 +282,7 @@
     {
       "dutyID": "dc23a827-ae27-4693-86fb-4c0fb169d4f2",
       "dutyDetail": "Engage positively with children and their families in a manner that balances the dual roles of control and care, sanction and treatment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7abc0f22-e566-4a99-b536-2ca872f0a62b",
         "7d7227aa-dcbf-408f-82a9-47d8a0426319",
@@ -306,7 +306,7 @@
     {
       "dutyID": "b2c9cd5e-39b8-4a39-8696-3f3a5fb92013",
       "dutyDetail": "Promote desistance from offending using a range of practice skills and strategies (e.g. promoting trust, pro-social modelling and problem solving)",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7d7227aa-dcbf-408f-82a9-47d8a0426319",
         "7bc46aeb-b4c0-4f0e-b5dd-3581962feb27"
@@ -328,7 +328,7 @@
     {
       "dutyID": "7fb9af53-9095-402c-bbdd-adbd1f40fc8c",
       "dutyDetail": "Assess children's needs using tools standardised for and specific to youth justice",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7abc0f22-e566-4a99-b536-2ca872f0a62b",
         "0a8f7499-96fa-4c37-b4f8-8fcd6a3a7eba"
@@ -350,7 +350,7 @@
     {
       "dutyID": "3892e5aa-8062-418e-89df-379cc7f695b2",
       "dutyDetail": "Develop, implement and monitor youth justice intervention plans that are linked to outcomes from assessment, evidence based, appropriate to the child’s developmental stage and easily understood by them.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7abc0f22-e566-4a99-b536-2ca872f0a62b",
         "7bc46aeb-b4c0-4f0e-b5dd-3581962feb27",
@@ -376,7 +376,7 @@
     {
       "dutyID": "9ee7270c-6cb4-4216-9fce-bb95756ea2bf",
       "dutyDetail": "Design and deliver interventions that are informed by the best available evidence of effective programme design and implementation as validated by the Youth Justice Board in their resource and evidence repository",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7abc0f22-e566-4a99-b536-2ca872f0a62b",
         "7bc46aeb-b4c0-4f0e-b5dd-3581962feb27"
@@ -397,7 +397,7 @@
     {
       "dutyID": "d36f11b2-408e-45e6-91b9-30883c0b98b4",
       "dutyDetail": "Monitor and review the impact of approaches and interventions and adapt practice accordingly.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7abc0f22-e566-4a99-b536-2ca872f0a62b"
       ],
@@ -418,7 +418,7 @@
     {
       "dutyID": "5f53bd0f-5070-4697-bdc2-52bc40cf1fd9",
       "dutyDetail": "Broker access to constructive support and services for children provided by other agencies though the use of social advocacy.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7bc46aeb-b4c0-4f0e-b5dd-3581962feb27",
         "0a8f7499-96fa-4c37-b4f8-8fcd6a3a7eba"
@@ -440,7 +440,7 @@
     {
       "dutyID": "55b02432-ce34-4dac-a4b9-3913c3fe7c06",
       "dutyDetail": "Collaborate and share information with other agencies in order to develop plans that meet a child’s needs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7bc46aeb-b4c0-4f0e-b5dd-3581962feb27",
         "0a8f7499-96fa-4c37-b4f8-8fcd6a3a7eba"
@@ -461,7 +461,7 @@
     {
       "dutyID": "df7ce319-4eec-4e43-b6b6-803098df17fb",
       "dutyDetail": "Undertake specialist, mandatory youth justice assessments that demonstrate the contextual aspects of risk, i.e. risk of what, to whom and circumstances in which risk is likely to be higher/lower.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7abc0f22-e566-4a99-b536-2ca872f0a62b",
         "1ba92c5f-4f7c-444f-b695-446166c559ca",
@@ -482,7 +482,7 @@
     {
       "dutyID": "dfebd59d-0502-44d8-9748-641c6ce40850",
       "dutyDetail": "Manage the risk presented by children in order to reduce future offending, protect the public and the rights of victims.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7abc0f22-e566-4a99-b536-2ca872f0a62b",
         "1ba92c5f-4f7c-444f-b695-446166c559ca",
@@ -503,7 +503,7 @@
     {
       "dutyID": "cab61f40-4cc0-40f2-8fcf-0ff94d55de2a",
       "dutyDetail": "Minimise the impact of life changes and transitions between services that are specific to children.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7bc46aeb-b4c0-4f0e-b5dd-3581962feb27",
         "0a8f7499-96fa-4c37-b4f8-8fcd6a3a7eba"
@@ -524,7 +524,7 @@
     {
       "dutyID": "c5de3211-40c0-4288-b3ba-0ce7b655f11b",
       "dutyDetail": "Support  the resettlement of children when they leave custody and the transition from youth justice services to adult probation providers/adult secure establishments.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1ba92c5f-4f7c-444f-b695-446166c559ca",
         "0a8f7499-96fa-4c37-b4f8-8fcd6a3a7eba"
@@ -547,7 +547,7 @@
     {
       "dutyID": "ca4f3209-67b8-4dfa-a379-ec37c2ac5929",
       "dutyDetail": "Protect the rights of children, reduce disproportionality and promote equality of opportunity within the youth justice system in line with the policy and legislation relevant to the age group.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7abc0f22-e566-4a99-b536-2ca872f0a62b",
         "7bc46aeb-b4c0-4f0e-b5dd-3581962feb27",
@@ -568,7 +568,7 @@
     {
       "dutyID": "db98e159-44f0-4d46-bb17-f68952822b58",
       "dutyDetail": "Promote the safety and wellbeing of children in line with national and local guidance and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7abc0f22-e566-4a99-b536-2ca872f0a62b",
         "1ba92c5f-4f7c-444f-b695-446166c559ca",
