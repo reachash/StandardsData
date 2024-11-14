@@ -332,7 +332,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-07-11T00:00:00 +00:00",
@@ -347,7 +347,7 @@
   "coreAndOptions": false,
   "typicalJobTitles": [],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
   "cluster": "Health practitioner",
@@ -365,7 +365,7 @@
     {
       "dutyID": "2742c3e5-3986-42a3-bfa2-addc1f438f9e",
       "dutyDetail": "Undertake management and review of individual’s care packages, ensuring it continues to meet their agreed health and social care needs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6af1c8a5-ee1b-44ea-ac82-00cab2ba6b7f",
         "dbe32265-40fc-4a9e-89bb-7ee94955955d",
@@ -415,7 +415,7 @@
     {
       "dutyID": "fdf8c871-d706-40c5-a481-746fa06c3fd8",
       "dutyDetail": "Contribute to planning an individual’s care plan ensuring it meets their agreed health and social care needs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6af1c8a5-ee1b-44ea-ac82-00cab2ba6b7f",
         "dbe32265-40fc-4a9e-89bb-7ee94955955d",
@@ -467,7 +467,7 @@
     {
       "dutyID": "62f752ea-2df2-4e22-a3d3-4a96949a2653",
       "dutyDetail": "Contribute to continuing healthcare assessment of individuals health and social care needs using the mandated tools as outlined in the National Framework for NHS Continuing Healthcare and NHS-funded Nursing Care.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6af1c8a5-ee1b-44ea-ac82-00cab2ba6b7f",
         "dbe32265-40fc-4a9e-89bb-7ee94955955d",
@@ -517,7 +517,7 @@
     {
       "dutyID": "6a8372c0-50dd-41b3-aba7-cba9cf9e4829",
       "dutyDetail": "Supervise staff assigned according to organisational policies and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6af1c8a5-ee1b-44ea-ac82-00cab2ba6b7f",
         "dbe32265-40fc-4a9e-89bb-7ee94955955d",
@@ -557,7 +557,7 @@
     {
       "dutyID": "8af9b665-3ca5-42cc-a3c6-bf7a5e506c97",
       "dutyDetail": "Manage the continuing healthcare referral process ensuring referrals into the service are in line with the National Framework for NHS Continuing Healthcare and NHS-funded Nursing Care.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6af1c8a5-ee1b-44ea-ac82-00cab2ba6b7f",
         "dbe32265-40fc-4a9e-89bb-7ee94955955d",
@@ -597,7 +597,7 @@
     {
       "dutyID": "c255fad3-5b95-48f3-8e48-477141e8f5e4",
       "dutyDetail": "Collate and analyse evidence and assessment documentation from health and social care teams involved in caring for the needs of the individuals to enable a lawful eligibility decision to be made.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6af1c8a5-ee1b-44ea-ac82-00cab2ba6b7f",
         "92aa003d-f428-4511-bcec-2d3f307273d2",
@@ -638,7 +638,7 @@
     {
       "dutyID": "27c7be22-f69f-4798-8d96-5219fb75be24",
       "dutyDetail": "Co-ordinate and guide the multidisciplinary, multiagency team undertaking assessments using specialist policy knowledge to advise on appropriate process to deliver a policy-compliant recommendation regarding continuing healthcare eligibility.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6af1c8a5-ee1b-44ea-ac82-00cab2ba6b7f",
         "dbe32265-40fc-4a9e-89bb-7ee94955955d",
@@ -688,7 +688,7 @@
     {
       "dutyID": "1f2114e4-fa73-441a-bab7-cc0c26003e8c",
       "dutyDetail": "Contribute to resolution of disputed eligibility funding decisions fairly, consistently and lawfully.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6af1c8a5-ee1b-44ea-ac82-00cab2ba6b7f",
         "dbe32265-40fc-4a9e-89bb-7ee94955955d",
@@ -733,7 +733,7 @@
     {
       "dutyID": "0319800e-f435-4ccf-bda6-88310eeb4768",
       "dutyDetail": "Contribute to commissioning services required to meet individual's health and social care needs as prescribed by the multidisciplinary team in partnership with the individual.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6af1c8a5-ee1b-44ea-ac82-00cab2ba6b7f",
         "92aa003d-f428-4511-bcec-2d3f307273d2",
@@ -773,7 +773,7 @@
     {
       "dutyID": "045d20bf-1db9-4019-a098-5fe2a713a2cc",
       "dutyDetail": "Monitor continuing healthcare provider service and personal health budget (PHB) contracts in accordance with procurement law, national policy and local agreements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6af1c8a5-ee1b-44ea-ac82-00cab2ba6b7f",
         "92aa003d-f428-4511-bcec-2d3f307273d2",
