@@ -274,7 +274,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-10-18T00:00:00 +00:00",
@@ -296,7 +296,7 @@
     "Supply chain manager"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Procurement",
   "cluster": "Procurement professional",
@@ -330,7 +330,7 @@
     {
       "dutyID": "52830a62-6fdf-4226-b7b1-053f5db70af1",
       "dutyDetail": "Manage the procurement and supply chain function so that it complies with corporate governance, carbon auditing, policy, legal and regulatory requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "90dc8281-e294-4ab4-bebf-b951012a8944",
         "60f67a73-5be6-4758-91a9-04f449293cd2",
@@ -352,7 +352,7 @@
     {
       "dutyID": "57d7db42-65aa-44f7-a89d-b2648630ffe1",
       "dutyDetail": "Lead on procurement and supply organisational objectives and use key performance indicators to measure activities which drive and improve performance and sustainability objectives.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "8cb732cd-d122-4123-b31c-5ca01d3b6895",
@@ -375,7 +375,7 @@
     {
       "dutyID": "1e6a749e-0330-4835-9864-255e679e5389",
       "dutyDetail": "Identify the impact of climate change and environmental factors on procurement and supply functions whilst developing sourcing strategies and creating category management plans to take advantage of opportunities whilst mitigating risk and challenges throughout supply chains.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60f67a73-5be6-4758-91a9-04f449293cd2"
       ],
@@ -398,7 +398,7 @@
     {
       "dutyID": "96dcdb00-59c6-4167-bb90-d79a4c1cce25",
       "dutyDetail": "Lead and create responsible and sustainable procurement and social value initiatives throughout the procurement cycle and supply chains.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "90dc8281-e294-4ab4-bebf-b951012a8944",
         "60f67a73-5be6-4758-91a9-04f449293cd2"
@@ -423,7 +423,7 @@
     {
       "dutyID": "80d765fb-af33-476a-86e7-611ec5d9d8f6",
       "dutyDetail": "Lead and drive procurement and supply chain change and innovation to deliver commercial solutions and approaches to achieve competitive advantage.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4b56657a-bb4d-4e70-b5b3-743c25dd4cc5",
         "553a54bd-4cac-45c8-9096-ea2d50e4237d"
@@ -448,7 +448,7 @@
     {
       "dutyID": "a5c59d73-db64-4dab-a84b-f9de81fbe5ac",
       "dutyDetail": "Apply relevant legislation and contract management initiatives with the objective of delivering optimal value and meeting business needs and drive success throughout contract life.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "b96d3064-94ce-432e-9475-b877e243e681",
@@ -471,7 +471,7 @@
     {
       "dutyID": "11ddb69d-6341-4cd6-862f-0613bdb3c329",
       "dutyDetail": "Manage procurement and supply function to ensure it is compliant with internal governance, such as any procurement framework requirements, external governance, regulatory and statutory requirements, and meeting net carbon zero targets.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60f67a73-5be6-4758-91a9-04f449293cd2",
         "3f9b5411-6d94-4d94-9a2e-a1262694790e"
@@ -494,7 +494,7 @@
     {
       "dutyID": "f949013f-178d-4b91-bb5f-8650c2093458",
       "dutyDetail": "Identify emerging technologies such as material requirement planning (MRP), enterprise resource planning (ERP) and procurement systems or databases to drive procurement and supply chain capabilities, improve performance and control expenditure.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "553a54bd-4cac-45c8-9096-ea2d50e4237d"
       ],
@@ -518,7 +518,7 @@
     {
       "dutyID": "f6debfad-4ce2-484d-b940-72fc26c20577",
       "dutyDetail": "Inspire and collaborate with internal and external key stakeholders and relevant industry or sector bodies that influence procurement and supply chains.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "90dc8281-e294-4ab4-bebf-b951012a8944",
         "1b362ad8-33c0-4489-92b8-825a647fdbd2",
@@ -544,7 +544,7 @@
     {
       "dutyID": "7a6ff3b3-76dd-4825-840f-808e336e8bb1",
       "dutyDetail": "Lead the professional development of the procurement and supply team and identify continuous improvement opportunities for individuals.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4b56657a-bb4d-4e70-b5b3-743c25dd4cc5"
       ],
@@ -565,7 +565,7 @@
     {
       "dutyID": "56e79bbe-5fbd-4c15-8f12-e3098b8aca11",
       "dutyDetail": "Embed quality management systems and improvement methodologies to optimise procurement spend and deliver procurement and supply chain objectives including improved sustainability outcomes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "1494811c-cc38-41a4-bb3a-826b34aa4d84",
@@ -591,7 +591,7 @@
     {
       "dutyID": "4dfc673a-282d-42ef-9abd-1dd9e0b78610",
       "dutyDetail": "Lead on risk management for the Procurement and Supply function to include supplier financial stability, market risk and other internal organisational risks, external environmental risks, and the impacts of climate change.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "553a54bd-4cac-45c8-9096-ea2d50e4237d"
       ],
@@ -614,7 +614,7 @@
     {
       "dutyID": "20873178-85e1-419c-98cb-e533b8ad3d68",
       "dutyDetail": "Contribute to the organisation budget based on procurement and supply chain requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "553a54bd-4cac-45c8-9096-ea2d50e4237d"
       ],
@@ -632,7 +632,7 @@
     {
       "dutyID": "787dee98-0297-4f7f-a36f-bfcd7a3dc3f5",
       "dutyDetail": "Manage conflicting objectives of stakeholders during sourcing activities and advise on commercial priorities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "90dc8281-e294-4ab4-bebf-b951012a8944",
         "1b362ad8-33c0-4489-92b8-825a647fdbd2",
