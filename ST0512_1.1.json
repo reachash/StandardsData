@@ -224,7 +224,7 @@
     "Investigator"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Protective Services",
   "cluster": "Protective service professional",
@@ -251,7 +251,7 @@
     {
       "dutyID": "41cf5545-38b2-4152-b20a-a925956ce290",
       "dutyDetail": "Prepare victim and/or witness strategies,  assessing their needs, providing support and a point of contact.  Categorise the victim and/or witness, and use appropriate methods of interviewing.  Re-evaluate information gathered throughout the investigation to formulate further actions to progress the case",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "04a4f77f-5b63-4597-859d-8aef917ce77f",
         "d4eccfea-72f5-423b-8b3c-5d6f1e39712b"
@@ -271,7 +271,7 @@
     {
       "dutyID": "29f87cb7-3eba-48a3-a3a4-cbde44f1dfd1",
       "dutyDetail": "Prepare suspect strategies and arrest strategies.  Conduct the apprehension of individuals and/or prepare arrest submissions for law enforcement partners in accordance with relevant legislation and codes of practice",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "04a4f77f-5b63-4597-859d-8aef917ce77f",
         "d4eccfea-72f5-423b-8b3c-5d6f1e39712b"
@@ -294,7 +294,7 @@
     {
       "dutyID": "ab5e108f-732f-4ed2-80ee-c72e25da390b",
       "dutyDetail": "Carry out systematic searches of vehicles, premises and open areas in accordance with relevant legislation",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d4eccfea-72f5-423b-8b3c-5d6f1e39712b",
         "ca7ba3d7-4312-4af3-b7c0-94cabc8a974a"
@@ -317,7 +317,7 @@
     {
       "dutyID": "949cb14d-8433-4d87-8a38-77ebf74405f1",
       "dutyDetail": "Exploit forensic opportunities both digitally and traditionally.  This will include reviewing physical exhibits and downloads of digital exhibits in order to determine their evidential value and identifying opportunities to use such material to progress the investigation",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dfc143bc-1555-43b3-ac92-44f4c6178242"
       ],
@@ -339,7 +339,7 @@
     {
       "dutyID": "5365b821-f333-4a3a-8c7b-8ab18f551fbe",
       "dutyDetail": "Conduct intelligence driven briefings, taskings and debriefings",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dfc143bc-1555-43b3-ac92-44f4c6178242",
         "ca7ba3d7-4312-4af3-b7c0-94cabc8a974a",
@@ -363,7 +363,7 @@
     {
       "dutyID": "c950b962-5a46-4333-a89f-701fe4ffc75d",
       "dutyDetail": "Gather relevant information to enable internal and external communications officers to formulate briefings to the media and third parties and have an awareness of how to use the media to progress investigations",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dfc143bc-1555-43b3-ac92-44f4c6178242",
         "ca7ba3d7-4312-4af3-b7c0-94cabc8a974a"
@@ -382,7 +382,7 @@
     {
       "dutyID": "6f0d5cca-f6dd-4600-8c90-8ee5e543bd05",
       "dutyDetail": "Maintain an awareness of the capabilities of internal and external specialists and law enforcement partners.  Liaise with and task such teams in order to progress serious and complex investigations",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ca7ba3d7-4312-4af3-b7c0-94cabc8a974a"
       ],
@@ -401,7 +401,7 @@
     {
       "dutyID": "dd20b254-f3be-454f-abf6-f4c876e93c51",
       "dutyDetail": "Work with Financial Investigators to formulate a financial strategy and use powers and appropriate legislation to disrupt criminal activity and recover proceeds of crime",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dfc143bc-1555-43b3-ac92-44f4c6178242"
       ],
@@ -422,7 +422,7 @@
     {
       "dutyID": "e1867470-98e4-4674-ab05-b85f8f1c07cd",
       "dutyDetail": "Create and use intelligence to progress serious and complex investigations.  This will include undertaking in depth research, conducting high level data analysis, searching intelligence databases, evaluating large volumes of data to assess its intelligence potential and disseminating intelligence",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dfc143bc-1555-43b3-ac92-44f4c6178242"
       ],
@@ -444,7 +444,7 @@
     {
       "dutyID": "7fea6370-eb21-42a6-9a70-3fa147d11aa9",
       "dutyDetail": "Use covert tactics lawfully and effectively to gather intelligence and evidence to progress the investigation.  Make applications for covert information using the required authorities and regulatory powers  and identify and mitigate operational risk where necessary",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "04a4f77f-5b63-4597-859d-8aef917ce77f",
         "dfc143bc-1555-43b3-ac92-44f4c6178242"
@@ -471,7 +471,7 @@
     {
       "dutyID": "049d1dea-88f6-411d-96dc-4231ed832b25",
       "dutyDetail": "Prepare interview briefings and strategies.  Undertake complex suspect interviews,  using a range of interview methods and techniques and addressing complex circumstances when conducting interviews",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d4eccfea-72f5-423b-8b3c-5d6f1e39712b",
         "dfc143bc-1555-43b3-ac92-44f4c6178242"
@@ -493,7 +493,7 @@
     {
       "dutyID": "04f642bf-029a-412e-82aa-b917b739c3f8",
       "dutyDetail": "Formulate investigative strategies to maximise evidence gathering opportunities and support serious and complex investigations",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dfc143bc-1555-43b3-ac92-44f4c6178242"
       ],
@@ -514,7 +514,7 @@
     {
       "dutyID": "e178220d-0aa5-4cb0-9c3b-65f056a212a8",
       "dutyDetail": "Manage and prepare a case file throughout a serious and complex investigation.  This will include formulating a disclosure strategy and reviewing and managing large volumes of sensitive and non-sensitive material.  Work with The Crown Prosecution Service (CPS) and other relevant prosecuting bodies to deliver a successful prosecution",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3b2834aa-33fa-4c7a-8fd1-28f8f455c78b"
       ],
@@ -535,7 +535,7 @@
     {
       "dutyID": "02fa12e2-0ae1-4076-9768-b54b5ddffa44",
       "dutyDetail": "Present evidence in court and at other hearings in an effective manner, complying with the relevant rules of evidence, procedure and professional standards",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3b2834aa-33fa-4c7a-8fd1-28f8f455c78b",
         "04a4f77f-5b63-4597-859d-8aef917ce77f"
