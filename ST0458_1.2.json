@@ -300,7 +300,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-05-03T00:00:00 +00:00",
@@ -339,7 +339,7 @@
     "Winding operative"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing operative",
@@ -357,7 +357,7 @@
     {
       "dutyID": "df66671d-3202-4c77-831c-79ec70d997ee",
       "dutyDetail": "Prepare for textile manufacturing operations for example, get or request raw materials, and prepare equipment and machinery.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ad8882dc-1dfb-4a44-b3f5-e670cbe6e0f0",
         "37c76928-9d56-45c2-a01a-f7177f0eef42",
@@ -392,7 +392,7 @@
     {
       "dutyID": "dd61ec32-0dc2-4e80-88b3-bf27973d29ac",
       "dutyDetail": "Carry out textile manufacturing operations using specialist equipment and machinery following standard operating procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ad8882dc-1dfb-4a44-b3f5-e670cbe6e0f0",
         "37c76928-9d56-45c2-a01a-f7177f0eef42",
@@ -427,7 +427,7 @@
     {
       "dutyID": "98fdc9f4-adc9-401f-a4e1-746dd896642c",
       "dutyDetail": "Complete quality assurance activities for example, checking output against shade card.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d85ecafd-6169-4009-ae3b-08cf08aaf4ac",
         "ad8882dc-1dfb-4a44-b3f5-e670cbe6e0f0",
@@ -462,7 +462,7 @@
     {
       "dutyID": "b8610272-65f2-4c7c-91fd-5c8b81f5bde5",
       "dutyDetail": "Prepare materials produced - intermediate or final - for next stage in process for example, organising batches for next stage in process, packing, or dispatch.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ad8882dc-1dfb-4a44-b3f5-e670cbe6e0f0",
         "37c76928-9d56-45c2-a01a-f7177f0eef42",
@@ -494,7 +494,7 @@
     {
       "dutyID": "9c2044cb-6e96-4da1-9802-e3a4a4876918",
       "dutyDetail": "Contribute to maintaining the workplace environment. For example, ensure there are no safety hazards, and keep the work area tidy. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7cb570d2-e3c6-4d2c-9771-d3df1c184103",
         "f7df60f9-7d88-4890-9697-485ac6192c68",
@@ -531,7 +531,7 @@
     {
       "dutyID": "9aa73d6c-e90e-4d4d-9e53-279ef9174fde",
       "dutyDetail": "Conduct basic maintenance to ensure equipment and machinery efficiency of meets production expectations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ad8882dc-1dfb-4a44-b3f5-e670cbe6e0f0",
         "37c76928-9d56-45c2-a01a-f7177f0eef42",
@@ -561,7 +561,7 @@
     {
       "dutyID": "e104b48a-ed4b-4f7f-bcca-4b7138281e2e",
       "dutyDetail": "Complete work records - digital or paper. For example, production and quality records.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ad8882dc-1dfb-4a44-b3f5-e670cbe6e0f0",
         "37c76928-9d56-45c2-a01a-f7177f0eef42"
@@ -592,7 +592,7 @@
     {
       "dutyID": "d6741b7d-fcc1-46c2-9434-a2c865a704eb",
       "dutyDetail": "Contribute to continuous improvement and problem-solving activities. For example, work as part of an improvement team, identify issues, and put ideas forward.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ad8882dc-1dfb-4a44-b3f5-e670cbe6e0f0",
         "37c76928-9d56-45c2-a01a-f7177f0eef42",
