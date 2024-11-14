@@ -268,7 +268,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-03-23T00:00:00 +00:00",
@@ -287,7 +287,7 @@
     "Service designer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Management and Administration",
   "cluster": "Management Professional",
@@ -305,7 +305,7 @@
     {
       "dutyID": "f0f88b4f-f31a-4e76-bf72-7dd338b27f66",
       "dutyDetail": "Question and challenge the design brief in order to lead, influence and guide stakeholders to determine the scope of the service design work, both strategically and operationally.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "73a63194-ea49-41d7-91b9-9093b6c61923",
         "8d15b010-4e7b-417a-b091-0cf273e44adb",
@@ -347,7 +347,7 @@
     {
       "dutyID": "d69f5ac4-143c-440c-8f31-cfa97da668c0",
       "dutyDetail": "Define and conduct research activities including primary/secondary research using both qualitative and quantitative data to fully understand users and their needs as well as the context of a service.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "73a63194-ea49-41d7-91b9-9093b6c61923",
         "8d15b010-4e7b-417a-b091-0cf273e44adb",
@@ -386,7 +386,7 @@
     {
       "dutyID": "2d75507a-1df2-4e54-818f-237a22fc0cf3",
       "dutyDetail": "Synthesise research to build themes and clusters, find insights, and discover opportunity areas for improving the experience of the user.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "73a63194-ea49-41d7-91b9-9093b6c61923",
         "8d15b010-4e7b-417a-b091-0cf273e44adb",
@@ -424,7 +424,7 @@
     {
       "dutyID": "c9db895a-30d0-4b2e-b0dc-3268c4195e55",
       "dutyDetail": "Analyse, interpret and communicate complex information or data sets from the research to build a case and direction for change.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8d15b010-4e7b-417a-b091-0cf273e44adb",
         "fa42eb9d-957d-409d-b464-162b5fef8f96",
@@ -460,7 +460,7 @@
     {
       "dutyID": "3211ad19-a819-4761-b671-7a3485c00785",
       "dutyDetail": "Develop multiple potential solutions to the design brief using ideation tools and techniques",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8d15b010-4e7b-417a-b091-0cf273e44adb",
         "31b08588-16c7-4414-8d73-e9510ac34bfb",
@@ -503,7 +503,7 @@
     {
       "dutyID": "dd24e05e-09e6-4361-a840-51d134db9437",
       "dutyDetail": "Prototype, test with users and analyse potential solutions, making continuous improvements to designs and selecting ideas that best deliver the desired impact on a user’s experience of a service and the environmental and economic needs of the organisation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "73a63194-ea49-41d7-91b9-9093b6c61923",
         "8d15b010-4e7b-417a-b091-0cf273e44adb",
@@ -553,7 +553,7 @@
     {
       "dutyID": "c65fdcb9-9395-465d-b4d0-0880f8ca886d",
       "dutyDetail": "Direct the transition from prototype into pilot projects through working with the service areas who will take this forward and lead on-going evaluation, including creating clear success metrics for the improved service.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "73a63194-ea49-41d7-91b9-9093b6c61923",
         "8d15b010-4e7b-417a-b091-0cf273e44adb",
@@ -601,7 +601,7 @@
     {
       "dutyID": "47aa54a4-a8c7-4f5f-9f15-06e2c3e3f3ca",
       "dutyDetail": "Lead the design of services through engaging with and influencing stakeholders, colleagues, and service users.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "73a63194-ea49-41d7-91b9-9093b6c61923",
         "8d15b010-4e7b-417a-b091-0cf273e44adb",
@@ -641,7 +641,7 @@
     {
       "dutyID": "785de6c2-7c0f-4240-afd7-99228342cd8e",
       "dutyDetail": "Develop others with the skills needed to contribute to the work through coaching, mentoring, shadowing, working collaboratively or delivering training.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "73a63194-ea49-41d7-91b9-9093b6c61923",
         "b30edf66-9c52-486a-932b-4b2fd9a19777",
@@ -679,7 +679,7 @@
     {
       "dutyID": "4aae15d4-6154-453a-b309-eb524f900bcc",
       "dutyDetail": "Manage time frames and guide budget decisions, working within organisational project management processes, and manage risks in order to meet business needs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "31b08588-16c7-4414-8d73-e9510ac34bfb",
         "fa42eb9d-957d-409d-b464-162b5fef8f96"
@@ -711,7 +711,7 @@
     {
       "dutyID": "a2e887f3-f310-4681-97ef-c1409c30e6b4",
       "dutyDetail": "Manage and lead ongoing change and identify individuals and groups who are able to make a case for a service design approach for future change requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8d15b010-4e7b-417a-b091-0cf273e44adb",
         "31b08588-16c7-4414-8d73-e9510ac34bfb",
