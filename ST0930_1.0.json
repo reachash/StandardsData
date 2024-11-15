@@ -173,7 +173,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2021-07-01T00:00:00 +00:00",
@@ -192,7 +192,7 @@
     "Tenancy Enforcement Officer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": null,
   "cluster": null,
@@ -210,7 +210,7 @@
     {
       "dutyID": "41027492-6181-4a87-a43e-6d35839cd692",
       "dutyDetail": "Receive and triage reports of anti-social behaviour; prioritising such cases and assessing risk. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bddf28dc-1c6e-4011-937f-f84fff9df30f",
         "3afc0c30-e662-4434-9249-20749272ce74",
@@ -235,7 +235,7 @@
     {
       "dutyID": "602e0c3d-7b2b-47bb-aa33-993431be0d8d",
       "dutyDetail": "Meet with victims and witnesses to investigate the reports and take witness statements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bddf28dc-1c6e-4011-937f-f84fff9df30f",
         "441143d3-2711-4294-ba33-531c593fb55e"
@@ -265,7 +265,7 @@
     {
       "dutyID": "4245847f-b3fe-400c-9c10-a9ee8d01df00",
       "dutyDetail": "Engage with the community to encourage the reporting of anti-social behaviour and provide appropriate advice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bddf28dc-1c6e-4011-937f-f84fff9df30f",
         "ccf7eae3-1d2b-4d46-b1df-17775d24f774",
@@ -290,7 +290,7 @@
     {
       "dutyID": "0eb40a50-0b66-41c9-9120-d287cb44a158",
       "dutyDetail": "Interview and challenge alleged anti-social behaviour perpetrators to discuss the reports, explore causes, assess risk, and discuss solutions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bddf28dc-1c6e-4011-937f-f84fff9df30f",
         "441143d3-2711-4294-ba33-531c593fb55e"
@@ -322,7 +322,7 @@
     {
       "dutyID": "96abc0f1-c7b1-4454-8f00-3810cf679f7f",
       "dutyDetail": "Identify safeguarding concerns & risk, making appropriate referrals and engaging with social care practitioners where appropriate.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bddf28dc-1c6e-4011-937f-f84fff9df30f",
         "ccf7eae3-1d2b-4d46-b1df-17775d24f774",
@@ -348,7 +348,7 @@
     {
       "dutyID": "15c27bcf-b29d-480e-851a-3ddbb4b2f281",
       "dutyDetail": "Deliver informal ASB interventions such as warnings, ABCs, referral for mediation and referral to support agencies. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bddf28dc-1c6e-4011-937f-f84fff9df30f",
         "ccf7eae3-1d2b-4d46-b1df-17775d24f774",
@@ -381,7 +381,7 @@
     {
       "dutyID": "1e2a3948-1e2e-42eb-8ee1-7ca2b1cc2b82",
       "dutyDetail": "Work with partners to develop effective solutions to community safety and anti-social behaviour issues.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ccf7eae3-1d2b-4d46-b1df-17775d24f774",
         "3afc0c30-e662-4434-9249-20749272ce74",
@@ -409,7 +409,7 @@
     {
       "dutyID": "9801b832-2202-457e-bdf3-4b9cb2f6e00b",
       "dutyDetail": "Record all information in connection to the case and meet specified key performance indicators.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3afc0c30-e662-4434-9249-20749272ce74"
       ],
@@ -427,7 +427,7 @@
     {
       "dutyID": "523360e5-498b-44b7-a1a5-a11ce15e1138",
       "dutyDetail": "Gather evidence through witness statements, use of technology, data analysis & use of multiple IT systems. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ccf7eae3-1d2b-4d46-b1df-17775d24f774",
         "3afc0c30-e662-4434-9249-20749272ce74"
@@ -452,7 +452,7 @@
     {
       "dutyID": "584872aa-5040-4696-bb42-cc73c4e06ac6",
       "dutyDetail": "Prepare case files for legal action including statements, exhibits & evidence.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ccf7eae3-1d2b-4d46-b1df-17775d24f774",
         "3afc0c30-e662-4434-9249-20749272ce74"
@@ -482,7 +482,7 @@
     {
       "dutyID": "38402efd-c712-4a01-966a-04cdd8550f49",
       "dutyDetail": "Present cases and evidence as a lead officer where appropriate e.g for review panels or legal proceedings.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "441143d3-2711-4294-ba33-531c593fb55e"
       ],
@@ -503,7 +503,7 @@
     {
       "dutyID": "42188e1f-2579-4557-ae78-4042497c404f",
       "dutyDetail": "Prepare and deliver formal solutions such as injunctions, CPNs, closure orders, possession in conjunction with legal advocates.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ccf7eae3-1d2b-4d46-b1df-17775d24f774",
         "3afc0c30-e662-4434-9249-20749272ce74"
