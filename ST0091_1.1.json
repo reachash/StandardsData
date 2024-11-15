@@ -184,7 +184,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2017-10-04T00:00:00 +00:00",
@@ -211,7 +211,7 @@
     "Structural Technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Design, Surveying & Planning",
   "cluster": "Design and surveying technician",
@@ -269,7 +269,7 @@
     {
       "dutyID": "2b359605-ba9c-4407-b83a-fa107adb6b4e",
       "dutyDetail": "Contribute to civil engineering solutions by preparing, producing and modifying engineering diagrams, drawings or models, documents and engineering specifications, to industry codes of practice, regulations, standards, and procedures ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5e771f18-e677-4a03-ab73-834326dfbfcb"
       ],
@@ -289,7 +289,7 @@
     {
       "dutyID": "7279014d-2e3f-418c-86b0-d267b0b591d2",
       "dutyDetail": "Assist in the development of civil engineering solutions, by collecting and interpreting technical information and data, carrying out calculations and analysing the outputs",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "04aa4011-a2d2-4061-a173-6e387a139ccb",
         "818b4cb5-3e2c-4d02-a708-4abf8ceb9f7c"
@@ -308,7 +308,7 @@
     {
       "dutyID": "f72e1b20-c355-4357-a82d-4ce2e2a733a0",
       "dutyDetail": "Utilise digital technologies and techniques, such as Computer Aided Design (CAD) or Building Information Modelling (BIM), to prepare, produce and present civil engineering designs and visualisations in accordance with approved design procedures and systems",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5e771f18-e677-4a03-ab73-834326dfbfcb",
         "04aa4011-a2d2-4061-a173-6e387a139ccb"
@@ -327,7 +327,7 @@
     {
       "dutyID": "bd035706-ef9f-40d6-a890-daf8ee909c0c",
       "dutyDetail": "Ensure compliance with health, safety & welfare requirements, apply safe systems of work, such as Common Safety Methods (CSM), and identify hazards and mitigate risks in their own work",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5e771f18-e677-4a03-ab73-834326dfbfcb"
       ],
@@ -343,7 +343,7 @@
     {
       "dutyID": "a1016476-bacd-45d4-aaee-ddc342fe6f18",
       "dutyDetail": "Comply with relevant legislation, regulations, policies, strategies, and technical guidance, such as such as Construction Design and Management (CDM) or Design Manual for Roads and Bridges (DMRB), ensuring they are interpreted correctly and communicated appropriately ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5e771f18-e677-4a03-ab73-834326dfbfcb"
       ],
@@ -359,7 +359,7 @@
     {
       "dutyID": "f735dea1-fe00-4448-be86-0cda3d24aeb8",
       "dutyDetail": "Comply with environmental policies and practice sustainable principles, supporting the civil engineering projects they work on to assist in the achievement of United Nations Sustainable Development Goals and net-zero carbon emissions",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5e771f18-e677-4a03-ab73-834326dfbfcb"
       ],
@@ -375,7 +375,7 @@
     {
       "dutyID": "2757a1f7-cfe2-4f6e-ad98-aea3b51b0f21",
       "dutyDetail": "Use the quality management and assurance systems available to plan, manage, monitor and contribute to the delivery and implementation of civil engineering projects to specification, budget and agreed targets, respecting the need for the security of data and information",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e979efb6-f45a-4295-a9b2-adecd03170e7"
       ],
@@ -394,7 +394,7 @@
     {
       "dutyID": "80f85120-d4c6-4aa4-8cbb-3809ecb4cb02",
       "dutyDetail": "Communicate and liaise effectively with own project team, customers, internal or external stakeholders",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e979efb6-f45a-4295-a9b2-adecd03170e7"
       ],
@@ -410,7 +410,7 @@
     {
       "dutyID": "ac21ca3a-bfc4-445f-9986-450502c8fb71",
       "dutyDetail": "Work reliably and effectively independently and as a member of a team, taking responsibility for their own work ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "04aa4011-a2d2-4061-a173-6e387a139ccb",
         "e979efb6-f45a-4295-a9b2-adecd03170e7",
@@ -426,7 +426,7 @@
     {
       "dutyID": "dcd76311-7a3c-4a36-b5fd-736093c2268b",
       "dutyDetail": "Ensure compliance with equality, diversity & inclusion (EDI) and ethical standards ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "06b00ea3-8b15-4dae-bf0a-cbeb29780c0b",
@@ -442,7 +442,7 @@
     {
       "dutyID": "4420fa7d-9ec8-4d8e-9c0a-fd0d94a0636e",
       "dutyDetail": "Maintain own learning and skills development by carrying out continuing professional development in line with professional codes of conduct and/or industry specifications and obligations",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "958d0cde-015d-487e-8d51-adb079075254"
       ],
