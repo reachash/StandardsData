@@ -287,7 +287,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-09-27T00:00:00 +00:00",
@@ -313,7 +313,7 @@
     "Seamstress"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Craft and Design",
   "cluster": "Heritage craftsperson",
@@ -331,7 +331,7 @@
     {
       "dutyID": "bd8c0005-7825-4ca9-9847-4190c8ce3bcc",
       "dutyDetail": "Comprehend, decipher and work to given garment specifications, design directives and instruction.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "078599b4-c011-4ede-844f-82f2be25040c",
         "7e5e6d70-e198-4d45-974c-73061e8df35a"
@@ -357,7 +357,7 @@
     {
       "dutyID": "730d35ce-493f-4e19-becd-2c91b0325e5d",
       "dutyDetail": "Quality check garment components  and materials before during and after completion of the garment, for example, the number of components, fabric quality, pattern match,trimmings, construction.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "078599b4-c011-4ede-844f-82f2be25040c",
         "e0011961-df86-4cb7-bd35-770c83634035"
@@ -388,7 +388,7 @@
     {
       "dutyID": "88928093-bc5e-4357-9d15-f2abbef7793b",
       "dutyDetail": "Develop and operate a systemised, logical and efficient workstation and work process.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "69d001a4-98c5-42e3-aecd-e9b62c508df8",
         "078599b4-c011-4ede-844f-82f2be25040c"
@@ -416,7 +416,7 @@
     {
       "dutyID": "7db20a27-e593-4730-9664-1eb1e46f16f6",
       "dutyDetail": "Apply a variety of sewing and handling techniques and methods to assemble and finish garments or parts of garments, using own initiative, knowledge and experience to create processes and products that meet quality requirements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "69d001a4-98c5-42e3-aecd-e9b62c508df8",
         "078599b4-c011-4ede-844f-82f2be25040c"
@@ -460,7 +460,7 @@
     {
       "dutyID": "c3cd792a-d147-4420-b131-ae72ec78df9f",
       "dutyDetail": "Measure and figurate garment components and the finished garments.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "078599b4-c011-4ede-844f-82f2be25040c",
         "7e5e6d70-e198-4d45-974c-73061e8df35a"
@@ -484,7 +484,7 @@
     {
       "dutyID": "dce535bc-969b-4584-979a-9a7bc288f683",
       "dutyDetail": "Develop, monitor and refine the best production techniques and work sequences that will inform future production process and identify continuous improvement in relation to work methods and garment quality.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "69d001a4-98c5-42e3-aecd-e9b62c508df8",
         "078599b4-c011-4ede-844f-82f2be25040c",
@@ -525,7 +525,7 @@
     {
       "dutyID": "b9a17be1-bbe5-40d2-bb3f-7b190452fbb9",
       "dutyDetail": "Review and assess garments including fit, quality, cost and finish against design, specifications, quality standards  and customer requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "69d001a4-98c5-42e3-aecd-e9b62c508df8",
         "078599b4-c011-4ede-844f-82f2be25040c",
@@ -563,7 +563,7 @@
     {
       "dutyID": "97cb809c-ba2e-496b-94f2-12f37d6955e4",
       "dutyDetail": "Produce hand sewn work such as beading or blind hemming.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "69d001a4-98c5-42e3-aecd-e9b62c508df8",
         "078599b4-c011-4ede-844f-82f2be25040c"
@@ -593,7 +593,7 @@
     {
       "dutyID": "a9ad6c0b-91c3-4903-901e-99fe3c8ea33b",
       "dutyDetail": "Apply trimmings, for example bindings, fusing’s, buttons, braid.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "69d001a4-98c5-42e3-aecd-e9b62c508df8",
         "078599b4-c011-4ede-844f-82f2be25040c"
@@ -629,7 +629,7 @@
     {
       "dutyID": "1efacb0e-8cff-4888-a974-50eb2dd33956",
       "dutyDetail": "Press garments/garment parts (underpress and final press).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "69d001a4-98c5-42e3-aecd-e9b62c508df8",
         "078599b4-c011-4ede-844f-82f2be25040c"
