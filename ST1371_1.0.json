@@ -330,7 +330,7 @@
     "Product designer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Craft and Design",
   "cluster": "Design professional",
@@ -357,7 +357,7 @@
     {
       "dutyID": "a01f3014-ca87-45bf-a835-1ef846ded335",
       "dutyDetail": "Analyse and quickly decipher information required to contribute to the design and fabrication of models across projects to deadline. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2591b171-a142-417b-99de-f1cef30cb327",
         "e356f8d6-fb2a-4ae1-870a-009ac02e06b4",
@@ -379,7 +379,7 @@
     {
       "dutyID": "16f8e220-58ed-44e8-b3c6-0f55d6ddaa58",
       "dutyDetail": "Undertake designs for physical models, defining appropriate resources and methods for relevant stages of the model-making process.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2591b171-a142-417b-99de-f1cef30cb327",
         "1bbfa202-14f5-4169-8bc2-8ae5733df975"
@@ -408,7 +408,7 @@
     {
       "dutyID": "869e21a7-a4e5-4b79-8d12-9413ae47704a",
       "dutyDetail": "Fabricate models to a high level of quality and accuracy. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2591b171-a142-417b-99de-f1cef30cb327",
         "1bbfa202-14f5-4169-8bc2-8ae5733df975"
@@ -427,7 +427,7 @@
     {
       "dutyID": "e1fc22ff-9e60-4fd9-bf11-573fb4d3b05a",
       "dutyDetail": "Select and use the necessary workshop tools, machinery and power equipment for the management and completion of projects.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2591b171-a142-417b-99de-f1cef30cb327",
         "e356f8d6-fb2a-4ae1-870a-009ac02e06b4"
@@ -454,7 +454,7 @@
     {
       "dutyID": "c8f88100-329e-4692-b241-46c820ec9ab0",
       "dutyDetail": "Contribute to and facilitate the efficient handling of models, machinery and materials in compliance with workplace health and safety requirements. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2591b171-a142-417b-99de-f1cef30cb327",
         "e356f8d6-fb2a-4ae1-870a-009ac02e06b4"
@@ -474,7 +474,7 @@
     {
       "dutyID": "bbfd3755-0dee-4670-90e8-b6027d1a32d5",
       "dutyDetail": "Manage small- to medium-sized projects to meet competing deadlines in a creative environment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2591b171-a142-417b-99de-f1cef30cb327",
         "e356f8d6-fb2a-4ae1-870a-009ac02e06b4",
@@ -497,7 +497,7 @@
     {
       "dutyID": "6c53e269-7c1b-4062-b330-1b1cef511998",
       "dutyDetail": "Undertake relevant administrative tasks to manage projects in the workplace and ensure confidentiality. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2591b171-a142-417b-99de-f1cef30cb327",
         "e356f8d6-fb2a-4ae1-870a-009ac02e06b4",
@@ -521,7 +521,7 @@
     {
       "dutyID": "bc72e594-89e6-4279-9d6a-ca2e5bcc8ff6",
       "dutyDetail": "Target engagement to influence, collaborate and communicate with colleagues and external stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2591b171-a142-417b-99de-f1cef30cb327",
         "e356f8d6-fb2a-4ae1-870a-009ac02e06b4",
@@ -545,7 +545,7 @@
     {
       "dutyID": "731413b9-1841-4328-bf87-48c29ffd6524",
       "dutyDetail": "Maintain up-to-date knowledge and understanding about model making as a creative craft through continuous improvement to meet industry and client needs. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2591b171-a142-417b-99de-f1cef30cb327",
         "1bbfa202-14f5-4169-8bc2-8ae5733df975",
