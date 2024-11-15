@@ -263,7 +263,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2022-11-09T00:00:00 +00:00",
@@ -282,7 +282,7 @@
     "Regulatory services manager"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Management and Administration",
   "cluster": "Management professional",
@@ -307,7 +307,7 @@
     {
       "dutyID": "7236a199-b46f-4696-918c-9f6e70f0bb34",
       "dutyDetail": "Lead and manage inspections, investigations, and other interventions, which include auditing, examining and critically appraising business procedures, processes, and products, to assess levels of consumer protection and compliance. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e52ccd94-5b46-4b2c-b7a1-f0f9da5c4adc",
         "4f666921-9246-4068-9596-4350dd1ddce7",
@@ -336,7 +336,7 @@
     {
       "dutyID": "dcc3a2bf-d794-4374-8241-deafd26ab480",
       "dutyDetail": "Analyse, interpret and evaluate data, applying judgment and technical expertise to identify risk, support the resolution of issues and enable decision making.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e52ccd94-5b46-4b2c-b7a1-f0f9da5c4adc",
         "4f666921-9246-4068-9596-4350dd1ddce7",
@@ -361,7 +361,7 @@
     {
       "dutyID": "6465b903-cb7d-4f61-b5bf-7277911efb1a",
       "dutyDetail": "Interview potential offenders for breaches of regulatory requirements in accordance with evidential requirements and best practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e52ccd94-5b46-4b2c-b7a1-f0f9da5c4adc",
         "87ff885f-dad5-49db-bcd4-05dd3a95aea8"
@@ -385,7 +385,7 @@
     {
       "dutyID": "11517e6c-887d-4d02-8c03-f402f625442f",
       "dutyDetail": "Present evidence in court and at other hearings, complying with the relevant rules of evidence, procedure, and professional standards.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e52ccd94-5b46-4b2c-b7a1-f0f9da5c4adc",
         "87ff885f-dad5-49db-bcd4-05dd3a95aea8"
@@ -408,7 +408,7 @@
     {
       "dutyID": "9999911c-c431-4a8b-8cfa-84058df9d889",
       "dutyDetail": "Take appropriate legal and tactical decisions regarding the progress of investigations or work in the organisation using expertise in trading standards legislation, investigative practice, and industry best practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e52ccd94-5b46-4b2c-b7a1-f0f9da5c4adc",
         "4f666921-9246-4068-9596-4350dd1ddce7",
@@ -433,7 +433,7 @@
     {
       "dutyID": "49530e84-1c01-43d7-955c-a9c3c0a4edb9",
       "dutyDetail": "Promote and champion improvement of compliance standards and processes for consumer protection within the organisation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e52ccd94-5b46-4b2c-b7a1-f0f9da5c4adc"
       ],
@@ -458,7 +458,7 @@
     {
       "dutyID": "d8586edf-9a74-4049-9116-80a2c0c5ed47",
       "dutyDetail": "Promote social inclusion and develop and implement practices that uphold the organisation’s equality and diversity policies and promote equal opportunities in employment and in-service delivery.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e52ccd94-5b46-4b2c-b7a1-f0f9da5c4adc",
         "87ff885f-dad5-49db-bcd4-05dd3a95aea8"
@@ -476,7 +476,7 @@
     {
       "dutyID": "4c82ada5-6332-425b-ab47-17939ea801f3",
       "dutyDetail": "Promote a climate change focussed approach that upholds the organisations climate change and net carbon zero policies and promote sustainable approaches in delivery.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e52ccd94-5b46-4b2c-b7a1-f0f9da5c4adc"
       ],
@@ -493,7 +493,7 @@
     {
       "dutyID": "effd835e-0c75-477a-9645-030bacbea120",
       "dutyDetail": "Lead and manage projects from inception to completion. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e52ccd94-5b46-4b2c-b7a1-f0f9da5c4adc",
         "4f666921-9246-4068-9596-4350dd1ddce7",
@@ -516,7 +516,7 @@
     {
       "dutyID": "686425f5-d723-4310-aba6-5b412b569498",
       "dutyDetail": "Develop  partnership communication networks to promote the organisation’s activities. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e52ccd94-5b46-4b2c-b7a1-f0f9da5c4adc",
         "08e132e4-4957-4da1-9d82-8c930ed65681"
@@ -536,7 +536,7 @@
     {
       "dutyID": "c90f2821-4af9-48fb-b769-1de2697bcb9e",
       "dutyDetail": "Deliver support to the organisation, business community and suppliers to achieve business productivity and growth.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e52ccd94-5b46-4b2c-b7a1-f0f9da5c4adc",
         "08e132e4-4957-4da1-9d82-8c930ed65681",
@@ -562,7 +562,7 @@
     {
       "dutyID": "978f4491-e693-4726-8873-0f3276b557bc",
       "dutyDetail": "Lead, manage and develop staff, information, and resources to provide the employer with effective services to meet its consumer protection compliance responsibilities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e52ccd94-5b46-4b2c-b7a1-f0f9da5c4adc",
         "68beb3cd-a458-4f0b-be57-b9f45757d28c",
@@ -589,7 +589,7 @@
     {
       "dutyID": "d8a8b678-bb62-4b97-b106-938b9c961fb3",
       "dutyDetail": "Contribute to strategic decisions affecting the service and deal with enquiries made of the service.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e52ccd94-5b46-4b2c-b7a1-f0f9da5c4adc",
         "4f666921-9246-4068-9596-4350dd1ddce7",
@@ -610,7 +610,7 @@
     {
       "dutyID": "9cdbac4b-775a-4f97-b980-66b4d52bde31",
       "dutyDetail": "Contribute to the production and implementation of service plans against targets, performance indicators and budgets.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e52ccd94-5b46-4b2c-b7a1-f0f9da5c4adc",
         "08e132e4-4957-4da1-9d82-8c930ed65681",
@@ -633,7 +633,7 @@
     {
       "dutyID": "7748a823-f914-4271-8009-75355ed1f0b2",
       "dutyDetail": "Review the organisation’s activities, present findings to the Trading Standards Manager / Head of Regulatory Service / Organisational Head and make recommendations that support decision making and continual improvement to improve investigation, compliance and reduce complaints.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e52ccd94-5b46-4b2c-b7a1-f0f9da5c4adc",
         "87ff885f-dad5-49db-bcd4-05dd3a95aea8"
