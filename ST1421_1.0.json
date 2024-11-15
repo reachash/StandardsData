@@ -261,10 +261,10 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual is the intended EQA provider",
+    "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-08-20T00:00:00 +00:00",
@@ -285,7 +285,7 @@
     "Talent acquisition partner"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Human Resources",
   "cluster": "Human resources administrator",
@@ -316,7 +316,7 @@
     {
       "dutyID": "f2e3b929-b8d8-4002-b47d-275c5e33b0f1",
       "dutyDetail": "Identify recruitment opportunities by analysing and confirming stakeholder requirements to create job descriptions and person specifications.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "18436a74-b71e-4da1-91a1-d5e775b69ed9",
         "2fafcaa6-a31b-407a-96f9-a0206ea116c2",
@@ -355,7 +355,7 @@
     {
       "dutyID": "32eb51e3-0aba-4e13-b1b0-bc741d9152c0",
       "dutyDetail": "Create job adverts and marketing plans to advertise and promote vacancies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "18436a74-b71e-4da1-91a1-d5e775b69ed9",
         "2fafcaa6-a31b-407a-96f9-a0206ea116c2",
@@ -396,7 +396,7 @@
     {
       "dutyID": "7116182b-f4c4-478d-99b8-826c429db92d",
       "dutyDetail": "Research and identify potential candidates that match role and vacancy requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "18436a74-b71e-4da1-91a1-d5e775b69ed9",
         "2fafcaa6-a31b-407a-96f9-a0206ea116c2",
@@ -444,7 +444,7 @@
     {
       "dutyID": "d464a675-679b-444d-a01f-75926411cf3c",
       "dutyDetail": "Contact potential candidates to qualify for current or future vacancies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "18436a74-b71e-4da1-91a1-d5e775b69ed9",
         "2fafcaa6-a31b-407a-96f9-a0206ea116c2",
@@ -491,7 +491,7 @@
     {
       "dutyID": "f3c4ea4c-b0e1-4cbf-8d99-8e07155fe043",
       "dutyDetail": "Create candidate profiles with CVs to share with the hiring manager.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "18436a74-b71e-4da1-91a1-d5e775b69ed9",
         "2fafcaa6-a31b-407a-96f9-a0206ea116c2",
@@ -528,7 +528,7 @@
     {
       "dutyID": "9cca8ed7-1b2b-4b53-888f-dd66996bba98",
       "dutyDetail": "Collate and communicate feedback on all candidates.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "18436a74-b71e-4da1-91a1-d5e775b69ed9",
         "2fafcaa6-a31b-407a-96f9-a0206ea116c2",
@@ -565,7 +565,7 @@
     {
       "dutyID": "d66eafce-979c-48e5-86fb-a1acde4c7b3b",
       "dutyDetail": "Manage and facilitate the selection process in line with the organisation’s preferences.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "18436a74-b71e-4da1-91a1-d5e775b69ed9",
         "2fafcaa6-a31b-407a-96f9-a0206ea116c2",
@@ -616,7 +616,7 @@
     {
       "dutyID": "c8522be9-c4eb-4498-8679-5f134540cf2d",
       "dutyDetail": "Manage and facilitate successful candidates through to start date.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "18436a74-b71e-4da1-91a1-d5e775b69ed9",
         "2fafcaa6-a31b-407a-96f9-a0206ea116c2",
@@ -664,7 +664,7 @@
     {
       "dutyID": "0131f3e5-432f-477d-91ce-f074bdf57d53",
       "dutyDetail": "Support the onboarding and administration process of new starts.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "18436a74-b71e-4da1-91a1-d5e775b69ed9",
         "2fafcaa6-a31b-407a-96f9-a0206ea116c2",
@@ -699,7 +699,7 @@
     {
       "dutyID": "af29820c-e1b3-4c57-b1df-dba53c096e69",
       "dutyDetail": "Manage stakeholder engagement to ensure a pipeline of future work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "18436a74-b71e-4da1-91a1-d5e775b69ed9",
         "2fafcaa6-a31b-407a-96f9-a0206ea116c2",
@@ -751,7 +751,7 @@
     {
       "dutyID": "d964eaf3-7ca4-4d07-9664-7d5dcb40072b",
       "dutyDetail": "Manage recruitment systems and data to ensure compliance with regulations and legislation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "18436a74-b71e-4da1-91a1-d5e775b69ed9",
         "2fafcaa6-a31b-407a-96f9-a0206ea116c2",
@@ -788,7 +788,7 @@
     {
       "dutyID": "3a8f52a6-1f30-4e96-81f7-9df41a4d93b2",
       "dutyDetail": "Contribute to the resource strategy through managing the implementation of agreed metrics and delivering the organisation requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "18436a74-b71e-4da1-91a1-d5e775b69ed9",
         "2fafcaa6-a31b-407a-96f9-a0206ea116c2",
