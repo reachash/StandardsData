@@ -257,7 +257,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-01-09T00:00:00 +00:00",
@@ -274,7 +274,7 @@
     "Embalmer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Science",
   "cluster": "Science advanced technician",
@@ -308,7 +308,7 @@
     {
       "dutyID": "6260ddd9-25bd-4228-a7c4-132dca14210e",
       "dutyDetail": "Check chemicals, funeral consumables, sundries, instruments, ancillary equipment, Personal protective equipment and ventilation systems ready for commencement of caseload",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12e3bc48-c694-4854-b21c-7dc56fdca115",
         "27b0303d-f136-4a31-a0c1-0eb3dea012bd",
@@ -358,7 +358,7 @@
     {
       "dutyID": "a1518ffb-930a-4581-b402-37d5d31bd4b7",
       "dutyDetail": "Carry out ongoing caseload review, liaise with team to agree work flow in line with business priorities and check all documents in line with legislation noting cause of death if available",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12e3bc48-c694-4854-b21c-7dc56fdca115",
         "27b0303d-f136-4a31-a0c1-0eb3dea012bd",
@@ -407,7 +407,7 @@
     {
       "dutyID": "c6b98ff0-7dc9-4fc1-b1c6-fe71a99542ee",
       "dutyDetail": "Complete dynamic case risk assessments, identifying all hazards including potential infection, recording and escalating risks as required",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12e3bc48-c694-4854-b21c-7dc56fdca115",
         "27b0303d-f136-4a31-a0c1-0eb3dea012bd",
@@ -463,7 +463,7 @@
     {
       "dutyID": "a25dc038-1b86-4c46-9770-c16a78c80dab",
       "dutyDetail": "Carry out case assessments to identify unique details and physical tasks required for each deceased",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12e3bc48-c694-4854-b21c-7dc56fdca115",
         "27b0303d-f136-4a31-a0c1-0eb3dea012bd",
@@ -513,7 +513,7 @@
     {
       "dutyID": "cfba94d5-e1ed-4b02-af24-88edf5f093bb",
       "dutyDetail": "Carry out pre-embalming requirements such as, PPE, identification, tests for death, disinfection, personal protective equipment removal of clothing, set features)",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12e3bc48-c694-4854-b21c-7dc56fdca115",
         "27b0303d-f136-4a31-a0c1-0eb3dea012bd",
@@ -561,7 +561,7 @@
     {
       "dutyID": "fc20dd0e-d1e7-49ec-8db1-d2cd2cc39df7",
       "dutyDetail": "Carry out embalming taking into account the unique case details identified this could include the embalming of an autopsy or non-autopsy case, adult, infant, mass trauma, repatriation, tissue donor, decomposition",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12e3bc48-c694-4854-b21c-7dc56fdca115",
         "27b0303d-f136-4a31-a0c1-0eb3dea012bd",
@@ -605,7 +605,7 @@
     {
       "dutyID": "063cda74-374c-4f25-b3b1-bf713f976b32",
       "dutyDetail": "Carry out additional treatment dressing pressure sores, removal of intravenous cannula, catheters, application of barrier cream, topical and localised treatments as required",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12e3bc48-c694-4854-b21c-7dc56fdca115",
         "27b0303d-f136-4a31-a0c1-0eb3dea012bd",
@@ -648,7 +648,7 @@
     {
       "dutyID": "7a23793c-914c-4c38-9b7d-8f5c298fbee8",
       "dutyDetail": "Carry out removal of medical implants as required",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12e3bc48-c694-4854-b21c-7dc56fdca115",
         "27b0303d-f136-4a31-a0c1-0eb3dea012bd",
@@ -691,7 +691,7 @@
     {
       "dutyID": "7f06c8df-93c2-4e6e-945a-3f04f4929151",
       "dutyDetail": "Carry out completion procedures, such as closing incisions, personal grooming, insertion of dentures",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12e3bc48-c694-4854-b21c-7dc56fdca115",
         "27b0303d-f136-4a31-a0c1-0eb3dea012bd",
@@ -735,7 +735,7 @@
     {
       "dutyID": "e5975b45-9796-4e07-9742-3780f4e32130",
       "dutyDetail": "Carry out basic cosmetic reconstruction as required may require waxing, cream cosmetics, air brushing",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12e3bc48-c694-4854-b21c-7dc56fdca115",
         "27b0303d-f136-4a31-a0c1-0eb3dea012bd",
@@ -776,7 +776,7 @@
     {
       "dutyID": "a3bcaa28-6e72-4235-8e25-c78da6cfaf44",
       "dutyDetail": "Carry out final presentation of embalmed deceased dressing, encoffining,communicating any requirements to team members ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12e3bc48-c694-4854-b21c-7dc56fdca115",
         "27b0303d-f136-4a31-a0c1-0eb3dea012bd",
@@ -818,7 +818,7 @@
     {
       "dutyID": "13301a83-c98c-4a2d-aaec-7f025f8181c1",
       "dutyDetail": "Clean embalming theatre, equipment and instruments, to ensure infection control, disposal of hazardous waste and reporting of defects and completing documentation in compliance with legislation",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12e3bc48-c694-4854-b21c-7dc56fdca115",
         "27b0303d-f136-4a31-a0c1-0eb3dea012bd",
@@ -862,7 +862,7 @@
     {
       "dutyID": "1240d491-9e26-4198-99bf-7514facf6d31",
       "dutyDetail": "Complete case assessment documentation as necessary in line with statutory and organisational requirements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12e3bc48-c694-4854-b21c-7dc56fdca115",
         "27b0303d-f136-4a31-a0c1-0eb3dea012bd",
@@ -907,7 +907,7 @@
     {
       "dutyID": "0e1993ab-f072-437c-aeea-ee2a7abe1298",
       "dutyDetail": "Communicate with third parties, clients, doctors, internal and external stakeholders, maintaining confidentiality and ensuring the business delivers the highest level of care and service to the client and the deceased",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12e3bc48-c694-4854-b21c-7dc56fdca115",
         "27b0303d-f136-4a31-a0c1-0eb3dea012bd",
@@ -961,7 +961,7 @@
     {
       "dutyID": "bac59d4d-fdbc-4d3a-b297-84a91d874810",
       "dutyDetail": "Deliver and participate in on-going learning and continuous development of self and team",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12e3bc48-c694-4854-b21c-7dc56fdca115",
         "27b0303d-f136-4a31-a0c1-0eb3dea012bd",
