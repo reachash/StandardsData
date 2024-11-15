@@ -260,7 +260,7 @@
     "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-10-26T00:00:00 +00:00",
@@ -283,12 +283,12 @@
     "Soil specialist",
     "Soil surveyor"
   ],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Science",
   "cluster": "Science professional",
   "clusterId": "213",
-  "clusterDescription": null,
+  "clusterDescription": "Define and lead science-based research projects to derive academic and applied information of value",
   "createdDate": "2024-08-02T12:17:53 +00:00",
   "lastUpdated": "2023-10-27T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-10-26T00:00:00 +00:00",
@@ -308,7 +308,7 @@
     {
       "dutyID": "09eaee8b-6ec1-40ce-80db-b82571ee05ba",
       "dutyDetail": "Establish the context of the problems faced by the client taking account of the soil policy context and any regulations, authoritative legislation, guidance and procedures that may apply. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7bcd3a80-a5c9-4643-9ef1-179567344e31",
         "b1cdcf67-5bfe-4aad-9e5a-e0789f2ebaba"
@@ -336,7 +336,7 @@
     {
       "dutyID": "6e7759f5-35c1-4746-a05d-25b4e3208538",
       "dutyDetail": "Conduct a desk based assessment to collect and critically assess available soil data, to inform proposed approach.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7bcd3a80-a5c9-4643-9ef1-179567344e31",
         "b1cdcf67-5bfe-4aad-9e5a-e0789f2ebaba"
@@ -362,7 +362,7 @@
     {
       "dutyID": "6d81215a-4e6a-44dc-8a41-571dc9645883",
       "dutyDetail": "Design appropriate soil survey and analysis methodologies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "ba460918-7043-41b7-bd56-e8c100f720b1",
@@ -382,7 +382,7 @@
     {
       "dutyID": "0d21c422-c725-4738-92d1-959db1977bee",
       "dutyDetail": "Conduct field-based surveys to collect soil data.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "ba460918-7043-41b7-bd56-e8c100f720b1",
@@ -400,7 +400,7 @@
     {
       "dutyID": "786311b6-b432-480b-bcb4-9f47a68dd6d7",
       "dutyDetail": "Commission soil surveys, testing and analysis.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "5a23f612-a7f3-42bb-b1be-29f7fbc32de0",
@@ -419,7 +419,7 @@
     {
       "dutyID": "0af59bf8-28b5-4987-85a6-777942600aac",
       "dutyDetail": "Interpret and critically evaluate information and data relating to the chemistry, biology and physics of soil and synthesise the data to consider soil functions and changes over time.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "ba460918-7043-41b7-bd56-e8c100f720b1",
@@ -440,7 +440,7 @@
     {
       "dutyID": "43a63649-42cb-45d3-918f-2e3254070af9",
       "dutyDetail": "Critically evaluate secondary data and information including soil maps and Geographic Information System Mapping (GIS). ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "0d987264-9203-480a-840b-421e5b2fcdb5"
@@ -456,7 +456,7 @@
     {
       "dutyID": "fc7b373a-d09e-4c07-8c0d-91318420b6ff",
       "dutyDetail": "Review data and statistics and design statistically valid comparisons using appropriate data analysis and data science techniques.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "9aa80dd2-ab63-46cf-b884-f36173979f63"
@@ -472,7 +472,7 @@
     {
       "dutyID": "9e03a2d3-5589-491c-9640-4d5d74f6466f",
       "dutyDetail": "Design and develop soil resource management plans.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "862eaedc-cbd0-44b1-9532-c3cc40f7387c",
@@ -488,7 +488,7 @@
     {
       "dutyID": "9e1da308-3b36-45ee-be31-cc8d55e0b096",
       "dutyDetail": "Collaborate with clients and stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e4ddc5d2-1c5b-401b-b6ba-d7ada83e9e0e",
         "cb442e2a-b69d-47a6-8dc9-1513ec65869a",
@@ -513,7 +513,7 @@
     {
       "dutyID": "4aa8455b-0a8d-44d3-919b-ac022065e600",
       "dutyDetail": "Evaluate findings from data and statistics to draw conclusions with reference to implications of soil management approaches, advise and recommend the most suitable actions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "e26ed4eb-4bdb-45d9-85f9-851c81eeb5b2",
@@ -532,7 +532,7 @@
     {
       "dutyID": "44ce2cf4-ed24-4456-833c-fc722cd87178",
       "dutyDetail": "Provide technical advice, presentations and reports to scientific and non-scientific audiences.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8a0bc88b-3529-4ae5-ab4c-cbc2c5a456ce"
       ],
@@ -554,7 +554,7 @@
     {
       "dutyID": "d25daa21-a59d-419f-9a44-f3205e88a9b0",
       "dutyDetail": "Promote and oversee the implementation of best practice and innovative techniques, technologies and processes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e4ddc5d2-1c5b-401b-b6ba-d7ada83e9e0e",
         "cb442e2a-b69d-47a6-8dc9-1513ec65869a",
@@ -576,7 +576,7 @@
     {
       "dutyID": "4e0805d0-505d-47f7-9ff4-186a1ad11515",
       "dutyDetail": "Manage end to end projects to ensure delivery to specification, on budget and in accordance with relevant technical, quality, health and safety and environmental legislation and authoritative guidance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8ca87f20-d6d1-4a79-8c17-638112e94dfb"
       ],
