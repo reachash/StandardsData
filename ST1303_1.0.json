@@ -393,7 +393,7 @@
     "Systems accountant"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Accountancy",
   "cluster": "Professional accountant",
@@ -427,7 +427,7 @@
     {
       "dutyID": "487b5a14-e5cf-48e4-aa13-231bfcfeab10",
       "dutyDetail": "Manage financial accounting, monitoring, and reporting systems, procedures, and internal controls in line with changes in technology including automation, artificial intelligence, cloud-based applications and making tax digital.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c3a7055f-cd81-4cf0-93c9-cee2ef299faa",
         "02a900a4-aaba-463e-8d03-43782260b850",
@@ -450,7 +450,7 @@
     {
       "dutyID": "89d3107a-0168-4aa8-9f4e-7225d3433b84",
       "dutyDetail": "Analyse financial and non-financial data on competitors, stakeholders, and market trends, and make recommendations for future action.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cbf61b99-4af4-4fdb-a015-039aa3ceee93",
         "80807e06-b325-4120-86e8-658b4790b920",
@@ -471,7 +471,7 @@
     {
       "dutyID": "22910b7c-2ad3-44bc-8172-0ed2f86feba0",
       "dutyDetail": "Manage accounting and financial systems for cyber security and data integrity.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c3a7055f-cd81-4cf0-93c9-cee2ef299faa",
         "02a900a4-aaba-463e-8d03-43782260b850"
@@ -490,7 +490,7 @@
     {
       "dutyID": "0f0b1db2-d21a-4b26-aa1a-12dfca291a53",
       "dutyDetail": "Ensure that all operations and systems are compliant with all relevant legislation, regulations, and codes of governance and professional ethics. Ensuring understanding of the duties and responsibilities of the Accounting and Finance Manager.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "49bdbc7f-0788-4ff9-b0ad-a19797008e17",
         "672ebabd-d120-4eaa-8949-8f7aeaedc584"
@@ -509,7 +509,7 @@
     {
       "dutyID": "19433c47-c225-4231-bf21-91fe11e60639",
       "dutyDetail": "Conduct periodic accounting and finance reconciliations, reviews and evaluations to ensure records are accurate and resources are used efficiently, effectively and economically.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c3a7055f-cd81-4cf0-93c9-cee2ef299faa",
         "49bdbc7f-0788-4ff9-b0ad-a19797008e17"
@@ -526,7 +526,7 @@
     {
       "dutyID": "d1befdcf-dc7b-413c-a11d-f49995cc9d34",
       "dutyDetail": "Manage the budgetary process, analyse variances, research and explain change, and make recommendations accordingly.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c3a7055f-cd81-4cf0-93c9-cee2ef299faa",
         "cbf61b99-4af4-4fdb-a015-039aa3ceee93",
@@ -547,7 +547,7 @@
     {
       "dutyID": "20f579c8-6993-4e5a-bace-4b21b398fc42",
       "dutyDetail": "Proactively monitor, interpret, and control cash flows, spot trends and forecast requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "fd6eaaa8-5bd7-4111-9d4e-1452f76ab236",
@@ -563,7 +563,7 @@
     {
       "dutyID": "d6bd74d9-4614-4084-984c-dd108481f5d1",
       "dutyDetail": "Collate and produce accurate financial and accounting management reports to specific deadlines and support internal managers or external clients to understand financial information to facilitate decision making.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c3a7055f-cd81-4cf0-93c9-cee2ef299faa",
         "cbf61b99-4af4-4fdb-a015-039aa3ceee93",
@@ -583,7 +583,7 @@
     {
       "dutyID": "56be97f9-1952-4d6d-a503-69dda910524d",
       "dutyDetail": "Oversee and manage the production of tax computations and returns for HMRC in line with making tax digital (MTD) and advise internal managers and external clients of their obligations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c3a7055f-cd81-4cf0-93c9-cee2ef299faa",
         "80807e06-b325-4120-86e8-658b4790b920",
@@ -608,7 +608,7 @@
     {
       "dutyID": "26df0b72-70a4-4748-8ea1-49ade9516dc8",
       "dutyDetail": "Liaise with internal and external auditors to ensure annual monitoring and reporting requirements are satisfied.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02a900a4-aaba-463e-8d03-43782260b850"
       ],
@@ -624,7 +624,7 @@
     {
       "dutyID": "a2b9bb5e-3e3e-4877-b1b9-d30cfcaff589",
       "dutyDetail": "Contribute to the implementation of organisation strategy, business plans, and business planning, by using accounting and finance and system-wide applications to provide robust evidence for effective decision making.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02a900a4-aaba-463e-8d03-43782260b850",
         "34a20838-cf64-4a05-bcb3-d15ad305d332"
@@ -643,7 +643,7 @@
     {
       "dutyID": "8559f257-49fb-4d98-85c9-24f3f47e94db",
       "dutyDetail": "Analyse and interpret a wide range of financial information for internal and external stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cbf61b99-4af4-4fdb-a015-039aa3ceee93",
         "02a900a4-aaba-463e-8d03-43782260b850",
@@ -657,7 +657,7 @@
     {
       "dutyID": "b0d02795-0154-408c-9273-5ff805867943",
       "dutyDetail": "Research, analyse, and report on factors influencing business performance, and make recommendations. For example: ways to reduce costs, improve profitability, improve quality, customer satisfaction, efficiency, productivity, and sustainabilty.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c3a7055f-cd81-4cf0-93c9-cee2ef299faa",
         "cbf61b99-4af4-4fdb-a015-039aa3ceee93",
@@ -678,7 +678,7 @@
     {
       "dutyID": "a329cd06-b8f2-4a4c-9aca-ad92a3f72b68",
       "dutyDetail": "Research and identify sources of finance, demonstrate an awareness of risk, be able to assist in arranging new sources of finance, and maintaining existing lines of credit and credit relationships. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c3a7055f-cd81-4cf0-93c9-cee2ef299faa",
         "cbf61b99-4af4-4fdb-a015-039aa3ceee93",
@@ -702,7 +702,7 @@
     {
       "dutyID": "affb8d0c-7a8b-423f-9b0c-2659b48f00b7",
       "dutyDetail": "Manage the credit control function, which involves understanding the legal framework, maintaining receivables (Sales Ledger), cash flow, and customer relationships.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c3a7055f-cd81-4cf0-93c9-cee2ef299faa"
       ],
@@ -720,7 +720,7 @@
     {
       "dutyID": "7e6929f3-39b1-4c70-9bdc-5c761ec9b767",
       "dutyDetail": "Develop and maintain internal controls that monitor and manage financial risk to safeguard the organisations assets and mitigate liabilities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c3a7055f-cd81-4cf0-93c9-cee2ef299faa",
         "80807e06-b325-4120-86e8-658b4790b920",
@@ -740,7 +740,7 @@
     {
       "dutyID": "84c24b38-ee49-4f48-9d7d-9cc6415fc1ba",
       "dutyDetail": "Understand the importance of external relationships to the organisation and be able to maintain them. These relationships could include: clients, customers, suppliers, auditors, solicitors, bankers and statutory organisations such as the HMRC, Companies House and the Financial Conduct Authority.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "80807e06-b325-4120-86e8-658b4790b920",
         "02a900a4-aaba-463e-8d03-43782260b850",
@@ -762,7 +762,7 @@
     {
       "dutyID": "6cae4df1-a929-4dd9-93a8-691e388fd7e8",
       "dutyDetail": "Recruit, train, appraise, mentor and be responsible for the day-to-day management of their accounting and finance team.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02a900a4-aaba-463e-8d03-43782260b850",
         "34a20838-cf64-4a05-bcb3-d15ad305d332"
