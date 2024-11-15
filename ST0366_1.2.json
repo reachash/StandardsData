@@ -256,7 +256,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-09-24T00:00:00 +00:00",
@@ -273,7 +273,7 @@
     "Fencing installer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Onsite Construction",
   "cluster": "Core building tradesperson",
@@ -291,7 +291,7 @@
     {
       "dutyID": "c05d3fac-a7fd-4b66-9edb-1ee95d05f715",
       "dutyDetail": "Work in compliance with occupational health, safety and environmental requirements to ensure the health, safety and wellbeing of self and others . Report in a timely manner any non-compliances against the construction programme to the appropriate person",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0cdd625-4ce0-4bf6-829a-46eb60687b9f",
         "987e3486-adc6-42d1-8448-986a259a3fb4",
@@ -338,7 +338,7 @@
     {
       "dutyID": "0b37b473-7ac9-4e5a-94a5-666b29447385",
       "dutyDetail": "Carry out their work conforming to all current and relevant building regulations, method statements, risk assessments, work instructions and, where appropriate, British Standards",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0cdd625-4ce0-4bf6-829a-46eb60687b9f",
         "987e3486-adc6-42d1-8448-986a259a3fb4",
@@ -385,7 +385,7 @@
     {
       "dutyID": "89c54774-1724-4db9-a369-ab3d4ff48d2b",
       "dutyDetail": "Prepare the work area including setting out the work, establishing safe working practices and the selection of materials and tools appropriate to the project",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0cdd625-4ce0-4bf6-829a-46eb60687b9f",
         "987e3486-adc6-42d1-8448-986a259a3fb4",
@@ -428,7 +428,7 @@
     {
       "dutyID": "57b014ae-b2fa-4935-9a30-a796ca67fc47",
       "dutyDetail": "Understand the appropriate work plan for the job, work to the programme, adapting to changes in schedule and requirements where necessary",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0cdd625-4ce0-4bf6-829a-46eb60687b9f",
         "987e3486-adc6-42d1-8448-986a259a3fb4",
@@ -468,7 +468,7 @@
     {
       "dutyID": "e7d53221-8e89-457a-a69b-be778a624ddf",
       "dutyDetail": "Receive, unload, locate handle, store, transport, move, position and lift materials to site for installation and disposal following good handling practices preventing injury or damage",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0cdd625-4ce0-4bf6-829a-46eb60687b9f",
         "987e3486-adc6-42d1-8448-986a259a3fb4",
@@ -501,7 +501,7 @@
     {
       "dutyID": "1e91d585-1637-4c31-9a69-c2428f9d5c3e",
       "dutyDetail": "Select, use and maintain tools, components and equipment appropriate to the task being carried out",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0cdd625-4ce0-4bf6-829a-46eb60687b9f",
         "987e3486-adc6-42d1-8448-986a259a3fb4",
@@ -545,7 +545,7 @@
     {
       "dutyID": "6ec8d0c2-1019-454f-ade8-10af054576fb",
       "dutyDetail": "Install and  repair fencing, Vehicle Restraint Systems and gates \r\n",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0cdd625-4ce0-4bf6-829a-46eb60687b9f",
         "987e3486-adc6-42d1-8448-986a259a3fb4",
@@ -578,7 +578,7 @@
     {
       "dutyID": "c96aab56-79d0-4d7d-b27d-5634a65c4f85",
       "dutyDetail": "Collaborate with internal and external stakeholders including clients and other construction trades",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0cdd625-4ce0-4bf6-829a-46eb60687b9f",
         "987e3486-adc6-42d1-8448-986a259a3fb4",
@@ -621,7 +621,7 @@
     {
       "dutyID": "08017a50-d317-469d-aa39-5f955d323d54",
       "dutyDetail": "Maintain a clear and safe worksite at all times, disposing of waste appropriately and sustainably",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0cdd625-4ce0-4bf6-829a-46eb60687b9f",
         "987e3486-adc6-42d1-8448-986a259a3fb4",
@@ -661,7 +661,7 @@
     {
       "dutyID": "073923c7-226f-4809-b7b2-bd0c03397c82",
       "dutyDetail": "Check final output meets specification and works instructions",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0cdd625-4ce0-4bf6-829a-46eb60687b9f",
         "987e3486-adc6-42d1-8448-986a259a3fb4",
@@ -697,7 +697,7 @@
     {
       "dutyID": "d66b92ca-c365-4c7c-85df-bd84532b1794",
       "dutyDetail": "Carry out continuous professional development to maintain knowledge of current and future developments affecting the role",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0cdd625-4ce0-4bf6-829a-46eb60687b9f",
         "987e3486-adc6-42d1-8448-986a259a3fb4",
