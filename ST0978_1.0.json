@@ -272,7 +272,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-09-06T00:00:00 +00:00",
@@ -297,7 +297,7 @@
     "Furniture restorer",
     "Historic interiors conservator"
   ],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Craft and Design",
   "cluster": "Precision manufacturing craftsperson",
@@ -315,7 +315,7 @@
     {
       "dutyID": "7d4f2e4d-ff37-48f9-8a60-e040414838b4",
       "dutyDetail": "Evaluate and assess items of furniture for repair.   Research the history of the furniture and the restoration methods needed to produce the repair. Produce a condition and options report.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60cddb8f-4136-4e02-a194-cecf0fcb43f1",
         "3aa63afc-f8b2-4f17-906d-b45a79888745",
@@ -341,7 +341,7 @@
     {
       "dutyID": "f05fe5eb-7693-4b52-b97d-2858d4f77bb3",
       "dutyDetail": "Analyse and agree requirements, scope of work and budgets with customers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3aa63afc-f8b2-4f17-906d-b45a79888745",
         "80d7d0bc-fd2e-42f0-ac76-c22fff5750c5",
@@ -366,7 +366,7 @@
     {
       "dutyID": "bab9f724-4151-494b-9fe5-a7cea444e062",
       "dutyDetail": "Develop treatment proposals for conservation or restoration of furniture objects. Include estimates of time, materials required and timelines.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3aa63afc-f8b2-4f17-906d-b45a79888745",
         "74296350-33bc-4a08-b73a-f4b06ef3e9a2",
@@ -391,7 +391,7 @@
     {
       "dutyID": "807f0d51-6dec-47ea-aa14-6885ccc375fe",
       "dutyDetail": "Identify, select and use the appropriate tools and materials for the restoring furniture. For example, traditional hand tools, carving tools, woods and finishes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60cddb8f-4136-4e02-a194-cecf0fcb43f1",
         "3aa63afc-f8b2-4f17-906d-b45a79888745",
@@ -417,7 +417,7 @@
     {
       "dutyID": "64906e90-440d-4112-b906-81eafa0c4297",
       "dutyDetail": "Set up and operate furniture restoration machinery, tools and equipment used to restore furniture.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60cddb8f-4136-4e02-a194-cecf0fcb43f1",
         "3aa63afc-f8b2-4f17-906d-b45a79888745",
@@ -441,7 +441,7 @@
     {
       "dutyID": "a3b9f277-cbf8-42ea-8780-a74f2c2f0ce9",
       "dutyDetail": "Repair structural components, replicate and restore components.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60cddb8f-4136-4e02-a194-cecf0fcb43f1",
         "3aa63afc-f8b2-4f17-906d-b45a79888745",
@@ -473,7 +473,7 @@
     {
       "dutyID": "cf7953d7-2ed0-4389-8612-1ccbbd21ec00",
       "dutyDetail": "Prepare existing and newly restored surfaces and finish furniture using basic finishing methods.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60cddb8f-4136-4e02-a194-cecf0fcb43f1",
         "3aa63afc-f8b2-4f17-906d-b45a79888745",
@@ -498,7 +498,7 @@
     {
       "dutyID": "712639e9-dafd-4d05-a390-3334fc1e7287",
       "dutyDetail": "Recreate and apply decorative effects or specialist finishes on furniture. For example, patinas, distressing, rag rolling, shabby chic, stipple feathering, liming, crackle, grading, scumble, French polishing.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60cddb8f-4136-4e02-a194-cecf0fcb43f1",
         "3aa63afc-f8b2-4f17-906d-b45a79888745",
@@ -524,7 +524,7 @@
     {
       "dutyID": "f75f462f-8442-469b-9564-29d236ee2265",
       "dutyDetail": "Re-upholster structural and decorative elements of furniture using appropriate fabrics.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60cddb8f-4136-4e02-a194-cecf0fcb43f1",
         "3aa63afc-f8b2-4f17-906d-b45a79888745",
@@ -550,7 +550,7 @@
     {
       "dutyID": "7e01ae5b-7398-43b1-b214-c35126bc6bd9",
       "dutyDetail": "Identify issues, solve problems and apply appropriate solutions throughout the restorative process. For example, use traditional techniques to address blooming, moisture, temperature or blotching issues.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60cddb8f-4136-4e02-a194-cecf0fcb43f1",
         "3aa63afc-f8b2-4f17-906d-b45a79888745",
@@ -576,7 +576,7 @@
     {
       "dutyID": "abd8bc23-0fa3-48cf-8dfb-1994d9293f32",
       "dutyDetail": "Complete reports on the work carried out to include sketches and photographs of the process.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3aa63afc-f8b2-4f17-906d-b45a79888745",
         "5940e4b3-723a-4e27-9694-4f0d3804f796",
@@ -596,7 +596,7 @@
     {
       "dutyID": "11af4d9a-f8c6-40a9-980f-85ce832f6128",
       "dutyDetail": "Provide customers with relevant aftercare and instructions and recommendations for future use and handling.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3aa63afc-f8b2-4f17-906d-b45a79888745",
         "5940e4b3-723a-4e27-9694-4f0d3804f796",
@@ -617,7 +617,7 @@
     {
       "dutyID": "976506d1-157c-484c-ac9b-4dd32a7bd68c",
       "dutyDetail": "Perform first line maintenance tasks on furniture machinery, tools and equipment used. For example, checking, cleaning and lubricating.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60cddb8f-4136-4e02-a194-cecf0fcb43f1",
         "3aa63afc-f8b2-4f17-906d-b45a79888745",
@@ -641,7 +641,7 @@
     {
       "dutyID": "ffc5a490-972e-451d-b146-a8b561330a8f",
       "dutyDetail": "Create content in collaboration with senior colleagues for offline and digital marketing channels, such as website or social media.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3aa63afc-f8b2-4f17-906d-b45a79888745",
         "5940e4b3-723a-4e27-9694-4f0d3804f796",
@@ -662,7 +662,7 @@
     {
       "dutyID": "8151de28-7eab-47f6-b830-0e5038c279ed",
       "dutyDetail": "Maintain work area and restoring the workplace by cleaning up, storing tools and equipment and shutting down machinery.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60cddb8f-4136-4e02-a194-cecf0fcb43f1",
         "3aa63afc-f8b2-4f17-906d-b45a79888745",
