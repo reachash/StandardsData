@@ -247,7 +247,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-02-05T00:00:00 +00:00",
@@ -262,7 +262,7 @@
   "coreAndOptions": false,
   "typicalJobTitles": [],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Building Services Engineering",
   "cluster": "Building Services Engineering Operative/Technician",
@@ -304,7 +304,7 @@
     {
       "dutyID": "2f6d6d8c-ecb6-4daa-a28f-1aabce8b5899",
       "dutyDetail": "Install and commission a range of gas appliances and associated systems and controls such as central heating boilers, cookers, space heaters and meters. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "96983459-6f26-4cd8-9da6-2c11cdd00295",
         "8ad81438-35fa-4067-80c4-8c98c340d632",
@@ -366,7 +366,7 @@
     {
       "dutyID": "6fae814f-d283-475f-a0c9-36faef5a90f6",
       "dutyDetail": "Carry out scheduled maintenance activities and servicing of gas appliances, systems and components. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "96983459-6f26-4cd8-9da6-2c11cdd00295",
         "8ad81438-35fa-4067-80c4-8c98c340d632",
@@ -428,7 +428,7 @@
     {
       "dutyID": "16d7a6dd-749d-4589-854a-e0fdcf41327b",
       "dutyDetail": "Safely identify and rectify faults. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "96983459-6f26-4cd8-9da6-2c11cdd00295",
         "8ad81438-35fa-4067-80c4-8c98c340d632",
@@ -490,7 +490,7 @@
     {
       "dutyID": "1c16801f-510b-4acb-8080-2b78cde798bc",
       "dutyDetail": "Safely decommission gas appliances.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "96983459-6f26-4cd8-9da6-2c11cdd00295",
         "8ad81438-35fa-4067-80c4-8c98c340d632",
@@ -552,7 +552,7 @@
     {
       "dutyID": "8b5a9128-fc41-447c-9dff-0d941d6ef5f3",
       "dutyDetail": "Select, use and maintain the appropriate tools, equipment and test instrumentation. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "96983459-6f26-4cd8-9da6-2c11cdd00295",
         "8ad81438-35fa-4067-80c4-8c98c340d632",
@@ -614,7 +614,7 @@
     {
       "dutyID": "c4783534-ed46-474e-a2b8-e5b2a340306a",
       "dutyDetail": "Source, interpret and action relevant technical documentation, standards, regulations and industry wide updates. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "96983459-6f26-4cd8-9da6-2c11cdd00295",
         "8ad81438-35fa-4067-80c4-8c98c340d632",
@@ -676,7 +676,7 @@
     {
       "dutyID": "4c945d13-2ca0-4e89-adca-6d55a40c6e1e",
       "dutyDetail": "Return the working area to a clean and tidy state, safely disposing of waste and recycling items where appropriate. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "96983459-6f26-4cd8-9da6-2c11cdd00295",
         "8ad81438-35fa-4067-80c4-8c98c340d632",
@@ -738,7 +738,7 @@
     {
       "dutyID": "49fb67e0-792a-40ea-a368-3108ff5d794b",
       "dutyDetail": "Provide excellent customer service including providing advice and guidance on operating appliances safely and maximising energy efficiency. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "96983459-6f26-4cd8-9da6-2c11cdd00295",
         "8ad81438-35fa-4067-80c4-8c98c340d632",
@@ -800,7 +800,7 @@
     {
       "dutyID": "61c9b230-6348-4a32-a78a-e32bbdc663c1",
       "dutyDetail": "Prioritise health and safety at all times. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "96983459-6f26-4cd8-9da6-2c11cdd00295",
         "8ad81438-35fa-4067-80c4-8c98c340d632",
