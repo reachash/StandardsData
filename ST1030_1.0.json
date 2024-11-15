@@ -318,7 +318,7 @@
     "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-10-14T00:00:00 +00:00",
@@ -337,7 +337,7 @@
     "Safeguarding coordinator"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Care Services",
   "cluster": "Children, young people and families worker",
@@ -355,7 +355,7 @@
     {
       "dutyID": "62d4202f-8df2-4857-8cc6-b38193176398",
       "dutyDetail": "Act as a first point of contact for safeguarding concerns.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ae83a7ea-a294-479c-bf77-6e96841a1efa",
         "1045b265-7bc4-4f28-88f5-be29da07e060",
@@ -382,7 +382,7 @@
     {
       "dutyID": "fcac9439-78d5-452e-8b1a-4187eb562c06",
       "dutyDetail": "Understand and apply knowledge around safeguarding legislation, guidance and policy to the safeguarding work that is undertaken within their own organisation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ae83a7ea-a294-479c-bf77-6e96841a1efa",
         "023145e0-d425-41cf-9750-a177b48d20ca",
@@ -444,7 +444,7 @@
     {
       "dutyID": "c9d665b5-493b-453e-a78f-2eaba6e23333",
       "dutyDetail": "Prioritise safeguarding concerns and recommend initial courses of action using a tailored approach to suit the needs of the individual, escalating complex cases to senior staff.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3c1353b2-860a-4526-8c0b-9a83653d74e1",
         "799f9af8-95cd-4b98-8fc0-7f9d3d11cd0d",
@@ -480,7 +480,7 @@
     {
       "dutyID": "ef839474-b3a1-4847-9f17-64aeb2f21268",
       "dutyDetail": "Report safeguarding allegations involving staff to Senior leaders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "799f9af8-95cd-4b98-8fc0-7f9d3d11cd0d"
       ],
@@ -514,7 +514,7 @@
     {
       "dutyID": "00daa083-bbe8-4c75-8c3a-71e2b43ecdcc",
       "dutyDetail": "Make decisions relating to the appropriate sharing of information in the context of safeguarding and information governance procedures/data protection legislation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "023145e0-d425-41cf-9750-a177b48d20ca",
         "3c1353b2-860a-4526-8c0b-9a83653d74e1",
@@ -554,7 +554,7 @@
     {
       "dutyID": "11eff804-c3ab-437e-ad17-ce5019dec463",
       "dutyDetail": "Collate evidence and report data to inform safeguarding meetings, processes and audits.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "c7e67b78-9486-4437-a6e8-6a9ce94366de",
@@ -582,7 +582,7 @@
     {
       "dutyID": "5edb920d-b239-4ead-a860-fcf8c9c19a20",
       "dutyDetail": "Maintain accurate and up to date safeguarding logs and registers using digital or paper systems in accordance with organisational policies reviews and audits.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "799f9af8-95cd-4b98-8fc0-7f9d3d11cd0d"
       ],
@@ -610,7 +610,7 @@
     {
       "dutyID": "9dab26ef-17de-4057-baac-e08811ad1a0d",
       "dutyDetail": "Escalate concerns when a decision is not in the best interest of the vulnerable person(s) or family and report incidents as appropriate to their organisation. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ae83a7ea-a294-479c-bf77-6e96841a1efa",
         "d5cb5187-221b-4c92-b4b2-f194b98f982c",
@@ -645,7 +645,7 @@
     {
       "dutyID": "af62e754-1c6b-4e16-98c9-a476e84341c3",
       "dutyDetail": "Provide safeguarding support to employees working within their own organisation and partner agencies to assist with the implementation of organisational, multi-agency, national safeguarding legislation and guidance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ae83a7ea-a294-479c-bf77-6e96841a1efa",
         "1045b265-7bc4-4f28-88f5-be29da07e060",
@@ -679,7 +679,7 @@
     {
       "dutyID": "85825cb5-d3bd-4dc8-b61b-9eb9353398d6",
       "dutyDetail": "Initiate advice and intelligence to colleagues on safeguarding matters based on current safeguarding policies and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3c1353b2-860a-4526-8c0b-9a83653d74e1",
         "95a9bc5a-39ec-42ac-b094-5078eec94895"
@@ -710,7 +710,7 @@
     {
       "dutyID": "0e055ac8-ed6c-460d-9260-a125c3809c20",
       "dutyDetail": "Support the management of a safeguarding caseload and be able to offer assistance to vulnerable people through the safeguarding process.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1045b265-7bc4-4f28-88f5-be29da07e060"
       ],
@@ -738,7 +738,7 @@
     {
       "dutyID": "51d0876b-256b-43fc-94a1-e3fd6486f6ec",
       "dutyDetail": "Participate in discussions of safeguarding cases with colleagues  to review, reflect and learn from practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ae83a7ea-a294-479c-bf77-6e96841a1efa",
         "1045b265-7bc4-4f28-88f5-be29da07e060",
@@ -785,7 +785,7 @@
     {
       "dutyID": "8095ec14-8f84-4824-abb0-d3b5f6481b59",
       "dutyDetail": "Assist with training to colleagues on safeguarding relevant to own organisation's training requirements and ensure stakeholders are aware and compliant with safeguarding related policies and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1045b265-7bc4-4f28-88f5-be29da07e060"
       ],
@@ -810,7 +810,7 @@
     {
       "dutyID": "bfa5d877-e324-48e7-afeb-82e20019051e",
       "dutyDetail": "Contribute to and prepare for external safeguarding inspections, reviews and audits.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "c7e67b78-9486-4437-a6e8-6a9ce94366de",
@@ -832,7 +832,7 @@
     {
       "dutyID": "563665fe-e76c-44f0-81ae-ec23845677ac",
       "dutyDetail": "Maintain own professional development via training and safeguarding supervision, ensuring that knowledge is up to date based on national and local legislation and best practice guidance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1045b265-7bc4-4f28-88f5-be29da07e060",
         "023145e0-d425-41cf-9750-a177b48d20ca",
