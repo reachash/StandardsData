@@ -224,7 +224,7 @@
     "Royal navy marine engineer submarine officer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and development engineer",
@@ -255,7 +255,7 @@
     {
       "dutyID": "957e4ae5-cfed-46f5-b66e-fdcb9ddefab8",
       "dutyDetail": " Provide guidance and solutions to technical issues to ensure the full operability and optimise performance of LWR plant systems",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
         "875e25e5-2a11-422b-aff4-f8fe58334a76",
@@ -288,7 +288,7 @@
     {
       "dutyID": "35ea964f-8fbc-425b-90ad-4f7133c5dff4",
       "dutyDetail": "Analyse LWR plant system conditions eg temperature, pressures and flows, identify adverse trends and propose technical solutions",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
         "875e25e5-2a11-422b-aff4-f8fe58334a76",
@@ -318,7 +318,7 @@
     {
       "dutyID": "92f2f1b7-3e0b-402c-846b-336e192ddefe",
       "dutyDetail": "Design and specify plant components, spare parts and other consumables for maintenance, repair and modifications eg valves, actuators, seals",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
         "aa29a70b-af30-4104-9c5f-764c3f17e264",
@@ -346,7 +346,7 @@
     {
       "dutyID": "81791be0-ef6e-41b1-a10d-454ed108f438",
       "dutyDetail": "Create and/or maintain LWR plant system design documents and contribute to the development of LWR plant processes and procedures ensuring priority is given to Health & Safety",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
         "aa29a70b-af30-4104-9c5f-764c3f17e264",
@@ -376,7 +376,7 @@
     {
       "dutyID": "bc9765dd-04f0-486a-9c70-b76c697268e0",
       "dutyDetail": "Design and model the LWR plant systems under normal and abnormal operating conditions to ensure the safety requirements associated with nuclear safety case are met",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
         "aa29a70b-af30-4104-9c5f-764c3f17e264",
@@ -411,7 +411,7 @@
     {
       "dutyID": "12f5db8b-76c3-4ed6-94da-3c14fe3d406e",
       "dutyDetail": "Evaluate technical proposals for plant system design modifications and independently verify suitability and feasibility",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
         "aa29a70b-af30-4104-9c5f-764c3f17e264",
@@ -447,7 +447,7 @@
     {
       "dutyID": "4c1a66d1-859a-49aa-9aab-9f031d870e72",
       "dutyDetail": "Mentor LWR team members, graduates and apprentices, providing technical development to increase own and team’s capability, enhancing organisational resilience",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
         "aa29a70b-af30-4104-9c5f-764c3f17e264",
@@ -475,7 +475,7 @@
     {
       "dutyID": "698a07e1-17e2-45a7-8fda-35f81856fa28",
       "dutyDetail": "Prepare and contribute to formal communications for appropriate regulatory and other agency interfaces such as Office for Nuclear Regulation LWR safety case report",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
         "aa29a70b-af30-4104-9c5f-764c3f17e264",
@@ -507,7 +507,7 @@
     {
       "dutyID": "eed3523f-adde-4d75-87c5-0684797565bd",
       "dutyDetail": "Provide a leading role and technical expertise in the event of an emergency response situation including beyond design basis events",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
         "aa29a70b-af30-4104-9c5f-764c3f17e264",
@@ -541,7 +541,7 @@
     {
       "dutyID": "4705692c-e067-436a-910f-3c860f520e0c",
       "dutyDetail": "Provide effective communication to inform significant operational/technical issues that impact on LWR plant availability",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
         "aa29a70b-af30-4104-9c5f-764c3f17e264",
@@ -572,7 +572,7 @@
     {
       "dutyID": "3cbd7d6c-5d34-4dfc-a75b-eb9477c18fd9",
       "dutyDetail": "Implement best practice in environmental and waste management",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "caa02c14-b365-4ea6-b620-345185dc9ecc",
         "87baead1-2c57-4fc3-a0eb-191b78341da9",
@@ -601,7 +601,7 @@
     {
       "dutyID": "5d4396fd-6ea2-4416-b7ff-035d0e52915d",
       "dutyDetail": "Undertake performance analysis to define operating parameters to meet nuclear safety case requirements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
         "aa29a70b-af30-4104-9c5f-764c3f17e264",
@@ -634,7 +634,7 @@
     {
       "dutyID": "0d3c4d50-8713-47c9-8c79-88dcc4af9b27",
       "dutyDetail": "Input to technical budgetary operational requirements for lifecycle planning",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
         "aa29a70b-af30-4104-9c5f-764c3f17e264",
@@ -665,7 +665,7 @@
     {
       "dutyID": "c529c751-deaa-4f30-bc0d-dcc0ceeacc8e",
       "dutyDetail": "Be an ambassador for nuclear safety culture and lead on safety and safe working practices",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
         "700181df-9d26-4555-88c7-dd04eb82baee",
@@ -690,7 +690,7 @@
     {
       "dutyID": "26e6df1f-350d-4e88-b1de-96813a0a609b",
       "dutyDetail": "Routinely verify operational status of plant to ensure it is maintained within chemistry, physics and thermal hydraulics design constraints",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aa29a70b-af30-4104-9c5f-764c3f17e264",
         "875e25e5-2a11-422b-aff4-f8fe58334a76",
@@ -721,7 +721,7 @@
     {
       "dutyID": "a9293e5e-72bd-41fc-b125-36ec3667f8b8",
       "dutyDetail": "Contribute to design and maintenance of LWR core and plant components under all operating conditions including assessing degradation of materials and taking into consideration of the harsh environment in which the materials are operating",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aa29a70b-af30-4104-9c5f-764c3f17e264",
         "875e25e5-2a11-422b-aff4-f8fe58334a76",
