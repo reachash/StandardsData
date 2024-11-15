@@ -327,7 +327,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2021-09-28T00:00:00 +00:00",
@@ -353,7 +353,7 @@
     "landscaping project manager"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Landscape horticulture manager",
@@ -378,7 +378,7 @@
     {
       "dutyID": "00af50ae-a91f-4d2e-badf-7c8e48d916ca",
       "dutyDetail": "Manage the research and collection of data on horticultural sites and evaluate the results including history and environment of site, plant health, plant collection records, invasive species, biodiversity, plant identification, soils, water, habitats, usage, features, heritage and trees. Using databases and Geographic Information Systems (GIS).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "79e56810-5e45-4ab3-94d4-98edaaf029e2",
         "3d6acae7-47ca-4d57-b131-29c3c25c146a",
@@ -418,7 +418,7 @@
     {
       "dutyID": "5503f961-3d79-4592-a8eb-486e2ce90971",
       "dutyDetail": "Develop horticultural site management plans / contracts incorporating wider landscape context, legal frameworks and site factors including design, both original and future development of site, health and safety, condition, features, soils, habitats, designations, heritage, water, transportation routes, ecology, planning policy, sustainability and resources.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "79e56810-5e45-4ab3-94d4-98edaaf029e2",
         "3d6acae7-47ca-4d57-b131-29c3c25c146a",
@@ -475,7 +475,7 @@
     {
       "dutyID": "2b844a65-7792-4327-95c6-75aac45c4a46",
       "dutyDetail": "Interpret and deliver horticultural site management plans / contracts.  Ensure delivery is of suitable quality and meets objectives.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "79e56810-5e45-4ab3-94d4-98edaaf029e2",
         "3d6acae7-47ca-4d57-b131-29c3c25c146a",
@@ -532,7 +532,7 @@
     {
       "dutyID": "7c35bb5d-f7c3-497f-a2c8-f0db9bbec73c",
       "dutyDetail": "Manage heritage horticultural sites maintaining and enhancing the historic context through sympathetic design, infrastructure, plantings and signage.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3d6acae7-47ca-4d57-b131-29c3c25c146a",
         "2c7c7648-4ab9-442f-a435-989ce4a4545c"
@@ -570,7 +570,7 @@
     {
       "dutyID": "7cacfeca-8919-44ff-8c71-f604e1ac5031",
       "dutyDetail": "Create designs and design briefs to develop areas of the site. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "79e56810-5e45-4ab3-94d4-98edaaf029e2",
         "3d6acae7-47ca-4d57-b131-29c3c25c146a",
@@ -592,7 +592,7 @@
     {
       "dutyID": "baede75e-c885-4d19-831c-3205a84bd704",
       "dutyDetail": "Manage contractors and staff undertaking practical works including cultivation of landscape areas, landscape construction, care of infrastructure, and providing specialist expertise.  Responsibility and accountability for quality, health and safety and delivery to plan and budget.\t",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "79e56810-5e45-4ab3-94d4-98edaaf029e2",
         "3d6acae7-47ca-4d57-b131-29c3c25c146a",
@@ -637,7 +637,7 @@
     {
       "dutyID": "f078eed1-9644-473c-b432-ebbbbc87bdf7",
       "dutyDetail": "Manage and be accountable for the environmental impact of horticultural sites including measurement of energy usage and advising on better environmental standards to work towards a zero-carbon economy.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "79e56810-5e45-4ab3-94d4-98edaaf029e2",
         "3d6acae7-47ca-4d57-b131-29c3c25c146a",
@@ -680,7 +680,7 @@
     {
       "dutyID": "fef9c9e3-e045-463f-a188-221553ae7419",
       "dutyDetail": "Manage plant health and suitability to site.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c7c7648-4ab9-442f-a435-989ce4a4545c"
       ],
@@ -714,7 +714,7 @@
     {
       "dutyID": "cf09e899-8926-4862-bb0f-468ac30123cb",
       "dutyDetail": "Assess risks of plant pests and diseases on horticultural sites and mitigation e.g. quarantine, provenance of nursery stock etc.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3d6acae7-47ca-4d57-b131-29c3c25c146a",
         "1b9cca05-9e05-4464-b4aa-e99d90160c3a",
@@ -754,7 +754,7 @@
     {
       "dutyID": "d82337de-6237-48be-8484-9c7595690085",
       "dutyDetail": "Provide technical horticultural consultancy and advice on plants, designed horticultural spaces and landscapes including plant health, pests and disease prevention and response, the law, planning, impact on built environment, risk and the role of horticultural spaces for the public, clients and colleagues.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "79e56810-5e45-4ab3-94d4-98edaaf029e2",
         "3d6acae7-47ca-4d57-b131-29c3c25c146a",
@@ -818,7 +818,7 @@
     {
       "dutyID": "42c87a1b-4a9b-410a-b146-ee8adc6c7793",
       "dutyDetail": "Seek appropriate specialist technical input for example ecologists, landscape architects, arboriculturists and review quality and relevance of contributions made by specialists.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1b9cca05-9e05-4464-b4aa-e99d90160c3a"
       ],
@@ -839,7 +839,7 @@
     {
       "dutyID": "e56aad69-88c1-4974-a41f-be796b03fac6",
       "dutyDetail": "Manage interaction between people and horticultural sites. Engage people by interpreting horticultural sites and settings using static and dynamic methods.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "79e56810-5e45-4ab3-94d4-98edaaf029e2",
         "3d6acae7-47ca-4d57-b131-29c3c25c146a",
@@ -873,7 +873,7 @@
     {
       "dutyID": "74ac9258-d313-4a7b-b71d-a56fc1190c36",
       "dutyDetail": "Promote the organisation, products, services or activities and the benefits of green spaces, parks, gardens, trees, woodlands and forests including community engagement, visitor experience, education,  event management ensuring health and safety directives are followed.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "79e56810-5e45-4ab3-94d4-98edaaf029e2",
         "3d6acae7-47ca-4d57-b131-29c3c25c146a",
@@ -900,7 +900,7 @@
     {
       "dutyID": "a802621f-5fa9-4599-8e8b-79437f1ade7c",
       "dutyDetail": "Manage employees and contractors including workforce planning, quality, health and safety, skills, motivation, recruitment, retention and training. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "79e56810-5e45-4ab3-94d4-98edaaf029e2",
         "3d6acae7-47ca-4d57-b131-29c3c25c146a",
@@ -933,7 +933,7 @@
     {
       "dutyID": "448c37cc-7247-4d67-b902-3b7c8474a570",
       "dutyDetail": "Manage volunteer workforce with responsibility for inclusion, organisational culture, health and wellbeing.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3d6acae7-47ca-4d57-b131-29c3c25c146a",
         "1e21821b-9bc9-40f7-9eb0-7d67cc730190"
@@ -959,7 +959,7 @@
     {
       "dutyID": "11ad8790-ce74-469d-8e7f-cc8c0109b787",
       "dutyDetail": "Manage relationships and influence customers, stakeholders, landowners, internal and external colleagues including negotiations and networking. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "79e56810-5e45-4ab3-94d4-98edaaf029e2",
         "3d6acae7-47ca-4d57-b131-29c3c25c146a"
@@ -981,7 +981,7 @@
     {
       "dutyID": "85548da3-4227-4bac-bd83-ffe74ea7fc75",
       "dutyDetail": "Generate income including developing business cases, identifying audience and managing targets.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "79e56810-5e45-4ab3-94d4-98edaaf029e2",
         "3d6acae7-47ca-4d57-b131-29c3c25c146a",
@@ -1008,7 +1008,7 @@
     {
       "dutyID": "b9c4e97e-ab7f-4d6b-8d05-ad9247f183cb",
       "dutyDetail": "Responsibility for budgeting, setting priorities, forecasting, driving efficiencies, procurement, Profit and Loss reporting and sourcing funding where applicable. Manage systems and processes and use information generated to manage organisational performance and drive improvements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1b9cca05-9e05-4464-b4aa-e99d90160c3a"
       ],
