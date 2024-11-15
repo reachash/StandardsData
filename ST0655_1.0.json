@@ -312,7 +312,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-09-27T00:00:00 +00:00",
@@ -337,7 +337,7 @@
     "CNC Setter"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing and process operative or technician",
@@ -355,7 +355,7 @@
     {
       "dutyID": "c15d4eb0-341f-4059-8e42-a6b0f663a105",
       "dutyDetail": "Load and prove (test) CNC programmes to produce furniture and/or furniture components to specification.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "023513fb-732b-463d-9bbe-550ffe994938",
         "63af0c49-224d-4c5e-a784-44d28cd33696"
@@ -379,7 +379,7 @@
     {
       "dutyID": "c710fd11-83f2-48fe-9b66-7de0da823ed3",
       "dutyDetail": "Set up, operate and maintain CNC furniture production machinery.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "023513fb-732b-463d-9bbe-550ffe994938",
         "63af0c49-224d-4c5e-a784-44d28cd33696",
@@ -404,7 +404,7 @@
     {
       "dutyID": "ae39f714-cb31-46ff-a1a1-403f1e998504",
       "dutyDetail": "Improve CNC processes to produce furniture efficiently.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8bc1121a-4820-47cb-a460-d73eca5c06df",
         "a405890d-2c3f-41fc-8418-69ddb988cc77"
@@ -422,7 +422,7 @@
     {
       "dutyID": "22c24c7d-4d58-4182-814c-81f43fe4ee69",
       "dutyDetail": "Work safely at all times following relevant legislation and regulations ensuring self and others safety.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "63af0c49-224d-4c5e-a784-44d28cd33696"
       ],
@@ -440,7 +440,7 @@
     {
       "dutyID": "afb44619-b9ae-41a5-9009-840670c84ace",
       "dutyDetail": "Produce and maintain jigs and templates to produce furniture components.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "63af0c49-224d-4c5e-a784-44d28cd33696"
       ],
@@ -456,7 +456,7 @@
     {
       "dutyID": "d90a617e-83c2-4f0c-aab8-3cc75fe76331",
       "dutyDetail": "Create and modify programmes for producing furniture using Computer Aided Design (CAD) software.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "023513fb-732b-463d-9bbe-550ffe994938",
         "a405890d-2c3f-41fc-8418-69ddb988cc77"
@@ -478,7 +478,7 @@
     {
       "dutyID": "c57f0928-7fb6-46bb-978c-dffd06800df0",
       "dutyDetail": "Identify and rectify faults with furniture production machinery.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "63b95ca2-bdd4-4138-ae22-dd2fc1a5dba4",
@@ -493,7 +493,7 @@
     {
       "dutyID": "1e3be120-741d-4dca-8c11-00443ad6b7b9",
       "dutyDetail": "Lead, manage and coach teams and develop own skills to ensure effective results.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a6803e15-3da2-4890-9869-d50faad92aff",
         "d5b9558a-c49e-494a-b391-f6e66697b675",
@@ -513,7 +513,7 @@
     {
       "dutyID": "f1dbeded-0524-4ab4-b7c7-7cb2ad5212f3",
       "dutyDetail": "Keep and maintain accurate records/information and share appropriately.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "023513fb-732b-463d-9bbe-550ffe994938"
       ],
@@ -529,7 +529,7 @@
     {
       "dutyID": "0ce04683-4123-4b46-a133-389593905bc3",
       "dutyDetail": "Set tooling and equipment, accurately measure tooling specification, input and adjust tooling data.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "023513fb-732b-463d-9bbe-550ffe994938",
         "63af0c49-224d-4c5e-a784-44d28cd33696",
@@ -549,7 +549,7 @@
     {
       "dutyID": "30c8f003-9163-4ad7-a6ff-3518f17e443f",
       "dutyDetail": "Read, understand and interpret specification drawings to ensure components meet specification.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "023513fb-732b-463d-9bbe-550ffe994938"
       ],
@@ -566,7 +566,7 @@
     {
       "dutyID": "ff26711e-ee5d-4f17-8d6b-1742c8ec9cfa",
       "dutyDetail": "Check furniture and components produced meet quality standards and specifications working with minimal supervision.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d5b9558a-c49e-494a-b391-f6e66697b675",
         "4a10641f-e81d-4550-bb26-4053dc591c7e",
