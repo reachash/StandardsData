@@ -145,7 +145,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-02-05T00:00:00 +00:00",
@@ -186,7 +186,7 @@
     {
       "dutyID": "d4d970e6-2c1f-4327-ac48-29877a4103dd",
       "dutyDetail": "Drafting and monitoring the school budget, setting up financial controls and reporting on performance to ensure best value for money is achieved; managing payroll, maintaining accounts and financial reporting to the headteacher and governors.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -196,7 +196,7 @@
     {
       "dutyID": "a1b9c410-a821-4589-9a2d-7e20f5f17efb",
       "dutyDetail": "Management of the school site to ensure that it provides a safe and suitable learning environment; procurement of goods and services to achieve best value and oversee contract management, e.g. staff, catering and maintenance contracts.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -206,7 +206,7 @@
     {
       "dutyID": "8b233aab-44da-4eda-873e-b171fb33a012",
       "dutyDetail": "Identification of income generation opportunities on a small scale, supporting the SBD in larger opportunities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -216,7 +216,7 @@
     {
       "dutyID": "d5c17dbf-ef24-4f93-9926-f2e73f4e8729",
       "dutyDetail": "Preparation of marketing materials and lead a range of marketing activities to add value and promote the school externally.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -226,7 +226,7 @@
     {
       "dutyID": "13bbb04c-2a12-4b16-9f9c-88717c03b788",
       "dutyDetail": "Responsibility for managing office and other support staff and for developing and maintaining effective administrative systems, e.g. student record-keeping systems; implementation of school HR processes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -236,7 +236,7 @@
     {
       "dutyID": "d209962f-2661-4a8d-bfa5-553dce963b8d",
       "dutyDetail": "Ensuring compliance with and implementation of safeguarding and Health & Safety policies so that all stakeholders work in a safe and healthy.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
