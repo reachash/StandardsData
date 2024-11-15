@@ -265,7 +265,7 @@
     "Process Control Engineer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Maintenance, installation and repair",
   "cluster": "Manufacturing or process maintenance engineer",
@@ -311,7 +311,7 @@
     {
       "dutyID": "e06e5c25-e124-4338-b4c7-34dc8109e026",
       "dutyDetail": "Lead a safety culture in their defined work area at all times, ensuring their own safety and the safety of others.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "683a9bb4-0196-4891-ac25-b34d0762b8a6",
         "2cbd120b-bffc-4f53-a933-ad03b8c31e39",
@@ -338,7 +338,7 @@
     {
       "dutyID": "07c2954a-8270-4b09-b569-9cdf38356f8e",
       "dutyDetail": "Ensure that the organisation’s documentation and quality control processes and procedures are adhered to.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2cbd120b-bffc-4f53-a933-ad03b8c31e39",
         "fbcdc479-5abb-433a-9604-6449fc39df1c"
@@ -359,7 +359,7 @@
     {
       "dutyID": "16093f90-c223-4410-b975-7a055bfa7954",
       "dutyDetail": "Ensure process control projects or programmes of work comply with any national and international regulatory or compliance requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "683a9bb4-0196-4891-ac25-b34d0762b8a6",
         "2cbd120b-bffc-4f53-a933-ad03b8c31e39",
@@ -398,7 +398,7 @@
     {
       "dutyID": "9e5a3aa9-e925-4689-a6e1-629297d82449",
       "dutyDetail": "Take responsibility for developing and maintaining of own technical knowledge.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f8ac1e94-0610-46f1-b5e0-159623059ed7",
         "fbcdc479-5abb-433a-9604-6449fc39df1c"
@@ -421,7 +421,7 @@
     {
       "dutyID": "8c57f9a6-ad95-48f9-b7be-33000447c534",
       "dutyDetail": "Work independently or as part of a team to provide specialist process control technical input, direction and leadership.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "683a9bb4-0196-4891-ac25-b34d0762b8a6",
         "87150a13-645a-4020-9380-5c6e4316342d",
@@ -463,7 +463,7 @@
     {
       "dutyID": "b92688e7-502c-427f-83dc-c5c8d5924058",
       "dutyDetail": "Determine the type and level of technical data and information required to complete the project or task outcome.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2cbd120b-bffc-4f53-a933-ad03b8c31e39",
         "87150a13-645a-4020-9380-5c6e4316342d",
@@ -504,7 +504,7 @@
     {
       "dutyID": "41c65dc1-72b4-4163-be25-85d8e3eca959",
       "dutyDetail": "Plan, organise and manage resources, to monitor progress, identify risks and mitigation to meet project or task outcome.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "683a9bb4-0196-4891-ac25-b34d0762b8a6",
         "2cbd120b-bffc-4f53-a933-ad03b8c31e39",
@@ -549,7 +549,7 @@
     {
       "dutyID": "35417af1-f3d1-4744-ae34-ff90de1211c8",
       "dutyDetail": "Lead and deliver control system engineering projects, project tasks or programmes of work to the agreed schedule, performance and budget.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "683a9bb4-0196-4891-ac25-b34d0762b8a6",
         "2cbd120b-bffc-4f53-a933-ad03b8c31e39",
@@ -599,7 +599,7 @@
     {
       "dutyID": "8fd1b8e7-b847-4d3b-bbf2-1478086f2924",
       "dutyDetail": "Develop and maintain effective working relationships with internal and external stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5cb1a75e-8c2d-4b94-8539-e2e376be0598",
         "334c45a6-5f5a-4a7e-a099-023bcf7f364c",
@@ -618,7 +618,7 @@
     {
       "dutyID": "ca015f75-21b4-4b42-a560-b2c7df876b66",
       "dutyDetail": "Determine the appropriate problem solving and diagnostic tools and techniques to be used and lead the problem solving activity.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2cbd120b-bffc-4f53-a933-ad03b8c31e39",
         "87150a13-645a-4020-9380-5c6e4316342d",
@@ -647,7 +647,7 @@
     {
       "dutyID": "2ca03be8-ac53-4047-a6c8-b92d74d5b725",
       "dutyDetail": "Identify and lead continuous improvement activities that impact on factors such as safety, performance or cost.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2cbd120b-bffc-4f53-a933-ad03b8c31e39",
         "87150a13-645a-4020-9380-5c6e4316342d",
@@ -679,7 +679,7 @@
     {
       "dutyID": "c9e46a59-9495-4562-87aa-80e0bd53d863",
       "dutyDetail": "Check all project or work programme documentation has been completed correctly and accurately to ensure it meets statutory and organisational compliance and traceability requirements such as safety, quality and environmental.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "683a9bb4-0196-4891-ac25-b34d0762b8a6",
         "2cbd120b-bffc-4f53-a933-ad03b8c31e39",
@@ -707,7 +707,7 @@
     {
       "dutyID": "79f13b19-566f-429f-8d31-58a596482798",
       "dutyDetail": "Produce technical documentation with applicable supporting data or information as required to inform project outcomes and decision making such as drawings, feasibility studies, quality issues, maintenance or commissioning reports.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2cbd120b-bffc-4f53-a933-ad03b8c31e39",
         "fbcdc479-5abb-433a-9604-6449fc39df1c"
@@ -734,7 +734,7 @@
     {
       "dutyID": "3a76cc68-4cb9-4c0f-acc5-6f9e3820df07",
       "dutyDetail": "Identify and share good practice, work collaboratively such as recording problems identified and resolution found, sharing technology solutions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "334c45a6-5f5a-4a7e-a099-023bcf7f364c",
         "fbcdc479-5abb-433a-9604-6449fc39df1c",
