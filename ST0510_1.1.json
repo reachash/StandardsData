@@ -432,7 +432,7 @@
     "Social worker"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Care Services",
   "cluster": "Care services professional",
@@ -457,7 +457,7 @@
     {
       "dutyID": "42cc6b05-ae55-4af3-905c-ed6ae2d77d9a",
       "dutyDetail": "Promote the rights, strengths and wellbeing of people families and communities to ensure their voice and expertise is heard and acknowledged. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7603b8c6-a62a-45b6-b022-2a3b3eeb8c5b",
         "5046a6f2-f3a7-4e71-86d5-a301af0cf8c0"
@@ -492,7 +492,7 @@
     {
       "dutyID": "6d1b75c7-3d33-4c55-8fe3-8f610ff0d1bf",
       "dutyDetail": "Be an accountable professional acting in the best interests of people that use services, by valuing each person as an individual and promoting their rights, and recognising strengths, and abilities. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf4be302-aad6-4bbe-80e8-b38f472aee5a",
         "cfa5c65d-b5e1-451b-936d-e93c6473e5ae",
@@ -534,7 +534,7 @@
     {
       "dutyID": "6e44ea2d-547c-4877-8c4d-3752f2419f45",
       "dutyDetail": "Recognise differences across diverse communities and challenge the impact of disadvantage and discrimination on people and their families and communities. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf4be302-aad6-4bbe-80e8-b38f472aee5a",
         "7603b8c6-a62a-45b6-b022-2a3b3eeb8c5b",
@@ -568,7 +568,7 @@
     {
       "dutyID": "4e050adc-118b-4aea-90d6-fed8dc7f14ac",
       "dutyDetail": "Establish and maintain the trust and confidence of people so as to develop professional relationships that ensure they understand the role of a social worker in their lives. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf4be302-aad6-4bbe-80e8-b38f472aee5a",
         "7603b8c6-a62a-45b6-b022-2a3b3eeb8c5b",
@@ -605,7 +605,7 @@
     {
       "dutyID": "98c67729-dc6d-4436-840e-bc4e52f76d57",
       "dutyDetail": "Practise in ways that demonstrate empathy, authority, and professional confidence, and enable people to fully participate in discussions and decision making. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf4be302-aad6-4bbe-80e8-b38f472aee5a",
         "7603b8c6-a62a-45b6-b022-2a3b3eeb8c5b",
@@ -646,7 +646,7 @@
     {
       "dutyID": "4ca16b50-bd06-4d13-a9fc-3b8c18f23a93",
       "dutyDetail": "Work directly with individuals and their families through the professional use of self, using interpersonal skills to develop relationships based on openness and transparency . ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf4be302-aad6-4bbe-80e8-b38f472aee5a",
         "7603b8c6-a62a-45b6-b022-2a3b3eeb8c5b",
@@ -686,7 +686,7 @@
     {
       "dutyID": "12e9a60e-c201-4774-920a-9f1cae04a3d8",
       "dutyDetail": "Actively listen to understand people, using a range of appropriate communication methods to build relationships. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf4be302-aad6-4bbe-80e8-b38f472aee5a",
         "c1364034-f68b-4b29-959f-d380816d3755",
@@ -734,7 +734,7 @@
     {
       "dutyID": "6e17ae03-0e2a-48e9-99ce-dbd4327dd408",
       "dutyDetail": "Manage situations of potentially conflicting or competing values, and, with guidance, recognise, reflect on, and work with integrity with ethical dilemmas. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf4be302-aad6-4bbe-80e8-b38f472aee5a",
         "c1364034-f68b-4b29-959f-d380816d3755",
@@ -770,7 +770,7 @@
     {
       "dutyID": "a810a3ff-7335-4f61-8599-bc3a20fbfa15",
       "dutyDetail": "Be accountable for quality practice and decisions made whilst working within legal and ethical frameworks, using professional authority and judgement appropriately and respectfully. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cfa5c65d-b5e1-451b-936d-e93c6473e5ae",
         "5046a6f2-f3a7-4e71-86d5-a301af0cf8c0"
@@ -813,7 +813,7 @@
     {
       "dutyID": "3d73ac92-059d-4bb7-9dec-c3f3904a0ecb",
       "dutyDetail": "Select and use appropriate frameworks to assess, give meaning to, plan, implement and review effective interventions and evaluate the outcomes, in partnership with service users. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7603b8c6-a62a-45b6-b022-2a3b3eeb8c5b",
         "c1364034-f68b-4b29-959f-d380816d3755",
@@ -849,7 +849,7 @@
     {
       "dutyID": "ae2b83d1-138f-41f9-b03f-5de1ee680213",
       "dutyDetail": "Apply knowledge and skills to address the social care needs of individuals and their families commonly arising from physical and mental ill health, disability, substance misuse, abuse, or neglect, to enhance quality of life and wellbeing. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7603b8c6-a62a-45b6-b022-2a3b3eeb8c5b",
         "c1364034-f68b-4b29-959f-d380816d3755",
@@ -888,7 +888,7 @@
     {
       "dutyID": "1a0fe73f-c56c-4424-80cc-8971bb774ad4",
       "dutyDetail": "Recognise the risk indicators of different forms of abuse and neglect and their impact on individuals, their families or their support networks and prioritise the protection of children and adults in vulnerable situations. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c1364034-f68b-4b29-959f-d380816d3755",
         "5046a6f2-f3a7-4e71-86d5-a301af0cf8c0"
@@ -921,7 +921,7 @@
     {
       "dutyID": "f552a558-6f0b-421b-aecb-cb992acaaeb5",
       "dutyDetail": "Work with relevant colleagues and agencies to support people experiencing difficult situations, to gather information and make timely decisions when positive change is not evident. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf4be302-aad6-4bbe-80e8-b38f472aee5a",
         "5046a6f2-f3a7-4e71-86d5-a301af0cf8c0"
@@ -954,7 +954,7 @@
     {
       "dutyID": "e4d04eb8-fdb5-45b5-9012-f5f7368af64d",
       "dutyDetail": "Maintain accurate and timely records and reports in accordance with applicable legislation, protocols, and guidelines, to support professional judgement and organisational responsibilities. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5046a6f2-f3a7-4e71-86d5-a301af0cf8c0"
       ],
@@ -989,7 +989,7 @@
     {
       "dutyID": "0b9aa0cc-177f-475a-9cb1-0f58b2b190ef",
       "dutyDetail": "Recognise professional limitations and how and when to seek advice from a range of sources including named supervisors, senior social workers, and other professionals. Make effective use of opportunities to discuss, reflect upon and test multiple hypotheses. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cfa5c65d-b5e1-451b-936d-e93c6473e5ae",
         "5046a6f2-f3a7-4e71-86d5-a301af0cf8c0"
@@ -1026,7 +1026,7 @@
     {
       "dutyID": "1074929c-97e7-4b2f-bfa4-f88b7516aa52",
       "dutyDetail": "Maintain and record professional development and knowledge of social work practice. Use supervision and feedback to inform and critically reflect on practice and values, and the impact they have on practice. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cfa5c65d-b5e1-451b-936d-e93c6473e5ae",
         "5046a6f2-f3a7-4e71-86d5-a301af0cf8c0"
@@ -1059,7 +1059,7 @@
     {
       "dutyID": "f4172216-6c41-4941-9340-3fcf2cb0f432",
       "dutyDetail": "Confidently fulfil statutory responsibilities, work within regulatory and organisational remit and contribute to its development. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5046a6f2-f3a7-4e71-86d5-a301af0cf8c0"
       ],
@@ -1099,7 +1099,7 @@
     {
       "dutyID": "08e655b3-2ad7-4e52-afa7-13988d6f7ce1",
       "dutyDetail": "Social workers must use technology, social media or other forms of electronic communication lawfully, ethically, and in a way that does not bring the profession into disrepute and ensure their skills in this area are maintained and used to improve practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cfa5c65d-b5e1-451b-936d-e93c6473e5ae",
         "5046a6f2-f3a7-4e71-86d5-a301af0cf8c0"
@@ -1136,7 +1136,7 @@
     {
       "dutyID": "6db4322e-a241-4756-910e-bad92dd2d900",
       "dutyDetail": "Act safely, respectfully and with professional integrity, promote ethical practice and report concerns. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5046a6f2-f3a7-4e71-86d5-a301af0cf8c0"
       ],
