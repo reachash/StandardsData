@@ -135,7 +135,7 @@
     "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-07-03T00:00:00 +00:00",
@@ -150,7 +150,7 @@
   "coreAndOptions": false,
   "typicalJobTitles": [],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and development engineer",
@@ -175,7 +175,7 @@
     {
       "dutyID": "ab8e0b8f-3dc9-4f8d-9ead-e36acb033962",
       "dutyDetail": "Use scientific methodology to apply understanding and knowledge in order to deliver Electronic Systems projects that meet customer requirements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3175d80e-9777-4175-b2e3-d6ff39b41e39",
         "abad485e-a096-44fa-8f19-6c61921fa01d"
@@ -196,7 +196,7 @@
     {
       "dutyID": "c771b309-2213-4a22-81c1-503d0581002d",
       "dutyDetail": "Keep abreast of advances in technology, developments in the Electronics sector and new regulatory and compliance requirements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d8924a4e-b9a7-4595-8d6c-a2a331c61bad",
         "abad485e-a096-44fa-8f19-6c61921fa01d"
@@ -217,7 +217,7 @@
     {
       "dutyID": "bccdc2a1-2ed4-4a5f-9593-8e43b65edbc7",
       "dutyDetail": "Translate customer aims and objectives into requirements, clear specifications and Electronic Systems design solutions",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3175d80e-9777-4175-b2e3-d6ff39b41e39"
       ],
@@ -238,7 +238,7 @@
     {
       "dutyID": "2251f2e1-2620-45e7-99d1-88f053ac574e",
       "dutyDetail": "Undertake critical evaluation and creatively produce innovative engineering solutions for Electronic Systems",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d8924a4e-b9a7-4595-8d6c-a2a331c61bad",
         "abad485e-a096-44fa-8f19-6c61921fa01d",
@@ -261,7 +261,7 @@
     {
       "dutyID": "3a8110e2-a3d5-4b91-8622-a5b3bc16a596",
       "dutyDetail": "Participate in technical “what if” scenario discussions and use systems thinking to make engineering decisions within own sphere of responsibility for Electronic Systems and delegated authority",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3175d80e-9777-4175-b2e3-d6ff39b41e39",
         "3efdd95a-97a1-420c-a8c1-52b52071d9ac"
@@ -282,7 +282,7 @@
     {
       "dutyID": "f7ff94bb-67e8-4381-922f-cdf2d34a41a6",
       "dutyDetail": "Chair technical meetings including design reviews for Electronic Systems",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3175d80e-9777-4175-b2e3-d6ff39b41e39",
         "3efdd95a-97a1-420c-a8c1-52b52071d9ac"
@@ -303,7 +303,7 @@
     {
       "dutyID": "8617ecfd-d072-40bb-b9c3-43272415ee99",
       "dutyDetail": "Identify, analyse and understand technical risks in order to mitigate them and to ensure positive risk outcomes for all stakeholders",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3175d80e-9777-4175-b2e3-d6ff39b41e39",
         "658ab4e1-485d-404d-b5ef-38a2b1389bd4"
@@ -323,7 +323,7 @@
     {
       "dutyID": "75a23815-8b5e-4a0e-a2bb-0958e64a2682",
       "dutyDetail": " Provide technical leadership and manage their team to ensure Electronic Systems work is undertaken safely, sustainably and ethically",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3175d80e-9777-4175-b2e3-d6ff39b41e39",
         "3efdd95a-97a1-420c-a8c1-52b52071d9ac",
@@ -347,7 +347,7 @@
     {
       "dutyID": "c6a59911-a26a-44ad-8f84-d69a6937cdf2",
       "dutyDetail": " Plan tasks and manage resources effectively to ensure that engineering activities and Electronic Systems projects are completed efficiently and, as far as possible, within budget and schedule",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d8924a4e-b9a7-4595-8d6c-a2a331c61bad",
         "3efdd95a-97a1-420c-a8c1-52b52071d9ac",
@@ -368,7 +368,7 @@
     {
       "dutyID": "0b0f0fec-bc81-48f7-9ed6-da4de6e0f0f0",
       "dutyDetail": "Actively contribute to a culture of best practice knowledge sharing and exploitation in order to develop longer-term capability and expertise within the Electronic Systems function and across the wider engineering discipline",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "abad485e-a096-44fa-8f19-6c61921fa01d",
         "3efdd95a-97a1-420c-a8c1-52b52071d9ac",
@@ -389,7 +389,7 @@
     {
       "dutyID": "9d3a92e3-a119-47c1-9108-d000fdbf9c26",
       "dutyDetail": "Act as a role model and undertake continuing professional development",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3175d80e-9777-4175-b2e3-d6ff39b41e39",
         "abad485e-a096-44fa-8f19-6c61921fa01d",
@@ -412,7 +412,7 @@
     {
       "dutyID": "f4a956b9-20c4-4e7e-9674-6bb6555e41f4",
       "dutyDetail": " Provide technical and behavioural guidance to mentor and develop less experienced engineering colleagues",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3efdd95a-97a1-420c-a8c1-52b52071d9ac",
         "d33116e3-248f-4ab2-8328-aa21c6ba24bf"
