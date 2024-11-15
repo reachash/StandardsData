@@ -194,7 +194,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-09-10T00:00:00 +00:00",
@@ -215,7 +215,7 @@
     "Quality officer",
     "Supplier quality engineer"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Management and Administration",
   "cluster": "Business manager",
@@ -240,7 +240,7 @@
     {
       "dutyID": "fdda03d1-ae2a-4fbb-9772-e867d94f6aab",
       "dutyDetail": "Contribute to the formulation of quality strategy, such as reducing product defects or improving service performance and support the achievement of these by themselves or others, such as other employees or suppliers. This may include environmental performance or sustainability criteria.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "caea3a40-0f18-49fe-9965-116245a2ba13",
         "51c95875-4195-4e9b-a3a3-0c20cf3f0068",
@@ -268,7 +268,7 @@
     {
       "dutyID": "816db04d-641c-4fdd-9a31-46a05b628a54",
       "dutyDetail": "Contribute to the formulation of output related customer satisfaction activities, such as Right First Time and On-Time delivery and support the achievement of these by themselves or others, such as customer stakeholders, other employees or suppliers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e6a98d6f-efb3-4d0f-ad9e-256d3331a75f",
         "51c95875-4195-4e9b-a3a3-0c20cf3f0068",
@@ -298,7 +298,7 @@
     {
       "dutyID": "0200b983-d9c4-4326-81d1-547b6afd41d2",
       "dutyDetail": "Contribute to the formulation of supplier performance measurements, such as improving quality of supplied goods or services and support the achievement of these by themselves or others, such as other company employees or employees throughout a multi-tier supply chain. This may include sustainability criteria.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e6a98d6f-efb3-4d0f-ad9e-256d3331a75f",
         "51c95875-4195-4e9b-a3a3-0c20cf3f0068",
@@ -325,7 +325,7 @@
     {
       "dutyID": "03f3183f-cfe3-4cf3-89ad-ad18235c2b1b",
       "dutyDetail": "Responsible for deployment of  Quality Policies, Processes and Procedures as defined in the organisation’s Quality Management System and identification of opportunities for improving the Quality Management System.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e6a98d6f-efb3-4d0f-ad9e-256d3331a75f",
         "51c95875-4195-4e9b-a3a3-0c20cf3f0068",
@@ -354,7 +354,7 @@
     {
       "dutyID": "8b4fc6f6-5e76-4ead-9069-d73aed0dc1f7",
       "dutyDetail": "Plan and conduct audits/assurance in line with the organisation’s audit plan/programme to meet customer/organisational/regulatory audit requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e6a98d6f-efb3-4d0f-ad9e-256d3331a75f",
         "51c95875-4195-4e9b-a3a3-0c20cf3f0068",
@@ -386,7 +386,7 @@
     {
       "dutyID": "466ccebb-897c-4550-8cd4-aeaf2d37ebb7",
       "dutyDetail": "Identify, investigate and contain non-conformances and advise on actions to prevent recurrence.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e6a98d6f-efb3-4d0f-ad9e-256d3331a75f",
         "51c95875-4195-4e9b-a3a3-0c20cf3f0068",
@@ -413,7 +413,7 @@
     {
       "dutyID": "4c972259-7489-4cdc-8542-20bbfb6038a0",
       "dutyDetail": "Inspect/verify/validate a Product or Service against stated product requirements/acceptance criteria/service levels, such as checking the weight or dimensions of a product or timely delivery of a service.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e6a98d6f-efb3-4d0f-ad9e-256d3331a75f",
         "51c95875-4195-4e9b-a3a3-0c20cf3f0068",
@@ -439,7 +439,7 @@
     {
       "dutyID": "3539d53a-1dfd-4289-a690-8d34ebaefa08",
       "dutyDetail": "Develop quality control/assurance plans for the product, service or project they are responsible for, such as product dimensional control, on-time service delivery.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e6a98d6f-efb3-4d0f-ad9e-256d3331a75f",
         "de63c4dc-26b0-456a-8373-8ec2a622f627",
@@ -470,7 +470,7 @@
     {
       "dutyID": "7320ddb3-c20f-4d38-aa5e-0224dcd752f2",
       "dutyDetail": "Advise on and/or use tools and techniques to improve quality performance, such as reducing waste, improving right first time delivery, reducing non-compliance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "caea3a40-0f18-49fe-9965-116245a2ba13",
         "51c95875-4195-4e9b-a3a3-0c20cf3f0068",
@@ -496,7 +496,7 @@
     {
       "dutyID": "df0e7537-708c-47fd-bb97-4b80e5bae95a",
       "dutyDetail": "Gather and analyse routine quality performance data and produce relevant reports to support governance, assurance and improvement activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "caea3a40-0f18-49fe-9965-116245a2ba13",
         "e6a98d6f-efb3-4d0f-ad9e-256d3331a75f",
@@ -525,7 +525,7 @@
     {
       "dutyID": "e4a7abe8-3080-4cba-868f-526ff79363c0",
       "dutyDetail": "Guide and support others inside the Quality Function or in other functions to improve quality competence and quality performance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "caea3a40-0f18-49fe-9965-116245a2ba13",
         "51c95875-4195-4e9b-a3a3-0c20cf3f0068",
@@ -550,7 +550,7 @@
     {
       "dutyID": "745febd6-d3f4-4190-a25f-e09f8aca87b8",
       "dutyDetail": "Support the development of new/changed products or services, through identifying/quantifying  quality risks and contribute to the analysis and mitigation/prevention of these risks.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e6a98d6f-efb3-4d0f-ad9e-256d3331a75f",
         "51c95875-4195-4e9b-a3a3-0c20cf3f0068",
