@@ -260,7 +260,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-04-19T00:00:00 +00:00",
@@ -281,7 +281,7 @@
     "Waste water network operative"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, manufacturing, process and control",
   "cluster": "Quality improvement and project control technician",
@@ -299,7 +299,7 @@
     {
       "dutyID": "73b6b168-d5ad-465e-9cc1-6553755c5736",
       "dutyDetail": "Respond to customer callouts, blockage and flooding emergencies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06d821a0-ce29-4036-b863-cd12e5caa29b",
         "feffd232-f483-42e1-8b5b-35ce5b0c86e2",
@@ -331,7 +331,7 @@
     {
       "dutyID": "edc75e19-eeae-4cd9-9bda-2ef7285da1dc",
       "dutyDetail": "Carry out planned maintenance on the drainage network.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d142bf1f-3e3d-415d-817f-afef71c82b7a",
         "7f2f6f54-f424-4c3a-bd66-69302ac8a312",
@@ -372,7 +372,7 @@
     {
       "dutyID": "eebde2f5-f531-44cc-ae92-37c851f3b9a0",
       "dutyDetail": "Locate and identify structural and service condition defects where further works needs to be carried out. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "feffd232-f483-42e1-8b5b-35ce5b0c86e2",
         "3fae7968-4f4e-44f9-af30-e5fcd7266f44"
@@ -407,7 +407,7 @@
     {
       "dutyID": "8de68fbf-ad07-4b5c-bc0c-55a5aec564c2",
       "dutyDetail": "Undertake connectivity surveys, for example, confirming or questioning the existing network using computer generated maps and plans.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "feffd232-f483-42e1-8b5b-35ce5b0c86e2",
         "3fae7968-4f4e-44f9-af30-e5fcd7266f44"
@@ -437,7 +437,7 @@
     {
       "dutyID": "81f43595-d449-4c82-bfe3-f747b885ef98",
       "dutyDetail": "Prepare work site, lifting covers safely, setting up chamber barriers, and appropriate signage, in accordance with the New Roads and Street Works Act (NRSWA) when working on highways.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "feffd232-f483-42e1-8b5b-35ce5b0c86e2",
         "3fae7968-4f4e-44f9-af30-e5fcd7266f44"
@@ -473,7 +473,7 @@
     {
       "dutyID": "95b4be7b-ecde-42b4-8a4c-b789b15fef9a",
       "dutyDetail": "Fill up jetting unit saddle tank using designated water hydrants or washouts, in accordance with company hygiene procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "feffd232-f483-42e1-8b5b-35ce5b0c86e2",
         "3fae7968-4f4e-44f9-af30-e5fcd7266f44"
@@ -504,7 +504,7 @@
     {
       "dutyID": "eb8ef402-4f47-468f-849c-1ba7be91b229",
       "dutyDetail": "Identify obstruction(s) using investigation techniques, to locate soft and hard blockages, roots, defected pipes, silt build up and fats. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "feffd232-f483-42e1-8b5b-35ce5b0c86e2",
         "3fae7968-4f4e-44f9-af30-e5fcd7266f44"
@@ -535,7 +535,7 @@
     {
       "dutyID": "57a1b55e-0652-4095-868d-8bec83c93759",
       "dutyDetail": "Clear roots and soft blockages using drain rods, and high-pressure water jetting techniques.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "feffd232-f483-42e1-8b5b-35ce5b0c86e2",
         "3fae7968-4f4e-44f9-af30-e5fcd7266f44"
@@ -561,7 +561,7 @@
     {
       "dutyID": "8cfd6cf6-3c06-4ba1-8a05-f4e60d4262a3",
       "dutyDetail": "Clean and de-silt pipes, using High Pressure Water Jetting, in accordance with company procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "feffd232-f483-42e1-8b5b-35ce5b0c86e2",
         "3fae7968-4f4e-44f9-af30-e5fcd7266f44"
@@ -588,7 +588,7 @@
     {
       "dutyID": "2fbb3e9f-2802-4110-a51b-5685dbdcc88d",
       "dutyDetail": "Confirm blockages have been removed.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "feffd232-f483-42e1-8b5b-35ce5b0c86e2",
         "3fae7968-4f4e-44f9-af30-e5fcd7266f44"
@@ -613,7 +613,7 @@
     {
       "dutyID": "4e8e66e1-151d-4c88-8f23-abdd38d06256",
       "dutyDetail": "Record details of jobs done, and materials used, and raise follow-up work where necessary. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "feffd232-f483-42e1-8b5b-35ce5b0c86e2",
         "3fae7968-4f4e-44f9-af30-e5fcd7266f44"
@@ -634,7 +634,7 @@
     {
       "dutyID": "96451815-7474-4c77-9e4b-1defd62e66b6",
       "dutyDetail": "Professionally interact with customers, in accordance with company values and meeting customer satisfaction, including regulators measure of experience.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d142bf1f-3e3d-415d-817f-afef71c82b7a",
         "06d821a0-ce29-4036-b863-cd12e5caa29b",
@@ -661,7 +661,7 @@
     {
       "dutyID": "e4f3d4e1-ee9e-4d01-a982-1fc36d00cdb8",
       "dutyDetail": "Carry out duties to take account of sustainability, returning any un-used materials, disposal of waste, and re-cycling or re-using where appropriate.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7f2f6f54-f424-4c3a-bd66-69302ac8a312"
       ],
