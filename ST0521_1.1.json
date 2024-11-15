@@ -268,7 +268,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-02-09T00:00:00 +00:00",
@@ -285,7 +285,7 @@
     "Industrial thermal insulation technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Onsite Construction",
   "cluster": "Construction operative or supervisor",
@@ -303,7 +303,7 @@
     {
       "dutyID": "16752504-b587-48ac-b0d5-d9f74e4e68f3",
       "dutyDetail": " Work in compliance with occupational health, safety and environmental requirements to ensure the health, safety and wellbeing of self and others at all  times.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ababe065-d2c9-40c6-9323-5f9c8ef48f2e",
         "215141ec-1038-4b4f-93a5-91688dded98c"
@@ -337,7 +337,7 @@
     {
       "dutyID": "3a0243da-63d2-4243-92a4-2634f8174021",
       "dutyDetail": "Carry out their work in compliance with all current and relevant regulations and quality standards, where appropriate checking the work of others for compliance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ababe065-d2c9-40c6-9323-5f9c8ef48f2e"
       ],
@@ -370,7 +370,7 @@
     {
       "dutyID": "9594932b-930f-45a6-99f4-58d086fa0fb7",
       "dutyDetail": "Ensure compliance with quality standards and site specifications. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ababe065-d2c9-40c6-9323-5f9c8ef48f2e"
       ],
@@ -406,7 +406,7 @@
     {
       "dutyID": "7c60f509-8497-4abe-8d4d-6b4ec17742bc",
       "dutyDetail": "Proactively collaborate with stakeholders, clients and other colleagues  to assess site conditions,  ensuring good relationships are developed and maintained.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f253bb3a-7292-4a54-a1a4-0d0faa366c16",
         "84f6be1e-dbb9-47ce-83b3-0af0e1d89e76"
@@ -427,7 +427,7 @@
     {
       "dutyID": "a4b11348-0389-4e97-8263-9c46a12eca63",
       "dutyDetail": "Supervise activities of Thermal Insulation operatives including following technical design specification, instructions and data sheets including digital information",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ababe065-d2c9-40c6-9323-5f9c8ef48f2e",
         "f253bb3a-7292-4a54-a1a4-0d0faa366c16",
@@ -454,7 +454,7 @@
     {
       "dutyID": "1619ce26-24b3-41e4-8c23-3fea9344e5f0",
       "dutyDetail": "Plan work to ensure optimum quality and efficiency from the team, in line with weather conditions",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f253bb3a-7292-4a54-a1a4-0d0faa366c16"
       ],
@@ -475,7 +475,7 @@
     {
       "dutyID": "63ea579a-a9b1-4e44-9ee8-3698fdecf938",
       "dutyDetail": "Maintain a clear and safe worksite at all times, promoting sustainability practices",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ababe065-d2c9-40c6-9323-5f9c8ef48f2e",
         "215141ec-1038-4b4f-93a5-91688dded98c"
@@ -493,7 +493,7 @@
     {
       "dutyID": "f773957d-dd9a-4c6a-81af-45c254b15ab7",
       "dutyDetail": "Design and develop patterns, fit and fabricate cladding and procure resources and materials in line with job specifications and instructions",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "674853f8-6e69-4a3f-bc49-81d09767226f",
@@ -526,7 +526,7 @@
     {
       "dutyID": "0db82661-3c4e-4da4-9dde-3962b260b029",
       "dutyDetail": "Carry out continuous professional  development to maintain knowledge of current and future developments affecting the role and share with others",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f253bb3a-7292-4a54-a1a4-0d0faa366c16",
         "51e84588-d523-4469-adab-136cb8406a60",
