@@ -245,7 +245,7 @@
     "Human factors specialist"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and development engineer",
@@ -279,7 +279,7 @@
     {
       "dutyID": "6d24687c-7aa4-41ac-b0df-2456223775aa",
       "dutyDetail": "Plan, control and deliver human factors activities (e.g. analysis, design and assessment) to meet requirements and achieve goals in terms of performance, quality and in accordance with budgets and timescales.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d571019c-8eff-4910-b853-d3e1d213e765",
         "3a23a4ec-8b67-464e-b401-57df38741458",
@@ -328,7 +328,7 @@
     {
       "dutyID": "5be891c7-43cd-4968-a648-01c746b44c45",
       "dutyDetail": "Conduct bid and tendering activities for human factors work ensuring bids meet customer needs and are in alignment with business and commercial criteria.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d571019c-8eff-4910-b853-d3e1d213e765",
         "3a23a4ec-8b67-464e-b401-57df38741458",
@@ -371,7 +371,7 @@
     {
       "dutyID": "f09623b2-d523-486e-8bca-eefd534f5610",
       "dutyDetail": "Lead and manage human factors related interactions and communications with end users, other technical disciplines, internal business functions and external agencies (e.g. design workshops and reviews).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d571019c-8eff-4910-b853-d3e1d213e765",
         "3a23a4ec-8b67-464e-b401-57df38741458",
@@ -414,7 +414,7 @@
     {
       "dutyID": "5e74abcc-a49d-4086-bb4d-4e3bcfdee47c",
       "dutyDetail": "Identify and manage human factors considerations (e.g. personnel capability, equipment suitability, human performance influencers) in order to determine the appropriate methodologies, tools and standards required to address any human-related risks, issues or opportunities identified with systems, products, tasks, jobs, organisations or environments.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d571019c-8eff-4910-b853-d3e1d213e765",
         "3a23a4ec-8b67-464e-b401-57df38741458",
@@ -452,7 +452,7 @@
     {
       "dutyID": "2c813e22-3b8c-4e2a-8c2b-6303b83682fe",
       "dutyDetail": "Analyse human roles (e.g. aircraft pilot, control room operator, vehicle maintainer) in order to establish current and future expectations of the end user and demands they may create for the systems, products, jobs, organisations and environments.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d571019c-8eff-4910-b853-d3e1d213e765",
         "3a23a4ec-8b67-464e-b401-57df38741458",
@@ -490,7 +490,7 @@
     {
       "dutyID": "93be6472-d1d4-4ecb-830f-08123f8b6621",
       "dutyDetail": "Support the development of safety systems and processes to ensure adequate protection of people, infrastructure and the environment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d571019c-8eff-4910-b853-d3e1d213e765",
         "3a23a4ec-8b67-464e-b401-57df38741458",
@@ -529,7 +529,7 @@
     {
       "dutyID": "57b0b9cd-4b8d-4757-8212-0c5c574297b6",
       "dutyDetail": "Specify and manage human factors requirements for equipment, systems, products, tasks, jobs, organisations and environments in accordance with human factors principles, best practice and applicable regulations and standards.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d571019c-8eff-4910-b853-d3e1d213e765",
         "3a23a4ec-8b67-464e-b401-57df38741458",
@@ -560,7 +560,7 @@
     {
       "dutyID": "85295120-db1f-403a-9407-9799d03d3589",
       "dutyDetail": "Contribute to the design of equipment, systems, products, tasks, jobs, organisations and environments (e.g. power plant control room, an armoured fighting vehicle, an aircraft cockpit or a medical device) in accordance with requirements, human factors principles, best practice and applicable regulations and standards.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d571019c-8eff-4910-b853-d3e1d213e765",
         "3a23a4ec-8b67-464e-b401-57df38741458",
@@ -600,7 +600,7 @@
     {
       "dutyID": "31f378ad-a3b1-4e15-9073-af03b69eda6f",
       "dutyDetail": "Assess the performance and integration of humans in systems, products, tasks, jobs, organisations and environments (e.g. how an aircraft pilot performs in an aircraft simulator representing a new design) to verify and validate the design against human factors requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d571019c-8eff-4910-b853-d3e1d213e765",
         "3a23a4ec-8b67-464e-b401-57df38741458",
@@ -642,7 +642,7 @@
     {
       "dutyID": "8bba40c2-5a56-458f-8e9d-35ed9e1034bf",
       "dutyDetail": "Provide human factors evidence to support the assurance and acceptance of new or updated systems, products, tasks, jobs, organisations and environments.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d571019c-8eff-4910-b853-d3e1d213e765",
         "3a23a4ec-8b67-464e-b401-57df38741458",
@@ -678,7 +678,7 @@
     {
       "dutyID": "8921d0ab-266b-45df-919c-147b9a0ce4b5",
       "dutyDetail": "Plan, conduct and apply research to support better understanding of human factors related risks (e.g. managing operator cognitive load) and issues throughout the system (product, task, job, organisational structure or environment) lifecycle (from concept to disposal).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d571019c-8eff-4910-b853-d3e1d213e765",
         "3a23a4ec-8b67-464e-b401-57df38741458",
@@ -717,7 +717,7 @@
     {
       "dutyID": "bc5b70a7-c0ec-4db6-a0d2-33a7cf9de480",
       "dutyDetail": "Maintain an ongoing continuous professional development programme.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d571019c-8eff-4910-b853-d3e1d213e765",
         "3a23a4ec-8b67-464e-b401-57df38741458",
