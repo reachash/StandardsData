@@ -279,7 +279,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-09-27T00:00:00 +00:00",
@@ -299,7 +299,7 @@
     "Window and door installer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Onsite Construction",
   "cluster": "Core building tradesperson",
@@ -317,7 +317,7 @@
     {
       "dutyID": "32b144f7-f3d3-4c1e-8109-f529c4d6fd9a",
       "dutyDetail": "Identify and confirm fenestration installation requirements and components against a survey/job sheet/specification/drawings/CAD/BIM and in accordance with Building Regulations such as Approved Documents Parts A-J, K-N, P, Q and Regulation 7",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "308c4b35-05fc-4c44-a81c-ef70a6008b4f"
       ],
@@ -342,7 +342,7 @@
     {
       "dutyID": "1f3c7698-e8c9-418d-9978-4ec956077047",
       "dutyDetail": "Interpret the appropriate work plan for the job, taking into account factors such as building age, listed status, accessibility, quality of surrounding wall, other trades in the work area, customers including vulnerable adults and related legislation and regulations",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "308c4b35-05fc-4c44-a81c-ef70a6008b4f",
         "9f236a89-1ffd-4e45-86d0-7bfec836d7c2",
@@ -373,7 +373,7 @@
     {
       "dutyID": "156f72e2-c729-4e33-bcab-d426322b9cdf",
       "dutyDetail": "Locate, handle, store, load, transport and position fenestration materials and components safely, minimising damage ready for installation and where applicable, in accordance with Working at Height regulations",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "308c4b35-05fc-4c44-a81c-ef70a6008b4f"
       ],
@@ -394,7 +394,7 @@
     {
       "dutyID": "d7d42392-ee88-440e-a825-5c551d313c71",
       "dutyDetail": "Prepare the site, plant and equipment, access equipment when necessary, power and hand tools ready for fenestration installation",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "308c4b35-05fc-4c44-a81c-ef70a6008b4f"
       ],
@@ -413,7 +413,7 @@
     {
       "dutyID": "6ec48aba-7876-444c-abc4-3df4e6e35dd9",
       "dutyDetail": "Remove existing fenestration, understanding what action should be taken or who to report situations to if unexpected or dangerous materials are exposed e.g. asbestos, cavity barriers, damaged DPC or birds nests",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "308c4b35-05fc-4c44-a81c-ef70a6008b4f"
       ],
@@ -434,7 +434,7 @@
     {
       "dutyID": "309b2c01-b298-44bf-af6a-e7cb3a0110a3",
       "dutyDetail": "Ensure structural stability using structural supports e.g. acrows or strong boys. Ensuring that the lintel is present and remains undamaged or that a new one is installed above the window",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "308c4b35-05fc-4c44-a81c-ef70a6008b4f"
       ],
@@ -455,7 +455,7 @@
     {
       "dutyID": "52ac12ec-4184-40e1-a348-b3326caa63ac",
       "dutyDetail": "Prepare the apertures, ensuring the Damp Proof Course is undamaged, minimise damage to the existing structure and follow Building Regulations part B Fire Safety",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "308c4b35-05fc-4c44-a81c-ef70a6008b4f"
       ],
@@ -475,7 +475,7 @@
     {
       "dutyID": "685ebfef-2fa1-4196-97f9-88255f44d400",
       "dutyDetail": "Fix fenestration units in place, making sure they are plumb, level and secure using a range of tools and technologies e.g. spirit level, laser level, through frame fixings, one way screws, Thread cutting screws or machine screws if working with aluminium. Follow guidance BS8213.4 and manufacturers requirements or systems manuals",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "308c4b35-05fc-4c44-a81c-ef70a6008b4f",
         "61fcc344-3404-4590-936d-413cbe495cef"
@@ -499,7 +499,7 @@
     {
       "dutyID": "aba524ce-0a61-40be-9894-b94b3f59530d",
       "dutyDetail": "Install glass units, infill panels and hardware into the fenestration framework e.g. bi-folds, conservatory roofs, decorative and specialist glazing products",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "308c4b35-05fc-4c44-a81c-ef70a6008b4f"
       ],
@@ -520,7 +520,7 @@
     {
       "dutyID": "97b6526b-e4fa-4ed4-a8db-71d3825eee5e",
       "dutyDetail": "Apply internal finishing’s such as trims, decorators caulk, window boards. Protect the work area and make good when necessary",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "0d4d9771-9969-4dde-b658-487d9111ff63",
@@ -537,7 +537,7 @@
     {
       "dutyID": "737ae119-333c-4a74-b72e-75b0f55b9184",
       "dutyDetail": "Apply external finishing’s such as silicone, mastic, cement, plaster or beading, taking into account fire regulations (fire stopping), environmental performance",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "0d4d9771-9969-4dde-b658-487d9111ff63",
@@ -558,7 +558,7 @@
     {
       "dutyID": "8a1c8168-e3ae-4c16-8594-c268a5b6a539",
       "dutyDetail": "Clear away leftover materials on completion of installation and disposal of waste appropriately according to the appropriate code of practice",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "308c4b35-05fc-4c44-a81c-ef70a6008b4f",
         "61fcc344-3404-4590-936d-413cbe495cef"
@@ -579,7 +579,7 @@
     {
       "dutyID": "dc3b4a6f-f802-4390-9c75-3a224cf6fa40",
       "dutyDetail": "Demonstrate the product and hand over installation paperwork to residential and commercial customers",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9f236a89-1ffd-4e45-86d0-7bfec836d7c2",
         "bb7d7e3e-bf1b-4144-a037-2557aad9062d"
@@ -601,7 +601,7 @@
     {
       "dutyID": "9751fa9b-f5a8-40b4-9fff-1a35d07628a7",
       "dutyDetail": "Conduct interim and final inspections of the work and work area",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9222a25c-8e54-4d3c-91b2-85e2396cdff1"
       ],
