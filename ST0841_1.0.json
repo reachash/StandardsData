@@ -220,7 +220,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-11-05T00:00:00 +00:00",
@@ -245,7 +245,7 @@
     "Production Support Engineer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Technical Manager",
@@ -307,7 +307,7 @@
     {
       "dutyID": "16823d56-79ff-4105-b0ab-aa9dc8c1742d",
       "dutyDetail": "Ensure the safe and efficient performance of every production task in compliance with company procedures, approved engineering data and local Health and Safety requirements. Ensure Safe Systems of Work and risk assessments (assisting as necessary in the completion of risk assessments) are adhered to for engineering or manufacturing activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "13455879-cd12-4376-870d-0c13e154294f",
         "f0425d45-fe46-446e-abb1-58592a6f2652",
@@ -332,7 +332,7 @@
     {
       "dutyID": "bb2052db-62fb-43a7-b1da-cc92029c0b1d",
       "dutyDetail": "Prepare product and process documentation by collecting, analysing, and summarising information and trends.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "05ee4cb3-c5e3-4670-b060-392c48949dfb",
         "281fece1-52f4-4629-89d1-be5e46a7ac3f",
@@ -364,7 +364,7 @@
     {
       "dutyID": "c0ce5cec-4cad-4021-a507-58b07ef72beb",
       "dutyDetail": "Manage internal and/or Supplier Quality Notifications, and liaison with the required stakeholders for resolution.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "13455879-cd12-4376-870d-0c13e154294f",
         "aa56d651-c5ec-4423-b228-22f04b518ed0",
@@ -399,7 +399,7 @@
     {
       "dutyID": "b2b63150-b41b-46a5-bee6-827db7c86a3c",
       "dutyDetail": "Liaise with internal and external customers to implement programme initiatives, such as the application of lean analysis methods, processes and tools.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "13455879-cd12-4376-870d-0c13e154294f",
         "aa56d651-c5ec-4423-b228-22f04b518ed0",
@@ -445,7 +445,7 @@
     {
       "dutyID": "a6cfa7bf-7c2f-4997-9a4b-ccc56e9fadf9",
       "dutyDetail": "Carry out new product introduction and/or existing product modifications within engineering and/or manufacturing by contributing to activities such as facilitation of quality activities (including any testing and/or commissioning requirements), supplier approvals, gate reviews.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "13455879-cd12-4376-870d-0c13e154294f",
         "aa56d651-c5ec-4423-b228-22f04b518ed0",
@@ -493,7 +493,7 @@
     {
       "dutyID": "2b4998e4-ddbd-4e9e-bfcf-bc3226baffef",
       "dutyDetail": "Deliver financial planning or costing analysis such as:- estimation of costs for manufacture, supplying drawings or specification for quotations, obtaining manufacture quotes, calculating costs associated with quality problem or\u00A0 machine downtime.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "13455879-cd12-4376-870d-0c13e154294f",
         "aa56d651-c5ec-4423-b228-22f04b518ed0",
@@ -536,7 +536,7 @@
     {
       "dutyID": "578936f1-9386-419f-8b36-00716bf806ae",
       "dutyDetail": "Develop new technology initiatives by contributing to activities such as, justifying capital investment equipment/system upgrades from purchase through to installation and commissioning.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "13455879-cd12-4376-870d-0c13e154294f",
         "aa56d651-c5ec-4423-b228-22f04b518ed0",
@@ -585,7 +585,7 @@
     {
       "dutyID": "d2c3ad1a-4014-462a-b3e0-ef506ae45ffd",
       "dutyDetail": "Produce and maintain reports measuring Key Performance Indicators for data management activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "13455879-cd12-4376-870d-0c13e154294f",
         "aa56d651-c5ec-4423-b228-22f04b518ed0",
@@ -624,7 +624,7 @@
     {
       "dutyID": "c3e724f6-5424-46f5-bb89-16f86c38d0f0",
       "dutyDetail": "Ensure processes and current methods of engineering and manufacturing are as efficient and cost effective, such as:- utilising time and motion analysis, line balancing and flow to achieve the required level of production output.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aa56d651-c5ec-4423-b228-22f04b518ed0",
         "6358b2bd-b3f4-48f4-b921-4de66eb2c50c",
@@ -667,7 +667,7 @@
     {
       "dutyID": "76f731fc-395d-4646-9958-a42f23d35495",
       "dutyDetail": "Liaise with appropriate internal and external stakeholders at all levels to ensure that engineering and manufacturing operations are completed in line with the agreed time scales. Examples of stakeholders could include production managers, production operatives, auditors, suppliers, customers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "13455879-cd12-4376-870d-0c13e154294f",
         "aa56d651-c5ec-4423-b228-22f04b518ed0",
@@ -701,7 +701,7 @@
     {
       "dutyID": "8982534e-714c-4fce-bff0-58ac7564e8c2",
       "dutyDetail": "Ensure work process and outcomes comply with any local, national and or international regulatory or compliance requirements. Such as :- maintain\u00A0 compliance to Aerospace Regulatory bodies (CAA, EASA,MAA) as well as the wider regulations (such as Anti Bribery and Corruption, Export Control).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "13455879-cd12-4376-870d-0c13e154294f",
         "6358b2bd-b3f4-48f4-b921-4de66eb2c50c",
@@ -731,7 +731,7 @@
     {
       "dutyID": "d5950a02-1615-400b-91f1-fdd83ab21765",
       "dutyDetail": "Resolve identified engineering and/or manufacturing problems such as:- contributing to the route cause analysis exercise applying appropriate levels of containment and corrective action.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aa56d651-c5ec-4423-b228-22f04b518ed0",
         "5f4fa78d-d0a3-480e-9f73-12108939f047"
@@ -763,7 +763,7 @@
     {
       "dutyID": "db1e2cb8-f510-4dc8-941d-2f202eb79b3a",
       "dutyDetail": "Produce engineering and/or manufacturing documentation (such as:- Build Manuals, Standard Operating Instructions/processes, Bill of Materials) to aid and ensure consistent, compliant and cost effective manufacturing processes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aa56d651-c5ec-4423-b228-22f04b518ed0",
         "6358b2bd-b3f4-48f4-b921-4de66eb2c50c"
@@ -786,7 +786,7 @@
     {
       "dutyID": "657431c6-1e65-4dc3-849a-db978f937a43",
       "dutyDetail": "Review engineering or manufacturing methods to determine the most effective and economical method whilst meeting drawing/specification requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "aa56d651-c5ec-4423-b228-22f04b518ed0",
         "6358b2bd-b3f4-48f4-b921-4de66eb2c50c",
