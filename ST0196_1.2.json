@@ -288,7 +288,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-08-25T00:00:00 +00:00",
@@ -310,7 +310,7 @@
     "Advanced operator"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Food and science manufacturing operative or technician",
@@ -328,7 +328,7 @@
     {
       "dutyID": "524502f3-876a-4304-861a-870622bddbef",
       "dutyDetail": "Prepare and run food and drink manufacturing line including hygienic practices, start-up, close-down, changeover, and handovers of manufacturing process. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a1614e92-066a-4eb9-9434-cbfad961e8ba",
         "bc39f2e2-cbb3-4edb-9cdc-80781eb14614",
@@ -372,7 +372,7 @@
     {
       "dutyID": "c81e27d3-8511-45c7-9ff5-ab47471f2ddd",
       "dutyDetail": "Monitor and record results of Critical Control Points in food and drink manufacturing. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a1614e92-066a-4eb9-9434-cbfad961e8ba",
         "bc39f2e2-cbb3-4edb-9cdc-80781eb14614",
@@ -407,7 +407,7 @@
     {
       "dutyID": "94d9e765-9046-45b4-824a-232178a12952",
       "dutyDetail": "Control stock for example, intake of goods, storage of goods, entering information into management systems. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a1614e92-066a-4eb9-9434-cbfad961e8ba",
         "bc39f2e2-cbb3-4edb-9cdc-80781eb14614",
@@ -446,7 +446,7 @@
     {
       "dutyID": "fbd1c302-0f6b-4132-bf11-a146498a447b",
       "dutyDetail": "Resolve ‘front-line’ faults, relating to machines, raw materials through to finished product, people or packaging directly or via escalation. Identify the root cause.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a1614e92-066a-4eb9-9434-cbfad961e8ba",
         "bc39f2e2-cbb3-4edb-9cdc-80781eb14614",
@@ -481,7 +481,7 @@
     {
       "dutyID": "b3224085-8aba-4778-981a-364efe313bdc",
       "dutyDetail": "Assist maintenance engineers by conducting first line mechanical engineering maintenance – preventative and reactive. For example, planned maintenance, repairs and overhauls.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a1614e92-066a-4eb9-9434-cbfad961e8ba",
         "bc39f2e2-cbb3-4edb-9cdc-80781eb14614",
@@ -515,7 +515,7 @@
     {
       "dutyID": "96bff67f-558f-4ea2-abd3-c92a286133cb",
       "dutyDetail": "Perform asset care tasks for example, lubricate.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a1614e92-066a-4eb9-9434-cbfad961e8ba",
         "bc39f2e2-cbb3-4edb-9cdc-80781eb14614",
@@ -546,7 +546,7 @@
     {
       "dutyID": "1dac01f3-586f-4bf2-b6b0-62fd3f5f2df9",
       "dutyDetail": "Monitor performance for example, efficiency, wastage and compliance with environmental standards. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a1614e92-066a-4eb9-9434-cbfad961e8ba",
         "bc39f2e2-cbb3-4edb-9cdc-80781eb14614",
@@ -578,7 +578,7 @@
     {
       "dutyID": "88b156ad-25a7-4cdd-8da3-bbc19a25ce65",
       "dutyDetail": "Undertake quality assurance to ensure compliance with company/customer requirements, for example take product samples. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a1614e92-066a-4eb9-9434-cbfad961e8ba",
         "bc39f2e2-cbb3-4edb-9cdc-80781eb14614",
@@ -616,7 +616,7 @@
     {
       "dutyID": "07a1d4e1-ace9-4890-8c99-dcbac43d5b0d",
       "dutyDetail": "Complete documentation for example, traceability, accident reports (near misses). ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a1614e92-066a-4eb9-9434-cbfad961e8ba",
         "bc39f2e2-cbb3-4edb-9cdc-80781eb14614",
@@ -650,7 +650,7 @@
     {
       "dutyID": "2b69f14c-30ed-4c4e-bffb-e2a951e30094",
       "dutyDetail": "Develop and support others.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a1614e92-066a-4eb9-9434-cbfad961e8ba",
         "bc39f2e2-cbb3-4edb-9cdc-80781eb14614",
@@ -684,7 +684,7 @@
     {
       "dutyID": "7a808568-9af9-40be-867a-36d97ea7af5c",
       "dutyDetail": "Conduct internal audits, in accordance with food and drink industry standards. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a1614e92-066a-4eb9-9434-cbfad961e8ba",
         "bc39f2e2-cbb3-4edb-9cdc-80781eb14614",
@@ -721,7 +721,7 @@
     {
       "dutyID": "44bd6a44-8f6b-4e61-bdf7-a89bf1ebf805",
       "dutyDetail": "Support external audits for example, act as a guide for area of responsibility and/or provide information. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a1614e92-066a-4eb9-9434-cbfad961e8ba",
         "bc39f2e2-cbb3-4edb-9cdc-80781eb14614",
@@ -754,7 +754,7 @@
     {
       "dutyID": "b7ee0b70-9780-4589-a282-ceb957fd2c75",
       "dutyDetail": "Develop, contribute to or update risk assessments and standard operating procedures for area of responsibility. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a1614e92-066a-4eb9-9434-cbfad961e8ba",
         "bc39f2e2-cbb3-4edb-9cdc-80781eb14614",
@@ -787,7 +787,7 @@
     {
       "dutyID": "96d6e909-e15c-4445-a451-0177d0bb6723",
       "dutyDetail": "Support projects, such as the introduction of a new process, equipment or product, by trialling processes, new standard operating procedures, and training others and sampling new products. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a1614e92-066a-4eb9-9434-cbfad961e8ba",
         "bc39f2e2-cbb3-4edb-9cdc-80781eb14614",
@@ -830,7 +830,7 @@
     {
       "dutyID": "c26146fc-4203-4877-afee-a4f34f15330d",
       "dutyDetail": "Undertake continuous improvement activities within area of responsibility for example, to improve quality, equipment efficiency, increase productivity, reduce run-time, reduce waste, or improve ergonomics of area. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a1614e92-066a-4eb9-9434-cbfad961e8ba",
         "bc39f2e2-cbb3-4edb-9cdc-80781eb14614",
