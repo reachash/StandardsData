@@ -265,7 +265,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-06-22T00:00:00 +00:00",
@@ -285,7 +285,7 @@
     "Production operative"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Food and science manufacturing operative or technician",
@@ -303,7 +303,7 @@
     {
       "dutyID": "375fa441-f213-4f4a-97fc-9078e7da9d6c",
       "dutyDetail": "Process incoming textile products for example, workwear, table cloths, sheets, and towels. Classify textile products for appropriate laundry process.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf127b1f-bd2c-4fcb-96b2-af1b7d8ff163",
         "d723f13e-2d05-4e87-8af2-3e93698812fc",
@@ -346,7 +346,7 @@
     {
       "dutyID": "ccd213c0-0cd5-48ed-b557-2b5fd1cdbc35",
       "dutyDetail": "Complete textile products cleaning processes following standard operating procedures (SOPs) using equipment for example, batch washing machines and presses steamers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf127b1f-bd2c-4fcb-96b2-af1b7d8ff163",
         "5e04bfd2-b8b1-4f9f-8227-e885d0865043",
@@ -400,7 +400,7 @@
     {
       "dutyID": "47be3026-bdae-4cb6-8060-28fbf98a3ca6",
       "dutyDetail": "Dry and finish textile products. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf127b1f-bd2c-4fcb-96b2-af1b7d8ff163",
         "d723f13e-2d05-4e87-8af2-3e93698812fc",
@@ -444,7 +444,7 @@
     {
       "dutyID": "cabe3b30-3127-4860-b2f5-c4bef2da9717",
       "dutyDetail": "Contribute to quality assurance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf127b1f-bd2c-4fcb-96b2-af1b7d8ff163",
         "d723f13e-2d05-4e87-8af2-3e93698812fc",
@@ -484,7 +484,7 @@
     {
       "dutyID": "07af97bf-1fea-4ad6-9691-ea4a8dace792",
       "dutyDetail": "Rectify basic laundry process faults for example, product mis-feed.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf127b1f-bd2c-4fcb-96b2-af1b7d8ff163",
         "d723f13e-2d05-4e87-8af2-3e93698812fc",
@@ -524,7 +524,7 @@
     {
       "dutyID": "084a03c8-845b-4949-a25c-c17897df82fc",
       "dutyDetail": "Prepare textile products for customer delivery.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf127b1f-bd2c-4fcb-96b2-af1b7d8ff163",
         "d723f13e-2d05-4e87-8af2-3e93698812fc",
@@ -564,7 +564,7 @@
     {
       "dutyID": "629a9442-9732-4a50-b5c9-132f7e382253",
       "dutyDetail": "Maintain laundry documentation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf127b1f-bd2c-4fcb-96b2-af1b7d8ff163",
         "d723f13e-2d05-4e87-8af2-3e93698812fc",
@@ -604,7 +604,7 @@
     {
       "dutyID": "68812ca5-aa7e-4d40-bb29-19fda12f8bd4",
       "dutyDetail": "Contribute to maintaining the workplace environment (housekeeping) including recycling and safe disposal of waste in line with environmental standards.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf127b1f-bd2c-4fcb-96b2-af1b7d8ff163",
         "5e04bfd2-b8b1-4f9f-8227-e885d0865043",
