@@ -255,7 +255,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-03-01T00:00:00 +00:00",
@@ -279,7 +279,7 @@
     "Triage technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Business Services",
   "cluster": "Data Analyst Advanced Technician",
@@ -310,7 +310,7 @@
     {
       "dutyID": "3fb2eb24-6c08-4f8f-aa5d-1bc8cede5fbc",
       "dutyDetail": "Apply an understanding of the principles of digital forensics and how they support the criminal justice process.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "78526578-c004-4082-ab11-2d39b377bc84",
         "781f4e67-fe8c-4b8f-9fda-9df8562e227c"
@@ -333,7 +333,7 @@
     {
       "dutyID": "6c13a73f-28c5-491b-a81f-fc87cfdf4294",
       "dutyDetail": "Use approved scientific methodology and rationale to support investigations also providing advice as to whether further specialist digital support may be required.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c2df7a6e-a460-471f-a685-9449bcc68c1f",
         "d7143124-a320-44aa-aa9f-e1915577d6cd"
@@ -361,7 +361,7 @@
     {
       "dutyID": "e3e1b747-6ade-4d80-86af-d6c16c348469",
       "dutyDetail": "Ensure the appropriate capture and preservation techniques for digital forensic material applying standard methodology and utilising appropriate forensic science technology for digital examinations (specific tool training may be required). ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c2df7a6e-a460-471f-a685-9449bcc68c1f",
         "d7143124-a320-44aa-aa9f-e1915577d6cd",
@@ -400,7 +400,7 @@
     {
       "dutyID": "240ed46e-78ef-4538-b5c4-5118a9d098c6",
       "dutyDetail": "Handle exhibits and evidential material in line with agreed protocols to ensure the integrity, continuity, and security of digital evidence for the purpose of investigative processing and court proceedings.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c2df7a6e-a460-471f-a685-9449bcc68c1f",
         "d7143124-a320-44aa-aa9f-e1915577d6cd"
@@ -425,7 +425,7 @@
     {
       "dutyID": "e3f3dced-ed69-402d-b743-8696c516b858",
       "dutyDetail": "Produce evidential contemporaneous notes, reports (including Streamlined Forensic reporting) for disclosure purposes, continuity statements for attending court, tribunals and hearings as required in support of the investigative process. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c2df7a6e-a460-471f-a685-9449bcc68c1f",
         "1a83c689-14bf-43cd-bc95-1b4773f63149",
@@ -455,7 +455,7 @@
     {
       "dutyID": "6b2197f8-937d-4034-90bc-9494b5f0c377",
       "dutyDetail": "Use specialist technical equipment within a laboratory, at a crime scene or other appropriate location to conduct forensic examination’s. Ensuring handling, transport, storage, and environmental factors are all considered.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d7143124-a320-44aa-aa9f-e1915577d6cd"
       ],
@@ -485,7 +485,7 @@
     {
       "dutyID": "9ceb0cab-2229-4146-8ed8-ac1bd4959790",
       "dutyDetail": "To work within a quality-controlled environment aligning to standard operating policies and procedures whilst also carrying out technical quality checks, and peer reviews at a comparable competency level.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d7143124-a320-44aa-aa9f-e1915577d6cd"
       ],
@@ -507,7 +507,7 @@
     {
       "dutyID": "ee82f99d-fd83-48be-b11c-782a31d4f005",
       "dutyDetail": "Apply an understanding of other physical forensic evidence whilst conducting digital investigative decisions to ensure the preservation of evidence.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d7143124-a320-44aa-aa9f-e1915577d6cd",
         "78526578-c004-4082-ab11-2d39b377bc84"
@@ -537,7 +537,7 @@
     {
       "dutyID": "ddcd2c1f-b032-403f-8dab-a92e7a2f108e",
       "dutyDetail": "Uphold organisational minimum standards with regards to equipment testing, fault finding and maintenance according to agreed schedules and in line with quality standards and investigative needs to ensure appropriate health and safety considerations, the use of PPE and awareness of potential biohazards are all considered as part of the examination process.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "781f4e67-fe8c-4b8f-9fda-9df8562e227c"
       ],
@@ -567,7 +567,7 @@
     {
       "dutyID": "a66f8469-01a0-4116-8f22-71c1fd26c5b6",
       "dutyDetail": "Operate in a safe, lawful and ethical manner when dealing with digital devices and personal information giving due consideration to wellbeing working practices when processing sensitive or potentially distressing content.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c2df7a6e-a460-471f-a685-9449bcc68c1f",
         "d7143124-a320-44aa-aa9f-e1915577d6cd",
@@ -600,7 +600,7 @@
     {
       "dutyID": "07d27753-1148-4b4f-a0b6-fc27f51200aa",
       "dutyDetail": "Following risk assessments; local, national and on digital forensics and crime scenes activities from multiple agencies to ensure the integrity of digital evidence. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d7143124-a320-44aa-aa9f-e1915577d6cd",
         "781f4e67-fe8c-4b8f-9fda-9df8562e227c"
@@ -624,7 +624,7 @@
     {
       "dutyID": "908c2a81-a32a-46c7-aef8-3314983ef3b9",
       "dutyDetail": "Liaison with colleagues from a variety of disciplines both external and internal to the organisation exercising responsibility for work within defined parameters. Acts in a professional and ethical manner, embracing equality, diversity and inclusion in the workplace.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c2df7a6e-a460-471f-a685-9449bcc68c1f",
         "1a83c689-14bf-43cd-bc95-1b4773f63149",
