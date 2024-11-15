@@ -244,7 +244,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-09-19T00:00:00 +00:00",
@@ -267,7 +267,7 @@
     "Senior risk specialist"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Financial",
   "cluster": "Compliance or risk specialist",
@@ -397,7 +397,7 @@
     {
       "dutyID": "101799b8-9f6d-4c78-b510-3139a7bd0b53",
       "dutyDetail": "Safeguard the organisation from risks relevant to your role, for example, money laundering, terrorist financing risk, conduct risk, operational risk, climate change risk by ensuring monitoring structures and processes under your control are effective ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d8b8635f-dde1-44e9-9011-6c446f974583"
       ],
@@ -421,7 +421,7 @@
     {
       "dutyID": "33e425d9-0eb3-489c-be4d-ac51e6871938",
       "dutyDetail": "Use relevant frameworks to assess, manage and mitigate risks relevant to your area of expertise, adhering to organisational policies and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d8b8635f-dde1-44e9-9011-6c446f974583",
         "8bf0d957-8b80-4f05-b83a-b2f7ca8f2fac"
@@ -443,7 +443,7 @@
     {
       "dutyID": "27b4b554-773c-4716-9188-7c882d474376",
       "dutyDetail": "Analyse a wide range of data, including observations and stakeholder interviews to understand risks relative to your role and form recommendations for change.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8bf0d957-8b80-4f05-b83a-b2f7ca8f2fac"
       ],
@@ -466,7 +466,7 @@
     {
       "dutyID": "fcf8fbc8-c8f0-4a1f-9eaa-f425bceec398",
       "dutyDetail": "Provide specialist compliance and risk advice and consultancy to leaders on risk, financial crime, compliance, or modelling and analysing data.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d8b8635f-dde1-44e9-9011-6c446f974583",
         "076832f2-c42b-4041-a3e0-d2af39be1618",
@@ -497,7 +497,7 @@
     {
       "dutyID": "c3ee30e9-ae43-4bb1-86d0-ea5c5e493e8d",
       "dutyDetail": "Build relationships and influence with stakeholders to support and embed a risk-based culture, improve compliance and reduce risk factors.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "076832f2-c42b-4041-a3e0-d2af39be1618",
         "8262ef71-b0b2-4793-a37b-36181d4e87d2",
@@ -523,7 +523,7 @@
     {
       "dutyID": "29792334-5a09-449d-ba3d-2e309e0b33eb",
       "dutyDetail": "Maintain an understanding of up to date legal and regulatory changes relevant to your area, taking responsibility for ensuring any changes are communicated effectively and embedded.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d8b8635f-dde1-44e9-9011-6c446f974583"
       ],
@@ -554,7 +554,7 @@
     {
       "dutyID": "ccd82d7e-39f5-42cc-bad9-40e789a979b1",
       "dutyDetail": "Provide proactive support, guidance and challenge to business areas to ensure that the organisation meets legal and regulatory obligations balanced against achieving appropriate customer outcomes.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d8b8635f-dde1-44e9-9011-6c446f974583",
         "076832f2-c42b-4041-a3e0-d2af39be1618",
@@ -584,7 +584,7 @@
     {
       "dutyID": "aebde45b-7727-4b97-a5d7-2703c74bf7f1",
       "dutyDetail": "Design and implement risk and/or compliance activity relevant to your area to support the organisation’s goals and legal and regulatory requirements, for example, Financial Conduct Authority, Prudential Regulation Authority",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8262ef71-b0b2-4793-a37b-36181d4e87d2",
         "99aa3c0b-212b-432d-a218-4f98752840b9"
@@ -612,7 +612,7 @@
     {
       "dutyID": "c6d820b2-ba5f-4599-b24c-011ed96ea9fe",
       "dutyDetail": "Collaborate across your organisation to ensure consistent, joined up approaches to policies and processes relevant to your role.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a220d180-cef0-4ff5-a75e-5a18db8359e5",
         "d9055446-7b73-44b3-9c86-b81397feb746"
@@ -640,7 +640,7 @@
     {
       "dutyID": "1ffd790f-d538-4d18-a1ab-c29767f7d11f",
       "dutyDetail": "Share your knowledge and expertise with others to support the development of knowledge and skills in your team or department.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a220d180-cef0-4ff5-a75e-5a18db8359e5",
         "8262ef71-b0b2-4793-a37b-36181d4e87d2",
@@ -669,7 +669,7 @@
     {
       "dutyID": "3fad57b5-7cfe-4feb-a44a-0e19c0358183",
       "dutyDetail": "Develop and deliver new ways of working which strengthen and promote regulatory compliance and continuous improvement.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a220d180-cef0-4ff5-a75e-5a18db8359e5",
         "8262ef71-b0b2-4793-a37b-36181d4e87d2",
@@ -700,7 +700,7 @@
     {
       "dutyID": "81277a6d-3356-4d69-aa43-9a51b48edd47",
       "dutyDetail": "Create and maintain documentation, including reporting requirements, following records management process and audit requirements to evidence legal and regulatory compliance relative to your role.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a220d180-cef0-4ff5-a75e-5a18db8359e5",
         "8262ef71-b0b2-4793-a37b-36181d4e87d2",
@@ -721,7 +721,7 @@
     {
       "dutyID": "f5a3d312-59a4-4c60-89a2-24276d8e542d",
       "dutyDetail": "Adapt to technological advancements and changes which impact the compliance and risk management landscape",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a220d180-cef0-4ff5-a75e-5a18db8359e5",
         "8262ef71-b0b2-4793-a37b-36181d4e87d2",
