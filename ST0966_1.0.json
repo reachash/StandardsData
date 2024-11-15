@@ -293,7 +293,7 @@
     "Qualified teacher of the vision impaired"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Education and early years",
   "cluster": "Teaching professional",
@@ -327,7 +327,7 @@
     {
       "dutyID": "991f72de-a500-46b5-9ca3-0df65904f7c6",
       "dutyDetail": "Teach, develop and plan challenging, well organised programmes across the age and ability range of SI learners including those with additional needs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3ca93e87-d0e1-43cb-ac27-3ff168b3a510",
         "3b649002-a900-4027-90f9-c27ddea54b71",
@@ -363,7 +363,7 @@
     {
       "dutyID": "0b97c4b5-1575-4a77-a964-49e5092b9be4",
       "dutyDetail": "Maintain their up to date knowledge of national and local legislation, guidance, initiatives and research, to use this in their teaching and other work with SI learners, parents and settings.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3ca93e87-d0e1-43cb-ac27-3ff168b3a510",
         "11a6ea8f-b5e5-47ee-a5ec-51cfcc729b3a",
@@ -393,7 +393,7 @@
     {
       "dutyID": "8cdddebe-1655-411a-81c5-4fc762a290c8",
       "dutyDetail": "Work collaboratively with SI stakeholders to identify learning needs and advise on, and provide, appropriate support.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3ca93e87-d0e1-43cb-ac27-3ff168b3a510",
         "11a6ea8f-b5e5-47ee-a5ec-51cfcc729b3a",
@@ -431,7 +431,7 @@
     {
       "dutyID": "abbd7fa0-66c0-46e5-88aa-69ffc9024633",
       "dutyDetail": "Work collaboratively and train stakeholders to improve the social and emotional development, independence, and well-being of the learner.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3ca93e87-d0e1-43cb-ac27-3ff168b3a510",
         "3b649002-a900-4027-90f9-c27ddea54b71",
@@ -465,7 +465,7 @@
     {
       "dutyID": "cd53615f-9686-4e90-aef7-93a4560abb58",
       "dutyDetail": "Promote improved physical learning environments using a range of interventions, such as improved room acoustics, lighting or greater access to AT and IT.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3ca93e87-d0e1-43cb-ac27-3ff168b3a510"
       ],
@@ -488,7 +488,7 @@
     {
       "dutyID": "8191d49c-fa77-440d-b8e2-015cf06e142b",
       "dutyDetail": "Train and support stakeholders, using evidenced-based strategies, to facilitate the successful inclusion of learners with SI in educational settings. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3ca93e87-d0e1-43cb-ac27-3ff168b3a510",
         "11a6ea8f-b5e5-47ee-a5ec-51cfcc729b3a",
@@ -522,7 +522,7 @@
     {
       "dutyID": "d06e2447-45d3-4a3c-a739-74c89919e57c",
       "dutyDetail": "Carry out, interpret and report on the outcomes from specialist assessments used with SI learners. Use these outcomes to inform target setting, monitor the efficacy of current provision, teaching delivery, and guide decision making having also drawn on the specialist assessment of others such as orthoptists, audiologists, habilitation specialists, and speech and language therapists.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3ca93e87-d0e1-43cb-ac27-3ff168b3a510",
         "11a6ea8f-b5e5-47ee-a5ec-51cfcc729b3a",
@@ -553,7 +553,7 @@
     {
       "dutyID": "cf4a586d-94d1-4e2a-ab7f-ed35ca548a22",
       "dutyDetail": "Ensure that transition between educational phases is effective across a wide range of ages and contexts. Ensure that appropriate specialist equipment is in place in any new settings and that staff have the necessary training, knowledge and skills to facilitate its use, and inform staff of appropriate teaching methodology.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3ca93e87-d0e1-43cb-ac27-3ff168b3a510"
       ],
@@ -576,7 +576,7 @@
     {
       "dutyID": "c52ed296-fd1b-4dc6-ac5f-b3caecf52d63",
       "dutyDetail": "Advise on and apply in their teaching reasonable adjustments for children and young people with SI in education, such as in public examinations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3ca93e87-d0e1-43cb-ac27-3ff168b3a510",
         "d28f35b1-a8f4-4a05-845e-ace40fec3814"
@@ -603,7 +603,7 @@
     {
       "dutyID": "75fa39be-ffa8-48bd-87f4-f5f663590a7d",
       "dutyDetail": "Work in partnership with parents to develop early intervention and  provide advice and promote relevant areas such as the importance of language development either or both spoken or signed, the use of technologies and teaching of habilitation skills.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3ca93e87-d0e1-43cb-ac27-3ff168b3a510",
         "b31b2503-2da8-4b51-966a-0958bd7775d1"
@@ -634,7 +634,7 @@
     {
       "dutyID": "8586b4f2-4cde-4e49-9915-850dff694166",
       "dutyDetail": "Work in partnership with parents, other professionals and learners with SI to develop a clear understanding of the nature of the impairment such as deafness, vision impairment or multi-sensory impairment. Provide a range of evidence based information via written text, face to face, audio or video.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3ca93e87-d0e1-43cb-ac27-3ff168b3a510",
         "3b649002-a900-4027-90f9-c27ddea54b71",
@@ -667,7 +667,7 @@
     {
       "dutyID": "1908c085-cb4c-4dfa-a93f-fa1edb166417",
       "dutyDetail": "Develop the self-esteem of children and young people with SI and maximise their independence and use of specific assistive technology, to teach and promote independent learning and self-advocacy skills.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3ca93e87-d0e1-43cb-ac27-3ff168b3a510",
         "3b649002-a900-4027-90f9-c27ddea54b71",
@@ -692,7 +692,7 @@
     {
       "dutyID": "d7263c67-1164-4ad7-8708-20a05fe58a9e",
       "dutyDetail": "Provide and modify materials to match needs such as communication and mobility, and supply training and advice on the use and adaptation of materials.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d28f35b1-a8f4-4a05-845e-ace40fec3814"
       ],
@@ -719,7 +719,7 @@
     {
       "dutyID": "8b7ee113-c73d-48f1-a814-9b542b14df07",
       "dutyDetail": "Provide appropriate curriculum advice and support for learners with SI.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d28f35b1-a8f4-4a05-845e-ace40fec3814"
       ],
