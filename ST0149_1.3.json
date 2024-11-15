@@ -262,7 +262,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-01-29T00:00:00 +00:00",
@@ -284,7 +284,7 @@
     "Lecturer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Education and Early Years",
   "cluster": "Teaching instructor",
@@ -302,7 +302,7 @@
     {
       "dutyID": "8323c1ea-6b0e-4e84-a99e-5f39b9cee0e8",
       "dutyDetail": "Promote a passion for learning and set high expectations of all students and support their personal and skills development ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "95e9614f-ef19-4073-b8d4-26126cff5e14",
@@ -317,7 +317,7 @@
     {
       "dutyID": "d6bb480b-1574-4592-b90c-32aab0c48ca8",
       "dutyDetail": "Maintain a focus on outcomes, for all students, so that they recognise the value of their learning and the future opportunities available to them",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "95e9614f-ef19-4073-b8d4-26126cff5e14",
@@ -337,7 +337,7 @@
     {
       "dutyID": "bddbe023-2bec-4107-a4ae-1f9d7752769a",
       "dutyDetail": "Demonstrate, maintain and evidence excellent pedagogy, subject, curriculum and industry knowledge and practice",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5d037688-a6e8-417d-8146-3beb7a215e4b",
         "0ab3d30d-71f5-4513-b514-1b0c499c6ce5"
@@ -368,7 +368,7 @@
     {
       "dutyID": "e3e55e52-2955-439d-9f68-a2abe274b766",
       "dutyDetail": "Plan, deliver and evaluate effective evidence-informed teaching using assessment, relevant systems and safe use of technology to support learning",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "9116c657-6827-4975-8cbe-aaa41ca0bc12",
@@ -400,7 +400,7 @@
     {
       "dutyID": "c588f96a-f272-4da5-a89e-9862a527114d",
       "dutyDetail": "Work in a manner that values diversity, and actively promote equality of opportunity and inclusion by responding to the needs of all students",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a4642599-954c-408a-92b8-211e6e3863ef"
       ],
@@ -425,7 +425,7 @@
     {
       "dutyID": "011b0cd4-1314-4ded-99e4-254f098b2a1f",
       "dutyDetail": "Model professional relationships with students, colleagues and stakeholders that support the highest quality education and training",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "da6f58fe-9b3e-487b-a57e-35e5b6a53169"
       ],
@@ -447,7 +447,7 @@
     {
       "dutyID": "82d02f0b-e90f-451d-92cb-e1cfc59cce7c",
       "dutyDetail": "Work within professional boundaries, legal and ethical standards to set clear expectations for engaging in learning for all students",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "8782b44c-fab2-4318-a781-b8f44f8ed2ef"
@@ -465,7 +465,7 @@
     {
       "dutyID": "8693c670-f79f-4d72-b5cc-478ece08a086",
       "dutyDetail": "Undertake relevant roles and duties and model sustainable practices, having regard to professional standards, demonstrating resilience and adaptability when dealing with challenge and change",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "516db380-a24b-4dda-a646-d90b24926bc2",
         "5d037688-a6e8-417d-8146-3beb7a215e4b",
@@ -487,7 +487,7 @@
     {
       "dutyID": "3937e901-25c5-4387-97ef-40081c1f83d5",
       "dutyDetail": "Support students with their next steps for progression and learning by providing appropriate information, advice, and guidance",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "449c0a3b-90c0-4b08-8368-5adf9fa8ccb1",
