@@ -329,7 +329,7 @@
     "Resilience officer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Protective Services",
   "cluster": "Protective service professional",
@@ -363,7 +363,7 @@
     {
       "dutyID": "34b1dae2-cb68-4eea-9479-53aad6452693",
       "dutyDetail": "Apply, maintain and improve structures and systems used to govern and improve resilience and emergency activity (for example, monitoring and evaluation, quality assurance, change management, and stakeholder accountability).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fb10659a-2e39-47c7-b989-8c08a9ac8e0a",
         "ef384dbb-c189-47b5-a1e5-d4b8d37dd662"
@@ -392,7 +392,7 @@
     {
       "dutyID": "f4584455-7efd-4466-a8ea-4bb60f64980b",
       "dutyDetail": "Research and analyse intelligence (data, opinion and information) relating to resilience and emergencies and manage information safely and securely.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "9b8b6935-0be1-4e58-9d41-fea6412f5c7d",
@@ -411,7 +411,7 @@
     {
       "dutyID": "40c1c7d2-e6e1-4c50-94fe-4cea57a5e944",
       "dutyDetail": "Engage proactively, communicate and collaborate effectively with a wide range of resilience partners to improve resilience. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "11d8ff9f-a55c-4b6f-8c2c-30e14a93b294",
         "33d29f9e-c3a7-40bc-b1f5-8d64c9b6fc59",
@@ -441,7 +441,7 @@
     {
       "dutyID": "b3db6a1f-9ea4-474b-8798-7e2061e9aa3d",
       "dutyDetail": "Project manage and administrate programmes or projects to deliver resilience outcomes and track associated costs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "11d8ff9f-a55c-4b6f-8c2c-30e14a93b294",
         "cc03cecf-2f75-4f35-8fd8-7c1a740f2b7c",
@@ -467,7 +467,7 @@
     {
       "dutyID": "fc7b1578-c342-4730-9e4e-907d47bc1b9d",
       "dutyDetail": "Anticipate, assess and support the prioritisation of risks, threats and potential consequences.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8de5b6ec-e9fa-46e5-9dd6-11b600b9cf80",
         "33d29f9e-c3a7-40bc-b1f5-8d64c9b6fc59"
@@ -493,7 +493,7 @@
     {
       "dutyID": "c3c91913-5990-4ddc-b62d-7a00a4cd3904",
       "dutyDetail": "Contribute to the analysis and development of resilience and readiness capabilities to ensure risks are reduced and the demands of an emergency response can be met.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "33d29f9e-c3a7-40bc-b1f5-8d64c9b6fc59",
         "3c0220b6-89a5-45c1-b13b-e97f89667d7a"
@@ -526,7 +526,7 @@
     {
       "dutyID": "df3ce67c-b77e-4356-9603-8351f650deff",
       "dutyDetail": "Contribute to the mitigation or prevention of, or adaptation to, risks in a resilient and sustainable way.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "33d29f9e-c3a7-40bc-b1f5-8d64c9b6fc59"
       ],
@@ -553,7 +553,7 @@
     {
       "dutyID": "28c87ae0-70b5-4a31-9335-e769d4686f32",
       "dutyDetail": "Prepare the arrangements and plans needed to respond effectively to the anticipated demands and consequences of disruptive events.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8de5b6ec-e9fa-46e5-9dd6-11b600b9cf80",
         "cc03cecf-2f75-4f35-8fd8-7c1a740f2b7c"
@@ -591,7 +591,7 @@
     {
       "dutyID": "2165b92c-8df9-4359-94f9-37ac4f21b042",
       "dutyDetail": "Train individuals and teams in a response role, and exercise and validate emergency plans.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fb10659a-2e39-47c7-b989-8c08a9ac8e0a",
         "8de5b6ec-e9fa-46e5-9dd6-11b600b9cf80",
@@ -622,7 +622,7 @@
     {
       "dutyID": "126f92d2-650e-48fe-a033-e96b6466e79b",
       "dutyDetail": "Support a response that limits impacts and meets the needs which result during disruptive events.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fb10659a-2e39-47c7-b989-8c08a9ac8e0a",
         "8de5b6ec-e9fa-46e5-9dd6-11b600b9cf80",
@@ -654,7 +654,7 @@
     {
       "dutyID": "cfed02a3-8d3e-4a22-83f9-f13472e075d9",
       "dutyDetail": "Work to ensure a resilient and sustainable recovery can be achieved after disruptive events for all affected.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fb10659a-2e39-47c7-b989-8c08a9ac8e0a",
         "8de5b6ec-e9fa-46e5-9dd6-11b600b9cf80",
