@@ -397,7 +397,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2014-12-09T00:00:00 +00:00",
@@ -415,7 +415,7 @@
     "Food and drink multi-skilled engineer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Manufacturing or process maintenance operative or technician",
@@ -455,7 +455,7 @@
     {
       "dutyID": "461581d6-d6b3-4dee-bcf4-8ecf784699cd",
       "dutyDetail": "Prepare for food and drink maintenance work. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8e8184c5-a700-4cc0-b39f-9c581e81d427",
         "11d3ad41-d18f-4c46-aaf4-ea5e4caa5a66",
@@ -504,7 +504,7 @@
     {
       "dutyID": "6610666f-56e0-4af2-9033-fa259f00908c",
       "dutyDetail": "Conduct planned maintenance of food and drink processing and packaging equipment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8e8184c5-a700-4cc0-b39f-9c581e81d427",
         "11d3ad41-d18f-4c46-aaf4-ea5e4caa5a66",
@@ -571,7 +571,7 @@
     {
       "dutyID": "4f3987f0-8f9f-4bae-8da0-9fa52830c838",
       "dutyDetail": "Conduct predictive maintenance of food and drink processing and packaging equipment (condition based monitoring).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8e8184c5-a700-4cc0-b39f-9c581e81d427",
         "11d3ad41-d18f-4c46-aaf4-ea5e4caa5a66",
@@ -639,7 +639,7 @@
     {
       "dutyID": "a113a6da-1bb7-4d16-818e-816093f64c3d",
       "dutyDetail": "Respond to breakdowns of food and drink processing and packaging equipment. Conduct reactive maintenance or corrective actions to resolve deviation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8e8184c5-a700-4cc0-b39f-9c581e81d427",
         "11d3ad41-d18f-4c46-aaf4-ea5e4caa5a66",
@@ -713,7 +713,7 @@
     {
       "dutyID": "b9f50cf1-f2f2-4ea0-b4eb-aec310b20af6",
       "dutyDetail": "Identify faults (electrical, mechanical, instrumentation, automation and pneumatics) on food and drink processing and packaging equipment and action required.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8e8184c5-a700-4cc0-b39f-9c581e81d427",
         "11d3ad41-d18f-4c46-aaf4-ea5e4caa5a66",
@@ -785,7 +785,7 @@
     {
       "dutyID": "2c1a8544-dc21-481f-b2c3-80e1f7912f5b",
       "dutyDetail": "Lead or support food and drink operational teams with machinery change overs and set ups.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8e8184c5-a700-4cc0-b39f-9c581e81d427",
         "11d3ad41-d18f-4c46-aaf4-ea5e4caa5a66",
@@ -853,7 +853,7 @@
     {
       "dutyID": "65824fb0-10e2-485b-957a-351f7a114d71",
       "dutyDetail": "Manufacture and repair component parts for food and drink processing and packaging equipment. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8e8184c5-a700-4cc0-b39f-9c581e81d427",
         "11d3ad41-d18f-4c46-aaf4-ea5e4caa5a66",
@@ -897,7 +897,7 @@
     {
       "dutyID": "3870580e-6281-44be-bcea-99236dd271cd",
       "dutyDetail": "Contribute to continuous improvement projects to optimise food and drink equipment or process. For example, participate in failure investigations to ensure process effectiveness and to contribute to and implement practical engineering solutions for efficiency and profitability.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8e8184c5-a700-4cc0-b39f-9c581e81d427",
         "11d3ad41-d18f-4c46-aaf4-ea5e4caa5a66",
@@ -961,7 +961,7 @@
     {
       "dutyID": "7223db00-ba7a-4ee5-8ac0-44f394aa3094",
       "dutyDetail": "Remove and decommission food and drink processing and packaging equipment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8e8184c5-a700-4cc0-b39f-9c581e81d427",
         "11d3ad41-d18f-4c46-aaf4-ea5e4caa5a66",
@@ -1015,7 +1015,7 @@
     {
       "dutyID": "29306f13-46e2-4cfe-870b-bdc2cb33d3c6",
       "dutyDetail": "Contribute to the installation and commission food and drink processing and packaging equipment in line with food science and safety principles.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8e8184c5-a700-4cc0-b39f-9c581e81d427",
         "11d3ad41-d18f-4c46-aaf4-ea5e4caa5a66",
@@ -1081,7 +1081,7 @@
     {
       "dutyID": "2f51d011-afff-4331-999b-4f014b30f857",
       "dutyDetail": "Contribute to technical performance reviews in collaboration with other functions and stakeholders. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8e8184c5-a700-4cc0-b39f-9c581e81d427",
         "11d3ad41-d18f-4c46-aaf4-ea5e4caa5a66",
@@ -1150,7 +1150,7 @@
     {
       "dutyID": "cdb2573d-2309-4dac-b1a7-ac3e0160aabf",
       "dutyDetail": "Maintain engineering documentation for food and drink maintenance work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8e8184c5-a700-4cc0-b39f-9c581e81d427",
         "11d3ad41-d18f-4c46-aaf4-ea5e4caa5a66",
@@ -1189,7 +1189,7 @@
     {
       "dutyID": "63cb6efc-9269-4b55-b609-61ddfe398841",
       "dutyDetail": "Support maintenance and operational team members in developing engineering technical competence.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8e8184c5-a700-4cc0-b39f-9c581e81d427",
         "11d3ad41-d18f-4c46-aaf4-ea5e4caa5a66",
@@ -1221,7 +1221,7 @@
     {
       "dutyID": "09c78bfe-8795-4f8b-be44-94f98bb52846",
       "dutyDetail": "Ensure availability and performance of maintenance tools and equipment. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8e8184c5-a700-4cc0-b39f-9c581e81d427",
         "11d3ad41-d18f-4c46-aaf4-ea5e4caa5a66",
@@ -1252,7 +1252,7 @@
     {
       "dutyID": "cc79153c-054c-4d1a-a36e-f5b13cd9d8a1",
       "dutyDetail": "Contribute to food and drink internal and external audits.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8e8184c5-a700-4cc0-b39f-9c581e81d427",
         "11d3ad41-d18f-4c46-aaf4-ea5e4caa5a66",
