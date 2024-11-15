@@ -305,7 +305,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-06-28T00:00:00 +00:00",
@@ -323,7 +323,7 @@
     "Glazing technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Service, Repair and/or Overhaul Operative/Technician",
@@ -341,7 +341,7 @@
     {
       "dutyID": "10726ed4-2e2b-4d15-aca7-b30f8b3640e8",
       "dutyDetail": "Receive, read and interpret engineering and technical documentation such as specific manufacturer guidance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1225dd52-9453-4e39-89db-97d97933fc8a",
         "eff36c81-b470-49c3-8617-d3a06732c11a",
@@ -366,7 +366,7 @@
     {
       "dutyID": "9ed109f9-89cc-48b2-92f4-c92297c3e755",
       "dutyDetail": "Accept the task or job, ensuring all relevant information and details are obtained.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1225dd52-9453-4e39-89db-97d97933fc8a",
         "eff36c81-b470-49c3-8617-d3a06732c11a",
@@ -398,7 +398,7 @@
     {
       "dutyID": "0f9950e2-08ff-4ec9-9f2b-7f3ee89156b6",
       "dutyDetail": "Conduct safety checks of all associated equipment and the surrounding work area.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1225dd52-9453-4e39-89db-97d97933fc8a",
         "eff36c81-b470-49c3-8617-d3a06732c11a",
@@ -429,7 +429,7 @@
     {
       "dutyID": "bdaa773f-48af-4e72-9169-ca61f35db4d1",
       "dutyDetail": "Check and inspect parts to ensure that they conform to quality standards. Identify and report any issues or faults.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1225dd52-9453-4e39-89db-97d97933fc8a",
         "eff36c81-b470-49c3-8617-d3a06732c11a",
@@ -450,7 +450,7 @@
     {
       "dutyID": "80131173-c544-4322-9a14-9f1b12a5be88",
       "dutyDetail": "Handle, store and process information in line with regulations and organisational requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "eff36c81-b470-49c3-8617-d3a06732c11a",
         "f5584a92-1a6c-4217-aed2-ed2d84f79c18"
@@ -472,7 +472,7 @@
     {
       "dutyID": "fe366fd5-9bc4-407b-a39b-9230dc42ed56",
       "dutyDetail": "Set up, operate, adjust or edit equipment settings and re-calibration programmes appropriate to the work required.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1225dd52-9453-4e39-89db-97d97933fc8a",
         "eff36c81-b470-49c3-8617-d3a06732c11a",
@@ -498,7 +498,7 @@
     {
       "dutyID": "df4111c7-582a-4274-a4dc-491ef6dba4c8",
       "dutyDetail": "Organise and coordinate work to meet stakeholders’ requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1225dd52-9453-4e39-89db-97d97933fc8a",
         "eff36c81-b470-49c3-8617-d3a06732c11a",
@@ -529,7 +529,7 @@
     {
       "dutyID": "207192bb-dbed-41bc-8668-74a01a6b2b60",
       "dutyDetail": "Plan repair and installation work in accordance with standard operating procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1225dd52-9453-4e39-89db-97d97933fc8a",
         "eff36c81-b470-49c3-8617-d3a06732c11a",
@@ -578,7 +578,7 @@
     {
       "dutyID": "f79c2271-f1e7-47f3-97c8-7e13a5694a0c",
       "dutyDetail": "Communicate with customers in a polite, respectful and professional manner at all times.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "eff36c81-b470-49c3-8617-d3a06732c11a",
         "36460ee9-ca26-43e8-a4b7-7ec11e81587d",
@@ -606,7 +606,7 @@
     {
       "dutyID": "7f7f6471-f602-4b03-a5aa-3cd92b547467",
       "dutyDetail": "Complete documentation at the required stages of the work activity. For example standard operational procedures, risk assessments, equipment service records, customer documentation, ongoing training records and test results and control documentation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1225dd52-9453-4e39-89db-97d97933fc8a",
         "eff36c81-b470-49c3-8617-d3a06732c11a",
@@ -632,7 +632,7 @@
     {
       "dutyID": "81cec9d9-22b6-4860-bb02-759147ca4769",
       "dutyDetail": "Maintain and restore the work area. Perform housekeeping and waste management as appropriate and in line with environmental requirements. Ensure tools, unused materials and equipment are returned to a safe, clean and approved condition on completion of work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1225dd52-9453-4e39-89db-97d97933fc8a",
         "eff36c81-b470-49c3-8617-d3a06732c11a",
@@ -662,7 +662,7 @@
     {
       "dutyID": "aafec99e-3a19-493d-b84c-d7b6790781ce",
       "dutyDetail": "Handover completed work and provide technical and regulatory advice to stakeholders for equipment and services.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1225dd52-9453-4e39-89db-97d97933fc8a",
         "eff36c81-b470-49c3-8617-d3a06732c11a",
@@ -690,7 +690,7 @@
     {
       "dutyID": "df0424ee-e175-4eca-ae82-571ebb52d3cc",
       "dutyDetail": "Perform repairs on vehicle glass. Replace fixed and opening vehicle glass in accordance with standard operating procedures. Perform re-calibration on completion where required. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1225dd52-9453-4e39-89db-97d97933fc8a",
         "eff36c81-b470-49c3-8617-d3a06732c11a",
@@ -742,7 +742,7 @@
     {
       "dutyID": "90f6236f-fbea-44fc-9ff3-01b6ecb23bd9",
       "dutyDetail": "Keep stakeholders such as customers, colleagues and line managers informed about work status.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "eff36c81-b470-49c3-8617-d3a06732c11a",
         "f5584a92-1a6c-4217-aed2-ed2d84f79c18",
@@ -772,7 +772,7 @@
     {
       "dutyID": "8aeeef1b-8bdd-42dd-9438-396fdcf374f6",
       "dutyDetail": "Contribute to continuous improvement in the operational area.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1225dd52-9453-4e39-89db-97d97933fc8a",
         "eff36c81-b470-49c3-8617-d3a06732c11a",
