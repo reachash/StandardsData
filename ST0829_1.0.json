@@ -277,7 +277,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-09-30T00:00:00 +00:00",
@@ -303,7 +303,7 @@
     "Youth support co-ordinator"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
   "cluster": "Health practitioner",
@@ -337,7 +337,7 @@
     {
       "dutyID": "fae0342e-3f54-4891-b5e4-8bb64221d93a",
       "dutyDetail": "Organise, initiate and supervise play facilities, appropriate to the age, ability, medical condition and background of the child/young person ensuring all children have access to play and recreation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6903e5db-a4bd-4b8b-b527-dc04e8ddbeff",
         "78f6809b-8a01-4669-b62a-08021caf364c"
@@ -382,7 +382,7 @@
     {
       "dutyID": "02ceec81-20f4-475c-9c28-ae479646328e",
       "dutyDetail": "To use play and recreation as a tool to communicate, build a rapport and engage with children and young people throughout their healthcare journey",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6903e5db-a4bd-4b8b-b527-dc04e8ddbeff",
         "78f6809b-8a01-4669-b62a-08021caf364c"
@@ -431,7 +431,7 @@
     {
       "dutyID": "24b1fcce-39c7-42ee-9b1d-1fa4dd5f6f86",
       "dutyDetail": "To plan, implement and evaluate individual therapeutic play interventions to include preparation for invasive and non-invasive procedures, distraction therapy and post procedural play.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6903e5db-a4bd-4b8b-b527-dc04e8ddbeff",
         "e27dadfd-cda6-4d78-8851-44d5ccf2d80c",
@@ -485,7 +485,7 @@
     {
       "dutyID": "c6fa1018-63ad-4be4-b252-d0f3146672bf",
       "dutyDetail": "Work with other professional teams to prepare children and young people prior to admission, and for specific procedures and to familiarise them with the environment, including pre-operative assessment during their healthcare journey.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6903e5db-a4bd-4b8b-b527-dc04e8ddbeff",
         "e27dadfd-cda6-4d78-8851-44d5ccf2d80c",
@@ -523,7 +523,7 @@
     {
       "dutyID": "11791f2e-3e04-4621-a2d6-faf0ad52d374",
       "dutyDetail": "To advocate patient centred care by communicating for the child/young person and family as part of the multi-professional team (internal and external), to facilitate their wishes and expectations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6903e5db-a4bd-4b8b-b527-dc04e8ddbeff",
         "e27dadfd-cda6-4d78-8851-44d5ccf2d80c",
@@ -581,7 +581,7 @@
     {
       "dutyID": "1e9246da-0668-453c-848e-c2dad8361afc",
       "dutyDetail": "Form a supportive professional relationships with family members and carers, enable them to participate in play/recreation and assisting the developing needs of their child/young person during their healthcare journey.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6903e5db-a4bd-4b8b-b527-dc04e8ddbeff",
         "e27dadfd-cda6-4d78-8851-44d5ccf2d80c",
@@ -643,7 +643,7 @@
     {
       "dutyID": "3a678b9e-f63f-442c-8248-230d05af3879",
       "dutyDetail": "Devise and be accountable for the assessment, planning, delivery and evaluation of individual play/recreational sessions using relevant play documentation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6903e5db-a4bd-4b8b-b527-dc04e8ddbeff",
         "e27dadfd-cda6-4d78-8851-44d5ccf2d80c",
@@ -694,7 +694,7 @@
     {
       "dutyID": "03fcaacb-a2ce-4170-8796-7619e7617548",
       "dutyDetail": "Through play interventions provide emotional/psychosocial interventions for children/young people and their families facing life changing circumstances.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6903e5db-a4bd-4b8b-b527-dc04e8ddbeff",
         "e27dadfd-cda6-4d78-8851-44d5ccf2d80c",
@@ -757,7 +757,7 @@
     {
       "dutyID": "553f1609-e137-4668-85e1-7457b86d68ba",
       "dutyDetail": "Educate and demonstrate value, importance and benefits of specialised and therapeutic play to healthcare professionals/students.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6903e5db-a4bd-4b8b-b527-dc04e8ddbeff",
         "e27dadfd-cda6-4d78-8851-44d5ccf2d80c",
@@ -815,7 +815,7 @@
     {
       "dutyID": "3b66ae38-d371-491e-b85f-85a29c5d46b9",
       "dutyDetail": "Provides highly specialised recommendations regarding the holistic care  and play interventions to other professional teams, families and carers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6903e5db-a4bd-4b8b-b527-dc04e8ddbeff",
         "e27dadfd-cda6-4d78-8851-44d5ccf2d80c",
@@ -880,7 +880,7 @@
     {
       "dutyID": "75fa73a2-bca5-46f5-a994-88baa41f56f9",
       "dutyDetail": "Uphold the Code of Professional Conduct and Standards of Proficiency meeting requirements for continuing professional registration.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6903e5db-a4bd-4b8b-b527-dc04e8ddbeff",
         "e27dadfd-cda6-4d78-8851-44d5ccf2d80c",
@@ -944,7 +944,7 @@
     {
       "dutyID": "30604994-0818-4bba-83a4-68455c93a0e8",
       "dutyDetail": "Ensure that the play/recreation environment is risk assessed and actioned therefore maintaining a safe and appropriate environment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e27dadfd-cda6-4d78-8851-44d5ccf2d80c"
       ],
@@ -982,7 +982,7 @@
     {
       "dutyID": "84c5fd55-fcbc-4d2a-be97-9e9e6fb0d0c8",
       "dutyDetail": "Through observation recognise and act on the signs and symptoms of potential safeguarding (e.g. abuse) in line with local policy. Analyse, interpret and evaluate the relevant information, concepts and ideas.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6903e5db-a4bd-4b8b-b527-dc04e8ddbeff",
         "e27dadfd-cda6-4d78-8851-44d5ccf2d80c",
@@ -1037,7 +1037,7 @@
     {
       "dutyID": "0e4ccf59-15de-49fd-822f-dfa3fe174943",
       "dutyDetail": "Be able to practise as an autonomous professional, exercising own professional judgement.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6903e5db-a4bd-4b8b-b527-dc04e8ddbeff",
         "e27dadfd-cda6-4d78-8851-44d5ccf2d80c",
@@ -1099,7 +1099,7 @@
     {
       "dutyID": "0c38366f-8ae7-4e3c-949d-a0fcfaa8bcd0",
       "dutyDetail": "Be able to practise within the legal and ethical boundaries of their profession.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6903e5db-a4bd-4b8b-b527-dc04e8ddbeff",
         "e27dadfd-cda6-4d78-8851-44d5ccf2d80c",
