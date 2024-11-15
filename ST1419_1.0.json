@@ -880,7 +880,7 @@
     "Specialist community nurse"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
   "cluster": "Midwifery and nursing professional",
@@ -907,7 +907,7 @@
     {
       "dutyID": "a7abf44b-fc5d-487d-8e2e-2600efeb14ed",
       "dutyDetail": "Provide accountable, autonomous professional care in partnership with service users.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4e1fc69a-a747-4ea3-98e5-19f02703a76e",
         "d148e1f1-a691-490a-9ec8-fe3f610ed8c6",
@@ -949,7 +949,7 @@
     {
       "dutyID": "f8c11a87-7137-43e6-b97e-edc9f07e4624",
       "dutyDetail": "Promote health and wellbeing.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4e1fc69a-a747-4ea3-98e5-19f02703a76e",
         "d148e1f1-a691-490a-9ec8-fe3f610ed8c6",
@@ -982,7 +982,7 @@
     {
       "dutyID": "230d67d5-2338-4d89-80c8-8a89118a55d3",
       "dutyDetail": "Prevent Ill health.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4e1fc69a-a747-4ea3-98e5-19f02703a76e",
         "d148e1f1-a691-490a-9ec8-fe3f610ed8c6",
@@ -1015,7 +1015,7 @@
     {
       "dutyID": "8805ed75-917c-46a0-8149-de807e699032",
       "dutyDetail": "Assess people’s abilities and needs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4e1fc69a-a747-4ea3-98e5-19f02703a76e",
         "d148e1f1-a691-490a-9ec8-fe3f610ed8c6",
@@ -1056,7 +1056,7 @@
     {
       "dutyID": "5dae8716-0403-44bb-9979-e1eb8c3abe49",
       "dutyDetail": "Plan community nursing care.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4e1fc69a-a747-4ea3-98e5-19f02703a76e",
         "d148e1f1-a691-490a-9ec8-fe3f610ed8c6",
@@ -1087,7 +1087,7 @@
     {
       "dutyID": "295fdfb0-8ee7-43e8-b3e6-180a6e27835d",
       "dutyDetail": "Provide and evaluate evidence-based nursing care.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4e1fc69a-a747-4ea3-98e5-19f02703a76e",
         "d148e1f1-a691-490a-9ec8-fe3f610ed8c6",
@@ -1135,7 +1135,7 @@
     {
       "dutyID": "9dc621b3-5c56-414e-95f3-487a4ff18ef3",
       "dutyDetail": "Lead, support and manage teams.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4e1fc69a-a747-4ea3-98e5-19f02703a76e",
         "d148e1f1-a691-490a-9ec8-fe3f610ed8c6",
@@ -1194,7 +1194,7 @@
     {
       "dutyID": "b5fa5940-ff8a-4e8f-a451-b5dcdb417654",
       "dutyDetail": "Lead improvements in safety and quality of care.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4e1fc69a-a747-4ea3-98e5-19f02703a76e",
         "d148e1f1-a691-490a-9ec8-fe3f610ed8c6",
@@ -1232,7 +1232,7 @@
     {
       "dutyID": "452168f3-26b8-4c0d-9999-3924239f01f2",
       "dutyDetail": "Coordinate care for service users across different services and agencies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4e1fc69a-a747-4ea3-98e5-19f02703a76e",
         "d148e1f1-a691-490a-9ec8-fe3f610ed8c6",
@@ -1262,7 +1262,7 @@
     {
       "dutyID": "dca9ac25-e894-4be3-8f71-9fe1df3d77dc",
       "dutyDetail": "Provide system leadership to enhance communication and decision making.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4e1fc69a-a747-4ea3-98e5-19f02703a76e",
         "d148e1f1-a691-490a-9ec8-fe3f610ed8c6",
