@@ -312,7 +312,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-12-16T00:00:00 +00:00",
@@ -338,7 +338,7 @@
     "Software development technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Production, Design and Development",
   "cluster": "Software development technician",
@@ -356,7 +356,7 @@
     {
       "dutyID": "f6d79824-aae2-4372-a980-2313c63ab53a",
       "dutyDetail": "D1: Follow clearly defined requirements to deliver software development activities and products",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "20bdb494-9ce6-4692-920c-76d3aca49eae",
         "8dc99ed2-908e-4249-a572-34d9e714661e",
@@ -390,7 +390,7 @@
     {
       "dutyID": "072b0e9f-9379-4976-b9c2-a40863ceeda4",
       "dutyDetail": "Report progress against metrics on software development activities accurately throughout the stages of the software development lifecycle",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "20bdb494-9ce6-4692-920c-76d3aca49eae"
       ],
@@ -419,7 +419,7 @@
     {
       "dutyID": "5d428c15-1818-4b93-8816-cba4864100d7",
       "dutyDetail": "Identify and report any impediments to progress in development activities to supervisors",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "20bdb494-9ce6-4692-920c-76d3aca49eae",
         "cf5da639-3ef2-4369-ac87-2c24913dfa6f",
@@ -456,7 +456,7 @@
     {
       "dutyID": "ccfaa885-9f02-4b1d-b655-8e881bc67474",
       "dutyDetail": "Follow instructions to convert customer requirements to technical requirements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
@@ -474,7 +474,7 @@
     {
       "dutyID": "fdf640a5-cf91-4a25-a638-b7b4cff82c87",
       "dutyDetail": "Communicate outcomes from development activities to team members and other stakeholders both internal and external",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "20bdb494-9ce6-4692-920c-76d3aca49eae"
       ],
@@ -494,7 +494,7 @@
     {
       "dutyID": "9414fc3c-7a54-4201-969c-686f506288ad",
       "dutyDetail": "Identify and implement security features of a proposed design",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "b729f5af-f948-4de3-89c1-f76f418e4559",
@@ -521,7 +521,7 @@
     {
       "dutyID": "4feb4ad9-3491-48e8-92cd-c77e04ad562e",
       "dutyDetail": " Write logical and maintainable software solutions in line with given specifications to meet the design requirements and organisational coding standards",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
@@ -537,7 +537,7 @@
     {
       "dutyID": "726c3321-ede0-4ed4-8446-3045ead1721a",
       "dutyDetail": "Apply security principles and practice to the software development tasks assigned",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8dc99ed2-908e-4249-a572-34d9e714661e"
       ],
@@ -559,7 +559,7 @@
     {
       "dutyID": "fbb817d0-7f4e-420f-8a0d-74944cdd3fa8",
       "dutyDetail": "Maintain appropriate project documentation throughout the software development tasks",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
@@ -582,7 +582,7 @@
     {
       "dutyID": "93eef3d0-e6f9-486a-b6da-7d5157ca5cde",
       "dutyDetail": "Apply appropriate recovery techniques to ensure that the software solution being developed is not lost. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8dc99ed2-908e-4249-a572-34d9e714661e"
       ],
@@ -596,7 +596,7 @@
     {
       "dutyID": "5a2fdd69-0452-40cc-aa4d-c93cdcd600e1",
       "dutyDetail": "Undertake unit testing of solutions, with appropriate levels of test code coverage, to identify and, where necessary, escalate issues",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
@@ -618,7 +618,7 @@
     {
       "dutyID": "1e1e992c-2f1b-483d-b291-836a5ea89f12",
       "dutyDetail": "Contribute to testing of the end-to-end software solution to ensure a high-quality output",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8dc99ed2-908e-4249-a572-34d9e714661e",
         "cf5da639-3ef2-4369-ac87-2c24913dfa6f",
@@ -641,7 +641,7 @@
     {
       "dutyID": "f3e4a020-d8ef-461b-92f0-c4cb58ee9c50",
       "dutyDetail": " Support delivery of deployment phases, including trials and final release.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
@@ -667,7 +667,7 @@
     {
       "dutyID": "647dc391-ad0f-4e54-b225-3395b1fa135d",
       "dutyDetail": "Identify the need for a suitable 'bug fix', appropriate to the severity and priority of the issue identified.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8dc99ed2-908e-4249-a572-34d9e714661e",
         "cf5da639-3ef2-4369-ac87-2c24913dfa6f",
@@ -703,7 +703,7 @@
     {
       "dutyID": "bc423f6f-5be1-48f7-8427-ae113a0ff422",
       "dutyDetail": "Practice continuous guided self-learning to keep up to date with technological developments to enhancerelevant skills and take responsibility for own professional development",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "20bdb494-9ce6-4692-920c-76d3aca49eae",
         "0472b0d8-89e5-4adc-a2e3-3390b131b5ad"
