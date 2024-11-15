@@ -143,7 +143,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-05-13T00:00:00 +00:00",
@@ -158,10 +158,10 @@
   "coreAndOptions": false,
   "typicalJobTitles": [],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Science",
-  "cluster": "Science professional",
+  "cluster": "Science Professional",
   "clusterId": "213",
   "clusterDescription": "Define and lead science-based research projects to derive academic and applied information of value",
   "createdDate": "2024-01-11T14:28:28 +00:00",
@@ -201,7 +201,7 @@
     {
       "dutyID": "fc105dd7-d508-4397-81b9-8ee791a59171",
       "dutyDetail": "Lead, ensure and be responsible for science based projects. Manage/support, plan, design the running of appropriate activities and make decisions for improvements and next steps",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a456db45-25da-47b3-8b21-bc7fdaffa515",
         "7d5293be-30d0-4860-9893-9a1bba78a0df",
@@ -228,7 +228,7 @@
     {
       "dutyID": "e89cd83a-84b3-4664-b1a9-22266640ded3",
       "dutyDetail": " Lead experiments and ensuring that the appropriate processes are carried out",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "086d33d1-4505-4f7b-8372-908ef50af32b",
         "a456db45-25da-47b3-8b21-bc7fdaffa515",
@@ -256,7 +256,7 @@
     {
       "dutyID": "28df4175-4774-4735-8459-0fc52d165ee5",
       "dutyDetail": "Combine and compare data from diverse and complex sources (e.g. Literature, experimental data, external/internal contributors) to draw conclusions within a wider context",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7d5293be-30d0-4860-9893-9a1bba78a0df",
         "ef3ec500-baa0-4d02-9bd6-bdc9fe661202"
@@ -278,7 +278,7 @@
     {
       "dutyID": "c60c2538-0564-49a9-a5d3-97238abb3753",
       "dutyDetail": "Develop new and existing products, services and methods for organisational needs (e.g. development of a new active ingredient or measurement methodology using new equipment)",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "086d33d1-4505-4f7b-8372-908ef50af32b",
         "a456db45-25da-47b3-8b21-bc7fdaffa515",
@@ -307,7 +307,7 @@
     {
       "dutyID": "894aa032-2b1a-4479-aeae-b498744f358f",
       "dutyDetail": "Lead on the development of, and drive strategic plans within a scientific context and input to/suggest wider organisational strategy linked to their role",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "086d33d1-4505-4f7b-8372-908ef50af32b",
         "a456db45-25da-47b3-8b21-bc7fdaffa515",
@@ -339,7 +339,7 @@
     {
       "dutyID": "02bfd0b2-c7af-421d-ab66-1df4647654ca",
       "dutyDetail": "Effectively lead and manage communications (e.g. complex scientific information and organisational goals) with key stakeholders and other interested parties at all levels including specialist and non-specialist audiences, both internal and external to the organisation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "086d33d1-4505-4f7b-8372-908ef50af32b",
         "a456db45-25da-47b3-8b21-bc7fdaffa515",
@@ -366,7 +366,7 @@
     {
       "dutyID": "306deeb3-a792-430f-b34b-88910e160da9",
       "dutyDetail": "Advise on the development, critique and implement policies and protocols relating to health, safety, security and ethics.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "086d33d1-4505-4f7b-8372-908ef50af32b",
         "a456db45-25da-47b3-8b21-bc7fdaffa515",
@@ -393,7 +393,7 @@
     {
       "dutyID": "e2f8e147-bb19-4bc8-9965-21b91024b442",
       "dutyDetail": "Achieve goals in accordance with budget and finance targets and take account for financial implications within a wider commercial and organisational context",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "086d33d1-4505-4f7b-8372-908ef50af32b",
         "a456db45-25da-47b3-8b21-bc7fdaffa515",
@@ -422,7 +422,7 @@
     {
       "dutyID": "a9f2268b-3cc8-4067-a732-c934c629f66a",
       "dutyDetail": "Make decisions based on an understanding of the organisational and the wider business market (e.g. legal, technical, environmental, political and economic)",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a3cc705e-7fbc-4b8e-be3b-6621f145a744",
         "82341b77-0734-4bdf-8323-c4dd2e415f2c"
@@ -444,7 +444,7 @@
     {
       "dutyID": "630c96d5-76f6-4d31-b769-f7691b8ae0a2",
       "dutyDetail": "Carry out all data handling, processing and analysis, ensuring integrity with consideration of commercial practices and guidance including documentation, reproducibility regulated process and IP",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "086d33d1-4505-4f7b-8372-908ef50af32b",
         "82341b77-0734-4bdf-8323-c4dd2e415f2c"
@@ -467,7 +467,7 @@
     {
       "dutyID": "9017baee-699f-4b87-a957-47e6f0329571",
       "dutyDetail": "Provide leadership and specialist support and organise others in the work place to ensure projects meets the requirements of the organisational goals",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "086d33d1-4505-4f7b-8372-908ef50af32b",
         "7d5293be-30d0-4860-9893-9a1bba78a0df",
@@ -488,7 +488,7 @@
     {
       "dutyID": "e609c5e7-8295-4f6f-af0a-c943901a25e4",
       "dutyDetail": "Develop others through demonstration of best practice within the organisation by effective coaching, mentoring, teaching and training",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7d5293be-30d0-4860-9893-9a1bba78a0df",
         "82341b77-0734-4bdf-8323-c4dd2e415f2c",
@@ -509,7 +509,7 @@
     {
       "dutyID": "94514d8e-ec85-4e9e-af24-dac47fa7a967",
       "dutyDetail": "Identify and implement change management initiatives to meet the demands of technical and organisational requirements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "086d33d1-4505-4f7b-8372-908ef50af32b",
         "a456db45-25da-47b3-8b21-bc7fdaffa515",
