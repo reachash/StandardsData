@@ -168,7 +168,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-03-31T00:00:00 +00:00",
@@ -187,7 +187,7 @@
     "Tutor"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": null,
   "cluster": null,
@@ -205,7 +205,7 @@
     {
       "dutyID": "2911e14c-3106-4fff-98c2-447cbc5ae393",
       "dutyDetail": "Plan and conduct inclusive assessment using a range of assessment methods and approaches working within organisational, legal, and ethical frameworks, including confidentiality and safeguarding. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0a7c8885-113d-4356-8849-ee0637760ba7",
         "cebe6319-8c84-4036-8d16-d3363743e15a",
@@ -231,7 +231,7 @@
     {
       "dutyID": "539a3a9e-7858-409b-b9a8-da74bfef0708",
       "dutyDetail": "Use a range of communication methods to provide timely constructive feedback on assessment decisions to learners and where relevant, other stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0a7c8885-113d-4356-8849-ee0637760ba7",
         "cebe6319-8c84-4036-8d16-d3363743e15a",
@@ -253,7 +253,7 @@
     {
       "dutyID": "113f506a-7e06-4923-973e-281346e31516",
       "dutyDetail": "Participate in standardisation, moderation and quality assurance of assessment decisions to contribute to the quality assurance of own and others assessment practice and the organisations quality cycle.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0a7c8885-113d-4356-8849-ee0637760ba7",
         "cebe6319-8c84-4036-8d16-d3363743e15a",
@@ -275,7 +275,7 @@
     {
       "dutyID": "604e966f-da57-4a83-bc82-857c4fee9b31",
       "dutyDetail": "Develop and maintain current and accurate records of assessment plans and tracking of assessment decisions, using agreed communication methods to share with relevant stakeholder, recognising confidentiality and privacy.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0a7c8885-113d-4356-8849-ee0637760ba7",
         "cebe6319-8c84-4036-8d16-d3363743e15a",
@@ -296,7 +296,7 @@
     {
       "dutyID": "6be42b5c-3418-441e-9e98-54ad38c878a7",
       "dutyDetail": "Use assessment outcomes and data to support the ongoing setting of individual learning goals and progression toward timely achievement of intended outcomes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0a7c8885-113d-4356-8849-ee0637760ba7",
         "912e2c99-6f28-4a69-9784-80731754fda3",
@@ -325,7 +325,7 @@
     {
       "dutyID": "76885243-2dea-4e79-8cfe-bd887bcde321",
       "dutyDetail": "Provide information, advice and guidance, working within own professional boundaries and recognising requirements for referral to other professional services where required.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0a7c8885-113d-4356-8849-ee0637760ba7",
         "1f5cb930-58b6-4af8-b7b5-d7278e3c2bfe",
@@ -343,7 +343,7 @@
     {
       "dutyID": "52a61223-301a-4625-b674-086ab5dafa84",
       "dutyDetail": "Recognise the role of holistic assessment in supporting the development of wider skills for the learner. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0a7c8885-113d-4356-8849-ee0637760ba7",
         "1f5cb930-58b6-4af8-b7b5-d7278e3c2bfe",
@@ -364,7 +364,7 @@
     {
       "dutyID": "348ba2b7-6374-4b10-89cd-77235c419871",
       "dutyDetail": "Make sustainably informed decisions in approaches used to plan, conduct, record and evaluate assessment activities. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0a7c8885-113d-4356-8849-ee0637760ba7",
         "cebe6319-8c84-4036-8d16-d3363743e15a",
@@ -384,7 +384,7 @@
     {
       "dutyID": "5bc51fed-328d-451d-8905-05674c9f468e",
       "dutyDetail": "Undertake and maintain records of continual professional development activities in their sector to maintain occupational competency, including sustainable practice and digital literacy.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0a7c8885-113d-4356-8849-ee0637760ba7",
         "cebe6319-8c84-4036-8d16-d3363743e15a",
