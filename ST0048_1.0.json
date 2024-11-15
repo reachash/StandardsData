@@ -138,7 +138,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-09-06T00:00:00 +00:00",
@@ -175,7 +175,7 @@
     {
       "dutyID": "cc75a828-bf8a-45cf-a414-c8644287d413",
       "dutyDetail": "Supervision of specialist contractors",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -185,7 +185,7 @@
     {
       "dutyID": "1103ccff-4065-4edc-a829-961dcac5ca5c",
       "dutyDetail": "The control of health and safety standards on construction projects",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -195,7 +195,7 @@
     {
       "dutyID": "0ed5ea0c-1070-4f6d-83d8-b7f8912003df",
       "dutyDetail": "Recording, control and reporting of progress on a construction project",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -205,7 +205,7 @@
     {
       "dutyID": "1d8d2373-027b-42e1-8f0b-4d177bf7b9dd",
       "dutyDetail": "The minimisation of the environmental impact of construction projects",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -215,7 +215,7 @@
     {
       "dutyID": "bd48dbd8-3efb-4b99-bbd9-9abb0876ce36",
       "dutyDetail": "Control of quality of works on a construction project",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -225,7 +225,7 @@
     {
       "dutyID": "2c6e03c2-d2c5-4f99-99c2-114f27d2a4ab",
       "dutyDetail": "Assisting commercial staff with the monitoring of costs on a construction project",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
