@@ -289,7 +289,7 @@
     "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-02-27T00:00:00 +00:00",
@@ -311,7 +311,7 @@
     "Workshop/carpentry/metalwork/draughting assistant"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Production arts assistant",
@@ -329,7 +329,7 @@
     {
       "dutyID": "730c5457-27c3-4f50-8fc1-04994032bad1",
       "dutyDetail": "Collaborate with the set designer(s) and/or other team members to understand, to accurately interpret and communicate a designer’s vision for example the scale of an object, to other stakeholders and team members. This may include offering alternative suggestions to the designer about materials for example",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "794c94c7-6fc8-4e4d-bc1d-5a7c6e28e549",
         "e15475d3-4f95-484b-a780-79bcdf6ab422",
@@ -366,7 +366,7 @@
     {
       "dutyID": "0f0f4b1b-0b7e-46fd-b63a-4e65d015452d",
       "dutyDetail": "Produce two-dimensional construction drawings, using CAD for example, which show the plan and elevation of the object, materials and dimensions of simple scenic elements for example flats, lay them on a paper sheet in order to print them to the correct scale for the metal worker or carpenter to work from",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "794c94c7-6fc8-4e4d-bc1d-5a7c6e28e549",
         "e15475d3-4f95-484b-a780-79bcdf6ab422",
@@ -408,7 +408,7 @@
     {
       "dutyID": "316c0928-7d7b-46df-9465-a8af4020f212",
       "dutyDetail": "Using more complex construction drawings i.e. a greater number of elements or complex isometrics/geometry, manufacture the designer’s vision to meet the required specification",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "794c94c7-6fc8-4e4d-bc1d-5a7c6e28e549",
         "e15475d3-4f95-484b-a780-79bcdf6ab422",
@@ -448,7 +448,7 @@
     {
       "dutyID": "acf5db71-a986-488a-82d7-e54cfb601fc6",
       "dutyDetail": "Measure, cut, grind, drill and weld metal components to safely create scenic structures and frameworks",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "794c94c7-6fc8-4e4d-bc1d-5a7c6e28e549",
         "e15475d3-4f95-484b-a780-79bcdf6ab422",
@@ -501,7 +501,7 @@
     {
       "dutyID": "01c5e41e-4004-437e-9b96-65d376502b7c",
       "dutyDetail": "Measure, cut and drill wood components, using appropriate tools, equipment and materials as well as using a range of fixing methods (for example glue and screw), to safely create scenic structures and frameworks",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "794c94c7-6fc8-4e4d-bc1d-5a7c6e28e549",
         "e15475d3-4f95-484b-a780-79bcdf6ab422",
@@ -552,7 +552,7 @@
     {
       "dutyID": "9b5937aa-00b5-43ee-9e1a-a04b65a4c84e",
       "dutyDetail": "Measure, cut, fix and construct components, using sustainable materials which may include paper-based materials, using appropriate tools, equipment and materials as well as using a range of fixing and construction methods (for example hot glue and interlocking joints and folds), to safely create scenic structures and frameworks",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "794c94c7-6fc8-4e4d-bc1d-5a7c6e28e549",
         "e15475d3-4f95-484b-a780-79bcdf6ab422",
@@ -602,7 +602,7 @@
     {
       "dutyID": "f5a2a94e-3306-4ef2-b953-2b64dffaa87e",
       "dutyDetail": "Apply, bond or fix range of materials for example fabric or plastic on to wooden and/or metal structures, using mechanical or chemical fixings for example nails, screws, tape, adhesives",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "794c94c7-6fc8-4e4d-bc1d-5a7c6e28e549",
         "e15475d3-4f95-484b-a780-79bcdf6ab422",
@@ -659,7 +659,7 @@
     {
       "dutyID": "7614f29b-d62b-4714-802d-0cb119e067ad",
       "dutyDetail": "Assess, plan, move, load and secure large scenic elements for example heavy, large, awkward, unbalanced objects, safely using the appropriate tools, techniques and equipment between different internal/external spaces, in accordance with lifting plans, risk assessments and method statements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "794c94c7-6fc8-4e4d-bc1d-5a7c6e28e549",
         "e15475d3-4f95-484b-a780-79bcdf6ab422",
@@ -693,7 +693,7 @@
     {
       "dutyID": "bb514f42-ae09-4bec-b3c8-25ce21fa4963",
       "dutyDetail": "Assemble individual scenic elements into completed structures either in the workshop or as part of an installation taking in to account the logistical parameters of the environment",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "794c94c7-6fc8-4e4d-bc1d-5a7c6e28e549",
         "e15475d3-4f95-484b-a780-79bcdf6ab422",
@@ -737,7 +737,7 @@
     {
       "dutyID": "5f5513b1-b25b-43ef-b4b8-c884307f4b15",
       "dutyDetail": "Undertake routine repairs and maintenance to tools and equipment for example replace saw blades, in accordance with policies and procedures, risk assessments and manufacturers’ instructions and ensure they are correctly stored",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "8c395b2b-3108-4ffd-83c8-fd30d2d5db66",
@@ -755,7 +755,7 @@
     {
       "dutyID": "46b350d5-09af-4f62-a66f-c569d7534c84",
       "dutyDetail": "Undertake repairs and maintenance of sets, sympathetic to the designers brief, during and after performances as required to return them to the original design ensuring visual and structural integrity.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "794c94c7-6fc8-4e4d-bc1d-5a7c6e28e549",
         "e15475d3-4f95-484b-a780-79bcdf6ab422",
