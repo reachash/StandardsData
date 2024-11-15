@@ -681,7 +681,7 @@
     "Orthodontic therapist"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
   "cluster": "Health practitioner",
@@ -715,7 +715,7 @@
     {
       "dutyID": "d78d82db-3566-4db8-84b4-7851e6bb672e",
       "dutyDetail": "Undertake routine orthodontic therapy procedures and tasks relevant to the assessment and diagnosis of patients.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60bf7fb4-c8a1-42da-b68f-6c1f72d9af55",
         "96a16c86-88ed-4ce9-a258-af49791928fe",
@@ -759,7 +759,7 @@
     {
       "dutyID": "ecd90f23-779a-4aa3-aad6-c3dd2520a54c",
       "dutyDetail": "Undertake routine orthodontic therapy procedures and tasks relevant to treatment planning, patient management and onward referral of patients.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60bf7fb4-c8a1-42da-b68f-6c1f72d9af55",
         "96a16c86-88ed-4ce9-a258-af49791928fe",
@@ -802,7 +802,7 @@
     {
       "dutyID": "0dd2cc37-1c83-4032-a805-a4176eb13c2f",
       "dutyDetail": "Undertake routine orthodontic therapy procedures and tasks relevant to orthodontic treatment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60bf7fb4-c8a1-42da-b68f-6c1f72d9af55",
         "96a16c86-88ed-4ce9-a258-af49791928fe",
@@ -830,7 +830,7 @@
     {
       "dutyID": "e069c6b2-4c53-43e6-8a63-23eb52d09f7b",
       "dutyDetail": "Communicate effectively, maintaining confidentiality and records appropriately.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60bf7fb4-c8a1-42da-b68f-6c1f72d9af55",
         "96a16c86-88ed-4ce9-a258-af49791928fe",
@@ -862,7 +862,7 @@
     {
       "dutyID": "da76b303-2c14-486f-9cd0-ece11e7eb13c",
       "dutyDetail": "Provide professional leadership within the team working in partnership with patients, dental teams, other health and social care professionals.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60bf7fb4-c8a1-42da-b68f-6c1f72d9af55",
         "96a16c86-88ed-4ce9-a258-af49791928fe",
@@ -900,7 +900,7 @@
     {
       "dutyID": "8e005cd7-ef64-4124-a134-26ad4d7e2ca4",
       "dutyDetail": "Practise as an autonomous professional exercising judgement and integrity, keeping within the scope of practice and the legal and ethical boundaries of the profession.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60bf7fb4-c8a1-42da-b68f-6c1f72d9af55",
         "96a16c86-88ed-4ce9-a258-af49791928fe",
@@ -940,7 +940,7 @@
     {
       "dutyID": "c1f29e8f-a43d-40ef-b34e-ea8a97964b8b",
       "dutyDetail": "Practise in a non-discriminatory and inclusive manner recognising the impact of culture, equality and diversity.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60bf7fb4-c8a1-42da-b68f-6c1f72d9af55",
         "96a16c86-88ed-4ce9-a258-af49791928fe",
@@ -967,7 +967,7 @@
     {
       "dutyID": "fbd015b4-cd99-4773-843f-4bbc47949fa9",
       "dutyDetail": "Promote oral health to individuals and the wider population and raise awareness of its role in preventing ill health amongst communities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60bf7fb4-c8a1-42da-b68f-6c1f72d9af55",
         "96a16c86-88ed-4ce9-a258-af49791928fe",
@@ -1003,7 +1003,7 @@
     {
       "dutyID": "1e82b79f-4e30-44f7-8532-5e98259d5366",
       "dutyDetail": "Reflect on, review and develop the quality of own practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60bf7fb4-c8a1-42da-b68f-6c1f72d9af55",
         "96a16c86-88ed-4ce9-a258-af49791928fe",
@@ -1042,7 +1042,7 @@
     {
       "dutyID": "00bce7f1-98f7-4c39-ad40-bb6c4af60470",
       "dutyDetail": "Manage own health and well-being and promote the well-being of others in the team.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "60bf7fb4-c8a1-42da-b68f-6c1f72d9af55",
         "96a16c86-88ed-4ce9-a258-af49791928fe",
