@@ -296,7 +296,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-03-07T00:00:00 +00:00",
@@ -335,7 +335,7 @@
     {
       "dutyID": "681e243a-9560-4ea3-a1e7-b9505cdc908b",
       "dutyDetail": "Plan community based schedules and arrange sessions with stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -345,7 +345,7 @@
     {
       "dutyID": "4868b88c-9f76-4116-903d-a5f797c5274e",
       "dutyDetail": "Prepare the clinical equipment and records for each session.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -355,7 +355,7 @@
     {
       "dutyID": "ca918e00-aa71-4174-8093-a62a9a784501",
       "dutyDetail": "Prepare and maintain a clinical environment, infection control and prevention and prepare, mix and handle bio-materials on site –ie in the community setting.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -365,7 +365,7 @@
     {
       "dutyID": "972c0c8b-d00c-429e-9f1e-c11781d778dd",
       "dutyDetail": "Check people’s mouths to take dental bacterial plaque indices and food debris scores.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -375,7 +375,7 @@
     {
       "dutyID": "d98b79a8-a9cb-4cd8-a917-04536ceeaac1",
       "dutyDetail": "Use the dentist’s prescription to apply topical fluoride in the mouth.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -385,7 +385,7 @@
     {
       "dutyID": "7f9c3dc7-d14b-4aad-a730-b7033b4add72",
       "dutyDetail": "Take clinical photographs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -395,7 +395,7 @@
     {
       "dutyID": "1493befe-292f-42dd-b11b-397d1e072b99",
       "dutyDetail": "Teach people how to carryout personal care tasks eg assist someone to brush their teeth or keep their mouth clean and fresh.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -405,7 +405,7 @@
     {
       "dutyID": "58500459-ab14-4640-8f97-684d1ea70a7d",
       "dutyDetail": "Carry out general health screening activities eg finger-prick blood tests to check for diabetes or take blood pressure",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -415,7 +415,7 @@
     {
       "dutyID": "0fa72105-dd43-4ba9-a971-6dfdf8249b47",
       "dutyDetail": "Offer information, advice and guidance to people about their oral health and how to clean and maintain their teeth, gums and mouth.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -425,7 +425,7 @@
     {
       "dutyID": "5fa6fc53-391b-4088-90c0-c898fc9dae13",
       "dutyDetail": "Give motivational sessions to support behaviour change and motivate people eg to give up tobacco or improve their diet to support their oral health and t their overall health and wellbeing.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -435,7 +435,7 @@
     {
       "dutyID": "26d6aee1-9fde-4e3f-b25a-94aad9723956",
       "dutyDetail": "Refer people to a dentist or other dental health practitioner as required.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -445,7 +445,7 @@
     {
       "dutyID": "55c902ab-9ce4-4cd7-8d79-d5e5f0a93b3d",
       "dutyDetail": "Signpost people to other health professionals.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
