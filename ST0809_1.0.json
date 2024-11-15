@@ -186,7 +186,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-05-13T00:00:00 +00:00",
@@ -215,7 +215,7 @@
   "greenJobTitles": [
     "Sustainability coach"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Human Resources",
   "cluster": "Human resources manager",
@@ -252,7 +252,7 @@
     {
       "dutyID": "57f8e442-22d7-4555-8d6a-d1007c6b7495",
       "dutyDetail": "Plan, conduct and record coaching needs analyses to inform their coaching practice, coaching strategy and the organisation's coaching culture",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "46b99312-84c9-4ad9-b6b0-2e8b5966c97d"
       ],
@@ -275,7 +275,7 @@
     {
       "dutyID": "84172701-041a-4c81-aab4-cc5113f40278",
       "dutyDetail": "Agree and develop coaching contracts with all the relevant parties that also consider ethical issues in coaching and boundaries.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e61d74a9-8248-490d-80f8-ac1ef443ad4d"
       ],
@@ -307,7 +307,7 @@
     {
       "dutyID": "d644e91c-95b6-468d-b5e9-2bbd863a673e",
       "dutyDetail": "Deliver effective and responsive coaching sessions, ensuring they reflect boundaries and professional requirements and contribute towards wider objectives, such as embedding an organisation's values, improving workplace resilience, the impacts of climate change and sustainability on the organisation and professional requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e61d74a9-8248-490d-80f8-ac1ef443ad4d",
         "baa782c4-76c4-4232-bf14-fc8b445fabcf"
@@ -345,7 +345,7 @@
     {
       "dutyID": "0080e831-7cf5-4080-bdc4-cd47fed82de4",
       "dutyDetail": "Select and use a suitable variety of coaching tools and techniques and/or psychometrics to challenge/support, analyse and enable learning and insights, such as awareness of others' perspectives to increase team functioning and accountability",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3f050d44-a20d-497e-8a74-4aba6f0311fa",
         "baa782c4-76c4-4232-bf14-fc8b445fabcf"
@@ -375,7 +375,7 @@
     {
       "dutyID": "b37aa6bc-697b-4b5a-b421-ca6ac4e89377",
       "dutyDetail": "Review and interpret coaching needs analyses, identifying when coaching is / isn’t appropriate, and signpost those receiving coaching to other professional services when needed to complement or replace the coaching process, such as mental health professionals, charities, substance abuse support organisations, occupational health",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e61d74a9-8248-490d-80f8-ac1ef443ad4d",
         "baa782c4-76c4-4232-bf14-fc8b445fabcf"
@@ -403,7 +403,7 @@
     {
       "dutyID": "2b252003-5be9-435d-8d51-31c818a7f3bc",
       "dutyDetail": "Provide support to those receiving coaching in the definition and delivery of valid goals, through clearly defined and committed to actions, within the context of the cultures and systems within which those receiving coaching operate, and facilitate challenge to those systems where appropriate",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "13284752-8cb5-468c-9656-affe17f58aa6",
@@ -424,7 +424,7 @@
     {
       "dutyID": "f7c5fd1c-cfde-4731-8609-de125d275063",
       "dutyDetail": "Design coaching interventions that frame, challenge and meet the agreed objectives in the coaching contract and conform to the coaching sponsor’s objectives and constraints, including budget considerations",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e61d74a9-8248-490d-80f8-ac1ef443ad4d",
         "baa782c4-76c4-4232-bf14-fc8b445fabcf"
@@ -459,7 +459,7 @@
     {
       "dutyID": "b81006b4-8f9b-4809-856d-d703162d77b8",
       "dutyDetail": "Evaluate the effectiveness of coaching interactions for the purposes of quality assurance, self-development for the coach and to measure return on investment (including being a recipient of regular coach supervision, and recording CPD, coaching hours, feedback and reflection, while ensuring confidentiality)",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e61d74a9-8248-490d-80f8-ac1ef443ad4d",
         "46b99312-84c9-4ad9-b6b0-2e8b5966c97d"
@@ -482,7 +482,7 @@
     {
       "dutyID": "3111f70a-f199-4d58-adde-d248d49d37ec",
       "dutyDetail": "Maintain records of coaching practice including the logging of coaching hours, supervision, recording CPD and maintaining logs of practice",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e61d74a9-8248-490d-80f8-ac1ef443ad4d",
         "46b99312-84c9-4ad9-b6b0-2e8b5966c97d"
