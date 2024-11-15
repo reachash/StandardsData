@@ -254,7 +254,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-02-03T00:00:00 +00:00",
@@ -276,7 +276,7 @@
     "employers and functions"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Management and Administration",
   "cluster": "Business manager",
@@ -294,7 +294,7 @@
     {
       "dutyID": "9dcee50d-66c9-4bf9-9074-9c5bb7a11b11",
       "dutyDetail": "Receive, validate, manage and store information, both digital and hard copy throughout all stages of a project or asset",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf82dd19-9282-417f-98da-cbdeb5a537fc",
         "c7211f68-8e89-4458-8770-0cd55c246a70",
@@ -330,7 +330,7 @@
     {
       "dutyID": "26751be5-9e0d-4a86-8e77-54f42948c502",
       "dutyDetail": "Deliver effective control of all digital and hard copy information recorded in the scope of a project",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf82dd19-9282-417f-98da-cbdeb5a537fc",
         "24d330ab-7e7e-4e61-9d08-d7c1cfafbb75",
@@ -367,7 +367,7 @@
     {
       "dutyID": "223c3673-2b6d-4f28-9ce0-5dd7a86aa748",
       "dutyDetail": "Distribute information accurately and securely to required internal and external recipients within a project team",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf82dd19-9282-417f-98da-cbdeb5a537fc",
         "c7211f68-8e89-4458-8770-0cd55c246a70",
@@ -401,7 +401,7 @@
     {
       "dutyID": "8fbb00cd-42a3-4b88-8b6f-93effdc8eb38",
       "dutyDetail": " Ensure the security, including cyber security of all information disseminated and stored",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf82dd19-9282-417f-98da-cbdeb5a537fc",
         "24d330ab-7e7e-4e61-9d08-d7c1cfafbb75",
@@ -437,7 +437,7 @@
     {
       "dutyID": "9a1f7183-d41e-4881-8b15-eca310ee7f81",
       "dutyDetail": "Produce timely reports on the project information which is being managed, including appropriate metrics and forecasts in required formats",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf82dd19-9282-417f-98da-cbdeb5a537fc",
         "2946e113-024f-434f-9656-cec37ce56a44",
@@ -467,7 +467,7 @@
     {
       "dutyID": "4d195772-9cfc-43b5-ba38-94d76080bc4d",
       "dutyDetail": "Establish and implement systems for the management, sharing and storage of project information according to required protocols throughout the lifecycle of the project",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf82dd19-9282-417f-98da-cbdeb5a537fc",
         "2946e113-024f-434f-9656-cec37ce56a44",
@@ -506,7 +506,7 @@
     {
       "dutyID": "abf6c8d3-9b0f-4cd9-b283-18e7b6fe541d",
       "dutyDetail": "Ensure all relevant parties are compliant with information management protocols and procedures and address any non-compliance",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf82dd19-9282-417f-98da-cbdeb5a537fc",
         "1dc0178f-5e30-44c3-8ede-557a634d553c",
@@ -546,7 +546,7 @@
     {
       "dutyID": "eeca01ed-3be4-4fb8-81c9-4f4cfa99c9c9",
       "dutyDetail": "Collaborate with IT to ensure the simplification of systems and work methods that are fit for purpose and efficient",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf82dd19-9282-417f-98da-cbdeb5a537fc",
         "2946e113-024f-434f-9656-cec37ce56a44",
@@ -572,7 +572,7 @@
     {
       "dutyID": "419f7eb0-fbdf-4907-a45f-c68dff4a84b8",
       "dutyDetail": "Line manage and lead staff assigned according to required policies and procedures",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf82dd19-9282-417f-98da-cbdeb5a537fc",
         "2946e113-024f-434f-9656-cec37ce56a44",
@@ -605,7 +605,7 @@
     {
       "dutyID": "f0e4d418-f4b8-4117-be2c-2e857e9dff34",
       "dutyDetail": "Provide training on all aspects of information management to all stakeholders across the project",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf82dd19-9282-417f-98da-cbdeb5a537fc",
         "1dc0178f-5e30-44c3-8ede-557a634d553c",
@@ -640,7 +640,7 @@
     {
       "dutyID": "3ffaae56-bd49-452c-bc4a-1a3461b33299",
       "dutyDetail": "Manage delegated budgets within agreed project tolerances",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf82dd19-9282-417f-98da-cbdeb5a537fc",
         "24d330ab-7e7e-4e61-9d08-d7c1cfafbb75",
@@ -673,7 +673,7 @@
     {
       "dutyID": "3b3e58a9-4bf5-40b3-960b-3af331969f32",
       "dutyDetail": "Prepare and provide future resource planning for the information management requirements of a project",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf82dd19-9282-417f-98da-cbdeb5a537fc",
         "24d330ab-7e7e-4e61-9d08-d7c1cfafbb75",
@@ -711,7 +711,7 @@
     {
       "dutyID": "dacb27f5-60d3-429b-b2a1-9f32863985e1",
       "dutyDetail": "Deliver continuous quality improvement for the safe and secure management of project information",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf82dd19-9282-417f-98da-cbdeb5a537fc",
         "24d330ab-7e7e-4e61-9d08-d7c1cfafbb75",
@@ -756,7 +756,7 @@
     {
       "dutyID": "1a749d82-17f3-4506-aefd-a29e0c2483bc",
       "dutyDetail": "Close projects and hand over information to the client in a manner that supports the future management of the asset, in line with project timescales and quality requirements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf82dd19-9282-417f-98da-cbdeb5a537fc",
         "24d330ab-7e7e-4e61-9d08-d7c1cfafbb75",
@@ -785,7 +785,7 @@
     {
       "dutyID": "31450f22-9b29-4f9c-bbba-76e1b9bed91f",
       "dutyDetail": "Prepare and provide reports, analysis and forecasting as required",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bf82dd19-9282-417f-98da-cbdeb5a537fc",
         "24d330ab-7e7e-4e61-9d08-d7c1cfafbb75",
