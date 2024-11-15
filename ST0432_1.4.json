@@ -211,7 +211,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-11-20T00:00:00 +00:00",
@@ -233,7 +233,7 @@
     "Pipe fitter"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing and process operative or technician",
@@ -267,7 +267,7 @@
     {
       "dutyID": "8f0e2c65-db10-4512-a9d5-36f07c1fcb6f",
       "dutyDetail": "Interpreting and following drawings or diagrams or specifications for required component or assembly.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2f4eceaa-cf2e-4d28-bef5-7b87afe5b0ae",
         "0603b599-0b78-4066-87c2-5ee776b6383d",
@@ -311,7 +311,7 @@
     {
       "dutyID": "497e4090-1242-4779-a91b-dda6cd9363f6",
       "dutyDetail": "Planning work activity, including resources, equipment and tooling.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2f4eceaa-cf2e-4d28-bef5-7b87afe5b0ae",
         "0603b599-0b78-4066-87c2-5ee776b6383d",
@@ -360,7 +360,7 @@
     {
       "dutyID": "0955ae21-5654-4a35-8e13-e8521240c7b7",
       "dutyDetail": "Producing individual components, for example keys, pipework, threading, wiring looms, interfacing parts, motors, wiring cables.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2f4eceaa-cf2e-4d28-bef5-7b87afe5b0ae",
         "0603b599-0b78-4066-87c2-5ee776b6383d",
@@ -408,7 +408,7 @@
     {
       "dutyID": "3cc8e455-5fe4-42ae-b693-b9ad6263a7e1",
       "dutyDetail": "Re-furbishing components.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2f4eceaa-cf2e-4d28-bef5-7b87afe5b0ae",
         "0603b599-0b78-4066-87c2-5ee776b6383d",
@@ -456,7 +456,7 @@
     {
       "dutyID": "d553f52f-29fd-4683-a947-6c315d63a02b",
       "dutyDetail": "Assembling components to produce equipment, machine or system - in full or part.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2f4eceaa-cf2e-4d28-bef5-7b87afe5b0ae",
         "0603b599-0b78-4066-87c2-5ee776b6383d",
@@ -504,7 +504,7 @@
     {
       "dutyID": "23610133-6ed1-4b7a-a05b-cdcf2f5d455b",
       "dutyDetail": "Quality checking and adjusting components or assembly against required specification; for example testing and calibrating.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2f4eceaa-cf2e-4d28-bef5-7b87afe5b0ae",
         "0603b599-0b78-4066-87c2-5ee776b6383d",
@@ -550,7 +550,7 @@
     {
       "dutyID": "0a935b33-41bb-4a17-a508-dc294740bfce",
       "dutyDetail": "Identifying and resolving problems with components or assembly; fault diagnosis.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2f4eceaa-cf2e-4d28-bef5-7b87afe5b0ae",
         "0603b599-0b78-4066-87c2-5ee776b6383d",
@@ -599,7 +599,7 @@
     {
       "dutyID": "44d4dc94-005c-4505-b206-e0734d2de9d2",
       "dutyDetail": "Handing over completed components or assembly, this may include storage and commissioning.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2f4eceaa-cf2e-4d28-bef5-7b87afe5b0ae",
         "0603b599-0b78-4066-87c2-5ee776b6383d",
@@ -638,7 +638,7 @@
     {
       "dutyID": "ba35c393-f996-4e2a-b2b5-0b7c0fd93da2",
       "dutyDetail": "Re-instating work area and equipment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2f4eceaa-cf2e-4d28-bef5-7b87afe5b0ae",
         "0603b599-0b78-4066-87c2-5ee776b6383d",
@@ -677,7 +677,7 @@
     {
       "dutyID": "3e7f7df5-99f8-45e1-9823-af29fc5ecf85",
       "dutyDetail": "Contributing to continuous improvement in component production or assembly.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2f4eceaa-cf2e-4d28-bef5-7b87afe5b0ae",
         "0603b599-0b78-4066-87c2-5ee776b6383d",
