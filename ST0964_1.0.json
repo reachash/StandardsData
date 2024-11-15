@@ -245,7 +245,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-05-11T00:00:00 +00:00",
@@ -265,7 +265,7 @@
     "Product manager"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Production, Design and Development",
   "cluster": "Software development advanced technician",
@@ -283,7 +283,7 @@
     {
       "dutyID": "bd92759d-8873-4a6b-b7d5-ed4d5c361885",
       "dutyDetail": "Engage teams and stakeholders to develop a compelling vision and strategy for your product, and communicate these over the short and long-term",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "14cfa447-6ba6-4ca8-8c50-6e989ba0994d",
         "4271468b-30d2-4251-aad7-ffc578cafd58",
@@ -318,7 +318,7 @@
     {
       "dutyID": "1ccb11a7-fd5b-4682-b711-3cbfd0f423a2",
       "dutyDetail": "Prioritise the delivery of value delivered through digital products or services to users whilst balancing competing priorities and constraints ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "14cfa447-6ba6-4ca8-8c50-6e989ba0994d",
         "ac6add34-376d-48c4-ad44-c7870760dbef",
@@ -360,7 +360,7 @@
     {
       "dutyID": "4ef77800-cba9-4e82-b887-780d6754eefb",
       "dutyDetail": "Through your supporting of a multi-disciplinary team, you will represent users throughout the product lifecycle phases",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "77572cac-e11f-4347-848b-55a7dfe432f9",
         "aec1857a-5a84-4ec2-b2fa-becf72ad875d"
@@ -383,7 +383,7 @@
     {
       "dutyID": "59bd2201-b5ed-45d5-8343-0f83ac20b01a",
       "dutyDetail": "Develop and prioritise the product backlog, creating user stories and making decisions based on evidence",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ac6add34-376d-48c4-ad44-c7870760dbef",
         "77572cac-e11f-4347-848b-55a7dfe432f9",
@@ -425,7 +425,7 @@
     {
       "dutyID": "5c501273-bca7-40cc-97d3-1a16d00da497",
       "dutyDetail": "Engage with a variety of stakeholders, flexing your style as appropriate",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "14cfa447-6ba6-4ca8-8c50-6e989ba0994d",
         "4271468b-30d2-4251-aad7-ffc578cafd58",
@@ -450,7 +450,7 @@
     {
       "dutyID": "3e170fce-7068-4db8-8663-8c3c67d4a1f2",
       "dutyDetail": "Develop an expert understanding of the users’ needs and champion these in the delivery of your product",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ac6add34-376d-48c4-ad44-c7870760dbef",
         "77572cac-e11f-4347-848b-55a7dfe432f9",
@@ -477,7 +477,7 @@
     {
       "dutyID": "5315659d-dfc4-4a75-af60-780f63308a88",
       "dutyDetail": "Engage with users and stakeholders through a range of channels to encourage take-up and use of your product",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "14cfa447-6ba6-4ca8-8c50-6e989ba0994d",
         "4271468b-30d2-4251-aad7-ffc578cafd58"
@@ -503,7 +503,7 @@
     {
       "dutyID": "b2bfda6a-0703-4068-b72e-e5e8e90e5ede",
       "dutyDetail": "Set measurable goals for your product and report against these to demonstrate progress against benefits",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4271468b-30d2-4251-aad7-ffc578cafd58",
         "aec1857a-5a84-4ec2-b2fa-becf72ad875d"
@@ -532,7 +532,7 @@
     {
       "dutyID": "bea8468c-de02-4e19-ac8f-bfde24301169",
       "dutyDetail": "Support the vision, roadmaps and delivery of other products in your area of work",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "14cfa447-6ba6-4ca8-8c50-6e989ba0994d",
         "4271468b-30d2-4251-aad7-ffc578cafd58",
@@ -560,7 +560,7 @@
     {
       "dutyID": "27d60a8e-f757-4fff-a318-55a3759bee15",
       "dutyDetail": "Play an active role in product manager communities sharing your learning and celebrating progress made by other people and teams",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ac6add34-376d-48c4-ad44-c7870760dbef",
         "77572cac-e11f-4347-848b-55a7dfe432f9",
@@ -581,7 +581,7 @@
     {
       "dutyID": "3def848e-849c-43c1-af1e-9122a0f014ed",
       "dutyDetail": "Seeking out appropriate feedback and using it to drive future improvements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ac6add34-376d-48c4-ad44-c7870760dbef",
         "aec1857a-5a84-4ec2-b2fa-becf72ad875d",
@@ -613,7 +613,7 @@
     {
       "dutyID": "c200ea11-25d1-48be-8998-99df9145edd4",
       "dutyDetail": "Seeking out and using best available data to make decisions",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ac6add34-376d-48c4-ad44-c7870760dbef",
         "aec1857a-5a84-4ec2-b2fa-becf72ad875d",
@@ -645,7 +645,7 @@
     {
       "dutyID": "e9a726c5-a91e-490d-9227-0283509b2c2e",
       "dutyDetail": "Working with and alongside all members of a multi-disciplinary team to get the best outcomes",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "14cfa447-6ba6-4ca8-8c50-6e989ba0994d",
         "ac6add34-376d-48c4-ad44-c7870760dbef",
