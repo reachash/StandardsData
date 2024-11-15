@@ -288,7 +288,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-06-22T00:00:00 +00:00",
@@ -305,12 +305,12 @@
     "Bricklayer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Onsite Construction",
   "cluster": "Core building tradesperson",
   "clusterId": "5",
-  "clusterDescription": null,
+  "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
   "createdDate": "2024-06-03T14:07:04 +00:00",
   "lastUpdated": "2023-08-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-06-22T00:00:00 +00:00",
@@ -323,7 +323,7 @@
     {
       "dutyID": "dadf5b29-1304-44ea-8f1c-00cf63fea140",
       "dutyDetail": "work in compliance with occupational health, safety and environmental requirements to ensure the health, safety and wellbeing of self and others at all times. Report in a timely manner any non-compliances against the construction programme to the appropriate person.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2a05cd00-982b-40bd-91cb-99b1b81338d4",
         "189e9f05-0f4a-4007-86b0-d5f9eafa4056",
@@ -356,7 +356,7 @@
     {
       "dutyID": "1e82fa04-674f-4fa3-b3ee-9c71b362d7d6",
       "dutyDetail": "carry out their work conforming to all current and relevant building regulations, quality standards and work instructions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2a05cd00-982b-40bd-91cb-99b1b81338d4",
         "36b8903c-3565-4b7a-a884-96cd599725fb",
@@ -403,7 +403,7 @@
     {
       "dutyID": "56475f9e-35bf-4463-adc2-4042dd20bf94",
       "dutyDetail": "work to the construction programme, adapting to changes in schedule and requirements where necessary.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2a05cd00-982b-40bd-91cb-99b1b81338d4",
         "36b8903c-3565-4b7a-a884-96cd599725fb",
@@ -430,7 +430,7 @@
     {
       "dutyID": "9426ed36-9354-45d2-8aef-303b818228d7",
       "dutyDetail": "prepare the work site including setting out the work and the selection of materials and tools appropriate to the project.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2a05cd00-982b-40bd-91cb-99b1b81338d4",
         "36b8903c-3565-4b7a-a884-96cd599725fb",
@@ -478,7 +478,7 @@
     {
       "dutyID": "0cd72100-61a9-4275-8227-f055ba86b93a",
       "dutyDetail": "use the appropriate tools and equipment to construct walls with brick and block to industry standards ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2a05cd00-982b-40bd-91cb-99b1b81338d4",
         "36b8903c-3565-4b7a-a884-96cd599725fb",
@@ -532,7 +532,7 @@
     {
       "dutyID": "ded5f456-a86f-48e4-9af4-3e234c5ed74c",
       "dutyDetail": "carry out minor repairs or modifications to masonry",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2a05cd00-982b-40bd-91cb-99b1b81338d4",
         "36b8903c-3565-4b7a-a884-96cd599725fb",
@@ -579,7 +579,7 @@
     {
       "dutyID": "5e14b0f5-cf2f-4edd-9c4c-1e960364a13e",
       "dutyDetail": "collaborate with stakeholders including clients and other construction trades",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2a05cd00-982b-40bd-91cb-99b1b81338d4",
         "36b8903c-3565-4b7a-a884-96cd599725fb",
@@ -607,7 +607,7 @@
     {
       "dutyID": "b5d69ca0-e1d0-4478-a9d9-3720401cdb2f",
       "dutyDetail": "maintain a clear and safe worksite at all times, disposing of waste appropriately and sustainably",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2a05cd00-982b-40bd-91cb-99b1b81338d4",
         "36b8903c-3565-4b7a-a884-96cd599725fb",
@@ -633,7 +633,7 @@
     {
       "dutyID": "fc29da3b-d487-4cab-8fc9-9f22e6e554ed",
       "dutyDetail": "carry out continuous professional development to maintain knowledge of current and future developments affecting the role",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2a05cd00-982b-40bd-91cb-99b1b81338d4",
         "36b8903c-3565-4b7a-a884-96cd599725fb",
@@ -661,7 +661,7 @@
     {
       "dutyID": "c7f5eb4a-c477-4320-98af-ba05a619b2c9",
       "dutyDetail": "receive, unload, move and lift materials to site for installation following good handling practices preventing injury or damage.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2a05cd00-982b-40bd-91cb-99b1b81338d4",
         "36b8903c-3565-4b7a-a884-96cd599725fb",
