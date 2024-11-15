@@ -211,7 +211,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-09-19T00:00:00 +00:00",
@@ -230,7 +230,7 @@
     "Sports turf operative"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Landscape horticulture operative or technician",
@@ -248,7 +248,7 @@
     {
       "dutyID": "442e425d-88bd-44cc-8bfe-6920017f46d4",
       "dutyDetail": "Undertake routine grounds preparation, maintenance, renovation, and general upkeep of all sports turf surfaces (e.g. natural turf, hybrid turf, artificial turf). ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3272d5f4-17c4-455d-8e43-bdba74923ea1",
         "299a5402-a346-41e5-90b7-5ac9389f7a28",
@@ -283,7 +283,7 @@
     {
       "dutyID": "e9a673d8-ae58-4794-a44b-72808e262597",
       "dutyDetail": "Prepare a surface for play in line with the relevant rules of each sport's national governing bodies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c1146d4c-77b6-470a-9a15-4abf8e753ca4"
       ],
@@ -311,7 +311,7 @@
     {
       "dutyID": "96c202b0-685d-4640-bdf4-d8f72239420b",
       "dutyDetail": "Prepare and establish ground for grassed areas for sport.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c1146d4c-77b6-470a-9a15-4abf8e753ca4"
       ],
@@ -339,7 +339,7 @@
     {
       "dutyID": "aa6d0f87-5251-4a18-82ef-a920e890379c",
       "dutyDetail": "Use machinery, equipment, and vehicles in accordance with organisational requirements, manufacturers’ instructions and Health and Safety legislation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c1146d4c-77b6-470a-9a15-4abf8e753ca4"
       ],
@@ -355,7 +355,7 @@
     {
       "dutyID": "30ad9068-ce87-4c22-9f48-c3c203f60810",
       "dutyDetail": "Identify and communicate faults with equipment and machinery to relevant personnel.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c1146d4c-77b6-470a-9a15-4abf8e753ca4",
         "36401acd-ce85-4bf5-be15-008795431087",
@@ -376,7 +376,7 @@
     {
       "dutyID": "990a85aa-785e-413e-a815-cbf88f307ef7",
       "dutyDetail": "Maintain the cleanliness of machinery, equipment, sports grounds, and work areas.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c1146d4c-77b6-470a-9a15-4abf8e753ca4"
       ],
@@ -392,7 +392,7 @@
     {
       "dutyID": "4c1d058b-7d8d-463f-a945-eb13d95fbab0",
       "dutyDetail": "Ensure a safe working environment and the adoption of safe working practices.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3272d5f4-17c4-455d-8e43-bdba74923ea1",
         "c1146d4c-77b6-470a-9a15-4abf8e753ca4",
@@ -414,7 +414,7 @@
     {
       "dutyID": "1b14d15d-1be7-4f3f-beec-0ee84fae42de",
       "dutyDetail": "Assist with the movement of equipment and materials, and their installation around the sports ground and playing areas. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "749f69d9-d4d4-4388-82fe-f76eca55bc34"
@@ -428,7 +428,7 @@
     {
       "dutyID": "fef9e0bd-9e2a-45ec-8bc9-ea612ca18a50",
       "dutyDetail": "Maintain effectiveness of sports turf irrigation and drainage systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "36401acd-ce85-4bf5-be15-008795431087"
       ],
@@ -447,7 +447,7 @@
     {
       "dutyID": "b359d1f5-c835-49ea-ab1b-11357da5f819",
       "dutyDetail": "Dispose of waste in accordance with organisational procedures, legal requirements and taking into account environmental sustainability.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "1a43515e-5ee9-40cc-929e-7a0c45fc2dca"
@@ -461,7 +461,7 @@
     {
       "dutyID": "40f9ee5e-9fe3-4ac8-973d-41a9bfeedd8e",
       "dutyDetail": "Identify and communicate incidence of sports turf weeds, pests, diseases, and disorders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c1146d4c-77b6-470a-9a15-4abf8e753ca4",
         "8418cd47-a185-48eb-b6a7-1716cf6ca929"
@@ -485,7 +485,7 @@
     {
       "dutyID": "2f5dd256-43ae-4bc9-84d4-b038ffb6207b",
       "dutyDetail": "Use integrated prevention and control methods to reduce the incidence of diseases, disorders, pests and weeds on turf.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "36401acd-ce85-4bf5-be15-008795431087"
       ],
@@ -508,7 +508,7 @@
     {
       "dutyID": "be42d996-4bde-4dbf-9893-f2279bca052e",
       "dutyDetail": "Mark out playing surfaces (including arcs and squaring off using the 3-4-5 method).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "1aa3ca17-9b23-482d-baf8-b4f247524cd8",
