@@ -267,7 +267,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-02-27T00:00:00 +00:00",
@@ -294,7 +294,7 @@
     "Sterile operations process operator"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Food and science manufacturing operative or technician",
@@ -312,7 +312,7 @@
     {
       "dutyID": "4a6d3306-b11e-435c-89ca-deebcc75b621",
       "dutyDetail": "Carry out process manufacturing operations using or operating plant or equipment in line with standard operating procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fbb13715-7cea-4b85-b377-9f60deca146c",
         "e800deb7-e6bd-4ea7-9def-d90fef45b72c",
@@ -353,7 +353,7 @@
     {
       "dutyID": "0fe8d3d1-e7c5-4a15-af2d-27346da25284",
       "dutyDetail": "Arrange and prepare materials for process activity.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fbb13715-7cea-4b85-b377-9f60deca146c",
         "e800deb7-e6bd-4ea7-9def-d90fef45b72c",
@@ -399,7 +399,7 @@
     {
       "dutyID": "c4de93f6-8d7c-466a-964f-8b7c442feb47",
       "dutyDetail": "Carry out pre-start checks of equipment and process before run or as part of handover responsibilities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fbb13715-7cea-4b85-b377-9f60deca146c",
         "5860dbb2-5a2f-47a5-970b-f640810becf3",
@@ -440,7 +440,7 @@
     {
       "dutyID": "cbafafa2-b59d-40d0-986d-d2ab41c7c517",
       "dutyDetail": "Monitor the process and resolve or escalate issues.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fbb13715-7cea-4b85-b377-9f60deca146c",
         "e800deb7-e6bd-4ea7-9def-d90fef45b72c",
@@ -486,7 +486,7 @@
     {
       "dutyID": "62f0b412-413c-44ba-971d-9b0ad32a9c42",
       "dutyDetail": "Contribute to quality control: conduct quality checks and escalate concerns.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fbb13715-7cea-4b85-b377-9f60deca146c",
         "5860dbb2-5a2f-47a5-970b-f640810becf3",
@@ -531,7 +531,7 @@
     {
       "dutyID": "f6821a77-1c66-429d-9716-7fc423b4c832",
       "dutyDetail": "Contribute to first-line maintenance, directly or through escalation. For example, equipment checks cleaning, and lubrication.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fbb13715-7cea-4b85-b377-9f60deca146c",
         "5860dbb2-5a2f-47a5-970b-f640810becf3",
@@ -569,7 +569,7 @@
     {
       "dutyID": "f05e0ad2-1769-4c9a-8e86-92335b73b83c",
       "dutyDetail": "Contribute to continuous improvement and problem-solving activities. For example, work as part of an improvement team, identify issues, and put ideas forward.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fbb13715-7cea-4b85-b377-9f60deca146c",
         "e800deb7-e6bd-4ea7-9def-d90fef45b72c",
@@ -617,7 +617,7 @@
     {
       "dutyID": "231fd389-cef5-4c40-8d3d-51402be89797",
       "dutyDetail": "Complete process work records - digital or paper, including traceability records. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fbb13715-7cea-4b85-b377-9f60deca146c",
         "5860dbb2-5a2f-47a5-970b-f640810becf3",
@@ -656,7 +656,7 @@
     {
       "dutyID": "0c9db430-eea0-4480-87ca-14d4dad2c036",
       "dutyDetail": "Contribute to maintaining own work area (housekeeping).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fbb13715-7cea-4b85-b377-9f60deca146c",
         "e800deb7-e6bd-4ea7-9def-d90fef45b72c",
@@ -692,7 +692,7 @@
     {
       "dutyID": "751046cc-9cb7-4acb-87fe-5f02e925ffb2",
       "dutyDetail": "Conduct change over or clean down activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fbb13715-7cea-4b85-b377-9f60deca146c",
         "e800deb7-e6bd-4ea7-9def-d90fef45b72c",
@@ -729,7 +729,7 @@
     {
       "dutyID": "e77d8ed2-0127-4ad5-b955-9380b6e8d170",
       "dutyDetail": "Carry out end of process activities. For example, finish, pack, discharge or move goods. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fbb13715-7cea-4b85-b377-9f60deca146c",
         "e800deb7-e6bd-4ea7-9def-d90fef45b72c",
