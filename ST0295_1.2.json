@@ -295,7 +295,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-06-22T00:00:00 +00:00",
@@ -313,7 +313,7 @@
     "Painter and Decorator"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Onsite Construction",
   "cluster": "Core building tradesperson",
@@ -331,7 +331,7 @@
     {
       "dutyID": "4f9dc64f-bc06-4b81-9fbc-04cb9499a2a9",
       "dutyDetail": "work in compliance with occupational health, safety and environmental requirements to ensure the health, safety and wellbeing of self and others at all times. Report in a timely manner any non-compliances.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d4affaa7-3d57-43c2-8cf5-cd6b2dffb8e9",
         "5739f825-7c1e-48af-af20-aeb8443d03db",
@@ -377,7 +377,7 @@
     {
       "dutyID": "88ee6dd0-0517-4900-bf7d-f16883257089",
       "dutyDetail": "carry out their work conforming to all current and relevant building regulations, quality standards and work instructions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d4affaa7-3d57-43c2-8cf5-cd6b2dffb8e9",
         "5739f825-7c1e-48af-af20-aeb8443d03db",
@@ -430,7 +430,7 @@
     {
       "dutyID": "d10d5fa7-da4a-4d1d-899c-8c8814b1f554",
       "dutyDetail": "work to the construction programme, adapting to changes in schedule and requirements where necessary.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d4affaa7-3d57-43c2-8cf5-cd6b2dffb8e9",
         "a81bc8c9-27d0-417d-bd65-0d5b8fc71248",
@@ -465,7 +465,7 @@
     {
       "dutyID": "a0a5f73e-8e7d-4d97-8bd7-4a7bbf821ee5",
       "dutyDetail": "prepare the work site including setting out the work and selecting materials, tools and equipment appropriate to the project.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d4affaa7-3d57-43c2-8cf5-cd6b2dffb8e9",
         "5739f825-7c1e-48af-af20-aeb8443d03db",
@@ -518,7 +518,7 @@
     {
       "dutyID": "042317da-54a3-42c8-b907-70e579c5eae3",
       "dutyDetail": "use the appropriate tools and equipment to prepare substrates and apply decorative materials to industry standards",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d4affaa7-3d57-43c2-8cf5-cd6b2dffb8e9",
         "a81bc8c9-27d0-417d-bd65-0d5b8fc71248"
@@ -569,7 +569,7 @@
     {
       "dutyID": "c5cb3021-a6b6-451f-bcc6-fc2e63827010",
       "dutyDetail": "carry out minor repairs or modifications to completed substrates/surfaces",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d4affaa7-3d57-43c2-8cf5-cd6b2dffb8e9",
         "a81bc8c9-27d0-417d-bd65-0d5b8fc71248",
@@ -614,7 +614,7 @@
     {
       "dutyID": "208dca8b-f10d-47c1-9505-a09b9311e8a2",
       "dutyDetail": "collaborate with stakeholders including clients, customers and other construction trades",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d4affaa7-3d57-43c2-8cf5-cd6b2dffb8e9",
         "a81bc8c9-27d0-417d-bd65-0d5b8fc71248",
@@ -650,7 +650,7 @@
     {
       "dutyID": "3b929957-0d79-40c6-907c-835f0ca3e379",
       "dutyDetail": "maintain a clear and safe worksite at all times, disposing of waste appropriately and sustainably",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d4affaa7-3d57-43c2-8cf5-cd6b2dffb8e9",
         "5739f825-7c1e-48af-af20-aeb8443d03db",
@@ -679,7 +679,7 @@
     {
       "dutyID": "f5f7e1ba-1dbf-4e17-8cd6-10fe5e3b77db",
       "dutyDetail": "carry out continuous professional development to maintain knowledge of current and future developments affecting the role",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5739f825-7c1e-48af-af20-aeb8443d03db",
         "e6fe9624-7878-425a-aa90-f0923a19b70d"
@@ -702,7 +702,7 @@
     {
       "dutyID": "dc619484-8e53-492a-82d2-4f76d093b1c5",
       "dutyDetail": "receive, unload, move, lift and store materials to site for application following good handling practices to prevent injury or damage.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d4affaa7-3d57-43c2-8cf5-cd6b2dffb8e9",
         "a81bc8c9-27d0-417d-bd65-0d5b8fc71248",
