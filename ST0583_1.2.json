@@ -414,7 +414,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-08-22T00:00:00 +00:00",
@@ -433,7 +433,7 @@
     "Mammography Associate"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
   "cluster": "Health practitioner",
@@ -451,7 +451,7 @@
     {
       "dutyID": "fc4972ef-b09c-4578-971e-cd2571cf132e",
       "dutyDetail": "Perform standard mammogram examinations using specialised mammographic equipment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
         "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
@@ -485,7 +485,7 @@
     {
       "dutyID": "e6433a3f-f2c6-48d0-b87b-80e9632cda8c",
       "dutyDetail": "Contribute to the identification and management of risks to self and others to maintain a safe and healthy working environment following local and national standards, policies, standard operating procedures, and protocols used in the workplace.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
         "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
@@ -520,7 +520,7 @@
     {
       "dutyID": "14c649f1-8fb4-413b-9d9a-e7ace6b7fec6",
       "dutyDetail": "Act within the limits of own competence and within agreed ways of working, following relevant legislation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
         "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
@@ -543,7 +543,7 @@
     {
       "dutyID": "ed0755de-663e-4598-bb55-7f002a676b1f",
       "dutyDetail": "Ensure image quality and the safe storage of images.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
         "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
@@ -566,7 +566,7 @@
     {
       "dutyID": "b6406a89-cace-4662-b8ae-d73fbb24c325",
       "dutyDetail": "Communicate complex sensitive information effectively with individuals, their families, carers and health and care professionals.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
         "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
@@ -593,7 +593,7 @@
     {
       "dutyID": "997fd6e8-d827-42ee-b83e-4900561baf69",
       "dutyDetail": "Ensure equipment and service meet quality control and assurance requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
         "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
@@ -616,7 +616,7 @@
     {
       "dutyID": "36badadd-558a-4eb8-bda6-f3900d0762c8",
       "dutyDetail": "Promote the health and wellbeing of individuals, acting on opportunities to educate and empower individuals to maximise their own health and well-being.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
         "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
@@ -638,7 +638,7 @@
     {
       "dutyID": "be4ffe0b-a39a-4e4c-8f46-ee5c34384fb4",
       "dutyDetail": "Work as part of the team and contribute to service improvement.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
         "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
@@ -660,7 +660,7 @@
     {
       "dutyID": "512e7f71-b860-46d2-a53c-c27f4cbc6120",
       "dutyDetail": "Maintain and further develop own knowledge and skills through recognised continuing professional development activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
         "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
@@ -685,7 +685,7 @@
     {
       "dutyID": "33ec8203-1b7b-4f18-965c-689ab5180fae",
       "dutyDetail": "Promote an evidence-based approach to providing mammography services, participating in quality improvement and research activity.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
         "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
@@ -706,7 +706,7 @@
     {
       "dutyID": "911de3cf-0dbd-4f0c-bf41-8ee21354db84",
       "dutyDetail": "Support the development of others through role-modelling, supervision, and guidance. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
         "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
