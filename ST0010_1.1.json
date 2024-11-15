@@ -310,7 +310,7 @@
     "Airworthiness engineer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and development engineer",
@@ -364,7 +364,7 @@
     {
       "dutyID": "4d9a3cd8-e040-42b4-8a77-30dd0cfb260c",
       "dutyDetail": "Plan, lead and support the delivery of aerospace projects ensuring integration with key stakeholders, company objectives and strategies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "50d122c6-123f-4376-b461-195fc3cd202c",
         "89598f78-bf2b-468f-b2dc-03ca70f351ed",
@@ -424,7 +424,7 @@
     {
       "dutyID": "47687c73-fcc1-4fe5-aa54-960c721adb27",
       "dutyDetail": "Communicate key performance indicators, progress, risks and issues at all levels of the business, throughout the product lifecycle and through design reviews and technical reports.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "50d122c6-123f-4376-b461-195fc3cd202c",
         "89598f78-bf2b-468f-b2dc-03ca70f351ed",
@@ -457,7 +457,7 @@
     {
       "dutyID": "2eb419f2-2d56-432f-bda8-d7eb23cf8c28",
       "dutyDetail": "Identify, evaluate, derive and maintain technical requirements for aerospace projects in line with regulatory and certification requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "50d122c6-123f-4376-b461-195fc3cd202c",
         "89598f78-bf2b-468f-b2dc-03ca70f351ed",
@@ -506,7 +506,7 @@
     {
       "dutyID": "1fbdbd77-4e16-453f-b4fe-2a5c869d5dc5",
       "dutyDetail": "Design or redesign aerospace products, systems and services to fulfil defined project requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "50d122c6-123f-4376-b461-195fc3cd202c",
         "89598f78-bf2b-468f-b2dc-03ca70f351ed",
@@ -554,7 +554,7 @@
     {
       "dutyID": "e7682ddb-b148-47b6-b5b3-b317f2a75e27",
       "dutyDetail": "Generate, utilise, validate and verify technical analyses models and simulations to predict the performance of aerospace products and systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "89598f78-bf2b-468f-b2dc-03ca70f351ed",
         "9b5b48da-0c8b-4720-8a98-cf8e6a90847a",
@@ -585,7 +585,7 @@
     {
       "dutyID": "3b2ec471-c33a-4498-98e5-704f29f36b4a",
       "dutyDetail": "Oversee and project manage the production of prototype systems and components to validate and verify functionality and performance of aerospace products.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "50d122c6-123f-4376-b461-195fc3cd202c",
         "89598f78-bf2b-468f-b2dc-03ca70f351ed",
@@ -632,7 +632,7 @@
     {
       "dutyID": "9be3e6a1-0d3e-46bb-955c-b08d9477b4d7",
       "dutyDetail": "Develop, define, execute testing of aerospace products or systems for certification and stakeholder acceptance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "50d122c6-123f-4376-b461-195fc3cd202c",
         "89598f78-bf2b-468f-b2dc-03ca70f351ed",
@@ -677,7 +677,7 @@
     {
       "dutyID": "5c7982f6-5fe7-4a41-97c0-1c57734015a8",
       "dutyDetail": "Analyse test and in-service data to review the suitability and performance of aerospace products and systems, utilising data analytics techniques.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "50d122c6-123f-4376-b461-195fc3cd202c",
         "89598f78-bf2b-468f-b2dc-03ca70f351ed",
@@ -713,7 +713,7 @@
     {
       "dutyID": "cee7bfed-f7c3-46b4-b16d-15fe8f1ef3db",
       "dutyDetail": "Verify that aerospace processes, products and systems comply with local, national and international regulatory, legislative, customer and company standards throughout the life cycle.  For example, quality, environmental, anti-bribery and corruption, Official Secrets Act, export control, health and safety standards.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "50d122c6-123f-4376-b461-195fc3cd202c",
         "89598f78-bf2b-468f-b2dc-03ca70f351ed",
@@ -756,7 +756,7 @@
     {
       "dutyID": "76be2b7a-469a-46c0-85d7-51a95e29f156",
       "dutyDetail": "Review performance of aerospace products, processes and systems, assess the cause of any faults or problems and propose modifications.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "50d122c6-123f-4376-b461-195fc3cd202c",
         "89598f78-bf2b-468f-b2dc-03ca70f351ed",
@@ -813,7 +813,7 @@
     {
       "dutyID": "b9b64e22-0412-4447-982d-b6d065a02b54",
       "dutyDetail": "Implement and coordinate the continuous improvement of aerospace products, processes and systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "50d122c6-123f-4376-b461-195fc3cd202c",
         "89598f78-bf2b-468f-b2dc-03ca70f351ed",
