@@ -227,7 +227,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-03-27T00:00:00 +00:00",
@@ -251,7 +251,7 @@
     "Public relations assistant"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Marketing",
   "cluster": "Marketing communications manager",
@@ -276,7 +276,7 @@
     {
       "dutyID": "25dd1dd0-2b4e-48cd-b54a-5039538248a0",
       "dutyDetail": "Develop written and non-written content and schedule this content for publication/distribution according to the public relations and communications or campaign plan.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "97bb2b51-e03b-4862-a4a3-845d7206e058",
         "81c29d9e-0a29-400d-919c-d286babbf25b",
@@ -322,7 +322,7 @@
     {
       "dutyID": "4ba96db6-1105-4557-9641-6fc7bcfb39bd",
       "dutyDetail": "Contribute to the creation of campaigns or new business proposals planning and their implementation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3bb2cc5b-d4c5-4d36-b9c9-da9f0d371c4d",
         "97bb2b51-e03b-4862-a4a3-845d7206e058",
@@ -361,7 +361,7 @@
     {
       "dutyID": "dc3f109e-eac5-479c-b4e4-86ca837dcee8",
       "dutyDetail": "Research, analyse and monitor stakeholders to inform engagement strategies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "81c29d9e-0a29-400d-919c-d286babbf25b",
         "990d06bd-ed41-4543-b776-1d95e9af56f7"
@@ -393,7 +393,7 @@
     {
       "dutyID": "7fa35e4c-1ca4-427c-9070-8f50818f66a3",
       "dutyDetail": "Monitor media to keep up to date with current affairs and build knowledge of the journalist and media landscape.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3bb2cc5b-d4c5-4d36-b9c9-da9f0d371c4d",
         "97bb2b51-e03b-4862-a4a3-845d7206e058",
@@ -424,7 +424,7 @@
     {
       "dutyID": "f7f739ed-c7d5-4453-9fe1-d73cc2d23a75",
       "dutyDetail": "Research, analyse and evaluate campaigns against key performance indicators (KPIs) to prepare future campaigns.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "81c29d9e-0a29-400d-919c-d286babbf25b",
         "990d06bd-ed41-4543-b776-1d95e9af56f7"
@@ -449,7 +449,7 @@
     {
       "dutyID": "7128af31-5ab5-43ac-9974-ba3cd3db8165",
       "dutyDetail": "Share content with relevant stakeholders and media, to inform and influence audiences to maintain positive relationships.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3bb2cc5b-d4c5-4d36-b9c9-da9f0d371c4d",
         "97bb2b51-e03b-4862-a4a3-845d7206e058",
@@ -484,7 +484,7 @@
     {
       "dutyID": "77dafd12-39bb-4b9d-9428-61118eb45ba6",
       "dutyDetail": "Undertake reputation assessment and formulate responses to support stakeholders with the planning and implementation of reputation management and/or crisis strategies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "97bb2b51-e03b-4862-a4a3-845d7206e058",
         "81c29d9e-0a29-400d-919c-d286babbf25b",
@@ -523,7 +523,7 @@
     {
       "dutyID": "c0f8120d-1c77-4142-ba4d-9acf980285c5",
       "dutyDetail": "Support the Public Relations and Communications’ team with routine administrative, logistical, and time-sensitive tasks.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "97bb2b51-e03b-4862-a4a3-845d7206e058",
         "81c29d9e-0a29-400d-919c-d286babbf25b",
@@ -548,7 +548,7 @@
     {
       "dutyID": "c7f6c8d0-7b98-4497-b657-8d47d3930b96",
       "dutyDetail": "Support the planning and delivery of ad hoc engagement activities such as events.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "97bb2b51-e03b-4862-a4a3-845d7206e058",
         "81c29d9e-0a29-400d-919c-d286babbf25b",
@@ -583,7 +583,7 @@
     {
       "dutyID": "9c330307-4b16-4752-9574-e88c8f47d455",
       "dutyDetail": "Contribute to team development through sharing relevant knowledge and skills when required.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "97bb2b51-e03b-4862-a4a3-845d7206e058",
         "81c29d9e-0a29-400d-919c-d286babbf25b",
@@ -606,7 +606,7 @@
     {
       "dutyID": "703b1e19-0d8e-41fb-a12c-2261e25dcca1",
       "dutyDetail": "Organise and coordinate stakeholder meetings.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "97bb2b51-e03b-4862-a4a3-845d7206e058",
         "81c29d9e-0a29-400d-919c-d286babbf25b",
@@ -630,7 +630,7 @@
     {
       "dutyID": "b21646f2-4bdc-4ccf-be69-22bd79eb618d",
       "dutyDetail": "Contribute to the organisational objectives and key performance indicators to support communication activities which drive and improve performance and sustainability goals.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "97bb2b51-e03b-4862-a4a3-845d7206e058",
         "81c29d9e-0a29-400d-919c-d286babbf25b",
