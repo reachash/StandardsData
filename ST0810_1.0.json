@@ -210,7 +210,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-08-24T00:00:00 +00:00",
@@ -229,7 +229,7 @@
     "Purchasing assistant"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Procurement",
   "cluster": "Procurement officer",
@@ -263,7 +263,7 @@
     {
       "dutyID": "38b1b936-8079-49e3-a005-c383e33e6a7c",
       "dutyDetail": "Advise key internal and external stakeholders on the procurement policies and procedures within the organisation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf462883-c279-4e91-8081-d4d3d42ee144",
         "1c08cb50-fc2a-47ee-9bf2-07012c6cefc4",
@@ -291,7 +291,7 @@
     {
       "dutyID": "efbed9e5-e70b-4952-901e-ca8ec82b2f81",
       "dutyDetail": "Supporting the raising of purchase orders for the placement of orders or 'low value'/risk contracts.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a17cf833-1505-42eb-b468-e00bb0d1fab9",
         "cf462883-c279-4e91-8081-d4d3d42ee144",
@@ -326,7 +326,7 @@
     {
       "dutyID": "69ac4a13-1493-4cf7-9d94-fe85615c42fa",
       "dutyDetail": "Undertake market research and benchmarking through desk top activities and stakeholder engagement in order to assist and inform the wider procurement team in their sourcing process in line with the most appropriate policies on corporate and social responsibilities. This may include researching tenders from ethical, green or sustainable suppliers to take account of a range of key factors beyond immediate cost.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a17cf833-1505-42eb-b468-e00bb0d1fab9",
         "1c08cb50-fc2a-47ee-9bf2-07012c6cefc4",
@@ -354,7 +354,7 @@
     {
       "dutyID": "bd0c8fdc-6aa2-4c55-96d3-5b0e99dcd772",
       "dutyDetail": "Conduct due diligence in supplier sourcing - undertake the pre-qualification of potential suppliers using appropriate tools, including financial stability, insurance levels, technical capacity, sustainability  and recycling ensuring that health and safety policies are in place in line with the relevant organisational policies and responsible procurement considerations and record findings.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1c08cb50-fc2a-47ee-9bf2-07012c6cefc4",
         "aac9d8a7-6f8a-40c1-817a-198adaab8f30",
@@ -388,7 +388,7 @@
     {
       "dutyID": "0e9baa90-4b0d-4baa-acb1-93a135c7eef4",
       "dutyDetail": "Support the Procurement Team in a wide range of procurement activities, to enable best practice, including running e-tendering, e-evaluations and logging information and data appropriately including; maintaining, keeping and reporting up-to-date statistical and other data, all in line with the Public Contract Regulations 2015 (if appropriate) and local/corporate procurement policies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a17cf833-1505-42eb-b468-e00bb0d1fab9",
         "cf462883-c279-4e91-8081-d4d3d42ee144",
@@ -430,7 +430,7 @@
     {
       "dutyID": "31d5c12f-84ac-45f9-a06b-cbdfebdf403e",
       "dutyDetail": "Analyse quotation responses and assist the team in tender response, evaluating in order to achieve value for money.  Assist senior procurement colleagues in implementing new contracts within the organisation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf462883-c279-4e91-8081-d4d3d42ee144",
         "1c08cb50-fc2a-47ee-9bf2-07012c6cefc4",
@@ -461,7 +461,7 @@
     {
       "dutyID": "0d57466b-42af-4ef9-ba99-7600bf869713",
       "dutyDetail": "Investigate and resolve accounts payable and purchase order queries, ensuring that all necessary internal procedures e.g. goods receipting have been carried out.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a17cf833-1505-42eb-b468-e00bb0d1fab9",
         "1c08cb50-fc2a-47ee-9bf2-07012c6cefc4",
@@ -490,7 +490,7 @@
     {
       "dutyID": "12a87ebc-d9cc-43fa-891d-37049af8827d",
       "dutyDetail": "In line with procurement policies, ensure that procurement documents are filed, records maintained and actions are recorded to enable the team to comply with internal and external audit requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a17cf833-1505-42eb-b468-e00bb0d1fab9",
         "a1fceee2-5571-4fef-a8a3-dce3b99920fa",
@@ -513,7 +513,7 @@
     {
       "dutyID": "25c436d0-dc55-4025-8a32-e711f382bf7c",
       "dutyDetail": "Respond promptly to internal and external queries requests for advice for both Procurement and Supply Chain Management activities, building stakeholder relationships across all areas of the organisation in line with the law and local/corporate policies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a17cf833-1505-42eb-b468-e00bb0d1fab9",
         "cf462883-c279-4e91-8081-d4d3d42ee144",
@@ -545,7 +545,7 @@
     {
       "dutyID": "a5e1bc2c-2d05-4ae4-8543-dcdba02efae2",
       "dutyDetail": "Develop and maintain relationships with internal and external stakeholders and suppliers. Provide in your first line response to procurement-related queries.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a17cf833-1505-42eb-b468-e00bb0d1fab9",
         "cf462883-c279-4e91-8081-d4d3d42ee144",
@@ -574,7 +574,7 @@
     {
       "dutyID": "9b3f0a4a-a410-4594-ac54-bd55054d06e5",
       "dutyDetail": "Identify and monitor the demand for goods and services, including historic and future demand/trends and ensuring that deliveries of goods and services meet the organisation needs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf462883-c279-4e91-8081-d4d3d42ee144",
         "1c08cb50-fc2a-47ee-9bf2-07012c6cefc4",
@@ -609,7 +609,7 @@
     {
       "dutyID": "ebb9384e-55a7-4e9e-9a84-a80cb0c3c006",
       "dutyDetail": "Contribute to the procurement decision making processes ensuring that they meet both value for money and environmental and supply chain requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf462883-c279-4e91-8081-d4d3d42ee144",
         "1c08cb50-fc2a-47ee-9bf2-07012c6cefc4",
@@ -637,7 +637,7 @@
     {
       "dutyID": "949942fb-e503-465a-a78b-796cf3b5586b",
       "dutyDetail": "Contribute to the negotiations for a contract or mini competition between stakeholder and suppliers showing the 4 processes of negotiation (Preparation, opening, bargaining and closure).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cf462883-c279-4e91-8081-d4d3d42ee144",
         "1c08cb50-fc2a-47ee-9bf2-07012c6cefc4",
