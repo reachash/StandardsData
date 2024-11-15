@@ -308,7 +308,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "",
@@ -325,10 +325,10 @@
     "Psychological wellbeing practitioner"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
-  "cluster": "Health professional",
+  "cluster": "Health Professional",
   "clusterId": "6",
   "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2024-04-04T14:16:18 +00:00",
@@ -359,7 +359,7 @@
     {
       "dutyID": "e5f64077-2315-4f8c-839a-d6100e758f4a",
       "dutyDetail": "Practise safely and effectively within the scope of practice of a PWP and within the legal and ethical boundaries of the profession to manage a caseload of patients with common mental health problems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "449dfef6-5bda-4117-979e-90b237d8591d",
         "8ed13200-861b-4ffd-871d-f7706b1ed1c0",
@@ -390,7 +390,7 @@
     {
       "dutyID": "a0a97632-0af1-42a5-9876-b5b55fcace02",
       "dutyDetail": "Provide  assessments to identify the common mental health problems of anxiety disorders and depression.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "449dfef6-5bda-4117-979e-90b237d8591d",
         "8ed13200-861b-4ffd-871d-f7706b1ed1c0",
@@ -420,7 +420,7 @@
     {
       "dutyID": "b460f714-8415-4f9d-90e9-704ab254af9d",
       "dutyDetail": "Manage the assessment of risk and safeguarding issues and appropriate onward referral using psychometric, problem focused assessment and intervention planning.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "449dfef6-5bda-4117-979e-90b237d8591d",
         "8ed13200-861b-4ffd-871d-f7706b1ed1c0",
@@ -444,7 +444,7 @@
     {
       "dutyID": "13b2cd86-54be-4926-9941-40a508b268ca",
       "dutyDetail": "Provide evidence based treatments for patients with mild to moderate symptoms of the common mental health problems of anxiety disorders and depression, selecting treatments to aid recovery, promote social inclusion and support appropriate return to work, thereby helping with physical and psychological health.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "449dfef6-5bda-4117-979e-90b237d8591d",
         "8ed13200-861b-4ffd-871d-f7706b1ed1c0",
@@ -469,7 +469,7 @@
     {
       "dutyID": "268f412b-4de7-40ba-a41b-268396ba7e15",
       "dutyDetail": "Provide guided self-help treatment informed by cognitive-behavioural principles, which are patient-centred psychological treatments with an emphasis on self-management.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "449dfef6-5bda-4117-979e-90b237d8591d",
         "8ed13200-861b-4ffd-871d-f7706b1ed1c0",
@@ -491,7 +491,7 @@
     {
       "dutyID": "757705d0-7221-482a-9acf-269fc98cb833",
       "dutyDetail": "Provide support that enables patients to optimise their use of self-management recovery information, which is delivered through in person or remote contact methods including digital platforms and group workshops. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "449dfef6-5bda-4117-979e-90b237d8591d",
         "8ed13200-861b-4ffd-871d-f7706b1ed1c0",
@@ -515,7 +515,7 @@
     {
       "dutyID": "6501cea5-a65f-479d-b033-51a1eeeaad57",
       "dutyDetail": "Provide information on common medication prescribed for symptoms of anxiety and depression and support patients to optimise their use of such treatments. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "449dfef6-5bda-4117-979e-90b237d8591d",
         "8ed13200-861b-4ffd-871d-f7706b1ed1c0",
@@ -537,7 +537,7 @@
     {
       "dutyID": "22e666b9-d589-4b2b-9952-bb7f69f3272e",
       "dutyDetail": "Communicate effectively with and signpost to other agencies and services.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "449dfef6-5bda-4117-979e-90b237d8591d",
         "8ed13200-861b-4ffd-871d-f7706b1ed1c0",
@@ -555,7 +555,7 @@
     {
       "dutyID": "dfd86efb-7796-459c-861b-67716c6a4c0c",
       "dutyDetail": "Handle personal and sensitive information and record interviews and questionnaire assessments using paper and electronic record keeping systems in an accurate and timely manner. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "449dfef6-5bda-4117-979e-90b237d8591d",
         "8ed13200-861b-4ffd-871d-f7706b1ed1c0",
@@ -573,7 +573,7 @@
     {
       "dutyID": "36691709-3eb2-484b-837c-bb5848c125a3",
       "dutyDetail": "Participate in clinical skills and case management supervision to assist the delivery of low-intensity interventions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "449dfef6-5bda-4117-979e-90b237d8591d",
         "8ed13200-861b-4ffd-871d-f7706b1ed1c0",
@@ -594,7 +594,7 @@
     {
       "dutyID": "9d0d6c5f-167b-46d6-998d-54810d06ed30",
       "dutyDetail": "Routinely collect and store clinical, social and employment outcome data and contribute to local and national outcome monitoring, audit and quality improvement, within a stepped care service delivery model. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "449dfef6-5bda-4117-979e-90b237d8591d",
         "8ed13200-861b-4ffd-871d-f7706b1ed1c0",
