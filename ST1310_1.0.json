@@ -1,10 +1,10 @@
 {
   "templateType": "Occupational Standard",
-  "larsCode": 0,
+  "larsCode": 789,
   "referenceNumber": "ST1310",
   "title": "Family and systemic psychotherapist",
   "status": "Retired",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/0",
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/789",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/family-and-systemic-psychotherapist-10",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -521,7 +521,7 @@
     "Systemic psychotherapist"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
   "cluster": "Health professional",
@@ -561,7 +561,7 @@
     {
       "dutyID": "2100eb00-b9cb-4ace-af97-9d07c36e6cf6",
       "dutyDetail": "Be an ethically accountable and autonomous professional by placing service user needs at the centre of practice whilst adhering to professional standards, workplace routines, policies and protocols.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40ee7042-53c0-4a04-965d-de5dfd634860",
         "7dc4ad79-bb7c-42a5-bf38-5b272c05474a",
@@ -587,7 +587,7 @@
     {
       "dutyID": "f282a6d0-f20f-48fb-bc0e-d6e8bcd989a1",
       "dutyDetail": "Undertake risk assessments, risk formulation and risk management to inform multi agency understandings, decision making and actions.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40ee7042-53c0-4a04-965d-de5dfd634860",
         "7dc4ad79-bb7c-42a5-bf38-5b272c05474a",
@@ -614,7 +614,7 @@
     {
       "dutyID": "fb82e02c-87a9-4dc5-b8ec-3ba5e683f364",
       "dutyDetail": "Undertake detailed and specialist systemic assessments.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40ee7042-53c0-4a04-965d-de5dfd634860",
         "7dc4ad79-bb7c-42a5-bf38-5b272c05474a",
@@ -642,7 +642,7 @@
     {
       "dutyID": "592c1133-5913-4f86-9731-937af5d03420",
       "dutyDetail": "Draw upon complex assessment material to provide verbal and written, evidence-based systemic hypotheses and collaborative formulations to agree the appropriate packages of therapeutic and or multi-agency care.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40ee7042-53c0-4a04-965d-de5dfd634860",
         "7dc4ad79-bb7c-42a5-bf38-5b272c05474a",
@@ -669,7 +669,7 @@
     {
       "dutyID": "a416763b-2c58-4813-91fa-e8aae7e4084a",
       "dutyDetail": "Plan a broad range of systemic interventions, taking into account child and adult development processes, the life cycle of families and personal and professional systems surrounding the individual.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40ee7042-53c0-4a04-965d-de5dfd634860",
         "7dc4ad79-bb7c-42a5-bf38-5b272c05474a",
@@ -696,7 +696,7 @@
     {
       "dutyID": "0c0f85bd-0ee6-4fa3-af04-ed6e012afb97",
       "dutyDetail": "Implement agreed therapeutic interventions, revising therapeutic plans as appropriate during the work, including utilising outcome measures and planning for endings.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40ee7042-53c0-4a04-965d-de5dfd634860",
         "7dc4ad79-bb7c-42a5-bf38-5b272c05474a",
@@ -725,7 +725,7 @@
     {
       "dutyID": "989bd698-e5fe-4e8b-bf39-646952d9630b",
       "dutyDetail": "Develop and maintain therapeutic relationships, working collaboratively within highly distressing, emotionally charged and challenging circumstances, whilst managing own, and other’s wellbeing.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40ee7042-53c0-4a04-965d-de5dfd634860",
         "7dc4ad79-bb7c-42a5-bf38-5b272c05474a",
@@ -754,7 +754,7 @@
     {
       "dutyID": "80d03090-1f59-4dee-bc55-dcf71e219493",
       "dutyDetail": "Develop and maintain positive working relationships, promoting equality, diversity, inclusion, and Human Rights in one’s own working practices.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40ee7042-53c0-4a04-965d-de5dfd634860",
         "7dc4ad79-bb7c-42a5-bf38-5b272c05474a",
@@ -781,7 +781,7 @@
     {
       "dutyID": "29176caf-ff1b-4cdd-b453-025c99db1561",
       "dutyDetail": "Participate in and contribute to regular clinical and management supervision to evaluate own systemic practice and implications of therapeutic interventions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40ee7042-53c0-4a04-965d-de5dfd634860",
         "7dc4ad79-bb7c-42a5-bf38-5b272c05474a",
@@ -811,7 +811,7 @@
     {
       "dutyID": "e5cadb98-ced1-41c0-85e3-b937680aba5d",
       "dutyDetail": "Undertake research relevant to own field of systemic practice.     ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40ee7042-53c0-4a04-965d-de5dfd634860",
         "7dc4ad79-bb7c-42a5-bf38-5b272c05474a",
@@ -840,7 +840,7 @@
     {
       "dutyID": "d991fc52-c029-4209-b274-a03111b020f7",
       "dutyDetail": "Provide specialist systemic guidance, consultation and training to professional colleagues on the use of family therapy and systemic psychotherapy techniques.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40ee7042-53c0-4a04-965d-de5dfd634860",
         "7dc4ad79-bb7c-42a5-bf38-5b272c05474a",
@@ -868,7 +868,7 @@
     {
       "dutyID": "f463a03e-0fed-4933-ae66-fbae4fbbb723",
       "dutyDetail": "Participate in and contribute to multidisciplinary and multi-agency meetings.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40ee7042-53c0-4a04-965d-de5dfd634860",
         "7dc4ad79-bb7c-42a5-bf38-5b272c05474a",
@@ -891,7 +891,7 @@
     {
       "dutyID": "196af201-cec9-4f0a-b3fa-01a602e0186c",
       "dutyDetail": "Create and maintain accurate records that adhere to professional and organisational codes of practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "40ee7042-53c0-4a04-965d-de5dfd634860",
         "7dc4ad79-bb7c-42a5-bf38-5b272c05474a",
