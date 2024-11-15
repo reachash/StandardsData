@@ -176,7 +176,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2015-03-26T00:00:00 +00:00",
@@ -198,7 +198,7 @@
     "Technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and development technician",
@@ -292,7 +292,7 @@
     {
       "dutyID": "b94f6041-4dbc-47d7-a1d4-b833bbf0fd95",
       "dutyDetail": "Assist in the development of technical railway engineering solutions by carrying out calculations and analysing the outputs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e352f853-9747-4cd5-8282-dc49f60f2324",
         "7aa8745e-cbb1-46a5-b4f3-c78b6b8a5756"
@@ -313,7 +313,7 @@
     {
       "dutyID": "2f993b59-0f2b-4bec-ac36-34be66e6cae6",
       "dutyDetail": "Ensure safe systems of work are applied, hazards and risks are identified and mitigated in their own work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bb7d9eeb-ddc6-4228-b4b6-0e42e30c0ac9",
         "04358830-b5bd-412d-b0cb-0ad44d4c4d9e"
@@ -336,7 +336,7 @@
     {
       "dutyID": "e8fa29b8-700d-4a62-a488-e21d85187933",
       "dutyDetail": "Ensure compliance with industry standards and regulations, including those in relation to sustainability.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bb7d9eeb-ddc6-4228-b4b6-0e42e30c0ac9",
         "6c595211-9845-4e56-a220-27396a576f3f",
@@ -362,7 +362,7 @@
     {
       "dutyID": "325b3d4e-19d4-4122-ac89-fc1aa11f63b9",
       "dutyDetail": "Communicate effectively with a range of audiences, such as internal and external stakeholders, and through the preparation of written reports and presentations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "04358830-b5bd-412d-b0cb-0ad44d4c4d9e",
         "6c595211-9845-4e56-a220-27396a576f3f",
@@ -391,7 +391,7 @@
     {
       "dutyID": "9ad78fec-7a22-4c52-8ef7-872d6daeee41",
       "dutyDetail": "Undertake railway engineering design in a way that contributes to, or improves, the environment, safety, security and inclusion.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bb7d9eeb-ddc6-4228-b4b6-0e42e30c0ac9",
         "e352f853-9747-4cd5-8282-dc49f60f2324",
@@ -418,7 +418,7 @@
     {
       "dutyID": "0b266298-d506-4647-aa6e-59cea4ab7015",
       "dutyDetail": "Contribute to railway engineering design solutions for clients or customers, by preparing and producing engineering drawings or models to engineering specifications, industry codes and regulations, standards and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bb7d9eeb-ddc6-4228-b4b6-0e42e30c0ac9",
         "e352f853-9747-4cd5-8282-dc49f60f2324",
@@ -444,7 +444,7 @@
     {
       "dutyID": "ff3301a8-75bc-40cc-9485-b093d8ac75f2",
       "dutyDetail": "Collect, interpret, analyse inter-related and often dynamic technical information and data, to support the production of safe and secure railway engineering designs using digital technologies, such as Computer Aided Design (CAD) and Building Information Modelling (BIM).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e352f853-9747-4cd5-8282-dc49f60f2324",
         "7aa8745e-cbb1-46a5-b4f3-c78b6b8a5756",
@@ -466,7 +466,7 @@
     {
       "dutyID": "a4ce1070-7040-4ebc-ae0b-bdd4fc6ef22f",
       "dutyDetail": "Using the quality management and assurance systems available, proactively plan, manage and contribute the delivery of larger programmes of work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e352f853-9747-4cd5-8282-dc49f60f2324",
         "7aa8745e-cbb1-46a5-b4f3-c78b6b8a5756",
@@ -486,7 +486,7 @@
     {
       "dutyID": "22395d4e-c776-4db0-94f0-e9d8fb2fbf82",
       "dutyDetail": "Undertake railway engineering design with consideration for, and application of, ethical principles.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "49809c2b-36f3-4767-9dcd-521ba9e2e13a"
       ],
@@ -502,7 +502,7 @@
     {
       "dutyID": "51ccc22c-a860-4e1d-9dd1-a60714c3a088",
       "dutyDetail": "Maintain their own learning and skills development by carrying out continuing professional development in line with professional codes of conduct and/or industry specifications and obligations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "52b04160-2765-42b6-b2b5-d1d417917b51"
       ],
