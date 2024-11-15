@@ -276,7 +276,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2022-10-20T00:00:00 +00:00",
@@ -297,7 +297,7 @@
     "Test and commissioning technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Installation, service, repair and or or overhaul advanced technician",
@@ -331,7 +331,7 @@
     {
       "dutyID": "1e3fcbd5-ca0c-4b9c-9c44-2514e4865850",
       "dutyDetail": "Define and implement safety control measures appropriate to each maintenance activity informing the relevant people.  Ensure the safe and efficient performance of every maintenance task in compliance with these measures. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c5292135-47d9-4934-bceb-0ae51570de92",
         "12fabdc1-24b2-4e28-b464-c00e4198a9a2",
@@ -370,7 +370,7 @@
     {
       "dutyID": "e8e1f668-55c0-45dc-b375-0c11efdd70db",
       "dutyDetail": "Collate, interpret and analyse all technical information. For example, work procedures, design briefs, and maintenance manuals. Operating specifications, maintenance equipment calibration records, asset performance and calibration data.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12fabdc1-24b2-4e28-b464-c00e4198a9a2",
         "ebea08b2-8a96-425b-a48c-0ab6c5eb2aa3",
@@ -410,7 +410,7 @@
     {
       "dutyID": "07a89bed-d6b0-4adf-8840-3700e3015976",
       "dutyDetail": "Plan maintenance activities to guide the maintenance team. Ensure that work instructions, permits, and safety briefings are available in advance of maintenance activities. Ensure that operating procedures, contact details for relevant people, materials and resources are available.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c5292135-47d9-4934-bceb-0ae51570de92",
         "12fabdc1-24b2-4e28-b464-c00e4198a9a2",
@@ -456,7 +456,7 @@
     {
       "dutyID": "3db6dc25-e359-4a1f-86d2-b88acc7b7f98",
       "dutyDetail": "Lead or undertake maintenance, modifications, repairs, upgrades, alterations and additions to systems, plant and equipment.  Provide technical and team leadership, where appropriate, to complete maintenance activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c5292135-47d9-4934-bceb-0ae51570de92",
         "12fabdc1-24b2-4e28-b464-c00e4198a9a2",
@@ -496,7 +496,7 @@
     {
       "dutyID": "21cd7916-d184-4cfd-8957-04827124a8be",
       "dutyDetail": "Carry out inspection activities on equipment. For example, pressures, flows, temperatures, installation checks, material state and feasibility studies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c5292135-47d9-4934-bceb-0ae51570de92",
         "12fabdc1-24b2-4e28-b464-c00e4198a9a2",
@@ -531,7 +531,7 @@
     {
       "dutyID": "5f05b33c-787e-489e-a2d0-2a7ac2e1057d",
       "dutyDetail": "Inform teams of any significant maintenance and engineering technical issues as they occur. Provide technical and team leadership, advice and guidance as needed.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12fabdc1-24b2-4e28-b464-c00e4198a9a2",
         "da70ecdb-71a3-4b6a-8404-1ab05263e78a",
@@ -563,7 +563,7 @@
     {
       "dutyID": "ad94e2ff-0a45-441a-80db-31fca40f6cab",
       "dutyDetail": "Liaise with internal and external stakeholders ensuring that engineering and maintenance operations meet agreed timescales. Examples of stakeholders could include asset managers, equipment operatives, auditors, suppliers, customers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12fabdc1-24b2-4e28-b464-c00e4198a9a2",
         "e9ae493b-6476-4552-857b-9896c7f80ac3",
@@ -606,7 +606,7 @@
     {
       "dutyID": "cf8131ac-7b2b-479a-b06d-b33c96574a9e",
       "dutyDetail": "Deal with problems that occur within the activity using a structured and controlled approach. For example, unexpected technical or process issues, team related issues, escalating as required. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12fabdc1-24b2-4e28-b464-c00e4198a9a2",
         "ebea08b2-8a96-425b-a48c-0ab6c5eb2aa3",
@@ -640,7 +640,7 @@
     {
       "dutyID": "524eeda3-67f0-4018-9d89-6d949de6e5a3",
       "dutyDetail": "Generate documentation on completion of maintenance work to provide a complete record of the activity. Forward information required to support future asset maintenance planning. For example, test forms, defect reports, service records and handover reports.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12fabdc1-24b2-4e28-b464-c00e4198a9a2",
         "e9ae493b-6476-4552-857b-9896c7f80ac3",
@@ -676,7 +676,7 @@
     {
       "dutyID": "5a6588ce-b11e-4753-a06d-9cf713aa3d8d",
       "dutyDetail": "Review engineering and maintenance procedures identifying potential improvements to processes, materials, resources or planning. For example, improvements on costs, efficiencies and quality. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "12fabdc1-24b2-4e28-b464-c00e4198a9a2",
         "e9ae493b-6476-4552-857b-9896c7f80ac3",
