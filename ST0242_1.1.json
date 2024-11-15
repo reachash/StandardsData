@@ -302,7 +302,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "",
@@ -328,7 +328,7 @@
     "Workshop-based engineer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Agricultural Engineering Operative/Technician",
@@ -346,7 +346,7 @@
     {
       "dutyID": "08e1f98a-30a5-485e-809f-0b20f627a590",
       "dutyDetail": "Undertake service maintenance and repair activities often in rural environments following workplace procedures and defined risk assessments and considering livestock, chemical, mechanical, high voltage, and environmental conditions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "692e0e92-8d3a-42b6-9fee-9e8da7eb3129",
         "f2354b4e-63e5-413b-bc0f-1c566ce72e60",
@@ -396,7 +396,7 @@
     {
       "dutyID": "53750c4a-7e0e-48d9-9a3d-1ae69636565d",
       "dutyDetail": "Clean land-based prime-movers, machinery and equipment to remove organic, mineral and chemical residues in accordance with DEFRA phytosanitary certification standards.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "692e0e92-8d3a-42b6-9fee-9e8da7eb3129",
         "f2354b4e-63e5-413b-bc0f-1c566ce72e60",
@@ -426,7 +426,7 @@
     {
       "dutyID": "b141269a-6d7b-447e-8bf4-e672f62c9fc4",
       "dutyDetail": "Select, prepare and reinstate work sites for service maintenance and repair activities to take place.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "692e0e92-8d3a-42b6-9fee-9e8da7eb3129",
         "f2354b4e-63e5-413b-bc0f-1c566ce72e60",
@@ -457,7 +457,7 @@
     {
       "dutyID": "d664ddec-11ca-4714-9c2b-a66042abba3a",
       "dutyDetail": "Conduct pre-delivery inspections of machinery in accordance with manufacturer and employer procedures, considering preparation, settings and adjustments required for land-based customers use.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "692e0e92-8d3a-42b6-9fee-9e8da7eb3129",
         "f2354b4e-63e5-413b-bc0f-1c566ce72e60",
@@ -497,7 +497,7 @@
     {
       "dutyID": "8832649d-6a56-49dc-86f7-8c9c8e826e0f",
       "dutyDetail": "Perform planned and structured service and maintenance operations on land-based machinery and equipment in accordance with manufacturer schedules, customers' operational requirements, work application and the environment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "692e0e92-8d3a-42b6-9fee-9e8da7eb3129",
         "f2354b4e-63e5-413b-bc0f-1c566ce72e60",
@@ -547,7 +547,7 @@
     {
       "dutyID": "502df84f-3241-4d56-a1d8-6421667d7d9f",
       "dutyDetail": "Install or transfer aftermarket accessories to land-based prime movers, machinery and equipment and validate their operation to meet current legislation and customer requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "692e0e92-8d3a-42b6-9fee-9e8da7eb3129",
         "f2354b4e-63e5-413b-bc0f-1c566ce72e60",
@@ -590,7 +590,7 @@
     {
       "dutyID": "8302aa6b-f885-4490-9653-e92a22267751",
       "dutyDetail": "Prepare land-based machinery and equipment and handover to internal or external customers following service, preparation and maintenance activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "692e0e92-8d3a-42b6-9fee-9e8da7eb3129",
         "f2354b4e-63e5-413b-bc0f-1c566ce72e60",
@@ -630,7 +630,7 @@
     {
       "dutyID": "d4e76c17-9703-4209-91b4-82dd84ba391e",
       "dutyDetail": "Remove, support, secure and isolate land-based prime-mover, machinery and equipment, components, subassemblies and test equipment in preparation for maintenance, repair and diagnostic activities. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "692e0e92-8d3a-42b6-9fee-9e8da7eb3129",
         "f2354b4e-63e5-413b-bc0f-1c566ce72e60",
@@ -671,7 +671,7 @@
     {
       "dutyID": "c79d09e7-0b9b-46c6-8498-b484dfc08700",
       "dutyDetail": "Identify, repair and replace failed components, assemblies and sub-assemblies and carry out adjustments to reflect the land-based operating environment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "692e0e92-8d3a-42b6-9fee-9e8da7eb3129",
         "f2354b4e-63e5-413b-bc0f-1c566ce72e60",
@@ -720,7 +720,7 @@
     {
       "dutyID": "761de4d6-e1b2-40ae-870d-efa1bd0a91d2",
       "dutyDetail": "Fabricate or repair parts using chemical and thermal bonding methods.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "692e0e92-8d3a-42b6-9fee-9e8da7eb3129",
         "f2354b4e-63e5-413b-bc0f-1c566ce72e60",
@@ -765,7 +765,7 @@
     {
       "dutyID": "68e627f5-3f30-457d-869d-a426cb16f59e",
       "dutyDetail": "Determine and apply preventative and remedial actions to address the deterioration of land-based machinery and equipment, considering the operating environment, seasonal and extended storage, rodent damage, corrosion, oxidisation and water ingress.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f2354b4e-63e5-413b-bc0f-1c566ce72e60",
         "a34ae07b-bb78-4e44-b109-05fda44bf1d5",
@@ -799,7 +799,7 @@
     {
       "dutyID": "124464d9-a17e-4be8-99e7-41f068104b12",
       "dutyDetail": "Operate land-based prime movers, machinery and equipment, perform functional tests and apply manufacturers recommended settings.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "692e0e92-8d3a-42b6-9fee-9e8da7eb3129",
         "2f59a24d-da40-4eb9-8677-c9ed6a527465",
@@ -831,7 +831,7 @@
     {
       "dutyID": "2cd7946d-aa5f-4ae8-be03-bb1bdfc0bea4",
       "dutyDetail": "Couple and connect land-based machinery and equipment to prime-movers, paying attention to alignment, ballast, stability, contact areas, maximum laden weights, widths, turning circle.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "692e0e92-8d3a-42b6-9fee-9e8da7eb3129",
         "f2354b4e-63e5-413b-bc0f-1c566ce72e60",
@@ -876,7 +876,7 @@
     {
       "dutyID": "e1704ff3-0d29-4c3a-b1c6-111e93bee7db",
       "dutyDetail": "Conduct land-based prime mover, machinery and equipment health checks to establish maintenance requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "692e0e92-8d3a-42b6-9fee-9e8da7eb3129",
         "a34ae07b-bb78-4e44-b109-05fda44bf1d5",
@@ -919,7 +919,7 @@
     {
       "dutyID": "a5055ffc-162e-493a-8540-7c7e3ee2ace7",
       "dutyDetail": "Carry out initial diagnostic activities to identify mechanical, electrical, hydraulic and pneumatic performance characteristics.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "16397b5f-dc0d-4511-8046-b91baeb4090f",
         "7512e23f-ee3e-43e7-ab0b-aaedbf6d1abc",
@@ -962,7 +962,7 @@
     {
       "dutyID": "2cd18a65-e4fa-477d-a5a8-f72310b91755",
       "dutyDetail": "Identify the inventory requirements for given service and maintenance tasks.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a34ae07b-bb78-4e44-b109-05fda44bf1d5",
         "16397b5f-dc0d-4511-8046-b91baeb4090f",
@@ -989,7 +989,7 @@
     {
       "dutyID": "237e9787-e147-4609-82a2-f18057fee081",
       "dutyDetail": "Maintain service records, record data and report findings to stakeholders. Record warranty details in line with company procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "16397b5f-dc0d-4511-8046-b91baeb4090f",
         "f7509158-f192-402e-8758-b9409988b3f7"
