@@ -357,7 +357,7 @@
     "Youth Work Manager"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Care Services",
   "cluster": "Care services professional",
@@ -384,7 +384,7 @@
     {
       "dutyID": "ac460fc1-9b6e-47b4-ad34-1ee9f9d2c195",
       "dutyDetail": "Establish relationships with young people, communities and partners",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "65d905f1-9e32-471b-9fd3-c43212ebe81a",
         "daa929af-5566-4e75-b879-ca19197d0486",
@@ -411,7 +411,7 @@
     {
       "dutyID": "38961c90-c906-42ca-a61e-98266cd95144",
       "dutyDetail": "Establish, manage and develop different youth work provisions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "65d905f1-9e32-471b-9fd3-c43212ebe81a",
         "d51c7552-8c62-42dd-a33e-1b47dd3e1134",
@@ -432,7 +432,7 @@
     {
       "dutyID": "4c8e2712-c554-4de3-a45f-f8e692262367",
       "dutyDetail": "Manage and develop staff, projects and facilities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "65d905f1-9e32-471b-9fd3-c43212ebe81a",
         "daa929af-5566-4e75-b879-ca19197d0486",
@@ -461,7 +461,7 @@
     {
       "dutyID": "9926674b-6dac-47fd-843a-87de4546f13a",
       "dutyDetail": "Work with other agencies to develop services across a community.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "65d905f1-9e32-471b-9fd3-c43212ebe81a",
         "daa929af-5566-4e75-b879-ca19197d0486",
@@ -485,7 +485,7 @@
     {
       "dutyID": "249d7721-c9c7-44b5-8a75-bae31f34b284",
       "dutyDetail": "Design, lead, implement and evaluate a youth work curriculum.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "65d905f1-9e32-471b-9fd3-c43212ebe81a",
         "d51c7552-8c62-42dd-a33e-1b47dd3e1134",
@@ -514,7 +514,7 @@
     {
       "dutyID": "c9ca0ab1-2709-4c2e-95dd-066a306eb972",
       "dutyDetail": "Lead on rights-based youth work, and voice and influence strategies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "65d905f1-9e32-471b-9fd3-c43212ebe81a",
         "daa929af-5566-4e75-b879-ca19197d0486",
@@ -543,7 +543,7 @@
     {
       "dutyID": "1e64cd5e-49af-410f-b6f4-075d4b77163b",
       "dutyDetail": "Lead project development, implementation and evaluation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d51c7552-8c62-42dd-a33e-1b47dd3e1134",
         "de76ee75-a51f-4b6e-bfcf-02ca737df2f2",
@@ -569,7 +569,7 @@
     {
       "dutyID": "902dcb3b-b52a-4e16-b2ed-604017c052c1",
       "dutyDetail": "Engage in continuous professional development.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "65d905f1-9e32-471b-9fd3-c43212ebe81a",
         "d51c7552-8c62-42dd-a33e-1b47dd3e1134",
@@ -592,7 +592,7 @@
     {
       "dutyID": "ee6428c7-ee62-4a89-8b97-9086b2bab7b8",
       "dutyDetail": "Demonstrate professional youth work values and ethical practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "65d905f1-9e32-471b-9fd3-c43212ebe81a",
         "daa929af-5566-4e75-b879-ca19197d0486",
@@ -615,7 +615,7 @@
     {
       "dutyID": "bcb8f604-6664-454d-ae35-3216293d6eea",
       "dutyDetail": "Manage provision within relevant legislative frameworks",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "65d905f1-9e32-471b-9fd3-c43212ebe81a",
         "daa929af-5566-4e75-b879-ca19197d0486",
