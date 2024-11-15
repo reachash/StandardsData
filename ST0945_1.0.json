@@ -281,7 +281,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2022-02-02T00:00:00 +00:00",
@@ -305,7 +305,7 @@
     "Outdoor Learning Course Director"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Community Exercise, Physical Activity, Sport and Health",
   "cluster": "Exercise, fitness and health specialist",
@@ -347,7 +347,7 @@
     {
       "dutyID": "03866323-e7ee-4d6e-b120-9e67ada438b0",
       "dutyDetail": "Establish participants’ needs, customer expectations and agree required outcomes for a programme of outdoor activities that delivers progressive learning and change by working in partnership with individual group members and stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f187c0ea-7876-492e-b783-006c6352dd80",
         "2976e6aa-34e0-4608-ad32-3e2c559e46db",
@@ -388,7 +388,7 @@
     {
       "dutyID": "f426fdfd-e014-40b7-a4ea-3d8aaa467702",
       "dutyDetail": "Design and plan outdoor learning programmes informed by relevant reports, evidence and research, related theories (e.g. theory of change, physiology, risk-benefit, adventure, sustainability, psychology, outdoor coaching, leadership), legislation (e.g. H&SAW, AALR), ethics (e.g. IOL Code of Professional Conduct), and accepted good practice in outdoor learning (e.g. IOL Occupational Standards, IOL Statements of Good Practice, Activity Awarding Body Scope of Practice).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f187c0ea-7876-492e-b783-006c6352dd80",
         "2976e6aa-34e0-4608-ad32-3e2c559e46db",
@@ -451,7 +451,7 @@
     {
       "dutyID": "c86eebbc-3896-4600-be83-3eb546caacc1",
       "dutyDetail": "Apply outdoor leadership experience to determine the likely hazards of activities and experiences and perform risk – benefit assessments for working in unknown or complex or unpredictable or wild or remote outdoor environments.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f187c0ea-7876-492e-b783-006c6352dd80",
         "2976e6aa-34e0-4608-ad32-3e2c559e46db",
@@ -490,7 +490,7 @@
     {
       "dutyID": "132b614d-bc47-47e2-81c0-417bf2be55b0",
       "dutyDetail": "Manage the allocated resources required for an outdoor learning programme, including delivery team, vehicles, trailers, technical equipment, catering, budget, etc.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f187c0ea-7876-492e-b783-006c6352dd80",
         "2976e6aa-34e0-4608-ad32-3e2c559e46db",
@@ -541,7 +541,7 @@
     {
       "dutyID": "bd0ceac8-6608-4899-8f2d-02b8df479d0c",
       "dutyDetail": "Coach, mentor and provide feedback to allocated programme delivery team to develop their knowledge skills, competence and confidence in meeting the outcomes of the programme.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f187c0ea-7876-492e-b783-006c6352dd80",
         "2976e6aa-34e0-4608-ad32-3e2c559e46db",
@@ -601,7 +601,7 @@
     {
       "dutyID": "80e0e605-2c44-40e4-82d5-bf2cf09b73f3",
       "dutyDetail": "Lead individual and group activities and experiences outdoors by applying dynamic risk assessment, and professional judgement and decision making to meet the physical, mental and emotional safety and wellbeing needs of participants.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f187c0ea-7876-492e-b783-006c6352dd80",
         "2976e6aa-34e0-4608-ad32-3e2c559e46db",
@@ -646,7 +646,7 @@
     {
       "dutyID": "d7fa3ec3-e221-4ff1-9302-131361f9607c",
       "dutyDetail": "Assess and solve complex and unpredictable problems associated with changing conditions and needs (for example, individuals, the group, the natural outdoor environment, weather, equipment, etc.) in order to work autonomously in unknown outdoor environments away from immediate help and direct line management.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f187c0ea-7876-492e-b783-006c6352dd80",
         "2976e6aa-34e0-4608-ad32-3e2c559e46db",
@@ -693,7 +693,7 @@
     {
       "dutyID": "1bc0a2be-9b99-4686-8d56-7791a9726506",
       "dutyDetail": "Manage individual and group wellbeing (e.g. food, shelter, warmth, security, safeguarding, duty of care responsibilities) during day and overnight experiences (e.g. wild camp, bunkhouse, residential centre, sail training vessel) and demonstrate equality, diversity and inclusion.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f187c0ea-7876-492e-b783-006c6352dd80",
         "2976e6aa-34e0-4608-ad32-3e2c559e46db",
@@ -759,7 +759,7 @@
     {
       "dutyID": "c90c8e98-ec77-4ab9-b84d-d51ba0cf9fb3",
       "dutyDetail": "Facilitate learning using a wide variety of teaching, personal development, assessment, reflection, feedback and coaching strategies to engage participants",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f187c0ea-7876-492e-b783-006c6352dd80",
         "2976e6aa-34e0-4608-ad32-3e2c559e46db",
@@ -822,7 +822,7 @@
     {
       "dutyID": "a45d1711-a840-41a0-a3c2-916bb13ff62f",
       "dutyDetail": "Plan, adapt and develop outdoor activity specific learning approaches, teaching resources and equipment to meet a complex variety of environmental, technical and participant needs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2976e6aa-34e0-4608-ad32-3e2c559e46db",
         "c0b7a353-4d4a-4bfa-9d28-7ff0f8dc5e12",
@@ -880,7 +880,7 @@
     {
       "dutyID": "1b7bd04c-8143-426b-8aab-0152ddd0bcf2",
       "dutyDetail": "Inspire connection, promote sustainable use and on-going engagement with the natural outdoor environment by explaining the essential facts, principles, values, beliefs, ethics and aesthetics about the outdoor environment they are working in.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f187c0ea-7876-492e-b783-006c6352dd80",
         "c0b7a353-4d4a-4bfa-9d28-7ff0f8dc5e12",
@@ -923,7 +923,7 @@
     {
       "dutyID": "029e45fd-afb3-4076-9388-fad8090bdf0f",
       "dutyDetail": "Evaluate actions, methods, results and impact of an outdoor learning programme and explain qualitative and quantitative data to customers, stakeholders and other interested parties.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f187c0ea-7876-492e-b783-006c6352dd80",
         "c4b8d149-9deb-4f30-8bcf-43b5147ddc4a",
@@ -966,7 +966,7 @@
     {
       "dutyID": "a5aab1f6-9d34-4248-b964-8e5d4a021833",
       "dutyDetail": "Maintain outdoor learning professional competence and ethical practice by taking responsibility for own learning and development with minimum direction.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f187c0ea-7876-492e-b783-006c6352dd80",
         "2976e6aa-34e0-4608-ad32-3e2c559e46db",
