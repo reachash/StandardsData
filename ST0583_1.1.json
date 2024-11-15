@@ -326,7 +326,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-08-22T00:00:00 +00:00",
@@ -359,7 +359,7 @@
     {
       "dutyID": "d228d032-3368-4443-8168-53c02568f025",
       "dutyDetail": "Prepare individuals, equipment and work environments for clinical mammography.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -369,7 +369,7 @@
     {
       "dutyID": "a4b5922e-6eda-4de7-b315-8a9122ed4b9a",
       "dutyDetail": "Operate specialised mammography equipment safely and within standard operating procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -379,7 +379,7 @@
     {
       "dutyID": "5633fe57-1092-48bd-a036-40e3f00b9c34",
       "dutyDetail": "Reassure, advise and support individuals using effective interpersonal and communication skills.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -389,7 +389,7 @@
     {
       "dutyID": "ac5e1a17-2fd1-4464-937a-73d41634001e",
       "dutyDetail": "Produce high quality mammography images.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -399,7 +399,7 @@
     {
       "dutyID": "0108ceb2-99bc-4a20-a82b-e904ee97805d",
       "dutyDetail": "Maintain comprehensive and accurate records.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -409,7 +409,7 @@
     {
       "dutyID": "d4303fc2-1f09-4c42-bfed-2971c82076ba",
       "dutyDetail": "Use information management systems effectively.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -419,7 +419,7 @@
     {
       "dutyID": "8f852ce2-9bf6-48da-9c52-83c63a2c251a",
       "dutyDetail": "Promote and maintain professional practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -429,7 +429,7 @@
     {
       "dutyID": "10781574-1e6c-4973-9d54-beebbd573331",
       "dutyDetail": "Evaluate own technical performance and suggest improvement strategies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -439,7 +439,7 @@
     {
       "dutyID": "7b2f2f2f-82be-4fec-83ad-122a56a749cf",
       "dutyDetail": "Perform and document routine regulatory quality control tests on all mammographic equipment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -449,7 +449,7 @@
     {
       "dutyID": "6e6b7afa-2966-432c-86c3-04e47a039a77",
       "dutyDetail": "Monitor equipment performance and report exceptional results.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -459,7 +459,7 @@
     {
       "dutyID": "9d9bd607-7d5d-4aa7-818d-1c96effed3be",
       "dutyDetail": "Work as part of the multi-disciplinary breast care team.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -469,7 +469,7 @@
     {
       "dutyID": "d5bf1646-f6fa-4f93-a508-53e0c1b8a7ef",
       "dutyDetail": "Maintain health and safety in the workplace.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
