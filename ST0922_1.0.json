@@ -349,7 +349,7 @@
     "Tree Manager",
     "Senior Tree Officer"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Arboriculture and forestry professional",
@@ -395,7 +395,7 @@
     {
       "dutyID": "d93bec62-0471-4458-a007-38aa3a2dc361",
       "dutyDetail": "Provide advice and consultancy about trees including tree management, health, the law, risk and the role of trees in development to the public, clients, other professions and colleagues. Advise on amenity, peri-urban and urban tree planting and management; trees with special value (e.g. ancient, historic context, rare, visually important) and the impact of developments and new infrastructure in relation to trees.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9baebb03-c977-4e25-a2fe-353c7ea72b19",
         "cf8ee8a1-e3db-4cab-9b4f-1de195ea5b7e"
@@ -438,7 +438,7 @@
     {
       "dutyID": "ae42bb19-f48f-40f4-b1e5-df85d836c3a0",
       "dutyDetail": "Able to act as an expert witness on amenity, peri-urban and urban tree related matters.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9baebb03-c977-4e25-a2fe-353c7ea72b19",
         "3cd30254-a7cf-431d-b762-5a5a4c03d5e0",
@@ -477,7 +477,7 @@
     {
       "dutyID": "2be4d57f-6a11-4f7f-8e80-4b3be5fcf4fe",
       "dutyDetail": "Advocate for incorporating professional tree expertise in green infrastructure design and peri-urban and urban planning. Contribute to green infrastructure innovations and actively promote the benefits of trees within planning policy including air quality.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9baebb03-c977-4e25-a2fe-353c7ea72b19",
         "3cd30254-a7cf-431d-b762-5a5a4c03d5e0",
@@ -511,7 +511,7 @@
     {
       "dutyID": "71e11b96-d40f-4086-8511-6c430e02e795",
       "dutyDetail": "Research, collect and interpret data on trees by recording and capturing data related to site factors, plant health, amenity value, natural capital, ecosystem services, suitability, risk, community perspectives, threats and historical value.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "b421077d-80d2-4ac6-81d2-d04b1da63b18",
@@ -536,7 +536,7 @@
     {
       "dutyID": "cffb81aa-7f69-4913-95dc-2ab589e5b7ef",
       "dutyDetail": "Contribute to the development and implementation of tree management plans and strategies, where applicable, incorporating reference to legislation, regulation, policy and best practice (e.g. national planning policy, local and regional planning policy) including resilience and emergency planning for extreme weather events.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9baebb03-c977-4e25-a2fe-353c7ea72b19",
         "3cd30254-a7cf-431d-b762-5a5a4c03d5e0",
@@ -591,7 +591,7 @@
     {
       "dutyID": "42998a1d-2409-4020-93ab-9d38006eeaa6",
       "dutyDetail": "Lead on delivering proactive tree management that includes managing quality of tree works (in accordance with 'British Standard 3998 (BS3998): Tree work Recommendations'), community/stakeholder engagement, environmental impact and health and safety. Reference to Duty of Care, Highways Act and New Roads and Street Works Act.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9baebb03-c977-4e25-a2fe-353c7ea72b19",
         "dfd0c817-1392-4160-86e8-f26f59caadc0",
@@ -644,7 +644,7 @@
     {
       "dutyID": "e8c522c3-e124-4763-9ee2-363572df48cd",
       "dutyDetail": "Manage amenity tree survey and inspection regimes taking into account duty of care and foreseeable risk to people, buildings and property to determine appropriate mitigation options.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9baebb03-c977-4e25-a2fe-353c7ea72b19",
         "4add90a0-efd2-4b60-b74f-6d143d4e64e2"
@@ -688,7 +688,7 @@
     {
       "dutyID": "cbeafdb7-5476-4a52-9a3f-51dbdd6a1386",
       "dutyDetail": "Survey and inspect trees in complex and unusual circumstances for example ancient or veteran trees, those that are rare, those that are of historical or cultural importance or those involved in subsidence.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9baebb03-c977-4e25-a2fe-353c7ea72b19",
         "3cd30254-a7cf-431d-b762-5a5a4c03d5e0",
@@ -737,7 +737,7 @@
     {
       "dutyID": "a4af80d9-4d85-4cd4-b594-a3972f269a5e",
       "dutyDetail": "Inform the development process by adhering to the Town and Country Planning Act while undertaking surveys and producing detailed 'British Standard 5837 (BS5837): Trees in relation to design, demolition and construction' reports, produce high quality plans and associated guidance for professional planners, architects and engineers in relation to trees, e.g. Tree Surveys, Arboricultural Impact Assessments (AIA), Arboricultural Method Statements (AMS), Tree Preservation Order and Conservation Area advice / guidance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9baebb03-c977-4e25-a2fe-353c7ea72b19",
         "cf8ee8a1-e3db-4cab-9b4f-1de195ea5b7e"
@@ -778,7 +778,7 @@
     {
       "dutyID": "81abe605-14d9-482c-814d-18f145129f86",
       "dutyDetail": "Utilise tree data via defined software (Tree Management Databases, Computer Aided Design (CAD), Building Information Modelling (BIM)) and Geographic Information Systems (GIS) to inform strategic amenity tree management and policy to aid with influencing decision makers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9baebb03-c977-4e25-a2fe-353c7ea72b19"
       ],
@@ -804,7 +804,7 @@
     {
       "dutyID": "58851d36-adff-4360-9099-0d8ceb8d1553",
       "dutyDetail": "Evaluate and act in accordance with current legislation (statutory and common law), best practice, relevant case law and regulations related to trees.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9baebb03-c977-4e25-a2fe-353c7ea72b19",
         "cf8ee8a1-e3db-4cab-9b4f-1de195ea5b7e"
@@ -829,7 +829,7 @@
     {
       "dutyID": "706c98a8-556c-4f67-ab62-201be2c1dc0e",
       "dutyDetail": "Design and specify amenity, peri-urban and urban tree planting plans by incorporating ‘right tree, right place’ methodologies; identification of suitable sites; appropriate tree species selection; materials; planting and after care; biosecurity; provenance of tree stock; implementing knowledge of current National House Building Council (NHBC) guidance for trees in relation to buildings; and adhering to 'British Standard 8545 (BS8545): Trees: from nursery to independence in the landscape.'",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9baebb03-c977-4e25-a2fe-353c7ea72b19",
         "3cd30254-a7cf-431d-b762-5a5a4c03d5e0",
@@ -863,7 +863,7 @@
     {
       "dutyID": "420aba5b-4704-46ce-8170-4b9a2ee56c0c",
       "dutyDetail": "Manage tree work operations such as felling, aerial pruning and planting; to include planning, resourcing, procurement (contract creation and tendering for contracts in line with UK and EU regulations and legislation) and management of contractors, health and safety, environmental considerations, access and quality enforcement with reference to BS3998, relevant legislation and regulations, Risk Assessment procedures and arboricultural best practice guidance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9baebb03-c977-4e25-a2fe-353c7ea72b19",
         "dfd0c817-1392-4160-86e8-f26f59caadc0",
@@ -910,7 +910,7 @@
     {
       "dutyID": "3c5b9751-4ce8-4936-be18-103251f700a9",
       "dutyDetail": "Identify and manage tree pests, pathogens and diseases including prevention, management of spread and regulatory reporting. Identify and evaluate future threats to UK trees. Manage the impact of tree pests, pathogens and diseases on amenity trees, human health, ecosystems and the wider environment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dfd0c817-1392-4160-86e8-f26f59caadc0",
         "4add90a0-efd2-4b60-b74f-6d143d4e64e2"
@@ -945,7 +945,7 @@
     {
       "dutyID": "c4d0d40d-2b7f-45cd-b4e5-5dff50cb5a1f",
       "dutyDetail": "Manage the promotion of the organisation and its products and services. Manage relationships with members of the public, other professionals, other professions and key stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9baebb03-c977-4e25-a2fe-353c7ea72b19",
         "3cd30254-a7cf-431d-b762-5a5a4c03d5e0",
@@ -971,7 +971,7 @@
     {
       "dutyID": "1fdb8262-3bee-40bf-a57e-010570a29857",
       "dutyDetail": "Manage directly employed or contract workforce and volunteers, including work culture, workforce planning, motivation, quality, health and safety, skills, recruitment, retention, training and development.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9baebb03-c977-4e25-a2fe-353c7ea72b19",
         "3cd30254-a7cf-431d-b762-5a5a4c03d5e0",
@@ -1008,7 +1008,7 @@
     {
       "dutyID": "08ce58db-b655-4819-b5fc-fb285d4f1071",
       "dutyDetail": "Financial management to include budgeting, financial reporting and, where applicable, sourcing funding (for example Urban Tree Challenge Fund). Generate income including developing business cases, identifying market / audience, quality, customer service, managing targets and developing opportunities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9baebb03-c977-4e25-a2fe-353c7ea72b19",
         "3cd30254-a7cf-431d-b762-5a5a4c03d5e0",
@@ -1032,7 +1032,7 @@
     {
       "dutyID": "b7fc7051-f445-4670-9322-b835b718d63c",
       "dutyDetail": "Manage systems and processes, including specialist tree management databases, to drive improvements and utilise relevant information to manage and influence organisational change, enhancing business performance and service delivery.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9baebb03-c977-4e25-a2fe-353c7ea72b19"
       ],
