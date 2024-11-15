@@ -362,7 +362,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2022-06-01T00:00:00 +00:00",
@@ -380,7 +380,7 @@
     "Small vessel chief engineer officer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Installation, service, repair and or or overhaul advanced technician",
@@ -414,7 +414,7 @@
     {
       "dutyID": "a241733b-c9ba-4d82-a148-85ae52c1185d",
       "dutyDetail": "Prepare, maintain, and check vessel engineering systems whilst alongside.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
         "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
@@ -464,7 +464,7 @@
     {
       "dutyID": "dc24aca8-7fa8-460a-9a78-ffe32d47e836",
       "dutyDetail": "Monitor engineering operational parameters whilst vessel is at sea for example, engine temperatures, and fuel, and oil and water consumption, adjusting engine and propulsion parameters to maximise fuel efficiency and minimise pollution.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
         "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
@@ -507,7 +507,7 @@
     {
       "dutyID": "2b095dda-c050-4f92-9302-5d47a7d0551b",
       "dutyDetail": "Take overall responsibility for the monitoring of vessel equipment and its operational readiness.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
         "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
@@ -555,7 +555,7 @@
     {
       "dutyID": "ddeac8ba-37ae-4ea2-b94b-52c8ab2b20e1",
       "dutyDetail": "Undertake planned maintenance of engineering components in accordance with the planned vessel maintenance system and manage others undertaking maintenance. Recommend improvements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
         "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
@@ -604,7 +604,7 @@
     {
       "dutyID": "897318c8-1854-4a32-8aa4-59bd716e92d2",
       "dutyDetail": "Maintain and test safety systems (for example, fire-fighting) and safety barriers, whilst at sea and alongside.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
         "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
@@ -637,7 +637,7 @@
     {
       "dutyID": "4e918b0c-8255-43a7-9380-827b05658991",
       "dutyDetail": "Undertake fault-finding and diagnosis of vessel engineering issues. Conduct basic repairs and replace parts.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
         "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
@@ -685,7 +685,7 @@
     {
       "dutyID": "d0024bfe-c565-41c0-94a7-95677a87b4e9",
       "dutyDetail": "Liaise with shore managers regarding vessel engineering repair contractor requirements. Control of engineering contractors undertaking vessel repairs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
         "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
@@ -717,7 +717,7 @@
     {
       "dutyID": "ba8b87cf-7f87-4535-bc51-a129a9ba2ac4",
       "dutyDetail": "Order stock and spares for the vessel operation including bunkering – storage and provision of fuel for vessel.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
         "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
@@ -751,7 +751,7 @@
     {
       "dutyID": "cebff459-5a28-4bb5-a196-c14087e4ef6c",
       "dutyDetail": "Operate vessel safety management systems, including conducting risk assessments in line with onboard procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
         "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
@@ -779,7 +779,7 @@
     {
       "dutyID": "f91f92b8-fbfa-43bb-bdb7-6bcee8009abd",
       "dutyDetail": "Carry out basic security checks for example, visual inspection of vessel, and checking identification for visitors on board the vessel.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
         "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
@@ -806,7 +806,7 @@
     {
       "dutyID": "e3cc4822-f188-4434-b280-3ba9716af6d5",
       "dutyDetail": "Record and report on vessel engineering factors for example, planned and unplanned maintenance, fuel consumption, and waste.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
         "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
@@ -837,7 +837,7 @@
     {
       "dutyID": "e9d52f54-587f-44cf-8102-cca025aef236",
       "dutyDetail": "Maintain vessel machinery spaces in a clean, tidy, and oil-free condition.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
         "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
@@ -863,7 +863,7 @@
     {
       "dutyID": "46141acd-c054-4f7d-8e02-6503c4c8ff38",
       "dutyDetail": "Take charge of the engineering response during an emergency. For example, vessel fire, flooding, collision, or hi-jacking.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
         "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
@@ -900,7 +900,7 @@
     {
       "dutyID": "c75ba658-2a3a-4e54-8b25-32865fb1a23a",
       "dutyDetail": "Shut down vessel running machinery upon return from sea, whilst maintaining operational efficiency.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
         "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
@@ -928,7 +928,7 @@
     {
       "dutyID": "995babc3-a518-4b05-99f7-200d67e12936",
       "dutyDetail": "Prepare for statutory surveys and dry dock including preparation of the necessary paperwork and dry dock.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
         "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
@@ -966,7 +966,7 @@
     {
       "dutyID": "1d50040a-6733-4619-84be-608af9ac5d00",
       "dutyDetail": "Commission and support sea trials.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
         "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
@@ -1001,7 +1001,7 @@
     {
       "dutyID": "e86d1e83-c07e-465f-a42a-abdbea6ab4f8",
       "dutyDetail": "Maintain equipment and tools for vessel maintenance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
         "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
@@ -1028,7 +1028,7 @@
     {
       "dutyID": "4d3053f3-a517-47cb-be95-1e1a7a13f6f4",
       "dutyDetail": "Manage waste – storage and removal in line with environmental regulation, policy, and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
         "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
@@ -1059,7 +1059,7 @@
     {
       "dutyID": "e56ebaa4-8d55-44e3-9777-2616a49ded7d",
       "dutyDetail": "Manage and lead the engineering team onboard including external contractors such as manufacturers’ representatives.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "f25b09ca-7192-4fc8-9804-9f2b8d824ce8",
