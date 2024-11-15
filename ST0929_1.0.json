@@ -304,7 +304,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-04-30T00:00:00 +00:00",
@@ -324,7 +324,7 @@
     "Senior pastry chef"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Catering",
   "cluster": "Caterer",
@@ -342,7 +342,7 @@
     {
       "dutyID": "ca9d6218-4b81-4b0d-985c-3f6c0641fc59",
       "dutyDetail": "Produce patisserie, confectionery, desserts, and bakery products to meet recipe specifications and organisational standards",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1cce3607-a6f4-4b63-b8f9-3d3af3a8b7cf"
       ],
@@ -390,7 +390,7 @@
     {
       "dutyID": "bf07737a-a848-4e79-bf15-9bb636d21ca3",
       "dutyDetail": "Oversee the quality of finished products against recipe specifications",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1cce3607-a6f4-4b63-b8f9-3d3af3a8b7cf",
         "0feeb94c-704c-4557-8d5b-c80385eefca0",
@@ -416,7 +416,7 @@
     {
       "dutyID": "349f7f6d-a0c5-45f1-857f-782aac7d6aad",
       "dutyDetail": "Contribute to the planning and allocation of daily tasks, including proactive contingency planning and adapting plans where needed",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1cce3607-a6f4-4b63-b8f9-3d3af3a8b7cf",
         "0feeb94c-704c-4557-8d5b-c80385eefca0"
@@ -437,7 +437,7 @@
     {
       "dutyID": "564f7be9-541a-478e-ae74-3628121e5d04",
       "dutyDetail": "Communicate with the head chef, team, organisation or client with regard to the pastry offer and specific briefs",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1cce3607-a6f4-4b63-b8f9-3d3af3a8b7cf",
         "0feeb94c-704c-4557-8d5b-c80385eefca0",
@@ -458,7 +458,7 @@
     {
       "dutyID": "3e95fb50-61ac-497a-978b-6b3ff347fc94",
       "dutyDetail": "Ensure the safe and correct use and preventative maintenance of specialist equipment ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "e864bbb3-4f5d-4826-a2fe-6b0d1769e0ca"
@@ -474,7 +474,7 @@
     {
       "dutyID": "4c780508-2cf3-4992-ab25-2c291a5ce849",
       "dutyDetail": "Maintain a hygienic and efficient working environment ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0feeb94c-704c-4557-8d5b-c80385eefca0"
       ],
@@ -493,7 +493,7 @@
     {
       "dutyID": "d6b5b9e0-e885-4c5f-bc73-b989b47c1d47",
       "dutyDetail": "Apply health and safety and food safety legislation and regulations ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "8fdcf2b0-1e7b-4b50-8398-6ef60b4a5e97",
@@ -512,7 +512,7 @@
     {
       "dutyID": "8e9f68a6-36b7-4bef-98da-e0a8bf889ecf",
       "dutyDetail": "Contribute to new product development and product improvement based on trends, seasonality, availability and feedback",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1cce3607-a6f4-4b63-b8f9-3d3af3a8b7cf",
         "eea38200-07f1-4c35-a64a-bed0bc53310e"
@@ -537,7 +537,7 @@
     {
       "dutyID": "f936007a-a8d7-4f14-b41d-acd8d582f5fa",
       "dutyDetail": "Take action based on errors or efficiencies arising in production and any internal and external feedback eg team member, head chef, customer",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1cce3607-a6f4-4b63-b8f9-3d3af3a8b7cf",
         "eea38200-07f1-4c35-a64a-bed0bc53310e"
@@ -565,7 +565,7 @@
     {
       "dutyID": "7333cf9a-874f-45c6-a316-75ffb544e730",
       "dutyDetail": "Contribute ideas and suggestions to continually improve the efficiency and effectiveness of processes and ways of working",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1cce3607-a6f4-4b63-b8f9-3d3af3a8b7cf",
         "0feeb94c-704c-4557-8d5b-c80385eefca0",
@@ -584,7 +584,7 @@
     {
       "dutyID": "562e4641-16c2-474f-8fe7-db286cb57d79",
       "dutyDetail": "Produce products that can be effectively presented, held, served and or transported to customers on and off-site. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1cce3607-a6f4-4b63-b8f9-3d3af3a8b7cf",
         "eea38200-07f1-4c35-a64a-bed0bc53310e"
@@ -611,7 +611,7 @@
     {
       "dutyID": "4693f965-652c-431d-8c8c-f678cd3b516b",
       "dutyDetail": "Monitor and manage the quantity and quality of ingredients and commodities according to business need ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "eea38200-07f1-4c35-a64a-bed0bc53310e"
       ],
@@ -631,7 +631,7 @@
     {
       "dutyID": "90dbdf3f-bb26-4260-a7f3-be5b77ff8a44",
       "dutyDetail": "Responsible for own personal development and keeping abreast of trends and techniques",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "eea38200-07f1-4c35-a64a-bed0bc53310e",
         "1919d785-95e2-4ab6-82b9-1e3aedba685c"
