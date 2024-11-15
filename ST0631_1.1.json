@@ -564,7 +564,7 @@
     "Workplace health advisor"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
   "cluster": "Health Professional",
@@ -614,7 +614,7 @@
     {
       "dutyID": "5c1b4210-7620-4f70-b22d-b9a86b4e5fc6",
       "dutyDetail": "measure, monitor and report population health and wellbeing; health needs, risks, and inequalities; and the use of services",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4421a11b-d53e-4adb-83bc-d902111ff498",
         "8dde1e4a-3ea0-4208-8f10-3de69e48fc6a",
@@ -638,7 +638,7 @@
     {
       "dutyID": "8004460d-826d-4565-b3b8-29d1516ac560",
       "dutyDetail": "promote population and community health and wellbeing, addressing the wider determinants of health and health inequalities",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7487714d-7332-4cff-b3b5-e6d609683af1",
         "125bd41e-7db6-4c8b-87e8-db625198b947",
@@ -661,7 +661,7 @@
     {
       "dutyID": "ec757b35-47c2-4ba4-a32d-5ff9c1da65cf",
       "dutyDetail": "protect the public from environmental hazards, communicable disease, and other health risks, while addressing inequalities in risk exposure and outcomes",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4421a11b-d53e-4adb-83bc-d902111ff498",
         "fcae1d01-4890-41f5-8260-940ad0752b29",
@@ -686,7 +686,7 @@
     {
       "dutyID": "2659d6fd-1bde-4c64-8c4c-e9bca94a9055",
       "dutyDetail": "access and use the evidence base, conduct research and provide informed advice",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4421a11b-d53e-4adb-83bc-d902111ff498",
         "e0573e8f-4498-4c5a-8a85-c66c958f6ea0",
@@ -710,7 +710,7 @@
     {
       "dutyID": "e4b2eb9e-aefc-4ebd-8af1-0d68928529d0",
       "dutyDetail": "audit, evaluate and re-design services and interventions to improve health outcomes and reduce health inequalities",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "29b291bb-3b44-4a5b-8d10-e6ef472135bc",
         "7487714d-7332-4cff-b3b5-e6d609683af1",
@@ -733,7 +733,7 @@
     {
       "dutyID": "dc096076-64b4-49ec-90bb-5268bbcc5ab4",
       "dutyDetail": "work with, and through, policies and strategies to improve health outcomes and reduce health inequalities",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "125bd41e-7db6-4c8b-87e8-db625198b947",
         "a7a752db-4379-47d6-9fa3-4f012cd0829c",
@@ -756,7 +756,7 @@
     {
       "dutyID": "eb44f3f3-7223-43d2-8562-9e2138f64e1e",
       "dutyDetail": "work collaboratively across agencies and boundaries to improve health outcomes and reduce health inequalities",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7487714d-7332-4cff-b3b5-e6d609683af1",
         "abdb45cd-74d8-4640-b59d-0714eca50bd1",
@@ -778,7 +778,7 @@
     {
       "dutyID": "3d6ded97-6c4e-4112-b46c-5b429a7e67a6",
       "dutyDetail": "work in a commissioning based culture to improve health outcomes and reduce health inequalities",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "29b291bb-3b44-4a5b-8d10-e6ef472135bc",
         "125bd41e-7db6-4c8b-87e8-db625198b947",
@@ -801,7 +801,7 @@
     {
       "dutyID": "37603e19-55dc-4cb7-9974-bd92b85ba0c1",
       "dutyDetail": "work within political and democratic systems and with a range of organisational cultures to improve health outcomes and reduce health inequalities",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "29b291bb-3b44-4a5b-8d10-e6ef472135bc",
         "125bd41e-7db6-4c8b-87e8-db625198b947",
@@ -826,7 +826,7 @@
     {
       "dutyID": "a12e3236-0a95-451b-b3cf-2712d8e52386",
       "dutyDetail": "provide leadership to drive improvement in health outcomes and the reduction of health inequalities",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7487714d-7332-4cff-b3b5-e6d609683af1",
         "f6c91866-f528-4bf7-bb46-3d1b2a79a7ae",
@@ -850,7 +850,7 @@
     {
       "dutyID": "c4dc8414-f5af-4be4-b83f-ba18d0bffdc2",
       "dutyDetail": "communicate with others to improve health outcomes and reduce health inequalities",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4421a11b-d53e-4adb-83bc-d902111ff498",
         "7487714d-7332-4cff-b3b5-e6d609683af1",
@@ -876,7 +876,7 @@
     {
       "dutyID": "5e922efc-b669-46d2-96f3-44352e944949",
       "dutyDetail": "design and manage programmes and projects to improve health and reduce health inequalities",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "29b291bb-3b44-4a5b-8d10-e6ef472135bc",
         "a7a752db-4379-47d6-9fa3-4f012cd0829c",
@@ -898,7 +898,7 @@
     {
       "dutyID": "f5aca772-9386-4891-81d6-5b8e67ee90b4",
       "dutyDetail": "prioritise and manage resources at a population/systems level to achieve equitable health outcomes and return on investment",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "29b291bb-3b44-4a5b-8d10-e6ef472135bc",
         "f6c91866-f528-4bf7-bb46-3d1b2a79a7ae",
@@ -921,7 +921,7 @@
     {
       "dutyID": "78a796b8-5b29-422b-bb54-109bbf84a8e8",
       "dutyDetail": "work within ethical and professional boundaries while promoting population health and wellbeing, and addressing health inequalities",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fcae1d01-4890-41f5-8260-940ad0752b29",
         "a7a752db-4379-47d6-9fa3-4f012cd0829c",
