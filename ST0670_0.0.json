@@ -198,7 +198,7 @@
     "Site Operative"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Onsite Construction",
   "cluster": "Construction specialist operative or technician",
@@ -216,7 +216,7 @@
     {
       "dutyID": "6503a410-49ad-4758-bb26-46bea50f1057",
       "dutyDetail": "Follow instructions to minimise risk and ensure the safety of the team and customer",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "48bf5845-418b-4bdf-a273-7abeb5fd95a1",
         "db299ce6-4cda-475a-ae90-1e7b688e7c31",
@@ -249,7 +249,7 @@
     {
       "dutyID": "22802d08-704a-4350-9636-b13ef97355c7",
       "dutyDetail": "Carry out treatment for the control of rising damp",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "48bf5845-418b-4bdf-a273-7abeb5fd95a1",
         "db299ce6-4cda-475a-ae90-1e7b688e7c31",
@@ -289,7 +289,7 @@
     {
       "dutyID": "53e7611b-58b9-46c8-8c48-becf29041ca5",
       "dutyDetail": "Applying an external water repellent (treatment for lateral water penetration)",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "48bf5845-418b-4bdf-a273-7abeb5fd95a1",
         "db299ce6-4cda-475a-ae90-1e7b688e7c31",
@@ -328,7 +328,7 @@
     {
       "dutyID": "131c055b-ce26-4cb6-ab95-28ae23e89808",
       "dutyDetail": "Install a damp proof membrane",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "48bf5845-418b-4bdf-a273-7abeb5fd95a1",
         "db299ce6-4cda-475a-ae90-1e7b688e7c31",
@@ -368,7 +368,7 @@
     {
       "dutyID": "a7a53b78-bd4c-4604-bcab-a37110a447e7",
       "dutyDetail": "Carry out wood boring insect treatment",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "48bf5845-418b-4bdf-a273-7abeb5fd95a1",
         "db299ce6-4cda-475a-ae90-1e7b688e7c31",
@@ -411,7 +411,7 @@
     {
       "dutyID": "c455fed0-c534-489b-9bc8-872b0c174d59",
       "dutyDetail": "Carry out Death Watch Beetle treatment",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "48bf5845-418b-4bdf-a273-7abeb5fd95a1",
         "db299ce6-4cda-475a-ae90-1e7b688e7c31",
@@ -454,7 +454,7 @@
     {
       "dutyID": "ad146bad-8cd3-4b8e-a123-4e5f9ac8a841",
       "dutyDetail": "Carry out Dry Rot (Serpula lacrymans) treatment",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "48bf5845-418b-4bdf-a273-7abeb5fd95a1",
         "db299ce6-4cda-475a-ae90-1e7b688e7c31",
@@ -497,7 +497,7 @@
     {
       "dutyID": "5e573997-f8e8-47a3-9b1b-50950eb978de",
       "dutyDetail": "Carry out Wet Rot treatment",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "48bf5845-418b-4bdf-a273-7abeb5fd95a1",
         "db299ce6-4cda-475a-ae90-1e7b688e7c31",
@@ -540,7 +540,7 @@
     {
       "dutyID": "09554214-f741-4abd-ac6c-5f60943d8e5f",
       "dutyDetail": "Carry out treatment for condensation",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "48bf5845-418b-4bdf-a273-7abeb5fd95a1",
         "db299ce6-4cda-475a-ae90-1e7b688e7c31",
@@ -574,7 +574,7 @@
     {
       "dutyID": "3c8a09d8-1339-407d-ba0f-a133c7998080",
       "dutyDetail": "Identify different types of building construction and terminology",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "48bf5845-418b-4bdf-a273-7abeb5fd95a1",
         "db299ce6-4cda-475a-ae90-1e7b688e7c31",
@@ -611,7 +611,7 @@
     {
       "dutyID": "187c85a2-8581-43ec-93a1-9d80b3a10e18",
       "dutyDetail": "Carry out necessary building repairs (treatment for lateral water penetration)",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "48bf5845-418b-4bdf-a273-7abeb5fd95a1",
         "db299ce6-4cda-475a-ae90-1e7b688e7c31",
