@@ -217,7 +217,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-07-03T00:00:00 +00:00",
@@ -238,7 +238,7 @@
     "Promotional assistant"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Marketing",
   "cluster": "Marketing Assistant",
@@ -263,7 +263,7 @@
     {
       "dutyID": "7d3fee11-fc99-42fe-bc56-c5f2b4d7bc4b",
       "dutyDetail": "Create and edit content in collaboration with senior colleagues for offline and/or digital marketing channels, such as website, social media, sales materials or event displays, ensuring that brand guidelines are met in order to achieve marketing objectives.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76a51356-8bda-4fca-ba12-75b15553d3b4",
         "194cb562-3755-41d6-87ed-a93e89eb8b48",
@@ -296,7 +296,7 @@
     {
       "dutyID": "a027d7d5-1fa9-416b-85fd-8deb5145ef04",
       "dutyDetail": "Publish editorial, creative and video content via social media or video sharing platforms, e.g. LinkedIn, Twitter, Instagram",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76a51356-8bda-4fca-ba12-75b15553d3b4",
         "194cb562-3755-41d6-87ed-a93e89eb8b48",
@@ -326,7 +326,7 @@
     {
       "dutyID": "a45db950-9ad0-41c9-90c6-93448661fca5",
       "dutyDetail": "Specify, purchase and quality assure marketing goods and services from external suppliers e.g. place a brochure print order, book exhibition space, book media space.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "194cb562-3755-41d6-87ed-a93e89eb8b48",
         "c16eafcc-3f89-4a57-b113-535ace7fbb8b",
@@ -352,7 +352,7 @@
     {
       "dutyID": "2a078faf-4d3d-4636-9027-bed47bc858a5",
       "dutyDetail": "Manage the cataloguing of offline and digital marketing assets including permissions and compliance, in-line with marketing regulations and legislation, e.g. storage and organisation of marketing materials, administering creative asset management systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c16eafcc-3f89-4a57-b113-535ace7fbb8b",
         "43f76987-b2b9-4d79-916e-f3379d03393f",
@@ -374,7 +374,7 @@
     {
       "dutyID": "87267f23-998a-47c8-af4e-5ddabc88677a",
       "dutyDetail": "Monitor and evaluate marketing delivery effectiveness by producing and interpreting reports from one or more marketing tools or systems, e.g. marketing automation report; social media monitoring report; analytics and metrics reports, budget tracker.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76a51356-8bda-4fca-ba12-75b15553d3b4",
         "84667dab-acab-4497-adb6-b202a1ab54d7",
@@ -404,7 +404,7 @@
     {
       "dutyID": "f691ad36-041f-42fc-9fee-62c37c389281",
       "dutyDetail": "Contribute to the planning, delivery or evaluation of marketing activity through creation of written planning and evaluation documents and presentations, e.g. marketing campaign results, market and customer intelligence research, update marketing plan",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76a51356-8bda-4fca-ba12-75b15553d3b4",
         "194cb562-3755-41d6-87ed-a93e89eb8b48",
@@ -436,7 +436,7 @@
     {
       "dutyID": "4f109680-2604-41d0-a2c7-75cd27ab94f6",
       "dutyDetail": "Use content management software to publish and refresh effective online content to engage with different customer segments.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76a51356-8bda-4fca-ba12-75b15553d3b4",
         "194cb562-3755-41d6-87ed-a93e89eb8b48",
@@ -467,7 +467,7 @@
     {
       "dutyID": "08c2b1fc-01f7-4acb-9d38-606a08b20787",
       "dutyDetail": "Use appropriate primary and secondary research methods including survey tools and desktop research to gather marketing insight or evaluation, and inform marketing decisions, planning and delivery.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76a51356-8bda-4fca-ba12-75b15553d3b4",
         "194cb562-3755-41d6-87ed-a93e89eb8b48",
@@ -496,7 +496,7 @@
     {
       "dutyID": "fb63c191-666f-4eb3-83db-92ef180a25dc",
       "dutyDetail": "Monitor marketing expenditure and activities to a specified budget and plan, ensuring invoices are processed efficiently.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "194cb562-3755-41d6-87ed-a93e89eb8b48",
         "c16eafcc-3f89-4a57-b113-535ace7fbb8b",
@@ -517,7 +517,7 @@
     {
       "dutyID": "d43e677a-628c-4947-8683-95b28be821a5",
       "dutyDetail": "Efficiently and effectively source creative assets (photographs, graphically designed creative, video content) for the production of marketing communication collateral in-line with regulations and legislation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76a51356-8bda-4fca-ba12-75b15553d3b4",
         "194cb562-3755-41d6-87ed-a93e89eb8b48",
@@ -545,7 +545,7 @@
     {
       "dutyID": "7bafb608-c6cd-42ee-9ec9-4460cde16a80",
       "dutyDetail": "Establish and maintain effective day to day relationships and communication between the marketing function and internal and external stakeholders to support marketing activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76a51356-8bda-4fca-ba12-75b15553d3b4",
         "c16eafcc-3f89-4a57-b113-535ace7fbb8b",
@@ -570,7 +570,7 @@
     {
       "dutyID": "10f25370-2e32-446f-b409-2712ebab7f2e",
       "dutyDetail": "Implement marketing activities through marketing administration, e.g. organise an exhibition display, arrange a marketing meeting, organising an event.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "194cb562-3755-41d6-87ed-a93e89eb8b48",
         "84667dab-acab-4497-adb6-b202a1ab54d7",
