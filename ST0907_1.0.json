@@ -221,7 +221,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2021-09-13T00:00:00 +00:00",
@@ -241,7 +241,7 @@
     "Passenger service agent"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Transport",
   "cluster": "Transport operations operative or technician",
@@ -268,7 +268,7 @@
     {
       "dutyID": "349b1bc2-4cef-4232-a2a0-acc90a605b0b",
       "dutyDetail": "Check customers (including handling travel documents) together with relevant identification to ensure compliance. Documents include passports, identity cards, visas, electronic travel authorisation (ESTA, EtA, APP & AQQ), military travel orders. Provide challenge where required and escalate unresolved issues to relevant teams, maintaining a safe border at all times. Scrutinise documents for possible forgeries or tampered documents and act in line with operational and government procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88c467f0-7f65-4ba6-ac2f-a44c36945031",
         "494725d3-ecd5-4296-bc5c-790e5e0d8483",
@@ -322,7 +322,7 @@
     {
       "dutyID": "79af0074-bcfe-4fc2-9b9d-6a7d1e14ded4",
       "dutyDetail": "Process all types of customers (including VIP's, customers requiring special passenger assistance, non-English speakers) and baggage using automated or manual systems following specific polices and in line with expected key performance indicators and aviation timetables. Identify and deal with irregularities as appropriate",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88c467f0-7f65-4ba6-ac2f-a44c36945031",
         "494725d3-ecd5-4296-bc5c-790e5e0d8483",
@@ -375,7 +375,7 @@
     {
       "dutyID": "c4d2cfe7-94d7-482d-94fb-f75028163b1f",
       "dutyDetail": "Issue boarding cards and complete baggage reconciliation process including oversized if appropriate. E.g. AAA (Authorizing and Accounting of Hold Baggage for carriage by air) against the travel documents presented using all means to check compliance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88c467f0-7f65-4ba6-ac2f-a44c36945031",
         "494725d3-ecd5-4296-bc5c-790e5e0d8483",
@@ -425,7 +425,7 @@
     {
       "dutyID": "d61f307f-3221-4c25-92a9-3f6342c686ec",
       "dutyDetail": "Make customers announcements in accordance within operator specific requirements. Ensure all types of customers (including VIP's, customers requiring special passenger assistance, non-English speakers) are kept informed in other to help meet the aviation timetable requirements and to minimise enquiries and complaints",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88c467f0-7f65-4ba6-ac2f-a44c36945031",
         "494725d3-ecd5-4296-bc5c-790e5e0d8483",
@@ -470,7 +470,7 @@
     {
       "dutyID": "62c75bb0-a57c-4046-8a43-074bed261182",
       "dutyDetail": "Deal with disruption and irregularities with confidence and composure, ensuring the border is not compromised. (E.g: cancelled flight example, can all customers be allowed back across the border? Does Border Force need to issue visas?).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88c467f0-7f65-4ba6-ac2f-a44c36945031",
         "494725d3-ecd5-4296-bc5c-790e5e0d8483",
@@ -520,7 +520,7 @@
     {
       "dutyID": "1bde3efe-bf6a-44b8-b1a0-cb8286170917",
       "dutyDetail": "Deliver customer service in accordance with organisational policy, airport, military base, heliport and other airfield protocol and health and safety policies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88c467f0-7f65-4ba6-ac2f-a44c36945031",
         "494725d3-ecd5-4296-bc5c-790e5e0d8483",
@@ -574,7 +574,7 @@
     {
       "dutyID": "928e166d-8634-4f42-b420-5a9fd055e06e",
       "dutyDetail": "Board / contribute to the boarding and disembarkation of aircraft in line with operator procedures and complete any required ticketing duties.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88c467f0-7f65-4ba6-ac2f-a44c36945031",
         "494725d3-ecd5-4296-bc5c-790e5e0d8483",
@@ -628,7 +628,7 @@
     {
       "dutyID": "e40255ed-410f-419d-bc5a-27694fbf15f5",
       "dutyDetail": "Take appropriate action when dealing with dangerous goods to ensure safety of customers and aircraft; (employers must ensure that all operatives hold a valid category 9 dangerous goods certificate or military version)",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88c467f0-7f65-4ba6-ac2f-a44c36945031",
         "494725d3-ecd5-4296-bc5c-790e5e0d8483",
@@ -676,7 +676,7 @@
     {
       "dutyID": "2e8e3d41-17c2-4130-97a5-abe945f13657",
       "dutyDetail": "Assist passengers with reduced mobility to enable a safe and efficient embarkation and disembarkation, adopting the safe and correct approaches to mobilisation in a range of differing circumstances. This includes passengers with reduced mobility, visual and hearing impairments and taking account of the environment (e.g. aircraft steps  & the need for an aisle chair); passengers with service animals and onboard care needed for animal.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88c467f0-7f65-4ba6-ac2f-a44c36945031",
         "494725d3-ecd5-4296-bc5c-790e5e0d8483",
@@ -725,7 +725,7 @@
     {
       "dutyID": "72aac6fc-72c4-495c-97dd-b8a0ded864a1",
       "dutyDetail": "Follow all safety, security (including acts of aggression) and compliance procedures in line with regulatory and organisational policies and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "88c467f0-7f65-4ba6-ac2f-a44c36945031",
         "494725d3-ecd5-4296-bc5c-790e5e0d8483",
