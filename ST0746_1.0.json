@@ -200,7 +200,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-11-20T00:00:00 +00:00",
@@ -217,10 +217,10 @@
     "Fire safety auditor"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Protective services",
-  "cluster": "Protective service manager",
+  "pathway": "Protective Services",
+  "cluster": "Protective Service Manager",
   "clusterId": "50",
   "clusterDescription": "Lead and manage a team providing safety, security, prevention, enforcement, protection and investigation services largely on behalf of society",
   "createdDate": "2022-03-15T14:12:32 +00:00",
@@ -242,7 +242,7 @@
     {
       "dutyID": "33e06cf6-4e55-4627-abc8-66483a2579a3",
       "dutyDetail": "Carry out Fire Safety inspections/audits of premises in line with current fire safety legislation",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc6ffcb9-4b51-4279-87c6-dffda3e14219",
         "403ea0dd-b5a0-4129-8165-4ce0a49056fa",
@@ -276,7 +276,7 @@
     {
       "dutyID": "709e2713-c1d1-4a82-b9f8-ede06eb1fede",
       "dutyDetail": "Enforce Fire Safety legislation in accordance with organisational policy, to include collecting/providing evidence, where appropriate",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc6ffcb9-4b51-4279-87c6-dffda3e14219",
         "403ea0dd-b5a0-4129-8165-4ce0a49056fa",
@@ -305,7 +305,7 @@
     {
       "dutyID": "ec2bcf60-7dd0-4035-83a8-4e5f81923c8b",
       "dutyDetail": "Gather Operational Risk Information to contribute to the safety of operational staff",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc6ffcb9-4b51-4279-87c6-dffda3e14219",
         "d762ffd6-e139-4f8f-a35f-38b71250e818",
@@ -334,7 +334,7 @@
     {
       "dutyID": "4c2d4594-d8f1-40e5-bfe6-5a8adb102f64",
       "dutyDetail": "Identify high risk premises, groups and individuals within the community to assist with the implementation of targeted risk-based inspection programmes",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc6ffcb9-4b51-4279-87c6-dffda3e14219",
         "403ea0dd-b5a0-4129-8165-4ce0a49056fa",
@@ -362,7 +362,7 @@
     {
       "dutyID": "7a8bc642-b461-4cd2-b9ca-4cd0b64431a0",
       "dutyDetail": "Examine and respond to consultations and submissions from external stakeholders and provide advice in order to determine compliance with statutory codes of practice and other fire safety related legislation with applicable time constraints. Submissions and consultations could include: planning, building regulations, House(s) of Multiple Occupancy, licencing, marriage venues, etc",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc6ffcb9-4b51-4279-87c6-dffda3e14219",
         "d762ffd6-e139-4f8f-a35f-38b71250e818",
@@ -391,7 +391,7 @@
     {
       "dutyID": "ed33a49d-91c2-42b6-84e1-eb22ae68eae4",
       "dutyDetail": "Support formal investigations as required by the organisation and take appropriate action",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d762ffd6-e139-4f8f-a35f-38b71250e818",
         "86db356b-71cd-4e19-828f-dd8c0023698c"
@@ -416,7 +416,7 @@
     {
       "dutyID": "de6ddfac-b72f-47e6-9b9b-8a5dada9b82e",
       "dutyDetail": "Contribute to the policy and procedures that relate to legislative guidance on matters concerning Fire Safety",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc6ffcb9-4b51-4279-87c6-dffda3e14219",
         "403ea0dd-b5a0-4129-8165-4ce0a49056fa",
@@ -442,7 +442,7 @@
     {
       "dutyID": "47855261-7ff1-476e-afec-6413c4207ce2",
       "dutyDetail": "Provide technical advice and support on fire safety regulations and guidance documents to internal and external stakeholders",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc6ffcb9-4b51-4279-87c6-dffda3e14219",
         "d762ffd6-e139-4f8f-a35f-38b71250e818",
@@ -470,7 +470,7 @@
     {
       "dutyID": "7911b1a2-824d-46a3-94d0-a8ca8b7952f5",
       "dutyDetail": "Work in accordance with the Primary Authority Scheme",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d762ffd6-e139-4f8f-a35f-38b71250e818",
         "66da24c3-0f32-45aa-9938-8c992128b796",
@@ -496,7 +496,7 @@
     {
       "dutyID": "faa4b7b4-ae12-4978-bfee-8391b8c0a7f9",
       "dutyDetail": "Provide support and guidance to businesses to reduce unwanted fire signals (e.g. from automatic fire alarms) and deliberate fires",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc6ffcb9-4b51-4279-87c6-dffda3e14219",
         "df74a0d5-4235-43a0-99fa-dc5bc8d657fc",
@@ -531,7 +531,7 @@
     {
       "dutyID": "899896ac-69d9-4e09-9890-1c0686feeaa9",
       "dutyDetail": "Collaborate effectively with partner agencies, particularly local regulatory services teams to join up enforcement activities",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc6ffcb9-4b51-4279-87c6-dffda3e14219",
         "403ea0dd-b5a0-4129-8165-4ce0a49056fa",
@@ -563,7 +563,7 @@
     {
       "dutyID": "0ac4047d-47eb-45f8-b1c2-cbb654de6fbb",
       "dutyDetail": "Attend internal and external meetings with stakeholders such as Safety Advisory Groups to provide guidance and support with fire safety matters to ensure the safety of the public",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc6ffcb9-4b51-4279-87c6-dffda3e14219",
         "403ea0dd-b5a0-4129-8165-4ce0a49056fa",
@@ -594,7 +594,7 @@
     {
       "dutyID": "ad6c6724-4bfe-4b0e-b58a-06e3a4c5a6e4",
       "dutyDetail": "Respond to alleged fire risks/complaints and post fire enquiries",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc6ffcb9-4b51-4279-87c6-dffda3e14219",
         "df74a0d5-4235-43a0-99fa-dc5bc8d657fc",
