@@ -200,7 +200,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-03-01T00:00:00 +00:00",
@@ -223,7 +223,7 @@
     "Vocational mentor"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": null,
   "cluster": null,
@@ -241,7 +241,7 @@
     {
       "dutyID": "c1a521e4-2773-4767-9edd-4bc425ea91e9",
       "dutyDetail": "Plan, conduct and record mentoring activities to support the progression of the mentee working within legal and ethical frameworks, including confidentiality and safeguarding.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5136d09b-3394-40e1-8833-f27e247531fc",
         "b257e78e-6905-4647-be3a-cc3966a006a9",
@@ -268,7 +268,7 @@
     {
       "dutyID": "10caddf6-9343-4f92-b0e1-4babf3163688",
       "dutyDetail": "Use strategies to establish and maintain expectations and boundaries of mentoring contract, including recognising starting points of mentee, agreed development needs, potential barriers to development and where relevant, other stakeholders needs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5136d09b-3394-40e1-8833-f27e247531fc",
         "b257e78e-6905-4647-be3a-cc3966a006a9",
@@ -297,7 +297,7 @@
     {
       "dutyID": "d30b320d-d422-438b-a66b-e34c7f13fe0d",
       "dutyDetail": "Select and use mentoring models, tools and techniques to support mentee to make desired changes, demonstrating responsiveness to the individual mentee needs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5136d09b-3394-40e1-8833-f27e247531fc",
         "b257e78e-6905-4647-be3a-cc3966a006a9",
@@ -326,7 +326,7 @@
     {
       "dutyID": "f3487ab0-ccbc-4d7a-8d9f-f7de90adf615",
       "dutyDetail": "Demonstrate awareness of own values, beliefs and behaviours and their effect on the mentor/mentee relationship.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5136d09b-3394-40e1-8833-f27e247531fc",
         "b257e78e-6905-4647-be3a-cc3966a006a9",
@@ -347,7 +347,7 @@
     {
       "dutyID": "bbb4a169-2995-497d-b76c-ea7c2b899aeb",
       "dutyDetail": "Provide support to the mentee providing information, advice and guidance, working within own professional boundaries and recognising requirements for referral to other professional services where required.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5136d09b-3394-40e1-8833-f27e247531fc",
         "b257e78e-6905-4647-be3a-cc3966a006a9",
@@ -368,7 +368,7 @@
     {
       "dutyID": "e1425bde-7bd4-4410-8391-74e746594844",
       "dutyDetail": "Establish rigorous evaluation processes with mentee to support reflection on effectiveness of mentoring relationship.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5136d09b-3394-40e1-8833-f27e247531fc",
         "b257e78e-6905-4647-be3a-cc3966a006a9",
@@ -393,7 +393,7 @@
     {
       "dutyID": "621021fa-a4e1-4798-82f5-5dfbba1b0e2c",
       "dutyDetail": "Evaluate and reflect on effectiveness of own practice for the purpose of self-development.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5136d09b-3394-40e1-8833-f27e247531fc",
         "b257e78e-6905-4647-be3a-cc3966a006a9",
@@ -415,7 +415,7 @@
     {
       "dutyID": "d1db403a-be02-4d54-844a-51aacb8fc1fc",
       "dutyDetail": "Make sustainably informed decisions in approaches used to plan, conduct, record and evaluate mentoring practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5136d09b-3394-40e1-8833-f27e247531fc",
         "b257e78e-6905-4647-be3a-cc3966a006a9",
@@ -435,7 +435,7 @@
     {
       "dutyID": "b8721d9a-c611-465b-a877-b06035f00ffb",
       "dutyDetail": "Maintain records of mentoring practice and recording of continual professional development activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5136d09b-3394-40e1-8833-f27e247531fc",
         "b257e78e-6905-4647-be3a-cc3966a006a9",
