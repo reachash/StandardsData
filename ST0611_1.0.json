@@ -219,7 +219,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-03-04T00:00:00 +00:00",
@@ -257,7 +257,7 @@
     {
       "dutyID": "232df6d3-89eb-4802-aeaf-cdc8aa658ea1",
       "dutyDetail": "Assisting Conservators in the preparation and execution of conservation treatments, as well as undertaking some routine conservation treatments as specified by qualified Conservators.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -267,7 +267,7 @@
     {
       "dutyID": "88febdd5-4328-4473-8a96-c7efc8895a70",
       "dutyDetail": "Support senior colleagues in delivery and monitoring of Integrated Pest Management and Environmental Monitoring.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -277,7 +277,7 @@
     {
       "dutyID": "28e751dc-6d88-4995-93f8-86839565400b",
       "dutyDetail": "Assess and manage risk to collections on display and in storage, and to provide support to senior colleagues in mitigating against these risks.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -287,7 +287,7 @@
     {
       "dutyID": "730f7430-0dcc-467f-917a-b8fa4270a1ce",
       "dutyDetail": "Organisation of collections in storage / on display and maintaining records utilising appropriate collections management systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -297,7 +297,7 @@
     {
       "dutyID": "b9d8e26e-cf7e-4e64-bc01-cee8494671c3",
       "dutyDetail": "Responsible for the day to day care of collections, including undertaking of monitoring, conservation cleaning or protection of collections. Supervising volunteers in moving or handling objects.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
