@@ -317,7 +317,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-08-23T00:00:00 +00:00",
@@ -343,7 +343,7 @@
     "Planning Assistant"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and development technician",
@@ -361,7 +361,7 @@
     {
       "dutyID": "c532ca10-8b9f-46fc-9952-48358675433a",
       "dutyDetail": "Work safely at all times following relevant legislation and regulations and ensuring the safety of self and others",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "520f435c-401b-478d-bb5e-8faf1fde5b47"
       ],
@@ -377,7 +377,7 @@
     {
       "dutyID": "e6d1935b-2280-4fff-8667-c9bfc35933dd",
       "dutyDetail": "Plan, organise and manage furniture design and/or installation projects from conception to completion",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "84376a55-2323-49cf-a995-df17034bae1a",
         "bce75799-fdf5-4a76-8b82-538553c50407"
@@ -396,7 +396,7 @@
     {
       "dutyID": "dea2603b-4e76-4ec5-8f27-bd8f91fc30c3",
       "dutyDetail": "Create suitable fitted furniture designs and concepts for furniture to be installed meeting customer requirements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6d875b49-c3cd-4818-99fa-1600142abab8",
         "b7aeea61-c53e-4a48-aa9f-385558cac386",
@@ -424,7 +424,7 @@
     {
       "dutyID": "5872656a-02fc-46f6-b38a-d11f93b79f95",
       "dutyDetail": "Present fitted furniture designs to customers in order to get buy-in and agree next stages",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7aeea61-c53e-4a48-aa9f-385558cac386",
         "654de14c-a08b-4456-b80c-dda1194c5e5f",
@@ -444,7 +444,7 @@
     {
       "dutyID": "9c3ff6d8-7108-4d28-8b84-b2e6b4b38ec6",
       "dutyDetail": "Survey locations accurately in order to produce suitable designs for furniture to be installed",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6d875b49-c3cd-4818-99fa-1600142abab8",
         "b7aeea61-c53e-4a48-aa9f-385558cac386"
@@ -465,7 +465,7 @@
     {
       "dutyID": "0fd7951f-1186-4088-815e-6bef14057975",
       "dutyDetail": "Provide accurate quotes to customers, cost and price fitted furniture concept designs using quoting software systems in order to secure sales",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6d875b49-c3cd-4818-99fa-1600142abab8"
       ],
@@ -482,7 +482,7 @@
     {
       "dutyID": "e92ef9a5-ba3c-47e3-803b-55f54f02ca84",
       "dutyDetail": "Maintain fitted furniture retail showrooms in good condition in order to gain customers interest in products and services",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6d875b49-c3cd-4818-99fa-1600142abab8"
       ],
@@ -499,7 +499,7 @@
     {
       "dutyID": "c36d916e-66db-4a70-a039-f1fa9fa5d332",
       "dutyDetail": "Deliver on fitted furniture sales targets and enhance opportunities for further income growth.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b609f7af-4b44-4444-bb32-612f73a3cf4e",
         "3a69c52f-2644-4d8a-a92d-abad37c77307"
@@ -517,7 +517,7 @@
     {
       "dutyID": "da69e38b-a96c-491d-a65f-05dae05122af",
       "dutyDetail": "Provide an effective fitted furniture after-sales service to customers to maintain and enhance business reputation and secure repeat business",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7aeea61-c53e-4a48-aa9f-385558cac386"
       ],
@@ -536,7 +536,7 @@
     {
       "dutyID": "014f9ab1-5413-4765-bc94-12b15a0c2566",
       "dutyDetail": "Develop and maintain effective working relationships with colleagues, customers and other relevant stakeholders",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7aeea61-c53e-4a48-aa9f-385558cac386",
         "cd8e828e-f528-46af-95f4-6fe8f3c6917b",
@@ -557,7 +557,7 @@
     {
       "dutyID": "9b93348d-8e95-4d93-b1b5-f093367273b1",
       "dutyDetail": "Deliver excellent customer service, realise and maintain customer expectations when working in a fitted furniture design environment",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7aeea61-c53e-4a48-aa9f-385558cac386",
         "cd8e828e-f528-46af-95f4-6fe8f3c6917b",
