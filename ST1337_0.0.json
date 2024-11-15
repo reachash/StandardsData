@@ -305,7 +305,7 @@
     "Systems librarian"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Management and Administration",
   "cluster": "Management professional",
@@ -330,7 +330,7 @@
     {
       "dutyID": "0236bb6a-eff0-411d-8378-37b99d09443b",
       "dutyDetail": "Design search strategies and undertake and evaluate complex searches for users to facilitate high quality learning, research, and evidence-based decision making.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1318566b-06a2-48c4-aad7-ec1e5f84ec11",
         "158a0e46-6b47-423f-a523-5ac05a37d873",
@@ -370,7 +370,7 @@
     {
       "dutyID": "c2a65720-06df-48ac-8ee5-455a32a1a7a2",
       "dutyDetail": "Analyse, manipulate and interpret data from multiple sources to produce detailed reports and presentations for end users.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1318566b-06a2-48c4-aad7-ec1e5f84ec11",
         "158a0e46-6b47-423f-a523-5ac05a37d873",
@@ -409,7 +409,7 @@
     {
       "dutyID": "cfdf4fd5-7ed5-4aef-af82-c41a2eb0a5f5",
       "dutyDetail": "Implement, manage, and support the development of digital technologies and sustainable specialist systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1318566b-06a2-48c4-aad7-ec1e5f84ec11",
         "158a0e46-6b47-423f-a523-5ac05a37d873",
@@ -460,7 +460,7 @@
     {
       "dutyID": "c734da9e-573e-4f52-b053-36331a7edd16",
       "dutyDetail": "Develop and ensure adherence to policies and regulations regarding processes and procedures for information use, while retaining the balance between information availability and information security.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1318566b-06a2-48c4-aad7-ec1e5f84ec11",
         "158a0e46-6b47-423f-a523-5ac05a37d873",
@@ -508,7 +508,7 @@
     {
       "dutyID": "76ab3393-5d9f-49e2-878a-a1f3c3c9a41e",
       "dutyDetail": "Create, maintain, and develop classification systems for data, information, and knowledge resources with appropriate metadata to enable searching, retrieval, and use of collections for end users.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1318566b-06a2-48c4-aad7-ec1e5f84ec11",
         "158a0e46-6b47-423f-a523-5ac05a37d873",
@@ -552,7 +552,7 @@
     {
       "dutyID": "825727f6-b9e1-4ab6-8b7c-85c8774c55d0",
       "dutyDetail": "Manage and develop resources, information, data, or knowledge assets to ensure accessibility of information and knowledge for all users.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1318566b-06a2-48c4-aad7-ec1e5f84ec11",
         "158a0e46-6b47-423f-a523-5ac05a37d873",
@@ -606,7 +606,7 @@
     {
       "dutyID": "b1d0e7e8-d685-4267-b340-69648af7f850",
       "dutyDetail": "Plan, deliver and evaluate information literacy training and reading development for users. Improve users' ability to take advantage of the resources/information collected, managed, and made available by library, information, and knowledge management (LI&KM) services.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1318566b-06a2-48c4-aad7-ec1e5f84ec11",
         "158a0e46-6b47-423f-a523-5ac05a37d873",
@@ -657,7 +657,7 @@
     {
       "dutyID": "8c69c427-3f7a-4e72-ac4b-431e2d23347c",
       "dutyDetail": "Assess the impact of service provision and continuous improvement through the evaluation of service data.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1318566b-06a2-48c4-aad7-ec1e5f84ec11",
         "158a0e46-6b47-423f-a523-5ac05a37d873",
@@ -706,7 +706,7 @@
     {
       "dutyID": "ed13d88f-f401-4bac-99d9-95e16beb67fd",
       "dutyDetail": "Curate and preserve assets to ensure their relevance and/or availability for future use.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1318566b-06a2-48c4-aad7-ec1e5f84ec11",
         "158a0e46-6b47-423f-a523-5ac05a37d873",
@@ -743,7 +743,7 @@
     {
       "dutyID": "111bd64a-c651-4b27-a660-74806842c3d6",
       "dutyDetail": "Lead day-to-day support and specialist advice across the organisation on information and literacy skills.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1318566b-06a2-48c4-aad7-ec1e5f84ec11",
         "158a0e46-6b47-423f-a523-5ac05a37d873",
@@ -792,7 +792,7 @@
     {
       "dutyID": "c26e2809-19d0-4f53-86d1-7f22f3139397",
       "dutyDetail": "Manage and contribute to the internal and external marketing of the service, including advocacy and promotion, particularly in relation to managing relationships, strategic planning, and development of services.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1318566b-06a2-48c4-aad7-ec1e5f84ec11",
         "158a0e46-6b47-423f-a523-5ac05a37d873",
@@ -841,7 +841,7 @@
     {
       "dutyID": "cccf6137-a020-40b5-b022-b72146953edb",
       "dutyDetail": "Cultivate and maintain collaborative relationships with key stakeholders to influence key decision makers and further service objectives.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1318566b-06a2-48c4-aad7-ec1e5f84ec11",
         "158a0e46-6b47-423f-a523-5ac05a37d873",
@@ -891,7 +891,7 @@
     {
       "dutyID": "6b8ea21f-b409-4a9f-9c12-24a1102d121e",
       "dutyDetail": "Contribute to development of the organisational strategy through the development and implementation of operational and business plans for their area of responsibility.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1318566b-06a2-48c4-aad7-ec1e5f84ec11",
         "158a0e46-6b47-423f-a523-5ac05a37d873",
@@ -940,7 +940,7 @@
     {
       "dutyID": "6e319677-9986-4d5b-8645-16b483796e21",
       "dutyDetail": "Keep up-to-date with technological advances and emerging technology and review their impact on the organisation and service.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1318566b-06a2-48c4-aad7-ec1e5f84ec11",
         "158a0e46-6b47-423f-a523-5ac05a37d873",
@@ -982,7 +982,7 @@
     {
       "dutyID": "48dfe7d3-65f4-4d11-b7e9-1cea47a52e15",
       "dutyDetail": "Promote innovation to address changing requirements and to take advantage of new opportunities for a green and sustainable service.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1318566b-06a2-48c4-aad7-ec1e5f84ec11",
         "158a0e46-6b47-423f-a523-5ac05a37d873",
