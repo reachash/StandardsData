@@ -359,7 +359,7 @@
     "Healthcare scientist practitioner"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Healthcare Science",
   "cluster": "Healthcare Science Professional",
@@ -405,7 +405,7 @@
     {
       "dutyID": "7faca807-bb81-47ef-8b0c-2699f6071d4e",
       "dutyDetail": "Practice according to the legal, ethical and professional standards and codes of conduct for Healthcare Scientists.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cd8ebab5-34ae-4647-b782-47b8fc2c525f",
         "c68f058c-c838-4bb4-ad66-384a0d50cc1c",
@@ -433,7 +433,7 @@
     {
       "dutyID": "7be06770-0f26-4d33-9166-314a2f7c4d7a",
       "dutyDetail": "Provide, plan, monitor, assess and troubleshoot the technical scientific services delivered by yourself and the team.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cd8ebab5-34ae-4647-b782-47b8fc2c525f",
         "c68f058c-c838-4bb4-ad66-384a0d50cc1c",
@@ -458,7 +458,7 @@
     {
       "dutyID": "da42ef3c-d0a2-40b2-9f1b-df78f4508923",
       "dutyDetail": "Provide clinical care using scientific and professional knowledge and skills to provide or support others to do the same.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cd8ebab5-34ae-4647-b782-47b8fc2c525f",
         "c68f058c-c838-4bb4-ad66-384a0d50cc1c",
@@ -484,7 +484,7 @@
     {
       "dutyID": "6ad23cd5-2edc-4b00-ad2c-911d3b0fe3e1",
       "dutyDetail": "Communicate with others using techniques that facilitate understanding.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cd8ebab5-34ae-4647-b782-47b8fc2c525f",
         "c68f058c-c838-4bb4-ad66-384a0d50cc1c",
@@ -507,7 +507,7 @@
     {
       "dutyID": "4866192d-9220-4b00-a64c-7dc640f8e291",
       "dutyDetail": "Lead and support colleagues to work in partnership with the wider healthcare team.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cd8ebab5-34ae-4647-b782-47b8fc2c525f",
         "c68f058c-c838-4bb4-ad66-384a0d50cc1c",
@@ -532,7 +532,7 @@
     {
       "dutyID": "9399a358-e839-43cc-98ec-a0963dea3b96",
       "dutyDetail": "Maintain a healthy, safe and secure workplace, supporting others to do the same.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cd8ebab5-34ae-4647-b782-47b8fc2c525f",
         "c68f058c-c838-4bb4-ad66-384a0d50cc1c",
@@ -553,7 +553,7 @@
     {
       "dutyID": "59c6d0a5-8d5e-4e4f-9a99-32c875ffec22",
       "dutyDetail": "Monitor the quality of service, via audit, governance and incident investigation processes and leading service improvement programmes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cd8ebab5-34ae-4647-b782-47b8fc2c525f",
         "c68f058c-c838-4bb4-ad66-384a0d50cc1c",
@@ -579,7 +579,7 @@
     {
       "dutyID": "19fc4916-69b8-40ef-bbb8-5053e83c2c95",
       "dutyDetail": "Contribute to the development of services through innovation or research within scope of own role.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cd8ebab5-34ae-4647-b782-47b8fc2c525f",
         "c68f058c-c838-4bb4-ad66-384a0d50cc1c",
@@ -600,7 +600,7 @@
     {
       "dutyID": "bc508874-3a69-4804-aed9-cb18bbce3f5c",
       "dutyDetail": "Maintain and develop own competence and that of others using ongoing reflection and continual professional development.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cd8ebab5-34ae-4647-b782-47b8fc2c525f",
         "c68f058c-c838-4bb4-ad66-384a0d50cc1c",
@@ -625,7 +625,7 @@
     {
       "dutyID": "3bc34fac-071e-48b1-b1d0-8dfb640309af",
       "dutyDetail": "Manage complex and sensitive information adhering to information governance requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cd8ebab5-34ae-4647-b782-47b8fc2c525f",
         "c68f058c-c838-4bb4-ad66-384a0d50cc1c",
