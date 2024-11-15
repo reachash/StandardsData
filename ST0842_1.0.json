@@ -287,7 +287,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2021-11-12T00:00:00 +00:00",
@@ -307,7 +307,7 @@
     "Second Officer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Transport",
   "cluster": "Driver or crewmember",
@@ -453,7 +453,7 @@
     {
       "dutyID": "b4226902-1421-495f-8e13-63bce49897f3",
       "dutyDetail": "Complete vessel operations by following the Master’s standing orders and escalating to the Master any issues beyond limits of own role.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "99406136-0c2b-4960-8613-14166882240d",
         "2d75c12d-b94d-434d-a2f9-a37d7da3ec7a"
@@ -481,7 +481,7 @@
     {
       "dutyID": "d28f56a6-c15d-4eca-bae1-ee8248b641a0",
       "dutyDetail": "Take charge of a watch at sea, ensuring the safety of the vessel and its crew by taking decisions on navigation and vessel operations such as avoidance of collision with other vessels, and safe navigation of natural and man-made hazards",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "99406136-0c2b-4960-8613-14166882240d",
         "f5f07ed3-a432-415d-854c-01d4dd622777"
@@ -513,7 +513,7 @@
     {
       "dutyID": "da12ade6-54d7-4b0a-bec6-e94fd51a571e",
       "dutyDetail": "Take charge of a watch in harbour, ensuring the safety of the vessel and its crew, including when embarking and disembarking, and loading and unloading stores / equipment / cargo.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "99406136-0c2b-4960-8613-14166882240d"
       ],
@@ -541,7 +541,7 @@
     {
       "dutyID": "6104469a-76aa-447f-9936-630539142b51",
       "dutyDetail": "Ensure a lookout is kept at all times during the watch and a record kept of notable events.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "99406136-0c2b-4960-8613-14166882240d"
       ],
@@ -569,7 +569,7 @@
     {
       "dutyID": "bb697839-bca7-42f8-ae4a-cca57eb2e5cc",
       "dutyDetail": "Deliver incoming and outgoing handover of Watch responsibility from/to another officer. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "99406136-0c2b-4960-8613-14166882240d",
         "f5f07ed3-a432-415d-854c-01d4dd622777"
@@ -595,7 +595,7 @@
     {
       "dutyID": "6b5a39c1-2e95-4877-9690-595639af7ae6",
       "dutyDetail": "Manage the vessel passage plan during a voyage. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "99406136-0c2b-4960-8613-14166882240d",
         "2d75c12d-b94d-434d-a2f9-a37d7da3ec7a"
@@ -625,7 +625,7 @@
     {
       "dutyID": "de3776b7-a74f-4cd6-804b-51e673125f49",
       "dutyDetail": "Manoeuvre the vessel safely, commonly in busy waters, taking account of weather, sea state and tides ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8a2b8766-ee31-4d47-86a0-b531d774dcd7",
         "99406136-0c2b-4960-8613-14166882240d",
@@ -662,7 +662,7 @@
     {
       "dutyID": "464ad08a-7b07-441d-a809-0d304e87ec9f",
       "dutyDetail": "Supervise specialist operations, such as cargo, instructing the crew and coordinating activities. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8a2b8766-ee31-4d47-86a0-b531d774dcd7",
         "99406136-0c2b-4960-8613-14166882240d",
@@ -692,7 +692,7 @@
     {
       "dutyID": "1c4ccaeb-b3f9-45ba-bd82-db78413ca960",
       "dutyDetail": "Take charge of a response team during an emergency, including communication with emergency services, search and rescue coordinators and crew. Use the Safety Management System processes where instructed",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "99406136-0c2b-4960-8613-14166882240d",
         "f5f07ed3-a432-415d-854c-01d4dd622777",
@@ -718,7 +718,7 @@
     {
       "dutyID": "d6267fa4-f975-4b22-a9e5-9ec85a5a1a6c",
       "dutyDetail": "Comply with all relevant laws, regulations and with organisational procedures",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8a2b8766-ee31-4d47-86a0-b531d774dcd7",
         "99406136-0c2b-4960-8613-14166882240d",
@@ -749,7 +749,7 @@
     {
       "dutyID": "c34aeebf-61a6-46c9-ad60-6957eb032331",
       "dutyDetail": "Maintain the security of the vessel and its contents",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "99406136-0c2b-4960-8613-14166882240d",
         "2d75c12d-b94d-434d-a2f9-a37d7da3ec7a"
@@ -774,7 +774,7 @@
     {
       "dutyID": "69d7e188-e6b0-48b6-b679-219b3ea021a5",
       "dutyDetail": "Ensure that safety equipment is in good order ready for immediate use, and in compliance with appropriate regulations",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8a2b8766-ee31-4d47-86a0-b531d774dcd7",
         "99406136-0c2b-4960-8613-14166882240d",
@@ -797,7 +797,7 @@
     {
       "dutyID": "421a5777-0d1d-4660-a815-3c963a04cb07",
       "dutyDetail": "Monitor crew performance and their ability to conduct duties (e.g., monitor fatigue)",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8a2b8766-ee31-4d47-86a0-b531d774dcd7",
         "99406136-0c2b-4960-8613-14166882240d",
@@ -824,7 +824,7 @@
     {
       "dutyID": "5b515640-bb37-4b11-8984-f71a84b91474",
       "dutyDetail": "Maintain effective communications with all parties onboard and ashore throughout the watch",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "99406136-0c2b-4960-8613-14166882240d"
       ],
@@ -848,7 +848,7 @@
     {
       "dutyID": "2465a877-6962-4a0a-bf46-a8395ab66454",
       "dutyDetail": "Work within the organisation’s business priorities and constraints, while ensuring the safety of the vessel and its crew",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8a2b8766-ee31-4d47-86a0-b531d774dcd7",
         "99406136-0c2b-4960-8613-14166882240d",
@@ -872,7 +872,7 @@
     {
       "dutyID": "3d856288-e0c5-45e0-aa5f-3f9ef0e56eb9",
       "dutyDetail": "Support on board learning for junior crew members",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8a2b8766-ee31-4d47-86a0-b531d774dcd7",
         "f26cc3f8-ca15-4752-91e7-c56ff7a35650",
