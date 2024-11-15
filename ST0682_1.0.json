@@ -319,7 +319,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-02-19T00:00:00 +00:00",
@@ -348,7 +348,7 @@
     "Mobile phone repair technician",
     "Smartphone device repair technician"
   ],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Support and Services",
   "cluster": "IT support and services technician",
@@ -373,7 +373,7 @@
     {
       "dutyID": "00dadca9-e66b-4b65-9531-c245ec894bc5",
       "dutyDetail": "Gather and record information to enable the initial assessment of the repair or refurbishment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "660557a8-c61f-470a-bfd4-191c766838f7"
       ],
@@ -401,7 +401,7 @@
     {
       "dutyID": "06adb7b9-1989-4eae-9721-bb457b23341b",
       "dutyDetail": "Comply with data protection policies and legislation to minimise risk to customers’ data. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a92913fd-a82e-4a69-b3a4-02c4e2c4c660"
       ],
@@ -434,7 +434,7 @@
     {
       "dutyID": "007ef4dd-ef71-4cc6-ba43-ac65690c4897",
       "dutyDetail": "Communicate with stakeholders throughout the process, managing expectations whilst providing an excellent and inclusive service, advise when a digital device is beyond economical repair. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a92913fd-a82e-4a69-b3a4-02c4e2c4c660",
         "a032ff80-5f2d-4723-afa3-5ac826642eb8"
@@ -463,7 +463,7 @@
     {
       "dutyID": "bc968326-1824-4bc7-a154-ef11db38405d",
       "dutyDetail": "Ensure compliance with all current and relevant health and safety legislation. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4037f023-f2e7-4610-b050-8fe6f9a1351b"
       ],
@@ -496,7 +496,7 @@
     {
       "dutyID": "97666525-a407-48fb-8781-815b3bec1d66",
       "dutyDetail": "Focus on sustainability, research and development of green production techniques, processes and the use of recycled materials whilst complying with environmental practices and policies for recycling or disposal routes. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06888c87-a2a1-4d15-be80-4a4ab7d1a584",
         "56ac7c38-7efc-437d-aae3-fb5c5f36788c"
@@ -519,7 +519,7 @@
     {
       "dutyID": "080b1512-2376-41f1-b146-32382a7dbab0",
       "dutyDetail": "Maintain equipment and the workspace, and store tools in line with the settings standards and health and safety requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4037f023-f2e7-4610-b050-8fe6f9a1351b"
       ],
@@ -548,7 +548,7 @@
     {
       "dutyID": "e1bcb041-13fa-40f5-bdbf-1cef4f61e28a",
       "dutyDetail": "Recognise and identify faults to digital devices using diagnostic tools. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "33aa289b-42ef-4d56-961b-d1b5ae17ed49",
@@ -574,7 +574,7 @@
     {
       "dutyID": "60e77682-ad45-4faf-9c1e-5e4a269f61ab",
       "dutyDetail": "Plan and prepare digital device repair balancing customers and business needs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a032ff80-5f2d-4723-afa3-5ac826642eb8",
         "e6f7a722-5065-431e-a78a-3fcc03ab056b"
@@ -599,7 +599,7 @@
     {
       "dutyID": "3c003bad-38c2-49c0-96f7-98ddccdcf331",
       "dutyDetail": "Repair, refurbish or bring into use damaged or obsolete digital devices.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e6f7a722-5065-431e-a78a-3fcc03ab056b"
       ],
@@ -640,7 +640,7 @@
     {
       "dutyID": "fcfcafcf-e818-47e5-8b1b-4203e4863478",
       "dutyDetail": "Install, configure, and update software and firmware on digital devices, including testing and calibration, according to manufacturers standard. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "1406074c-dd14-47a0-a90d-66c95b35d656",
@@ -671,7 +671,7 @@
     {
       "dutyID": "4ba169f9-7edd-448d-be74-bf96122d47fc",
       "dutyDetail": "Quality assure repair or refurbishment activities using diagnostic and test equipment.   ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a92913fd-a82e-4a69-b3a4-02c4e2c4c660",
         "660557a8-c61f-470a-bfd4-191c766838f7"
@@ -706,7 +706,7 @@
     {
       "dutyID": "984388e5-93cb-4f1d-9c09-89a997078cbe",
       "dutyDetail": "Maintain an awareness of the lifecycle of digital devices and how technology can be kept alive for longer thus contributing to sustainability.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a92913fd-a82e-4a69-b3a4-02c4e2c4c660"
       ],
