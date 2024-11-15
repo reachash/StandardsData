@@ -353,7 +353,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-02-03T00:00:00 +00:00",
@@ -374,7 +374,7 @@
     "External Building Envelope Installer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Onsite Construction",
   "cluster": "Core building tradesperson",
@@ -392,7 +392,7 @@
     {
       "dutyID": "ebc619f9-32cc-4c56-b380-edc771b6bbb8",
       "dutyDetail": "Interpret drawings, specifications, risk assessments, method statements, programmes, systems manuals, regulations and standards. Ensure the product it is compliant with the specification regarding design limitations e.g. fire resistant or acoustic",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2c0e6f6-e323-4f45-80bc-f144482034e3",
         "1198a658-797f-432c-b960-14f4985c3969",
@@ -427,7 +427,7 @@
     {
       "dutyID": "ab2bd9f5-4d8f-485a-903d-6b7201438761",
       "dutyDetail": "Receive, unload, check, safely store and transport materials to site for installation following good handling practices preventing injury or damage",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c3152ba-b0a2-49e5-a4f0-bf017fc6af2c",
         "b2c0e6f6-e323-4f45-80bc-f144482034e3",
@@ -456,7 +456,7 @@
     {
       "dutyID": "a915ed49-59e5-4866-a6dd-59de50851126",
       "dutyDetail": "Carry out visual checks on delivered materials for quality, complete delivery, and correct fabrication and machining",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2c0e6f6-e323-4f45-80bc-f144482034e3",
         "1198a658-797f-432c-b960-14f4985c3969",
@@ -485,7 +485,7 @@
     {
       "dutyID": "d0556058-3dc8-49f0-8f83-b3a159870fa5",
       "dutyDetail": "Select the appropriate tools and equipment for work including access equipment. Also ensure all hand tools and lifting equipment, where required, are inspected for satisfactory condition to be used",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2c0e6f6-e323-4f45-80bc-f144482034e3",
         "1198a658-797f-432c-b960-14f4985c3969",
@@ -513,7 +513,7 @@
     {
       "dutyID": "93c45174-c0f5-4914-aa32-5ca5d25f3ce2",
       "dutyDetail": "Inspect the site for relevant access and power to allow the installation to start",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c3152ba-b0a2-49e5-a4f0-bf017fc6af2c",
         "b2c0e6f6-e323-4f45-80bc-f144482034e3",
@@ -548,7 +548,7 @@
     {
       "dutyID": "64cba606-ba4c-4af0-812c-4e216e3488be",
       "dutyDetail": "Set out of curtain wall including obtaining relevant grid lines and datum levels from main contractor. System may require temporary fixings prior to being lined, levelled and plumbed and final fixing taking place.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c3152ba-b0a2-49e5-a4f0-bf017fc6af2c",
         "b2c0e6f6-e323-4f45-80bc-f144482034e3",
@@ -588,7 +588,7 @@
     {
       "dutyID": "12354043-7239-45d5-b3f3-4ab6dbd83266",
       "dutyDetail": "Install grid work including mullions and transoms on vertical applications, purlins and rafters on sloped applications. Fix the grid work to the structure in accordance with specifications and approved drawings making allowance for dissimilar materials and fire stops if required. Follow the system suppliers’ recommendations and CWCT guidelines",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c3152ba-b0a2-49e5-a4f0-bf017fc6af2c",
         "b2c0e6f6-e323-4f45-80bc-f144482034e3",
@@ -633,7 +633,7 @@
     {
       "dutyID": "b17bb14b-9d84-4805-94c9-88bee2de34a4",
       "dutyDetail": "Apply and seal air seal gaskets within the system and relevant sealing pieces and thermal breaks",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c3152ba-b0a2-49e5-a4f0-bf017fc6af2c",
         "b2c0e6f6-e323-4f45-80bc-f144482034e3",
@@ -662,7 +662,7 @@
     {
       "dutyID": "867bcd50-356f-496b-8809-7e53e6027566",
       "dutyDetail": "Conduct interim inspection of plumb line and level in accordance with specifications and systems manuals and carry out any corrective work required",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2c0e6f6-e323-4f45-80bc-f144482034e3",
         "1198a658-797f-432c-b960-14f4985c3969",
@@ -692,7 +692,7 @@
     {
       "dutyID": "ffdb1cf5-14b0-4f87-b1ff-b31dc3a52d26",
       "dutyDetail": "Apply relevant setting blocks/support pieces to ensure correct load transfer of infill elements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c3152ba-b0a2-49e5-a4f0-bf017fc6af2c",
         "b2c0e6f6-e323-4f45-80bc-f144482034e3",
@@ -720,7 +720,7 @@
     {
       "dutyID": "f4e5eda3-2d18-40c0-8c83-41d0693422f0",
       "dutyDetail": "Install infill materials and products using temporary pressure plate (Stitch plates) according to the systems’ manual and CWCT guidelines",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c3152ba-b0a2-49e5-a4f0-bf017fc6af2c",
         "b2c0e6f6-e323-4f45-80bc-f144482034e3",
@@ -763,7 +763,7 @@
     {
       "dutyID": "20e92e0e-34f5-4f6a-ab4f-7ef2f0fd97b0",
       "dutyDetail": "Apply the perimeter closure products to head, cill and jambs of the screens to integrate with the adjacent trades prior to final periphery seal application. These may include pocket closers, balancer profiles, Ethylene Propylene Diene Monomer (EPDM) carriers and pressed metal closure profiles etc",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c3152ba-b0a2-49e5-a4f0-bf017fc6af2c",
         "b2c0e6f6-e323-4f45-80bc-f144482034e3",
@@ -794,7 +794,7 @@
     {
       "dutyID": "fbe58682-1a13-4b2b-bbf8-8e92b3bc4686",
       "dutyDetail": "Secure the infills in place using appropriate methods e.g. toggles and/or pressure plates to the correct torque setting according to systems manuals",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2c0e6f6-e323-4f45-80bc-f144482034e3",
         "1198a658-797f-432c-b960-14f4985c3969",
@@ -830,7 +830,7 @@
     {
       "dutyID": "91019d72-73c4-448e-a0ae-2c19c18dd1ea",
       "dutyDetail": "Apply decorative face caps, gaskets or weather seals according to specification and systems manuals",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2c0e6f6-e323-4f45-80bc-f144482034e3",
         "1198a658-797f-432c-b960-14f4985c3969",
@@ -862,7 +862,7 @@
     {
       "dutyID": "236e392a-07ea-44c1-843b-7fc752069218",
       "dutyDetail": "Conduct interim and final inspections of the workmanship, ensuring drainage and ventilation is clear and functioning and the work is correct to specification and systems manuals",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2c0e6f6-e323-4f45-80bc-f144482034e3",
         "1198a658-797f-432c-b960-14f4985c3969",
@@ -896,7 +896,7 @@
     {
       "dutyID": "261c769b-4dd4-4816-bb17-daa8b4c359d8",
       "dutyDetail": "Clean and handover to customer including main contractors, clients, architects, fabrication specialists, façade specialist",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2c0e6f6-e323-4f45-80bc-f144482034e3",
         "1198a658-797f-432c-b960-14f4985c3969",
@@ -921,7 +921,7 @@
     {
       "dutyID": "2252d0e8-af99-4d67-9816-a5477d139fe8",
       "dutyDetail": "Complete any relevant documentation such as; sign off documents and/or handover documents for main contractors, site/product specific check lists, time sheets for additional works, and operation and maintenance manuals.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2c0e6f6-e323-4f45-80bc-f144482034e3",
         "1198a658-797f-432c-b960-14f4985c3969",
@@ -948,7 +948,7 @@
     {
       "dutyID": "88808190-d920-4a36-ba22-1ad7bde429f2",
       "dutyDetail": " Comply with commercial, contractual, environmental obligations and consumer awareness",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2c3152ba-b0a2-49e5-a4f0-bf017fc6af2c",
         "b2c0e6f6-e323-4f45-80bc-f144482034e3",
