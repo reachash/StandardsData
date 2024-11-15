@@ -277,7 +277,7 @@
     "Spatial data analyst"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Business Services",
   "cluster": "Digital solutions professional",
@@ -311,7 +311,7 @@
     {
       "dutyID": "89eff5cf-9017-4cb2-b3ff-e3abd36d7814",
       "dutyDetail": "Initiate, plan, research, collect and collate location data using technologies and approaches that include Geographic Information Systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "9de4216d-89bc-48db-97b7-27df48eea625",
@@ -336,7 +336,7 @@
     {
       "dutyID": "9cc3ef19-0414-4451-8296-2bf4bb5eeea4",
       "dutyDetail": "Manage accurate and current collections of location data and related geographic information to sector specific standards and frameworks. Such collections would include vector and raster location data along with their metadata.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "9de4216d-89bc-48db-97b7-27df48eea625",
@@ -362,7 +362,7 @@
     {
       "dutyID": "ee7ae5e9-b8c1-4f8c-b1f2-765baf1c1e6b",
       "dutyDetail": "Evaluate user needs to ensure that the most appropriate data, tools and techniques are selected to meet the needs of the project. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "9de4216d-89bc-48db-97b7-27df48eea625",
@@ -390,7 +390,7 @@
     {
       "dutyID": "2cc3b714-bc9c-4e1c-bf83-2a9e3e02cedc",
       "dutyDetail": "Manipulate, analyse, model, visualise and interpret location data and related geographic information to achieve project outcomes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "9de4216d-89bc-48db-97b7-27df48eea625",
@@ -422,7 +422,7 @@
     {
       "dutyID": "c24694d5-80f9-49f1-9b77-d9ac01ab6960",
       "dutyDetail": "Create and maintain location data products that convey geographical significance and impact, using appropriate geographical reference systems, standards and symbolisation principles. Such products include: digital and printed maps, interactive dashboards and location data visualisations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "9de4216d-89bc-48db-97b7-27df48eea625",
@@ -451,7 +451,7 @@
     {
       "dutyID": "67caa414-902a-4de0-b7af-6b60e76cc555",
       "dutyDetail": "Produce and maintain project related documentation, technical reports, statistics and geographical information.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3826d465-cbe1-4ac3-8fdd-1d9492bf1df5"
       ],
@@ -486,7 +486,7 @@
     {
       "dutyID": "a0514965-9807-42db-9891-012403cc0bb1",
       "dutyDetail": "Lead, and or support others in, the uses of current and emerging features of Geographic Information Systems, geographical technologies and location data to create solutions and open up new areas of application.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7f1252ac-8168-43bc-bbaf-737f5cade4bc",
         "9a1425c1-3ecc-4da2-8455-154db68c0e20",
@@ -516,7 +516,7 @@
     {
       "dutyID": "f967c049-93db-4ba4-b7ce-4890b2ff1764",
       "dutyDetail": "Assess and mitigate the risks, limitations, biases and ethical practices associated with the use of location data, in particular its provenance and interoperability. Provide advice and courses of action for senior managers and non-specialists on these.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c45f8eb-131a-4581-b8c1-cc51831b2ae8"
       ],
@@ -549,7 +549,7 @@
     {
       "dutyID": "765f1331-4127-4472-9af2-edd1d41a67e7",
       "dutyDetail": "Lead and or support others in using automation and scripting tasks to improve delivery of location data tasks and provide technical expertise to geographic digitisation projects, for example through coding, modelling and machine learning.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "47452c36-a578-488a-8bf6-d0196675d66b",
         "52c8c371-2929-420e-832e-9cfff5ba9f09"
@@ -576,7 +576,7 @@
     {
       "dutyID": "e5687106-9404-4323-a951-6bd0e58172b3",
       "dutyDetail": "Generate collaborative working opportunities to increase understanding of the value and meaning of location data and insights for organisational decision making.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3826d465-cbe1-4ac3-8fdd-1d9492bf1df5",
         "47452c36-a578-488a-8bf6-d0196675d66b",
@@ -603,7 +603,7 @@
     {
       "dutyID": "31d990fb-aba3-40ce-8368-3038d2253c4e",
       "dutyDetail": "Present and communicate location data solutions and insight to technical and non-technical stakeholders such as clients and senior managers, to ensure the solutions meet their needs and have a positive impact on their organisation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "ad9c8cf4-dd1e-4edc-a27a-5604f0084eaa",
@@ -624,7 +624,7 @@
     {
       "dutyID": "17a2c4f0-37a5-4ece-94e8-4876a7aa6112",
       "dutyDetail": "Work within multi-disciplinary teams to provide support and delivery of location information outputs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c45f8eb-131a-4581-b8c1-cc51831b2ae8",
         "3826d465-cbe1-4ac3-8fdd-1d9492bf1df5",
@@ -653,7 +653,7 @@
     {
       "dutyID": "4515a488-b8ab-428b-9d52-3f9fbfa2bf74",
       "dutyDetail": "Lead project delivery of location data activities using geographical technologies, to meet business requirements and project constraints.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c45f8eb-131a-4581-b8c1-cc51831b2ae8",
         "3826d465-cbe1-4ac3-8fdd-1d9492bf1df5",
@@ -681,7 +681,7 @@
     {
       "dutyID": "3fba4a48-7ffa-40ae-842b-e92a5d418ecd",
       "dutyDetail": "Develop business cases and tenders, estimating the cost of activities using location data, describing their value and benefit to the business or client.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "521ecaa8-64b2-4026-aaae-19cfcecc613e"
       ],
@@ -707,7 +707,7 @@
     {
       "dutyID": "135b9082-946a-4587-b8b9-a612c28d4958",
       "dutyDetail": "Support the management of Intellectual Property as it relates to the source, use and transformation of location data, and the creation of location data products.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c45f8eb-131a-4581-b8c1-cc51831b2ae8"
       ],
@@ -729,7 +729,7 @@
     {
       "dutyID": "e1f4aeae-8c5f-4e96-9512-5d4d3539a3c7",
       "dutyDetail": "Provide technical authority to the organisation regarding legal, safe, secure, effective and ethical uses of its location data. Lead the adoption of standards, frameworks and best practices for spatial analysis, mapping and visualisation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c45f8eb-131a-4581-b8c1-cc51831b2ae8",
         "521ecaa8-64b2-4026-aaae-19cfcecc613e"
@@ -754,7 +754,7 @@
     {
       "dutyID": "75d47015-7638-4327-a4ad-164e46ab57b9",
       "dutyDetail": "Lead and coordinate location information teams.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c45f8eb-131a-4581-b8c1-cc51831b2ae8",
         "3826d465-cbe1-4ac3-8fdd-1d9492bf1df5",
@@ -776,7 +776,7 @@
     {
       "dutyID": "9a4783df-34d4-4025-91b2-2e27d5396d68",
       "dutyDetail": "Participate in Continued Professional Development and knowledge sharing especially keeping location data skills and knowledge up to date",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7f1252ac-8168-43bc-bbaf-737f5cade4bc",
         "9a1425c1-3ecc-4da2-8455-154db68c0e20",
