@@ -296,7 +296,7 @@
     "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-08-16T00:00:00 +00:00",
@@ -313,7 +313,7 @@
     "Steeplejack"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Onsite Construction",
   "cluster": "Construction operative or supervisor",
@@ -331,7 +331,7 @@
     {
       "dutyID": "f98ccfc5-8a97-413e-b75c-32f364572500",
       "dutyDetail": "Work in compliance with occupational health, safety and environmental requirements to ensure the health, safety and wellbeing of self and others at all times. Report in a timely manner any non-compliances against the construction programme to the appropriate person.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c1ae270-349e-4712-8f71-5bc6b4a2f1a8",
         "1e4959e9-ee34-4800-9e19-83fb5e7ee2ad",
@@ -405,7 +405,7 @@
     {
       "dutyID": "57dd0734-d70a-4c48-a637-1944bbd8998a",
       "dutyDetail": "Select, use, and maintain tools, components, and equipment appropriate to the task being carried out.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c1ae270-349e-4712-8f71-5bc6b4a2f1a8",
         "1e4959e9-ee34-4800-9e19-83fb5e7ee2ad",
@@ -479,7 +479,7 @@
     {
       "dutyID": "bdb31891-6f6f-40a6-a31a-ab04beb5a155",
       "dutyDetail": "Erect ladders, work platforms, rig cradles, hoisting equipment and attach slings, bosun seats, hooks and guide ropes using appropriate tools and machinery. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c1ae270-349e-4712-8f71-5bc6b4a2f1a8",
         "1e4959e9-ee34-4800-9e19-83fb5e7ee2ad",
@@ -553,7 +553,7 @@
     {
       "dutyID": "5382d8d7-c7fc-4bd1-851a-7ab662798080",
       "dutyDetail": "Erect steeplejack scaffolding using appropriate tools and machinery. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c1ae270-349e-4712-8f71-5bc6b4a2f1a8",
         "1e4959e9-ee34-4800-9e19-83fb5e7ee2ad",
@@ -627,7 +627,7 @@
     {
       "dutyID": "393457ce-ca75-41dc-aef7-8daf05589a58",
       "dutyDetail": "Carry out routine inspections to buildings and structures using steeplejacking techniques. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c1ae270-349e-4712-8f71-5bc6b4a2f1a8",
         "1e4959e9-ee34-4800-9e19-83fb5e7ee2ad",
@@ -701,7 +701,7 @@
     {
       "dutyID": "772ae49d-a042-4dda-b027-062df8afeac4",
       "dutyDetail": "Carry out routine maintenance to built structures at height using steeeplejack access methods.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c1ae270-349e-4712-8f71-5bc6b4a2f1a8",
         "1e4959e9-ee34-4800-9e19-83fb5e7ee2ad",
@@ -775,7 +775,7 @@
     {
       "dutyID": "7eae7a45-461f-4bd0-ab4c-fd5ecfe2f7e9",
       "dutyDetail": "Complete accurate records of work undertaken in accordance with company policies and procedures. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c1ae270-349e-4712-8f71-5bc6b4a2f1a8",
         "1e4959e9-ee34-4800-9e19-83fb5e7ee2ad",
@@ -849,7 +849,7 @@
     {
       "dutyID": "4e61093d-8268-4112-8a50-9e6fe56841aa",
       "dutyDetail": "Work to the brief, adapting to changes in schedule and requirements where necessary.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c1ae270-349e-4712-8f71-5bc6b4a2f1a8",
         "1e4959e9-ee34-4800-9e19-83fb5e7ee2ad",
@@ -923,7 +923,7 @@
     {
       "dutyID": "337b09f2-164e-4661-a70d-ec5756118932",
       "dutyDetail": "Collaborate with stakeholders including clients and other construction trades. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c1ae270-349e-4712-8f71-5bc6b4a2f1a8",
         "1e4959e9-ee34-4800-9e19-83fb5e7ee2ad",
@@ -997,7 +997,7 @@
     {
       "dutyID": "987c3350-e39c-4a6c-b7eb-4e231090cf7f",
       "dutyDetail": "Maintain a clear and safe worksite at all times, disposing of waste appropriately and sustainably. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c1ae270-349e-4712-8f71-5bc6b4a2f1a8",
         "1e4959e9-ee34-4800-9e19-83fb5e7ee2ad",
@@ -1071,7 +1071,7 @@
     {
       "dutyID": "75929406-f416-45c5-abd8-19e928ae9327",
       "dutyDetail": "Carry out continuous professional development to maintain knowledge of current and future developments affecting the role. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c1ae270-349e-4712-8f71-5bc6b4a2f1a8",
         "1e4959e9-ee34-4800-9e19-83fb5e7ee2ad",
