@@ -293,7 +293,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2024-05-31T00:00:00 +00:00",
@@ -319,7 +319,7 @@
     "Mechanical components technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Maintenance, installation and repair",
   "cluster": "Service, repair and/or overhaul operative or technician",
@@ -381,7 +381,7 @@
     {
       "dutyID": "8378efda-6976-4905-bb24-0d20fe0756f4",
       "dutyDetail": "Conduct health and safety checks of the maintenance activity work area. For example, comply with risk assessments and safe systems of work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76e339a9-52fc-4658-9794-ceb14f2dde06",
         "c8aa9b1c-67fa-422b-aa9c-306e0380a033",
@@ -421,7 +421,7 @@
     {
       "dutyID": "90b7617c-2fcc-479d-8972-1a1057be49d6",
       "dutyDetail": "Follow instructions for aircraft data, publications and maintenance documents required for the maintenance activity.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76e339a9-52fc-4658-9794-ceb14f2dde06",
         "c8aa9b1c-67fa-422b-aa9c-306e0380a033"
@@ -464,7 +464,7 @@
     {
       "dutyID": "c73e6b09-d269-4ec7-a69d-b1c66ea26c1a",
       "dutyDetail": "Prepare for aircraft maintenance activity.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76e339a9-52fc-4658-9794-ceb14f2dde06",
         "f247c5a9-0549-47aa-945f-f1c225faa02d",
@@ -504,7 +504,7 @@
     {
       "dutyID": "56749c33-3471-4ed5-85a9-9f51fa3d70a4",
       "dutyDetail": "Complete aircraft or aircraft component inspection activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76e339a9-52fc-4658-9794-ceb14f2dde06",
         "bba3dd0b-e778-4961-af16-499b1d5ee807",
@@ -549,7 +549,7 @@
     {
       "dutyID": "e34c5190-360b-4cc0-a42b-6d9311695554",
       "dutyDetail": "Conduct aircraft or aircraft component unscheduled maintenance activity. Reactive and breakdown maintenance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76e339a9-52fc-4658-9794-ceb14f2dde06",
         "bba3dd0b-e778-4961-af16-499b1d5ee807",
@@ -602,7 +602,7 @@
     {
       "dutyID": "9f493941-fa89-4d61-97dd-f53813d0e7b6",
       "dutyDetail": "Perform aircraft or aircraft component scheduled maintenance activities. Planned and preventative maintenance or out of phase servicing (OOP).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76e339a9-52fc-4658-9794-ceb14f2dde06",
         "bba3dd0b-e778-4961-af16-499b1d5ee807",
@@ -652,7 +652,7 @@
     {
       "dutyID": "0e78e4ba-5053-4f1b-962d-666a845e65a1",
       "dutyDetail": "Rectify aircraft or component faults. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76e339a9-52fc-4658-9794-ceb14f2dde06",
         "bba3dd0b-e778-4961-af16-499b1d5ee807",
@@ -703,7 +703,7 @@
     {
       "dutyID": "95e790db-3209-44c0-ad26-efab321c04de",
       "dutyDetail": "Inform stakeholders of aircraft maintenance work status. For example, engineers, supervisors, colleagues, contractors, and customers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76e339a9-52fc-4658-9794-ceb14f2dde06",
         "bba3dd0b-e778-4961-af16-499b1d5ee807",
@@ -748,7 +748,7 @@
     {
       "dutyID": "3110e52e-0387-4aca-8206-135f8d9df2e2",
       "dutyDetail": "Complete aircraft documentation required for aircraft or aircraft component maintenance work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76e339a9-52fc-4658-9794-ceb14f2dde06",
         "c8aa9b1c-67fa-422b-aa9c-306e0380a033",
@@ -787,7 +787,7 @@
     {
       "dutyID": "b43d0e0d-5925-4300-b47a-7175b8c477fe",
       "dutyDetail": "Reinstate the work area on completion of maintenance activity. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76e339a9-52fc-4658-9794-ceb14f2dde06",
         "bba3dd0b-e778-4961-af16-499b1d5ee807",
