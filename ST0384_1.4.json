@@ -248,7 +248,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-06-01T00:00:00 +00:00",
@@ -270,7 +270,7 @@
     "Trading manager"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Management and Administration",
   "cluster": "Administrator",
@@ -301,7 +301,7 @@
     {
       "dutyID": "fb7b7774-e60e-4438-9166-e1c329d217bb",
       "dutyDetail": "Sets, monitors, and manages objectives and performance which link to organisational outcomes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "be0eba8f-661b-4fcf-af3b-43e3d435bf0d",
         "5290fcbe-a1b5-4d03-8391-68c693e846f5",
@@ -336,7 +336,7 @@
     {
       "dutyID": "316c4930-5973-4308-98fb-0a6d9f015e6e",
       "dutyDetail": "Manage resources to deliver tasks within budget and targets.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "33903ca4-53dc-48da-ba08-cedbe6c85861",
         "9262e830-9939-492c-9fc4-b5d22143aab1"
@@ -363,7 +363,7 @@
     {
       "dutyID": "d723de4c-d3e0-42d6-af2d-96f146f5f804",
       "dutyDetail": "Contributes to the training and ongoing development needs of the individual or the team.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5290fcbe-a1b5-4d03-8391-68c693e846f5",
         "4c04abf5-dcf1-4d7d-8ee6-ab545ca6d470"
@@ -394,7 +394,7 @@
     {
       "dutyID": "db48c69c-38aa-4b58-bc6c-3b4883762fe7",
       "dutyDetail": "Collates and interprets data and shares outputs with stakeholders to support decision-making.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "be0eba8f-661b-4fcf-af3b-43e3d435bf0d",
         "5290fcbe-a1b5-4d03-8391-68c693e846f5",
@@ -427,7 +427,7 @@
     {
       "dutyID": "a78f5cc0-0f05-41b6-8499-7dd9224852c9",
       "dutyDetail": "Contributes to projects, initiatives, and their implementation to achieve organisational goals.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "be0eba8f-661b-4fcf-af3b-43e3d435bf0d",
         "5290fcbe-a1b5-4d03-8391-68c693e846f5",
@@ -473,7 +473,7 @@
     {
       "dutyID": "3fe451e6-26a7-49fc-85c8-ff8cde48c236",
       "dutyDetail": "Monitors and applies operational policies, relevant legislation, and regulation, and makes recommendations to ensure individual and team compliance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "7905e032-ebfd-40d0-a9e8-7565cc0c6c96",
@@ -494,7 +494,7 @@
     {
       "dutyID": "d8df86d5-59c0-48a0-9b4c-d153cd4f8f84",
       "dutyDetail": "Identifies, assesses, and monitors potential risks, and supports the mitigation of risk within the organisation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "bae8fe29-1487-4605-aefc-18f258166fd4",
@@ -525,7 +525,7 @@
     {
       "dutyID": "a63d8c87-3354-4df7-96b3-6dcaf2f78b53",
       "dutyDetail": "Contributes to change and support others through change.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "be0eba8f-661b-4fcf-af3b-43e3d435bf0d",
         "5290fcbe-a1b5-4d03-8391-68c693e846f5",
@@ -567,7 +567,7 @@
     {
       "dutyID": "9cc9bdef-4671-4b19-a8fd-9d187b135d7f",
       "dutyDetail": "Support the development and implementation of sustainable operational plans to achieve organisation goals.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5290fcbe-a1b5-4d03-8391-68c693e846f5"
       ],
@@ -595,7 +595,7 @@
     {
       "dutyID": "ec560d63-502d-4c95-8e27-0536fe6b1f0d",
       "dutyDetail": "Lead and manage the team to ensure the application of equity, diversity, and inclusion principles.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "be0eba8f-661b-4fcf-af3b-43e3d435bf0d",
         "5290fcbe-a1b5-4d03-8391-68c693e846f5",
@@ -619,7 +619,7 @@
     {
       "dutyID": "7555cd56-6e49-42b6-b46e-0e46eb6b0063",
       "dutyDetail": "Collaborates and builds relationships with stakeholders to identify and support improvement opportunities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "be0eba8f-661b-4fcf-af3b-43e3d435bf0d",
         "5290fcbe-a1b5-4d03-8391-68c693e846f5"
@@ -654,7 +654,7 @@
     {
       "dutyID": "4d65bdc5-2981-4bb4-bce8-0534855d27c7",
       "dutyDetail": "Communicates information to drive operational activities and improve organisational performance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "be0eba8f-661b-4fcf-af3b-43e3d435bf0d",
         "5290fcbe-a1b5-4d03-8391-68c693e846f5",
@@ -684,7 +684,7 @@
     {
       "dutyID": "4377484a-f009-4176-bacb-3df8a887b2cd",
       "dutyDetail": "Manage the team and resources to reduce carbon footprint and reduce business costs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "be0eba8f-661b-4fcf-af3b-43e3d435bf0d",
         "5290fcbe-a1b5-4d03-8391-68c693e846f5"
