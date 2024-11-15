@@ -320,7 +320,7 @@
     "Technical services manager"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing engineer",
@@ -354,7 +354,7 @@
     {
       "dutyID": "789a379c-6cd5-4473-bc23-ea417833d52d",
       "dutyDetail": "Lead in securing the safety and health of all persons and operations at the site through the exercise of management, supervision, inspection, leadership, teamwork, the application of technical mining competencies and suitable and sufficient risk assessment to ensure regulatory compliance with the Safety at Work Act, Mines Regulations 2014 and other relevant legislation and guidance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "223ecb96-40a7-4462-861d-5961d20d6e67",
         "10f3dc9f-37c7-4885-b0fe-937119ff3685",
@@ -395,7 +395,7 @@
     {
       "dutyID": "e8a3be7b-8c78-4373-aa3d-5aa06365d8cb",
       "dutyDetail": "Identify and implement changes within their function that supports the achievement of organisational objectives in line with a suitable change management process. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "223ecb96-40a7-4462-861d-5961d20d6e67",
         "10f3dc9f-37c7-4885-b0fe-937119ff3685",
@@ -435,7 +435,7 @@
     {
       "dutyID": "e8a10d3c-0182-4fc4-8a7d-c8e95e9d1f34",
       "dutyDetail": "Ensure the life of mine plan is adequately developed, incorporating stakeholder input and ensuring that the plan considers the sustainability of the operation, giving adequate consideration of sequencing, resourcing, engineering, and capital required to deliver in an ecologically sound, environmentally sustainable way.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a2dbd177-dd47-4881-88a5-c45398dab7d1",
         "f4212ebb-ac93-4b20-995a-eb788d03032f",
@@ -474,7 +474,7 @@
     {
       "dutyID": "6030a0de-3b58-40fc-b5ba-b156a11c21f6",
       "dutyDetail": "Manage the delivery of the organisational objectives to meet defined operational, technical, financial and time parameters.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a2dbd177-dd47-4881-88a5-c45398dab7d1",
         "e5a1aacd-0f93-4042-9387-6421bf71d504",
@@ -506,7 +506,7 @@
     {
       "dutyID": "7e95ca74-8c45-459a-953e-1629009bfb81",
       "dutyDetail": "Complete vetting and reviews of others employed in the organisation to ensure only suitably qualified and competent persons are appointed to the management structure and those persons maintain their professional currency.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "223ecb96-40a7-4462-861d-5961d20d6e67",
         "a2dbd177-dd47-4881-88a5-c45398dab7d1",
@@ -530,7 +530,7 @@
     {
       "dutyID": "0ca63a4e-8b0e-4305-afdc-cc74b9fbe7f6",
       "dutyDetail": "Ensure that a range of information is recorded in sufficient detail to demonstrate that any management duties are effectively being discharged.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "10f3dc9f-37c7-4885-b0fe-937119ff3685",
         "b1105309-d796-4e42-88d3-401553b9837e"
@@ -562,7 +562,7 @@
     {
       "dutyID": "2087e1f9-c2f6-4e11-a0ff-1301d98f4a3d",
       "dutyDetail": "Ensure that the facilities and equipment used as part of the mining and preparation process are adequately scoped using where appropriate the latest technologies to ensure that they allow for safe construction and remain safe whilst in operation or undergoing maintenance activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "223ecb96-40a7-4462-861d-5961d20d6e67",
         "b1105309-d796-4e42-88d3-401553b9837e"
@@ -593,7 +593,7 @@
     {
       "dutyID": "b7e51578-c221-469d-85ba-682e4aa91a52",
       "dutyDetail": "Plan and manage schemes that ensure that equipment is installed to an agreed standard and is commissioned and recorded as part of the planned maintenance scheme prior to use, and then subjected to a defined inspection and maintenance regime to ensure it remains safe for use.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "10f3dc9f-37c7-4885-b0fe-937119ff3685"
       ],
@@ -619,7 +619,7 @@
     {
       "dutyID": "caac90f7-dad2-4ed8-afd3-0e0d768e42c4",
       "dutyDetail": "Ensure that the product is produced to the required customer specification and quality.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "636454cc-4591-4f0b-93c1-46526059c89f"
       ],
@@ -646,7 +646,7 @@
     {
       "dutyID": "31b31cc5-8d0a-43df-9484-0aba1c43e73d",
       "dutyDetail": "Manage the planning, implementation and testing of robust and effective emergency arrangements and ensure that relevant persons are trained to implement the emergency arrangements. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "223ecb96-40a7-4462-861d-5961d20d6e67",
         "b1105309-d796-4e42-88d3-401553b9837e",
@@ -678,7 +678,7 @@
     {
       "dutyID": "e5fa1601-4f0e-454e-b24d-9c68468cdf7c",
       "dutyDetail": "Consult and engage with communities or other interested parties to ensure they are engaged and informed of the mining operation and that the environment is protected.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "10f3dc9f-37c7-4885-b0fe-937119ff3685",
         "f4212ebb-ac93-4b20-995a-eb788d03032f"
