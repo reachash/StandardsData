@@ -233,7 +233,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-11-07T00:00:00 +00:00",
@@ -248,7 +248,7 @@
   "coreAndOptions": false,
   "typicalJobTitles": [],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Healthcare Science",
   "cluster": "Healthcare science assistant",
@@ -273,7 +273,7 @@
     {
       "dutyID": "e6b23e67-9e5e-454a-9b30-791cc6bc1c88",
       "dutyDetail": "Plan the design and manufacturing of custom-made devices to meet the prescription and timescale, advising if there any issues which may cause difficulty in  production of the device.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8e7eda90-9ddf-44e6-8b4a-717d7ec6f9dd"
       ],
@@ -297,7 +297,7 @@
     {
       "dutyID": "d4556319-e729-41aa-bc28-16f8cd2e1ad3",
       "dutyDetail": "Carry out finishing of custom made devices. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8e7eda90-9ddf-44e6-8b4a-717d7ec6f9dd"
       ],
@@ -317,7 +317,7 @@
     {
       "dutyID": "8ed45e08-8f0a-4c91-ae45-506ad898b928",
       "dutyDetail": "Provide advice on technical solutions to achieve the goals for the patient to the Prosthetist and Orthotist.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "393b7a8a-f177-476b-bfd9-2be0645c0149",
         "8e7eda90-9ddf-44e6-8b4a-717d7ec6f9dd"
@@ -342,7 +342,7 @@
     {
       "dutyID": "e8753393-ea48-4449-a836-65c5a1c746b3",
       "dutyDetail": "Construct the devices using appropriate materials, and where appropriate using computer technology for the various stages of customised manufacture and fitting. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8e7eda90-9ddf-44e6-8b4a-717d7ec6f9dd"
       ],
@@ -363,7 +363,7 @@
     {
       "dutyID": "bbd9bea5-a478-4e6e-be94-3b589ed41f4d",
       "dutyDetail": "Document informed consent and maintain patient records.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "3744b44c-1544-49bd-8c43-58407305137d",
@@ -383,7 +383,7 @@
     {
       "dutyID": "e9288046-f903-4fff-b3e6-461281f5c2b4",
       "dutyDetail": "Provide technical assistance with the fitting of custom made devices.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8e7eda90-9ddf-44e6-8b4a-717d7ec6f9dd"
       ],
@@ -403,7 +403,7 @@
     {
       "dutyID": "55d659fb-dae2-4eff-a80a-6ebbcca06a99",
       "dutyDetail": "Adapt communication when dealing with healthcare professionals and service users.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "fbeeb43f-15ec-411b-a550-a779cc9c1f0d",
@@ -423,7 +423,7 @@
     {
       "dutyID": "71a1fac8-a57d-48dc-bd9f-61ecb3eb9205",
       "dutyDetail": "Work directly with patients requiring mechanical repairs to their devices, carrying out repairs and modifications to custom-made devices where needed.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "393b7a8a-f177-476b-bfd9-2be0645c0149"
       ],
@@ -448,7 +448,7 @@
     {
       "dutyID": "7a3193ab-818b-4512-9641-65f0d02a681b",
       "dutyDetail": "Work within your scope of practice and as part of the team, supporting and supervising colleagues as required and escalating concerns to the current person",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "393b7a8a-f177-476b-bfd9-2be0645c0149",
         "8e7eda90-9ddf-44e6-8b4a-717d7ec6f9dd",
@@ -478,7 +478,7 @@
     {
       "dutyID": "3437c5c9-aca5-4f6d-b471-456e9fb29214",
       "dutyDetail": "Maintain governance and safety measures in the workplace, e.g., risk assessments, safeguarding.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8e7eda90-9ddf-44e6-8b4a-717d7ec6f9dd",
         "6b5cc07f-9ad6-48f1-94f7-4f9c5afc55af"
@@ -514,7 +514,7 @@
     {
       "dutyID": "948d0434-9024-4a3e-893d-cfbdfb3024af",
       "dutyDetail": "Use and maintain machinery identify problems and report defects.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "745552e1-2a97-469f-83a5-7eedcd828d4d",
@@ -532,7 +532,7 @@
     {
       "dutyID": "6b9c120f-8a7e-42b3-a0db-2bf99148d24f",
       "dutyDetail": "Take responsibility for personal development and commit to lifelong learning.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "0475bd24-fb07-4059-a37d-6463de10b45c",
