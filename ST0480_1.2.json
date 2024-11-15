@@ -247,7 +247,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-02-27T00:00:00 +00:00",
@@ -274,7 +274,7 @@
     "Warrant officer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Management and Administration",
   "cluster": "Management professional",
@@ -305,7 +305,7 @@
     {
       "dutyID": "5ddd99de-c659-400b-819b-b82a2786907f",
       "dutyDetail": "Set the overall strategic direction of their area of responsibility in partnership with the Board (or equivalent), encouraging employees to buy into the organisation’s vision.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3fceed6d-705f-4bf7-9f2c-fff6cba61de1"
       ],
@@ -328,7 +328,7 @@
     {
       "dutyID": "e89e85c1-6b09-4441-aa6d-061d64521bab",
       "dutyDetail": "Lead on the development and critical review of operational policies and practices within their area of responsibility, to ensure they are aligned to the needs of the organisation and remain fit for purpose and sustainable.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3fceed6d-705f-4bf7-9f2c-fff6cba61de1"
       ],
@@ -350,7 +350,7 @@
     {
       "dutyID": "1f386f84-8266-4fe3-b978-efa86f40821f",
       "dutyDetail": "Lead and influence agreed projects to deliver organisational strategy such as change and agile transformation programmes, diversification, new product implementation, and customer experience improvement.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3fceed6d-705f-4bf7-9f2c-fff6cba61de1",
         "ad2ab278-1157-460c-9aaf-2534eccd84c5"
@@ -374,7 +374,7 @@
     {
       "dutyID": "a594c346-733e-4d33-9275-505c1860fc12",
       "dutyDetail": "Make decisions about organisational resource requirements (budgets, people, technology) based on strategic insight and reliable evidence.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3fceed6d-705f-4bf7-9f2c-fff6cba61de1"
       ],
@@ -398,7 +398,7 @@
     {
       "dutyID": "bb19b838-e3a5-4542-b080-41a772dd4b29",
       "dutyDetail": "Lead and respond to crisis management, assessing the risks and opportunities which could affect business/department performance, and finding solutions that meet the needs of both the organisation and its customers/stakeholders in a responsible and ethical way.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9d8c8aee-2f1b-4beb-92ce-7030275f3ec7"
       ],
@@ -419,7 +419,7 @@
     {
       "dutyID": "79383dce-b351-4b8c-92ac-7126ba0eaf8b",
       "dutyDetail": "Lead people development including talent management, succession planning, workforce design, and coaching, and mentoring arrangements for people within their area of responsibility.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9d8c8aee-2f1b-4beb-92ce-7030275f3ec7",
         "dd409e1a-e534-4196-a071-84e78b609a97",
@@ -446,7 +446,7 @@
     {
       "dutyID": "6d920f34-e83d-41fa-8e04-59323d01efd8",
       "dutyDetail": "Promote an ethical, inclusive, innovative and supportive culture that generates continuous business improvement.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9d8c8aee-2f1b-4beb-92ce-7030275f3ec7",
         "dd409e1a-e534-4196-a071-84e78b609a97",
@@ -473,7 +473,7 @@
     {
       "dutyID": "ef3eef9a-8fa9-4abf-927b-fcf2e091732c",
       "dutyDetail": "Report to the Board (or relevant governance/management structure) on the progress of their operational activities towards achieving business goals.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9d8c8aee-2f1b-4beb-92ce-7030275f3ec7"
       ],
@@ -491,7 +491,7 @@
     {
       "dutyID": "4ebfc76c-d146-46f6-a617-1e27c7a07a82",
       "dutyDetail": "Cultivate and maintain collaborative relationships with key senior internal and external stakeholders to influence key decision makers as appropriate.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9d8c8aee-2f1b-4beb-92ce-7030275f3ec7"
       ],
@@ -512,7 +512,7 @@
     {
       "dutyID": "364a3f95-62c3-4c5a-b2e1-a51d5e02725e",
       "dutyDetail": "Shape the approach to external communications for their area of responsibility and ensure it aligns with any wider organisational communications strategy.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9d8c8aee-2f1b-4beb-92ce-7030275f3ec7"
       ],
@@ -530,7 +530,7 @@
     {
       "dutyID": "eff8ca96-8a56-441f-aa36-f7136f71f88c",
       "dutyDetail": "Proactively keep up to date with social, economic and technological trends and developments relevant to their area of responsibility and wider organisation, and promote innovation to address changing requirements and to take advantage of new opportunities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ad2ab278-1157-460c-9aaf-2534eccd84c5"
       ],
@@ -553,7 +553,7 @@
     {
       "dutyID": "2f7589d1-1df3-45d9-b565-141e1bd224e7",
       "dutyDetail": "Ensure that their area of responsibility is compliant with internal governance, such as any assurance framework requirements, and with external governance, such as any regulatory and statutory requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ad2ab278-1157-460c-9aaf-2534eccd84c5"
       ],
