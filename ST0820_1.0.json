@@ -545,7 +545,7 @@
     "Clinical associate in psychology (cap)"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
   "cluster": "Health professional",
@@ -579,7 +579,7 @@
     {
       "dutyID": "038bb8bb-703d-411e-a610-91b474a15bda",
       "dutyDetail": "Be an accountable professional acting in the best interests of patients, by providing personalised psychological interventions that are evidence-based, compassionate and empowering.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2ea1841-9ad9-4e36-8608-c01a48fec807",
         "ce122488-2c94-4d1e-b2f6-f8f3f94ae274",
@@ -605,7 +605,7 @@
     {
       "dutyID": "22e17ddb-2235-4d34-9339-10eb64864ba1",
       "dutyDetail": "Communicate effectively through creating and maintaining clinical records.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2ea1841-9ad9-4e36-8608-c01a48fec807",
         "ce122488-2c94-4d1e-b2f6-f8f3f94ae274",
@@ -630,7 +630,7 @@
     {
       "dutyID": "e9901a9b-12e5-4777-b6d9-a5f8719bdbb7",
       "dutyDetail": "Conduct psychological assessment to identify the priorities and requirements for personalised, evidence-based psychological interventions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2ea1841-9ad9-4e36-8608-c01a48fec807",
         "ce122488-2c94-4d1e-b2f6-f8f3f94ae274",
@@ -656,7 +656,7 @@
     {
       "dutyID": "b2dcc6e1-57e7-4324-a563-dec6059589f0",
       "dutyDetail": "Develop psychological formulations to inform the delivery of effective personalised care and to enhance the range of psychological interventions that other professionals may utilise in their practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2ea1841-9ad9-4e36-8608-c01a48fec807",
         "ce122488-2c94-4d1e-b2f6-f8f3f94ae274",
@@ -682,7 +682,7 @@
     {
       "dutyID": "58a9b4ce-3913-4885-9229-a8f9b1dd8b58",
       "dutyDetail": "Provide a range of psychological treatments to individuals and groups appropriate to the needs of patients in the context in which they experience distress.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2ea1841-9ad9-4e36-8608-c01a48fec807",
         "ce122488-2c94-4d1e-b2f6-f8f3f94ae274",
@@ -712,7 +712,7 @@
     {
       "dutyID": "96ebca7d-82c0-4f6e-b5c8-c88a3b2d735e",
       "dutyDetail": "Provide a range of psychological interventions when working with complex and chronic needs within scope of practice, selecting and implementing interventions where an established evidence-base is absent.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2ea1841-9ad9-4e36-8608-c01a48fec807",
         "ce122488-2c94-4d1e-b2f6-f8f3f94ae274",
@@ -740,7 +740,7 @@
     {
       "dutyID": "bdde079d-b835-4008-9f90-9b784735f593",
       "dutyDetail": "Choose appropriate psychological measurement tools for ongoing evaluation of psychological treatments that make a significant contribution to the continuous enhancement and quality improvement of clinical practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2ea1841-9ad9-4e36-8608-c01a48fec807",
         "ce122488-2c94-4d1e-b2f6-f8f3f94ae274",
@@ -763,7 +763,7 @@
     {
       "dutyID": "8531b26c-0d37-4c18-9346-89bdbfa9e912",
       "dutyDetail": "Provide support and guidance as part of the multidisciplinary teams.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2ea1841-9ad9-4e36-8608-c01a48fec807",
         "ce122488-2c94-4d1e-b2f6-f8f3f94ae274",
@@ -787,7 +787,7 @@
     {
       "dutyID": "6dbb5369-f4cd-4e21-b26c-4edc2ba39c6d",
       "dutyDetail": "Provide training to others in order to inform psychological interventions across a range of service settings.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2ea1841-9ad9-4e36-8608-c01a48fec807",
         "ce122488-2c94-4d1e-b2f6-f8f3f94ae274",
@@ -813,7 +813,7 @@
     {
       "dutyID": "9f9526eb-49bb-4a2e-a912-fd8d2be57eb6",
       "dutyDetail": "Undertake research and service development activities to inform change in the area of work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2ea1841-9ad9-4e36-8608-c01a48fec807",
         "ce122488-2c94-4d1e-b2f6-f8f3f94ae274",
@@ -840,7 +840,7 @@
     {
       "dutyID": "c5664407-656a-41d4-8409-3ef00c28fdab",
       "dutyDetail": "Provide psychological models of clinical supervision to the broader range of professionals they work with within their scope of practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2ea1841-9ad9-4e36-8608-c01a48fec807",
         "ce122488-2c94-4d1e-b2f6-f8f3f94ae274",
@@ -863,7 +863,7 @@
     {
       "dutyID": "76f47792-b0ca-431e-9f19-32ed2a7f3b58",
       "dutyDetail": "Conduct risk assessments and risk formulations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b2ea1841-9ad9-4e36-8608-c01a48fec807",
         "ce122488-2c94-4d1e-b2f6-f8f3f94ae274",
