@@ -3,14 +3,14 @@
   "larsCode": 527,
   "referenceNumber": "ST0765",
   "title": "Harbour master",
-  "status": "Approved for delivery",
+  "status": "Retired",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/527",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/harbour-master",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2021-08-26T00:00:00",
   "earliestStartDate": "2019-12-18T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2024-11-12T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Enforce regulations and industry codes of practice in a particular port, harbour or marina in order to ensure the safety of vessel navigation, the security of the harbour, the protection of the marine environment, and the safe operation of the port facilities.",
   "level": 6,
@@ -438,7 +438,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-12-18T00:00:00 +00:00",
@@ -463,7 +463,7 @@
     "Marina Manager"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Transport",
   "cluster": "Transport operations senior manager",
@@ -870,5 +870,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2021-08-26T00:00:00"
+  "publishDate": "2024-11-12T00:00:00"
 }
