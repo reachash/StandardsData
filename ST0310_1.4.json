@@ -299,7 +299,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-08-19T00:00:00 +00:00",
@@ -318,7 +318,7 @@
     "Junior project manager",
     "Project support"
   ],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Management and Administration",
   "cluster": "Business Manager",
@@ -343,7 +343,7 @@
     {
       "dutyID": "a60cf707-8b14-4f6d-a0f4-dd41c8e64010",
       "dutyDetail": "Support the project team in delivering the lifecycle of a project. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "83497687-da5e-4daa-9608-426ed714f8b6",
         "cd04bf7d-47b5-4de7-b779-22bd10bc0006",
@@ -378,7 +378,7 @@
     {
       "dutyID": "56dc5a68-f88c-493b-96c5-568f9c821797",
       "dutyDetail": "Review, analyse, and provide feedback on a business case to ensure the project remains valid.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "83497687-da5e-4daa-9608-426ed714f8b6",
         "d7b0af44-be23-4813-b8be-e361214c6ed7",
@@ -422,7 +422,7 @@
     {
       "dutyID": "b40b9936-2088-4682-8778-ad7c45e3dc35",
       "dutyDetail": "Contribute to and deliver elements of the stakeholder engagement process to commence and progress project delivery, and collaborate with stakeholders to communicate the project plan.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d9cade95-b447-4b89-8f54-1da8d8a6dd5c",
         "83497687-da5e-4daa-9608-426ed714f8b6",
@@ -451,7 +451,7 @@
     {
       "dutyID": "6e99b7e5-3d26-4f7e-865c-93b649d7ee1d",
       "dutyDetail": "Develop, update, and continually review, relevant sections of the project scope document.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d9cade95-b447-4b89-8f54-1da8d8a6dd5c",
         "83497687-da5e-4daa-9608-426ed714f8b6",
@@ -477,7 +477,7 @@
     {
       "dutyID": "5b4c51e0-b0b3-4064-9ac4-f213ad11d624",
       "dutyDetail": "Prepare documents or diagrams which illustrate and deliver the key milestones and stages of a project schedule. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d9cade95-b447-4b89-8f54-1da8d8a6dd5c",
         "83497687-da5e-4daa-9608-426ed714f8b6",
@@ -505,7 +505,7 @@
     {
       "dutyID": "0a53ddd1-da8d-4af1-8324-1ac305b9e56f",
       "dutyDetail": "Plan the resources required to deliver a project or the activities within the project.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d9cade95-b447-4b89-8f54-1da8d8a6dd5c",
         "83497687-da5e-4daa-9608-426ed714f8b6",
@@ -538,7 +538,7 @@
     {
       "dutyID": "c4826ef7-b03b-4978-b477-320c3c02d15a",
       "dutyDetail": "Use quality management systems to ensure that project delivery meets legislative and local requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d9cade95-b447-4b89-8f54-1da8d8a6dd5c",
         "cd04bf7d-47b5-4de7-b779-22bd10bc0006",
@@ -563,7 +563,7 @@
     {
       "dutyID": "83bee10e-3e56-4b37-a3c5-ad8198399c6f",
       "dutyDetail": "Identify and manage risks and opportunities, to drive the successful delivery of the project.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cd04bf7d-47b5-4de7-b779-22bd10bc0006",
         "d7b0af44-be23-4813-b8be-e361214c6ed7",
@@ -590,7 +590,7 @@
     {
       "dutyID": "9c50fc8e-5b16-4ead-aced-f18c58761a9b",
       "dutyDetail": "Contribute to the production and presentation of the key project documents through governance to gain approval.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cd04bf7d-47b5-4de7-b779-22bd10bc0006",
         "d7b0af44-be23-4813-b8be-e361214c6ed7"
@@ -626,7 +626,7 @@
     {
       "dutyID": "45d12941-a6b7-4726-8ba3-95ce9252936a",
       "dutyDetail": "Monitor and report on budget forecast, spend and variance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d9cade95-b447-4b89-8f54-1da8d8a6dd5c",
         "d7b0af44-be23-4813-b8be-e361214c6ed7",
@@ -654,7 +654,7 @@
     {
       "dutyID": "f2495778-d988-4728-b3e6-a84e7904586e",
       "dutyDetail": "Collate, analyse, and report on data relating to project performance. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d9cade95-b447-4b89-8f54-1da8d8a6dd5c",
         "ed5cac6f-b92b-45ac-adbd-66eab30c5408"
@@ -682,7 +682,7 @@
     {
       "dutyID": "0125c388-6c76-4582-aa19-07fb16b3d6a1",
       "dutyDetail": "Monitor performance trends and process change controls to support the management of project scope.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d9cade95-b447-4b89-8f54-1da8d8a6dd5c",
         "83497687-da5e-4daa-9608-426ed714f8b6",
@@ -709,7 +709,7 @@
     {
       "dutyID": "a1b038db-8b5a-408d-bc4f-01efd85cdde2",
       "dutyDetail": "Review the project and report on lessons learned which contribute to continuous improvement for future project delivery.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d7b0af44-be23-4813-b8be-e361214c6ed7",
         "ed5cac6f-b92b-45ac-adbd-66eab30c5408"
@@ -737,7 +737,7 @@
     {
       "dutyID": "eedbc62b-7eba-4d8d-a4bf-626e0e6d4b41",
       "dutyDetail": "Contribute to the project objectives and key performance indicators which drive and improve performance and sustainability goals.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "83497687-da5e-4daa-9608-426ed714f8b6",
         "cd04bf7d-47b5-4de7-b779-22bd10bc0006",
