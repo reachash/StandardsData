@@ -425,7 +425,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2021-09-14T00:00:00 +00:00",
@@ -447,7 +447,7 @@
     "Community Health Champion"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
   "cluster": "Health assistant",
@@ -465,7 +465,7 @@
     {
       "dutyID": "d0999d59-78de-4875-a64f-9ba76fb79e57",
       "dutyDetail": "use preventative approaches to promote the health and wellbeing of individuals, groups and communities, addressing the wider determinants of health and causes of ill-health",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "bad426e7-4281-4fa3-8443-120bd86d7e2a",
@@ -486,7 +486,7 @@
     {
       "dutyID": "6e771807-0073-41ef-8f82-a1e15573756c",
       "dutyDetail": "help communities to build local resilience and identify strengths, capacity and resources that support their health and wellbeing",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "eeae50bb-ec71-4f2b-b890-28e24b62752d"
       ],
@@ -511,7 +511,7 @@
     {
       "dutyID": "f137a668-d5a0-422a-a6ba-2913bbcd2ee4",
       "dutyDetail": "provide informed advice about local services and projects that support health and wellbeing",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "5f2ed863-693c-49e4-928c-ed226e6734d5",
@@ -529,7 +529,7 @@
     {
       "dutyID": "3d645510-1173-499a-bb61-2f50a8d193e6",
       "dutyDetail": "manage referrals from a range of agencies, professionals and through self-referral",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "94f0cd00-400b-494b-9726-a057bbb562e1",
@@ -550,7 +550,7 @@
     {
       "dutyID": "dd8b94fd-cccd-42a4-8ae5-9beb4dd515ce",
       "dutyDetail": "apply behavioural science to help people find practical solutions for better health and wellbeing",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "83dd5a63-9e61-49fd-ae80-200798076eec",
         "7f1e0c29-2fe5-4452-97b3-8cc5c6c177b7"
@@ -577,7 +577,7 @@
     {
       "dutyID": "76000d43-82e5-4afe-b248-cd43945632b4",
       "dutyDetail": "implement actions set out in strategies and policies that promote health and wellbeing at community level",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "be100a15-7aba-4195-8b76-c304060293cd",
@@ -600,7 +600,7 @@
     {
       "dutyID": "4ce48291-eb67-44e3-a4e2-7bc3451372be",
       "dutyDetail": "communicate public health messages and information to promote health and wellbeing at an individual, group and community level",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "86c4f8ff-1532-4152-aff7-cd24ad787c79"
       ],
@@ -623,7 +623,7 @@
     {
       "dutyID": "6386191c-e972-40ca-9776-a08263190677",
       "dutyDetail": "manage data and information and contribute to the evaluation of projects and services",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "de1d7c5f-4dc8-4c0b-9cf3-fc2556472271",
@@ -646,7 +646,7 @@
     {
       "dutyID": "56efb352-165e-47b8-9652-2bab2741e7be",
       "dutyDetail": "operate within legal and ethical frameworks that relate to the promotion and protection of the public’s health and wellbeing",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "38267bce-b9df-4e28-83f0-1ae426558bef"
       ],
@@ -668,7 +668,7 @@
     {
       "dutyID": "fd17b28a-1cb2-4d33-9c5c-2319556aba82",
       "dutyDetail": "take responsibility for personal and professional development in line with organisational protocol",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d6b92d8d-5de8-43de-b0e3-d2381c9ea415"
       ],
