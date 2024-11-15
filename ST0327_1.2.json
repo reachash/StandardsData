@@ -204,7 +204,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-05-11T00:00:00 +00:00",
@@ -227,7 +227,7 @@
     "Sales assistant"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Sales & Retail",
   "cluster": "Specialist retail assistant",
@@ -245,7 +245,7 @@
     {
       "dutyID": "0b744680-3025-45b0-b458-0fa124faa1f7",
       "dutyDetail": "Undertake daily procedures such as setting up and clearing displays, switching equipment on or off to start or end a shift, ensuring the working environment meets business and legal requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c18370ad-a1c2-47c3-8a8f-b1d346e85b79",
         "dac4c2e1-9096-41db-9862-a58a7acc0e2a",
@@ -277,7 +277,7 @@
     {
       "dutyID": "e99f9cde-a92e-447d-b556-38a841a9171b",
       "dutyDetail": "Process sales, exchanges, and refunds in line with business policy, offer information and identify customer requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c18370ad-a1c2-47c3-8a8f-b1d346e85b79",
         "dac4c2e1-9096-41db-9862-a58a7acc0e2a",
@@ -317,7 +317,7 @@
     {
       "dutyID": "e9e3f384-7353-4925-9a24-5b0b08cad221",
       "dutyDetail": "Provide product and service information in compliance with business and legal requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c18370ad-a1c2-47c3-8a8f-b1d346e85b79",
         "dac4c2e1-9096-41db-9862-a58a7acc0e2a",
@@ -358,7 +358,7 @@
     {
       "dutyID": "0a27ce26-f605-4f10-b77d-856e77c4dc6c",
       "dutyDetail": "Respond to and support with enquiries and complaints, resolving where possible, reporting outcomes, or escalating where required.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c18370ad-a1c2-47c3-8a8f-b1d346e85b79",
         "dac4c2e1-9096-41db-9862-a58a7acc0e2a",
@@ -396,7 +396,7 @@
     {
       "dutyID": "7dccbb59-ce44-4a4d-a96d-1b8b3f033f70",
       "dutyDetail": "Contribute to the health and safety of colleagues, customers, and the working environment by removing hazards or reporting incidents.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c18370ad-a1c2-47c3-8a8f-b1d346e85b79",
         "dac4c2e1-9096-41db-9862-a58a7acc0e2a",
@@ -425,7 +425,7 @@
     {
       "dutyID": "dd01c76e-a88d-46ac-a9c4-df0c61cb40c9",
       "dutyDetail": "Maintain stock availability, reporting any price discrepancies and support the fulfilment of purchases using the appropriate systems and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c18370ad-a1c2-47c3-8a8f-b1d346e85b79",
         "dac4c2e1-9096-41db-9862-a58a7acc0e2a",
@@ -455,7 +455,7 @@
     {
       "dutyID": "8c9f3d57-860f-4473-a128-7c9fc48225e8",
       "dutyDetail": "Contribute to promotional activities to support the success of the business such as changing promotions, displays, seasonality and product launch activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c18370ad-a1c2-47c3-8a8f-b1d346e85b79",
         "dac4c2e1-9096-41db-9862-a58a7acc0e2a",
@@ -498,7 +498,7 @@
     {
       "dutyID": "bc1461d5-66a8-49e6-a6a9-3ff385cb9fb8",
       "dutyDetail": "Use IT, technology, and digital solutions to assist with customer enquiries, purchasing activities and processing sales.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c18370ad-a1c2-47c3-8a8f-b1d346e85b79",
         "dac4c2e1-9096-41db-9862-a58a7acc0e2a",
@@ -528,7 +528,7 @@
     {
       "dutyID": "7841c809-2e45-4dbd-8df5-8702a13964cf",
       "dutyDetail": "Contribute to team development activities, and business objectives.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c18370ad-a1c2-47c3-8a8f-b1d346e85b79",
         "dac4c2e1-9096-41db-9862-a58a7acc0e2a",
@@ -559,7 +559,7 @@
     {
       "dutyID": "eb3beba6-2a85-4163-8168-293af6a16b18",
       "dutyDetail": "Contribute to reducing waste and improving sustainability in line with business objectives.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dac4c2e1-9096-41db-9862-a58a7acc0e2a",
         "a76fdb35-d384-4966-b65e-1b4cc0c2d4ed",
@@ -583,7 +583,7 @@
     {
       "dutyID": "f99b5e19-ac3b-46e6-8d31-252672cafd0f",
       "dutyDetail": "Contribute to minimising stock loss by following business procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dac4c2e1-9096-41db-9862-a58a7acc0e2a",
         "a76fdb35-d384-4966-b65e-1b4cc0c2d4ed",
