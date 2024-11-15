@@ -232,7 +232,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2021-06-23T00:00:00 +00:00",
@@ -251,7 +251,7 @@
     "Certified play therapist"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Care Services",
   "cluster": "Care services professional",
@@ -276,7 +276,7 @@
     {
       "dutyID": "8b14df34-6373-40b9-a98a-2ea1e004a8db",
       "dutyDetail": "Fulfil the legal and ethical requirements of a Play Therapist and the standards of the Professional Standards Authority Accredited (PSA) Register of Play and Creative Arts Therapists managed by Play Therapy UK",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7b98fcf-95b5-48af-99d9-4487689c1a8c"
       ],
@@ -297,7 +297,7 @@
     {
       "dutyID": "08e308d0-9f7c-4bd4-9c79-8063e3234dc4",
       "dutyDetail": "Organise and manage a caseload of clients and the resources available",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7b98fcf-95b5-48af-99d9-4487689c1a8c",
         "596976e7-cd19-42b9-a740-264693500726",
@@ -326,7 +326,7 @@
     {
       "dutyID": "b2ca0b14-b04f-4d96-909f-fb146da82d1d",
       "dutyDetail": "Allocate referrals received from a wide range of stakeholders including parents, carers and professionals and develop an appropriate treatment plan",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7b98fcf-95b5-48af-99d9-4487689c1a8c",
         "596976e7-cd19-42b9-a740-264693500726",
@@ -355,7 +355,7 @@
     {
       "dutyID": "8b05177f-bf81-4352-aa42-efaa1d3003d2",
       "dutyDetail": "Conduct interviews with parent/carers and referrers to identify needs, constraints and other relevant social, medical and educational information. Obtain consent from the person legally responsible for the child to proceed with therapy and record and process data within the relevant Data Protection Policy, conforming to the 2018 Data Protection Act",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7b98fcf-95b5-48af-99d9-4487689c1a8c",
         "596976e7-cd19-42b9-a740-264693500726",
@@ -389,7 +389,7 @@
     {
       "dutyID": "976c42a8-cfbc-44a9-99ce-fed65fa49af9",
       "dutyDetail": "Assess a child’s initial mental health and emotional well-being needs, using the psychometric instruments designed for assessing children and infants together with their parent/carers'  hopes and expectation and needs for their child's therapy. Recommend which intervention, if any, may be the most appropriate",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7b98fcf-95b5-48af-99d9-4487689c1a8c",
         "596976e7-cd19-42b9-a740-264693500726",
@@ -419,7 +419,7 @@
     {
       "dutyID": "75a80b6b-8514-4523-ab6e-be418525427c",
       "dutyDetail": "Deliver the treatment plan in accordance with the Integrative Holistic Model",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7b98fcf-95b5-48af-99d9-4487689c1a8c",
         "596976e7-cd19-42b9-a740-264693500726",
@@ -463,7 +463,7 @@
     {
       "dutyID": "2edbecba-da5b-47e4-ac8d-7c5c68a21e37",
       "dutyDetail": "Make sure that the children take an active role in the therapeutic process through verbal and non-verbal communication",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7b98fcf-95b5-48af-99d9-4487689c1a8c",
         "596976e7-cd19-42b9-a740-264693500726",
@@ -503,7 +503,7 @@
     {
       "dutyID": "e818e885-739b-4cb6-b571-c2a8e5446bf4",
       "dutyDetail": "Support children to form their own strategies for dealing with traumatic experiences",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7b98fcf-95b5-48af-99d9-4487689c1a8c",
         "596976e7-cd19-42b9-a740-264693500726",
@@ -543,7 +543,7 @@
     {
       "dutyID": "472cbdef-d350-4dd7-9c88-9d47cb24cf38",
       "dutyDetail": "Evaluate play therapy sessions by following the child's processes during each individual or group session, intervening if necessary, to keep the child safe. Also, track the child's progress in preparation for clinical supervision",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7b98fcf-95b5-48af-99d9-4487689c1a8c",
         "596976e7-cd19-42b9-a740-264693500726",
@@ -579,7 +579,7 @@
     {
       "dutyID": "270a5190-d078-4688-8e92-5364285c1b18",
       "dutyDetail": "Analyse progress and issues that have arisen in the session that need to be taken to clinical supervision for advice and support",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7b98fcf-95b5-48af-99d9-4487689c1a8c",
         "596976e7-cd19-42b9-a740-264693500726",
@@ -612,7 +612,7 @@
     {
       "dutyID": "5c9e9603-5bee-4802-9608-6ff63fb17575",
       "dutyDetail": "Consult and meet regularly with parent/carers and referrers to assess the client's progress, adjusting the therapeutic objectives and means of achieving them. Discuss the results of any interim or ending assessments.  Agree if the number of sessions needs to be increased or ended taking appropriate action",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7b98fcf-95b5-48af-99d9-4487689c1a8c",
         "596976e7-cd19-42b9-a740-264693500726",
@@ -641,7 +641,7 @@
     {
       "dutyID": "57eeadd1-01e5-4f32-907a-8d3a2b5c974c",
       "dutyDetail": "Report and communicate appropriately to stakeholders and professionals identifying the on-going needs of the child",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7b98fcf-95b5-48af-99d9-4487689c1a8c",
         "596976e7-cd19-42b9-a740-264693500726",
@@ -674,7 +674,7 @@
     {
       "dutyID": "c6eb9e60-95c3-4f05-a3f0-48588b458252",
       "dutyDetail": " Manage the physical and emotional safety of the children through the use of approved check lists and procedures covering the use of equipment, materials, the playroom and the working environment",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7b98fcf-95b5-48af-99d9-4487689c1a8c",
         "830b4410-c276-4666-9fe3-6554454def8f"
@@ -696,7 +696,7 @@
     {
       "dutyID": "81bc03aa-d025-456b-95e9-79817166adec",
       "dutyDetail": "Provide joined up working by briefing, consulting with and supporting colleagues in the wider education, health and social care team giving your professional judgement (within the boundaries of your qualifications and experience) as required.  Exchange data that is for the benefit of the children using agreed data protection protocols and formats. whilst also maintaining ethical/professional boundaries",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7b98fcf-95b5-48af-99d9-4487689c1a8c",
         "289b521e-f157-40e3-918b-5537d58ed892",
@@ -726,7 +726,7 @@
     {
       "dutyID": "ed0dddc7-c158-465e-b0e3-ce41bc2262fa",
       "dutyDetail": "Protect the children’s and parent/carers’ right to confidentiality through recording of data relating to the children therapy using an approved digital record management system so that the data is available for practice-based evidence, quality assurance, service audit and research activities",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7b98fcf-95b5-48af-99d9-4487689c1a8c"
       ],
@@ -746,7 +746,7 @@
     {
       "dutyID": "4efc8351-f513-4c44-8b58-b9197a077af7",
       "dutyDetail": "Implement their own continued personal and professional development plan",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7b98fcf-95b5-48af-99d9-4487689c1a8c",
         "596976e7-cd19-42b9-a740-264693500726",
@@ -776,7 +776,7 @@
     {
       "dutyID": "9a7483a4-b84c-4b5a-a1cb-4fc5ffa759a5",
       "dutyDetail": "Keep up to date with the latest findings of child therapies",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7b98fcf-95b5-48af-99d9-4487689c1a8c",
         "f32b923c-3996-47d3-91d0-80180650150b"
@@ -799,7 +799,7 @@
     {
       "dutyID": "47e975e3-12d1-4e78-992d-19f7ca8f84a8",
       "dutyDetail": "Implement the learning and action points which arise through clinical supervision",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7b98fcf-95b5-48af-99d9-4487689c1a8c",
         "596976e7-cd19-42b9-a740-264693500726",
