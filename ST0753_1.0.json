@@ -245,7 +245,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2022-02-11T00:00:00 +00:00",
@@ -263,7 +263,7 @@
     "Express delivery operative"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Logistics",
   "cluster": "Supply chain operative or technician",
@@ -288,7 +288,7 @@
     {
       "dutyID": "ee31018a-27d1-4fad-9a63-375cf2cafe39",
       "dutyDetail": "Determine the nature of goods (such as perishables, parcels or mail) and select the most suitable approach to sortation. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
         "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
@@ -318,7 +318,7 @@
     {
       "dutyID": "6f626a4e-404d-4cde-8b1e-36adb53e3c6f",
       "dutyDetail": "Unload and load goods. Use the correct equipment, including for example trays, roller cages, mail bags and loading booms.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
         "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
@@ -351,7 +351,7 @@
     {
       "dutyID": "18b45f14-c7b2-449e-83b3-0eb2210a011f",
       "dutyDetail": "Examine goods and identify the destination labelling. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "33db4577-fa99-45b7-93fd-cd34ef03f9ba"
       ],
@@ -377,7 +377,7 @@
     {
       "dutyID": "83f38f8d-5e6d-4788-b91a-bd2e3e1749d8",
       "dutyDetail": "Determine the volume and weight of goods to cost, and match goods to available dispatch services.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
         "b1c1993f-34ef-469b-aa00-d50355fb2412",
@@ -408,7 +408,7 @@
     {
       "dutyID": "a6ece804-daec-4f57-a101-c54b32dbe1f1",
       "dutyDetail": "Process goods, working with conveyor belts, sortation equipment and chutes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "9b28d10c-8f7f-4e1f-a07b-7246a4af7112",
@@ -437,7 +437,7 @@
     {
       "dutyID": "1d4f1850-b101-462e-8076-b9b15aa3fe35",
       "dutyDetail": "Read and respond to data for sortation equipment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
         "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
@@ -467,7 +467,7 @@
     {
       "dutyID": "057eca74-a06b-4a7a-ab8c-39a8df0ead46",
       "dutyDetail": "Operate manual and semi-automated sortation machinery, such as manual hopper feeds.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
         "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
@@ -497,7 +497,7 @@
     {
       "dutyID": "d1bd569d-e9d6-44c1-8490-2b9331ccf0ca",
       "dutyDetail": "Maintain, clean and unblock sortation equipment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
         "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
@@ -524,7 +524,7 @@
     {
       "dutyID": "a5df45fc-2d55-4aaa-9ed7-8ef646a5292a",
       "dutyDetail": "Operate and monitor IT systems used for automated sortation and sequencing. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
         "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
@@ -550,7 +550,7 @@
     {
       "dutyID": "5f00baa8-8d9a-4a76-b51c-b14209e05386",
       "dutyDetail": "Calibrate sortation equipment before and after operation cycles.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
         "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
@@ -579,7 +579,7 @@
     {
       "dutyID": "647be475-38c3-43df-aa5e-591378a4a1ad",
       "dutyDetail": "Escalate sortation problems beyond own control.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
         "f48030ae-e1c0-403e-be33-cfa2e7246b4c",
@@ -614,7 +614,7 @@
     {
       "dutyID": "f94b8631-76ac-4b8a-90fb-ab5c9fd96561",
       "dutyDetail": "Identify and report mechanical failures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
         "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
@@ -646,7 +646,7 @@
     {
       "dutyID": "7884dcee-fad5-4423-a19c-01b2b4288041",
       "dutyDetail": "Comply with health and safety and all other relevant sortation procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
         "f48030ae-e1c0-403e-be33-cfa2e7246b4c"
@@ -674,7 +674,7 @@
     {
       "dutyID": "8ea9d2d3-d21a-4c49-9a3d-c688f15626ba",
       "dutyDetail": "Identify damaged goods and take action in accordance with own organisation requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
         "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
@@ -706,7 +706,7 @@
     {
       "dutyID": "f9440069-06c4-4a21-9efd-b12e2e50f5f1",
       "dutyDetail": "Create reports on sortation performance. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
         "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
@@ -737,7 +737,7 @@
     {
       "dutyID": "45618043-b766-4213-a1bc-29ab1cbd2d77",
       "dutyDetail": "Meet organisational targets for express delivery, by coordinating own work with that of the sortation hub team",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
         "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
