@@ -343,7 +343,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2021-09-14T00:00:00 +00:00",
@@ -366,7 +366,7 @@
     "Junior/Assistant Arboricultural Consultant",
     "Tree Officer"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Arboriculture and forestry supervisor",
@@ -397,7 +397,7 @@
     {
       "dutyID": "fd96ff56-d451-4299-a0fd-3a557ed1a29f",
       "dutyDetail": "Advise about trees including tree management (for example pruning, watering, tree protection, roots), health, the law (for example tree preservation orders, conservation zones), risk and the role of trees in development to the public, clients and colleagues.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
         "72ca14fd-0ef2-455b-b8df-5e1fd798daf9",
@@ -436,7 +436,7 @@
     {
       "dutyID": "34eba1ac-26f6-472c-917e-27faeceed976",
       "dutyDetail": "Interpret and deliver tree / woodland management plans with reference to the role of trees in national / local planning policy and the context in regard to development proposals.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7bd2b9ff-8831-4e7d-8604-72ce2f9db64b",
         "1e86d31b-e8b1-4dca-9ff5-efc77226dfe3"
@@ -464,7 +464,7 @@
     {
       "dutyID": "ad22ba1f-b183-4691-aff6-08844e0ac586",
       "dutyDetail": "Survey tree populations in relation to design, demolition and construction including species identification, protections, size measurements, condition management recommendations, assessment of ‘useful life’ and quality assessments.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
         "72ca14fd-0ef2-455b-b8df-5e1fd798daf9",
@@ -525,7 +525,7 @@
     {
       "dutyID": "1266b102-0625-44f1-823b-a9ee812e95c9",
       "dutyDetail": "Survey trees to enable management for example for tree health, condition risk or aesthetic purposes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
         "72ca14fd-0ef2-455b-b8df-5e1fd798daf9",
@@ -584,7 +584,7 @@
     {
       "dutyID": "da8d1789-7e1a-4527-8f19-6006ab83831c",
       "dutyDetail": "Inspect individual trees including identification, pests and diseases, health, defects, planning requirements, risk, site / location factors and recommendations for future actions / monitoring.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
         "72ca14fd-0ef2-455b-b8df-5e1fd798daf9",
@@ -646,7 +646,7 @@
     {
       "dutyID": "d69c25da-41ea-4189-82fc-01637ce708f6",
       "dutyDetail": "Identify and respond to tree pests and diseases for example reporting, biosecurity measures, nursery stock selection, removal, treatments.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
         "1e86d31b-e8b1-4dca-9ff5-efc77226dfe3"
@@ -675,7 +675,7 @@
     {
       "dutyID": "3b3e575f-9eaf-47e2-853c-fdc0a37b93ab",
       "dutyDetail": "Use tree management software including databases and Geographic Information Systems (GIS).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "e8723375-8650-4d87-b609-3a3fb9d6fc20",
@@ -692,7 +692,7 @@
     {
       "dutyID": "184e25a8-60be-4961-8515-99d6a5805aab",
       "dutyDetail": "Enforce legislation and regulation regarding trees, woodlands and forests to include tree preservation orders, conservation zones, felling licenses and other designations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
         "72ca14fd-0ef2-455b-b8df-5e1fd798daf9",
@@ -716,7 +716,7 @@
     {
       "dutyID": "9e081e59-96fb-4814-96b5-e934006bfd87",
       "dutyDetail": "Supervise tree work operations to specification for example planting, felling and maintenance operations, to include health and safety on site, environmental, access and quality of works.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
         "72ca14fd-0ef2-455b-b8df-5e1fd798daf9",
@@ -760,7 +760,7 @@
     {
       "dutyID": "1eea2650-efa6-46e7-b39e-81b6b59baedc",
       "dutyDetail": "Supervise contractors, including motivation, quality of work, coordination of resources, health and safety. Develop relationships with customers, stakeholders and colleagues.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
         "72ca14fd-0ef2-455b-b8df-5e1fd798daf9",
@@ -809,7 +809,7 @@
     {
       "dutyID": "ac6f0781-2710-4807-a35a-4cded4b3ba37",
       "dutyDetail": "Provide good customer service, deal with complaints and identify new opportunities for income generation. Promote the organisation, products, services or activities and the benefits of trees, woodlands and forests.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
         "72ca14fd-0ef2-455b-b8df-5e1fd798daf9",
@@ -832,7 +832,7 @@
     {
       "dutyID": "5529b852-44e6-4467-8839-6a331aa21577",
       "dutyDetail": "Work within defined budgets. Assist with sourcing of additional funding for example through grant applications. Write estimates and quotes for work. Develop costings for jobs.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
         "7bd2b9ff-8831-4e7d-8604-72ce2f9db64b"
@@ -851,7 +851,7 @@
     {
       "dutyID": "46124b5a-b30e-49ca-b8c9-3a4bb0b63789",
       "dutyDetail": "Follow systems and processes required by the organisation and report on information from those systems to monitor organisational performance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03"
       ],
@@ -872,7 +872,7 @@
     {
       "dutyID": "caf0b1e7-97e7-4e05-895f-678b0828996c",
       "dutyDetail": "Engage local communities in tree care and management.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
         "72ca14fd-0ef2-455b-b8df-5e1fd798daf9"
