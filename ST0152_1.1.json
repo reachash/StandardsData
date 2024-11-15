@@ -253,12 +253,12 @@
     "Maintenance electrician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Building Services Engineering",
   "cluster": "Building services engineering operative or technician",
   "clusterId": "65",
-  "clusterDescription": null,
+  "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
   "createdDate": "2023-06-05T12:48:41 +00:00",
   "lastUpdated": "2023-09-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-09-10T00:00:00 +00:00",
@@ -293,7 +293,7 @@
     {
       "dutyID": "83d3ff95-bdff-49c4-a62f-c499ef814d81",
       "dutyDetail": "Understand fully and work in full compliance with health, safety, and environmental regulations; building regulations; industry guidance notes; relevant codes of practice, the requirements of the current edition of the Wiring Regulations (BS7671) and other relevant standards.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5987e691-8a22-41d9-ae03-f10c06f89f62",
         "bac00fc6-a898-4076-a603-03cb92decdd0",
@@ -316,7 +316,7 @@
     {
       "dutyID": "22e542b8-5fcc-4c87-8185-8f05ea17ff93",
       "dutyDetail": "Carry out electrical installation, initial verification, maintenance, and testing work on a variety of voltages; both AC and DC; single and three-phase.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5987e691-8a22-41d9-ae03-f10c06f89f62",
         "bac00fc6-a898-4076-a603-03cb92decdd0",
@@ -341,7 +341,7 @@
     {
       "dutyID": "666e6e6f-78b3-4049-a7e9-30e0131f2f22",
       "dutyDetail": "Carry out maintenance regimes, periodic inspection and testing and electrical installation condition reporting of existing electrical installations in accordance with manufacturer instructions and the requirements for electrical installations. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5987e691-8a22-41d9-ae03-f10c06f89f62",
         "bac00fc6-a898-4076-a603-03cb92decdd0",
@@ -368,7 +368,7 @@
     {
       "dutyID": "ad1dbc2a-dc5f-466f-92a2-673dbd506c5e",
       "dutyDetail": "Undertake the installation of both wired and wireless solutions in achieving a desired outcome appropriate to client need in accordance with the requirements of BS 7671 and other relevant industry standards, and assess electrical loads on such new installations to ensure safe and suitable solutions are provided . ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5987e691-8a22-41d9-ae03-f10c06f89f62",
         "bac00fc6-a898-4076-a603-03cb92decdd0",
@@ -397,7 +397,7 @@
     {
       "dutyID": "5e6940ab-840e-4e17-bd17-8c4598beabb3",
       "dutyDetail": "Plan and deliver the best solution for the client, incorporating and integrating new technologies as required, within agreed budget, including the installation, maintenance, and inspection of special installations, including but not limited to electric vehicle charging systems, PV and Thermal panels battery storage, and Stand By Generation in accordance with the requirements of BS 7671 and other relevant industry standards. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bac00fc6-a898-4076-a603-03cb92decdd0",
         "c1646fcd-89b2-4805-9d43-8fbc3c52264b",
@@ -428,7 +428,7 @@
     {
       "dutyID": "4688e1bb-2682-4189-8f9f-43199ca3a295",
       "dutyDetail": "Decide the correct location, site and install mains powered life safety systems for industrial, commercial and residential installations. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5987e691-8a22-41d9-ae03-f10c06f89f62",
         "bac00fc6-a898-4076-a603-03cb92decdd0",
@@ -455,7 +455,7 @@
     {
       "dutyID": "e4d3c9fb-6b97-43b6-8941-d6273e10c512",
       "dutyDetail": "Design and install wiring and connections for known and novel heating and cooling systems, for industrial, commercial, and residential installations which need electrical connections.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5987e691-8a22-41d9-ae03-f10c06f89f62",
         "bac00fc6-a898-4076-a603-03cb92decdd0",
@@ -481,7 +481,7 @@
     {
       "dutyID": "80a5fbba-efa1-4125-b00f-4c05bc82149f",
       "dutyDetail": "Install cables within the fabric of the building for internal and external installations while maintaining the integrity of fire compartments. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5987e691-8a22-41d9-ae03-f10c06f89f62",
         "bac00fc6-a898-4076-a603-03cb92decdd0",
@@ -509,7 +509,7 @@
     {
       "dutyID": "d8454639-fe0c-4f01-9e04-6e1f7daa9254",
       "dutyDetail": "Understand the need for appropriate consideration towards, and knowledge of specialist requirements when working in historical installations and settings. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "622c9737-533a-4530-99aa-a74d9df475d0",
         "a60eb9a0-e58d-45ff-8261-83da05970d96",
@@ -536,7 +536,7 @@
     {
       "dutyID": "000a1212-dcc3-4a5c-90fb-0e8f55bd2ee5",
       "dutyDetail": "Communicate and liaise effectively with own project team, and those in other teams, such as clients or specialist contractors, and with internal or external stakeholders, respecting the need for the security of data and information.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a60eb9a0-e58d-45ff-8261-83da05970d96"
       ],
@@ -555,7 +555,7 @@
     {
       "dutyID": "104f8331-7a21-4771-8a12-da34c3a3b3b6",
       "dutyDetail": "Understand the different types of novel technologies being developed relating to electrical installations including the smart grid, use of prefabricated products and components (plug and play), energy efficient lighting technologies, lower carbon electric power generation and the IoT and how new technologies can be retrofitted to existing installations. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "2b3c04e5-daa9-4979-9c43-9ac62c1d4a6a",
@@ -570,7 +570,7 @@
     {
       "dutyID": "55b57855-0b3f-484d-9bd0-2ef752d89e8e",
       "dutyDetail": "Restore work area and return tools, and unused materials and equipment to a safe and reliable condition, to prescribed standards of cleanliness on completion of installation or maintenance work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5987e691-8a22-41d9-ae03-f10c06f89f62",
         "bac00fc6-a898-4076-a603-03cb92decdd0",
@@ -588,7 +588,7 @@
     {
       "dutyID": "9d8d7fb5-5074-4a79-9d41-ca996d671d0d",
       "dutyDetail": "Prepare and complete relevant work documentation from quotation to certification, including fault finding during commissioning, and handover stages in accordance with organisation policy and procedures and any other relevant information and guidance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3fa70979-ae13-4915-b0d1-eb637685141e"
       ],
@@ -605,7 +605,7 @@
     {
       "dutyID": "199fbb9b-55f3-4ba2-9e1d-202a69e468e8",
       "dutyDetail": "Understand how to plan and project manage typical Electrician work to maximise quality of outcome and efficiency of workflow. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "463a6a01-d5e8-43ae-b20d-f8d16b0ab372",
@@ -620,7 +620,7 @@
     {
       "dutyID": "8839f4ec-32d9-4586-9881-f5a3ab48e493",
       "dutyDetail": "Develop and maintain skills in using a range of practical and workshop skills, selecting, and applying appropriate materials, equipment, technologies and processes to install or maintain electrical installations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9a00567b-74f6-4cc7-bb4d-93196daa28ef"
       ],
