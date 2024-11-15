@@ -324,7 +324,7 @@
     {
       "dutyID": "3d080186-950f-4b6e-8eea-f31e546ae248",
       "dutyDetail": "Receive, read and interpret engineering data and documentation such as engineering drawings, technical data, blueprints, schematic drawings, and technical documentation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c963b7-d621-40b4-8bc4-15ebfc8965af",
         "1ae96518-a7a9-4b07-bf05-3a4449091d27",
@@ -347,7 +347,7 @@
     {
       "dutyID": "c8c6faaa-0ceb-496b-95f9-281b30d3367a",
       "dutyDetail": "Plan and prepare maritime pipework maintenance, installation and other work activities to cause minimal disruption. Agree planned actions and obtain any required permits or permissions required to carry out the work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c963b7-d621-40b4-8bc4-15ebfc8965af",
         "aa27b9ab-7428-4fa0-a5aa-d41ac4d19b47",
@@ -376,7 +376,7 @@
     {
       "dutyID": "f5894856-191e-45b2-b222-169120be53a8",
       "dutyDetail": "Select, obtain and prepare resources required to carry out the task. Carry out pre-use checks of equipment, tools and other resources.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c963b7-d621-40b4-8bc4-15ebfc8965af",
         "aa27b9ab-7428-4fa0-a5aa-d41ac4d19b47",
@@ -402,7 +402,7 @@
     {
       "dutyID": "8d1410f9-74d5-4fd2-9c1a-139f93a1588e",
       "dutyDetail": "Comply with safe systems of work ensuring statutory regulations and organisational compliance requirements are met. Ensure the safe and secure isolation of equipment as required by organisational policies. Report any accidents and near misses through the required process.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c963b7-d621-40b4-8bc4-15ebfc8965af",
         "1ae96518-a7a9-4b07-bf05-3a4449091d27",
@@ -424,7 +424,7 @@
     {
       "dutyID": "45bd141a-8bdf-45bf-adef-70ab2d111e94",
       "dutyDetail": "Use common and specialist machine and hand tools to perform tasks.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c963b7-d621-40b4-8bc4-15ebfc8965af",
         "aa27b9ab-7428-4fa0-a5aa-d41ac4d19b47",
@@ -450,7 +450,7 @@
     {
       "dutyID": "cfd75096-08c4-4b5e-96cf-91af691b9b8a",
       "dutyDetail": "Keep stakeholders informed about work, for example customers, colleagues and line managers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c963b7-d621-40b4-8bc4-15ebfc8965af",
         "48f8da7d-98ac-4ead-acde-cd141d0f2640",
@@ -477,7 +477,7 @@
     {
       "dutyID": "3e0141fa-01cd-4621-9f01-3008f9b9ec96",
       "dutyDetail": "Use a range of testing and measuring techniques to carry out the task and to aid in fault diagnosis.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c963b7-d621-40b4-8bc4-15ebfc8965af",
         "aa27b9ab-7428-4fa0-a5aa-d41ac4d19b47",
@@ -502,7 +502,7 @@
     {
       "dutyID": "f5b9ec17-94f0-4167-b97b-eff8ae133345",
       "dutyDetail": "Carry out fabrication, installation, removal or planned maintenance on pipework and pipework systems within a maritime environment. Ensure all parts and consumables used in the activity comply with maritime specifications.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c963b7-d621-40b4-8bc4-15ebfc8965af",
         "aa27b9ab-7428-4fa0-a5aa-d41ac4d19b47",
@@ -539,7 +539,7 @@
     {
       "dutyID": "7229d4fd-2704-43c6-90c5-117a9f031bf4",
       "dutyDetail": "Carry out reactive work and resolve breakdown or failure conditions on pipework and pipework systems within the maritime sector. Apply fault-finding and diagnostic testing procedures to identify faults using recognised methods and techniques. Diagnose and resolve faulty items relevant to the maritime environment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c963b7-d621-40b4-8bc4-15ebfc8965af",
         "aa27b9ab-7428-4fa0-a5aa-d41ac4d19b47",
@@ -570,7 +570,7 @@
     {
       "dutyID": "02d72771-1145-4b03-859e-3e4bd5cfda3c",
       "dutyDetail": "Identify, communicate and report health, safety, performance functionality issues and environmental conditions affecting the use of pipework and pipework systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c963b7-d621-40b4-8bc4-15ebfc8965af",
         "aa27b9ab-7428-4fa0-a5aa-d41ac4d19b47",
@@ -595,7 +595,7 @@
     {
       "dutyID": "6291695b-37f5-4750-ae61-4e9ccec29358",
       "dutyDetail": "Return pipework and pipework systems to operational condition and carry out required functional, quality and operational checks to confirm equipment serviceability and fitness for purpose.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c963b7-d621-40b4-8bc4-15ebfc8965af",
         "aa27b9ab-7428-4fa0-a5aa-d41ac4d19b47",
@@ -623,7 +623,7 @@
     {
       "dutyID": "f7082ace-8908-4cff-a0f1-6b065f639c03",
       "dutyDetail": "Maintain and restore the work area, performing housekeeping and waste management as appropriate in line with environmental and organisational requirements. Ensure tools, unused materials and equipment are returned to a safe, clean and approved condition on completion of work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c963b7-d621-40b4-8bc4-15ebfc8965af",
         "aa27b9ab-7428-4fa0-a5aa-d41ac4d19b47",
@@ -648,7 +648,7 @@
     {
       "dutyID": "78bc0096-009e-4be4-9ad2-22a98098cfca",
       "dutyDetail": "Complete documentation at all required stages of the work activity.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c963b7-d621-40b4-8bc4-15ebfc8965af",
         "aa27b9ab-7428-4fa0-a5aa-d41ac4d19b47",
@@ -674,7 +674,7 @@
     {
       "dutyID": "a5c0bdc7-fb96-4431-815e-afe21ad4d8cd",
       "dutyDetail": "Carry out continuous improvement opportunities and identify possible opportunities for improvements and efficiencies. Identify and complete professional development activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "02c963b7-d621-40b4-8bc4-15ebfc8965af",
         "d126c1fb-782f-4af2-a79e-9dbe8562876c",
