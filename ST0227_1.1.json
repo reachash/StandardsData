@@ -290,7 +290,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2017-04-07T00:00:00 +00:00",
@@ -309,7 +309,7 @@
     "Line Chef"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Catering",
   "cluster": "Caterer",
@@ -327,7 +327,7 @@
     {
       "dutyID": "5f10e5a0-73a2-4fc2-aefe-c683b0f4a920",
       "dutyDetail": "Prepare dishes and menu items using advanced preparation methods or a variety of basic methods combined in a complex manner in line with organisation brand standards and recipe specifications",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "24a0439c-1099-418f-8bba-966892b4c5ee",
         "f056c3f9-aa30-4b6d-af83-d076117c64bb",
@@ -377,7 +377,7 @@
     {
       "dutyID": "875e81a1-6bf1-47b5-9507-e910a6d863bd",
       "dutyDetail": "Cook dishes and menu items using advanced cooking methods or a variety of basic methods combined in a complex manner in line with organisation brand standards and recipe specifications",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "24a0439c-1099-418f-8bba-966892b4c5ee",
         "f056c3f9-aa30-4b6d-af83-d076117c64bb",
@@ -426,7 +426,7 @@
     {
       "dutyID": "8de59c0c-c82f-4c1b-a70d-ae7775d9a4ce",
       "dutyDetail": "Finish dishes and menu items using advanced finishing methods or a variety of basic methods combined in a complex manner in line with organisation brand standards and recipe specifications",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "24a0439c-1099-418f-8bba-966892b4c5ee",
         "f056c3f9-aa30-4b6d-af83-d076117c64bb",
@@ -468,7 +468,7 @@
     {
       "dutyID": "2ebec863-6019-4a38-868c-161fd21bb7da",
       "dutyDetail": "Maximise yield and quality ensuring waste is minimised whilst working in a time bound environment",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "24a0439c-1099-418f-8bba-966892b4c5ee",
         "f056c3f9-aa30-4b6d-af83-d076117c64bb",
@@ -523,7 +523,7 @@
     {
       "dutyID": "99e98d91-5479-48e9-804b-7e5fc45a4275",
       "dutyDetail": "Contribute to reviewing and refreshing menus and dishes in line with business requirements and influencing factors",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "24a0439c-1099-418f-8bba-966892b4c5ee",
         "f056c3f9-aa30-4b6d-af83-d076117c64bb",
@@ -562,7 +562,7 @@
     {
       "dutyID": "888b9536-4929-4ea3-a4c9-993a89105573",
       "dutyDetail": "Oversee and supervise section staff to store, prepare, cook and finish all ingredients in line with organisation brand standards, quality and safety",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "24a0439c-1099-418f-8bba-966892b4c5ee",
         "f056c3f9-aa30-4b6d-af83-d076117c64bb",
@@ -625,7 +625,7 @@
     {
       "dutyID": "3d86946c-2523-478a-a321-6184d01f5ceb",
       "dutyDetail": "Operate and oversee the use of technology and specialist kitchen equipment in the production of complex dishes and menu items",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "24a0439c-1099-418f-8bba-966892b4c5ee",
         "f056c3f9-aa30-4b6d-af83-d076117c64bb",
@@ -686,7 +686,7 @@
     {
       "dutyID": "41d84164-51dc-4eb0-bb39-6a1e21f63517",
       "dutyDetail": "Coach and motivate team members positively to deliver high quality dishes and menu items",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "24a0439c-1099-418f-8bba-966892b4c5ee",
         "f056c3f9-aa30-4b6d-af83-d076117c64bb",
@@ -727,7 +727,7 @@
     {
       "dutyID": "cdb2dfd6-1620-421a-ab11-20f1d5f5388f",
       "dutyDetail": "Liaise with internal and external stakeholders to build team and inter-team relations, influencing behaviours of team members both back and front of house",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "24a0439c-1099-418f-8bba-966892b4c5ee",
         "f056c3f9-aa30-4b6d-af83-d076117c64bb",
@@ -766,7 +766,7 @@
     {
       "dutyID": "dca4813f-32b3-4566-83f0-fe5bd92b5338",
       "dutyDetail": "Improve competitiveness, business performance, revenue, profit margins and customer experience",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "24a0439c-1099-418f-8bba-966892b4c5ee",
         "f056c3f9-aa30-4b6d-af83-d076117c64bb",
@@ -808,7 +808,7 @@
     {
       "dutyID": "0305f7c5-58d9-4e44-832e-425ea1635356",
       "dutyDetail": "Monitor production in line with legislative regulations including protecting people’s health safety and security",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "24a0439c-1099-418f-8bba-966892b4c5ee",
         "f056c3f9-aa30-4b6d-af83-d076117c64bb",
@@ -838,7 +838,7 @@
     {
       "dutyID": "3182f519-ffd1-4990-a016-bf913bb74a6f",
       "dutyDetail": "Carry out risk assessments identifying and isolating matters of concern and ensure evaluation and reviewing is completed timely",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "24a0439c-1099-418f-8bba-966892b4c5ee",
         "471bf02d-3e0f-41a5-8989-cec9b624ed74",
