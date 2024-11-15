@@ -243,7 +243,7 @@
     "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-10-26T00:00:00 +00:00",
@@ -262,7 +262,7 @@
     "Site Manager"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Onsite Construction",
   "cluster": "Construction site supervisor",
@@ -280,7 +280,7 @@
     {
       "dutyID": "bb2344dc-4a30-42db-a7f7-bd5875d32db7",
       "dutyDetail": "Work to the principles, philosophy and ethics of conservation to ensure best-practice on heritage construction projects.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4252597f-046f-498c-af35-5a875069dd61",
         "1a98d5ce-7dfa-430c-a272-52fd32091c0e",
@@ -340,7 +340,7 @@
     {
       "dutyID": "be7d8788-5bc8-4c05-97c1-fe940facfafc",
       "dutyDetail": "Engage in the selection and recommendation of appropriate materials and construction techniques for conservation, maintenance, repair, alteration and renovation of heritage assets. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4252597f-046f-498c-af35-5a875069dd61",
         "1a98d5ce-7dfa-430c-a272-52fd32091c0e",
@@ -400,7 +400,7 @@
     {
       "dutyID": "aa8b2d3f-9426-404b-bae2-7b91200783f0",
       "dutyDetail": "Assess the physical nature and condition of heritage assets and features  in order to be able to engage in the selection and recommendation of appropriate materials and construction techniques for conservation, maintenance, repair, alteration and renovation of heritage assets.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4252597f-046f-498c-af35-5a875069dd61",
         "1a98d5ce-7dfa-430c-a272-52fd32091c0e",
@@ -460,7 +460,7 @@
     {
       "dutyID": "389013d4-bc6d-406d-9dde-1513f4dd172b",
       "dutyDetail": "Understand the wider environmental and historic context of a heritage asset or traditional building to adapt the approach to recognise the impact this context has on construction work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4252597f-046f-498c-af35-5a875069dd61",
         "1a98d5ce-7dfa-430c-a272-52fd32091c0e",
@@ -520,7 +520,7 @@
     {
       "dutyID": "2198c286-24dc-4db6-a49c-88c6c65c81d2",
       "dutyDetail": "Assess, and provide advice on, sustainability in the historic environment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4252597f-046f-498c-af35-5a875069dd61",
         "1a98d5ce-7dfa-430c-a272-52fd32091c0e",
@@ -580,7 +580,7 @@
     {
       "dutyID": "d0b574da-359a-47eb-89be-9a344f6848bb",
       "dutyDetail": "Provide formal and informal oral and written advice and professional judgments to clients, colleagues, external stakeholders and others on heritage assets.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4252597f-046f-498c-af35-5a875069dd61",
         "1a98d5ce-7dfa-430c-a272-52fd32091c0e",
@@ -640,7 +640,7 @@
     {
       "dutyID": "86ea809e-073d-444c-b1d1-60faae86ed76",
       "dutyDetail": "Document work undertaken by keeping written and photographic records, and be able to draw or sketch to communicate understanding of a building feature or repair.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4252597f-046f-498c-af35-5a875069dd61",
         "1a98d5ce-7dfa-430c-a272-52fd32091c0e",
@@ -700,7 +700,7 @@
     {
       "dutyID": "9ae3b791-3d8e-44fb-90ca-75864520613f",
       "dutyDetail": "Carry out practical tasks where appropriate in accordance with own skillset and the needs of a project.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4252597f-046f-498c-af35-5a875069dd61",
         "1a98d5ce-7dfa-430c-a272-52fd32091c0e",
@@ -760,7 +760,7 @@
     {
       "dutyID": "41fda01d-3c43-4a21-9380-6cf749677a2e",
       "dutyDetail": "Ensure work practices comply with appropriate legal and contractual requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4252597f-046f-498c-af35-5a875069dd61",
         "1a98d5ce-7dfa-430c-a272-52fd32091c0e",
@@ -820,7 +820,7 @@
     {
       "dutyID": "41178e57-82f4-45e1-8eb8-618a1ab92d11",
       "dutyDetail": "Assist architects, other specifiers and clients with the development of detailed design or specification on a construction project, within the context of that project.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4252597f-046f-498c-af35-5a875069dd61",
         "1a98d5ce-7dfa-430c-a272-52fd32091c0e",
@@ -880,7 +880,7 @@
     {
       "dutyID": "6a2f8692-5957-4f8d-b3bf-9325b566fbde",
       "dutyDetail": "Provide oversight and manage or supervise staff, volunteers, external specialist contractors or others, review and monitor others’ work to technical standards.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4252597f-046f-498c-af35-5a875069dd61",
         "1a98d5ce-7dfa-430c-a272-52fd32091c0e",
@@ -940,7 +940,7 @@
     {
       "dutyID": "772f10be-ea87-4fa7-a96e-5373a635165c",
       "dutyDetail": "Ensure health and safety protocols are followed at all times.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4252597f-046f-498c-af35-5a875069dd61",
         "1a98d5ce-7dfa-430c-a272-52fd32091c0e",
@@ -1000,7 +1000,7 @@
     {
       "dutyID": "8f654739-61e2-45d2-bdf4-fd77dd24ccd4",
       "dutyDetail": "Raise awareness, appreciation and understanding of historic and traditional buildings, methods and materials and promote good conservation practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "4252597f-046f-498c-af35-5a875069dd61",
         "1a98d5ce-7dfa-430c-a272-52fd32091c0e",
