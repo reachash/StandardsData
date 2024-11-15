@@ -312,7 +312,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-12-21T00:00:00 +00:00",
@@ -335,7 +335,7 @@
     "Spectacle maker"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, manufacturing, process and control",
   "cluster": "Manufacturing and process operative or technician",
@@ -353,7 +353,7 @@
     {
       "dutyID": "a2aacea7-fafd-4156-9c54-1d6461692115",
       "dutyDetail": "Order, stock and manage component parts and or products used for manufacturing, using clinical prescription details or order information to accurately process into production and or on to the customer.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "df4b372e-9437-4b37-858a-021eb33daa7d"
       ],
@@ -384,7 +384,7 @@
     {
       "dutyID": "93e8f66f-d9b6-4d53-970c-a3e9886b4213",
       "dutyDetail": "Act within agreed ways of working following relevant national and local standards, policies and standard operating procedures in the workplace.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5a609966-b790-4611-a7e6-f5b75242e4cf",
         "df4b372e-9437-4b37-858a-021eb33daa7d",
@@ -425,7 +425,7 @@
     {
       "dutyID": "522d6408-9dd7-447f-9068-0a1cbaba0300",
       "dutyDetail": "Maintain the health, safety and security of yourself, customers and others in the workplace by identifying risks and hazards and taking appropriate action to keep people safe.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5a609966-b790-4611-a7e6-f5b75242e4cf",
         "df4b372e-9437-4b37-858a-021eb33daa7d"
@@ -451,7 +451,7 @@
     {
       "dutyID": "ad4d26f9-5e4e-4ecc-b06b-abb4bd1eaba5",
       "dutyDetail": "Maintain environmental awareness for the effective disposal of waste from the production process.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5a609966-b790-4611-a7e6-f5b75242e4cf",
         "df4b372e-9437-4b37-858a-021eb33daa7d"
@@ -481,7 +481,7 @@
     {
       "dutyID": "c164a5d2-fa38-4896-a27a-06f939cdb7a3",
       "dutyDetail": "Conduct maintenance and calibration to equipment and tools as required, referring to suppliers’ guidelines and company procedures. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "f03f2ace-481b-42c5-9cb3-88b1d4dd33e2",
@@ -512,7 +512,7 @@
     {
       "dutyID": "6c3db10d-4f21-4a9d-b34c-0e0c00264abd",
       "dutyDetail": "Prepare, organise and quality assess appropriate component parts as required before they enter the manufacturing process, ensuring they are fit for purpose and meet industry and national tolerances and quality standards.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "81e60ffd-04e8-4704-b2b3-b3406ada2d90"
       ],
@@ -545,7 +545,7 @@
     {
       "dutyID": "6cbb643c-59d6-4bde-b477-3771cd6ea38e",
       "dutyDetail": "Use prepared component parts to produce the optical device using correct machinery and tools required for each process or product",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "0ef49bb3-5e55-4506-b93a-11364979a7b5",
@@ -574,7 +574,7 @@
     {
       "dutyID": "89bc9ec8-7e14-46d8-8508-bc6896591260",
       "dutyDetail": "Undertake the necessary quality checks to ensure that the devices and or components meet the required quality standards.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "81e60ffd-04e8-4704-b2b3-b3406ada2d90"
       ],
@@ -611,7 +611,7 @@
     {
       "dutyID": "14a9f741-b9ba-49f1-8c12-b24e3a8bdd3d",
       "dutyDetail": "Package and dispatch products to customers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5a609966-b790-4611-a7e6-f5b75242e4cf"
       ],
@@ -643,7 +643,7 @@
     {
       "dutyID": "1c94dd4b-9876-44fd-9f75-6e6a595f90a2",
       "dutyDetail": "Monitor and report any issues relating to manufacturing equipment, products, tools, consumables or processes to the relevant colleagues, suppliers or companies.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5a609966-b790-4611-a7e6-f5b75242e4cf",
         "df4b372e-9437-4b37-858a-021eb33daa7d",
@@ -675,7 +675,7 @@
     {
       "dutyID": "d61a50ec-f4d3-4bcc-82f8-aaac521c189d",
       "dutyDetail": "Work with colleagues and customers to resolve problems and technical issues, supporting continuous improvement in your role.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5a609966-b790-4611-a7e6-f5b75242e4cf",
         "df4b372e-9437-4b37-858a-021eb33daa7d",
@@ -715,7 +715,7 @@
     {
       "dutyID": "2b3e0269-69bb-4744-ba77-dfed339925af",
       "dutyDetail": "Meet personal and business targets and goals on an ongoing basis.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5a609966-b790-4611-a7e6-f5b75242e4cf",
         "df4b372e-9437-4b37-858a-021eb33daa7d",
