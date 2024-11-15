@@ -288,7 +288,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-11-07T00:00:00 +00:00",
@@ -313,7 +313,7 @@
     "Test baker"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Catering",
   "cluster": "Caterer",
@@ -331,7 +331,7 @@
     {
       "dutyID": "14d6ea91-305e-44b7-a733-ee6b2ecb8347",
       "dutyDetail": "Plan, manage, produce and finish bakery products to quality and product specifications.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e6504756-1f53-488a-aa88-82702b936233",
         "752acecb-5513-48d3-90df-4252453f349b",
@@ -369,7 +369,7 @@
     {
       "dutyID": "9eb1cb2f-7d76-47c2-ae25-3be1fbfec1d8",
       "dutyDetail": "Train and develop bakery team. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d06cba62-2b2b-4cc4-9a61-b29042a6f491",
         "e6504756-1f53-488a-aa88-82702b936233",
@@ -390,7 +390,7 @@
     {
       "dutyID": "a847b65f-1480-4c14-b0ac-11297449bbca",
       "dutyDetail": "Monitor quality assurance. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e6504756-1f53-488a-aa88-82702b936233",
         "4f60bdca-5074-4f96-b4de-d8d435c4a714",
@@ -413,7 +413,7 @@
     {
       "dutyID": "62d83a82-083f-497e-ac88-caed2feb898e",
       "dutyDetail": "Manage the safe, responsible, accurate, and productive use of bakery equipment and technology. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d06cba62-2b2b-4cc4-9a61-b29042a6f491",
         "e6504756-1f53-488a-aa88-82702b936233"
@@ -432,7 +432,7 @@
     {
       "dutyID": "68be9125-e847-4494-976f-93ef842a718c",
       "dutyDetail": "Ensure that the correct ingredients and materials are available in line with production demand.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e6504756-1f53-488a-aa88-82702b936233"
       ],
@@ -449,7 +449,7 @@
     {
       "dutyID": "7e140f6a-d0c4-4771-8bd2-9dde5a462b23",
       "dutyDetail": "Ensure adherence to bakery operations compliance systems. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d06cba62-2b2b-4cc4-9a61-b29042a6f491",
         "e6504756-1f53-488a-aa88-82702b936233",
@@ -470,7 +470,7 @@
     {
       "dutyID": "ac10d988-d32e-43cb-93a2-d28d8efe76cd",
       "dutyDetail": "Contribute to investigation and resolution of internal and external feedback and complaints.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e6504756-1f53-488a-aa88-82702b936233",
         "c7c9f3eb-dd1a-40e3-9e5d-8aae5853c197",
@@ -489,7 +489,7 @@
     {
       "dutyID": "089f4d7d-a322-4354-b44e-bd79a596178a",
       "dutyDetail": "Ensure appropriate presentation and packaging of bakery products in line with workplace specifications and labelling legislation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d06cba62-2b2b-4cc4-9a61-b29042a6f491",
         "e6504756-1f53-488a-aa88-82702b936233",
@@ -506,7 +506,7 @@
     {
       "dutyID": "7a8b7814-c92a-4722-8c00-e0bc4df8c63c",
       "dutyDetail": "Contribute to decisions about bakery sales and promotion strategies. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c7c9f3eb-dd1a-40e3-9e5d-8aae5853c197",
         "752acecb-5513-48d3-90df-4252453f349b",
@@ -526,7 +526,7 @@
     {
       "dutyID": "32108668-aa93-4ad0-ad8e-ef9a010a03fd",
       "dutyDetail": "Undertake comparison testing of bakery ingredient and processing. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e6504756-1f53-488a-aa88-82702b936233",
         "4f60bdca-5074-4f96-b4de-d8d435c4a714",
