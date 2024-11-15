@@ -209,7 +209,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-05-25T00:00:00 +00:00",
@@ -231,7 +231,7 @@
     "Secretariat officer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Management and Administration",
   "cluster": "Business manager",
@@ -256,7 +256,7 @@
     {
       "dutyID": "fb48eb75-0e8f-49aa-aa14-34322e897f6e",
       "dutyDetail": "Support the governing decision-making body of the organisation to ensure it is efficient and effective, and supported in its decision-making.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cc2c264e-a3f3-43f2-93fa-e16f834a442c",
         "db96e92c-0796-4967-aadf-74a929c69cc2",
@@ -291,7 +291,7 @@
     {
       "dutyID": "eb5625e3-7ae2-46b7-a0f5-517fdffb7e83",
       "dutyDetail": "As required by the internal governance framework, legislation and regulation, document meetings, including decisions, and ensure the actions arising from decisions are taken.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cc2c264e-a3f3-43f2-93fa-e16f834a442c",
         "db96e92c-0796-4967-aadf-74a929c69cc2",
@@ -327,7 +327,7 @@
     {
       "dutyID": "938f3e51-e110-48f9-b332-906095e390e3",
       "dutyDetail": "Support the recruitment, development, and succession of the members of the governing decision-making body within the organisation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cc2c264e-a3f3-43f2-93fa-e16f834a442c",
         "b9181174-2542-4b21-8e04-b94800af6b57"
@@ -351,7 +351,7 @@
     {
       "dutyID": "d063e781-71e3-4748-a58c-11660e70db89",
       "dutyDetail": "Deliver the induction of new members of the governing decision-making body (e.g., directors, governors, trustees).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cc2c264e-a3f3-43f2-93fa-e16f834a442c",
         "b9181174-2542-4b21-8e04-b94800af6b57"
@@ -378,7 +378,7 @@
     {
       "dutyID": "6a143611-cd94-44e8-88f8-fe5d4acf7b9a",
       "dutyDetail": "Review and contribute to the development of organisational governance controls and associated documents that set out how the organisation runs and co-ordinate compliance with them.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cc2c264e-a3f3-43f2-93fa-e16f834a442c",
         "db96e92c-0796-4967-aadf-74a929c69cc2",
@@ -412,7 +412,7 @@
     {
       "dutyID": "524e0ac1-c876-412e-b14a-4cc12350bc06",
       "dutyDetail": "Monitor, analyse and apply relevant laws, regulations, and governance best practice to ensure compliance, and make recommendations on areas of change that should be applied.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cc2c264e-a3f3-43f2-93fa-e16f834a442c",
         "db96e92c-0796-4967-aadf-74a929c69cc2",
@@ -447,7 +447,7 @@
     {
       "dutyID": "35948563-5eb8-49fe-9f2f-23d0d63c87cc",
       "dutyDetail": "Co-ordinate and maintain the governing decision-making body’s records of internal and external activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cc2c264e-a3f3-43f2-93fa-e16f834a442c",
         "db96e92c-0796-4967-aadf-74a929c69cc2",
@@ -473,7 +473,7 @@
     {
       "dutyID": "fc7ea204-368f-4c66-a021-9fbc8eb7325d",
       "dutyDetail": "Periodically review operational processes to seek efficient ways of working to facilitate the governance of the organisation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cc2c264e-a3f3-43f2-93fa-e16f834a442c",
         "db96e92c-0796-4967-aadf-74a929c69cc2",
@@ -510,7 +510,7 @@
     {
       "dutyID": "6c14b515-27db-49ba-b869-5df774a05a95",
       "dutyDetail": "Work with stakeholders on projects to support the organisation's governance framework.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cc2c264e-a3f3-43f2-93fa-e16f834a442c",
         "db96e92c-0796-4967-aadf-74a929c69cc2",
@@ -545,7 +545,7 @@
     {
       "dutyID": "45c4b928-fc1c-40c1-81df-326221392282",
       "dutyDetail": "Attend meetings and contribute to communications with external stakeholders such as regulators, shareholders, and members on matters relating to the governance of the organisation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cc2c264e-a3f3-43f2-93fa-e16f834a442c",
         "db96e92c-0796-4967-aadf-74a929c69cc2",
@@ -581,7 +581,7 @@
     {
       "dutyID": "346bf05e-9325-44b3-bdc6-45437c327f44",
       "dutyDetail": "Manage external suppliers of governance-related products and/or services and support procurement processes to appoint or re-appoint them.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cc2c264e-a3f3-43f2-93fa-e16f834a442c",
         "b9181174-2542-4b21-8e04-b94800af6b57"
@@ -607,7 +607,7 @@
     {
       "dutyID": "558625b0-2063-4631-b330-bf1487c9c834",
       "dutyDetail": "Analyse and interpret data and qualitative information, including financial information, to inform the governance of the organisation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cc2c264e-a3f3-43f2-93fa-e16f834a442c",
         "2bf41a78-5ba8-4b80-83b3-49ae62f18e1a"
@@ -633,7 +633,7 @@
     {
       "dutyID": "2b127a3e-009f-4793-a7ce-327528554932",
       "dutyDetail": "Promote awareness of the governance function to stakeholders, explaining what its role is and sharing information on governance matters.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cc2c264e-a3f3-43f2-93fa-e16f834a442c",
         "db96e92c-0796-4967-aadf-74a929c69cc2",
@@ -664,7 +664,7 @@
     {
       "dutyID": "f01dd8fc-3d1a-4be6-8191-790600b31bb7",
       "dutyDetail": "Contribute to the identification of governance initiatives and execute them collaboratively with internal and external stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cc2c264e-a3f3-43f2-93fa-e16f834a442c",
         "db96e92c-0796-4967-aadf-74a929c69cc2",
@@ -703,7 +703,7 @@
     {
       "dutyID": "9505fc3d-72a9-438d-bba9-ad666b06a9ae",
       "dutyDetail": "Contribute to the operation of the governance function to optimise how the function operates.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cc2c264e-a3f3-43f2-93fa-e16f834a442c",
         "b9181174-2542-4b21-8e04-b94800af6b57",
@@ -741,7 +741,7 @@
     {
       "dutyID": "07ec2770-0510-4061-9a98-2c65b9ec30e7",
       "dutyDetail": "Work with internal and external auditors in the co-ordination of audits and in responding to audit questions and findings.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "cc2c264e-a3f3-43f2-93fa-e16f834a442c",
         "b9181174-2542-4b21-8e04-b94800af6b57"
