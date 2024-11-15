@@ -221,7 +221,7 @@
     "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-12-18T00:00:00 +00:00",
@@ -240,7 +240,7 @@
     "Puppet Technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Craft and Design",
   "cluster": "Design technician",
@@ -258,7 +258,7 @@
     {
       "dutyID": "814f9602-1b64-4630-83a6-992b8e4c53e3",
       "dutyDetail": "Make puppets so they have the technical performance functions required to meet the production brief",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -271,7 +271,7 @@
     {
       "dutyID": "bd7c3c3d-7a29-40c1-a06f-aa6880bed37c",
       "dutyDetail": "Make puppets from a range of materials suitable for the environment/type of performance they are intended for",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ebb6e222-d981-46f2-9193-ba6cbbec434e",
         "3416f44e-7f85-48ec-abdd-e239a5da311d",
@@ -297,7 +297,7 @@
     {
       "dutyID": "70d525db-82ee-4564-9e6a-565c32673add",
       "dutyDetail": "Design puppets in response to a given brief",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ebb6e222-d981-46f2-9193-ba6cbbec434e",
         "3416f44e-7f85-48ec-abdd-e239a5da311d",
@@ -320,7 +320,7 @@
     {
       "dutyID": "c7c4e5d1-4f77-4e0b-89c3-62307a966cf8",
       "dutyDetail": "Meet Health and Safety compliance requirements in line with company policies and procedures",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9365c722-0e40-4cbe-91f8-1c87ad2fad57",
         "bc584e44-6560-4dbb-8c4e-8d9e28d624be"
@@ -339,7 +339,7 @@
     {
       "dutyID": "4c0cf7d8-e713-4ed2-a4ed-098f4474ba60",
       "dutyDetail": "Undertake basic repairs to puppets to aid their desired longevity and use",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ebb6e222-d981-46f2-9193-ba6cbbec434e",
         "bc584e44-6560-4dbb-8c4e-8d9e28d624be",
@@ -359,7 +359,7 @@
     {
       "dutyID": "967aba92-25f1-4740-8e7b-3fd674de4f51",
       "dutyDetail": "Work as part of a team to agreed deadlines",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "282ec19b-ce37-4e2e-ae40-9970a9ac9c8c"
       ],
@@ -375,7 +375,7 @@
     {
       "dutyID": "14a5f407-45cf-4f52-85b0-45269d1e90a9",
       "dutyDetail": "Demonstrate knowledge and understanding about puppet making as a craft and puppetry as a creative performance aid",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9365c722-0e40-4cbe-91f8-1c87ad2fad57"
       ],
