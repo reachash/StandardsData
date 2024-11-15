@@ -266,7 +266,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2023-08-29T00:00:00 +00:00",
@@ -281,7 +281,7 @@
   "coreAndOptions": false,
   "typicalJobTitles": [],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media, broadcast and production technician",
@@ -299,7 +299,7 @@
     {
       "dutyID": "324a0710-3265-4838-b940-03ca94a1e49f",
       "dutyDetail": "Ensure work and professional practice complies with legal, regulatory and ethical codes, guidelines and principles.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3237fe27-6c48-40d8-877a-5002c371d344",
         "a3e9da60-a07c-42cc-a449-1e0d367e465b",
@@ -323,7 +323,7 @@
     {
       "dutyID": "3831d7e8-6810-43a9-9a8c-60961439a2fd",
       "dutyDetail": "Review your own professional practice and keep up-to-date with trends and technology.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2e544d33-a954-44fe-8b3f-2a603d05e2d1",
         "3237fe27-6c48-40d8-877a-5002c371d344",
@@ -346,7 +346,7 @@
     {
       "dutyID": "a0769545-aca1-479a-a250-2703b8299e44",
       "dutyDetail": "Interpret a photographic brief, scope, evaluate and develop ideas for the images.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2e544d33-a954-44fe-8b3f-2a603d05e2d1",
         "3237fe27-6c48-40d8-877a-5002c371d344",
@@ -370,7 +370,7 @@
     {
       "dutyID": "5b0ed1ad-dba9-4a8d-9534-e8860e049d98",
       "dutyDetail": "Work autonomously and with customers or clients collaborating with other departments as required to ensure that the photographic images are delivered to meet agreed requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e6a53f56-9d34-4bd6-915a-dadc06b0ac80"
       ],
@@ -391,7 +391,7 @@
     {
       "dutyID": "5fabe579-709f-417f-9e8c-a1b903fcf5e6",
       "dutyDetail": "Set-up, operate and maintain current industry standard photographic equipment and software.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2e544d33-a954-44fe-8b3f-2a603d05e2d1",
         "3237fe27-6c48-40d8-877a-5002c371d344"
@@ -412,7 +412,7 @@
     {
       "dutyID": "cc45f393-6a94-47c6-b8f0-dfcf89a1dd05",
       "dutyDetail": "Produce photographic assets to meet the requirements of the brief.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2e544d33-a954-44fe-8b3f-2a603d05e2d1",
         "3237fe27-6c48-40d8-877a-5002c371d344"
@@ -432,7 +432,7 @@
     {
       "dutyID": "2d926fa1-6593-4d21-8a8f-d099632b98b7",
       "dutyDetail": "Manage photographic assets through the workflow in line with organisational requirements for organising, storing and retrieving assets.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2e544d33-a954-44fe-8b3f-2a603d05e2d1",
         "3237fe27-6c48-40d8-877a-5002c371d344"
@@ -457,7 +457,7 @@
     {
       "dutyID": "ec5af03f-1467-4077-bbd0-ddf6452ee794",
       "dutyDetail": "Edit and post produce photographic content to meet the requirements of the brief",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d91b9e2b-9eb7-4bea-879d-f8e5e809e0d6"
       ],
@@ -478,7 +478,7 @@
     {
       "dutyID": "fc1f7a47-7542-42ea-b5ae-3825930012bb",
       "dutyDetail": "Set up and/or follow photographic file management protocols, file and store data securely.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "581908e9-2169-4a79-88a3-d9cc18df2d73",
