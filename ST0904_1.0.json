@@ -284,7 +284,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2021-11-12T00:00:00 +00:00",
@@ -310,7 +310,7 @@
     "Digital preservation specialist"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Cultural Heritage and Visitor Attractions",
   "cluster": "Collections and conservation expert",
@@ -341,7 +341,7 @@
     {
       "dutyID": "c921e5a6-1e78-4179-9f2e-60144e8b66cf",
       "dutyDetail": "Manage the integrity of current, semi current and permanent records/archives both analogue and digital across the organisation, ensuring relevance to business needs and supporting good information governance and digital continuity. This will include reference to current standards and legislation including those relating to Freedom of Information, Data Protection and intellectual property.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a69e10aa-d650-4c84-9981-3f68563bbe01",
         "0aa2abc3-7410-489d-a3f0-69eb577074b9",
@@ -369,7 +369,7 @@
     {
       "dutyID": "5422fe55-2138-457b-99d1-d5f4e00cf5c9",
       "dutyDetail": "Make professionally informed recommendations to manage selection, retention, appraisal, classification and disposal of records and archives based on an understanding of their operational and enduring value, including their historical significance",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a69e10aa-d650-4c84-9981-3f68563bbe01",
         "0aa2abc3-7410-489d-a3f0-69eb577074b9",
@@ -397,7 +397,7 @@
     {
       "dutyID": "078930da-1adb-455c-972f-5594a4b06851",
       "dutyDetail": "Develop archive collections in-line with organisational/stakeholder requirements by taking in more materials or additional deposits to existing collections which may include acquiring new collections and transferring in-house records.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d31dd2ad-415c-4978-a126-524ce2d6b890",
         "5463cbef-6ad0-41b5-afa5-f89fbcbf61ab",
@@ -425,7 +425,7 @@
     {
       "dutyID": "c1b44c3c-3a09-47e9-8011-44fe285a925b",
       "dutyDetail": "Manage the process to ensure that the archives and records can be located, managed and accessed by using techniques such as inventorying, retention scheduling and cataloguing to professional standards, metadata enhancement and developing file plans.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a69e10aa-d650-4c84-9981-3f68563bbe01",
         "36db2b2c-c6e7-4a4b-9041-729c6e5f833e"
@@ -453,7 +453,7 @@
     {
       "dutyID": "5079e1b1-58df-4a00-9c5a-9b1f35a9fdef",
       "dutyDetail": "Plan and manage, where appropriate, the digitisation of analogue records to professional standards for the continued access and/or preservation of that material, and licensing for its publication or re-use.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0aa2abc3-7410-489d-a3f0-69eb577074b9",
         "d31dd2ad-415c-4978-a126-524ce2d6b890",
@@ -479,7 +479,7 @@
     {
       "dutyID": "34c87b62-4d04-4bb2-ba4a-0d34f603aa14",
       "dutyDetail": "Identify and assess the ongoing preservation needs of analogue, digitised and born digital records and archive material ensuring it is maintained. When appropriate, manage arrangements for conservation work to be carried out by specialists who could include conservators, digital records experts, and sound technicians ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0aa2abc3-7410-489d-a3f0-69eb577074b9",
         "d31dd2ad-415c-4978-a126-524ce2d6b890",
@@ -514,7 +514,7 @@
     {
       "dutyID": "5dba4484-abad-4335-bd31-cc85e1f0d54b",
       "dutyDetail": "Identify and manage the physical and virtual storage conditions for analogue and digital records and archives in accordance with the relevant professional standards including controlled environments, security controls and risk management. This will include using professional judgement to manage contingency planning as well as investigations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0aa2abc3-7410-489d-a3f0-69eb577074b9",
         "d31dd2ad-415c-4978-a126-524ce2d6b890",
@@ -542,7 +542,7 @@
     {
       "dutyID": "5176cb54-e201-45b7-9480-9492485c44bd",
       "dutyDetail": "Advise stakeholders on the compliance aspects of record keeping, including relevant legislation, standards and industry regulations, including Data Protection legislation and intellectual property rights, influencing their decisions and approach.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a69e10aa-d650-4c84-9981-3f68563bbe01",
         "0aa2abc3-7410-489d-a3f0-69eb577074b9",
@@ -577,7 +577,7 @@
     {
       "dutyID": "2c581572-3c3b-49fe-9ab0-6b2c819ca85b",
       "dutyDetail": "Develop, manage and implement archival and records management policies and procedures for example access to collections, to ensure best practice, identifying changes as required.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9c4a6399-10c1-43cd-b142-ef959f48e2a3",
         "21cc1a53-2fa6-4d53-b364-5aaa9054673f"
@@ -603,7 +603,7 @@
     {
       "dutyID": "8f97376b-e192-4850-9226-13c1e359b7c1",
       "dutyDetail": "Develop, monitor and update the business continuity plan for archives and records management which may include the disaster recovery plan.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "36db2b2c-c6e7-4a4b-9041-729c6e5f833e"
       ],
@@ -625,7 +625,7 @@
     {
       "dutyID": "9fa96c8f-397d-4393-9d1b-930ce89e439c",
       "dutyDetail": "Research and implement new technologies and innovative practice to enhance the preservation and access to both digital and analogue archives and records.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9c4a6399-10c1-43cd-b142-ef959f48e2a3",
         "21cc1a53-2fa6-4d53-b364-5aaa9054673f"
@@ -654,7 +654,7 @@
     {
       "dutyID": "61daedb0-3ea6-4ba5-ac7e-93849c683084",
       "dutyDetail": "Co-ordinate, through staff/volunteers, the provision of a professional and compliant service to internal/external stakeholders to allow the end-user or public appropriate access to the service.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a69e10aa-d650-4c84-9981-3f68563bbe01",
         "5463cbef-6ad0-41b5-afa5-f89fbcbf61ab",
@@ -681,7 +681,7 @@
     {
       "dutyID": "f5adb21a-62dd-41a5-b479-4d899498844b",
       "dutyDetail": "Identify and secure resources to enable their work to continue, which may include budget management, writing bids/internal business cases, funding applications, crowdfunding in accordance with budget and finance policies and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5463cbef-6ad0-41b5-afa5-f89fbcbf61ab",
         "9c4a6399-10c1-43cd-b142-ef959f48e2a3",
@@ -710,7 +710,7 @@
     {
       "dutyID": "40225e43-575e-48d0-86df-48cf72a56d71",
       "dutyDetail": "Work in partnership, contribute to outreach, learning and engagement activities to promote stakeholder engagement with records and archives for example publications, websites, blogs, social media, exhibitions, events, workshop, lectures. This may include selecting material, writing captions, hosting, providing access to digital collections.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5463cbef-6ad0-41b5-afa5-f89fbcbf61ab",
         "437be9e2-2f18-4cbf-ae33-1bcd5d47c8f1",
