@@ -224,7 +224,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-05-13T00:00:00 +00:00",
@@ -252,7 +252,7 @@
     "Pressure Systems Competent Person (Examiner)"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Manufacturing or process maintenance operative or technician",
@@ -283,7 +283,7 @@
     {
       "dutyID": "c361a590-768d-4f8d-aeba-de1ebad9e5a8",
       "dutyDetail": "Plan and organise work to meet customers’ requirements and priorities",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "912ba9ae-51cb-490a-a879-49f251f0a44e",
         "6d5f18c6-545a-4fd2-abb4-248ad2c2587a"
@@ -302,7 +302,7 @@
     {
       "dutyID": "5f10ab5c-e41e-4afa-bfa9-3e9a0576a03e",
       "dutyDetail": "Install equipment, using the agreed preferred compressed or vacuum air pipework system",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc93c760-c42c-4d3d-8468-96f64117e185",
         "69f38d0b-9e19-4a10-802a-ad3cb9fbe60f",
@@ -334,7 +334,7 @@
     {
       "dutyID": "3d5bdf89-a082-4a83-8d98-3bd35398d2f6",
       "dutyDetail": "Commission installed compressed air and vacuum equipment",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc93c760-c42c-4d3d-8468-96f64117e185",
         "912ba9ae-51cb-490a-a879-49f251f0a44e",
@@ -365,7 +365,7 @@
     {
       "dutyID": "8ab5d824-21f8-47de-a1a1-4fcb25cf68de",
       "dutyDetail": "Service compressed air and vacuum equipment",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc93c760-c42c-4d3d-8468-96f64117e185",
         "6d5f18c6-545a-4fd2-abb4-248ad2c2587a",
@@ -405,7 +405,7 @@
     {
       "dutyID": "773aab96-da85-4ffc-bb45-1542310b65e9",
       "dutyDetail": "Service compressed and vacuum air treatment equipment",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc93c760-c42c-4d3d-8468-96f64117e185",
         "6d5f18c6-545a-4fd2-abb4-248ad2c2587a",
@@ -443,7 +443,7 @@
     {
       "dutyID": "9c86736d-cb2c-4081-9b00-2fa9ea29b554",
       "dutyDetail": "Complete mechanical fault diagnostic and mechanical repairs to a compressed air or vacuum system",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc93c760-c42c-4d3d-8468-96f64117e185",
         "912ba9ae-51cb-490a-a879-49f251f0a44e",
@@ -480,7 +480,7 @@
     {
       "dutyID": "d6da0fff-c59d-4c37-854b-ec3e2b0029dd",
       "dutyDetail": "Complete electro-mechanical fault diagnosis and repairs to a compressed air or vacuum system",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc93c760-c42c-4d3d-8468-96f64117e185",
         "912ba9ae-51cb-490a-a879-49f251f0a44e",
@@ -517,7 +517,7 @@
     {
       "dutyID": "03aad588-50e3-42ef-8bcc-7570e37d8646",
       "dutyDetail": "Complete the electrical fault diagnosis and repairs to a compressed air or vacuum system",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc93c760-c42c-4d3d-8468-96f64117e185",
         "912ba9ae-51cb-490a-a879-49f251f0a44e",
@@ -554,7 +554,7 @@
     {
       "dutyID": "95a7ba00-fd4a-458d-a23d-6db40d8208fd",
       "dutyDetail": "Complete the electronic fault diagnosis and repairs to a compressed air or vacuum system",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc93c760-c42c-4d3d-8468-96f64117e185",
         "912ba9ae-51cb-490a-a879-49f251f0a44e",
@@ -591,7 +591,7 @@
     {
       "dutyID": "efa71537-96e0-437c-8b7f-e2ddbdba50e4",
       "dutyDetail": "Complete process and energy usage monitoring of current energy performance of vacuum air and or compressed air systems",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc93c760-c42c-4d3d-8468-96f64117e185",
         "6d5f18c6-545a-4fd2-abb4-248ad2c2587a"
@@ -618,7 +618,7 @@
     {
       "dutyID": "7d7bf86d-108e-44ad-9a7d-e9c216aa869f",
       "dutyDetail": "Adjust compressed air or vacuum controls to ensure equipment is operating at optimum efficiency",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc93c760-c42c-4d3d-8468-96f64117e185",
         "6d5f18c6-545a-4fd2-abb4-248ad2c2587a"
@@ -645,7 +645,7 @@
     {
       "dutyID": "474e785e-de33-4d54-8d83-abeb9e045cec",
       "dutyDetail": " Provide technical and regulatory advice to customers",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc93c760-c42c-4d3d-8468-96f64117e185",
         "6d5f18c6-545a-4fd2-abb4-248ad2c2587a",
@@ -676,7 +676,7 @@
     {
       "dutyID": "ab9373ae-c80e-42bc-92db-1ededec331ab",
       "dutyDetail": "Complete documentation/reports such as risk assessments, method statements, job reports, stock control records, diagnosis/fault finding reports",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "fc93c760-c42c-4d3d-8468-96f64117e185",
         "6d5f18c6-545a-4fd2-abb4-248ad2c2587a",
