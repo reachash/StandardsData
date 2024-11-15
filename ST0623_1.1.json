@@ -191,7 +191,7 @@
     "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-05-13T00:00:00 +00:00",
@@ -206,7 +206,7 @@
   "coreAndOptions": false,
   "typicalJobTitles": [],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Installation and service engineer",
@@ -240,7 +240,7 @@
     {
       "dutyID": "dc46f03a-d67a-439e-966b-0df6ee639dcf",
       "dutyDetail": "Provide guidance and solutions to technical issues to ensure the full technical readiness and optimum performance of vessels in meeting the service commitments of the organisation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2864ae9b-5948-4152-90ed-27d83b84ffe9",
         "0311cbf8-7cf9-4711-9d87-96052c720ed5",
@@ -264,7 +264,7 @@
     {
       "dutyID": "dc5dc4d6-3218-4097-ada5-a1788aa22013",
       "dutyDetail": "Plan, coordinate and project manage fleet-time maintenance programmes, regular service periods, dry-dockings and vessel upgrades.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0311cbf8-7cf9-4711-9d87-96052c720ed5",
         "48aab11a-7375-45ee-b1a7-f0103cbff90c",
@@ -286,7 +286,7 @@
     {
       "dutyID": "b72c43c7-c299-4ead-a98d-ff5dcb5b1868",
       "dutyDetail": "Manage and control technical budgets for maintenance, repair, re-fit, spare parts, lube oil, chemical and gases and other consumables.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2864ae9b-5948-4152-90ed-27d83b84ffe9",
         "0311cbf8-7cf9-4711-9d87-96052c720ed5",
@@ -308,7 +308,7 @@
     {
       "dutyID": "4fd367e4-6b0d-44e3-9790-5ac37d5eb0aa",
       "dutyDetail": "Coordinate and control the supply of spare parts and necessary vessel equipment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0311cbf8-7cf9-4711-9d87-96052c720ed5",
         "c1668ad7-9334-49a4-846c-499f4acd17c8"
@@ -326,7 +326,7 @@
     {
       "dutyID": "4ffe4d66-4e32-4010-95d1-eaeeba19f0c0",
       "dutyDetail": "Execute and commission surveys, inspections and certification in line with the requirements of the International Safety Management (ISM) Code, maritime legislation, classification society regulations, Flag State requirements and other standards required by the company.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0bb7f729-ae0f-44be-bf58-371cc36a18dd",
         "a9fdc8a4-109d-4e5a-b107-770be03de146"
@@ -346,7 +346,7 @@
     {
       "dutyID": "b34db1be-5b33-441a-ad92-55218ae7a51f",
       "dutyDetail": "Be an implementer of best practice in safety management and promote safety and safe working practices as an operational necessity.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0bb7f729-ae0f-44be-bf58-371cc36a18dd"
       ],
@@ -364,7 +364,7 @@
     {
       "dutyID": "f6b23859-1466-4427-8511-be2ab82d2dc8",
       "dutyDetail": "Lead and manage multi-functional teams, including contribution to HR processes such as recruitment and performance management of staff.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2864ae9b-5948-4152-90ed-27d83b84ffe9",
         "0311cbf8-7cf9-4711-9d87-96052c720ed5",
@@ -384,7 +384,7 @@
     {
       "dutyID": "22e2b348-6ef2-40fd-a746-6e0566fbc5e8",
       "dutyDetail": "Provide effective communication across all levels within the organisation to inform of significant operational/technical issues that impact on the availability of vessels within the fleet and acting as the principal point of contact between ship and shore-based staff.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c1668ad7-9334-49a4-846c-499f4acd17c8"
       ],
@@ -402,7 +402,7 @@
     {
       "dutyID": "80fc4cb1-2a35-44b4-8d4c-8d19ebdc06c4",
       "dutyDetail": "Provide a leading role and technical expertise in the event of an emergency response situation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "48aab11a-7375-45ee-b1a7-f0103cbff90c",
         "0bb7f729-ae0f-44be-bf58-371cc36a18dd"
@@ -422,7 +422,7 @@
     {
       "dutyID": "affee479-d68c-468d-bd28-03663ab05522",
       "dutyDetail": "Keep abreast of current and emerging industry advances and their application in an engineering capacity. Promoting the case for vessel upgrades or the adoption of emerging technologies to optimise performance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3930788d-8c8a-49e0-a19c-e5da7ade3f01",
         "811cfb5a-be35-444c-84c0-f872f3175d40"
@@ -442,7 +442,7 @@
     {
       "dutyID": "61ce7fbc-7a18-4119-b607-7472ead53e06",
       "dutyDetail": "Maintain awareness of new regulatory and compliance requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "797133ea-afcf-4f02-aac4-8c493f2c095f"
       ],
