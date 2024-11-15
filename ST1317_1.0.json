@@ -272,7 +272,7 @@
     "Robotics engineer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and development engineer",
@@ -312,7 +312,7 @@
     {
       "dutyID": "ae91c6a4-5257-47ac-a5ac-0098e86b93f6",
       "dutyDetail": "Plan and lead research activities to determine feasibility and applicability of automation solutions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0660722-7b50-4fac-bb48-080d06fd21bf",
         "728634f0-7621-4582-abe4-9601e4d46ee6",
@@ -361,7 +361,7 @@
     {
       "dutyID": "f4953563-8ac4-4225-8ba6-6684b9bcb931",
       "dutyDetail": "Identify constraints and capture technical requirements for robotics projects.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0660722-7b50-4fac-bb48-080d06fd21bf",
         "728634f0-7621-4582-abe4-9601e4d46ee6",
@@ -415,7 +415,7 @@
     {
       "dutyID": "5bbadcf9-d18f-4eef-aec3-c3b7a37803de",
       "dutyDetail": "Design processes and parts using computer-aided design.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0660722-7b50-4fac-bb48-080d06fd21bf",
         "728634f0-7621-4582-abe4-9601e4d46ee6",
@@ -458,7 +458,7 @@
     {
       "dutyID": "0961f2be-283e-4d90-ad23-5e7c3ba17222",
       "dutyDetail": "Design sustainable robotic systems to fulfil customer and technical requirements and relevant standards.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0660722-7b50-4fac-bb48-080d06fd21bf",
         "728634f0-7621-4582-abe4-9601e4d46ee6",
@@ -514,7 +514,7 @@
     {
       "dutyID": "78928357-f800-4f31-a631-63e274c4f660",
       "dutyDetail": "Create robotic systems that allow for ethical and safe interaction with human users.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0660722-7b50-4fac-bb48-080d06fd21bf",
         "728634f0-7621-4582-abe4-9601e4d46ee6",
@@ -565,7 +565,7 @@
     {
       "dutyID": "20401910-8aa1-420f-87ed-32f6edd451ef",
       "dutyDetail": "Develop and integrate human-robot interfaces that allow intuitive and immersive operation of robots by non-robotic-expert users.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0660722-7b50-4fac-bb48-080d06fd21bf",
         "728634f0-7621-4582-abe4-9601e4d46ee6",
@@ -620,7 +620,7 @@
     {
       "dutyID": "6b4a6833-c44f-4b6b-977f-8339b2022b21",
       "dutyDetail": "Analyse and optimise robot system performance using computer simulations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0660722-7b50-4fac-bb48-080d06fd21bf",
         "728634f0-7621-4582-abe4-9601e4d46ee6",
@@ -670,7 +670,7 @@
     {
       "dutyID": "4e4e6a46-8d9a-47c2-a444-db9c115195b0",
       "dutyDetail": "Build, integrate and test functional robot systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0660722-7b50-4fac-bb48-080d06fd21bf",
         "728634f0-7621-4582-abe4-9601e4d46ee6",
@@ -725,7 +725,7 @@
     {
       "dutyID": "68dac765-4114-4fbc-9243-548bdbcb9ccb",
       "dutyDetail": "Collect and analyse data from robot sensors and cameras.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0660722-7b50-4fac-bb48-080d06fd21bf",
         "728634f0-7621-4582-abe4-9601e4d46ee6",
@@ -760,7 +760,7 @@
     {
       "dutyID": "7bda0e79-e067-4b19-bf2f-36b2f80a4611",
       "dutyDetail": "Integrate and programme robots to perform practical tasks for different working environments.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0660722-7b50-4fac-bb48-080d06fd21bf",
         "728634f0-7621-4582-abe4-9601e4d46ee6",
@@ -813,7 +813,7 @@
     {
       "dutyID": "720ffda8-28cb-4227-bf3a-84d469e497cf",
       "dutyDetail": "Investigate and diagnose the root cause of faults and implement appropriate solutions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0660722-7b50-4fac-bb48-080d06fd21bf",
         "728634f0-7621-4582-abe4-9601e4d46ee6",
@@ -863,7 +863,7 @@
     {
       "dutyID": "1eacebb4-a0b6-440b-8fcb-f2f6180fdcd5",
       "dutyDetail": "Undertake hazard identification, safety risk assessment and risk mitigation for automated processes.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0660722-7b50-4fac-bb48-080d06fd21bf",
         "728634f0-7621-4582-abe4-9601e4d46ee6",
@@ -910,7 +910,7 @@
     {
       "dutyID": "d54b110f-eaeb-43bf-90f9-b37423d81569",
       "dutyDetail": "Verify system safety compliance through liaison with accredited safety engineers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0660722-7b50-4fac-bb48-080d06fd21bf",
         "728634f0-7621-4582-abe4-9601e4d46ee6",
@@ -953,7 +953,7 @@
     {
       "dutyID": "e9683265-3a79-46de-a1db-d8ddf393c2f0",
       "dutyDetail": "Research new ways to use robots and artificial intelligence.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0660722-7b50-4fac-bb48-080d06fd21bf",
         "728634f0-7621-4582-abe4-9601e4d46ee6",
@@ -1002,7 +1002,7 @@
     {
       "dutyID": "12555e40-e496-4c5f-81c7-26ac6437f025",
       "dutyDetail": "Demonstrate finished products to customers and explain operating procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0660722-7b50-4fac-bb48-080d06fd21bf",
         "728634f0-7621-4582-abe4-9601e4d46ee6",
@@ -1052,7 +1052,7 @@
     {
       "dutyID": "eb06fc4a-f3ab-4275-a0bb-7ac6a06b84e8",
       "dutyDetail": "Write technical reports and generate presentations on project progress, risks and issues.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0660722-7b50-4fac-bb48-080d06fd21bf",
         "728634f0-7621-4582-abe4-9601e4d46ee6",
@@ -1101,7 +1101,7 @@
     {
       "dutyID": "2795a654-2ac1-4a3c-bd09-dec7d6dfb945",
       "dutyDetail": "Understand and account for human emotions such as trust, fear and acceptance in the design and implementation of new systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f0660722-7b50-4fac-bb48-080d06fd21bf",
         "728634f0-7621-4582-abe4-9601e4d46ee6",
