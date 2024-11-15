@@ -201,7 +201,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2022-03-30T00:00:00 +00:00",
@@ -223,7 +223,7 @@
     "Information compliance officer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Management and Administration",
   "cluster": "Business manager",
@@ -254,7 +254,7 @@
     {
       "dutyID": "2e7308de-f338-454b-8ccc-061ef750b7dd",
       "dutyDetail": "Support senior management by contributing to the development of policies and guidance to ensure the organisation complies with its statutory and regulatory information governance (IG) and data protection (DP) responsibilities",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7320ea41-e2b8-40e8-adb0-88754503761a",
         "eb5e3a6f-0788-4560-afb9-b0f3f434bbca",
@@ -284,7 +284,7 @@
     {
       "dutyID": "dc065995-462f-45b0-8bd2-702c572876fe",
       "dutyDetail": "Work with internal stakeholders to review and maintain retention schedules, providing specialist support, advice and guidance to ensure appropriate disposal of data in compliance with legislation, regulation and good practice",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7320ea41-e2b8-40e8-adb0-88754503761a",
         "eb5e3a6f-0788-4560-afb9-b0f3f434bbca"
@@ -308,7 +308,7 @@
     {
       "dutyID": "421c6d99-68da-4b84-b250-802ea7efe5e7",
       "dutyDetail": "Develop and deliver in-house IG and DP training and awareness packages for all internal stakeholders such as IT, legal, HR, marketing, senior management and the board of directors",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7320ea41-e2b8-40e8-adb0-88754503761a",
         "eb5e3a6f-0788-4560-afb9-b0f3f434bbca",
@@ -342,7 +342,7 @@
     {
       "dutyID": "24ee6eda-2db7-430b-9a5a-ee7edb816ca5",
       "dutyDetail": "Co-ordinate and support the organisation’s formal and documented record of processing activities in line with legislation, regulation and good practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "eb5e3a6f-0788-4560-afb9-b0f3f434bbca",
         "2e4fbfef-e245-457a-944b-46da4760d990",
@@ -367,7 +367,7 @@
     {
       "dutyID": "21b890ff-f9cf-490f-b0c8-b65f13a6e1d9",
       "dutyDetail": "Analyse data and present the outcomes to their key stakeholders on key risk, trend and performance indicators such as training, information requests, data breaches and records management",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7320ea41-e2b8-40e8-adb0-88754503761a",
         "eb5e3a6f-0788-4560-afb9-b0f3f434bbca",
@@ -399,7 +399,7 @@
     {
       "dutyID": "c0c4d7c0-f966-4160-bb9a-fe9caf18a043",
       "dutyDetail": "Manage, co-ordinate and respond to information requests such as Freedom of Information (FOI), Individual Rights (IR), Environmental Information Regulation (EIR) and Data Protection (DP), within the statutory deadlines",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7320ea41-e2b8-40e8-adb0-88754503761a",
         "eb5e3a6f-0788-4560-afb9-b0f3f434bbca",
@@ -440,7 +440,7 @@
     {
       "dutyID": "98c11002-cecb-496a-8f23-e3b61fe0b1aa",
       "dutyDetail": "Undertake or assist in the completion of data protection impact assessments (DPIA) in order to identify and mitigate any potential risks to the organisation and continue to monitor the status of the risk",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7320ea41-e2b8-40e8-adb0-88754503761a",
         "eb5e3a6f-0788-4560-afb9-b0f3f434bbca",
@@ -481,7 +481,7 @@
     {
       "dutyID": "9fa70a66-55ff-443d-bcc7-fcababdd3e15",
       "dutyDetail": "Investigate reported personal data breaches providing advice and guidance to the organisation. Determine the need to escalate, as appropriate, to the Supervisory Authority.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7320ea41-e2b8-40e8-adb0-88754503761a",
         "eb5e3a6f-0788-4560-afb9-b0f3f434bbca",
@@ -521,7 +521,7 @@
     {
       "dutyID": "523586ff-108c-4c4b-8b3f-3d80b38f2bc6",
       "dutyDetail": "Undertake routine and ad-hoc data protection audit and testing controls for both internal functions and third-party suppliers, producing audit reports for senior managers",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7320ea41-e2b8-40e8-adb0-88754503761a",
         "eb5e3a6f-0788-4560-afb9-b0f3f434bbca",
@@ -554,7 +554,7 @@
     {
       "dutyID": "de75722b-0473-4bc4-beb7-79e24ac230f0",
       "dutyDetail": "Provide day to day support and specialist advice across the organisation for all matters regarding IG and DP such as compliance with data protection principles",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7320ea41-e2b8-40e8-adb0-88754503761a",
         "eb5e3a6f-0788-4560-afb9-b0f3f434bbca",
@@ -588,7 +588,7 @@
     {
       "dutyID": "f3f694dc-9179-4482-bf00-695f6b6db471",
       "dutyDetail": "Contribute to continuous improvement of systems and processes to ensure procedures, policies and guidance are updated in line with technology advancements, legislative and social changes",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7320ea41-e2b8-40e8-adb0-88754503761a",
         "eb5e3a6f-0788-4560-afb9-b0f3f434bbca",
@@ -619,7 +619,7 @@
     {
       "dutyID": "821998a0-b541-46dc-b70f-4706b7525c97",
       "dutyDetail": "Provide support for the completion and submission of industry or regulatory toolkits and control frameworks or standards",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "7320ea41-e2b8-40e8-adb0-88754503761a",
         "eb5e3a6f-0788-4560-afb9-b0f3f434bbca",
