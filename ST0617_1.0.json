@@ -472,7 +472,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-04-11T00:00:00 +00:00",
@@ -497,7 +497,7 @@
     "Workplace support coordinator"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the <a href=\"https://www.gov.uk/guidance/apprenticeship-funding-rules\" target=\"_blank\">apprenticeship funding rules</a>.",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Building Services Engineering",
   "cluster": "Facilities management operative or supervisor",
@@ -531,7 +531,7 @@
     {
       "dutyID": "b1d05ee1-a5e5-4b23-b4b9-0c9a073e7287",
       "dutyDetail": "Support the delivery of the responsibilities of the Facilities Services function in complying with health and safety and other legislation and organizational policies and procedures",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1dbfddd3-83b0-458e-8a3c-0c3738098b6a",
         "aad34d2c-9d71-44e6-96dd-69f2e5bfd732",
@@ -560,7 +560,7 @@
     {
       "dutyID": "16ffd87c-daeb-4087-84f0-d47f131b1234",
       "dutyDetail": "Address FM-related risks, hazards and threats to people, property and premises",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1dbfddd3-83b0-458e-8a3c-0c3738098b6a",
         "aad34d2c-9d71-44e6-96dd-69f2e5bfd732",
@@ -588,7 +588,7 @@
     {
       "dutyID": "2d71f8a3-9cfb-4ffd-a7cd-423afc0749b6",
       "dutyDetail": "Provide customer service to internal and external customers to ensure the effective delivery of a range of facilities services",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1dbfddd3-83b0-458e-8a3c-0c3738098b6a",
         "aad34d2c-9d71-44e6-96dd-69f2e5bfd732",
@@ -620,7 +620,7 @@
     {
       "dutyID": "d4e7a979-27ef-4110-9996-1ab9ea6aa1f2",
       "dutyDetail": "Support good sustainable practice in FM",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1dbfddd3-83b0-458e-8a3c-0c3738098b6a",
         "aad34d2c-9d71-44e6-96dd-69f2e5bfd732",
@@ -645,7 +645,7 @@
     {
       "dutyID": "000eadd3-b6c7-4820-9d4b-a68dcefb083e",
       "dutyDetail": "Maintain soft FM services",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1dbfddd3-83b0-458e-8a3c-0c3738098b6a",
         "aad34d2c-9d71-44e6-96dd-69f2e5bfd732",
@@ -675,7 +675,7 @@
     {
       "dutyID": "c9447648-7c58-4109-bcda-ade43736b37d",
       "dutyDetail": "Gather FM-related information for continuous improvement purposes",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1dbfddd3-83b0-458e-8a3c-0c3738098b6a",
         "aad34d2c-9d71-44e6-96dd-69f2e5bfd732",
@@ -702,7 +702,7 @@
     {
       "dutyID": "c219773b-4e6f-4392-9a90-864dff0066bf",
       "dutyDetail": "Deliver front-of-house services",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1dbfddd3-83b0-458e-8a3c-0c3738098b6a",
         "aad34d2c-9d71-44e6-96dd-69f2e5bfd732",
@@ -733,7 +733,7 @@
     {
       "dutyID": "c0b7815f-a2dd-417b-9c02-9270dfa62940",
       "dutyDetail": "Support hard FM functions",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1dbfddd3-83b0-458e-8a3c-0c3738098b6a",
         "aad34d2c-9d71-44e6-96dd-69f2e5bfd732",
@@ -762,7 +762,7 @@
     {
       "dutyID": "0fd81af3-ef2f-4217-b693-cc06fd927e39",
       "dutyDetail": "Maintain and develop competence in the FM industry/sector",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1dbfddd3-83b0-458e-8a3c-0c3738098b6a",
         "aad34d2c-9d71-44e6-96dd-69f2e5bfd732",
@@ -789,7 +789,7 @@
     {
       "dutyID": "816a98c8-3cff-4e8a-8751-38cc1ef50418",
       "dutyDetail": "Support the delivery of FM projects",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "1dbfddd3-83b0-458e-8a3c-0c3738098b6a",
         "aad34d2c-9d71-44e6-96dd-69f2e5bfd732",
