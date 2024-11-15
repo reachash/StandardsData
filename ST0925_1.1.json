@@ -254,7 +254,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-07-10T00:00:00 +00:00",
@@ -276,7 +276,7 @@
     "Junior creative writer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media and broadcast assistant",
@@ -294,7 +294,7 @@
     {
       "dutyID": "1e28c265-25cb-4c56-a014-b70b7c4a30ae",
       "dutyDetail": "Understand client marketing problems and develop creative ideas and concepts to solve the problem.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd8a7ae8-9668-48d1-8d30-7fe28622ed77",
         "3668ea45-f0a3-4fd8-8e19-339cdb5e3aa6"
@@ -316,7 +316,7 @@
     {
       "dutyID": "116fc400-77e5-4fff-809d-b10efa1f5543",
       "dutyDetail": "Take the creative brief from the account planner, the person in the advertising team with best understanding of how the advertising communication will help solve the client requirement, and ask intelligent questions to better understand the client’s need for example, about the target’s motivations or journey to purchase.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd8a7ae8-9668-48d1-8d30-7fe28622ed77",
         "3668ea45-f0a3-4fd8-8e19-339cdb5e3aa6"
@@ -338,7 +338,7 @@
     {
       "dutyID": "416c419d-2935-4e73-878d-4476711e75b4",
       "dutyDetail": "Articulate their creative ideas to creative directors and/or senior creatives using appropriate presentation materials such as story or mood boards, to obtain their feedback on their ideas.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd8a7ae8-9668-48d1-8d30-7fe28622ed77",
         "35bd1353-300d-4c11-b20b-f55fa1090bb7",
@@ -360,7 +360,7 @@
     {
       "dutyID": "2eb0f838-4b5c-4db4-b3b5-234ff99eba71",
       "dutyDetail": "Present creative ideas to the advertising team and occasionally their clients to obtain feedback on their ideas and ensure they meet the client's brief, using presentation materials such as video and music clips, photomontage storyboards.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3668ea45-f0a3-4fd8-8e19-339cdb5e3aa6",
         "35bd1353-300d-4c11-b20b-f55fa1090bb7",
@@ -384,7 +384,7 @@
     {
       "dutyID": "49596ac5-ac9f-4e30-a16f-2ee6cf4113be",
       "dutyDetail": "Develop creative presentations using appropriate materials such as story boards, music, film, illustration montages, being aware of advanced materials such as an animatic and mood boards, collection of images and text, to help bring the idea to life.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd8a7ae8-9668-48d1-8d30-7fe28622ed77"
       ],
@@ -405,7 +405,7 @@
     {
       "dutyID": "2ee350d7-86a8-4eba-a32e-0606bbd7300e",
       "dutyDetail": "Assist senior creatives to prepare for new business pitches, for example, by working on a \"shadow brief\" to come up with additional and or alternative ideas, which can then be presented in a competitive setting i.e. where a number of companies are pitching for business, to a potential new client.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3f61bdbf-efac-4c7c-a3d3-1eacd66a5e6b",
         "4aaad9c6-393f-4f52-8375-211d170d2cfd",
@@ -431,7 +431,7 @@
     {
       "dutyID": "297eced4-80d9-4162-a41b-e81389658835",
       "dutyDetail": "Amend or redevelop ideas in response to feedback, this can include feedback from a range of sources such as colleagues, clients and research organisations, ensuring any actions taken are in line with the agreed brief.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "35bd1353-300d-4c11-b20b-f55fa1090bb7",
         "306ab0dc-46ea-42d5-a948-f6038e34594b",
@@ -451,7 +451,7 @@
     {
       "dutyID": "203fc7fd-048b-45e4-8598-6709dbc255aa",
       "dutyDetail": "Work with specialist producers to help find the right directors, casting, photographers or music, for example prior to a TV commercial pre-production meeting.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3668ea45-f0a3-4fd8-8e19-339cdb5e3aa6",
         "5d45bc46-e7a8-44b2-bf07-9aba566bfbfd",
@@ -474,7 +474,7 @@
     {
       "dutyID": "3e77fd6a-2f60-46b4-a4f3-716850cd1783",
       "dutyDetail": "Collaborate successfully with the wider company advertising team and suppliers to help their ideas come to fruition, within budget and time scales, including basic understanding of what channels the Media Executives are recommending.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3668ea45-f0a3-4fd8-8e19-339cdb5e3aa6",
         "3f61bdbf-efac-4c7c-a3d3-1eacd66a5e6b",
@@ -507,7 +507,7 @@
     {
       "dutyID": "f2ffd1e5-97ba-4353-9fe5-8ed9cb59554d",
       "dutyDetail": "Attend external locations, for example TV & print shoots, in order to assist with the creative aspects of the production, ensuring the location enhances, rather than detracts from the creative idea. For example, if filming in the countryside, choosing a lush green field, over a muddy field, if the advert is depicting the benefits of visiting a rural location.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3668ea45-f0a3-4fd8-8e19-339cdb5e3aa6",
         "3f61bdbf-efac-4c7c-a3d3-1eacd66a5e6b",
@@ -529,7 +529,7 @@
     {
       "dutyID": "4ceb9535-ba88-41aa-8386-337aa8785310",
       "dutyDetail": "Attend edits and post-production sessions in order to answer any questions from the producer regarding the advertising concept and the customer's brief.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3668ea45-f0a3-4fd8-8e19-339cdb5e3aa6",
         "35bd1353-300d-4c11-b20b-f55fa1090bb7",
@@ -553,7 +553,7 @@
     {
       "dutyID": "963ce652-1aaf-4b50-a7f9-0edb9bcf444a",
       "dutyDetail": "Maintain awareness of creative work done by competitors, both in the UK and internationally; market and or technology developments and cultural trends in relation to the accounts being worked on to ensure campaigns are unique and the final product meets the concept and brief.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd8a7ae8-9668-48d1-8d30-7fe28622ed77",
         "306ab0dc-46ea-42d5-a948-f6038e34594b"
@@ -574,7 +574,7 @@
     {
       "dutyID": "a22b8fa1-a70c-4724-a2c1-118f7b457026",
       "dutyDetail": "Write text and stories, create designs and layouts: all of which bring an idea to life within different mediums, for example, TV, radio, cinema, newspaper, magazines, direct mail, promotions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd8a7ae8-9668-48d1-8d30-7fe28622ed77",
         "3f61bdbf-efac-4c7c-a3d3-1eacd66a5e6b"
@@ -600,7 +600,7 @@
     {
       "dutyID": "cb72c53b-b6e6-48fa-a178-9827ac255ff6",
       "dutyDetail": "Manage the pressure of tight deadlines and busy schedules, working on multiple projects simultaneously as required. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3f61bdbf-efac-4c7c-a3d3-1eacd66a5e6b",
         "4aaad9c6-393f-4f52-8375-211d170d2cfd",
