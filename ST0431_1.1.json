@@ -284,7 +284,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-02-27T00:00:00 +00:00",
@@ -303,10 +303,10 @@
     "Rehabilitation worker (vision impairment)"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
-  "cluster": "Health professional",
+  "cluster": "Health Professional",
   "clusterId": "6",
   "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2024-04-04T14:30:27 +00:00",
@@ -328,7 +328,7 @@
     {
       "dutyID": "c68e512f-fdc8-44cd-8d54-fd1dd78e21e8",
       "dutyDetail": "Assess and evaluate the needs of vision impaired and deafblind individuals and make person-centred recommendations for interventions, equipment and technologies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "523675e3-0d72-4f1e-928d-ff30c39ec44e",
         "9f9dd686-03d9-4944-a414-0f9870311ba1",
@@ -371,7 +371,7 @@
     {
       "dutyID": "12dad1e0-3815-4012-904d-d7e03f12e78c",
       "dutyDetail": "Plan and deliver programmes of daily living skills training to vision impaired and deafblind individuals, including equipment and technologies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "523675e3-0d72-4f1e-928d-ff30c39ec44e",
         "9f9dd686-03d9-4944-a414-0f9870311ba1",
@@ -418,7 +418,7 @@
     {
       "dutyID": "1be91115-7391-45bd-b750-96bee1397f68",
       "dutyDetail": "Plan and deliver programmes of training to vision impaired and deafblind individuals to support independence in indoor and outdoor mobility environments, including equipment and technologies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "523675e3-0d72-4f1e-928d-ff30c39ec44e",
         "9f9dd686-03d9-4944-a414-0f9870311ba1",
@@ -463,7 +463,7 @@
     {
       "dutyID": "df09d100-6b4d-4a76-9bf4-1d0316a0e613",
       "dutyDetail": "Plan and deliver programmes of communication training to vision impaired and deafblind individuals, including equipment and technologies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "523675e3-0d72-4f1e-928d-ff30c39ec44e",
         "9f9dd686-03d9-4944-a414-0f9870311ba1",
@@ -502,7 +502,7 @@
     {
       "dutyID": "058f50a3-82ae-42d6-85fd-10553c6fec0a",
       "dutyDetail": "Plan and deliver programmes of low vision training to vision impaired and deafblind individuals, including equipment and technologies.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "523675e3-0d72-4f1e-928d-ff30c39ec44e",
         "9f9dd686-03d9-4944-a414-0f9870311ba1",
@@ -534,7 +534,7 @@
     {
       "dutyID": "b6995a86-7368-4ece-995b-a645e853b4ff",
       "dutyDetail": "Collaborate with multi-disciplinary teams, stakeholders and family networks to support vision impaired and deafblind individuals, to include referrals and signposting.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "523675e3-0d72-4f1e-928d-ff30c39ec44e",
         "9f9dd686-03d9-4944-a414-0f9870311ba1",
@@ -562,7 +562,7 @@
     {
       "dutyID": "fdb77b00-9196-4193-80bb-2e0f9825e6cb",
       "dutyDetail": "Provide specialist information and advice on visual impairment  and act as an advocate on behalf of vision impaired and deafblind individuals.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "523675e3-0d72-4f1e-928d-ff30c39ec44e",
         "9f9dd686-03d9-4944-a414-0f9870311ba1",
@@ -585,7 +585,7 @@
     {
       "dutyID": "a029963d-8a2d-4441-9965-86bc7ff8ff95",
       "dutyDetail": "Manage and prioritise a caseload, store and share records in line with organisational procedures and general data protection regulation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c99d0b74-8dea-4139-ae1c-8e4ed0e1c30e",
         "820e5062-0f23-4453-994b-3af371f2cb68",
@@ -614,7 +614,7 @@
     {
       "dutyID": "86a5275c-21c9-4d2b-a5d6-eb57a8d121bc",
       "dutyDetail": "Assess and evaluate the needs of vision impaired and deafblind adults and deliver bespoke rehabilitation interventions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "523675e3-0d72-4f1e-928d-ff30c39ec44e",
         "9f9dd686-03d9-4944-a414-0f9870311ba1",
@@ -645,7 +645,7 @@
     {
       "dutyID": "bf2ed703-9b4b-44de-a931-30a6aa83a018",
       "dutyDetail": "Keep up to date with advances in legislation, specialist equipment and techniques, technologies, innovation and developments, in the context of vision impairment and deafblindness and maintain personal and professional development.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c99d0b74-8dea-4139-ae1c-8e4ed0e1c30e",
         "820e5062-0f23-4453-994b-3af371f2cb68"
