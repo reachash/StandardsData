@@ -507,7 +507,7 @@
     "Midwife"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
   "cluster": "Midwifery and Nursing Professional",
@@ -534,7 +534,7 @@
     {
       "dutyID": "e2d2a889-fa4e-4a6e-9687-ee35747e712e",
       "dutyDetail": "Practise in accordance with the NMC standards and within the limits of own competence, knowledge and sphere of professional practice, in line with legislation and local policy and procedures",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "91a0d113-3849-4477-9a1f-086afed0c1a3",
         "0598c1d7-f9f4-471a-abc8-d2498bb50db8",
@@ -566,7 +566,7 @@
     {
       "dutyID": "2e86865e-25b2-477f-8e88-39283cd495dd",
       "dutyDetail": "Communicate clearly and effectively with women, their partner and families",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "91a0d113-3849-4477-9a1f-086afed0c1a3",
         "0598c1d7-f9f4-471a-abc8-d2498bb50db8"
@@ -589,7 +589,7 @@
     {
       "dutyID": "7e186f5b-c43a-40e1-8d62-56c2e109c6d7",
       "dutyDetail": "Confirm pregnancy, assess and monitor women holistically using a range of assessment methods to reach valid, reliable and comprehensive conclusions",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "91a0d113-3849-4477-9a1f-086afed0c1a3",
         "0598c1d7-f9f4-471a-abc8-d2498bb50db8",
@@ -611,7 +611,7 @@
     {
       "dutyID": "f0aaf340-4339-4f07-b6ac-2f71a49fc9ee",
       "dutyDetail": "Determine and provide programmes of care and support for women",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "91a0d113-3849-4477-9a1f-086afed0c1a3",
         "0598c1d7-f9f4-471a-abc8-d2498bb50db8",
@@ -644,7 +644,7 @@
     {
       "dutyID": "5550cd6f-7785-4f55-b802-f5ba22a63e42",
       "dutyDetail": "Provide seamless care and, where appropriate, interventions, in partnership with women, their partner, families and other care providers during the antenatal period",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "91a0d113-3849-4477-9a1f-086afed0c1a3",
         "0598c1d7-f9f4-471a-abc8-d2498bb50db8",
@@ -667,7 +667,7 @@
     {
       "dutyID": "76ca2da4-8ef1-4533-b6b9-eb53fc7d942c",
       "dutyDetail": "Refer women and babies in need of further care",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "91a0d113-3849-4477-9a1f-086afed0c1a3",
         "0598c1d7-f9f4-471a-abc8-d2498bb50db8",
@@ -689,7 +689,7 @@
     {
       "dutyID": "8fd7434f-2195-4404-b6d7-e7728c316bd1",
       "dutyDetail": "Care for, monitor and support women during labour and birth, monitoring the condition of the fetus and providing immediate care of the newborn after birth",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "91a0d113-3849-4477-9a1f-086afed0c1a3",
         "0598c1d7-f9f4-471a-abc8-d2498bb50db8",
@@ -714,7 +714,7 @@
     {
       "dutyID": "48003f41-a77e-4527-a53c-d41964a650e8",
       "dutyDetail": "Prepare for and manage emergencies",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "91a0d113-3849-4477-9a1f-086afed0c1a3",
         "0598c1d7-f9f4-471a-abc8-d2498bb50db8",
@@ -738,7 +738,7 @@
     {
       "dutyID": "4a2d8ca9-c4b1-44b2-a653-58a78063384a",
       "dutyDetail": "Work in partnership with women and other care providers during the postnatal period to provide seamless care and interventions",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "91a0d113-3849-4477-9a1f-086afed0c1a3",
         "0598c1d7-f9f4-471a-abc8-d2498bb50db8",
@@ -764,7 +764,7 @@
     {
       "dutyID": "5685de28-59e6-4806-9cd7-967dd7e14b4c",
       "dutyDetail": "Examine and care for babies",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "91a0d113-3849-4477-9a1f-086afed0c1a3",
         "0598c1d7-f9f4-471a-abc8-d2498bb50db8",
@@ -790,7 +790,7 @@
     {
       "dutyID": "5632d492-5046-4ce7-bc33-f21e0d9fcd50",
       "dutyDetail": "Advise on, supply and administer a range of permitted medications safely",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "91a0d113-3849-4477-9a1f-086afed0c1a3",
         "0598c1d7-f9f4-471a-abc8-d2498bb50db8",
@@ -810,7 +810,7 @@
     {
       "dutyID": "5fb6f2d5-7e09-4f43-a0a3-dfd5b6ffc99e",
       "dutyDetail": "Complete, store and retain records",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1d8a8c9-b9e1-46ce-b64b-0a15f838b1de",
         "b2e02426-6cdb-4e32-9338-d6e87aefc6e9"
@@ -828,7 +828,7 @@
     {
       "dutyID": "781d66e8-202a-46ad-973f-6de34451e1d8",
       "dutyDetail": "Work as part of the wider health and social care team",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "91a0d113-3849-4477-9a1f-086afed0c1a3",
         "d1d8a8c9-b9e1-46ce-b64b-0a15f838b1de",
