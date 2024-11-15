@@ -107,7 +107,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2015-08-27T00:00:00 +00:00",
@@ -142,7 +142,7 @@
     {
       "dutyID": "ca290fca-1287-4a14-a35f-da3186b3c873",
       "dutyDetail": "Processing and settlement of derivatives or complex investments.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -152,7 +152,7 @@
     {
       "dutyID": "c5f93a03-ea7c-4899-9204-34f62a64ad4d",
       "dutyDetail": "Calculation and management of initial and ongoing margin for derivatives positions.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -162,7 +162,7 @@
     {
       "dutyID": "f0c263ad-5a1d-4974-a700-744d1ef07922",
       "dutyDetail": "Valuation of complex investment portfolios.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -172,7 +172,7 @@
     {
       "dutyID": "5cb5fc6a-2ce6-420f-a574-c3f795c2a0d6",
       "dutyDetail": "Preparation of investment performance reports for clients and investment managers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -182,7 +182,7 @@
     {
       "dutyID": "b12b3832-8a74-42e0-9dd2-4ec9c8b458ee",
       "dutyDetail": "Preparation of management reports for internal review.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -192,7 +192,7 @@
     {
       "dutyID": "9d8696e5-14ff-46e6-87c5-7d9e6d1ed524",
       "dutyDetail": "Selection of investment funds for platforms accessed by retail customers, based on pre-defined criteria.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -202,7 +202,7 @@
     {
       "dutyID": "2d4f1029-ca6e-4100-af1e-79df81d0b4e3",
       "dutyDetail": "Resolving complex issues within and across departments.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
