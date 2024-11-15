@@ -329,7 +329,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "",
@@ -354,7 +354,7 @@
     "Milking system technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Agricultural Engineering Operative/Technician",
@@ -379,7 +379,7 @@
     {
       "dutyID": "d6c979b5-f86a-4912-8f78-e21f460a3006",
       "dutyDetail": "Conduct technical consultations specific to land-based machinery, equipment and prime movers and the environment in which they are utilised. Including precision technologies, technological developments, machinery interaction with crop, turf, soil conditions, livestock, weather or climatic conditions and optimum operational efficiency. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f53d770c-0c05-4dab-91d9-18b0634af2fd",
         "3e4a7077-1e73-4284-a47b-783f78060382",
@@ -419,7 +419,7 @@
     {
       "dutyID": "1cead79f-e476-4901-9ac9-0c8834d709e4",
       "dutyDetail": "Gather intelligence on the malfunction, breakdown and performance of land-based machinery, equipment and prime movers.  Including their application, operation and interaction with each other, the working environment and factors influencing performance (such as crop and soil types, soil conditions and weather). ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f53d770c-0c05-4dab-91d9-18b0634af2fd",
         "5df35139-725d-4ceb-bc36-df03cc2528c4",
@@ -466,7 +466,7 @@
     {
       "dutyID": "1c5fdb07-7d89-4daa-8ac7-42d669e3f799",
       "dutyDetail": "Undertake on-site operational testing of land-based machinery, equipment and prime movers to either simulate the conditions leading to customer complaints or to validate operational performance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f53d770c-0c05-4dab-91d9-18b0634af2fd",
         "3e4a7077-1e73-4284-a47b-783f78060382",
@@ -511,7 +511,7 @@
     {
       "dutyID": "72e894f1-ecde-44e8-9817-7afbc3a8e5db",
       "dutyDetail": "Perform appropriate diagnostic processes to test and record technical data, intermittent faults and developing faults. Including the use of crop, environment, fluid sampling and analysis, monitoring via telemetry.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f53d770c-0c05-4dab-91d9-18b0634af2fd",
         "5df35139-725d-4ceb-bc36-df03cc2528c4",
@@ -559,7 +559,7 @@
     {
       "dutyID": "028051ac-00bc-4cad-a94f-ff677644d80e",
       "dutyDetail": "Examine failed parts and gathered information to establish the root cause of land-based machinery, equipment and prime mover failures. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f53d770c-0c05-4dab-91d9-18b0634af2fd",
         "5df35139-725d-4ceb-bc36-df03cc2528c4",
@@ -596,7 +596,7 @@
     {
       "dutyID": "cd909f11-f3b8-4ad5-a055-36b49df551da",
       "dutyDetail": "Formulate and communicate conclusions and recommend viable repair options, considering timelines, due diligence, and the impact on the customer’s land-based operation. For example crop, produce, surface quality, and revenue loss. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3e4a7077-1e73-4284-a47b-783f78060382",
         "5df35139-725d-4ceb-bc36-df03cc2528c4",
@@ -645,7 +645,7 @@
     {
       "dutyID": "e9eabeb7-6185-41b6-a100-b3dd5bd7e7cf",
       "dutyDetail": "Compile detailed technical reports and communicate findings and actions taken or required to resolve issues, keeping stakeholders informed of progress and managing escalation.  ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3e4a7077-1e73-4284-a47b-783f78060382",
         "5df35139-725d-4ceb-bc36-df03cc2528c4",
@@ -696,7 +696,7 @@
     {
       "dutyID": "70d1e8ae-6bbc-402b-b421-6e708813d677",
       "dutyDetail": "Carry out mechanical repairs to complex land-based machinery, equipment and prime movers. Including preparation, processing, cutting, conditioning, placement, application, material handling, transportation, autonomous and operator controlled prime movers, machinery and equipment. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f53d770c-0c05-4dab-91d9-18b0634af2fd",
         "3e4a7077-1e73-4284-a47b-783f78060382",
@@ -733,7 +733,7 @@
     {
       "dutyID": "a017d2d0-6d19-400f-939a-2dd536d93fea",
       "dutyDetail": "Conduct complex electrical and electronic system repairs on land-based machinery, equipment and prime movers. For example, precision technology, electronic systems management, telemetry,  autonomous and automated operations used in the land-based sector.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f53d770c-0c05-4dab-91d9-18b0634af2fd",
         "3e4a7077-1e73-4284-a47b-783f78060382",
@@ -767,7 +767,7 @@
     {
       "dutyID": "ab8e814e-4118-4957-8ee4-a8b588496619",
       "dutyDetail": "Conduct complex repairs to hydraulic, pneumatic, hydrostatic, fluid powered systems employed in land-based machinery, equipment and prime movers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f53d770c-0c05-4dab-91d9-18b0634af2fd",
         "3e4a7077-1e73-4284-a47b-783f78060382",
@@ -800,7 +800,7 @@
     {
       "dutyID": "0b60e917-43c2-4daa-af45-91e6f60d3cbc",
       "dutyDetail": "Supervise, support and implement a schedule of repair operations for others to follow. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3e4a7077-1e73-4284-a47b-783f78060382",
         "96f208d6-6d20-40ef-a26c-6b2305b9858d",
@@ -833,7 +833,7 @@
     {
       "dutyID": "3c0faf40-18bf-4164-95d9-7e0ae16ba38a",
       "dutyDetail": "Install, demonstrate and hand over land-based engineering machinery and equipment in bespoke land-based environments in accordance with legislative requirements and company procedures. Including the handover of repaired machines adjusted to accommodate varying crop types, soil types and conditions, crop and climatic conditions. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f53d770c-0c05-4dab-91d9-18b0634af2fd",
         "3e4a7077-1e73-4284-a47b-783f78060382",
@@ -873,7 +873,7 @@
     {
       "dutyID": "86d601ed-dd83-43cc-b089-42dc381317d7",
       "dutyDetail": "Set up land-based machinery, equipment and prime movers to achieve optimal performance. Optimise precision technologies and consider sustainable production, seasonal changes, minimising waste and meet net zero objectives.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f53d770c-0c05-4dab-91d9-18b0634af2fd",
         "3e4a7077-1e73-4284-a47b-783f78060382",
@@ -914,7 +914,7 @@
     {
       "dutyID": "910b27a2-501d-4e3b-9b11-d982c43203e2",
       "dutyDetail": "Engage in Continuing Professional Development (CPD) and share best practice, keeping up to date with advances in land-based working practices and the land-based engineering technologies associated with them.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d1a024ae-21a1-4fef-846c-d1185c60f8de",
         "1592d1d5-0d9e-4a68-817f-ee222a2dba67"
@@ -934,7 +934,7 @@
     {
       "dutyID": "f5d3e6ad-8293-4f1b-b041-ee1faf5f2783",
       "dutyDetail": "Support the completion of technical expert reports and statements for use in dispute cases involving land-based engineering machinery and equipment. (for example misrepresentation, not fit for purpose, not of merchantable quality, negligent repair, accidents and insurance claims).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3e4a7077-1e73-4284-a47b-783f78060382",
         "0542bc7d-0712-493c-9cc5-f0d63afed17a",
@@ -983,7 +983,7 @@
     {
       "dutyID": "88baf9ad-23f8-496a-8980-9376b12743d7",
       "dutyDetail": "Provide recommendations and technical information to support the preparation of estimates and quotations for the repair, refurbishment, resale and seasonal servicing of land-based machinery, equipment and prime movers.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3e4a7077-1e73-4284-a47b-783f78060382",
         "96f208d6-6d20-40ef-a26c-6b2305b9858d",
@@ -1041,7 +1041,7 @@
     {
       "dutyID": "8fd4448b-f1b3-47b5-852a-ce84f7496dae",
       "dutyDetail": "Carry out dynamic risk assessments for activities carried out in land-based engineering environments, considering the diverse aspects of the work site (for example, biosecurity, livestock, diseases, cross contamination, remote lone working, toxic working environments, contamination and decontamination).",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f53d770c-0c05-4dab-91d9-18b0634af2fd",
         "9aa7899e-4207-4286-b459-91aff8061512",
