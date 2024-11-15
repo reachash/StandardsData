@@ -145,7 +145,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-07-03T00:00:00 +00:00",
@@ -183,7 +183,7 @@
     {
       "dutyID": "7c55b664-6202-4ca3-ac7d-6da2b99fdc78",
       "dutyDetail": "Assisting senior managers with the budgeting of construction projects.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -193,7 +193,7 @@
     {
       "dutyID": "8f56509a-aa53-4e0c-8bad-1129682e111e",
       "dutyDetail": "Control of costs during a construction project.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -203,7 +203,7 @@
     {
       "dutyID": "988e46b0-a633-46f1-a6e1-01f943f7c8d2",
       "dutyDetail": "Selection and management of specialist contractors.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -213,7 +213,7 @@
     {
       "dutyID": "dd26b041-d7e3-4c61-9118-4ad61e98b47a",
       "dutyDetail": "To contribute to the mitigation of disputes using accurate records.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -223,7 +223,7 @@
     {
       "dutyID": "756041f3-5880-430f-9c50-836b1c8b1ca8",
       "dutyDetail": "Recording, control and reporting of income and expenditure on a construction project.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -233,7 +233,7 @@
     {
       "dutyID": "9c34570e-03f1-4d67-a7c0-d51125151b1f",
       "dutyDetail": "Valuation of progress on construction projects.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
@@ -243,7 +243,7 @@
     {
       "dutyID": "ac0fadac-c20b-40fa-9691-c965b7b97975",
       "dutyDetail": "To assist senior managers with the legal and contractual issues on a construction project.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [],
       "mappedOptions": [],
