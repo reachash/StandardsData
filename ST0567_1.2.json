@@ -484,7 +484,7 @@
     "Paramedic"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
   "cluster": "Health Professional",
@@ -527,7 +527,7 @@
     {
       "dutyID": "d0d63bc7-ae2b-43fc-83b5-18dad4022e33",
       "dutyDetail": "Work in line with the Health and Care Professions Council statutory requirements and ethical boundaries",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c280c96-8407-4105-b301-3f0d5edf9ce0",
         "6585c878-41cf-4d25-92b2-8ffc6addb5aa",
@@ -561,7 +561,7 @@
     {
       "dutyID": "e7e9bd81-99a2-4f4d-a066-3bc667ea3f49",
       "dutyDetail": "Drive an ambulance or rapid response vehicle under emergency and non-emergency driving conditions",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c280c96-8407-4105-b301-3f0d5edf9ce0",
         "6585c878-41cf-4d25-92b2-8ffc6addb5aa",
@@ -582,7 +582,7 @@
     {
       "dutyID": "f8d59975-ee72-4869-ab61-dc1cf60c9211",
       "dutyDetail": "Equip and maintain an ambulance or rapid response vehicle under emergency and non-emergency driving conditions",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c280c96-8407-4105-b301-3f0d5edf9ce0",
         "6585c878-41cf-4d25-92b2-8ffc6addb5aa",
@@ -609,7 +609,7 @@
     {
       "dutyID": "3b2646ff-fe14-4997-8aaf-b686695ccc34",
       "dutyDetail": "Communicate effectively with others",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c280c96-8407-4105-b301-3f0d5edf9ce0",
         "6585c878-41cf-4d25-92b2-8ffc6addb5aa",
@@ -645,7 +645,7 @@
     {
       "dutyID": "78b196c3-34ad-4652-a9ba-029c2557118d",
       "dutyDetail": "Assess, evaluate, diagnose and manage the clinical and personal requirements of patients and situation",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c280c96-8407-4105-b301-3f0d5edf9ce0",
         "6585c878-41cf-4d25-92b2-8ffc6addb5aa",
@@ -674,7 +674,7 @@
     {
       "dutyID": "9187ca8a-6561-41d2-8ef5-a43e64bc23df",
       "dutyDetail": "Provide effective treatment to patients providing the highest standard of clinical and personal care within the pre-hospital environment under emergency and non-emergency driving conditions",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c280c96-8407-4105-b301-3f0d5edf9ce0",
         "6585c878-41cf-4d25-92b2-8ffc6addb5aa",
@@ -701,7 +701,7 @@
     {
       "dutyID": "0e9dece6-1c2b-4108-b369-cbbb8f88ae35",
       "dutyDetail": "Work effectively as part of a team with other health and social care professionals, other services and agencies",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c280c96-8407-4105-b301-3f0d5edf9ce0",
         "6585c878-41cf-4d25-92b2-8ffc6addb5aa",
@@ -730,7 +730,7 @@
     {
       "dutyID": "fd2dd249-7489-48df-b0ec-5f2faf7d66bb",
       "dutyDetail": "Use, store and securely dispose of medicines in accordance with current protocols and legislation",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c280c96-8407-4105-b301-3f0d5edf9ce0",
         "6585c878-41cf-4d25-92b2-8ffc6addb5aa",
@@ -756,7 +756,7 @@
     {
       "dutyID": "458ab6c0-6669-43ff-a4b6-a12f2301b83f",
       "dutyDetail": "Oversee the health, wellbeing and safety of patients within the legal and ethical boundaries of a paramedic",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c280c96-8407-4105-b301-3f0d5edf9ce0",
         "6585c878-41cf-4d25-92b2-8ffc6addb5aa",
@@ -782,7 +782,7 @@
     {
       "dutyID": "99a49932-2b76-4bf2-8e11-d2f502b9ff44",
       "dutyDetail": "Maintain fitness to practice by ensuring own professional and clinical development is sustained",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "6c280c96-8407-4105-b301-3f0d5edf9ce0",
         "6585c878-41cf-4d25-92b2-8ffc6addb5aa",
