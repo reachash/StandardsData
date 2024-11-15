@@ -333,7 +333,7 @@
     "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2022-09-13T00:00:00 +00:00",
@@ -354,7 +354,7 @@
     "Lighting and Audiovisual Technician"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Media, Broadcast and Production",
   "cluster": "Media, broadcast and production technician",
@@ -379,7 +379,7 @@
     {
       "dutyID": "0bd1eef2-10ce-4cd8-9399-38aa5cb8f354",
       "dutyDetail": "Design, install, and operate a wide range of audiovisual equipment configurations including, but not limited to: audio mixing desks, video cameras, public address systems, display screens, projectors, wireless microphone systems, recording devices, and lighting systems",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0d3dff59-60f8-4eff-b13a-dadac91debd6",
         "9f953583-854b-4b0d-8d2e-977165905e05",
@@ -423,7 +423,7 @@
     {
       "dutyID": "0dfcafe5-849d-453c-ad83-c230a8d7ee8e",
       "dutyDetail": "Provide unguided support and technical management of events.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0d3dff59-60f8-4eff-b13a-dadac91debd6",
         "9f953583-854b-4b0d-8d2e-977165905e05",
@@ -456,7 +456,7 @@
     {
       "dutyID": "57116188-8b90-4dbb-bd6f-8081e36ad23d",
       "dutyDetail": "Work collaboratively with, and facilitate communication between, performers, public speakers, presenters, clients, event organisers, support teams, external contractors, management, and any other stakeholders.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9f953583-854b-4b0d-8d2e-977165905e05",
         "798826a2-5a29-4709-8ac0-5a98101e4d0a",
@@ -481,7 +481,7 @@
     {
       "dutyID": "56f42f79-06e1-4072-872a-eae54dcfc319",
       "dutyDetail": "Advise and guide customers on requirements for a range of permanent/time-limited scenarios, manage expectations and resolve complaints.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0d3dff59-60f8-4eff-b13a-dadac91debd6",
         "9f953583-854b-4b0d-8d2e-977165905e05",
@@ -513,7 +513,7 @@
     {
       "dutyID": "0840f17b-401d-4ff8-af63-324b15a5f19f",
       "dutyDetail": "Design integrated audiovisual systems in line with customer requirements and the project environment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0d3dff59-60f8-4eff-b13a-dadac91debd6",
         "3c9976b2-8434-4143-bbaa-a7722aac5143",
@@ -548,7 +548,7 @@
     {
       "dutyID": "7a0b866d-1b2d-490b-b9ce-80ff1272a0e1",
       "dutyDetail": "Plan, install, and configure AV over IP systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0d3dff59-60f8-4eff-b13a-dadac91debd6",
         "3c9976b2-8434-4143-bbaa-a7722aac5143"
@@ -571,7 +571,7 @@
     {
       "dutyID": "7cd82ba3-51ad-4654-be78-e01cc1edeca7",
       "dutyDetail": "Coordinate and conduct videoconferencing setup and testing, ensure optimal performance and adherence to required specifications.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9f953583-854b-4b0d-8d2e-977165905e05",
         "3c9976b2-8434-4143-bbaa-a7722aac5143",
@@ -595,7 +595,7 @@
     {
       "dutyID": "ed91a0d3-9cb1-42db-9233-8ba79b8e1890",
       "dutyDetail": "Install and/or support the use of personal computers, servers, and digital signage.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0d3dff59-60f8-4eff-b13a-dadac91debd6",
         "3c9976b2-8434-4143-bbaa-a7722aac5143"
@@ -616,7 +616,7 @@
     {
       "dutyID": "bcd86687-951b-430b-8aeb-5f5ed0251a35",
       "dutyDetail": "Capture, edit, and post-produce audio and video content.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0d3dff59-60f8-4eff-b13a-dadac91debd6",
         "3c9976b2-8434-4143-bbaa-a7722aac5143"
@@ -652,7 +652,7 @@
     {
       "dutyID": "99b26d0f-fba6-4853-b7e9-a5072d67ae6f",
       "dutyDetail": "Plan and manage virtual events/online broadcasts.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9f953583-854b-4b0d-8d2e-977165905e05",
         "3c9976b2-8434-4143-bbaa-a7722aac5143",
@@ -687,7 +687,7 @@
     {
       "dutyID": "d1763944-1bfc-42d3-9765-df8501ecdca7",
       "dutyDetail": "Analyse the design, planning and execution of services offered via testing and customer feedback: diagnose issues, evaluate emerging technologies, and recommend improvements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3c9976b2-8434-4143-bbaa-a7722aac5143",
         "798826a2-5a29-4709-8ac0-5a98101e4d0a",
@@ -714,7 +714,7 @@
     {
       "dutyID": "afe1ac1e-77db-4407-89a4-2d91cd38c832",
       "dutyDetail": "Plan, develop, and provide technical training for inexperienced end users.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0d3dff59-60f8-4eff-b13a-dadac91debd6",
         "3c9976b2-8434-4143-bbaa-a7722aac5143",
@@ -741,7 +741,7 @@
     {
       "dutyID": "c23faa58-1ac8-401c-8f11-86ac1f894e77",
       "dutyDetail": "Use research and development to inform personal professional development activity and enhance knowledge and skills.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3c9976b2-8434-4143-bbaa-a7722aac5143",
         "51f209c8-7baa-46d0-b92c-c0a107e4b373",
@@ -761,7 +761,7 @@
     {
       "dutyID": "c5b96032-674b-4693-9a8d-dda11e13998e",
       "dutyDetail": "Perform administration duties pertaining to a range of events requiring audiovisual services e.g. logging requests, updating meeting/event calendars, tracking and updating project progress, producing purchase orders, processing invoices, and managing e-mail communications.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "798826a2-5a29-4709-8ac0-5a98101e4d0a",
         "3406ab69-9a15-4669-989d-e1ab398b1f07"
@@ -779,7 +779,7 @@
     {
       "dutyID": "641c1d7f-4954-44cb-987c-6a5c92b95750",
       "dutyDetail": "Conduct risk assessments and produce accompanying documentation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0d3dff59-60f8-4eff-b13a-dadac91debd6",
         "bb3a64ce-5285-4c06-8ee7-b10b6b717eb1"
@@ -799,7 +799,7 @@
     {
       "dutyID": "d7e29afd-b415-472c-96c4-29746cd7f5b8",
       "dutyDetail": "Maintain audiovisual equipment and an associated inventory in a variety of spaces: ensure systems are event-ready and meet specific requirements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0d3dff59-60f8-4eff-b13a-dadac91debd6",
         "9f953583-854b-4b0d-8d2e-977165905e05",
@@ -824,7 +824,7 @@
     {
       "dutyID": "8c671d28-3a1d-47bd-be95-37ebcade6f9c",
       "dutyDetail": "Ensure that all audiovisual spaces and stores are kept orderly and presentable.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0d3dff59-60f8-4eff-b13a-dadac91debd6",
         "9f953583-854b-4b0d-8d2e-977165905e05",
