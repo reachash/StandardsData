@@ -259,7 +259,7 @@
     "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-02-19T00:00:00 +00:00",
@@ -277,7 +277,7 @@
     "Watch Repairer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Craft and Design",
   "cluster": "Precision manufacturing craftsperson",
@@ -302,7 +302,7 @@
     {
       "dutyID": "ccc00a33-bea0-4609-8fe7-a8d30eb89df9",
       "dutyDetail": "Liaise with customers and/or colleagues to determine their requirements and provide clear feedback on work undertaken.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ecd02c77-b157-4b10-887b-d236be9c1c96",
         "e5ed53ed-7298-4f62-b0d2-b415141c36c3",
@@ -362,7 +362,7 @@
     {
       "dutyID": "7120951c-5d1c-4118-9dfe-1736792a7f96",
       "dutyDetail": "Maintain tools in an appropriate condition to undertake servicing procedures for watchmaking.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ecd02c77-b157-4b10-887b-d236be9c1c96",
         "95e8d7b1-0b05-42e9-825d-4d9e1f91eae7",
@@ -385,7 +385,7 @@
     {
       "dutyID": "f7f37e0d-c78e-489f-a605-5915f60a616a",
       "dutyDetail": "Assess the condition of quartz and mechanical watches and their components using test equipment, visual assessment and observation. ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ecd02c77-b157-4b10-887b-d236be9c1c96",
         "95e8d7b1-0b05-42e9-825d-4d9e1f91eae7",
@@ -422,7 +422,7 @@
     {
       "dutyID": "ff38a109-fa98-4d38-b5b4-aae5662d2ab4",
       "dutyDetail": "Open watch cases and remove watch movements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ecd02c77-b157-4b10-887b-d236be9c1c96",
         "95e8d7b1-0b05-42e9-825d-4d9e1f91eae7",
@@ -450,7 +450,7 @@
     {
       "dutyID": "88a9f98f-82e3-480a-b77b-36a59dc0030c",
       "dutyDetail": "Identify faults in watch cases and bracelets and decide appropriate levels of intervention.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ecd02c77-b157-4b10-887b-d236be9c1c96",
         "95e8d7b1-0b05-42e9-825d-4d9e1f91eae7",
@@ -475,7 +475,7 @@
     {
       "dutyID": "1d796d57-2f11-454a-a71c-12448365bd27",
       "dutyDetail": "Specify replacement components for watch cases / bracelets.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "95e8d7b1-0b05-42e9-825d-4d9e1f91eae7",
         "a6194308-396e-434e-b4f4-5d88b3a490f6",
@@ -495,7 +495,7 @@
     {
       "dutyID": "251b74a1-f8af-4392-96c0-2be32b12de06",
       "dutyDetail": "Refinish polished and grained surfaces of the watch case and bracelet; prepare and reassemble components (e.g., gaskets, glasses, pushers). ",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ecd02c77-b157-4b10-887b-d236be9c1c96",
         "95e8d7b1-0b05-42e9-825d-4d9e1f91eae7",
@@ -523,7 +523,7 @@
     {
       "dutyID": "0d0001ed-1953-41d7-8c77-59fec41423b7",
       "dutyDetail": "Refit watch movements to watch cases, reseal and close watch cases and test watches for water resistance.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ecd02c77-b157-4b10-887b-d236be9c1c96",
         "95e8d7b1-0b05-42e9-825d-4d9e1f91eae7",
@@ -548,7 +548,7 @@
     {
       "dutyID": "641b68f3-ac40-4b56-915f-2220846e2bc1",
       "dutyDetail": "Identify faults in quartz and mechanical watch movements and decide appropriate levels of intervention.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ecd02c77-b157-4b10-887b-d236be9c1c96",
         "95e8d7b1-0b05-42e9-825d-4d9e1f91eae7",
@@ -576,7 +576,7 @@
     {
       "dutyID": "dfdc70e7-51bc-4374-bc5c-3ef26fb2e587",
       "dutyDetail": "Specify replacement components for quartz and mechanical watch movements.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "e5ed53ed-7298-4f62-b0d2-b415141c36c3",
         "ad28b6ac-09db-4494-a2a1-db3b11e1c3db"
@@ -596,7 +596,7 @@
     {
       "dutyID": "dad17e5b-0b6c-460c-82e1-defd90b0f816",
       "dutyDetail": "Service lubricate and adjust quartz and mechanical watch movements, to ensure the serviced movement meets the manufacturer’s specification and industry practice.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ecd02c77-b157-4b10-887b-d236be9c1c96",
         "95e8d7b1-0b05-42e9-825d-4d9e1f91eae7",
@@ -632,7 +632,7 @@
     {
       "dutyID": "55c46031-0762-4cdc-a50f-eebbc5900065",
       "dutyDetail": "Complete documentation, detailing initial condition of watches, work undertaken, test results, components and estimated cost of components required.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a6194308-396e-434e-b4f4-5d88b3a490f6",
         "e5ed53ed-7298-4f62-b0d2-b415141c36c3",
@@ -666,7 +666,7 @@
     {
       "dutyID": "42b4e2d6-e829-4f20-adb9-4322514fee3d",
       "dutyDetail": "Practise continuous self-learning to achieve an awareness of opportunities and developments in the watch industry.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "b7ae03ce-71a3-435f-bd69-9b2cbae5288c",
         "0097d6a8-bdfb-44db-9e1f-7fcc836c6a30"
