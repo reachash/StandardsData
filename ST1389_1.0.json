@@ -3,12 +3,12 @@
   "larsCode": 0,
   "referenceNumber": "ST1389",
   "title": "Barrister",
-  "status": "In development",
+  "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/0",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/barrister-10",
-  "versionNumber": "",
+  "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2024-11-27T00:00:00",
+  "changedDate": "2024-11-28T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
@@ -16,7 +16,7 @@
   "level": 7,
   "ePALength": 0,
   "typicalDuration": 72,
-  "maxFunding": 0,
+  "maxFunding": 27000,
   "route": "Legal, finance and accounting",
   "keywords": [
     "barrister",
@@ -30,7 +30,7 @@
     "Barrister"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5oydqgd0/barrister-end-point-assessment-v10.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5oydqgd0/barrister-end-point-assessment.pdf",
   "ssa1": "",
   "ssa2": "",
   "version": "1.0",
@@ -343,13 +343,13 @@
   "pathway": "Legal",
   "cluster": "Legal professional or lawyer",
   "clusterId": "249",
-  "clusterDescription": null,
+  "clusterDescription": "Deliver legal services to internal and external clients based on specific specialism e.g. land/property conveyancing, Family law, civil litigation, criminal, company & business law",
   "createdDate": "2024-11-27T17:22:30 +00:00",
-  "lastUpdated": "2024-11-27T00:00:00 +00:00",
+  "lastUpdated": "2024-11-28T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
   "occupationCode": "OCC1389",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/barrister?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/barrister",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/barrister-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/barrister-v1-0",
   "qualifications": [
     {
       "qualificationId": "b971b086-6bfe-48b1-9006-a73f2bf454a0",
@@ -1451,5 +1451,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-11-27T00:00:00"
+  "publishDate": "2024-11-28T00:00:00"
 }
