@@ -3,14 +3,14 @@
   "larsCode": 762,
   "referenceNumber": "ST1315",
   "title": "Aircraft maintenance technician",
-  "status": "Approved for delivery",
+  "status": "Retired",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/762",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/aircraft-maintenance-technician-10",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2024-06-04T00:00:00",
+  "changedDate": "2024-12-03T00:00:00",
   "earliestStartDate": "2024-05-31T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2024-12-02T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "To maintain and certify aircraft.",
   "level": 3,
@@ -43,7 +43,7 @@
   "ssa2": "4.1 Engineering",
   "version": "1.0",
   "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
-  "occupationalSummary": "&lt;p&gt;Aircraft maintenance technicians work in the civil and military engineering sector in the aviation industry. Aircraft maintenance is required to ensure the continuing airworthiness of an aircraft or aircraft component. Aircraft include small aeroplanes, airliners, jet fighters, helicopters, and other air vehicles. The sector is highly regulated, to ensure the safe and correct functioning of the aircraft. Employers range in size from small to large and include small airfield maintenance operators, large international commercial airlines, aircraft manufacturers and the military.&lt;/p&gt;\n&lt;p&gt;Aircraft maintenance technicians maintain and certify aircraft. They check, repair, and modify mechanical, electrical and electronic aircraft components and systems. They conduct safety checks and select aircraft technical logs and work schedule information. They select and check tools and equipment to carry out aircraft component inspection. They perform scheduled and unscheduled maintenance. They rectify faults and communicate work carried out with stakeholders. They complete documentation, handover work and reinstate the work area. They may be required to work shifts, to work at height and in confined spaces. They may work in a range of environments including hangars, outdoors and workshops. They may be required to hold an Aircraft Maintenance Licence. Licences are issued by the Civil Aviation Authority (CAA), European Union Aviation Safety Agency (EASA) or Military equivalent.&lt;/p&gt;\n&lt;p&gt;Aircraft maintenance technicians interact with flight crew, cabin crew, customers, and engineering colleagues. They typically report to shift leaders, supervisors, or managers.&lt;/p&gt;\n&lt;p&gt;They are responsible for complying with civil and or military regulations. They must also meet organisational requirements. Work must comply with health, safety, environmental and sustainability rules and regulations. They must wear personal protective equipment. They must ensure the health and safety of themselves, their colleagues, and customers. They must complete tasks within defined timescales. They must work professionally and responsibly. They may be required to work on their own or as part of a team.&#160;&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;Aircraft maintenance technicians work in the civil and military engineering sector in the aviation industry. Aircraft maintenance is required to ensure the continuing airworthiness of an aircraft or aircraft component. Aircraft include small aeroplanes, airliners, jet fighters, helicopters, and other air vehicles. The sector is highly regulated, to ensure the safe and correct functioning of the aircraft. Employers range in size from small to large and include small airfield maintenance operators, large international commercial airlines, aircraft manufacturers and the military.&lt;/p&gt;\n&lt;p&gt;Aircraft maintenance technicians maintain and certify aircraft. They check, repair, and modify mechanical, electrical and electronic aircraft components and systems. They conduct safety checks and select aircraft technical logs and work schedule information. They select and check tools and equipment to carry out aircraft component inspection. They perform scheduled and unscheduled maintenance. They rectify faults and communicate work carried out with stakeholders. They complete documentation, handover work and reinstate the work area. They may be required to work shifts, to work at height and in confined spaces. They may work in a range of environments including hangars, outdoors and workshops. They may be required to hold an Aircraft Maintenance Licence. Licences are issued by the Civil Aviation Authority (CAA), European Union Aviation Safety Agency (EASA) or Military equivalent.&lt;/p&gt;\n&lt;p&gt;Aircraft maintenance technicians interact with flight crew, cabin crew, customers, and engineering colleagues. They typically report to shift leaders, supervisors, or managers.&lt;/p&gt;\n&lt;p&gt;They are responsible for complying with civil and or military regulations. They must also meet organisational requirements. Work must comply with health, safety, environmental and sustainability rules and regulations. They must wear personal protective equipment. They must ensure the health and safety of themselves, their colleagues, and customers. They must complete tasks within defined timescales. They must work professionally and responsibly. They may be required to work on their own or as part of a team.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "ec2cd7b9-b1a4-483c-96e2-a9975a7e510f",
@@ -326,7 +326,7 @@
   "clusterId": "19",
   "clusterDescription": null,
   "createdDate": "2024-10-02T14:30:34 +00:00",
-  "lastUpdated": "2024-06-04T00:00:00 +00:00",
+  "lastUpdated": "2024-12-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-05-31T00:00:00 +00:00",
   "occupationCode": "OCC1315",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/aircraft-maintenance-technician-v1-0?view=standard#OccupationalStandard",
@@ -837,5 +837,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-06-04T00:00:00"
+  "publishDate": "2024-12-03T00:00:00"
 }
