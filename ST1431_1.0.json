@@ -5,7 +5,7 @@
   "title": "Dental nurse (GDC 2023)",
   "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/779",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/dental-nurse-gdc-2023-10",
+  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/dental-nurse-gdc-2023-10-1",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2024-11-06T00:00:00",
@@ -76,7 +76,7 @@
     },
     {
       "knowledgeId": "35558981-3e14-4b8d-b04b-d349bcd4cda8",
-      "detail": "Evaluate the health risks of prescribed, non-prescribed and recreational drug use and misuse on oral and general health."
+      "detail": "Health risks of prescribed, non-prescribed and recreational drug use and misuse on oral and general health."
     },
     {
       "knowledgeId": "02ea61d0-b48b-4e93-843d-e850465955f6",
@@ -220,7 +220,7 @@
     },
     {
       "knowledgeId": "c97bdb99-996f-4793-82dd-827fd3598b1f",
-      "detail": "Explain the attributes of professional attitudes and behaviour in all environments and media, including interaction with social media."
+      "detail": "Attributes of professional attitudes and behaviour in all environments and media, including interaction with social media."
     },
     {
       "knowledgeId": "b7461033-1f0f-4515-9964-f09aad2ef817",
@@ -670,11 +670,11 @@
     "webLink": ""
   },
   "approvedForDelivery": "2024-08-27T00:00:00 +00:00",
-  "integratedApprenticeship": true,
+  "integratedApprenticeship": false,
   "integration": "Statutory integration",
   "integratedDegree": "",
   "tbReference": "TB0600",
-  "tbMainContact": "john.darby@hee.nhs.uk",
+  "tbMainContact": "Ruth.Chesmore@bupadentalcare.co.uk, shalin.mehra@rodericksdental.co.uk, john.darby7@nhs.net",
   "involvedEmployers": "Bupa Dental Care, City and Guilds, Colosseum Dental, Community Dental Services, Damira Dental, General Dental Council, NCFE, Nexus Dental, Northern Skills Group, Obex Dental, Orthodontic Team Training, Riverdale Healthcare, Rodericks Dental, Skills for Health, Smile Dental Care, Taunton & Somerset NHS Foundation Trust, Tempdent, Today's Dental, UCLAN, University of Bolton, Workforce Development Trust, Yeovil College",
   "regulated": true,
   "regulatedBody": "General Dental Council",
@@ -689,7 +689,7 @@
   "cluster": "Health assistant",
   "clusterId": "112",
   "clusterDescription": "Provide direct patient contact and caring undertaking routine well defined clinical duties",
-  "createdDate": "2024-08-27T12:26:24 +00:00",
+  "createdDate": "2024-12-09T13:20:18 +00:00",
   "lastUpdated": "2024-11-06T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-08-27T00:00:00 +00:00",
   "occupationCode": "OCC1431",
