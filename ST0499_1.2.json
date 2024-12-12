@@ -9,7 +9,7 @@
   "versionNumber": "",
   "change": "Occupational standard, end-point assessment plan and funding band revised",
   "changedDate": "2024-12-09T00:00:00",
-  "earliestStartDate": "2025-01-06T00:00:00",
+  "earliestStartDate": "2024-12-06T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Carrying out a range of services and repairs to cars, car derived vans and light goods vehicles.",
@@ -309,7 +309,7 @@
   "proposalApproved": "",
   "standardApproved": "",
   "standardPublished": "true",
-  "epaApprovalDate": "",
+  "epaApprovalDate": "2024-10-31T00:00:00 +00:00",
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
@@ -343,7 +343,7 @@
   "cluster": "Service, Repair and/or Overhaul Operative/Technician",
   "clusterId": "19",
   "clusterDescription": "Install, maintain and service plant and equipment",
-  "createdDate": "2024-10-30T17:56:45 +00:00",
+  "createdDate": "2024-12-11T11:26:38 +00:00",
   "lastUpdated": "2024-12-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-05-24T00:00:00 +00:00",
   "occupationCode": "OCC0499",
@@ -352,17 +352,17 @@
   "qualifications": [
     {
       "qualificationId": "2033430a-7c2c-485c-8ad7-d1b636e718ce",
-      "title": "IMI Level 3 Award in Automotive Refrigerant Handling (EC842-2006) (VRQ)  or another accredited organisation who offer this qualification (or an equivalent qualification that a European Union (EU) member state recognises)",
+      "title": "Level 3 qualification for F-Gas handler for air-conditioning in motor vehicles in accordance with (EU) 517/2014 regulations (or an equivalent qualification that a European Union (EU) member state recognises)",
       "level": "3",
-      "anyAdditionalInformation": "20 GLH short course and is a regulatory requirement to work on refrigerant systems.  ",
+      "anyAdditionalInformation": "",
       "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
     {
       "qualificationId": "7fe7e00a-33b8-4fe3-98ef-35ffb269d2d4",
-      "title": "IMI Level 2 Award in Electric/Hybrid Vehicle Routine Maintenance Activities or another accredited organisation who offer this qualification ",
+      "title": "Level 2 qualification for safe isolation of electric and hybrid vehicles ",
       "level": "2",
-      "anyAdditionalInformation": "14 GLH. An apprentice would be disadvantaged in not having this qualification and is regulated by the Electricity at Work Act though the AB is requesting the qualification becomes mandated as a regulatory requirement.",
+      "anyAdditionalInformation": "",
       "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
@@ -371,6 +371,12 @@
     {
       "bodyName": "Institute of the Motor Industry (IMI)",
       "level": "Associate member",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "City and Guilds",
+      "level": "Digital Credential Framework",
       "isPartial": "full",
       "partialFreeText": ""
     }
@@ -1031,5 +1037,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-01-06T00:00:00"
+  "publishDate": "2024-12-09T00:00:00"
 }
