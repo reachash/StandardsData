@@ -122,7 +122,18 @@
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "options": [],
+  "options": [
+    {
+      "optionId": "f7d4ccc5-a952-486d-aeb0-fea85cb98293",
+      "title": "Risk Analyst",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "22200f8a-41bf-4f64-b276-e1738ba6ec92",
+      "title": "Technologist",
+      "occupationCode": ""
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
