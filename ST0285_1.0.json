@@ -85,7 +85,7 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Media, Broadcast and Production",
-  "cluster": "Media and broadcast assistant",
+  "cluster": "Media and Broadcast Assistant",
   "clusterId": "42",
   "clusterDescription": "Production and distribution of media content using communications, archive and visual technology",
   "createdDate": "2017-09-22T14:24:30 +00:00",
@@ -97,7 +97,23 @@
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "options": [],
+  "options": [
+    {
+      "optionId": "c9408c2d-4f5e-42c7-8f83-5699d6d1bc2b",
+      "title": "Print & Associated Digital Platforms",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "feb01a83-d0fd-4db8-9128-8d7e8471dd0c",
+      "title": "Public Relations (PR), Corporate Communications & Associated Digital Platforms",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "87e2ee0b-b679-4542-8147-b9c4a303cd0f",
+      "title": "TV/Radio & Associated Digital Platforms",
+      "occupationCode": ""
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
