@@ -63,10 +63,10 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, manufacturing, process and control",
+  "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing operative",
   "clusterId": "264",
-  "clusterDescription": "Routine assembly of manufactured products",
+  "clusterDescription": null,
   "createdDate": "2017-11-14T17:09:01 +00:00",
   "lastUpdated": "2019-05-13T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
@@ -76,7 +76,23 @@
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "options": [],
+  "options": [
+    {
+      "optionId": "1e75e5c7-f56d-4493-8b68-05296c503a49",
+      "title": "Batch & Furnace Operator",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "062265a4-52df-4f40-8857-9dd44785a120",
+      "title": "Flat Glass Process Operator",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "af1c8a0e-f934-4106-9b14-202d5dab0694",
+      "title": "Hot End Machine Operator",
+      "occupationCode": ""
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
