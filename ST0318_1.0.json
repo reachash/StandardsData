@@ -81,8 +81,8 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Maintenance, installation and repair",
-  "cluster": "Service, repair and/or overhaul operative or technician",
+  "pathway": "Maintenance, Installation & Repair",
+  "cluster": "Service, Repair and/or Overhaul Operative/Technician",
   "clusterId": "19",
   "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2020-10-02T13:47:35 +00:00",
@@ -94,7 +94,43 @@
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "options": [],
+  "options": [
+    {
+      "optionId": "beb958e3-dcc5-4f4f-a058-859eb558cdff",
+      "title": "Electrification",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "8fcec081-1216-4631-8598-a5e5455ea2cb",
+      "title": "Overhead Lines",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "c16d5473-d787-41bc-a9bf-edacd0faf7f9",
+      "title": "Rail Systems",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "56effc69-5197-40d2-aa02-55eb93ed797e",
+      "title": "Signalling",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "4bb30db3-f587-48f5-b65e-b0fe161ffd0c",
+      "title": "Telecoms",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "4614dc98-0cbd-4228-9d6a-bf76d05eedb8",
+      "title": "Track",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "64b808e0-0fd6-4911-af65-74661ae38e88",
+      "title": "Traction & Rolling Stock",
+      "occupationCode": ""
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
