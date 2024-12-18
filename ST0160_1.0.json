@@ -423,8 +423,8 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Maintenance, installation and repair",
-  "cluster": "Manufacturing or process maintenance operative or technician",
+  "pathway": "Maintenance, Installation & Repair",
+  "cluster": "Manufacturing/Process Maintenance Operative/Technician",
   "clusterId": "71",
   "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2017-09-22T14:24:33 +00:00",
@@ -436,7 +436,33 @@
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "options": [],
+  "options": [
+    {
+      "optionId": "dda5dae0-312d-4dd4-8085-14c7c739e9e8",
+      "title": "Water Treatment: Process Technician",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "98db6566-bcef-4492-bd54-4ba30536ff23",
+      "title": "Water Distribution: Network Technician",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "8f6a4f9a-047f-4913-b33f-f41cf8285117",
+      "title": "Water Distribution: Leakage Technician",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "c1ee7109-3743-4855-aec9-3a8c3daaf1b2",
+      "title": "Waste Water: Sewerage Network Technician",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "52b97439-9139-452c-80a6-5ce6754abb89",
+      "title": "Waste Water: Treatment Technician",
+      "occupationCode": ""
+    }
+  ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [
     {
