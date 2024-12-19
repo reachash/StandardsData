@@ -7,16 +7,16 @@
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/364",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/production-chef-12",
   "versionNumber": "",
-  "change": "",
-  "changedDate": "2024-11-14T00:00:00",
-  "earliestStartDate": null,
+  "change": "Occupational standard, end-point assessment and funding band revised",
+  "changedDate": "2024-12-18T00:00:00",
+  "earliestStartDate": "2025-04-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Working as part of a team in kitchen environments.",
   "level": 2,
   "ePALength": 3,
   "typicalDuration": 12,
-  "maxFunding": 0,
+  "maxFunding": 7000,
   "route": "Catering and hospitality",
   "keywords": [
     "catering",
@@ -308,7 +308,7 @@
   "clusterId": "18",
   "clusterDescription": "Preparation and cooking of food through to the management of either part of or the whole kitchen",
   "createdDate": "2024-11-14T11:42:40 +00:00",
-  "lastUpdated": "2024-11-14T00:00:00 +00:00",
+  "lastUpdated": "2024-12-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-10-11T00:00:00 +00:00",
   "occupationCode": "OCC0589",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/production-chef-in-revision?view=standard#OccupationalStandard",
@@ -687,5 +687,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2024-11-14T00:00:00"
+  "publishDate": "2025-04-01T00:00:00"
 }
