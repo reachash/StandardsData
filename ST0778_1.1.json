@@ -1,5 +1,5 @@
 {
-  "templateType": "Structured Apprenticeship Standard",
+  "templateType": "Occupational Standard",
   "larsCode": 465,
   "referenceNumber": "ST0778",
   "title": "Environmental practitioner (Degree)",
@@ -9,7 +9,7 @@
   "versionNumber": "1.1",
   "change": "Standard, end-point assessment plan revised",
   "changedDate": "2023-02-21T00:00:00",
-  "earliestStartDate": "2023-01-03T00:00:00",
+  "earliestStartDate": "2023-03-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing employers with a high level of professional environmental expertise.",
@@ -28,7 +28,7 @@
   ],
   "jobRoles": [],
   "entryRequirements": "&lt;p&gt;Entry requirements will be decided by individual employers and with the training provider. Candidates might have three A-levels, equivalent relevant Level 3 qualifications, or will have successfully completed a relevant Level 3 Technician Apprenticeship. Candidates will need to be numerate and show a willingness to improve their numerical and mathematical capability. This is a degree (level 6) apprenticeship, and all candidates must complete an appropriately professionally approved or accredited environmental degree throughout which they will need to demonstrate their mathematical and numeracy capability beyond level 2 throughout their Apprenticeship.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4ttjyjyl/st0778_environmental_practitioner_121124.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/cwbcjoya/st0778_environmental_practitioner-epa-v11-231224.pdf",
   "ssa1": "3 Agriculture, Horticulture and Animal Care",
   "ssa2": "3.4 Environmental conservation",
   "version": "1.1",
@@ -180,10 +180,10 @@
   },
   "approvedForDelivery": "2019-06-14T00:00:00 +00:00",
   "integratedApprenticeship": null,
-  "integration": null,
+  "integration": "None",
   "integratedDegree": "integrated degree",
   "tbReference": "TB0342",
-  "tbMainContact": "Caroline@TACApprentices.org.uk",
+  "tbMainContact": "csudworth@acenet.co.uk",
   "involvedEmployers": "WSP, Waterman Group, Mott MacDonald, Technical Apprenticeship Consortium (TAC), AECOM, AgDevCo, Arcadis, ARUP, Atkins, Balfour Beatty, Capita, Jacobs, Costain, Environment Agency, ERM, Greengage, ITP Energised, Leicestershire County Council, Peter Brett, Stantec, TFL, Tideway, WYG, Bam Nuttall, Society for Environment, CIWEM, IEMA, RICS, IES, EIC (Environmental Industries Commission), Exeter University, University of Exeter, University of the West of England (UWE) in Bristol, UCLan, Kingston",
   "regulated": false,
   "regulatedBody": "",
@@ -195,8 +195,8 @@
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Environment professional",
   "clusterId": "24",
-  "clusterDescription": null,
-  "createdDate": "2022-12-20T08:45:51 +00:00",
+  "clusterDescription": "Use specialist environmental and/or ecological knowledge to manage diverse environments, providing professional support to organisations across all sectors",
+  "createdDate": "2024-12-24T14:05:58 +00:00",
   "lastUpdated": "2023-02-21T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-06-14T00:00:00 +00:00",
   "occupationCode": "OCC0778",
@@ -245,7 +245,7 @@
     },
     {
       "bodyName": "Society for the Environment (SocEnv)",
-      "level": "Registered Environmental Practitioner  (REnvP)",
+      "level": "Registered Environmental Practitioner  (REnvP). This standard meets the requirements of Registered Environmental Practitioner – REnvP Upon receipt of the apprenticeship certificate, individuals are eligible to apply for REnvP through a shortened application route. To be awarded this status individuals also need to be a member of a professional body that is licensed by the Society for the Environment to be awarded this status.  Further information is on the SocEnv website. ",
       "isPartial": "full",
       "partialFreeText": ""
     },
@@ -638,5 +638,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-02-21T00:00:00"
+  "publishDate": "2023-03-01T00:00:00"
 }
