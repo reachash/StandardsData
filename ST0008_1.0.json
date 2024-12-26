@@ -3,14 +3,14 @@
   "larsCode": 537,
   "referenceNumber": "ST0008",
   "title": "Leader in adult care",
-  "status": "Approved for delivery",
+  "status": "Retired",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/537",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/leader-in-adult-care-v10",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2023-01-04T00:00:00",
   "earliestStartDate": "2020-02-03T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2024-12-23T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Leading the care service and managing teams of carers to look after adults with care needs.",
   "level": 5,
@@ -264,7 +264,7 @@
   "pathway": "Care Services",
   "cluster": "Adult care manager",
   "clusterId": "145",
-  "clusterDescription": "Lead, coach, guide team members to deliver care to clients and client groups whilst also seeking to achieve a high level of self development usually based on a care specialism",
+  "clusterDescription": null,
   "createdDate": "2017-11-14T17:09:00 +00:00",
   "lastUpdated": "2023-01-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-02-03T00:00:00 +00:00",
@@ -279,5 +279,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-01-04T00:00:00"
+  "publishDate": "2024-12-23T00:00:00"
 }
