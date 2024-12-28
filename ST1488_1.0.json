@@ -260,17 +260,7 @@
       "detail": "Participate in team briefings, implementing instructions, and offering input or feedback where relevant. "
     }
   ],
-  "optionsUnstructuredTemplate": [
-    "Alcoholic Beverage Service",
-    "Barista",
-    "Concierge & Guest\u00A0Services",
-    "Conference & Events Operations",
-    "Food & Beverage Service",
-    "Food Production",
-    "Reception",
-    "Reservations",
-    "House Keeping"
-  ],
+  "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
   "standardPublished": "true",
@@ -689,68 +679,7 @@
   ],
   "options": [],
   "regulationDetail": [],
-  "optionsUnstructuredKsbMapping": [
-    {
-      "coreOrOptionTitle": "Core",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Alcoholic Beverage Service",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Barista",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Concierge & Guest\u00A0Services",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Conference & Events Operations",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Food & Beverage Service",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Food Production",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Reception",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Reservations",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "House Keeping",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    }
-  ],
+  "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": false,
   "publishDate": "2024-12-18T00:00:00"
