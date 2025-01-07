@@ -3,12 +3,12 @@
   "larsCode": 283,
   "referenceNumber": "ST0499",
   "title": "Autocare technician",
-  "status": "Approved for delivery",
+  "status": "Retired",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/283",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/autocare-technician-11",
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised",
-  "changedDate": "2022-10-31T00:00:00",
+  "changedDate": "2025-01-06T00:00:00",
   "earliestStartDate": "2022-10-31T00:00:00",
   "latestStartDate": "2025-01-05T00:00:00",
   "latestEndDate": null,
@@ -188,7 +188,7 @@
   "clusterId": "19",
   "clusterDescription": null,
   "createdDate": "2022-10-31T15:50:19 +00:00",
-  "lastUpdated": "2022-10-31T00:00:00 +00:00",
+  "lastUpdated": "2025-01-06T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-05-24T00:00:00 +00:00",
   "occupationCode": "OCC0499",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/autocare-technician-v1-1?view=standard#OccupationalStandard",
@@ -201,5 +201,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-01-05T00:00:00"
+  "publishDate": "2025-01-06T00:00:00"
 }
