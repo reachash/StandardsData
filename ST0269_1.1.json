@@ -3,12 +3,12 @@
   "larsCode": 385,
   "referenceNumber": "ST0269",
   "title": "Hire controller (plant, tools and equipment)",
-  "status": "In development",
+  "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/385",
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/hire-controller-plant-tools-and-equipment-11",
-  "versionNumber": "",
+  "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised",
-  "changedDate": "2024-12-12T00:00:00",
+  "changedDate": "2025-01-07T00:00:00",
   "earliestStartDate": "2025-01-06T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -29,7 +29,7 @@
     "Hire controller"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/hire-controller-plant-tools-and-equipment-in-revision?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/hire-controller-plant-tools-and-equipment-v1-1?view=epa",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.2 Administration",
   "version": "1.1",
@@ -247,7 +247,7 @@
     "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2018-12-04T00:00:00 +00:00",
   "integratedApprenticeship": null,
   "integration": "None",
   "integratedDegree": "",
@@ -268,11 +268,11 @@
   "clusterId": "1",
   "clusterDescription": "Use of heavy plant and equipment on surface construction sites and also specialist sites e.g. highways, tunnelling. Also the ability to undertake specialist construction work e.g. handling insulation, asbestos. Interprets drawings, plans and specifications along with methods and risk statement",
   "createdDate": "2024-12-12T12:02:55 +00:00",
-  "lastUpdated": "2024-12-12T00:00:00 +00:00",
+  "lastUpdated": "2025-01-07T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-12-04T00:00:00 +00:00",
   "occupationCode": "OCC0269",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/hire-controller-plant-tools-and-equipment-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/hire-controller-plant-tools-and-equipment-in-revision",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/hire-controller-plant-tools-and-equipment-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/hire-controller-plant-tools-and-equipment-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -581,5 +581,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-01-06T00:00:00"
+  "publishDate": "2025-01-07T00:00:00"
 }
