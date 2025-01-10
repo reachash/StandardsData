@@ -5,10 +5,10 @@
   "title": "Machine Learning Engineer",
   "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/machine-learning-engineer-10",
+  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC1398-v1-0",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2024-12-18T00:00:00",
+  "changedDate": "2025-01-10T00:00:00",
   "earliestStartDate": "2024-12-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -33,9 +33,9 @@
     "Machine learning operations engineer"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/machine-learning-engineer-v1-0?view=epa",
-  "ssa1": "6 Information and Communication Technology (ICT)",
-  "ssa2": "6.1 ICT practitioners",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1398-v1-0?view=epa",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
   "version": "1.0",
   "standardInformation": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in a wide range of public and private sector organisations who increasingly work with machine learning (ML) systems and AI automation that can serve all industries and sectors such as agriculture, environmental and animal care, business and administration, care services, catering and hospitality, construction and the built environment, creative &amp;amp; design, digital, education, engineering &amp;amp; manufacturing, health and science, legal, finance and accounting, protective services, sales, marketing and procurement, transport and logistics.&lt;/p&gt;\n&lt;p&gt;ML Engineers gather data from different sources to design, build, deploy and validate machine learning and or artificial intelligence solutions. They ensure that data is sourced responsibly and analysed to a high standard, aligning the use of ML solutions with the organisations business goals. They build ML models in an innovative, safe and sustainable way, selecting features that will help the model learn effectively by using the right algorithm for the task. Once the ML model is trained, they evaluate its performance and deploy it into the live environment. They streamline the process of taking ML models into production, and then maintain and monitor them. Continuous monitoring is essential to maintain the ML models accuracy. They manage the lifecycle of ML systems &amp;amp; models from initial deployment, to testing and updating of the next iteration, using industry best practice and frameworks to ensure fast, simple and reliable ML pipelines. They would identify as AI professionals, conversant in operating in settings of technical complexity and uncertainty. They can interface effectively across the organisation to communicate the correctness of their engineered technical solutions.&lt;/p&gt;\n&lt;p&gt;A ML engineer will work with a variety of professionals who work together to facilitate the successful development, deployment and adoption of ML systems and models, working with minimal supervision, ensuring they are meeting deadlines and interacting with Data Scientists for analytical guidance, Data Engineers for data preparation, Software Engineers for integration, Product Managers for product strategy, QA Engineers for testing, DevOps Engineers for deployment, UI/UX Designers for user interface design, Business Analysts for requirement analysis and stakeholders or clients for feedback and updates.&amp;nbsp; They typically report to either the Senior ML Operations Engineer, Product Manager ML, AI Specialist, AI Engineering Manager or Client.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;A ML engineer will provide clear technical support communicating complex information to stakeholders and across the organisation inputting into systems documentation, with details around risks and potential mitigation actions in line with the correct organisational standards. They are responsible for meeting quality requirements and working in accordance with health and safety and environmental considerations. They will work according to organisational procedures and policies, to maintain security and compliance and be responsible for ensuring compliance with data governance, ethics, environmental, sustainability and security policies.&lt;/p&gt;",
@@ -363,11 +363,11 @@
   "clusterId": "233",
   "clusterDescription": "Provide and implement data technology enabled solutions to support internal and external customers.",
   "createdDate": "2024-12-24T09:19:23 +00:00",
-  "lastUpdated": "2024-12-18T00:00:00 +00:00",
+  "lastUpdated": "2025-01-10T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-12-18T00:00:00 +00:00",
   "occupationCode": "OCC1398",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/machine-learning-engineer-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/machine-learning-engineer-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1398-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1398-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -601,5 +601,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-12-18T00:00:00"
+  "publishDate": "2025-01-10T00:00:00"
 }
