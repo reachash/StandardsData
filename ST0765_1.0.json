@@ -5,10 +5,10 @@
   "title": "Harbour master",
   "status": "Retired",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/527",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/harbour-master",
+  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC0765-v1-0",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-08-26T00:00:00",
+  "changedDate": "2025-01-10T00:00:00",
   "earliestStartDate": "2019-12-18T00:00:00",
   "latestStartDate": "2024-11-12T00:00:00",
   "latestEndDate": null,
@@ -470,11 +470,11 @@
   "clusterId": "231",
   "clusterDescription": null,
   "createdDate": "2021-08-27T11:03:52 +00:00",
-  "lastUpdated": "2021-08-26T00:00:00 +00:00",
+  "lastUpdated": "2025-01-10T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-12-18T00:00:00 +00:00",
   "occupationCode": "OCC0765",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/harbour-master-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/harbour-master-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0765-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0765-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -870,5 +870,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-11-12T00:00:00"
+  "publishDate": "2025-01-10T00:00:00"
 }
