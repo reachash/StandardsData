@@ -3,14 +3,14 @@
   "larsCode": 636,
   "referenceNumber": "ST0938",
   "title": "Livestock unit technician",
-  "status": "Approved for delivery",
+  "status": "Retired",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/636",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/livestock-unit-technician-v1-1",
+  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC0938-v1-1",
   "versionNumber": "1.1",
   "change": "Occupational standard and end-point assessment plan revised",
-  "changedDate": "2024-11-18T00:00:00",
+  "changedDate": "2025-01-07T00:00:00",
   "earliestStartDate": "2024-11-18T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2025-01-06T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Manage the livestock related tasks on the farm.",
   "level": 3,
@@ -247,13 +247,13 @@
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Agricultural operative or technician",
   "clusterId": "143",
-  "clusterDescription": "Undertake largely routine arable and livestock tasks with some specialisation in either area",
+  "clusterDescription": null,
   "createdDate": "2024-11-18T15:55:41 +00:00",
-  "lastUpdated": "2024-11-18T00:00:00 +00:00",
+  "lastUpdated": "2025-01-07T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-06-29T00:00:00 +00:00",
   "occupationCode": "OCC0938",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/livestock-unit-technician-v1-1?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/livestock-unit-technician-v1-1",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0938-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0938-v1-1",
   "qualifications": [
     {
       "qualificationId": "f655021a-2677-47f9-8c9b-ba80b14d5e82",
@@ -565,5 +565,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-11-18T00:00:00"
+  "publishDate": "2025-01-07T00:00:00"
 }
