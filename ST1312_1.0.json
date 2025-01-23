@@ -271,10 +271,10 @@
   "cluster": "Legal technician",
   "clusterId": "250",
   "clusterDescription": null,
-  "createdDate": "2024-11-11T10:52:45 +00:00",
+  "createdDate": "2025-01-21T15:07:32 +00:00",
   "lastUpdated": "2024-01-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-01-03T00:00:00 +00:00",
-  "occupationCode": "",
+  "occupationCode": "OCC1312",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1312-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1312-v1-0",
   "qualifications": [
@@ -696,14 +696,14 @@
   ],
   "options": [
     {
-      "optionId": "93607c4c-0d22-49f8-b03b-d0896896bd68",
+      "optionId": "5da5b6fa-3e9a-474d-893f-c88f6f4dc728",
       "title": "conveyancing technician",
-      "occupationCode": "OCC1312A"
+      "occupationCode": ""
     },
     {
-      "optionId": "80353718-c581-49fe-958d-3e005077ec83",
+      "optionId": "b8d4e252-945d-44a3-adc2-6d98a5476a69",
       "title": "probate technician",
-      "occupationCode": "OCC1312B"
+      "occupationCode": ""
     }
   ],
   "regulationDetail": [],
