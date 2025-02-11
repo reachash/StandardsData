@@ -30,12 +30,12 @@
     "Country"
   ],
   "jobRoles": [
+    "Assistant rangers",
     "Field team member",
-    "Assistant Rangers",
     "Waterways worker"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3533/st0767_water_environment_worker_l3_ap-for-publication_30092019.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/fjuow4th/st0767-water-environment-worker-epa-060225.pdf",
   "ssa1": "3 Agriculture, Horticulture and Animal Care",
   "ssa2": "3.4 Environmental conservation",
   "version": "1.0",
@@ -512,18 +512,18 @@
   "regulatedBody": "",
   "coreAndOptions": true,
   "typicalJobTitles": [
+    "Assistant rangers",
     "Field team member",
-    "Assistant Rangers",
     "Waterways worker"
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": null,
-  "cluster": null,
-  "clusterId": null,
-  "clusterDescription": null,
-  "createdDate": "2019-08-09T07:39:16 +00:00",
+  "pathway": "Agriculture, Land Management and Production",
+  "cluster": "Environment specialist",
+  "clusterId": "158",
+  "clusterDescription": "Manage and promote diverse environments, engaging with a range of stakeholders",
+  "createdDate": "2025-02-10T12:43:14 +00:00",
   "lastUpdated": "2019-09-30T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-09-30T00:00:00 +00:00",
   "occupationCode": "",
@@ -536,7 +536,12 @@
       "level": "2",
       "anyAdditionalInformation": "",
       "qualificationEpaIntegration": "",
-      "mappedOptions": []
+      "mappedOptions": [
+        {
+          "title": "Core",
+          "optionID": "core"
+        }
+      ]
     },
     {
       "qualificationId": "75cc8839-01c5-4e08-892c-9bb5fff38e4c",
@@ -544,7 +549,12 @@
       "level": "2",
       "anyAdditionalInformation": "",
       "qualificationEpaIntegration": "",
-      "mappedOptions": []
+      "mappedOptions": [
+        {
+          "title": "Core",
+          "optionID": "core"
+        }
+      ]
     },
     {
       "qualificationId": "9557b76e-424e-4152-9dd4-a2a85f47b569",
@@ -552,7 +562,12 @@
       "level": "2",
       "anyAdditionalInformation": "",
       "qualificationEpaIntegration": "",
-      "mappedOptions": []
+      "mappedOptions": [
+        {
+          "title": "Core",
+          "optionID": "core"
+        }
+      ]
     },
     {
       "qualificationId": "c93a218d-5d88-4134-aca9-65a9ca93220e",
@@ -560,7 +575,12 @@
       "level": "2",
       "anyAdditionalInformation": "",
       "qualificationEpaIntegration": "",
-      "mappedOptions": []
+      "mappedOptions": [
+        {
+          "title": "Core",
+          "optionID": "core"
+        }
+      ]
     },
     {
       "qualificationId": "c523ef30-d81d-439a-82e5-c119cd4dd6e3",
@@ -568,7 +588,12 @@
       "level": "2",
       "anyAdditionalInformation": "",
       "qualificationEpaIntegration": "",
-      "mappedOptions": []
+      "mappedOptions": [
+        {
+          "title": "Core",
+          "optionID": "core"
+        }
+      ]
     },
     {
       "qualificationId": "af0f9892-6fb0-4f5c-931a-787f33e32dcc",
@@ -576,7 +601,12 @@
       "level": "2",
       "anyAdditionalInformation": "",
       "qualificationEpaIntegration": "",
-      "mappedOptions": []
+      "mappedOptions": [
+        {
+          "title": "Core",
+          "optionID": "core"
+        }
+      ]
     },
     {
       "qualificationId": "caf39641-27b6-4cd8-9b2b-de7a4d291d64",
@@ -584,7 +614,12 @@
       "level": "2",
       "anyAdditionalInformation": "",
       "qualificationEpaIntegration": "",
-      "mappedOptions": []
+      "mappedOptions": [
+        {
+          "title": "Core",
+          "optionID": "core"
+        }
+      ]
     },
     {
       "qualificationId": "4b512d8b-06cd-435d-b023-43f8bfebd8a0",
@@ -592,7 +627,12 @@
       "level": "2",
       "anyAdditionalInformation": "",
       "qualificationEpaIntegration": "",
-      "mappedOptions": []
+      "mappedOptions": [
+        {
+          "title": "Core",
+          "optionID": "core"
+        }
+      ]
     },
     {
       "qualificationId": "f8bf51bb-f314-40d8-a54a-087aec8abc90",
@@ -600,7 +640,12 @@
       "level": "2",
       "anyAdditionalInformation": "",
       "qualificationEpaIntegration": "",
-      "mappedOptions": []
+      "mappedOptions": [
+        {
+          "title": "Core",
+          "optionID": "core"
+        }
+      ]
     },
     {
       "qualificationId": "f94fc794-00a9-40b3-8e9c-3cf80d9a32a3",
@@ -608,7 +653,12 @@
       "level": "2",
       "anyAdditionalInformation": "",
       "qualificationEpaIntegration": "",
-      "mappedOptions": []
+      "mappedOptions": [
+        {
+          "title": "Core",
+          "optionID": "core"
+        }
+      ]
     },
     {
       "qualificationId": "304f7c85-eb7d-4a45-9a82-284c1f9f3a8c",
@@ -616,7 +666,12 @@
       "level": "2",
       "anyAdditionalInformation": "",
       "qualificationEpaIntegration": "",
-      "mappedOptions": []
+      "mappedOptions": [
+        {
+          "title": "Core",
+          "optionID": "core"
+        }
+      ]
     },
     {
       "qualificationId": "0f4a5566-7995-4206-abe2-583fc3433ed1",
@@ -624,10 +679,22 @@
       "level": "2",
       "anyAdditionalInformation": "",
       "qualificationEpaIntegration": "",
-      "mappedOptions": []
+      "mappedOptions": [
+        {
+          "title": "Core",
+          "optionID": "core"
+        }
+      ]
     }
   ],
-  "professionalRecognition": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "Society for the Environment",
+      "level": "Registered Environmental Technician - REnvTech. Upon receipt of the apprenticeship certificate, individuals are eligible to apply for REnvTech through a shortened application route, recognising that the competency requirements have been met.  To be awarded this status, individuals also need to be a member of a professional body that is licensed by the Society for the Environment.  Further information is on the SocEnv website.",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
   "duties": [
     {
       "dutyID": "4acfd3f5-e529-4bff-9b92-3b1c8628d238",
