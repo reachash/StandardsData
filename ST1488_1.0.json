@@ -260,7 +260,17 @@
       "detail": "Participate in team briefings, implementing instructions, and offering input or feedback where relevant. "
     }
   ],
-  "optionsUnstructuredTemplate": [],
+  "optionsUnstructuredTemplate": [
+    "Alcoholic Beverage Service",
+    "Barista",
+    "Concierge & Guest\u00A0Services",
+    "Conference & Events Operations",
+    "Food & Beverage Service",
+    "Food Production",
+    "Reception",
+    "Reservations",
+    "House Keeping"
+  ],
   "proposalApproved": "",
   "standardApproved": "",
   "standardPublished": "true",
@@ -295,10 +305,10 @@
   "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Hospitality",
-  "cluster": "Hospitality Team Member/Supervisor",
+  "cluster": "Hospitality team member or supervisor",
   "clusterId": "78",
   "clusterDescription": "Preparation and serving food and drinks, taking and managing bookings, and managing events",
-  "createdDate": "2024-12-18T13:27:43 +00:00",
+  "createdDate": "2025-02-18T08:35:52 +00:00",
   "lastUpdated": "2024-12-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-12-18T00:00:00 +00:00",
   "occupationCode": "OCC1488",
@@ -679,7 +689,68 @@
   ],
   "options": [],
   "regulationDetail": [],
-  "optionsUnstructuredKsbMapping": [],
+  "optionsUnstructuredKsbMapping": [
+    {
+      "coreOrOptionTitle": "Core",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Alcoholic Beverage Service",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Barista",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Concierge & Guest\u00A0Services",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Conference & Events Operations",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Food & Beverage Service",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Food Production",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Reception",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Reservations",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "House Keeping",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    }
+  ],
   "careerStarter": true,
   "coronationEmblem": false,
   "publishDate": "2024-12-18T00:00:00"
