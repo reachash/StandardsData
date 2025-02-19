@@ -10,7 +10,7 @@
   "change": "Funding band revised",
   "changedDate": "2024-04-19T00:00:00",
   "earliestStartDate": "2023-06-26T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2025-06-01T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Preparing food and basic cooking tasks in a kitchen under the supervision. \n\n",
   "level": 2,
@@ -332,7 +332,7 @@
   "pathway": "Catering",
   "cluster": "Caterer",
   "clusterId": "18",
-  "clusterDescription": null,
+  "clusterDescription": "Preparation and cooking of food through to the management of either part of or the whole kitchen",
   "createdDate": "2023-06-26T09:34:21 +00:00",
   "lastUpdated": "2024-04-19T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-04-27T00:00:00 +00:00",
@@ -804,5 +804,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2024-04-19T00:00:00"
+  "publishDate": "2025-06-01T00:00:00"
 }
