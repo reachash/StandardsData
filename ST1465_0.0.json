@@ -1,0 +1,393 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 0,
+  "referenceNumber": "ST1465",
+  "title": "Investment financial services professional",
+  "status": "Proposal in development",
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/0",
+  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/-v0-0",
+  "versionNumber": "",
+  "change": "",
+  "changedDate": "0001-01-01T00:00:00",
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "",
+  "level": 6,
+  "ePALength": 0,
+  "typicalDuration": 36,
+  "maxFunding": 0,
+  "route": "Legal, finance and accounting",
+  "keywords": [],
+  "jobRoles": [
+    "Investment analyst",
+    "Investment banker",
+    "Investment manager",
+    "Investment operations leader",
+    "Trading analyst",
+    "Wealth manager"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1465?view=epa",
+  "ssa1": "15 Business, Administration, Finance and Law",
+  "ssa2": "15.1 Accounting and finance",
+  "version": "0.0",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for&lt;/p&gt;",
+  "knowledges": [],
+  "behaviours": [],
+  "skills": [],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "false",
+  "epaApprovalDate": "",
+  "epaPublished": "false",
+  "fundingApprovalDate": "",
+  "eQAProvider": null,
+  "approvedForDelivery": "",
+  "integratedApprenticeship": true,
+  "integration": "Degree-apprenticeship",
+  "integratedDegree": "integrated degree",
+  "tbReference": "TB0901",
+  "tbMainContact": "helen.dalton@education.gov.uk",
+  "involvedEmployers": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": true,
+  "typicalJobTitles": [
+    "Investment analyst",
+    "Investment banker",
+    "Investment manager",
+    "Investment operations leader",
+    "Trading analyst",
+    "Wealth manager"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Financial",
+  "cluster": "Financial services professional",
+  "clusterId": "243",
+  "clusterDescription": "Provide high quality advice and support to internal and external clients across a full range of financial instruments and services using specialist knowledge of instruments and services supported and areas of the business worked in",
+  "createdDate": "2024-09-06T07:50:24 +00:00",
+  "lastUpdated": "",
+  "occupationalStandardApprovalDate": null,
+  "occupationCode": "",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1465?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1465",
+  "qualifications": [
+    {
+      "qualificationId": "1ebf4fa2-1b71-4bb5-8699-362592174fc0",
+      "title": "xxxxxxxxxxx",
+      "level": "6 (integrated degree)",
+      "anyAdditionalInformation": "xxxxxxxxxxx",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": [
+        {
+          "title": "Core",
+          "optionID": "core"
+        },
+        {
+          "title": "Investment banking professional",
+          "optionID": "9f1b9c91-f61f-4b4c-8aa2-e1fe9cd9b603"
+        },
+        {
+          "title": "Investment Management professional",
+          "optionID": "cba16e59-59cd-4d4e-a0cd-7cb00e89a1cc"
+        },
+        {
+          "title": "Investment operations ",
+          "optionID": "cd9361dc-96c5-4518-a9e3-a2471f475d1f"
+        }
+      ]
+    }
+  ],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "52ba2c5c-6ae3-46d5-999b-a5570e2d9439",
+      "dutyDetail": "Identify stakeholder investment needs and risk appetite to enable the best service to be provided such as banking solutions, investment management strategies or trading opportunities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "05ae9de8-853c-4bde-a3ba-b28f62325ff0",
+      "dutyDetail": "Use specialised financial acumen relevant to the investment team to provide flexible and innovative financial investment solutions for stakeholders such as clients, customers, internal colleagues or external bodies.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "21f3432e-6b52-4c76-b72e-7bc1db944a0b",
+      "dutyDetail": "Assess and monitor the impact of investment services solutions for stakeholders being accountable for the outcomes of any guidance or recommendations given.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "26c24fe2-d192-4a0e-b485-48d77440448c",
+      "dutyDetail": "Collaborate with internal and, or, external stakeholders, subject matter experts and specialists within the investment services sector in order to build strong working relations to drive up performance and quality of service.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "83b11294-f1b2-4491-8719-52402dbca477",
+      "dutyDetail": "Provide expertise and support to internal and, or, external stakeholders to meet organisational service requirements and those of the wider financial services regulatory landscape.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dd653c44-7189-45be-9d13-10a508bf315b",
+      "dutyDetail": "Select, gather, evaluate and analyse financial qualitative and quantitative data appropriate to stakeholder needs such as feedback reports, portfolio and product performance metrics, cost reduction  or cost avoidance options, efficiency gains opportunities, client or product pricing or revenue generation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cea0fcc0-d760-4e5b-8f58-d324e3eecfa5",
+      "dutyDetail": "Deliver investment services activities against individual and team performance measures such as revenue generation, efficiency savings or return on capital targets.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8bbd773f-0bcc-4191-a3aa-f870aa30eee9",
+      "dutyDetail": "Deliver investment services activities within regulatory and compliance requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "24a09011-7de5-450d-9859-e01f418a372d",
+      "dutyDetail": "Engage with stakeholders to network across the organisation to help embed a cohesive culture.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1407c3e2-b6a5-493c-9b8e-53535c6b09d7",
+      "dutyDetail": "Collaborate with senior team members such as high value stakeholder leads or subject matter experts to deliver investment activities such as xxxxxxxx  ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ebc9a6d9-d0a0-4e9b-8d8e-14ce31d96edf",
+      "dutyDetail": "Communicate complex investment and financial information to stakeholders to ensure mutual understanding of opportunities, risks and mitigations such as changes to trade flows, pricing, payments, regulatory changes and their impacts on investments and stakeholders.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "05fefb0a-2ff0-42c5-9d16-411554aeb612",
+      "dutyDetail": "Plan and undertake continuous professional development within the Investment sector by maintaining current sectorial knowledge.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "03963906-a987-464e-b973-976611f74842",
+      "dutyDetail": "Contribute to identifying and rectifying areas for improvement in investment activities within the organisation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "574368b4-ffd6-4642-b96d-0bb5f57017a2",
+      "dutyDetail": "Support clients with account planning and financial advice to aid the implementation of financial and investment solutions that meet their needs and risk appetite such as pitch books and the delivery of investment pitches to stakeholders. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [
+        "9f1b9c91-f61f-4b4c-8aa2-e1fe9cd9b603"
+      ],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c653534e-b723-496f-a37c-aee28babc71b",
+      "dutyDetail": "Use financial modelling and apply risk management tools to support stakeholder investment decision making",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [
+        "9f1b9c91-f61f-4b4c-8aa2-e1fe9cd9b603"
+      ],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "88e64ab7-a6c3-48b3-ad63-9732a8e8288e",
+      "dutyDetail": "use market data to develop, research and contribute to the creation of strategic materials for teams and clients.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [
+        "9f1b9c91-f61f-4b4c-8aa2-e1fe9cd9b603"
+      ],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7c4d414c-d431-4213-b1d0-7911d4d0d4af",
+      "dutyDetail": "Prepare and assist in preparation for stakeholder interactions such as gaining new clients, reviewing investment portfolios and handling complaints. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [
+        "cba16e59-59cd-4d4e-a0cd-7cb00e89a1cc"
+      ],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a6184223-cf48-4139-928d-b5f4e630b19c",
+      "dutyDetail": "Provide ongoing management and support for client solutions and investment strategies such as overseeing the performance of existing investments, monitoring key metrics, and implementing value-creation initiatives to optimize returns, real-time monitoring of trading activity and risk management of stakeholder liabilities to produce data and statistics to inform decision making on investments.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [
+        "cba16e59-59cd-4d4e-a0cd-7cb00e89a1cc"
+      ],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "329e8d1d-04d8-4a47-b846-f5f7c0603498",
+      "dutyDetail": "Research, analyse and suggest options for investment strategies for stakeholder needs such as pricing activities in real time or conducting market analysis.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [
+        "cba16e59-59cd-4d4e-a0cd-7cb00e89a1cc"
+      ],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6fd3fc02-e029-46c3-8789-88d5204f388f",
+      "dutyDetail": "Assist stakeholders with administrative duties such as uploading, recording, and executing trades.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [
+        "cba16e59-59cd-4d4e-a0cd-7cb00e89a1cc"
+      ],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "426021b4-364c-4020-8ad2-8896f79ac6e2",
+      "dutyDetail": "Manage the administration of Investment operations activities to ensure compliance with regulatory requirements and meet efficiency expectations.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [
+        "cd9361dc-96c5-4518-a9e3-a2471f475d1f"
+      ],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e0915e2e-8588-4e73-b937-acbed8a2f7cc",
+      "dutyDetail": "Contribute to ensuring that regulatory, compliance and commercial changes are rapidly and appropriately combined in live investment operation processes and procedures to ensure effective functioning of the organisation.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [
+        "cd9361dc-96c5-4518-a9e3-a2471f475d1f"
+      ],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9573b56b-a4ba-4df1-80fc-6e4c95fec211",
+      "dutyDetail": "Carry out stress tests and health checks on investment services processes and procedures to ensure that commercial outcomes are compliant and viable such as reconciliations, oversight of control frameworks performance and arising operational risks are identified.  ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [
+        "cd9361dc-96c5-4518-a9e3-a2471f475d1f"
+      ],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5cab56f5-ce55-4df9-a153-8a93ba7251d9",
+      "dutyDetail": "Contribute to ensuring that the delivery of investment customer service outcomes to stakeholders is maintained and improved.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [
+        "cd9361dc-96c5-4518-a9e3-a2471f475d1f"
+      ],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "9f1b9c91-f61f-4b4c-8aa2-e1fe9cd9b603",
+      "title": "Investment banking professional",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "cba16e59-59cd-4d4e-a0cd-7cb00e89a1cc",
+      "title": "Investment Management professional",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "cd9361dc-96c5-4518-a9e3-a2471f475d1f",
+      "title": "Investment operations ",
+      "occupationCode": ""
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-09-06T07:50:24.98"
+}
