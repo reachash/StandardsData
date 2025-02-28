@@ -340,13 +340,13 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Craft and Design",
-  "cluster": "Heritage specialist",
+  "cluster": "Heritage Specialist",
   "clusterId": "182",
   "clusterDescription": "A specialist in using traditional hand craft skills to shape and sculpt natural materials.",
   "createdDate": "2017-09-22T14:24:44 +00:00",
   "lastUpdated": "2023-10-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-02-03T00:00:00 +00:00",
-  "occupationCode": "OCC0055",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0055-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0055-v1-0",
   "qualifications": [],
@@ -356,12 +356,12 @@
     {
       "optionId": "c95fbd57-25e7-451f-bd41-4c0cd263e7c9",
       "title": "Cutter",
-      "occupationCode": ""
+      "occupationCode": "OCC0055A"
     },
     {
       "optionId": "66397ce5-5335-4d1c-8ac9-33dd79471547",
       "title": "Tailor",
-      "occupationCode": ""
+      "occupationCode": "OCC0055B"
     }
   ],
   "regulationDetail": [],
