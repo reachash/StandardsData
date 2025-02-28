@@ -1059,13 +1059,13 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
-  "cluster": "Health assistant",
+  "cluster": "Health Assistant",
   "clusterId": "112",
   "clusterDescription": "Provide direct patient contact and caring undertaking routine well defined clinical duties",
   "createdDate": "2020-09-08T07:43:46 +00:00",
   "lastUpdated": "2018-10-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-10-31T00:00:00 +00:00",
-  "occupationCode": "OCC0217",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0217-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0217-v1-2",
   "qualifications": [],
@@ -1075,22 +1075,22 @@
     {
       "optionId": "3121e403-089c-4ecb-a6cd-4e13daa3cb2f",
       "title": "Adult nursing support",
-      "occupationCode": ""
+      "occupationCode": "OCC0217A"
     },
     {
       "optionId": "72365bf1-de6b-48fb-86dc-c4aaa1aeca79",
       "title": "Maternity support",
-      "occupationCode": ""
+      "occupationCode": "OCC0217D"
     },
     {
       "optionId": "6736d588-237a-439d-abda-775399d570b4",
       "title": "Theatre support",
-      "occupationCode": ""
+      "occupationCode": "OCC0217F"
     },
     {
       "optionId": "b278f018-8dea-4028-a6dc-49cdd8242ab8",
       "title": "Mental health support",
-      "occupationCode": ""
+      "occupationCode": "OCC0217E"
     },
     {
       "optionId": "dfb1e859-6dbd-404e-b5a9-69d4cae83a17",
