@@ -722,13 +722,13 @@
   "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Onsite Construction",
-  "cluster": "Core building tradesperson",
+  "cluster": "Core Building Tradesperson",
   "clusterId": "5",
   "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
   "createdDate": "2020-11-18T16:47:40 +00:00",
   "lastUpdated": "2023-05-24T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-07-31T00:00:00 +00:00",
-  "occupationCode": "OCC0414",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0414-v1-3?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0414-v1-3",
   "qualifications": [],
@@ -1228,27 +1228,27 @@
     {
       "optionId": "e2de59a2-bb48-4285-b4de-d70cf21aa3ec",
       "title": "Carpenter & Joiner",
-      "occupationCode": ""
+      "occupationCode": "OCC0414C"
     },
     {
       "optionId": "8151752e-e273-44e6-8b90-e0f6a05a8f79",
       "title": "Bricklayer & Concreter",
-      "occupationCode": ""
+      "occupationCode": "OCC0414A"
     },
     {
       "optionId": "613e34dd-ca21-47df-aac1-a0a97627ae58",
       "title": "Building & Structural Finisher",
-      "occupationCode": ""
+      "occupationCode": "OCC0414B"
     },
     {
       "optionId": "3f3feef1-7044-424c-9217-6be2228eb08d",
       "title": "Plumbing & Heating Engineer",
-      "occupationCode": ""
+      "occupationCode": "OCC0414E"
     },
     {
       "optionId": "05a859f9-2af9-40c3-8011-235c320712a6",
       "title": "Plant Operator & Mechanic",
-      "occupationCode": ""
+      "occupationCode": "OCC0414D"
     }
   ],
   "regulationDetail": [],
