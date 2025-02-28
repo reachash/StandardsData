@@ -474,14 +474,14 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Community exercise, physical activity, sport and health",
-  "cluster": "Exercise, fitness and health assistant",
+  "pathway": "Community Exercise, Physical Activity, Sport and Health",
+  "cluster": "Exercise, Fitness and Health Assistant",
   "clusterId": "214",
   "clusterDescription": "Initiate behaviour change and performance improvement to achieve a series of health and fitness goals for an individual or community. Usually working one-to-one or small groups",
   "createdDate": "2017-11-14T17:10:30 +00:00",
   "lastUpdated": "2022-11-17T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-05-07T00:00:00 +00:00",
-  "occupationCode": "OCC0524",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0524-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0524-v1-0",
   "qualifications": [],
@@ -491,22 +491,22 @@
     {
       "optionId": "d0921070-a2c0-40cb-92bd-b4cbe69a9463",
       "title": "Football",
-      "occupationCode": ""
+      "occupationCode": "OCC0524C"
     },
     {
       "optionId": "b3d8fb86-9b05-45ef-8fb7-8e95fcfe5c87",
       "title": "Cricket",
-      "occupationCode": ""
+      "occupationCode": "OCC0524A"
     },
     {
       "optionId": "ad7f48f8-0032-4ea4-8282-3221bdc5ce51",
       "title": "Rugby League",
-      "occupationCode": ""
+      "occupationCode": "OCC0524D"
     },
     {
       "optionId": "3d04d22a-83f2-433c-a294-573a6b3aeb01",
       "title": "Rugby Union",
-      "occupationCode": ""
+      "occupationCode": "OCC0524E"
     }
   ],
   "regulationDetail": [],
