@@ -74,14 +74,14 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Customer service",
-  "cluster": "Customer service assistant",
+  "pathway": "Customer Service",
+  "cluster": "Customer Service Assistant",
   "clusterId": "14",
   "clusterDescription": "Provide direct customer support by handling requests, complaints and queries and seeking to improve services through analysis",
   "createdDate": "2017-11-14T17:10:12 +00:00",
   "lastUpdated": "2022-02-21T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-02-18T00:00:00 +00:00",
-  "occupationCode": "OCC0594",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0594-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0594-v1-0",
   "qualifications": [],
@@ -91,12 +91,12 @@
     {
       "optionId": "99d54438-d648-4b1d-a905-9da6258471a8",
       "title": "Funeral Arrangers",
-      "occupationCode": ""
+      "occupationCode": "OCC0594A"
     },
     {
       "optionId": "5df612f9-3f65-4da4-8fd5-55a5e5b9f4aa",
       "title": "Funeral Operatives",
-      "occupationCode": ""
+      "occupationCode": "OCC0594B"
     }
   ],
   "regulationDetail": [],
