@@ -76,13 +76,13 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Hospitality",
-  "cluster": "Hospitality team member or supervisor",
+  "cluster": "Hospitality Team Member/Supervisor",
   "clusterId": "78",
   "clusterDescription": "Preparation and serving food and drinks, taking and managing bookings, and managing events",
   "createdDate": "2020-10-02T10:25:31 +00:00",
   "lastUpdated": "2019-06-30T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-09-07T00:00:00 +00:00",
-  "occupationCode": "OCC0230",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0230-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0230-v1-0",
   "qualifications": [],
@@ -92,7 +92,7 @@
     {
       "optionId": "e3791cb0-af6c-475b-ac9e-f462e42cc221",
       "title": "Bar Supervisor",
-      "occupationCode": ""
+      "occupationCode": "OCC0230A"
     },
     {
       "optionId": "92915c9d-fb91-40f4-ae77-cf166df5a6ed",
@@ -102,17 +102,17 @@
     {
       "optionId": "8aa45760-c0f9-4c28-81c2-ae9b9f47f652",
       "title": "Events Supervisor",
-      "occupationCode": ""
+      "occupationCode": "OCC0230C"
     },
     {
       "optionId": "0555356c-f472-4967-be52-04e7d51bbc45",
       "title": "Food & Beverage Supervisor",
-      "occupationCode": ""
+      "occupationCode": "OCC0230D"
     },
     {
       "optionId": "23b145a7-9b30-4221-be9f-eaaa5924b565",
       "title": "Front Office Supervisor",
-      "occupationCode": ""
+      "occupationCode": "OCC0230E"
     },
     {
       "optionId": "07856d83-e64e-4943-a984-51809d26f529",
