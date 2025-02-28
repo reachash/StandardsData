@@ -732,7 +732,7 @@
   "createdDate": "2022-09-23T10:44:08 +00:00",
   "lastUpdated": "2022-09-23T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-07-31T00:00:00 +00:00",
-  "occupationCode": "OCC0414",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0414-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0414-v1-2",
   "qualifications": [],
@@ -1232,27 +1232,27 @@
     {
       "optionId": "e2de59a2-bb48-4285-b4de-d70cf21aa3ec",
       "title": "Carpenter & Joiner",
-      "occupationCode": ""
+      "occupationCode": "OCC0414C"
     },
     {
       "optionId": "8151752e-e273-44e6-8b90-e0f6a05a8f79",
       "title": "Bricklayer & Concreter",
-      "occupationCode": ""
+      "occupationCode": "OCC0414A"
     },
     {
       "optionId": "613e34dd-ca21-47df-aac1-a0a97627ae58",
       "title": "Building & Structural Finisher",
-      "occupationCode": ""
+      "occupationCode": "OCC0414B"
     },
     {
       "optionId": "3f3feef1-7044-424c-9217-6be2228eb08d",
       "title": "Plumbing & Heating Engineer",
-      "occupationCode": ""
+      "occupationCode": "OCC0414E"
     },
     {
       "optionId": "05a859f9-2af9-40c3-8011-235c320712a6",
       "title": "Plant Operator & Mechanic",
-      "occupationCode": ""
+      "occupationCode": "OCC0414D"
     }
   ],
   "regulationDetail": [],
