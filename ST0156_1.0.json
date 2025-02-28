@@ -80,14 +80,14 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Maintenance, installation and repair",
-  "cluster": "Manufacturing or process maintenance operative or technician",
+  "pathway": "Maintenance, Installation & Repair",
+  "cluster": "Manufacturing/Process Maintenance Operative/Technician",
   "clusterId": "71",
   "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2020-10-02T09:21:36 +00:00",
   "lastUpdated": "2022-07-26T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2014-11-12T00:00:00 +00:00",
-  "occupationCode": "OCC0156",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0156-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0156-v1-0",
   "qualifications": [],
@@ -97,17 +97,17 @@
     {
       "optionId": "bb6fc3a0-e6c1-490a-aac7-78454349c14a",
       "title": "Overhead Lines",
-      "occupationCode": ""
+      "occupationCode": "OCC0156A"
     },
     {
       "optionId": "8615888b-f11f-45a8-9e6a-81c2e793dd96",
       "title": "Substation Fitting",
-      "occupationCode": ""
+      "occupationCode": "OCC0156B"
     },
     {
       "optionId": "7a870abc-dd3c-4e6e-911e-4ba03801fca9",
       "title": "Underground Cables",
-      "occupationCode": ""
+      "occupationCode": "OCC0156C"
     }
   ],
   "regulationDetail": [],
