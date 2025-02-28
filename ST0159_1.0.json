@@ -74,14 +74,14 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Maintenance, installation and repair",
-  "cluster": "Manufacturing or process maintenance operative or technician",
+  "pathway": "Maintenance, Installation & Repair",
+  "cluster": "Manufacturing/Process Maintenance Operative/Technician",
   "clusterId": "71",
   "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2020-09-07T14:33:15 +00:00",
   "lastUpdated": "2020-05-05T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-09-24T00:00:00 +00:00",
-  "occupationCode": "OCC0159",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0159-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0159-v1-0",
   "qualifications": [],
@@ -91,17 +91,17 @@
     {
       "optionId": "12189cd5-f38d-40fc-aba9-693a05c9800b",
       "title": "Electrical",
-      "occupationCode": ""
+      "occupationCode": "OCC0159A"
     },
     {
       "optionId": "5fdd98c4-67d1-482d-84c1-c8ff7cd527be",
       "title": "Instrumentation Control & Automation",
-      "occupationCode": ""
+      "occupationCode": "OCC0159B"
     },
     {
       "optionId": "81844252-8b89-46c6-8b3f-45af5ddff321",
       "title": "Mechanical",
-      "occupationCode": ""
+      "occupationCode": "OCC0159C"
     }
   ],
   "regulationDetail": [],
