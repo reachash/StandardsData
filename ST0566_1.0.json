@@ -285,14 +285,14 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, manufacturing, process and control",
-  "cluster": "Manufacturing operative",
+  "pathway": "Engineering, Manufacturing, Process and Control",
+  "cluster": "Manufacturing Operative",
   "clusterId": "264",
   "clusterDescription": "Routine assembly of manufactured products",
   "createdDate": "2017-11-14T17:10:32 +00:00",
   "lastUpdated": "2023-08-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-10-11T00:00:00 +00:00",
-  "occupationCode": "OCC0566",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0566-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0566-v1-0",
   "qualifications": [],
@@ -302,37 +302,37 @@
     {
       "optionId": "9b9d7495-a77a-4795-8c9b-c823361bd9d8",
       "title": "Pattern & Model Making Technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0566G"
     },
     {
       "optionId": "3bf0ff70-320d-44a4-95fd-39b432107134",
       "title": "Methods Development Technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0566F"
     },
     {
       "optionId": "8e882041-d80b-4d12-adc8-073cc44f6232",
       "title": "Foundry Material & Process Control Technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0566A"
     },
     {
       "optionId": "6f25a6e4-cd2d-4f45-b4f0-f1080269cadd",
       "title": "Foundry Production Technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0566C"
     },
     {
       "optionId": "73591aec-911e-4b0b-b81b-d8662afb6be8",
       "title": "Metal Casting Furnace and Ladle Technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0566E"
     },
     {
       "optionId": "62da83be-6015-4b46-a2ec-b6562b50af3d",
       "title": "Foundry Post Casting Technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0566B"
     },
     {
       "optionId": "3d5311f3-6d5a-47d8-8ed8-269129dd924c",
       "title": "Inspection & Quality Assurance Technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0566D"
     }
   ],
   "regulationDetail": [],
