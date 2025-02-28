@@ -83,14 +83,14 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Maintenance, installation and repair",
-  "cluster": "Service, repair and/or overhaul operative or technician",
+  "pathway": "Maintenance, Installation & Repair",
+  "cluster": "Service, Repair and/or Overhaul Operative/Technician",
   "clusterId": "19",
   "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2020-10-02T13:30:40 +00:00",
   "lastUpdated": "2021-06-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-09-07T00:00:00 +00:00",
-  "occupationCode": "OCC0067",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0067-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0067-v1-0",
   "qualifications": [],
@@ -100,22 +100,22 @@
     {
       "optionId": "8b2c27d9-cf08-4de7-9d7d-c2853a3269b5",
       "title": "Coach Builder",
-      "occupationCode": ""
+      "occupationCode": "OCC0067A"
     },
     {
       "optionId": "12d4cfce-63d8-43b8-a1bb-1ca95e8966a4",
       "title": "Electrical",
-      "occupationCode": ""
+      "occupationCode": "OCC0067B"
     },
     {
       "optionId": "1da1c2a1-b9e4-4d99-8549-e2acd7467be8",
       "title": "Mechanical",
-      "occupationCode": ""
+      "occupationCode": "OCC0067C"
     },
     {
       "optionId": "3a44c313-b0d0-4a63-bf6b-932c991281d1",
       "title": "Mechelec",
-      "occupationCode": ""
+      "occupationCode": "OCC0067D"
     }
   ],
   "regulationDetail": [],
