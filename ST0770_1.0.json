@@ -456,14 +456,14 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Community exercise, physical activity, sport and health",
-  "cluster": "Exercise, fitness and health specialist",
+  "pathway": "Community Exercise, Physical Activity, Sport and Health",
+  "cluster": "Exercise, Fitness and Health Specialist",
   "clusterId": "215",
   "clusterDescription": "Develop and deliver programmes which significantly enhance the performance of an individual or team",
   "createdDate": "2020-12-23T10:33:56 +00:00",
   "lastUpdated": "2022-11-17T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-02-15T00:00:00 +00:00",
-  "occupationCode": "OCC0770",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0770-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0770-v1-0",
   "qualifications": [],
@@ -856,17 +856,17 @@
     {
       "optionId": "6efb6427-4487-4c11-88a4-bc9b47d98fe8",
       "title": "High Performance Coach",
-      "occupationCode": ""
+      "occupationCode": "OCC0770B"
     },
     {
       "optionId": "1c96cfd3-b7de-4863-9aea-9043e0fca989",
       "title": "Community Coach",
-      "occupationCode": ""
+      "occupationCode": "OCC0770A"
     },
     {
       "optionId": "c0133fe2-1fb2-4a53-b645-220040193b28",
       "title": "School Coach",
-      "occupationCode": ""
+      "occupationCode": "OCC0770C"
     }
   ],
   "regulationDetail": [],
