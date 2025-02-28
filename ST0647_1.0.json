@@ -4,8 +4,8 @@
   "referenceNumber": "ST0647",
   "title": "Transport and warehouse operations supervisor",
   "status": "Retired",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/654",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC0647-v1-0",
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0647",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2021-08-12T00:00:00",
@@ -319,6 +319,7 @@
   "tbReference": "TB0355",
   "tbMainContact": "jim516@btinternet.com g.austin@maritimetransport.com",
   "involvedEmployers": "Maritime Transport, Knights of old, Maxim Logistics, Langdons, Logistics Learning Alliance, TT Academy, Eddie Stobart, RACPD, RTITB, WTTL, Mantra Learning, Ministry of Defence, Gregory’s Distribution Ltd, John Lewis, SP Training",
+  "otherInvolvedStakeholders": "",
   "regulated": true,
   "regulatedBody": "Department for Transport",
   "coreAndOptions": true,
@@ -343,7 +344,7 @@
   "createdDate": "2021-07-08T09:33:06 +00:00",
   "lastUpdated": "2021-08-12T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-08-03T00:00:00 +00:00",
-  "occupationCode": "OCC0647",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0647-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0647-v1-0",
   "qualifications": [
@@ -1019,12 +1020,12 @@
     {
       "optionId": "634e7e33-6cd9-4f96-90a4-e19b29af06aa",
       "title": "Transport Operations Supervisor",
-      "occupationCode": ""
+      "occupationCode": "OCC0647A"
     },
     {
       "optionId": "7df34aa3-5d1f-48b1-8f01-bc0e0be4ac48",
       "title": "Warehouse Operations Supervisor",
-      "occupationCode": ""
+      "occupationCode": "OCC0647B"
     }
   ],
   "regulationDetail": [
