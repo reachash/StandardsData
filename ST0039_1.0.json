@@ -93,13 +93,13 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Transport",
-  "cluster": "Transport operations manager",
+  "cluster": "Transport Operations Manager",
   "clusterId": "13",
   "clusterDescription": "Manage and lead the operation of a transport facility",
   "createdDate": "2020-10-02T11:48:22 +00:00",
   "lastUpdated": "2022-12-30T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-08-19T00:00:00 +00:00",
-  "occupationCode": "OCC0039",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0039-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0039-v1-0",
   "qualifications": [],
@@ -109,32 +109,32 @@
     {
       "optionId": "169f678e-405b-4210-ad45-994c1cd2bdb6",
       "title": "Flight Operations Manager - Air Traffic Control (ATC)",
-      "occupationCode": ""
+      "occupationCode": "OCC0039D"
     },
     {
       "optionId": "857c5c2c-3a0e-482f-b440-8ea5c99314cb",
       "title": "Flight Operations Manager - Operations",
-      "occupationCode": ""
+      "occupationCode": "OCC0039E"
     },
     {
       "optionId": "b81e849d-0ae2-4a7f-8e33-d8c6f6b87989",
       "title": "Aircraft Movement Manager",
-      "occupationCode": ""
+      "occupationCode": "OCC0039B"
     },
     {
       "optionId": "8f285af9-4602-436e-97ae-b44c9bd833a0",
       "title": "Fire Service Watch Manager",
-      "occupationCode": ""
+      "occupationCode": "OCC0039C"
     },
     {
       "optionId": "e869894a-c667-4245-a24b-f9bed6911a26",
       "title": "Aircraft Handling Manager",
-      "occupationCode": ""
+      "occupationCode": "OCC0039A"
     },
     {
       "optionId": "b4bbbc03-2b67-411f-b8f4-36863d1169a3",
       "title": "Passenger Operations Manager",
-      "occupationCode": ""
+      "occupationCode": "OCC0039F"
     }
   ],
   "regulationDetail": [],
