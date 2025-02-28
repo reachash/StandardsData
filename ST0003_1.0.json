@@ -73,13 +73,13 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Accountancy",
-  "cluster": "Accounting or tax technician",
+  "cluster": "Accounting/Tax Technician",
   "clusterId": "238",
   "clusterDescription": "Create, analyse and audit financial information for internal and external clients and the regulatory authorities",
   "createdDate": "2020-10-02T11:23:24 +00:00",
   "lastUpdated": "2022-04-08T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-07-21T00:00:00 +00:00",
-  "occupationCode": "OCC0003",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0003-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0003-v1-0",
   "qualifications": [],
@@ -89,12 +89,12 @@
     {
       "optionId": "dbcb28df-cb21-44b8-b787-821ef03112ae",
       "title": "Accounting",
-      "occupationCode": ""
+      "occupationCode": "OCC0003A"
     },
     {
       "optionId": "2784c826-3c91-4126-8e1a-108a2353ccb6",
       "title": "Tax",
-      "occupationCode": ""
+      "occupationCode": "OCC0003B"
     }
   ],
   "regulationDetail": [],
