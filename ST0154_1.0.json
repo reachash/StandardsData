@@ -83,14 +83,14 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Maintenance, installation and repair",
-  "cluster": "Manufacturing or process maintenance operative or technician",
+  "pathway": "Maintenance, Installation & Repair",
+  "cluster": "Manufacturing/Process Maintenance Operative/Technician",
   "clusterId": "71",
   "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2020-10-02T08:57:56 +00:00",
   "lastUpdated": "2022-05-31T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-09-26T00:00:00 +00:00",
-  "occupationCode": "OCC0154",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0154-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0154-v1-0",
   "qualifications": [],
@@ -100,37 +100,37 @@
     {
       "optionId": "a83685c7-7d0e-4b09-953a-d6b4803a0f15",
       "title": "Electrical System & Process Control Technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0154B"
     },
     {
       "optionId": "9748f927-3773-4675-946c-e3f0bb36b560",
       "title": "Electrical Technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0154C"
     },
     {
       "optionId": "08f047e5-8ad9-4d22-9fa8-fff9cb8429f0",
       "title": "Electromechanical Technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0154D"
     },
     {
       "optionId": "0907d62f-62e6-43cb-ad17-f9c052b610c5",
       "title": "Control & Instrumentation Technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0154A"
     },
     {
       "optionId": "097a7730-0bf1-4448-b4ab-3339a7894836",
       "title": "Mechanical Technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0154E"
     },
     {
       "optionId": "73debde9-c7ab-402a-bd5b-67cd62215d56",
       "title": "Plant Operations Technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0154F"
     },
     {
       "optionId": "4632ca9d-7e98-453a-868e-9f686934e986",
       "title": "Wind Turbine Technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0154G"
     }
   ],
   "regulationDetail": [],
