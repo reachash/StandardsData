@@ -70,13 +70,13 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Onsite Construction",
-  "cluster": "Core building tradesperson",
+  "cluster": "Core Building Tradesperson",
   "clusterId": "5",
   "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
   "createdDate": "2017-11-14T17:10:51 +00:00",
   "lastUpdated": "2018-07-31T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-07-31T00:00:00 +00:00",
-  "occupationCode": "OCC0414",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0414-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0414-v1-0",
   "qualifications": [],
@@ -86,17 +86,17 @@
     {
       "optionId": "8151752e-e273-44e6-8b90-e0f6a05a8f79",
       "title": "Bricklayer & Concreter",
-      "occupationCode": ""
+      "occupationCode": "OCC0414A"
     },
     {
       "optionId": "613e34dd-ca21-47df-aac1-a0a97627ae58",
       "title": "Building & Structural Finisher",
-      "occupationCode": ""
+      "occupationCode": "OCC0414B"
     },
     {
       "optionId": "e2de59a2-bb48-4285-b4de-d70cf21aa3ec",
       "title": "Carpenter & Joiner",
-      "occupationCode": ""
+      "occupationCode": "OCC0414C"
     }
   ],
   "regulationDetail": [],
