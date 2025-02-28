@@ -77,14 +77,14 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Maintenance, installation and repair",
-  "cluster": "Manufacturing or process maintenance operative or technician",
+  "pathway": "Maintenance, Installation & Repair",
+  "cluster": "Manufacturing/Process Maintenance Operative/Technician",
   "clusterId": "71",
   "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2020-09-10T10:47:27 +00:00",
   "lastUpdated": "2015-10-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-10-22T00:00:00 +00:00",
-  "occupationCode": "OCC0205",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0205-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0205-v1-0",
   "qualifications": [],
@@ -99,12 +99,12 @@
     {
       "optionId": "204f0495-3478-448c-8c13-b1483cde011b",
       "title": "Emergency Response Craftsperson",
-      "occupationCode": ""
+      "occupationCode": "OCC0205A"
     },
     {
       "optionId": "797b8577-3099-4df9-bed2-c3a4baccb464",
       "title": "Network Pipelines Maintenance Craftsperson",
-      "occupationCode": ""
+      "occupationCode": "OCC0205D"
     },
     {
       "optionId": "dacdb3dd-9515-423a-9ca2-7d8bf8ccecf5",
