@@ -69,13 +69,13 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Design, Surveying & Planning",
-  "cluster": "Design and surveying professional",
+  "cluster": "Design & Surveying Professional",
   "clusterId": "40",
   "clusterDescription": "Building/structure design, research, commercial cost management, contracts management with a wide range of knowledge of current technology developments and options, contracts, procurement and tracking. Consults with clients to determine functional and spatial requirements of new or renovated structures",
   "createdDate": "2020-10-05T11:05:16 +00:00",
   "lastUpdated": "2016-05-25T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-09-10T00:00:00 +00:00",
-  "occupationCode": "OCC0331",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0331-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0331-v1-0",
   "qualifications": [
@@ -94,17 +94,17 @@
     {
       "optionId": "bdc905c2-1dbb-4d60-a9a5-0eaa72e7accb",
       "title": "Building Surveying",
-      "occupationCode": ""
+      "occupationCode": "OCC0331A"
     },
     {
       "optionId": "d41c0c85-2fd2-4907-b517-6704e098207c",
       "title": "Property",
-      "occupationCode": ""
+      "occupationCode": "OCC0331B"
     },
     {
       "optionId": "3bf486c1-e673-4c2b-8fd4-6a4bb9dd0803",
       "title": "Quantity Surveying & Project Management",
-      "occupationCode": ""
+      "occupationCode": "OCC0331C"
     }
   ],
   "regulationDetail": [],
