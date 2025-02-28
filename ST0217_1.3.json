@@ -712,13 +712,13 @@
   "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
-  "cluster": "Health assistant",
+  "cluster": "Health Assistant",
   "clusterId": "112",
   "clusterDescription": "Provide direct patient contact and caring undertaking routine well defined clinical duties",
   "createdDate": "2022-08-08T10:23:19 +00:00",
   "lastUpdated": "2023-01-24T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-10-31T00:00:00 +00:00",
-  "occupationCode": "OCC0217",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0217-v1-3?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0217-v1-3",
   "qualifications": [
@@ -1168,32 +1168,32 @@
     {
       "optionId": "3121e403-089c-4ecb-a6cd-4e13daa3cb2f",
       "title": "Adult nursing support",
-      "occupationCode": ""
+      "occupationCode": "OCC0217A"
     },
     {
       "optionId": "72365bf1-de6b-48fb-86dc-c4aaa1aeca79",
       "title": "Maternity support",
-      "occupationCode": ""
+      "occupationCode": "OCC0217D"
     },
     {
       "optionId": "6736d588-237a-439d-abda-775399d570b4",
       "title": "Theatre support",
-      "occupationCode": ""
+      "occupationCode": "OCC0217F"
     },
     {
       "optionId": "b278f018-8dea-4028-a6dc-49cdd8242ab8",
       "title": "Mental health support",
-      "occupationCode": ""
+      "occupationCode": "OCC0217E"
     },
     {
       "optionId": "dfb1e859-6dbd-404e-b5a9-69d4cae83a17",
       "title": "Children and young people support",
-      "occupationCode": ""
+      "occupationCode": "OCC0217C"
     },
     {
       "optionId": "6fc378c2-7c2e-4cee-a5db-bf961e39baa8",
       "title": "Allied health profession therapy support",
-      "occupationCode": ""
+      "occupationCode": "OCC0217B"
     }
   ],
   "regulationDetail": [],
