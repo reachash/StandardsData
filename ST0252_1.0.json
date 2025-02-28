@@ -426,14 +426,14 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Maintenance, installation and repair",
-  "cluster": "Service, repair and/or overhaul operative or technician",
+  "pathway": "Maintenance, Installation & Repair",
+  "cluster": "Service, Repair and/or Overhaul Operative/Technician",
   "clusterId": "19",
   "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2017-11-14T17:09:32 +00:00",
   "lastUpdated": "2022-08-17T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-01-29T00:00:00 +00:00",
-  "occupationCode": "OCC0252",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0252-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0252-v1-0",
   "qualifications": [],
@@ -443,22 +443,22 @@
     {
       "optionId": "0b4b96eb-9fbf-4d55-a1b9-d30f7172ce79",
       "title": "Lift Installation",
-      "occupationCode": ""
+      "occupationCode": "OCC0252C"
     },
     {
       "optionId": "9446eb86-abb1-4b43-ac5b-9882b215e2f8",
       "title": "Escalator and Moving Walk Installation",
-      "occupationCode": ""
+      "occupationCode": "OCC0252A"
     },
     {
       "optionId": "f6778835-dd05-4421-b865-7b2ee71cff72",
       "title": "Lift Service and Repair",
-      "occupationCode": ""
+      "occupationCode": "OCC0252D"
     },
     {
       "optionId": "ff1c4f4d-8d99-4339-8c4a-bd3937ec98cd",
       "title": "Escalator and Moving Walk Service and Repair",
-      "occupationCode": ""
+      "occupationCode": "OCC0252B"
     }
   ],
   "regulationDetail": [],
