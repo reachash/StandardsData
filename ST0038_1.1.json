@@ -88,13 +88,13 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Transport",
-  "cluster": "Transport operations operative or technician",
+  "cluster": "Transport Operations Operative/Technician",
   "clusterId": "16",
   "clusterDescription": "Support a transport facility's operation and/or support the loading and movement of a freight or passenger vehicle or vessel",
   "createdDate": "2020-10-05T09:13:49 +00:00",
   "lastUpdated": "2022-12-30T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-04-14T00:00:00 +00:00",
-  "occupationCode": "OCC0038",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0038-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0038-v1-1",
   "qualifications": [],
@@ -104,27 +104,27 @@
     {
       "optionId": "018bd4ed-d4bc-4b9e-a779-e11d356c2ecb",
       "title": "Aircraft Handling",
-      "occupationCode": ""
+      "occupationCode": "OCC0038A"
     },
     {
       "optionId": "771f34e9-0c8c-407e-aa7d-110630604649",
       "title": "Aircraft Movement",
-      "occupationCode": ""
+      "occupationCode": "OCC0038B"
     },
     {
       "optionId": "91956bd4-2319-4687-ac77-bfacad6bebfc",
       "title": "Fire Fighter",
-      "occupationCode": ""
+      "occupationCode": "OCC0038C"
     },
     {
       "optionId": "26a2ad2e-6459-411b-a6be-00704637a3a0",
       "title": "Flight Operations",
-      "occupationCode": ""
+      "occupationCode": "OCC0038D"
     },
     {
       "optionId": "6161864e-a41e-433e-851d-bed216c99483",
       "title": "Passenger Operations",
-      "occupationCode": ""
+      "occupationCode": "OCC0038E"
     }
   ],
   "regulationDetail": [],
