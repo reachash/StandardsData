@@ -333,7 +333,7 @@
   "createdDate": "2017-11-14T17:08:51 +00:00",
   "lastUpdated": "2023-03-27T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-09-30T00:00:00 +00:00",
-  "occupationCode": "OCC0270",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0270-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0270-v1-0",
   "qualifications": [],
@@ -343,17 +343,17 @@
     {
       "optionId": "dd4d2ef3-b527-4fa3-b844-e3dbf3125f3e",
       "title": "Roof Slater & Tiler",
-      "occupationCode": ""
+      "occupationCode": "OCC0270B"
     },
     {
       "optionId": "16213292-8ef3-4bae-a9e2-0f7d479836fc",
       "title": "Waterproof Membranes Installer",
-      "occupationCode": ""
+      "occupationCode": "OCC0270C"
     },
     {
       "optionId": "6cc30d1c-e45c-47bf-895f-9d52043c94df",
       "title": "Roof Sheeter & Cladder",
-      "occupationCode": ""
+      "occupationCode": "OCC0270A"
     }
   ],
   "regulationDetail": [],
