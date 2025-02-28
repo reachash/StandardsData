@@ -238,13 +238,13 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Agriculture, Land Management and Production",
-  "cluster": "Landscape horticulture operative or technician",
+  "cluster": "Landscape Horticulture Operative/Technician",
   "clusterId": "161",
   "clusterDescription": "The design, construction and maintenance of gardens, designed landscapes and sports turf facilities for private, commercial and community use",
   "createdDate": "2017-09-22T14:24:17 +00:00",
   "lastUpdated": "2022-09-21T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-06-27T00:00:00 +00:00",
-  "occupationCode": "OCC0225",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0225-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0225-v1-0",
   "qualifications": [],
@@ -254,12 +254,12 @@
     {
       "optionId": "3892f709-6585-4955-8c04-324c4126d42a",
       "title": "Landscape construction operative",
-      "occupationCode": ""
+      "occupationCode": "OCC0225B"
     },
     {
       "optionId": "5f623699-3f7b-4d93-a406-608cef64c90a",
       "title": "Horticulture operative",
-      "occupationCode": ""
+      "occupationCode": "OCC0225A"
     }
   ],
   "regulationDetail": [],
