@@ -814,14 +814,14 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, manufacturing, process and control",
-  "cluster": "Quality improvement and project control technician",
+  "pathway": "Engineering, Manufacturing, Process and Control",
+  "cluster": "Quality Improvement and Project Control Technician",
   "clusterId": "256",
   "clusterDescription": "Maintain and improve product and process integrity and quality, production and process efficiency, and the overall health and safety of the working environment",
   "createdDate": "2017-10-06T16:28:40 +00:00",
   "lastUpdated": "2022-04-28T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-03-31T00:00:00 +00:00",
-  "occupationCode": "OCC0457",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0457-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0457-v1-1",
   "qualifications": [],
@@ -831,42 +831,42 @@
     {
       "optionId": "607ba23c-e869-43ed-9131-a23e6ab37180",
       "title": "Aerospace Manufacturing Fitter",
-      "occupationCode": ""
+      "occupationCode": "OCC0457B"
     },
     {
       "optionId": "d8662553-1803-4683-a0c5-49768a8ee729",
       "title": "Aerospace Manufacturing Electrical / Mechanical & Systems Fitter",
-      "occupationCode": ""
+      "occupationCode": "OCC0457A"
     },
     {
       "optionId": "593feb49-ca8d-403d-b4fc-26650576a5ec",
       "title": "Aircraft Maintenance Fitter/Technician (Fixed & Rotary Wing)",
-      "occupationCode": ""
+      "occupationCode": "OCC0457C"
     },
     {
       "optionId": "bd7da857-8efe-4d51-9fb0-b937d094f7c9",
       "title": "Airworthiness, Planning, Quality & Safety Technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0457D"
     },
     {
       "optionId": "269e9fe3-082c-4f15-a05f-9fe07744efa7",
       "title": "Maritime Electrical Fitter",
-      "occupationCode": ""
+      "occupationCode": "OCC0457F"
     },
     {
       "optionId": "077047c6-4d24-4a61-8a84-12dba352bb0a",
       "title": "Maritime Mechanical Fitter",
-      "occupationCode": ""
+      "occupationCode": "OCC0457H"
     },
     {
       "optionId": "bdf5921c-8da3-4914-a04b-9ed07ed288de",
       "title": "Maritime Fabricator",
-      "occupationCode": ""
+      "occupationCode": "OCC0457G"
     },
     {
       "optionId": "ecb2eedf-d7f5-41e8-9fff-2acd69da120b",
       "title": "Maritime Pipeworker",
-      "occupationCode": ""
+      "occupationCode": "OCC0457I"
     },
     {
       "optionId": "ef05cb80-4367-4610-bc6b-12d5928454d6",
@@ -876,22 +876,22 @@
     {
       "optionId": "3e8ddc53-ed8e-4409-87b7-8d79e2ab7920",
       "title": "Mechatronics Maintenance Technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0457E"
     },
     {
       "optionId": "629e2b33-0089-42b7-8d3c-a0af43e13649",
       "title": "Product Design & Development Technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0457J"
     },
     {
       "optionId": "2aec4318-f946-44cb-afc0-b8d54f6135e4",
       "title": "Toolmaker & Tool & Die Maintenance Technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0457K"
     },
     {
       "optionId": "ee4ff555-7539-4e3e-a52b-369e57919f21",
       "title": "Technical Support Technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0457M"
     }
   ],
   "regulationDetail": [],
