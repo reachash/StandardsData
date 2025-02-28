@@ -108,13 +108,13 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Hospitality",
-  "cluster": "Hospitality team member or supervisor",
+  "cluster": "Hospitality Team Member/Supervisor",
   "clusterId": "78",
   "clusterDescription": "Preparation and serving food and drinks, taking and managing bookings, and managing events",
   "createdDate": "2020-10-02T10:33:50 +00:00",
   "lastUpdated": "2019-03-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-04-27T00:00:00 +00:00",
-  "occupationCode": "OCC0233",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0233-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0233-v1-0",
   "qualifications": [],
@@ -124,12 +124,12 @@
     {
       "optionId": "49e83a3e-08cd-48ac-849e-0e6f12e87485",
       "title": "Alcoholic Beverage Service",
-      "occupationCode": ""
+      "occupationCode": "OCC0233A"
     },
     {
       "optionId": "1bc87da6-590f-4a10-91f0-681fecee626b",
       "title": "Barista",
-      "occupationCode": ""
+      "occupationCode": "OCC0233B"
     },
     {
       "optionId": "52e02835-84d9-4b68-b4e5-8be333ebc295",
@@ -139,32 +139,32 @@
     {
       "optionId": "fe8d3d75-8adc-469e-aece-d9afc07a2e01",
       "title": "Conference & Events Operations",
-      "occupationCode": ""
+      "occupationCode": "OCC0233D"
     },
     {
       "optionId": "3946d058-c5db-46c0-8cf2-8cb0afe6720d",
       "title": "Food & Beverage Service",
-      "occupationCode": ""
+      "occupationCode": "OCC0233E"
     },
     {
       "optionId": "97e88a54-9908-4209-b3b4-fe0470b4c695",
       "title": "Food Production",
-      "occupationCode": ""
+      "occupationCode": "OCC0233F"
     },
     {
       "optionId": "17e4f35e-c0a5-44da-8999-073b91ddef41",
       "title": "Reception",
-      "occupationCode": ""
+      "occupationCode": "OCC0233H"
     },
     {
       "optionId": "bcfbfa7b-01d2-4228-b5f5-6c28dd5589bd",
       "title": "Reservations",
-      "occupationCode": ""
+      "occupationCode": "OCC0233I"
     },
     {
       "optionId": "72c71de4-c2ed-48ff-9070-9ce4356a27b2",
       "title": "House Keeping",
-      "occupationCode": ""
+      "occupationCode": "OCC0233G"
     }
   ],
   "regulationDetail": [],
