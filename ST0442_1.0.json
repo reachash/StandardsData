@@ -4,8 +4,8 @@
   "referenceNumber": "ST0442",
   "title": "Stonemason",
   "status": "Retired",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/637",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC0442-v1-0",
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0442",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2023-02-20T00:00:00",
@@ -344,6 +344,7 @@
   "tbReference": "TB0399",
   "tbMainContact": "Liam.Day@education.gov.uk",
   "involvedEmployers": "Chichester Stoneworks, Carrek Limited, Stone Restoration Services Ltd, Putney & Wood, Szerelmey Ltd, Burrows Davies Ltd, Cliveden Conservation Workshop,  PAYE, A F Jones Sonemasons Limited, Deadalus Conservation, Laing O Rourke, DBR, Lainge Orourke, Vetter, Stone Train, CITB, Lymn, CWF, Leeds college of Building",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -365,7 +366,7 @@
   "createdDate": "2021-10-29T09:17:11 +00:00",
   "lastUpdated": "2023-02-20T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-06-28T00:00:00 +00:00",
-  "occupationCode": "OCC0442",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0442-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0442-v1-0",
   "qualifications": [],
@@ -762,32 +763,32 @@
     {
       "optionId": "bd446635-482b-46f2-9859-905512818046",
       "title": "Banker Stonemason",
-      "occupationCode": ""
+      "occupationCode": "OCC0442A"
     },
     {
       "optionId": "5d949914-6f09-4545-bbf7-e61ce0b84b40",
       "title": "Interior Stone Fixer",
-      "occupationCode": ""
+      "occupationCode": "OCC0442D"
     },
     {
       "optionId": "5ba09226-b90e-47c0-9b2f-3e4bf18afc02",
       "title": "Exterior Stone Fixer",
-      "occupationCode": ""
+      "occupationCode": "OCC0442B"
     },
     {
       "optionId": "8f6796f7-a1cc-4bf8-a0e2-52d45aa2945e",
       "title": "Memorial Stonemason",
-      "occupationCode": ""
+      "occupationCode": "OCC0442E"
     },
     {
       "optionId": "960bb042-4db1-43e0-9446-2c66ae0ca888",
       "title": "Stone Facade Preservation",
-      "occupationCode": ""
+      "occupationCode": "OCC0442F"
     },
     {
       "optionId": "44e65a5e-ea76-4e75-b89e-75dc8169145b",
       "title": "Heritage Stonemason",
-      "occupationCode": ""
+      "occupationCode": "OCC0442C"
     }
   ],
   "regulationDetail": [],
