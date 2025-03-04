@@ -4,8 +4,8 @@
   "referenceNumber": "ST1418",
   "title": "Specialist community public health nurse (NMC 2022)",
   "status": "Retired",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/728",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC1418-v1-0",
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1418",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery ",
   "changedDate": "2023-11-22T00:00:00",
@@ -1388,6 +1388,7 @@
   "tbReference": "TB0335",
   "tbMainContact": "Angelo.Varetto@wdtrust.org.uk",
   "involvedEmployers": "Barking, Havering and Redbridge University Hospitals NHS Trust, Bolton Hospital NHS Foundation Trust , Department of Health and Social Care, Derbyshire Community Health Services NHS Foundation Trust, Derbyshire Healthcare Foundation Trust, Gloucestershire Health and Care NHS Foundation Trust, HCRG Care Group, Health Education England - Talent for Care, Hertfordshire Community NHS Trust, Institute of Health Visitors, Locala Health and Wellbeing, Manchester Local Care Organisation, Manchester University NHS Foundation Trust (MFT), National School of Occupational Health, NHS England, North Somerset Community Partnership, Nottingham Healthcare NHS Foundation Trust, Nottinghamshire Healthcare NHS Foundation Trust, Nursing and Midwifery Council, People Asset Management Group, Royal College of Nursing, Sirona Care and Health, Skills for Health, Society of Occupational Medicine, Stockport NHS Foundation Trust, Sussex Community NHS Foundation Trust, Unite the Union, Whittington Health NHS Trust",
+  "otherInvolvedStakeholders": "",
   "regulated": true,
   "regulatedBody": "Nursing and Midwifery Council",
   "coreAndOptions": true,
@@ -1401,13 +1402,13 @@
   "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
-  "cluster": "Midwifery and nursing professional",
+  "cluster": "Midwifery and Nursing Professional",
   "clusterId": "211",
   "clusterDescription": "Assess, plan, implement and evaluate patient care in multiple settings with specialist expertise often working independently",
   "createdDate": "2023-09-20T12:27:51 +00:00",
   "lastUpdated": "2023-11-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-09-20T00:00:00 +00:00",
-  "occupationCode": "OCC1418",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1418-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1418-v1-0",
   "qualifications": [
@@ -2213,17 +2214,17 @@
     {
       "optionId": "88be59f7-839d-408b-8fd5-f43c88b5928a",
       "title": "Health Visitor",
-      "occupationCode": ""
+      "occupationCode": "OCC1418A"
     },
     {
       "optionId": "292e994c-5f45-408a-8a2a-7cbbda77bd6e",
       "title": "Occupational Health Nurse",
-      "occupationCode": ""
+      "occupationCode": "OCC1418C"
     },
     {
       "optionId": "61081ff1-14c7-4765-b71a-613a2c076624",
       "title": "School Nurse",
-      "occupationCode": ""
+      "occupationCode": "OCC1418B"
     }
   ],
   "regulationDetail": [
