@@ -4,8 +4,8 @@
   "referenceNumber": "ST0388",
   "title": "Interior systems installer",
   "status": "Retired",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/470",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC0388-v1-0",
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0388",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2023-01-24T00:00:00",
@@ -364,6 +364,7 @@
   "tbReference": "TB0231",
   "tbMainContact": "helen@tapperinteriors.co.uk; georgeswann@thefis.org ",
   "involvedEmployers": "The FIS, 4M, Stanmore Ltd, Aspect Ceilings, Astins, Overbury, LCP Ltd, HBF, Stortford Interiors, CITB, Taylor Hart, Macs, Roseville Contracts",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -378,13 +379,13 @@
   "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications form a mandatory part of all apprenticeships and must be completed before an apprentice can pass through gateway. The requirements are detailed in the current version of the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Onsite Construction",
-  "cluster": "Core building tradesperson",
+  "cluster": "Core Building Tradesperson",
   "clusterId": "5",
   "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
   "createdDate": "2022-04-29T14:44:15 +00:00",
   "lastUpdated": "2023-01-24T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-07-03T00:00:00 +00:00",
-  "occupationCode": "OCC0388",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0388-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0388-v1-0",
   "qualifications": [],
@@ -1005,12 +1006,12 @@
     {
       "optionId": "09e578d4-bf8d-47d6-98c7-aecb3a2065b2",
       "title": "Drylining Systems",
-      "occupationCode": ""
+      "occupationCode": "OCC0388A"
     },
     {
       "optionId": "305a4d38-cadb-40de-96ae-3a9151ac1024",
       "title": "Suspended Ceiling & Partitioning Systems",
-      "occupationCode": ""
+      "occupationCode": "OCC0388B"
     }
   ],
   "regulationDetail": [],
