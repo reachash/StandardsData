@@ -8,7 +8,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Occupational standard, end point assessment and funding band reviewed",
-  "changedDate": "2024-12-27T00:00:00",
+  "changedDate": "2025-03-04T00:00:00",
   "earliestStartDate": "2024-12-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -494,14 +494,14 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, design and development",
-  "cluster": "Design and development technician",
+  "pathway": "Engineering, Design and Development",
+  "cluster": "Design and Development Technician",
   "clusterId": "255",
   "clusterDescription": "Design and develop parts of product and/or process technologies",
   "createdDate": "2024-09-16T10:45:35 +00:00",
-  "lastUpdated": "2024-12-27T00:00:00 +00:00",
+  "lastUpdated": "2025-03-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-04-27T00:00:00 +00:00",
-  "occupationCode": "OCC0164",
+  "occupationCode": "",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0164-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0164-v1-2",
   "qualifications": [
@@ -1168,27 +1168,27 @@
     {
       "optionId": "0ac51ff2-a23f-4418-b0f3-e6da2493b877",
       "title": "Electrical power design technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0164B"
     },
     {
       "optionId": "7239b382-3f7a-4ad3-a2a6-27b3f0d7d027",
       "title": "Control and instrumentation design technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0164A"
     },
     {
       "optionId": "55b10859-c22c-45bb-b0f3-a485dde7280d",
       "title": "Mechanical design technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0164C"
     },
     {
       "optionId": "39c5ec59-b91c-496e-8a68-dcb38bccc6d8",
       "title": "Piping design technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0164D"
     },
     {
       "optionId": "ee4f66bb-a519-4dda-b4e6-e24fb832d106",
       "title": "Structural design technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0164E"
     }
   ],
   "regulationDetail": [],
@@ -1232,5 +1232,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-12-27T00:00:00"
+  "publishDate": "2025-03-04T00:00:00"
 }
