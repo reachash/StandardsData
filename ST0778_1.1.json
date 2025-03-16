@@ -28,7 +28,7 @@
   ],
   "jobRoles": [],
   "entryRequirements": "&lt;p&gt;Entry requirements will be decided by individual employers and with the training provider. Candidates might have three A-levels, equivalent relevant Level 3 qualifications, or will have successfully completed a relevant Level 3 Technician Apprenticeship. Candidates will need to be numerate and show a willingness to improve their numerical and mathematical capability. This is a degree (level 6) apprenticeship, and all candidates must complete an appropriately professionally approved or accredited environmental degree throughout which they will need to demonstrate their mathematical and numeracy capability beyond level 2 throughout their Apprenticeship.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/vn0pqkih/st0778-environmental-practitioner-v11-140225.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/upres2h3/st0778-environmental-practitioner-epa-v11-070325.pdf",
   "ssa1": "3 Agriculture, Horticulture and Animal Care",
   "ssa2": "3.4 Environmental conservation",
   "version": "1.1",
@@ -196,8 +196,8 @@
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Environment professional",
   "clusterId": "24",
-  "clusterDescription": "Use specialist environmental and/or ecological knowledge to manage diverse environments, providing professional support to organisations across all sectors",
-  "createdDate": "2024-12-24T14:05:58 +00:00",
+  "clusterDescription": null,
+  "createdDate": "2025-03-06T13:11:51 +00:00",
   "lastUpdated": "2023-02-21T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-06-14T00:00:00 +00:00",
   "occupationCode": "OCC0778",
@@ -253,6 +253,12 @@
     {
       "bodyName": "Science Council (SciC)",
       "level": "Registered Scientist (RSci)",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "The Institution of Agricultural Engineers (IAgrE)",
+      "level": "Member grade",
       "isPartial": "full",
       "partialFreeText": ""
     }
