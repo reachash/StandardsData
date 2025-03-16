@@ -209,7 +209,13 @@
   "epaApprovalDate": "",
   "epaPublished": "false",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
+  "eQAProvider": {
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
   "approvedForDelivery": "",
   "integratedApprenticeship": true,
   "integration": "Mandatory qualification",
