@@ -8,7 +8,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2025-03-18T00:00:00",
+  "changedDate": "2025-03-25T00:00:00",
   "earliestStartDate": "2024-01-03T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -271,9 +271,9 @@
   "pathway": "Legal",
   "cluster": "Legal technician",
   "clusterId": "250",
-  "clusterDescription": null,
+  "clusterDescription": "Deliver Family Law, Civil Litigation, Criminal Law, Company, Business Law  and conveyancing transactions (land and property), estate administration and manage small, non-complex cases under supervision",
   "createdDate": "2025-01-21T15:07:32 +00:00",
-  "lastUpdated": "2025-03-18T00:00:00 +00:00",
+  "lastUpdated": "2025-03-25T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-01-03T00:00:00 +00:00",
   "occupationCode": "OCC1312",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1312-v1-0?view=standard#OccupationalStandard",
@@ -699,17 +699,17 @@
     {
       "optionId": "5da5b6fa-3e9a-474d-893f-c88f6f4dc728",
       "title": "conveyancing technician",
-      "occupationCode": ""
+      "occupationCode": "OCC1312A"
     },
     {
       "optionId": "b8d4e252-945d-44a3-adc2-6d98a5476a69",
       "title": "probate technician",
-      "occupationCode": ""
+      "occupationCode": "OCC1312B"
     }
   ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-03-18T00:00:00"
+  "publishDate": "2025-03-25T00:00:00"
 }
