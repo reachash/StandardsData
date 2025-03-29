@@ -1,6 +1,6 @@
 {
   "templateType": "Occupational Standard",
-  "larsCode": 0,
+  "larsCode": 800,
   "referenceNumber": "ST0671",
   "title": "Construction equipment maintenance technician",
   "status": "Approved for delivery",
@@ -8,7 +8,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2025-02-20T00:00:00",
+  "changedDate": "2025-03-28T00:00:00",
   "earliestStartDate": "2025-02-20T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -351,7 +351,7 @@
   "clusterId": "19",
   "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2025-02-20T16:34:27 +00:00",
-  "lastUpdated": "2025-02-20T00:00:00 +00:00",
+  "lastUpdated": "2025-03-28T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2025-02-20T00:00:00 +00:00",
   "occupationCode": "OCC0671",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0671-v1-0?view=standard#OccupationalStandard",
@@ -1093,5 +1093,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-02-20T00:00:00"
+  "publishDate": "2025-03-28T00:00:00"
 }
