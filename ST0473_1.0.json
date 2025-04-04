@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 248,
   "referenceNumber": "ST0473",
+  "learningAimClassCode": "",
   "title": "Science industry process and plant engineer (degree)",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0473",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 60,
   "maxFunding": 24000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Science Industry Process/Plant Engineer",
