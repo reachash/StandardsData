@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 788,
   "referenceNumber": "ST1308",
+  "learningAimClassCode": "",
   "title": "Heat network maintenance technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1308",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 36,
   "maxFunding": 26000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "District heat",
