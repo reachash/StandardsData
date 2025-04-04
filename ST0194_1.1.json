@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 172,
   "referenceNumber": "ST0194",
+  "learningAimClassCode": "",
   "title": "Fishmonger",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0194",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 13000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "fishmongering",
