@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 69,
   "referenceNumber": "ST0242",
+  "learningAimClassCode": "",
   "title": "Land-based service engineer",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0242",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "Agricultural",
