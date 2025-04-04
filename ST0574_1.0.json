@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 328,
   "referenceNumber": "ST0574",
+  "learningAimClassCode": "",
   "title": "Ordnance munitions and explosives (OME) professional (integrated degree)",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0574",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 60,
   "maxFunding": 24000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "degree",
