@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 400,
   "referenceNumber": "ST0056",
+  "learningAimClassCode": "",
   "title": "Bid and proposal co-ordinator",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0056",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 8000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "business",
