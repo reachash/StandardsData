@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 99,
   "referenceNumber": "ST0218",
+  "learningAimClassCode": "",
   "title": "Healthcare science assistant",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0218",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "healthcare",
