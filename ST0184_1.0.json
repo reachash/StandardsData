@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 7,
   "referenceNumber": "ST0184",
+  "learningAimClassCode": "",
   "title": "Relationship manager (banking)",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0184",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
   "keywords": [
     "customer relationship management",
