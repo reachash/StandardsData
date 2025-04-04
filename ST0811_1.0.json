@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 732,
   "referenceNumber": "ST0811",
+  "learningAimClassCode": "",
   "title": "Senior procurement and supply chain professional",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0811",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 4,
   "typicalDuration": 30,
   "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "procurement",
