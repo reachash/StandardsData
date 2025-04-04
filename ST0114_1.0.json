@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 79,
   "referenceNumber": "ST0114",
+  "learningAimClassCode": "",
   "title": "Cyber intrusion analyst",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0114",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "IT",
