@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 120,
   "referenceNumber": "ST0340",
+  "learningAimClassCode": "",
   "title": "Travel consultant",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0340",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 7000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "Travel industry",
