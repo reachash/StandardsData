@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 101,
   "referenceNumber": "ST0327",
+  "learningAimClassCode": "",
   "title": "Retailer",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0327",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 4000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "shopping",
