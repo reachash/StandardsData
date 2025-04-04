@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 145,
   "referenceNumber": "ST0210",
+  "learningAimClassCode": "",
   "title": "Sports turf operative",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0210",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "Sports turf",
