@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 369,
   "referenceNumber": "ST0572",
+  "learningAimClassCode": "",
   "title": "Sales executive",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0572",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "Sales Executive",
