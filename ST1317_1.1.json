@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 697,
   "referenceNumber": "ST1317",
+  "learningAimClassCode": "",
   "title": "Robotics engineer - degree",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1317",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 6,
   "typicalDuration": 48,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "robot",
