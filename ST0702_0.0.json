@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 0,
   "referenceNumber": "ST0702",
+  "learningAimClassCode": "",
   "title": "Pharmacist (degree)",
   "status": "Proposal in development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0702",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 0,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "pharmacist",
