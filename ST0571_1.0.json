@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 341,
   "referenceNumber": "ST0571",
+  "learningAimClassCode": "",
   "title": "Heritage engineering technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0571",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 42,
   "maxFunding": 26000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "machinery",
