@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 212,
   "referenceNumber": "ST0150",
+  "learningAimClassCode": "",
   "title": "Electrical, electronic product service and installation engineer",
   "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0150",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 36,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Electrical",
