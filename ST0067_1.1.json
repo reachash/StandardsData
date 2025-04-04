@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 134,
   "referenceNumber": "ST0067",
+  "learningAimClassCode": "",
   "title": "Bus and coach engineering technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0067",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 16000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "transport",
