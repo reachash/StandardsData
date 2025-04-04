@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 310,
   "referenceNumber": "ST0329",
+  "learningAimClassCode": "",
   "title": "Junior estate agent",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0329",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 4000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "Junior estate agent",
