@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 386,
   "referenceNumber": "ST0394",
+  "learningAimClassCode": "",
   "title": "Maritime operations officer",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0394",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "transport",
