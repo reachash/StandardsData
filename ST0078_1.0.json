@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 54,
   "referenceNumber": "ST0078",
+  "learningAimClassCode": "",
   "title": "Butcher",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0078",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "butchery",
