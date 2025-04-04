@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 150,
   "referenceNumber": "ST0220",
+  "learningAimClassCode": "",
   "title": "Healthcare science associate",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0220",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "laboratory medicine",
