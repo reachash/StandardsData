@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 359,
   "referenceNumber": "ST0540",
+  "learningAimClassCode": "",
   "title": "Fashion and textiles product technologist",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0540",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 22,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Fashion and textiles product technologist",
