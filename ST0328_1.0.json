@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 183,
   "referenceNumber": "ST0328",
+  "learningAimClassCode": "",
   "title": "Bespoke saddler",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0328",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [],
   "jobRoles": [
