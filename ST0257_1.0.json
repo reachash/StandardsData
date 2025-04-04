@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 110,
   "referenceNumber": "ST0257",
+  "learningAimClassCode": "",
   "title": "Large goods vehicle (LGV) driver",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0257",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "Haulage",
