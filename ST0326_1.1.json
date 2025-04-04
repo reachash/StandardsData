@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 140,
   "referenceNumber": "ST0326",
+  "learningAimClassCode": "",
   "title": "Retail team leader",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0326",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 4000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "shopping",
