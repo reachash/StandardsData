@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 253,
   "referenceNumber": "ST0430",
+  "learningAimClassCode": "",
   "title": "Regulatory compliance officer",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0430",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Business and administration",
   "keywords": [
     "Regulatory Compliance Officer",
