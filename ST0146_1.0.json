@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 401,
   "referenceNumber": "ST0146",
+  "learningAimClassCode": "",
   "title": "Assessor coach",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0146",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 15,
   "maxFunding": 7000,
+  "maxFundingAdditionalInformation": "",
   "route": "Education and early years",
   "keywords": [
     "Coaching",
