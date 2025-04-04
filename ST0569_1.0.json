@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 224,
   "referenceNumber": "ST0569",
+  "learningAimClassCode": "",
   "title": "Leisure and entertainment engineering technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0569",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 21000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "maintenance",
