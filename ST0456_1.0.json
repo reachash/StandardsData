@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 166,
   "referenceNumber": "ST0456",
+  "learningAimClassCode": "",
   "title": "Post graduate engineer",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0456",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "chartered engineer",
