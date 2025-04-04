@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 65,
   "referenceNumber": "ST0234",
+  "learningAimClassCode": "",
   "title": "Housing and property management",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0234",
   "qualificationStandardUrl": null,
   "versionNumber": "1.3",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 7000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "housing management",
