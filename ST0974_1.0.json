@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 709,
   "referenceNumber": "ST0974",
+  "learningAimClassCode": "",
   "title": "Digital learning designer",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0974",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 4,
   "typicalDuration": 24,
   "maxFunding": 16000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "digital",
