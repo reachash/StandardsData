@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 611,
   "referenceNumber": "ST0757",
+  "learningAimClassCode": "",
   "title": "Radio network technician",
   "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0757",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "radio",
