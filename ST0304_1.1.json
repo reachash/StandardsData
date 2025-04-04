@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 256,
   "referenceNumber": "ST0304",
+  "learningAimClassCode": "",
   "title": "Police constable (integrated degree)",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0304",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 24000,
+  "maxFundingAdditionalInformation": "",
   "route": "Protective services",
   "keywords": [
     "degree",
