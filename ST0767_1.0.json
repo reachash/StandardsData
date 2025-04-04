@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 508,
   "referenceNumber": "ST0767",
+  "learningAimClassCode": "",
   "title": "Water environment worker",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0767",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "Environmental",
