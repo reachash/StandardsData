@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 197,
   "referenceNumber": "ST0382",
+  "learningAimClassCode": "",
   "title": "Organ builder",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0382",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 4,
   "typicalDuration": 36,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "design",
