@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 383,
   "referenceNumber": "ST0255",
+  "learningAimClassCode": "",
   "title": "Live event technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0255",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "Event",
