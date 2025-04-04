@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 6,
   "referenceNumber": "ST0156",
+  "learningAimClassCode": "",
   "title": "Power network craftsperson",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0156",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 26000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "power lines",
