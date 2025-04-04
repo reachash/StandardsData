@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 263,
   "referenceNumber": "ST0166",
+  "learningAimClassCode": "",
   "title": "Equine groom",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0166",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "Equine groom",
