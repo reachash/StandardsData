@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 550,
   "referenceNumber": "ST0888",
+  "learningAimClassCode": "",
   "title": "Early years practitioner",
   "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0888",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 12,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Education and early years",
   "keywords": [
     "education",
