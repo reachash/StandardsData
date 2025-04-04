@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 782,
   "referenceNumber": "ST1403",
+  "learningAimClassCode": "",
   "title": "Maritime electrical fitter",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1403",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 42,
   "maxFunding": 26000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "ships",
