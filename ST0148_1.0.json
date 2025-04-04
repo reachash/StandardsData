@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 403,
   "referenceNumber": "ST0148",
+  "learningAimClassCode": "",
   "title": "Learning mentor",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0148",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Education and early years",
   "keywords": [
     "teaching",
