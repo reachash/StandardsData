@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 388,
   "referenceNumber": "ST0513",
+  "learningAimClassCode": "",
   "title": "Groundworker",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0513",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "groundworker",
