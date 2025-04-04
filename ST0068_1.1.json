@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 135,
   "referenceNumber": "ST0068",
+  "learningAimClassCode": "",
   "title": "Heavy vehicle service and maintenance technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0068",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "heavy vehicle",
