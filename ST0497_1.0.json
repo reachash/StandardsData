@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 301,
   "referenceNumber": "ST0497",
+  "learningAimClassCode": "",
   "title": "Rail and rail systems principal engineer (integrated degree)",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0497",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 24000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "rail",
