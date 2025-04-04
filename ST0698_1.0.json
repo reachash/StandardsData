@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 462,
   "referenceNumber": "ST0698",
+  "learningAimClassCode": "",
   "title": "Transport planner (integrated degree)",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0698",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 60,
   "maxFunding": 23000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "Degree Apprenticeship",
