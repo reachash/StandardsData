@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 768,
   "referenceNumber": "ST1394",
+  "learningAimClassCode": "",
   "title": "Traffic operator",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1394",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 12,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "Traffic",
