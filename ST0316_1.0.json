@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 88,
   "referenceNumber": "ST0316",
+  "learningAimClassCode": "",
   "title": "Rail engineering advanced technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0316",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Railway",
