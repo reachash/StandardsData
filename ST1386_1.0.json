@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 746,
   "referenceNumber": "ST1386",
+  "learningAimClassCode": "",
   "title": "Data engineer",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1386",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 4,
   "typicalDuration": 24,
   "maxFunding": 19000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "data engineer",
