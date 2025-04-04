@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 0,
   "referenceNumber": "ST0919",
+  "learningAimClassCode": "",
   "title": "Craft technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0919",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 14000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "craft",
