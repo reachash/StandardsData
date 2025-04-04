@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 207,
   "referenceNumber": "ST0369",
+  "learningAimClassCode": "",
   "title": "Non-destructive testing engineer (degree)",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0369",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Non-Destructive Testing Engineer",
