@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 0,
   "referenceNumber": "ST0676",
+  "learningAimClassCode": "",
   "title": "Mineral processing general site operative",
   "status": "Withdrawn",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0676",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 0,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "mineral",
