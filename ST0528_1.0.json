@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 220,
   "referenceNumber": "ST0528",
+  "learningAimClassCode": "",
   "title": "High speed rail and infrastructure technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0528",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 21000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "High Speed Rail & Infrastructure Technician",
