@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 246,
   "referenceNumber": "ST0503",
+  "learningAimClassCode": "",
   "title": "Network operations",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0503",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 3000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "Network Operations",
