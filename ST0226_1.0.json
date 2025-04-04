@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 392,
   "referenceNumber": "ST0226",
+  "learningAimClassCode": "",
   "title": "Landscape or horticulture supervisor",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0226",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 8000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "landscape",
