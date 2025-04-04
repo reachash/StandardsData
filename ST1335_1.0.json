@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 763,
   "referenceNumber": "ST1335",
+  "learningAimClassCode": "",
   "title": "Senior florist",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1335",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 21,
   "maxFunding": 10000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "Senior Florist",
