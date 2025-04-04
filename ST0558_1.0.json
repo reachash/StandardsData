@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 305,
   "referenceNumber": "ST0558",
+  "learningAimClassCode": "",
   "title": "Cabin crew",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0558",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "air cabin",
