@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 275,
   "referenceNumber": "ST0041",
+  "learningAimClassCode": "",
   "title": "Building services engineering senior technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0041",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 4,
   "typicalDuration": 36,
   "maxFunding": 13000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "Building services engineering technician",
