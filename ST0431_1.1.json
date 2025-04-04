@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 243,
   "referenceNumber": "ST0431",
+  "learningAimClassCode": "",
   "title": "Vision rehabilitation specialist",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0431",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 17000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "Vision Rehabilitation Specialist",
