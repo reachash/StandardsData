@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 184,
   "referenceNumber": "ST0197",
+  "learningAimClassCode": "",
   "title": "Food industry technical professional (integrated degree)",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0197",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "food industry",
