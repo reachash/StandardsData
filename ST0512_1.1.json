@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 570,
   "referenceNumber": "ST0512",
+  "learningAimClassCode": "",
   "title": "Serious and complex crime investigator (integrated degree)",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0512",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 21000,
+  "maxFundingAdditionalInformation": "",
   "route": "Protective services",
   "keywords": [
     "Serious and Complex Crime Investigator",
