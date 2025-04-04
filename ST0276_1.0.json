@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 362,
   "referenceNumber": "ST0276",
+  "learningAimClassCode": "",
   "title": "Maritime mechanical and electrical mechanic",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0276",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Maritime mechanical and electrical mechanic",
