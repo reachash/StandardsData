@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 350,
   "referenceNumber": "ST0307",
+  "learningAimClassCode": "",
   "title": "Port operative",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0307",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 8000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "Port operative",
