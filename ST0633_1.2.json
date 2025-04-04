@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 432,
   "referenceNumber": "ST0633",
+  "learningAimClassCode": "",
   "title": "Arts therapist",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0633",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 19000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "art",
