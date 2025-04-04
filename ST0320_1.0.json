@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 217,
   "referenceNumber": "ST0320",
+  "learningAimClassCode": "",
   "title": "Recruitment consultant",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0320",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Business and administration",
   "keywords": [
     "Recruitment Consultant",
