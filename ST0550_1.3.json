@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 260,
   "referenceNumber": "ST0550",
+  "learningAimClassCode": "",
   "title": "Safety, health and environment technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0550",
   "qualificationStandardUrl": null,
   "versionNumber": "1.3",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Protective services",
   "keywords": [
     "Safety",
