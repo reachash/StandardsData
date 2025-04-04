@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 87,
   "referenceNumber": "ST0037",
+  "learningAimClassCode": "",
   "title": "Aviation ground operative",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0037",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 3000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "Planes",
