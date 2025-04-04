@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 187,
   "referenceNumber": "ST0282",
+  "learningAimClassCode": "",
   "title": "Metrology technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0282",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 24000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "measurement research",
