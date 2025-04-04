@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 449,
   "referenceNumber": "ST0487",
+  "learningAimClassCode": "",
   "title": "Specialist rescue operative",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0487",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 16000,
+  "maxFundingAdditionalInformation": "",
   "route": "Protective services",
   "keywords": [
     "protective services",
