@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 476,
   "referenceNumber": "ST0693",
+  "learningAimClassCode": "",
   "title": "Road surfacing operative",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0693",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 15,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "surfacing",
