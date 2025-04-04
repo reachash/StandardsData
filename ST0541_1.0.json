@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 361,
   "referenceNumber": "ST0541",
+  "learningAimClassCode": "",
   "title": "Fashion and textiles pattern cutter",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0541",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 22,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Fashion and textiles pattern cutter",
