@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 121,
   "referenceNumber": "ST0036",
+  "learningAimClassCode": "",
   "title": "Airside operator",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0036",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 3000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "airfield",
