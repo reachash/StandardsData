@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 155,
   "referenceNumber": "ST0130",
+  "learningAimClassCode": "",
   "title": "Unified communications technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0130",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "IT",
