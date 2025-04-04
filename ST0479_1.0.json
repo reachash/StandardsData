@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 351,
   "referenceNumber": "ST0479",
+  "learningAimClassCode": "",
   "title": "Outdoor activity instructor",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0479",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "Outdoor activity instructor",
