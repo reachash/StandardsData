@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 268,
   "referenceNumber": "ST0429",
+  "learningAimClassCode": "",
   "title": "Pest control technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0429",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 4000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "Pest Control Technician",
