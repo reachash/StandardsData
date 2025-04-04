@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 28,
   "referenceNumber": "ST0178",
+  "learningAimClassCode": "",
   "title": "Financial services customer adviser",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0178",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 3500,
+  "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
   "keywords": [
     "Banking",
