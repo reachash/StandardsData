@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 214,
   "referenceNumber": "ST0337",
+  "learningAimClassCode": "",
   "title": "Passenger transport operations manager",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0337",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "Passenger Transport Operations Manager",
