@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 784,
   "referenceNumber": "ST0981",
+  "learningAimClassCode": "",
   "title": "Mattress manufacturing operative",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0981",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 15,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "mattress manufacturing operative",
