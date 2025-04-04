@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 137,
   "referenceNumber": "ST0203",
+  "learningAimClassCode": "",
   "title": "Furniture manufacturer",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0203",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Furniture manufacturing",
