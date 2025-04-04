@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 136,
   "referenceNumber": "ST0066",
+  "learningAimClassCode": "",
   "title": "Road transport engineering manager",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0066",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "transport",
