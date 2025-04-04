@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 316,
   "referenceNumber": "ST0507",
+  "learningAimClassCode": "",
   "title": "Metal recycling general operative",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0507",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Metal Recycling General Operative",
