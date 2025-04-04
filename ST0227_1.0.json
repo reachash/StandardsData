@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 169,
   "referenceNumber": "ST0227",
+  "learningAimClassCode": "",
   "title": "Chef de partie",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0227",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Catering and hospitality",
   "keywords": [
     "chef",
