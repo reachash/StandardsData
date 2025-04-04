@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 680,
   "referenceNumber": "ST0995",
+  "learningAimClassCode": "",
   "title": "Doctor (Degree)",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0995",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 60,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "doctor",
