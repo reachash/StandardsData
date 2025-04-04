@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 61,
   "referenceNumber": "ST0113",
+  "learningAimClassCode": "",
   "title": "Dental nurse (integrated)",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0113",
   "qualificationStandardUrl": null,
   "versionNumber": "1.3",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "dental",
