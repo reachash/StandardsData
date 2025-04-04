@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 382,
   "referenceNumber": "ST0516",
+  "learningAimClassCode": "",
   "title": "Intelligence analyst",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0516",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 11000,
+  "maxFundingAdditionalInformation": "",
   "route": "Protective services",
   "keywords": [
     "intelligence research",
