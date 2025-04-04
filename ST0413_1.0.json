@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 168,
   "referenceNumber": "ST0413",
+  "learningAimClassCode": "",
   "title": "Healthcare science practitioner (integrated degree)",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0413",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "life sciences",
