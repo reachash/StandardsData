@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 131,
   "referenceNumber": "ST0198",
+  "learningAimClassCode": "",
   "title": "Food technologist",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0198",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "Food technology",
