@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 427,
   "referenceNumber": "ST0593",
+  "learningAimClassCode": "",
   "title": "Community safety advisor",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0593",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 3500,
+  "maxFundingAdditionalInformation": "",
   "route": "Protective services",
   "keywords": [
     "community",
