@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 435,
   "referenceNumber": "ST0405",
+  "learningAimClassCode": "",
   "title": "Vehicle damage mechanical, electrical and trim (MET) technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0405",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "transport",
