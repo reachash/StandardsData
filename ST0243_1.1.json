@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 70,
   "referenceNumber": "ST0243",
+  "learningAimClassCode": "",
   "title": "Land-based service engineering technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0243",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 21000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "Agricultural",
