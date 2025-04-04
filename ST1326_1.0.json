@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 775,
   "referenceNumber": "ST1326",
+  "learningAimClassCode": "",
   "title": "Mechatronics Maintenance Technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1326",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 6,
   "typicalDuration": 42,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Aerospace",
