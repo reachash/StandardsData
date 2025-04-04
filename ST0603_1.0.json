@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 323,
   "referenceNumber": "ST0603",
+  "learningAimClassCode": "",
   "title": "Professional economist (integrated degree)",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0603",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 42,
   "maxFunding": 23000,
+  "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
   "keywords": [
     "professional economist",
