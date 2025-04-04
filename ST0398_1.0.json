@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 379,
   "referenceNumber": "ST0398",
+  "learningAimClassCode": "",
   "title": "Animal trainer",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0398",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 7000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "Animal",
