@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 72,
   "referenceNumber": "ST0055",
+  "learningAimClassCode": "",
   "title": "Bespoke tailor and cutter",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0055",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "fashion",
