@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 0,
   "referenceNumber": "ST0755",
+  "learningAimClassCode": "",
   "title": "Damage management practitioner",
   "status": "Withdrawn",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0755",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 0,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "damage",
