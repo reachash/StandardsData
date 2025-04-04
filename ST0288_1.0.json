@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 67,
   "referenceNumber": "ST0288",
+  "learningAimClassCode": "",
   "title": "Non-destructive testing engineering technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0288",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "science",
