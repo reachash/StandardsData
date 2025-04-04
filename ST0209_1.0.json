@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 21,
   "referenceNumber": "ST0209",
+  "learningAimClassCode": "",
   "title": "Golf greenkeeper",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0209",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "Horticulturalist",
