@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 92,
   "referenceNumber": "ST0164",
+  "learningAimClassCode": "",
   "title": "Engineering design and draughtsperson",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0164",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 42,
   "maxFunding": 24000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "power and water infrastructure",
