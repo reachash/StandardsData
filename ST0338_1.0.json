@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 189,
   "referenceNumber": "ST0338",
+  "learningAimClassCode": "",
   "title": "Passenger transport driver - bus, coach and rail",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0338",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "railway signalling",
