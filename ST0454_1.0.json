@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 297,
   "referenceNumber": "ST0454",
+  "learningAimClassCode": "",
   "title": "Teaching assistant",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0454",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Education and early years",
   "keywords": [
     "Teaching Assistant",
