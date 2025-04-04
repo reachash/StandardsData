@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 761,
   "referenceNumber": "ST0915",
+  "learningAimClassCode": "",
   "title": "Scenic automation technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0915",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 17000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "crafts",
