@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 160,
   "referenceNumber": "ST0094",
+  "learningAimClassCode": "",
   "title": "Composites technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0094",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "repairing composite materials",
