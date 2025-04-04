@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 436,
   "referenceNumber": "ST0448",
+  "learningAimClassCode": "",
   "title": "Vehicle damage paint technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0448",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "vehicle",
