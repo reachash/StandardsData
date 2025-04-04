@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 82,
   "referenceNumber": "ST0125",
+  "learningAimClassCode": "",
   "title": "Infrastructure technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0125",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "Digitial industries",
