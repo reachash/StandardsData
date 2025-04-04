@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 797,
   "referenceNumber": "ST1333",
+  "learningAimClassCode": "",
   "title": "Ship’s master – less than 500 gross tonnage near coastal",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1333",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 6,
   "typicalDuration": 48,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "Ship's master",
