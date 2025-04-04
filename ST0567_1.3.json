@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 318,
   "referenceNumber": "ST0567",
+  "learningAimClassCode": "",
   "title": "Paramedic",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0567",
   "qualificationStandardUrl": null,
   "versionNumber": "1.3",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "paramedic",
