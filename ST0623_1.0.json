@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 455,
   "referenceNumber": "ST0623",
+  "learningAimClassCode": "",
   "title": "Marine technical superintendent (degree)",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0623",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Marine Technical Superintendent",
