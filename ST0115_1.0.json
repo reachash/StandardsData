@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 142,
   "referenceNumber": "ST0115",
+  "learningAimClassCode": "",
   "title": "IT technical salesperson",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0115",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "IT",
