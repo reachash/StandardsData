@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 344,
   "referenceNumber": "ST0017",
+  "learningAimClassCode": "",
   "title": "Stockperson (beef, pigs, sheep, dairy)",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0017",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 10000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "Stockperson (beef",
