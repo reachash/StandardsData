@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 389,
   "referenceNumber": "ST0635",
+  "learningAimClassCode": "",
   "title": "Nail services technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0635",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 3500,
+  "maxFundingAdditionalInformation": "",
   "route": "Hair and beauty",
   "keywords": [],
   "jobRoles": [
