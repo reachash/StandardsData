@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 314,
   "referenceNumber": "ST0018",
+  "learningAimClassCode": "",
   "title": "Crop technician",
   "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0018",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 6,
   "typicalDuration": 24,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "Crop technician",
