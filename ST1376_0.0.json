@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 0,
   "referenceNumber": "ST1376",
+  "learningAimClassCode": "",
   "title": "Digital manufacturing engineering leader",
   "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1376",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 9,
   "typicalDuration": 36,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "digital manufacturing engineering leader",
