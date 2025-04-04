@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 175,
   "referenceNumber": "ST0144",
+  "learningAimClassCode": "",
   "title": "Material processing plant operator",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0144",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 13000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "extractive operations",
