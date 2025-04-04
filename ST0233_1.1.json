@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 96,
   "referenceNumber": "ST0233",
+  "learningAimClassCode": "",
   "title": "Hospitality team member",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0233",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 4000,
+  "maxFundingAdditionalInformation": "",
   "route": "Catering and hospitality",
   "keywords": [
     "bars",
