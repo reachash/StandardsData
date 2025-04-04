@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 64,
   "referenceNumber": "ST0235",
+  "learningAimClassCode": "",
   "title": "Housing and property management assistant",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0235",
   "qualificationStandardUrl": null,
   "versionNumber": "1.3",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 3000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "housing management",
