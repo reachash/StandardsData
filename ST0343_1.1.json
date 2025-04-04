@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 333,
   "referenceNumber": "ST0343",
+  "learningAimClassCode": "",
   "title": "Veterinary nurse",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0343",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "Veterinary Nurse",
