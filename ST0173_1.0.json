@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 408,
   "referenceNumber": "ST0173",
+  "learningAimClassCode": "",
   "title": "Fashion studio assistant",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0173",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 8000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "Fashion Marketing & Communications",
