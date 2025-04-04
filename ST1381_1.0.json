@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 759,
   "referenceNumber": "ST1381",
+  "learningAimClassCode": "",
   "title": "Advanced robotics engineer",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1381",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 9,
   "typicalDuration": 36,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "advanced robotics engineer",
