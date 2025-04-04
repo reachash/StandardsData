@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 21,
   "referenceNumber": "ST0209",
+  "learningAimClassCode": "",
   "title": "Golf greenkeeper",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0209",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 8000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "Horticulturalist",
