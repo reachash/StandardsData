@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 650,
   "referenceNumber": "ST0953",
+  "learningAimClassCode": "",
   "title": "Game programmer",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0953",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 6,
   "typicalDuration": 24,
   "maxFunding": 19000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [],
   "jobRoles": [
