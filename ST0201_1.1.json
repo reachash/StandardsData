@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 209,
   "referenceNumber": "ST0201",
+  "learningAimClassCode": "",
   "title": "Supply chain practitioner (fast-moving consumer goods (FMCG))",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0201",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 4,
   "typicalDuration": 30,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "Supply Chain Practitioner",
