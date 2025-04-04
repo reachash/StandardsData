@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 74,
   "referenceNumber": "ST0155",
+  "learningAimClassCode": "",
   "title": "Gas engineering operative",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0155",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 22000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "gas safe registration",
