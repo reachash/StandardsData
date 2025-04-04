@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 535,
   "referenceNumber": "ST0207",
+  "learningAimClassCode": "",
   "title": "Advanced golf greenkeeper",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0207",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 7000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "golf",
