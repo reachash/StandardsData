@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 40,
   "referenceNumber": "ST0101",
+  "learningAimClassCode": "",
   "title": "Licensed conveyancer",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0101",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
   "keywords": [
     "conveyancing",
