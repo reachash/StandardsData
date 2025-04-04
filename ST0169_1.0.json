@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 378,
   "referenceNumber": "ST0169",
+  "learningAimClassCode": "",
   "title": "Structural steelwork erector",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0169",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "structural steelwork",
