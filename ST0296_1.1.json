@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 106,
   "referenceNumber": "ST0296",
+  "learningAimClassCode": "",
   "title": "Papermaker",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0296",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "wood",
