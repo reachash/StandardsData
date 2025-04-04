@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 708,
   "referenceNumber": "ST1273",
+  "learningAimClassCode": "",
   "title": "Barbering professional",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1273",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Hair and beauty",
   "keywords": [
     "barbering",
