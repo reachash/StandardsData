@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 111,
   "referenceNumber": "ST0259",
+  "learningAimClassCode": "",
   "title": "Supply chain warehouse operative",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0259",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 3000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "Haulage",
