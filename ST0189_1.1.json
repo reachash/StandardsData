@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 126,
   "referenceNumber": "ST0189",
+  "learningAimClassCode": "",
   "title": "Fire emergency and security systems technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0189",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 36,
   "maxFunding": 19000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "Alarm Installation",
