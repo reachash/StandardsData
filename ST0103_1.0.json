@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 338,
   "referenceNumber": "ST0103",
+  "learningAimClassCode": "",
   "title": "Express delivery operative",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0103",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 4000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "Express Delivery Operative",
