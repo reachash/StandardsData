@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 95,
   "referenceNumber": "ST0350",
+  "learningAimClassCode": "",
   "title": "Multi-positional welder (arc processes)",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0350",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 38,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "welding",
