@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 297,
   "referenceNumber": "ST0454",
+  "learningAimClassCode": "",
   "title": "Teaching assistant",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0454",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 7000,
+  "maxFundingAdditionalInformation": "",
   "route": "Education and early years",
   "keywords": [
     "Teaching Assistant",
