@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 58,
   "referenceNumber": "ST0204",
+  "learningAimClassCode": "",
   "title": "Gas network team leader",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0204",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "utilities",
