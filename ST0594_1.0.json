@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 412,
   "referenceNumber": "ST0594",
+  "learningAimClassCode": "",
   "title": "Funeral team member",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0594",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 3000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "funeral arrangements",
