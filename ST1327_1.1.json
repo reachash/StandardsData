@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 715,
   "referenceNumber": "ST1327",
+  "learningAimClassCode": "",
   "title": "Mobile transport refrigeration technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1327",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 4,
   "typicalDuration": 36,
   "maxFunding": 16000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Fridge",
