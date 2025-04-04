@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 112,
   "referenceNumber": "ST0341",
+  "learningAimClassCode": "",
   "title": "Production assistant - screen and audio",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0341",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 15,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "production",
