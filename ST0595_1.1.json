@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 490,
   "referenceNumber": "ST0595",
+  "learningAimClassCode": "",
   "title": "Air traffic controller",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0595",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 15,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "transport",
