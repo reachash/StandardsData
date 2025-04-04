@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 688,
   "referenceNumber": "ST1378",
+  "learningAimClassCode": "",
   "title": "Rail infrastructure operator ",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1378",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "railway signalling",
