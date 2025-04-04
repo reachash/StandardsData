@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 352,
   "referenceNumber": "ST0537",
+  "learningAimClassCode": "",
   "title": "Engineering operative",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0537",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "engineering operative",
