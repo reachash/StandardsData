@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 31,
   "referenceNumber": "ST0185",
+  "learningAimClassCode": "",
   "title": "Financial services customer adviser",
   "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0185",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
   "keywords": [
     "financial advice",
