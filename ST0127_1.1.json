@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 1,
   "referenceNumber": "ST0127",
+  "learningAimClassCode": "",
   "title": "Network engineer",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0127",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 17000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "communication",
