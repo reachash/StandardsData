@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 15,
   "referenceNumber": "ST0250",
+  "learningAimClassCode": "",
   "title": "Science manufacturing technician 2014",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0250",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 27,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Science",
