@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 371,
   "referenceNumber": "ST0586",
+  "learningAimClassCode": "",
   "title": "Regulatory affairs specialist",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0586",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 21000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "regulatory affairs specialist",
