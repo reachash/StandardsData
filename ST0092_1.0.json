@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 242,
   "referenceNumber": "ST0092",
+  "learningAimClassCode": "",
   "title": "Community energy specialist",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0092",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Business and administration",
   "keywords": [
     "Community Energy Specialist",
