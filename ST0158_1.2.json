@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 26,
   "referenceNumber": "ST0158",
+  "learningAimClassCode": "",
   "title": "Dual fuel smart meter installer",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0158",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 14,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "gas",
