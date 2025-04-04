@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 133,
   "referenceNumber": "ST0002",
+  "learningAimClassCode": "",
   "title": "Assistant accountant",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0002",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 15,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
   "keywords": [
     "accounting",
