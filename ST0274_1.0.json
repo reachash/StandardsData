@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 34,
   "referenceNumber": "ST0274",
+  "learningAimClassCode": "",
   "title": "Able seafarer (deck)",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0274",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "boats",
