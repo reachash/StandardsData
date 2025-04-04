@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 617,
   "referenceNumber": "ST0685",
+  "learningAimClassCode": "",
   "title": "Wellbeing and holistic therapist",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0685",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 20,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Hair and beauty",
   "keywords": [
     "wellbeing",
