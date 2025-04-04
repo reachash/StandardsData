@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 108,
   "referenceNumber": "ST0222",
+  "learningAimClassCode": "",
   "title": "HM forces serviceperson (protective services)",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0222",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 12,
   "maxFunding": 4000,
+  "maxFundingAdditionalInformation": "",
   "route": "Protective services",
   "keywords": [
     "HM forces",
