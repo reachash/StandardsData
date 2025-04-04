@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 176,
   "referenceNumber": "ST0352",
+  "learningAimClassCode": "",
   "title": "Accident repair technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0352",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "accident repairs",
