@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 46,
   "referenceNumber": "ST0290",
+  "learningAimClassCode": "",
   "title": "Nuclear health physics monitor",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0290",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "nuclear industry",
