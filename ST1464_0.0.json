@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 0,
   "referenceNumber": "ST1464",
+  "learningAimClassCode": "",
   "title": "Consumer financial services professional",
   "status": "Proposal in development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1464",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
   "keywords": [],
   "jobRoles": [
