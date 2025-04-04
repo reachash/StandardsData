@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 53,
   "referenceNumber": "ST0159",
+  "learningAimClassCode": "",
   "title": "Utilities engineering technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0159",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [],
   "jobRoles": [
