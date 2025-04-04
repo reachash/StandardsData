@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 311,
   "referenceNumber": "ST0423",
+  "learningAimClassCode": "",
   "title": "Business to business sales professional (integrated degree)",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0423",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 21000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "Business to Business Sales Professional",
