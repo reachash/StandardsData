@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 451,
   "referenceNumber": "ST0628",
+  "learningAimClassCode": "",
   "title": "Cultural heritage conservator (degree)",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0628",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 54,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "cultural",
