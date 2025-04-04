@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 277,
   "referenceNumber": "ST0042",
+  "learningAimClassCode": "",
   "title": "Civil engineering site management (degree)",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0042",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "degree",
