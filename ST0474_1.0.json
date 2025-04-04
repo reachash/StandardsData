@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 210,
   "referenceNumber": "ST0474",
+  "learningAimClassCode": "",
   "title": "Motor finance specialist",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0474",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
   "keywords": [
     "finance",
