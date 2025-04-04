@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 66,
   "referenceNumber": "ST0236",
+  "learningAimClassCode": "",
   "title": "Senior housing and property management",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0236",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "housing management",
