@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 129,
   "referenceNumber": "ST0196",
+  "learningAimClassCode": "",
   "title": "Food and drink advanced process operator",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0196",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Food processing",
