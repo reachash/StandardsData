@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 24,
   "referenceNumber": "ST0315",
+  "learningAimClassCode": "",
   "title": "Railway engineering design technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0315",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "signalling",
