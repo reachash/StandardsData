@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 199,
   "referenceNumber": "ST0091",
+  "learningAimClassCode": "",
   "title": "Civil engineering technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0091",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "civil engineering",
