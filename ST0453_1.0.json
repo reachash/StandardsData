@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 416,
   "referenceNumber": "ST0453",
+  "learningAimClassCode": "",
   "title": "Water treatment technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0453",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "water",
