@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 192,
   "referenceNumber": "ST0060",
+  "learningAimClassCode": "",
   "title": "Building services engineering ductwork installer",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0060",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "building",
