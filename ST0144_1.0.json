@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 175,
   "referenceNumber": "ST0144",
+  "learningAimClassCode": "",
   "title": "Mineral processing mobile and static plant operator",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0144",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "extractive operations",
