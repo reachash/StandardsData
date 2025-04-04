@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 433,
   "referenceNumber": "ST0107",
+  "learningAimClassCode": "",
   "title": "Systems engineer (degree)",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0107",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 21000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Defence",
