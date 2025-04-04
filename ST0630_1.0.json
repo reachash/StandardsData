@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 363,
   "referenceNumber": "ST0630",
+  "learningAimClassCode": "",
   "title": "Beauty therapist",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0630",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 15,
   "maxFunding": 7000,
+  "maxFundingAdditionalInformation": "",
   "route": "Hair and beauty",
   "keywords": [
     "service enterprises",
