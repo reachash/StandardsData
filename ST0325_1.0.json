@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 147,
   "referenceNumber": "ST0325",
+  "learningAimClassCode": "",
   "title": "Retail manager",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0325",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "shop",
