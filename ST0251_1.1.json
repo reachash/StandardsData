@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 549,
   "referenceNumber": "ST0251",
+  "learningAimClassCode": "",
   "title": "Stairlift, platform lift, service lift electromechanic",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0251",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 11000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "stairlift installation",
