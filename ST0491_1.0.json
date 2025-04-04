@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 244,
   "referenceNumber": "ST0491",
+  "learningAimClassCode": "",
   "title": "Geospatial survey technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0491",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "Geospatial Survey Technician",
