@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 749,
   "referenceNumber": "ST1312",
+  "learningAimClassCode": "",
   "title": "Legal technician - conveyancing technician or probate technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1312",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 10000,
+  "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
   "keywords": [
     "legal technician",
