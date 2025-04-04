@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 320,
   "referenceNumber": "ST0602",
+  "learningAimClassCode": "",
   "title": "Revenues and welfare benefits practitioner",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0602",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 7000,
+  "maxFundingAdditionalInformation": "",
   "route": "Business and administration",
   "keywords": [
     "Revenues and welfare benefits practitioner",
