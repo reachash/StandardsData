@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 139,
   "referenceNumber": "ST0232",
+  "learningAimClassCode": "",
   "title": "Senior production chef",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0232",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Catering and hospitality",
   "keywords": [
     "food",
