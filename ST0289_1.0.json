@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 47,
   "referenceNumber": "ST0289",
+  "learningAimClassCode": "",
   "title": "Nuclear scientist and nuclear engineer (integrated degree)",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0289",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "quality control",
