@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 283,
   "referenceNumber": "ST0499",
+  "learningAimClassCode": "",
   "title": "Autocare technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0499",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Autocare technician",
