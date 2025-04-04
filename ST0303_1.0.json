@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 225,
   "referenceNumber": "ST0303",
+  "learningAimClassCode": "",
   "title": "Plumbing and domestic heating technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0303",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 21000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "construction",
