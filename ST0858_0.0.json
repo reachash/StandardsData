@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 0,
   "referenceNumber": "ST0858",
+  "learningAimClassCode": "",
   "title": "Clinical photographer",
   "status": "Withdrawn",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0858",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "media",
