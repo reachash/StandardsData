@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 685,
   "referenceNumber": "ST1291",
+  "learningAimClassCode": "",
   "title": "Water industry treatment process technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1291",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 4,
   "typicalDuration": 36,
   "maxFunding": 16000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "water",
