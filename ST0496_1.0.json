@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 313,
   "referenceNumber": "ST0496",
+  "learningAimClassCode": "",
   "title": "Rail and rail systems senior engineer (integrated degree)",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0496",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 24000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "rail",
