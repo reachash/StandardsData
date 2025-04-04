@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 405,
   "referenceNumber": "ST0556",
+  "learningAimClassCode": "",
   "title": "Improvement leader",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0556",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Business and administration",
   "keywords": [
     "Improvement Leader",
