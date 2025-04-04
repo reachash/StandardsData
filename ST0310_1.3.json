@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 128,
   "referenceNumber": "ST0310",
+  "learningAimClassCode": "",
   "title": "Associate project manager",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0310",
   "qualificationStandardUrl": null,
   "versionNumber": "1.3",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Business and administration",
   "keywords": [
     "Project management",
