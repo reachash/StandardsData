@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 131,
   "referenceNumber": "ST0198",
+  "learningAimClassCode": "",
   "title": "Food industry technologist",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0198",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 4,
   "typicalDuration": 24,
   "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "Food technology",
