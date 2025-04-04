@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 153,
   "referenceNumber": "ST0374",
+  "learningAimClassCode": "",
   "title": "Financial adviser",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0374",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
   "keywords": [
     "Pension",
