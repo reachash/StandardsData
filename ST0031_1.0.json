@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 304,
   "referenceNumber": "ST0031",
+  "learningAimClassCode": "",
   "title": "Automotive glazing technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0031",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Automotive Glazing Technician",
