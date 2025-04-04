@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 337,
   "referenceNumber": "ST0585",
+  "learningAimClassCode": "",
   "title": "Data scientist (integrated degree)",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0585",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 19000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "data",
