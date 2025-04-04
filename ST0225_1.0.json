@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 181,
   "referenceNumber": "ST0225",
+  "learningAimClassCode": "",
   "title": "Horticulture or landscape operative",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0225",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "tree surgery",
