@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 72,
   "referenceNumber": "ST0055",
+  "learningAimClassCode": "",
   "title": "Bespoke cutter and tailor",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0055",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 4,
   "typicalDuration": 24,
   "maxFunding": 17000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "fashion",
