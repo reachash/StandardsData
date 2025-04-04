@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 726,
   "referenceNumber": "ST1320",
+  "learningAimClassCode": "",
   "title": "Assistant farm manager",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1320",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 5,
   "typicalDuration": 24,
   "maxFunding": 11000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "assistant",
