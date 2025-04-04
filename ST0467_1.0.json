@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 331,
   "referenceNumber": "ST0467",
+  "learningAimClassCode": "",
   "title": "Poultry technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0467",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "Poultry",
