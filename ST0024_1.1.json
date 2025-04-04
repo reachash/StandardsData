@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 10,
   "referenceNumber": "ST0024",
+  "learningAimClassCode": "",
   "title": "Electrical or electronic technical support engineer (degree)",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0024",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 60,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "product design",
