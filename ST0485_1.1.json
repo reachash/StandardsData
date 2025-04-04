@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 448,
   "referenceNumber": "ST0485",
+  "learningAimClassCode": "",
   "title": "Network cable installer",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0485",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "digital",
