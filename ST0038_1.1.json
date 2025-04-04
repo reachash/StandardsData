@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 86,
   "referenceNumber": "ST0038",
+  "learningAimClassCode": "",
   "title": "Aviation ground specialist",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0038",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 3000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "Planes",
