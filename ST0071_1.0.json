@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 278,
   "referenceNumber": "ST0071",
+  "learningAimClassCode": "",
   "title": "Customer service specialist",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0071",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 15,
   "maxFunding": 4000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "Customer service specialist",
