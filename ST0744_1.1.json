@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 512,
   "referenceNumber": "ST0744",
+  "learningAimClassCode": "",
   "title": "Fenestration fabricator",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0744",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 2,
   "typicalDuration": 18,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "manufacturing",
