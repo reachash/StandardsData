@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 0,
   "referenceNumber": "ST1404",
+  "learningAimClassCode": "",
   "title": "Water industry asset maintenance technician",
   "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1404",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 48,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "water industry asset maintenance technician",
