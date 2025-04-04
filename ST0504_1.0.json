@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 372,
   "referenceNumber": "ST0504",
+  "learningAimClassCode": "",
   "title": "Floorlayer",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0504",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 13000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "floors",
