@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 430,
   "referenceNumber": "ST0135",
+  "learningAimClassCode": "",
   "title": "Early years educator",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0135",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Education and early years",
   "keywords": [
     "education",
