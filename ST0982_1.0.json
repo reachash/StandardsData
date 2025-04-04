@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 777,
   "referenceNumber": "ST0982",
+  "learningAimClassCode": "",
   "title": "Furniture making operative",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0982",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 11000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Furniture manufacture",
