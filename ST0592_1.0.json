@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 394,
   "referenceNumber": "ST0592",
+  "learningAimClassCode": "",
   "title": "Marina and boatyard operative",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0592",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 10000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "marina",
