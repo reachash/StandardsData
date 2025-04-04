@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 342,
   "referenceNumber": "ST0588",
+  "learningAimClassCode": "",
   "title": "Propulsion technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0588",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 42,
   "maxFunding": 21000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Propulsion technician",
