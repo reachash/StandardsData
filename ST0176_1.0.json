@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 77,
   "referenceNumber": "ST0176",
+  "learningAimClassCode": "",
   "title": "Credit controller and collector",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0176",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
   "keywords": [
     "financial services",
