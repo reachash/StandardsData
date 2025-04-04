@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 518,
   "referenceNumber": "ST0270",
+  "learningAimClassCode": "",
   "title": "Roofer",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0270",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 11000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [],
   "jobRoles": [
