@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 534,
   "referenceNumber": "ST0378",
+  "learningAimClassCode": "",
   "title": "Blacksmith",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0378",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 21000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "Engineering",
