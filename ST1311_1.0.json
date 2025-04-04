@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 745,
   "referenceNumber": "ST1311",
+  "learningAimClassCode": "",
   "title": "Licensed conveyancer or licensed probate practitioner",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1311",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 56,
   "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
   "keywords": [
     "legal services",
