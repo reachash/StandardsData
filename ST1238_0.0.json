@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 0,
   "referenceNumber": "ST1238",
+  "learningAimClassCode": "",
   "title": "Aesthetic practitioner - skin rejuvenation",
   "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1238",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 14,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Hair and beauty",
   "keywords": [
     "skin rejuvenation",
