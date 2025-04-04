@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 19,
   "referenceNumber": "ST0110",
+  "learningAimClassCode": "",
   "title": "Dental laboratory assistant",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0110",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "dentistry",
