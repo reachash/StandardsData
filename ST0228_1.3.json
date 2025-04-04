@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 93,
   "referenceNumber": "ST0228",
+  "learningAimClassCode": "",
   "title": "Commis chef",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0228",
   "qualificationStandardUrl": null,
   "versionNumber": "1.3",
@@ -17,6 +19,7 @@
   "ePALength": 4,
   "typicalDuration": 12,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Catering and hospitality",
   "keywords": [
     "Food",
