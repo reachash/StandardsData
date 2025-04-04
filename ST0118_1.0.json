@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 80,
   "referenceNumber": "ST0118",
+  "learningAimClassCode": "",
   "title": "Data analyst",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0118",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "numerical information",
