@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 718,
   "referenceNumber": "ST1328",
+  "learningAimClassCode": "",
   "title": "Polymer processing technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1328",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 36,
   "maxFunding": 25000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "manufacturing",
