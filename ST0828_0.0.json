@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 0,
   "referenceNumber": "ST0828",
+  "learningAimClassCode": "",
   "title": "Sport performance analyst",
   "status": "Withdrawn",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0828",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 0,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "sport",
