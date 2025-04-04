@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 276,
   "referenceNumber": "ST0040",
+  "learningAimClassCode": "",
   "title": "Building services engineering site management (degree)",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0040",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "degree",
