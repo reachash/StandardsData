@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 230,
   "referenceNumber": "ST0375",
+  "learningAimClassCode": "",
   "title": "Tunnelling operative",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0375",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "Tunnelling operative",
