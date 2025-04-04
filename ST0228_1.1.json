@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 93,
   "referenceNumber": "ST0228",
+  "learningAimClassCode": "",
   "title": "Commis chef",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0228",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 8000,
+  "maxFundingAdditionalInformation": "",
   "route": "Catering and hospitality",
   "keywords": [
     "kitchen",
