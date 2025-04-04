@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 100,
   "referenceNumber": "ST0336",
+  "learningAimClassCode": "",
   "title": "Transport planning technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0336",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "highways",
