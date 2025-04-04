@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 75,
   "referenceNumber": "ST0342",
+  "learningAimClassCode": "",
   "title": "Outside broadcasting engineer (integrated degree)",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0342",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "TV Production",
