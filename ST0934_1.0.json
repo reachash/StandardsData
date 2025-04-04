@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 622,
   "referenceNumber": "ST0934",
+  "learningAimClassCode": "",
   "title": "Corporate responsibility and sustainability practitioner",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0934",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 14000,
+  "maxFundingAdditionalInformation": "",
   "route": "Business and administration",
   "keywords": [
     "business",
