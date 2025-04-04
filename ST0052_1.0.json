@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 124,
   "referenceNumber": "ST0052",
+  "learningAimClassCode": "",
   "title": "Highways electrician / service operative",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0052",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "electrical engineering",
