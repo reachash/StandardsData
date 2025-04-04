@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 532,
   "referenceNumber": "ST0843",
+  "learningAimClassCode": "",
   "title": "Cleaning hygiene operative",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0843",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 12,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "healthcare",
