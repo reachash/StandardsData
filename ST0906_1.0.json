@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 610,
   "referenceNumber": "ST0906",
+  "learningAimClassCode": "",
   "title": "Youth support worker",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0906",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 4500,
+  "maxFundingAdditionalInformation": "",
   "route": "Care services",
   "keywords": [
     "care",
