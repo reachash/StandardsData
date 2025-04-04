@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 37,
   "referenceNumber": "ST0010",
+  "learningAimClassCode": "",
   "title": "Aerospace engineer (degree)",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0010",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "plane",
