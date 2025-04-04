@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 25,
   "referenceNumber": "ST0119",
+  "learningAimClassCode": "",
   "title": "Digital and technology solutions professional (integrated degree)",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0119",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "software analysis",
