@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 473,
   "referenceNumber": "ST0618",
+  "learningAimClassCode": "",
   "title": "Speech and language therapist",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0618",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 26000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "speech",
