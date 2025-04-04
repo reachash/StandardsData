@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 250,
   "referenceNumber": "ST0188",
+  "learningAimClassCode": "",
   "title": "Business fire safety advisor",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0188",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 2500,
+  "maxFundingAdditionalInformation": "",
   "route": "Protective services",
   "keywords": [
     "Business Fire Safety Advisor",
