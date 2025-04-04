@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 156,
   "referenceNumber": "ST0287",
+  "learningAimClassCode": "",
   "title": "Associate ambulance practitioner",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0287",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "ambulance crew",
