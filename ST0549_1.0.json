@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 334,
   "referenceNumber": "ST0549",
+  "learningAimClassCode": "",
   "title": "Sewing machinist",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0549",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 4000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Sewing Machinist",
