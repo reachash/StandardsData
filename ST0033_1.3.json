@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 59,
   "referenceNumber": "ST0033",
+  "learningAimClassCode": "",
   "title": "Motor vehicle service and maintenance technician (light vehicle)",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0033",
   "qualificationStandardUrl": null,
   "versionNumber": "1.3",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "vehicle repairs",
