@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 117,
   "referenceNumber": "ST0003",
+  "learningAimClassCode": "",
   "title": "Professional accounting technician",
   "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0003",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
   "keywords": [
     "Accountancy",
