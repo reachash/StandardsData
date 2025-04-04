@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 209,
   "referenceNumber": "ST0201",
+  "learningAimClassCode": "",
   "title": "Supply chain practitioner (fast moving consumer good) (previously Operator Manager)",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0201",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "Supply Chain Practitioner",
