@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 206,
   "referenceNumber": "ST0339",
+  "learningAimClassCode": "",
   "title": "Passenger transport onboard and station team member",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0339",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "Passenger Transport",
