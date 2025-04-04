@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 204,
   "referenceNumber": "ST0001",
+  "learningAimClassCode": "",
   "title": "Accountancy or taxation professional",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0001",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 21000,
+  "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
   "keywords": [
     "taxation",
