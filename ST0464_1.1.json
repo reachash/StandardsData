@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 524,
   "referenceNumber": "ST0464",
+  "learningAimClassCode": "",
   "title": "Smart home technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0464",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "smart",
