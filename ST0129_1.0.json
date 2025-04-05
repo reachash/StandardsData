@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 91,
   "referenceNumber": "ST0129",
+  "learningAimClassCode": "",
   "title": "Software tester",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0129",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "quality assurance",
