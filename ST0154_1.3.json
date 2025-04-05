@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 146,
   "referenceNumber": "ST0154",
+  "learningAimClassCode": "",
   "title": "Maintenance and operations engineering technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0154",
   "qualificationStandardUrl": null,
   "versionNumber": "1.3",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 26000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "industrial plant",
