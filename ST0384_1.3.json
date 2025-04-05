@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 105,
   "referenceNumber": "ST0384",
+  "learningAimClassCode": "",
   "title": "Team leader",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0384",
   "qualificationStandardUrl": null,
   "versionNumber": "1.3",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 15,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Business and administration",
   "keywords": [
     "team leader",
