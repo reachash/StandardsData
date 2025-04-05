@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 380,
   "referenceNumber": "ST0368",
+  "learningAimClassCode": "",
   "title": "Wall and floor tiler",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0368",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "building",
