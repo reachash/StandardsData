@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 25,
   "referenceNumber": "ST0119",
+  "learningAimClassCode": "",
   "title": "Digital and technology solutions professional",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0119",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 48,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "software analysis",
