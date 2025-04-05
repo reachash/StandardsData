@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 168,
   "referenceNumber": "ST0413",
+  "learningAimClassCode": "",
   "title": "Healthcare science practitioner (integrated degree)",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0413",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 2,
   "typicalDuration": 36,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "life sciences",
