@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 704,
   "referenceNumber": "ST0894",
+  "learningAimClassCode": "",
   "title": "Service designer",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0894",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 6,
   "typicalDuration": 24,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Business and administration",
   "keywords": [
     "service designer",
