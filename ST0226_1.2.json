@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 392,
   "referenceNumber": "ST0226",
+  "learningAimClassCode": "",
   "title": "Horticulture or Landscaping Supervisor",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0226",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 5,
   "typicalDuration": 30,
   "maxFunding": 10000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "landscape",
