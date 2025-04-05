@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 174,
   "referenceNumber": "ST0105",
+  "learningAimClassCode": "",
   "title": "Junior content producer",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0105",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "digital content",
