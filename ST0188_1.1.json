@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 250,
   "referenceNumber": "ST0188",
+  "learningAimClassCode": "",
   "title": "Fire safety advisor",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0188",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Protective services",
   "keywords": [
     "Business Fire Safety Advisor",
