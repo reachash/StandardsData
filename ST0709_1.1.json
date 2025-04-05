@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 504,
   "referenceNumber": "ST0709",
+  "learningAimClassCode": "",
   "title": "District nurse",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0709",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 10000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "nurse",
