@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 485,
   "referenceNumber": "ST0668",
+  "learningAimClassCode": "",
   "title": "Assistant buyer and assistant merchandiser",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0668",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 10000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "Buying and Merchandising",
