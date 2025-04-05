@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 102,
   "referenceNumber": "ST0215",
+  "learningAimClassCode": "",
   "title": "Healthcare assistant practitioner",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0215",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "health",
