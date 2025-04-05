@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 241,
   "referenceNumber": "ST0486",
+  "learningAimClassCode": "",
   "title": "Operational firefighter",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0486",
   "qualificationStandardUrl": null,
   "versionNumber": "1.3",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 14000,
+  "maxFundingAdditionalInformation": "",
   "route": "Protective services",
   "keywords": [
     "fire",
