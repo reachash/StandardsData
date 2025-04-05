@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 322,
   "referenceNumber": "ST0400",
+  "learningAimClassCode": "",
   "title": "Small commercial vessel crewmember",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0400",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 22000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "Workboat crewmember",
