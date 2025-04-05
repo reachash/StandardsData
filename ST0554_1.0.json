@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 494,
   "referenceNumber": "ST0554",
+  "learningAimClassCode": "",
   "title": "Sonographer (integrated degree)",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0554",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 19000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "Sonographer",
