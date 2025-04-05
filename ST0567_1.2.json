@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 318,
   "referenceNumber": "ST0567",
+  "learningAimClassCode": "",
   "title": "Paramedic (integrated degree)",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0567",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 25000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "paramedic",
