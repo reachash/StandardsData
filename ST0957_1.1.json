@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 756,
   "referenceNumber": "ST0957",
+  "learningAimClassCode": "",
   "title": "Spatial data specialist",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0957",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "spatial data specialist",
