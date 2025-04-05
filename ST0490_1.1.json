@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 203,
   "referenceNumber": "ST0490",
+  "learningAimClassCode": "",
   "title": "Teacher ",
   "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0490",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 1,
   "typicalDuration": 45,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Education and early years",
   "keywords": [
     "teacher",
