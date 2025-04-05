@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 527,
   "referenceNumber": "ST0765",
+  "learningAimClassCode": "",
   "title": "Harbour master",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0765",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 23000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [],
   "jobRoles": [
