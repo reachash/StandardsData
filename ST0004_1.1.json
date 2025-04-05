@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 17,
   "referenceNumber": "ST0004",
+  "learningAimClassCode": "",
   "title": "Actuarial technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0004",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 2,
   "typicalDuration": 24,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
   "keywords": [
     "Risk",
