@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 391,
   "referenceNumber": "ST0517",
+  "learningAimClassCode": "",
   "title": "Occupational therapist (integrated degree)",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0517",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 24000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "occupational therapist",
