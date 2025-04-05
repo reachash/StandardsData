@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 483,
   "referenceNumber": "ST0786",
+  "learningAimClassCode": "",
   "title": "Associate continuing healthcare practitioner",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0786",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 10000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "health",
