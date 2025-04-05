@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 4,
   "referenceNumber": "ST0026",
+  "learningAimClassCode": "",
   "title": "Mechatronics maintenance technician 2014",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0026",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "automotive",
