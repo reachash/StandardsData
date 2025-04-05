@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 267,
   "referenceNumber": "ST0458",
+  "learningAimClassCode": "",
   "title": "Textile manufacturing operative",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0458",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "textile",
