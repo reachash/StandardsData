@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 111,
   "referenceNumber": "ST0259",
+  "learningAimClassCode": "",
   "title": "Supply chain warehouse operative",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0259",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 12,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "Haulage",
