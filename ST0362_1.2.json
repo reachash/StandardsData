@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 143,
   "referenceNumber": "ST0362",
+  "learningAimClassCode": "",
   "title": "Compliance and risk officer",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0362",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 5,
   "typicalDuration": 15,
   "maxFunding": 11000,
+  "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
   "keywords": [
     "Internal audit",
