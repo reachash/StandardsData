@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 789,
   "referenceNumber": "ST1310",
+  "learningAimClassCode": "",
   "title": "Family and systemic psychotherapist",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1310",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 16000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "psychotherapy",
