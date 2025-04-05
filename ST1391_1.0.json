@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 790,
   "referenceNumber": "ST1391",
+  "learningAimClassCode": "",
   "title": "Maritime pipeworker",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1391",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 42,
   "maxFunding": 24000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Maritime",
