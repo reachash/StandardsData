@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 800,
   "referenceNumber": "ST0671",
+  "learningAimClassCode": "",
   "title": "Construction equipment maintenance technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0671",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 36,
   "maxFunding": 19000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "construction equipment",
