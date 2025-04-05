@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 523,
   "referenceNumber": "ST0841",
+  "learningAimClassCode": "",
   "title": "Engineering manufacturing technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0841",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 42,
   "maxFunding": 21000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Manufacturing",
