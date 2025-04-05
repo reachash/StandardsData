@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 634,
   "referenceNumber": "ST0868",
+  "learningAimClassCode": "",
   "title": "Early intervention practitioner",
   "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0868",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Care services",
   "keywords": [
     "health",
