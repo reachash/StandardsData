@@ -2,13 +2,15 @@
   "templateType": "Occupational Standard",
   "larsCode": 264,
   "referenceNumber": "ST0539",
+  "learningAimClassCode": "",
   "title": "International freight forwarding specialist",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0539",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised but remained the same.",
-  "changedDate": "2023-09-18T00:00:00",
+  "changedDate": "2025-04-04T00:00:00",
   "earliestStartDate": "2023-09-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "International freight forwarding specialist",
@@ -364,7 +367,7 @@
   "clusterId": "37",
   "clusterDescription": "Undertake routine materials movement, plan and administer logistics",
   "createdDate": "2024-11-22T10:49:00 +00:00",
-  "lastUpdated": "2023-09-18T00:00:00 +00:00",
+  "lastUpdated": "2025-04-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-04-20T00:00:00 +00:00",
   "occupationCode": "OCC0539",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0539-v1-1?view=standard#OccupationalStandard",
@@ -949,5 +952,5 @@
   ],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2023-09-18T00:00:00"
+  "publishDate": "2025-04-04T00:00:00"
 }
