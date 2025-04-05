@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 356,
   "referenceNumber": "ST0366",
+  "learningAimClassCode": "",
   "title": "Fencing installer",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0366",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 8000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "Fencing installer",
