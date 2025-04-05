@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 691,
   "referenceNumber": "ST1305",
+  "learningAimClassCode": "",
   "title": "Machining technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1305",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 42,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Machines",
