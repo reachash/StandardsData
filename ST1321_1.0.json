@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 683,
   "referenceNumber": "ST1321",
+  "learningAimClassCode": "",
   "title": "Forest craftsperson",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1321",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 14000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "forest",
