@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 747,
   "referenceNumber": "ST0774",
+  "learningAimClassCode": "",
   "title": "Dispensing optician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0774",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 1,
   "typicalDuration": 36,
   "maxFunding": 23000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "Dispensing Optician",
