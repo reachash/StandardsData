@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 368,
   "referenceNumber": "ST0601",
+  "learningAimClassCode": "",
   "title": "Prosthetist and orthotist (integrated degree)",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0601",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 24000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "prosthetics",
