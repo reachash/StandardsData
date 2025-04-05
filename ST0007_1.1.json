@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 551,
   "referenceNumber": "ST0007",
+  "learningAimClassCode": "",
   "title": "Lead practitioner in adult care",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0007",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 7000,
+  "maxFundingAdditionalInformation": "",
   "route": "Care services",
   "keywords": [
     "health",
