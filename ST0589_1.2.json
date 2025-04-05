@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 364,
   "referenceNumber": "ST0589",
+  "learningAimClassCode": "",
   "title": "Production chef",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0589",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 12,
   "maxFunding": 7000,
+  "maxFundingAdditionalInformation": "",
   "route": "Catering and hospitality",
   "keywords": [
     "catering",
