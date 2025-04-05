@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 618,
   "referenceNumber": "ST0973",
+  "learningAimClassCode": "",
   "title": "Information communications technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0973",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "ICT",
