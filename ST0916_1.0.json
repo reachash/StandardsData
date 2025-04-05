@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 700,
   "referenceNumber": "ST0916",
+  "learningAimClassCode": "",
   "title": "Scenic artist",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0916",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 21,
   "maxFunding": 19000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "scenic",
