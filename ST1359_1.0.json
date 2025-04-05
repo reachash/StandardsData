@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 730,
   "referenceNumber": "ST1359",
+  "learningAimClassCode": "",
   "title": "Animal care and welfare manager",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1359",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "animal husbandry",
