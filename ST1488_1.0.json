@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 801,
   "referenceNumber": "ST1488",
+  "learningAimClassCode": "",
   "title": "Food and beverage team member",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1488",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 12,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Catering and hospitality",
   "keywords": [
     "bars",
