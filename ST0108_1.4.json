@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 18,
   "referenceNumber": "ST0108",
+  "learningAimClassCode": "",
   "title": "Dental technician (integrated)",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0108",
   "qualificationStandardUrl": null,
   "versionNumber": "1.4",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "dentistry",
