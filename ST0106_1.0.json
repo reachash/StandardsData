@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 229,
   "referenceNumber": "ST0106",
+  "learningAimClassCode": "",
   "title": "Creative venue technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0106",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "Creative Venue Technician",
