@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 579,
   "referenceNumber": "ST0387",
+  "learningAimClassCode": "",
   "title": "Lift truck and powered access engineering technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0387",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 4,
   "typicalDuration": 36,
   "maxFunding": 16000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "service",
