@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 678,
   "referenceNumber": "ST1017",
+  "learningAimClassCode": "",
   "title": "Domestic electrician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1017",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 6,
   "typicalDuration": 36,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "electrician",
