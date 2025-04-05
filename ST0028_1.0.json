@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 13,
   "referenceNumber": "ST0028",
+  "learningAimClassCode": "",
   "title": "Product design and development technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0028",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "product",
