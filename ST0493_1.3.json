@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 281,
   "referenceNumber": "ST0493",
+  "learningAimClassCode": "",
   "title": "Podiatrist",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0493",
   "qualificationStandardUrl": null,
   "versionNumber": "1.3",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 24000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "podiatrist",
