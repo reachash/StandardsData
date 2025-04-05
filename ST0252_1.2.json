@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 404,
   "referenceNumber": "ST0252",
+  "learningAimClassCode": "",
   "title": "Lift and escalator engineering",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0252",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 4,
   "typicalDuration": 36,
   "maxFunding": 25000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "installation",
