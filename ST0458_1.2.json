@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 267,
   "referenceNumber": "ST0458",
+  "learningAimClassCode": "",
   "title": "Textile manufacturing operative",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0458",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 7000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "textile",
