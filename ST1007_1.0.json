@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 727,
   "referenceNumber": "ST1007",
+  "learningAimClassCode": "",
   "title": "Aviation flight operations coordinator",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1007",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 6,
   "typicalDuration": 18,
   "maxFunding": 8000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "aviation",
