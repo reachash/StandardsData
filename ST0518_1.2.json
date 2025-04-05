@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 506,
   "referenceNumber": "ST0518",
+  "learningAimClassCode": "",
   "title": "Physician associate - integrated degree",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0518",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 17000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "healthcare",
