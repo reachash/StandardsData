@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 725,
   "referenceNumber": "ST1388",
+  "learningAimClassCode": "",
   "title": "Photographer",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1388",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 8000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "photographer",
