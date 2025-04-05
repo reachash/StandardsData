@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 473,
   "referenceNumber": "ST0618",
+  "learningAimClassCode": "",
   "title": "Speech and language therapist (integrated degree)",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0618",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 25000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "speech",
