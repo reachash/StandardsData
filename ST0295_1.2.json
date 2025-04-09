@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 290,
   "referenceNumber": "ST0295",
+  "learningAimClassCode": "",
   "title": "Painter and decorator",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0295",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 10000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "Painter and decorator",
