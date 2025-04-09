@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 54,
   "referenceNumber": "ST0078",
+  "learningAimClassCode": "",
   "title": "Butcher",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0078",
   "qualificationStandardUrl": null,
   "versionNumber": "1.3",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 10000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "butchery",
