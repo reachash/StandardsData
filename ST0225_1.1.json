@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 181,
   "referenceNumber": "ST0225",
+  "learningAimClassCode": "",
   "title": "Horticulture or landscape construction operative",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0225",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 4,
   "typicalDuration": 24,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "construction",
