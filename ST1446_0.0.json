@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 0,
   "referenceNumber": "ST1446",
+  "learningAimClassCode": "",
   "title": "Veterinary Care Assistant",
   "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1446",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "veterinary care",
