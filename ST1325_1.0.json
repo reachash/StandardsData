@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 712,
   "referenceNumber": "ST1325",
+  "learningAimClassCode": "",
   "title": "Junior visual effects - VFX artist or assistant technical director - ATD",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1325",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 10000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "Art",
