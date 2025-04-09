@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 798,
   "referenceNumber": "ST1427",
+  "learningAimClassCode": "",
   "title": "Forestry works manager",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1427",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 15,
   "maxFunding": 8000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "Forestry works manager",
