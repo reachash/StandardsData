@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 141,
   "referenceNumber": "ST0014",
+  "learningAimClassCode": "",
   "title": "Aviation maintenance mechanic - military",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0014",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Aviation",
