@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 520,
   "referenceNumber": "ST0697",
+  "learningAimClassCode": "",
   "title": "Specialist community public health nurse",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0697",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 13000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "health",
