@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 443,
   "referenceNumber": "ST0559",
+  "learningAimClassCode": "",
   "title": "Museums and galleries technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0559",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 15,
   "maxFunding": 11000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "museums",
