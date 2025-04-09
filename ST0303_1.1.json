@@ -4,15 +4,15 @@
   "referenceNumber": "ST0303",
   "learningAimClassCode": "",
   "title": "Plumbing and domestic heating technician",
-  "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": false,
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0303",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised",
   "changedDate": "2024-06-17T00:00:00",
   "earliestStartDate": "2024-06-17T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2025-04-06T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Fitting and servicing domestic water, heating and drainage systems.",
   "level": 3,
@@ -39,7 +39,7 @@
   "ssa2": "5.2 Building and construction",
   "version": "1.1",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in&#160;the building services sector of the construction industry.&lt;/p&gt;\n&lt;p&gt;Plumbing &amp;amp; domestic heating technicians size and select, plan and install, service, maintain and commission plumbing and domestic heating systems.&lt;/p&gt;\n&lt;p&gt;All technicians will be required to work on typical plumbing elements such as hot and cold water systems and storage, supplies to dwellings and associated pipework, above-ground pipework, connection to below-ground, sanitary pipework, fittings and furniture. Appliances and equipment can include central heating boilers, bathroom furniture, sanitary appliances, drainage and rainwater systems. Further to that, technicians will specialise in one of three areas:&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Domestic gas fired hot water heating appliances technician:&lt;/strong&gt; installation and maintenance of domestic natural gas systems and central heating and hot water appliances.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Domestic air source heat pumps &amp;amp; solar thermal systems technician: &lt;/strong&gt;installation and maintenance of air source heat pumps and solar thermal hot water systems in domestic premises.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Non-domestic plumbing technician: &lt;/strong&gt;installation and maintenance of plumbing systems in premises such as hospitals and healthcare premises, schools, high rise buildings, public buildings, industrial and commercial premises, etc.&lt;/p&gt;\n&lt;p&gt;In their daily work an employee in this occupation interacts with customers and end users, and as such require a high level of customer service. Technicians can find themselves working inside or outside a customers’ property as well as on building sites.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for working both independently with a minimum of supervision and also as a member of a team involving close liaison and cooperation with site and line management, colleagues and other trades.&#160;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in&amp;nbsp;the building services sector of the construction industry.&lt;/p&gt;\n&lt;p&gt;Plumbing &amp;amp; domestic heating technicians size and select, plan and install, service, maintain and commission plumbing and domestic heating systems.&lt;/p&gt;\n&lt;p&gt;All technicians will be required to work on typical plumbing elements such as hot and cold water systems and storage, supplies to dwellings and associated pipework, above-ground pipework, connection to below-ground, sanitary pipework, fittings and furniture. Appliances and equipment can include central heating boilers, bathroom furniture, sanitary appliances, drainage and rainwater systems. Further to that, technicians will specialise in one of three areas:&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Domestic gas fired hot water heating appliances technician:&lt;/strong&gt; installation and maintenance of domestic natural gas systems and central heating and hot water appliances.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Domestic air source heat pumps &amp;amp; solar thermal systems technician: &lt;/strong&gt;installation and maintenance of air source heat pumps and solar thermal hot water systems in domestic premises.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Non-domestic plumbing technician: &lt;/strong&gt;installation and maintenance of plumbing systems in premises such as hospitals and healthcare premises, schools, high rise buildings, public buildings, industrial and commercial premises, etc.&lt;/p&gt;\n&lt;p&gt;In their daily work an employee in this occupation interacts with customers and end users, and as such require a high level of customer service. Technicians can find themselves working inside or outside a customers’ property as well as on building sites.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for working both independently with a minimum of supervision and also as a member of a team involving close liaison and cooperation with site and line management, colleagues and other trades.&amp;nbsp;&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "f3ac896f-04fb-46f0-be82-c80f97bff5ff",
@@ -428,7 +428,7 @@
   "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Building Services Engineering",
-  "cluster": "Building services engineering operative or technician",
+  "cluster": "Building Services Engineering Operative/Technician",
   "clusterId": "65",
   "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
   "createdDate": "2024-04-05T08:57:07 +00:00",
@@ -1925,5 +1925,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2024-06-17T00:00:00"
+  "publishDate": "2025-04-06T00:00:00"
 }
