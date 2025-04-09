@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 38,
   "referenceNumber": "ST0013",
+  "learningAimClassCode": "",
   "title": "High integrity software engineer",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0013",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 9,
   "typicalDuration": 48,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "modelling",
