@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 35,
   "referenceNumber": "ST0292",
+  "learningAimClassCode": "",
   "title": "Nuclear welding inspection technician",
   "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0292",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 2,
   "typicalDuration": 48,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "nuclear industry",
