@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 690,
   "referenceNumber": "ST0999",
+  "learningAimClassCode": "",
   "title": "Lead engineering maintenance technician",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0999",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 6,
   "typicalDuration": 36,
   "maxFunding": 19000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "engineering",
