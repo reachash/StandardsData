@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 695,
   "referenceNumber": "ST1380",
+  "learningAimClassCode": "",
   "title": "Learning and skills assessor",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1380",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 12,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Education and early years",
   "keywords": [],
   "jobRoles": [
