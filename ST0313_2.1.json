@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 222,
   "referenceNumber": "ST0313",
+  "learningAimClassCode": "",
   "title": "Commercial procurement and supply (formerly Public sector commercial professional)",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0313",
   "qualificationStandardUrl": null,
   "versionNumber": "2.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "supply",
