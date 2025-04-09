@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 516,
   "referenceNumber": "ST0174",
+  "learningAimClassCode": "",
   "title": "Props technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0174",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "props",
