@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 792,
   "referenceNumber": "ST1432",
+  "learningAimClassCode": "",
   "title": "Dental technician (GDC 2023)",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1432",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 22000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "Dental technician",
