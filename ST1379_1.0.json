@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 694,
   "referenceNumber": "ST1379",
+  "learningAimClassCode": "",
   "title": "Learning and skills mentor",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1379",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 12,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Education and early years",
   "keywords": [
     "teaching",
