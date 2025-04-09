@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 381,
   "referenceNumber": "ST0510",
+  "learningAimClassCode": "",
   "title": "Social worker (integrated degree)",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0510",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 24000,
+  "maxFundingAdditionalInformation": "",
   "route": "Care services",
   "keywords": [
     "social worker",
