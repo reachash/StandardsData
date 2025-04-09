@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 321,
   "referenceNumber": "ST0302",
+  "learningAimClassCode": "",
   "title": "Personal trainer",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0302",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 15,
   "maxFunding": 4000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "Personal  Trainer",
