@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 188,
   "referenceNumber": "ST0419",
+  "learningAimClassCode": "",
   "title": "Rail infrastructure operator 2017",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0419",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "railway signalling",
