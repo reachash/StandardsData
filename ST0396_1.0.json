@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 407,
   "referenceNumber": "ST0396",
+  "learningAimClassCode": "",
   "title": "Cultural learning and participation officer",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0396",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 15,
   "maxFunding": 8000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "Crafts",
