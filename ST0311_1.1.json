@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 257,
   "referenceNumber": "ST0311",
+  "learningAimClassCode": "",
   "title": "Public relations and communications assistant",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0311",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 5,
   "typicalDuration": 14,
   "maxFunding": 11000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "Public Relations Assistant",
