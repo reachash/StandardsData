@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 540,
   "referenceNumber": "ST0762",
+  "learningAimClassCode": "",
   "title": "Information manager",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0762",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 7000,
+  "maxFundingAdditionalInformation": "",
   "route": "Business and administration",
   "keywords": [
     "information",
