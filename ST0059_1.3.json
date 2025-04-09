@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 76,
   "referenceNumber": "ST0059",
+  "learningAimClassCode": "",
   "title": "Boatbuilder",
   "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0059",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 6,
   "typicalDuration": 42,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "boatbuilding",
