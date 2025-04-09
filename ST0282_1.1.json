@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 187,
   "referenceNumber": "ST0282",
+  "learningAimClassCode": "",
   "title": "Metrology technician",
   "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0282",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 36,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "calibration",
