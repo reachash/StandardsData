@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 707,
   "referenceNumber": "ST1322",
+  "learningAimClassCode": "",
   "title": "Resilience and emergencies professional",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1322",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 6,
   "typicalDuration": 40,
   "maxFunding": 23000,
+  "maxFundingAdditionalInformation": "",
   "route": "Protective services",
   "keywords": [
     "resilience",
