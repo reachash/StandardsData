@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 754,
   "referenceNumber": "ST0917",
+  "learningAimClassCode": "",
   "title": "Scenic construction technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0917",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 30,
   "maxFunding": 23000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "theatre",
