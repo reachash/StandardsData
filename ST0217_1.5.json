@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 151,
   "referenceNumber": "ST0217",
+  "learningAimClassCode": "",
   "title": "Senior healthcare support worker",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0217",
   "qualificationStandardUrl": null,
   "versionNumber": "1.5",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "health",
