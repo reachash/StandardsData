@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 37,
   "referenceNumber": "ST0010",
+  "learningAimClassCode": "",
   "title": "Aerospace engineer",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0010",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 9,
   "typicalDuration": 48,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "plane",
