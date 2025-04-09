@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 609,
   "referenceNumber": "ST0893",
+  "learningAimClassCode": "",
   "title": "Clinical scientist",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0893",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 20000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "science",
