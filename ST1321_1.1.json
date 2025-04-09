@@ -2,13 +2,15 @@
   "templateType": "Occupational Standard",
   "larsCode": 683,
   "referenceNumber": "ST1321",
+  "learningAimClassCode": "",
   "title": "Forest craftsperson",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1321",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard and end point assessment plan revised",
-  "changedDate": "2024-11-13T00:00:00",
+  "changedDate": "2025-04-09T00:00:00",
   "earliestStartDate": "2024-11-13T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 14000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "forest",
@@ -299,7 +302,7 @@
   "clusterId": "111",
   "clusterDescription": "A full range of work to plant, maintain, manage and remove or harvest trees and/or woodland",
   "createdDate": "2024-12-02T16:34:13 +00:00",
-  "lastUpdated": "2024-11-13T00:00:00 +00:00",
+  "lastUpdated": "2025-04-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2022-08-18T00:00:00 +00:00",
   "occupationCode": "OCC1321",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1321-v1-1?view=standard#OccupationalStandard",
@@ -1003,5 +1006,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": true,
-  "publishDate": "2024-11-13T00:00:00"
+  "publishDate": "2025-04-09T00:00:00"
 }
