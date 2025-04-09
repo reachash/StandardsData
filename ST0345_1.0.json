@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 491,
   "referenceNumber": "ST0345",
+  "learningAimClassCode": "",
   "title": "Digital community manager",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0345",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 13000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [],
   "jobRoles": [
