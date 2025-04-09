@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 645,
   "referenceNumber": "ST0930",
+  "learningAimClassCode": "",
   "title": "Anti-social behaviour and community safety officer",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0930",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 8000,
+  "maxFundingAdditionalInformation": "",
   "route": "Protective services",
   "keywords": [
     "public service",
