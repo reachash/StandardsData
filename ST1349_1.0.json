@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 736,
   "referenceNumber": "ST1349",
+  "learningAimClassCode": "",
   "title": "Lead baker",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1349",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Catering and hospitality",
   "keywords": [
     "baker",
