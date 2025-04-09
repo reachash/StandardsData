@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 548,
   "referenceNumber": "ST0825",
+  "learningAimClassCode": "",
   "title": "DevOps engineer",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0825",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 17000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "engineer",
