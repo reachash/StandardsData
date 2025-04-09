@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 180,
   "referenceNumber": "ST0223",
+  "learningAimClassCode": "",
   "title": "Arborist",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0223",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "tree surgery",
