@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 716,
   "referenceNumber": "ST1016",
+  "learningAimClassCode": "",
   "title": "Professional security operative",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1016",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 12,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Protective services",
   "keywords": [
     "security",
