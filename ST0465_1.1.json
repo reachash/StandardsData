@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 346,
   "referenceNumber": "ST0465",
+  "learningAimClassCode": "",
   "title": "Risk and safety management professional (degree)",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0465",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 19000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Risk and Safety Management Professional",
