@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 189,
   "referenceNumber": "ST0338",
+  "learningAimClassCode": "",
   "title": "Passenger transport driver - bus and coach or tram",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0338",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 12,
   "maxFunding": 8000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "driving trams",
