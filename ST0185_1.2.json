@@ -203,9 +203,31 @@
   "optionsUnstructuredKsbMapping": [
     {
       "coreOrOptionTitle": "Core",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
+      "mappedBehaviour": [
+        "97685cf4-ba64-4fe0-a6f7-472e71f994ef",
+        "b5810db5-d5df-4b87-8f6a-7700a449e457",
+        "fe07f0d2-087e-46f8-b805-ee963458d5dc",
+        "cdfbe4cd-e225-4c0c-abef-1fddc96a5604",
+        "e227b00d-0ff9-41b7-84ba-6412f7e06419",
+        "706a5cf5-9031-4e15-b7f0-3d2249e48fd2"
+      ],
+      "mappedKnowledge": [
+        "8dd6a525-25ff-4184-b658-6945708a0157",
+        "734379ac-d19f-4861-aeb4-157abeee5670",
+        "a794f3bb-3389-41eb-9677-70d2bf9500f2",
+        "281bafee-0924-42b8-a490-237b825452ca",
+        "a984fe97-b07b-4175-837a-2cb4ae2f01da",
+        "76b2691d-8993-4ecb-8464-cc5230bf7817",
+        "ec987c4a-7b99-4694-a678-de105bd9e777",
+        "8c52f430-0d84-4d90-945d-e1e383d7c2a9"
+      ],
+      "mappedSkills": [
+        "d0fe87ee-edb6-434c-8011-adea786d7f2e",
+        "66699d8d-dea4-4699-931a-286482e3d840",
+        "21212eb3-a889-401a-af8b-fd3882be8cf9",
+        "57a65e00-c21a-4016-acfd-72474a9ffd95",
+        "47b00583-c1cd-4180-82ef-0006ca7b17a1"
+      ]
     },
     {
       "coreOrOptionTitle": "Team leadership",
