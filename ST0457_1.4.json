@@ -868,10 +868,10 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Manufacturing, Process and Control",
+  "pathway": "Engineering, manufacturing, process and control",
   "cluster": "Quality improvement and project control technician",
   "clusterId": "256",
-  "clusterDescription": null,
+  "clusterDescription": "Maintain and improve product and process integrity and quality, production and process efficiency, and the overall health and safety of the working environment",
   "createdDate": "2023-02-10T11:26:26 +00:00",
   "lastUpdated": "2025-03-28T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-03-31T00:00:00 +00:00",
@@ -997,9 +997,7 @@
       "mappedKnowledge": [
         "a0214c86-96ee-424c-bf2a-6d14566561ac",
         "94f00263-65ff-4a43-ae3f-b20b95b375af",
-        "9c71a042-a7bc-412d-8653-d6001a62ce04",
-        "504be65c-c806-4267-ae78-cbe097c2114f",
-        "25cd8018-b277-477b-9bc0-ee866b02c6b3"
+        "9c71a042-a7bc-412d-8653-d6001a62ce04"
       ],
       "mappedSkills": [
         "7f41139e-b582-47a4-91dd-1e4b53c5d1a4",
@@ -1015,7 +1013,9 @@
       "coreOrOptionTitle": "Aircraft Maintenance Fitter/Technician (Fixed & Rotary Wing)",
       "mappedBehaviour": [],
       "mappedKnowledge": [
-        "72f06c02-8d67-452d-890c-359912c6ea7c"
+        "72f06c02-8d67-452d-890c-359912c6ea7c",
+        "504be65c-c806-4267-ae78-cbe097c2114f",
+        "25cd8018-b277-477b-9bc0-ee866b02c6b3"
       ],
       "mappedSkills": [
         "f107f493-d43f-459e-84ae-bb1c1177cf97",
