@@ -4,12 +4,12 @@
   "referenceNumber": "ST0457",
   "learningAimClassCode": "",
   "title": "Engineering technician",
-  "status": "In development",
-  "approvedForDeliveryPausedStarts": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0457",
   "qualificationStandardUrl": null,
-  "versionNumber": "",
-  "change": "Options 3, 5,6,7 and 9 are retired and  removed from this apprenticeship",
+  "versionNumber": "1.5",
+  "change": "Options 3, 5,6,7 and 9 are retired and removed from this apprenticeship",
   "changedDate": "2025-04-24T00:00:00",
   "earliestStartDate": "2025-04-25T00:00:00",
   "latestStartDate": null,
@@ -39,7 +39,7 @@
     "Mechatronics Engineer and Toolmaker"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/us5ht4vc/st0457_engineering-technician_l3_v15-230425.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/m3coispf/st0457_engineering-technician_l3_v15-250425.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.5",
@@ -822,11 +822,7 @@
   "optionsUnstructuredTemplate": [
     "Aerospace Manufacturing Fitter",
     "Aerospace Manufacturing Electrical / Mechanical & Systems Fitter",
-    "Aircraft Maintenance Fitter/Technician (Fixed & Rotary Wing)",
     "Airworthiness, Planning, Quality & Safety Technician",
-    "Maritime Electrical Fitter",
-    "Maritime Mechanical Fitter",
-    "Maritime Fabricator",
     "Maritime Pipeworker",
     "Mechatronics Maintenance Technician",
     "Product Design & Development Technician",
@@ -846,7 +842,7 @@
     "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2017-03-31T00:00:00 +00:00",
   "integratedApprenticeship": null,
   "integration": null,
   "integratedDegree": "",
@@ -868,16 +864,16 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, manufacturing, process and control",
+  "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Quality improvement and project control technician",
   "clusterId": "256",
-  "clusterDescription": "Maintain and improve product and process integrity and quality, production and process efficiency, and the overall health and safety of the working environment",
+  "clusterDescription": null,
   "createdDate": "2025-04-23T13:33:55 +00:00",
   "lastUpdated": "2025-04-24T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-03-31T00:00:00 +00:00",
   "occupationCode": "OCC0457",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0457-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0457-in-revision",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0457-v1-5?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0457-v1-5",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
@@ -893,29 +889,9 @@
       "occupationCode": "OCC0457A"
     },
     {
-      "optionId": "593feb49-ca8d-403d-b4fc-26650576a5ec",
-      "title": "Aircraft Maintenance Fitter/Technician (Fixed & Rotary Wing)",
-      "occupationCode": "OCC0457C"
-    },
-    {
       "optionId": "bd7da857-8efe-4d51-9fb0-b937d094f7c9",
       "title": "Airworthiness, Planning, Quality & Safety Technician",
       "occupationCode": "OCC0457D"
-    },
-    {
-      "optionId": "269e9fe3-082c-4f15-a05f-9fe07744efa7",
-      "title": "Maritime Electrical Fitter",
-      "occupationCode": "OCC0457F"
-    },
-    {
-      "optionId": "077047c6-4d24-4a61-8a84-12dba352bb0a",
-      "title": "Maritime Mechanical Fitter",
-      "occupationCode": "OCC0457H"
-    },
-    {
-      "optionId": "bdf5921c-8da3-4914-a04b-9ed07ed288de",
-      "title": "Maritime Fabricator",
-      "occupationCode": "OCC0457G"
     },
     {
       "optionId": "ecb2eedf-d7f5-41e8-9fff-2acd69da120b",
@@ -1010,34 +986,6 @@
       ]
     },
     {
-      "coreOrOptionTitle": "Aircraft Maintenance Fitter/Technician (Fixed & Rotary Wing)",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [
-        "72f06c02-8d67-452d-890c-359912c6ea7c",
-        "504be65c-c806-4267-ae78-cbe097c2114f",
-        "25cd8018-b277-477b-9bc0-ee866b02c6b3"
-      ],
-      "mappedSkills": [
-        "f107f493-d43f-459e-84ae-bb1c1177cf97",
-        "d603c323-8d48-407a-a0dc-f9324e14546f",
-        "f056c4e9-c648-4921-9aad-ae9ba3c39448",
-        "f64c5752-0583-4979-bb86-4fa09229af3e",
-        "34815978-963c-499f-94a0-35dca45dbbe0",
-        "5cbe1a91-792b-4312-bbbb-2cb392ae6ecf",
-        "c157eb51-eeaf-4715-bca4-d575caf18029",
-        "73eaf8a5-8224-4e45-ab9f-c7d82779c642",
-        "ed5e4217-c2e1-487a-9b0c-cb3f5ef72e61",
-        "c7f40129-46e3-4fb8-96bb-d002a2a6f7cc",
-        "acf8626f-6e41-4b43-8502-4f32dabf7651",
-        "259fa831-6460-47b9-812e-450cfeeacc82",
-        "4161f916-0328-48c5-a7ee-d90005dac53c",
-        "09d9875d-3609-4699-8ac8-f4528ccbe493",
-        "4538b93d-0f05-40ed-a637-48f20403f3b9",
-        "e307f102-5d23-4811-b3de-59026ce11ec3",
-        "10f1b3d1-2ecc-48c2-a7fe-f2399b77b56e"
-      ]
-    },
-    {
       "coreOrOptionTitle": "Airworthiness, Planning, Quality & Safety Technician",
       "mappedBehaviour": [],
       "mappedKnowledge": [
@@ -1057,65 +1005,6 @@
         "362e038c-b6bd-43bd-93f4-1fc69ed86c65",
         "85e7116b-19cd-4fc3-bd96-61ea102dcfb4",
         "ed24eebe-668a-4b67-af86-d256dfb8292f"
-      ]
-    },
-    {
-      "coreOrOptionTitle": "Maritime Electrical Fitter",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [
-        "1d0a7391-4adc-4ad7-9376-cc77915733e1",
-        "b41f81e3-c42a-4694-b102-5f55ae8a9568",
-        "deccbb54-3016-4e28-87dc-18687d68989c",
-        "f7c727d6-d6f3-42a9-9a22-c2793e8f5413",
-        "fb2db59b-aa34-48c3-ae46-8fceafccfefd"
-      ],
-      "mappedSkills": [
-        "2a405a55-94a4-4047-8dc8-12104bcb95e1",
-        "d38f6ffe-4cff-4528-810e-336c6634e27f",
-        "3018a222-18ee-41e9-ae81-cd9126068b67",
-        "49458405-eb53-4f2f-8835-b3851d1cebe3",
-        "40d68168-8b30-4aab-b61d-0de0747cdce8",
-        "d9e1be0b-1cd7-4ee8-a00a-c8158f43ce50"
-      ]
-    },
-    {
-      "coreOrOptionTitle": "Maritime Mechanical Fitter",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [
-        "b4ef1292-db00-4865-af75-6e5e81a5a58c",
-        "e41ac9a3-aba3-4b47-990b-6ba737c1fb75",
-        "4c57e2b2-daf4-4dde-bd11-4015b4ccd98e",
-        "5ce7d6a5-567e-499b-958e-366dccf72473",
-        "4d8b28f1-2096-4fdb-95b0-7f22c3dc5a6e"
-      ],
-      "mappedSkills": [
-        "6c4b9699-f83f-49fb-8bef-511fff7b4d61",
-        "b15c94a2-83b0-47f5-99c3-e810afacbcd1",
-        "cd4269b1-be65-4823-ae81-b3c863673995",
-        "c367ae5d-a224-428f-ba0d-c16895a5e8c7",
-        "4eafd14c-55cb-4d30-aa4d-0836271100e9",
-        "e00925b8-8889-45f2-a34d-3244dd7d4be1",
-        "4650066e-41ee-4568-8280-d131262c0d4d"
-      ]
-    },
-    {
-      "coreOrOptionTitle": "Maritime Fabricator",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [
-        "3a7488dc-79ad-4dd5-8647-07b53e7386b3",
-        "7bcdcf33-cfe3-4dfe-aae3-841739061558",
-        "54bf5220-0ef9-462e-b395-e29b89acd43d",
-        "9b67108b-4479-4b1e-bffb-cab3cbfecfc2"
-      ],
-      "mappedSkills": [
-        "b7fb37b8-9516-4c70-b013-ecaaa14adca0",
-        "aa077567-136b-4d02-9fc1-18174d41b5ee",
-        "ee294422-bf5d-4cde-bd3e-eb547d39533c",
-        "25ca883e-adf3-4f08-aa0e-2aaeffbc2ae8",
-        "82e6a29a-1d3e-49cb-ab82-31fa0bdf5436",
-        "ee9342fa-4e60-4021-ab0a-f2b6b7f7db00",
-        "1c56b33d-3f27-49f5-804a-823875a7a486",
-        "0b5c3df8-6b96-4560-84d8-f1048db8acf5"
       ]
     },
     {
