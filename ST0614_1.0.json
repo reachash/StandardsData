@@ -10,9 +10,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-12-07T00:00:00",
+  "changedDate": "2021-06-30T00:00:00",
   "earliestStartDate": "2021-06-28T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2021-06-30T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Highly technican role involving autonomous working and supervisory responsibilities.",
   "level": 3,
@@ -37,7 +37,7 @@
   "ssa2": "5.2 Building and construction",
   "version": "1.0",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;Fall Protection Technician is an occupation found in mulitple environments and sectors. Locations can be urban or rural, within buildings or outdoors. It is a highly technican role involving autonomous working and supervisory responsibilities to undertake safety critical work typically in small teams of 2-4 persons installing products designed to keep others (maintenance, industrial commercial and cleaning staff and access specialists) safe from injury due to fall hazards in the future. As well as working in teams, technicians are required to work alone and be solely accountable for the work they carry out.&lt;/p&gt;\n&lt;p&gt;In their daily work an employee interacts with construction sites managers, building managers and a wide range of clients. They will typically report to a Contracts Manager or the technical design team. As technicians are responsible for installing height safety equipment designed to provide lifesaving protection to other, they will need to have technical knowledge of the basic engineering principles behind the products they install and a wide range of practical expertise in the application and interaction this equipment and building structures. They will be able to read and interpret engineering drawings, designs and product documentation to effectively plan and organize their own work, taking responsibility for their own acts and omissions to their level of competency.&lt;/p&gt;\n&lt;p&gt;The fall protection sector is made up of 150-200 companies ranging from small regional operations to major manufacturers. It operates across all sectors, energy, infrastructure, commercial, industrial, entertainment, retail and agricultural. Fall protection equipment is found numerous public and private buildings across the UK, in addition to commercial and industrial applications.&#160;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;Fall Protection Technician is an occupation found in mulitple environments and sectors. Locations can be urban or rural, within buildings or outdoors. It is a highly technican role involving autonomous working and supervisory responsibilities to undertake safety critical work typically in small teams of 2-4 persons installing products designed to keep others (maintenance, industrial commercial and cleaning staff and access specialists) safe from injury due to fall hazards in the future. As well as working in teams, technicians are required to work alone and be solely accountable for the work they carry out.&lt;/p&gt;\n&lt;p&gt;In their daily work an employee interacts with construction sites managers, building managers and a wide range of clients. They will typically report to a Contracts Manager or the technical design team. As technicians are responsible for installing height safety equipment designed to provide lifesaving protection to other, they will need to have technical knowledge of the basic engineering principles behind the products they install and a wide range of practical expertise in the application and interaction this equipment and building structures. They will be able to read and interpret engineering drawings, designs and product documentation to effectively plan and organize their own work, taking responsibility for their own acts and omissions to their level of competency.&lt;/p&gt;\n&lt;p&gt;The fall protection sector is made up of 150-200 companies ranging from small regional operations to major manufacturers. It operates across all sectors, energy, infrastructure, commercial, industrial, entertainment, retail and agricultural. Fall protection equipment is found numerous public and private buildings across the UK, in addition to commercial and industrial applications.&amp;nbsp;&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "d592e0ed-bbc7-45c5-aa22-e776c8b01899",
@@ -182,9 +182,9 @@
   "pathway": "Onsite Construction",
   "cluster": "Construction specialist operative or technician",
   "clusterId": "103",
-  "clusterDescription": "Prepare and operate specialist on-site plant and equipment, which could include lifting, pile driving, and pipe laying",
-  "createdDate": "2021-12-07T08:30:27 +00:00",
-  "lastUpdated": "2021-12-07T00:00:00 +00:00",
+  "clusterDescription": null,
+  "createdDate": "2021-11-10T10:54:59 +00:00",
+  "lastUpdated": "2021-06-30T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-06-28T00:00:00 +00:00",
   "occupationCode": "OCC0614",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0614-v1-0?view=standard#OccupationalStandard",
@@ -194,7 +194,7 @@
   "duties": [
     {
       "dutyID": "ee3bb20e-cee3-4698-8a29-c4a8dd473aa6",
-      "dutyDetail": "Maintain accurate records and inspect tools and equipment. Know all required tools and equipment be competent in utilization.",
+      "dutyDetail": "Maintain accurate records and inspect tools and equipment. Know all required tools and equipment be competent in utilisation.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "30b48ad1-8432-4ad9-b6bc-1f1938d6ccab",
@@ -214,7 +214,7 @@
     },
     {
       "dutyID": "5229233f-bf43-4248-8251-5a8a2b3d41e0",
-      "dutyDetail": "Work safely and cooperate with others in a variety of site conditions",
+      "dutyDetail": "Work safely and cooperate with others in a variety of site conditions.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "30b48ad1-8432-4ad9-b6bc-1f1938d6ccab",
@@ -237,7 +237,7 @@
     },
     {
       "dutyID": "3868f781-927a-42ff-a997-bc0a5703c588",
-      "dutyDetail": "Work safely and cooperate with others in a variety of site conditions",
+      "dutyDetail": "Work safely at height in a variety of environments.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "30b48ad1-8432-4ad9-b6bc-1f1938d6ccab",
@@ -264,7 +264,7 @@
     },
     {
       "dutyID": "588b93a5-24c4-4edc-ab5f-eb2ef7410d71",
-      "dutyDetail": "Safely operate different types of access portable or temporary equipment",
+      "dutyDetail": "Safely operate different types of access portable or temporary equipment.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "30b48ad1-8432-4ad9-b6bc-1f1938d6ccab",
@@ -323,7 +323,7 @@
     },
     {
       "dutyID": "cf88726b-abd4-4ecb-8117-4b8f0c424741",
-      "dutyDetail": "Read and interpret engineering drawings, specifications and quantities",
+      "dutyDetail": "Read and interpret engineering drawings, specifications and quantities.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "30b48ad1-8432-4ad9-b6bc-1f1938d6ccab",
@@ -353,7 +353,7 @@
     },
     {
       "dutyID": "23f8090d-2900-4040-8766-74ad3aa114b8",
-      "dutyDetail": "Accurately identify building materials, structure and construction techniques",
+      "dutyDetail": "Accurately identify building materials, structure and construction techniques.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "30b48ad1-8432-4ad9-b6bc-1f1938d6ccab",
@@ -383,7 +383,7 @@
     },
     {
       "dutyID": "c7507fb3-3b41-4fd1-a609-096ca0d19dd3",
-      "dutyDetail": "Verify the work method specified, the design, health & safety procedures, and materials and equipment match the anticipated site condition",
+      "dutyDetail": "Verify the work method specified, the design, health and safety procedures, and materials and equipment match the anticipated site condition.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "30b48ad1-8432-4ad9-b6bc-1f1938d6ccab",
@@ -416,7 +416,7 @@
     },
     {
       "dutyID": "ba5b0534-408c-4054-93b9-12fc47bf6429",
-      "dutyDetail": "Follow manufacturer’s instructions to correctly assemble systems from component parts",
+      "dutyDetail": "Follow manufacturer’s instructions to correctly assemble systems from component parts.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "30b48ad1-8432-4ad9-b6bc-1f1938d6ccab",
@@ -441,7 +441,7 @@
     },
     {
       "dutyID": "3cab69ef-db6d-44ce-b922-969b6d880fb1",
-      "dutyDetail": "accurately set out fall protection provisions.",
+      "dutyDetail": "Accurately set out fall protection provisions.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "30b48ad1-8432-4ad9-b6bc-1f1938d6ccab",
@@ -468,7 +468,7 @@
     },
     {
       "dutyID": "3c977c4c-cb34-48fa-a06f-2b82be2ecc5a",
-      "dutyDetail": "Identify and inspect Fall protection equipment  for own use and commissioning purposes",
+      "dutyDetail": "Identify and inspect Fall protection equipment for own use and commissioning purposes.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "30b48ad1-8432-4ad9-b6bc-1f1938d6ccab",
@@ -499,7 +499,7 @@
     },
     {
       "dutyID": "a6a71d06-b213-4f3a-9996-bc6a0617389d",
-      "dutyDetail": "Install and commission fall protection equipment -  in the field working independently",
+      "dutyDetail": "Install and commission fall protection equipment n the field working independently.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "30b48ad1-8432-4ad9-b6bc-1f1938d6ccab",
@@ -542,5 +542,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2021-12-07T00:00:00"
+  "publishDate": "2021-06-30T00:00:00"
 }
