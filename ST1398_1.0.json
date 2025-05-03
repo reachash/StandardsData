@@ -109,7 +109,7 @@
     },
     {
       "knowledgeId": "ede68003-5422-4d44-8c8b-f5e6af9ea178",
-      "detail": "Principles for engineering environmental sustainable ML solutions, that support organisational strategies and objectives for environmental sustainability."
+      "detail": "Principles for engineering environmentally sustainable ML solutions, that support organisational strategies and objectives for environmental sustainability."
     },
     {
       "knowledgeId": "207c7cd8-3204-40e7-ab02-3bf71d154b52",
@@ -336,7 +336,7 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual",
+    "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
     "contactEmail": "",
@@ -365,15 +365,22 @@
   "pathway": "Digital Business Services",
   "cluster": "Business information professional",
   "clusterId": "233",
-  "clusterDescription": "Provide and implement data technology enabled solutions to support internal and external customers.",
-  "createdDate": "2025-02-10T09:09:10 +00:00",
+  "clusterDescription": null,
+  "createdDate": "2025-05-02T11:14:35 +00:00",
   "lastUpdated": "2024-12-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-12-18T00:00:00 +00:00",
   "occupationCode": "OCC1398",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1398-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1398-v1-0",
   "qualifications": [],
-  "professionalRecognition": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "BCS, The Chartered Institute for IT ",
+      "level": "Advanced RITTech",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
   "duties": [
     {
       "dutyID": "6e70aeb4-2447-480a-96a4-6624da5a19bb",
