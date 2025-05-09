@@ -4,15 +4,15 @@
   "referenceNumber": "ST1377",
   "learningAimClassCode": "",
   "title": "Optical assistant 2022",
-  "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": false,
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1377",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2023-03-09T00:00:00",
   "earliestStartDate": "2023-01-01T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2025-05-06T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Helping customers in the optical retail environment.",
   "level": 3,
@@ -38,7 +38,7 @@
   "ssa2": "7.1 Retailing and wholesaling",
   "version": "1.0",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in the healthcare industry including small practices, large multiple practices, or within a person’s home or care facility. It is a support role assisting an Optometrist and/or Dispensing Optician.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to interpret a prescription to identify the appropriate optical device to meet the need of the prescription and customer. To review spectacles for quality, prescription, measurement and accuracy and the effects on the eye and vision.&#160;&#160;Optical Assistants need to be able to identify the appropriate optical appliance, such as spectacles, contact lenses or magnifiers to meet the individual&#39;s needs, and be able to explain the features and benefits of these, using non-technical, customer friendly language. Optical assistants need to be able to problem solve and manage customer expectations ensuring that products meet the specification.&lt;/p&gt;\n&lt;p&gt;In addition to core knowledge and skills, Optical Assistants will complete specialist knowledge and skills relevant to the optical environment they are working in, choosing from one of the following options:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Providing screening services to customers (pre-screening)&lt;/li&gt;\n&lt;li&gt;Delivering services independently in people’s homes or care settings (domiciliary)&lt;/li&gt;\n&lt;li&gt;Working with customers with contact lens. (insertion and removal)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;br /&gt;&#160;In their daily work, an employee in this occupation interacts with:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Patients, service users and carers&lt;/li&gt;\n&lt;li&gt;Other members of the multidisciplinary team, including GPs, optometrists, ophthalmologists, orthoptists and optical assistants&lt;/li&gt;\n&lt;li&gt;Administration, management and other non-clinical staff like receptionists and retail managers&lt;/li&gt;\n&lt;li&gt;Clinical staff including optometrists and dispensing opticians.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;An employee in this occupation will be responsible for:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Accurately interpreting a prescription and selecting the most appropriate optical appliance.&lt;/li&gt;\n&lt;li&gt;Providing accurate and appropriate advice to customers within the scope of their job role.&lt;/li&gt;\n&lt;li&gt;Managing clinical appointments.&lt;/li&gt;\n&lt;li&gt;Delivering responsive customer experience.&lt;/li&gt;\n&lt;li&gt;Using an extensive range of technical equipment and tools to provide optical services.&lt;/li&gt;\n&lt;li&gt;The safety and wellbeing of themselves and the customers.&lt;/li&gt;\n&lt;li&gt;Collaborating with team members and supporting professional colleagues to provide optical services.&lt;/li&gt;\n&lt;/ul&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the healthcare industry including small practices, large multiple practices, or within a person’s home or care facility. It is a support role assisting an Optometrist and/or Dispensing Optician.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to interpret a prescription to identify the appropriate optical device to meet the need of the prescription and customer. To review spectacles for quality, prescription, measurement and accuracy and the effects on the eye and vision.&amp;nbsp;&amp;nbsp;Optical Assistants need to be able to identify the appropriate optical appliance, such as spectacles, contact lenses or magnifiers to meet the individual&#39;s needs, and be able to explain the features and benefits of these, using non-technical, customer friendly language. Optical assistants need to be able to problem solve and manage customer expectations ensuring that products meet the specification.&lt;/p&gt;\n&lt;p&gt;In addition to core knowledge and skills, Optical Assistants will complete specialist knowledge and skills relevant to the optical environment they are working in, choosing from one of the following options:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Providing screening services to customers (pre-screening)&lt;/li&gt;\n&lt;li&gt;Delivering services independently in people’s homes or care settings (domiciliary)&lt;/li&gt;\n&lt;li&gt;Working with customers with contact lens. (insertion and removal)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;br&gt;&amp;nbsp;In their daily work, an employee in this occupation interacts with:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Patients, service users and carers&lt;/li&gt;\n&lt;li&gt;Other members of the multidisciplinary team, including GPs, optometrists, ophthalmologists, orthoptists and optical assistants&lt;/li&gt;\n&lt;li&gt;Administration, management and other non-clinical staff like receptionists and retail managers&lt;/li&gt;\n&lt;li&gt;Clinical staff including optometrists and dispensing opticians.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;An employee in this occupation will be responsible for:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Accurately interpreting a prescription and selecting the most appropriate optical appliance.&lt;/li&gt;\n&lt;li&gt;Providing accurate and appropriate advice to customers within the scope of their job role.&lt;/li&gt;\n&lt;li&gt;Managing clinical appointments.&lt;/li&gt;\n&lt;li&gt;Delivering responsive customer experience.&lt;/li&gt;\n&lt;li&gt;Using an extensive range of technical equipment and tools to provide optical services.&lt;/li&gt;\n&lt;li&gt;The safety and wellbeing of themselves and the customers.&lt;/li&gt;\n&lt;li&gt;Collaborating with team members and supporting professional colleagues to provide optical services.&lt;/li&gt;\n&lt;/ul&gt;",
   "knowledges": [
     {
       "knowledgeId": "8e7e5602-0e35-4909-a85a-40f36843192e",
@@ -516,8 +516,8 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Healthcare Science",
-  "cluster": "Healthcare Science Assistant",
+  "pathway": "Healthcare science",
+  "cluster": "Healthcare science assistant",
   "clusterId": "43",
   "clusterDescription": "Provide technical and science-based support to patients delivering testing, diagnosis, monitoring services etc. of a low risk, routine nature and also the manufacture of appliances and devices",
   "createdDate": "2024-01-19T09:38:34 +00:00",
@@ -1197,5 +1197,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-03-09T00:00:00"
+  "publishDate": "2025-05-06T00:00:00"
 }
