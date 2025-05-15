@@ -32,7 +32,7 @@
     "Tram driver"
   ],
   "entryRequirements": "&lt;p style=&quot;margin-bottom: 12.0pt; line-height: normal; background: white; vertical-align: baseline;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: #334047; font-family: inherit, serif;&quot;&gt;&lt;span style=&quot;font-size: 11.5pt;&quot;&gt;Apprentices be a &lt;/span&gt;&lt;span style=&quot;font-size: 15.3333px;&quot;&gt;minimum&lt;/span&gt;&lt;span style=&quot;font-size: 11.5pt;&quot;&gt; of 18 years old in order to access the apprenticeship.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0338-v1-2?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0338-v1-2?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.3 Transportation operations and maintenance",
   "version": "1.2",
@@ -335,13 +335,14 @@
   "pathway": "Transport",
   "cluster": "Driver or crewmember",
   "clusterId": "82",
-  "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
+  "clusterDescription": null,
   "createdDate": "2023-11-10T15:10:57 +00:00",
   "lastUpdated": "2023-12-01T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-08-17T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0338",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0338-v1-2?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0338-v1-2",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0338-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0338-v1-2",
   "qualifications": [
     {
       "qualificationId": "9454425b-1d67-458a-a156-340c0a526277",
