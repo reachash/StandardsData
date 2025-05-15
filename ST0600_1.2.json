@@ -601,13 +601,14 @@
   "pathway": "Health",
   "cluster": "Health practitioner",
   "clusterId": "10",
-  "clusterDescription": "Provide direct patient contact and high quality care with in-depth knowledge of the factors influencing health and ill-health using specialist expertise",
+  "clusterDescription": null,
   "createdDate": "2023-08-16T10:32:20 +00:00",
   "lastUpdated": "2023-09-13T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-03-15T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0600",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0600-v1-2?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0600-v1-2",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0600-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0600-v1-2",
   "qualifications": [
     {
       "qualificationId": "9e2999f5-6cc5-4dbc-abe5-9846778ed6ba",
