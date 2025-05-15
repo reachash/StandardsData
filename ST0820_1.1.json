@@ -554,13 +554,14 @@
   "pathway": "Health",
   "cluster": "Health professional",
   "clusterId": "6",
-  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
+  "clusterDescription": null,
   "createdDate": "2025-02-11T17:11:42 +00:00",
   "lastUpdated": "2025-02-11T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-08-24T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0820",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0820-v1-1?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0820-v1-1",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0820-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0820-v1-1",
   "qualifications": [
     {
       "qualificationId": "4d12d011-0ee5-497c-b6f9-5ac3a3a4b880",
