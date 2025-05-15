@@ -11,14 +11,14 @@
   "versionNumber": "",
   "change": "Occupational standard, end-point assessment and funding band revised",
   "changedDate": "2025-01-27T00:00:00",
-  "earliestStartDate": null,
+  "earliestStartDate": "2025-08-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Work and interact directly with children on a day to day basis supporting the planning of and delivery of activities.",
   "level": 2,
   "ePALength": 3,
   "typicalDuration": 12,
-  "maxFunding": 0,
+  "maxFunding": 5000,
   "maxFundingAdditionalInformation": "",
   "route": "Education and early years",
   "keywords": [
@@ -37,7 +37,7 @@
     "Nursery practitioner"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0888-in-revision?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0888-in-revision?view=epa",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.5 Child development and well being",
   "version": "1.1",
@@ -345,16 +345,17 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Education and early years",
+  "pathway": "Education and Early Years",
   "cluster": "Early education and early years assistant",
   "clusterId": "172",
-  "clusterDescription": "Development of a child's learning, meeting individual care needs, engaging and supporting parents and carers in guiding a child's progress at nursey/pre-school and at home",
+  "clusterDescription": null,
   "createdDate": "2025-03-21T09:16:03 +00:00",
   "lastUpdated": "2025-01-27T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-03-26T00:00:00 +00:00",
+  "banners": "This apprenticeship is approved for delivery and available for new starts from 1st August 2025 with a funding band of £5,000.View the version available for new starts until 31st July 2025..",
   "occupationCode": "OCC0888",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0888-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0888-in-revision",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0888-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0888-in-revision",
   "qualifications": [],
   "professionalRecognition": [
     {
@@ -613,5 +614,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2025-01-27T00:00:00"
+  "publishDate": "2025-08-01T00:00:00"
 }
