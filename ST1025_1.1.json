@@ -293,13 +293,14 @@
   "pathway": "Transport",
   "cluster": "Driver or crewmember",
   "clusterId": "82",
-  "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
+  "clusterDescription": null,
   "createdDate": "2024-10-31T10:51:15 +00:00",
   "lastUpdated": "2024-10-24T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-12-16T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC1025",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1025-v1-1?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1025-v1-1",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1025-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1025-v1-1",
   "qualifications": [
     {
       "qualificationId": "697e2154-f53b-4648-8623-769ba7151fa7",
