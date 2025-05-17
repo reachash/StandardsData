@@ -5,7 +5,7 @@
   "learningAimClassCode": "",
   "title": "Wood machinist",
   "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": true,
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0976",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -322,7 +322,7 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual is the intended EQA provider",
+    "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
     "contactEmail": "",
