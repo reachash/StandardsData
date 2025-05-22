@@ -1,5 +1,5 @@
 {
-  "templateType": "Occupational Standard",
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 678,
   "referenceNumber": "ST1017",
   "learningAimClassCode": "",
@@ -10,7 +10,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-12-12T00:00:00",
+  "changedDate": "2025-05-21T00:00:00",
   "earliestStartDate": "2022-06-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -33,11 +33,11 @@
     "Domestic electrician"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1017-v1-0?view=epa",
+  "assessmentPlanUrl": "",
   "ssa1": "5 Construction, Planning and the Built Environment",
   "ssa2": "5.2 Building and construction",
   "version": "1.0",
-  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "standardInformation": "",
   "occupationalSummary": "&lt;p&gt;&lt;strong&gt;This occupation&lt;/strong&gt; is found in the domestic dwelling construction, engineering and social housing installation and maintenance electrician industries.&amp;nbsp; Domestic electricians work in domestic properties such as homes, dwellings, or individual units in e.g. care homes, apartment buildings and student accommodation, rather than in their communal areas, or on commercial or industrial building sites. Industrial and Commercial Electrician work is not undertaken by a Domestic Electrician.&lt;/p&gt;\n&lt;p&gt;Domestic electricians may work for small independent businesses or for providers of homes and residential services such as local authorities and housing associations, housing construction companies, care homes, electric utility companies and other companies providing electrotechnical services to the residential market. Once qualified, some domestic electricians may choose to become self-employed contractors.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The broad purpose&lt;/strong&gt; of the occupation is to install and maintain electrical services within a domestic setting.&lt;/p&gt;\n&lt;p&gt;Working in a residential (new construction, installation or existing) setting, the domestic electrician will focus on the installation of new, the upgrade or repair of existing cables and equipment to enable safe and reliable distributed electricity within the premises.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The scope&lt;/strong&gt; of a domestic electrician will include design, installation and testing of systems which provide traditional heating, power, and lighting plus the installation of new and emerging technologies. The new technologies will include enhanced connectivity for domestic use and comfort and convenience technologies. Domestic electricians will help make homes highly efficient and near-zero-carbon, in cooperation with other trades. Domestic electricians may be required to provide out of hours emergency repairs and services. A driving licence may be a requirement for some employers.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;In their daily work&lt;/strong&gt;, a worker in this occupation interacts with:&lt;/p&gt;\n&lt;p&gt;&#183;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Their customers who are usually the end user of the services.&lt;/p&gt;\n&lt;p&gt;&#183;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; the team leader or area manager as well as personnel responsible for materials storage and supply if they work in an organisation.&lt;/p&gt;\n&lt;p&gt;&#183;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; building materials suppliers, merchants, small business support, accountants, and others if they are self-employed.&lt;/p&gt;\n&lt;p&gt;&#183;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; A domestic electrician will sometimes work within a team or may often be accompanied an apprentice.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;An employee in this occupation will be responsible for completing their own work&lt;/strong&gt; to specification, with minimal, if any, supervision, ensuring they meet set deadlines. This role is for people who like to work independently most of the time, but it also involves interacting with customers, colleagues, and others.&lt;/p&gt;\n&lt;p&gt;Domestic Electricians will be responsible for meeting quality requirements and working in accordance with industry-defined health, safety and environmental considerations, as well as building and wiring regulations.&lt;/p&gt;\n&lt;p&gt;They may be solely responsible for company property such as tools, work vehicles for transporting materials such as company vans.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Key requirements&lt;/strong&gt; for successful domestic electricians include professionalism and high regard for customer service throughout the job from responding to enquiries, proposing solutions, providing quotations, undertaking work, and handing completed work back to the customer.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Typical Job Titles: &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Domestic Electrician.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Typical duration&lt;/strong&gt;: 36 months&lt;/p&gt;",
   "knowledges": [
     {
@@ -218,7 +218,7 @@
   "standardApproved": "",
   "standardPublished": "true",
   "epaApprovalDate": "",
-  "epaPublished": "true",
+  "epaPublished": "false",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "National Electrotechnical Training (NET)",
@@ -247,11 +247,11 @@
   "pathway": "Building Services Engineering",
   "cluster": "Building services engineering operative or technician",
   "clusterId": "65",
-  "clusterDescription": null,
+  "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
   "createdDate": "2023-12-13T11:11:08 +00:00",
-  "lastUpdated": "2022-12-12T00:00:00 +00:00",
+  "lastUpdated": "2025-05-21T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2022-06-01T00:00:00 +00:00",
-  "banners": "A temporary dispensation has been applied to the ST1017 end-point assessment plan V1.0 for this apprenticeship. The dispensation will remain live from 01/03/2025 until the apprentices registered on V1.0 have either completed their EPA, including any resits and retakes, or moved to a subsequent version.; This apprenticeship is in the process of being revised or adjusted. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeships being revised or adjusted are available in the revisions and adjustments status report.",
+  "banners": "A temporary dispensation has been applied to the ST1017 end-point assessment plan V1.0 for this apprenticeship. The dispensation will remain live from 01/03/2025 until the apprentices registered on V1.0 have either completed their EPA, including any resits and retakes, or moved to a subsequent version.; This apprenticeship is in the process of being revised or adjusted. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeships being revised or adjusted are available in the revisions and adjustments status report.; A revised version of this apprenticeship has been agreed and is available for information. It will be approved for delivery and replace the current version for new starts following a notice period that will decided when the revised funding band is agreed.",
   "occupationCode": "OCC1017",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1017-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1017-v1-0",
@@ -625,5 +625,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2022-12-12T00:00:00"
+  "publishDate": "2025-05-21T00:00:00"
 }
