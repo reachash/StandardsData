@@ -10,7 +10,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "",
-  "changedDate": "2025-05-29T00:00:00",
+  "changedDate": "2025-05-30T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
@@ -636,7 +636,7 @@
   "clusterId": "19",
   "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2025-03-19T11:41:05 +00:00",
-  "lastUpdated": "2025-05-29T00:00:00 +00:00",
+  "lastUpdated": "2025-05-30T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
   "banners": "",
   "occupationCode": "OCC1404",
@@ -1553,24 +1553,24 @@
   ],
   "options": [
     {
-      "optionId": "194b306f-6e7b-4249-bcdc-29a2d26bd16b",
-      "title": "Water industry asset maintenance technician - mechanical",
-      "occupationCode": ""
-    },
-    {
       "optionId": "18b3b495-5cbf-409a-aabc-e5be4ae96294",
       "title": "Water industry asset maintenance technician - electrical",
-      "occupationCode": ""
+      "occupationCode": "OCC1404A"
     },
     {
       "optionId": "bfaf2592-fa7b-4b1b-904c-c1aabf63527e",
       "title": "Water industry asset maintenance technician - instrumentation, control and automation",
-      "occupationCode": ""
+      "occupationCode": "OCC1404B"
+    },
+    {
+      "optionId": "194b306f-6e7b-4249-bcdc-29a2d26bd16b",
+      "title": "Water industry asset maintenance technician - mechanical",
+      "occupationCode": "OCC1404C"
     }
   ],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-05-29T00:00:00"
+  "publishDate": "2025-05-30T00:00:00"
 }
