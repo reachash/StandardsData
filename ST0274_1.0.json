@@ -51,11 +51,11 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
+    "providerName": "Skills England",
     "contactName": "",
     "contactAddress": "London office: Sanctuary Buildings, 20 Great Smith Street, London SW1P 3BT<br>Coventry office: Level 2 Cheylesmore House, 5 Quinton Rd, Coventry CV1 2WT",
-    "contactEmail": "Enquiries.IFA@education.gov.uk",
-    "webLink": ""
+    "contactEmail": "skills.england@education.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/skills-england"
   },
   "approvedForDelivery": "2015-08-27T00:00:00 +00:00",
   "integratedApprenticeship": null,
@@ -77,7 +77,7 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Transport",
-  "cluster": "Driver or crewmember",
+  "cluster": "Driver/Crewmember",
   "clusterId": "82",
   "clusterDescription": "Drive a vehicle (road and rail) and provide routine support services",
   "createdDate": "2017-09-22T14:24:24 +00:00",
