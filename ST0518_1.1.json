@@ -322,11 +322,11 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
+    "providerName": "Skills England",
     "contactName": "",
     "contactAddress": "London office: Sanctuary Buildings, 20 Great Smith Street, London SW1P 3BT<br>Coventry office: Level 2 Cheylesmore House, 5 Quinton Rd, Coventry CV1 2WT",
-    "contactEmail": "Enquiries.IFA@education.gov.uk",
-    "webLink": ""
+    "contactEmail": "skills.england@education.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/skills-england"
   },
   "approvedForDelivery": "2019-09-30T00:00:00 +00:00",
   "integratedApprenticeship": null,
@@ -346,7 +346,7 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
-  "cluster": "Health professional",
+  "cluster": "Health Professional",
   "clusterId": "6",
   "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2023-05-25T13:34:39 +00:00",
