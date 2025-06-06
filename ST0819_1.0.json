@@ -181,11 +181,11 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
+    "providerName": "Skills England",
     "contactName": "",
     "contactAddress": "London office: Sanctuary Buildings, 20 Great Smith Street, London SW1P 3BT<br>Coventry office: Level 2 Cheylesmore House, 5 Quinton Rd, Coventry CV1 2WT",
-    "contactEmail": "Enquiries.IFA@education.gov.uk",
-    "webLink": ""
+    "contactEmail": "skills.england@education.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/skills-england"
   },
   "approvedForDelivery": "2020-08-24T00:00:00 +00:00",
   "integratedApprenticeship": null,
@@ -207,7 +207,7 @@
   "pathway": "Onsite Construction",
   "cluster": "Construction operative or supervisor",
   "clusterId": "1",
-  "clusterDescription": "Use of heavy plant and equipment on surface construction sites and also specialist sites e.g. highways, tunnelling. Also the ability to undertake specialist construction work e.g. handling insulation, asbestos. Interprets drawings, plans and specifications along with methods and risk statement",
+  "clusterDescription": null,
   "createdDate": "2020-07-16T14:32:25 +00:00",
   "lastUpdated": "2021-06-29T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-08-24T00:00:00 +00:00",
