@@ -572,11 +572,11 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
+    "providerName": "Skills England",
     "contactName": "",
     "contactAddress": "London office: Sanctuary Buildings, 20 Great Smith Street, London SW1P 3BT<br>Coventry office: Level 2 Cheylesmore House, 5 Quinton Rd, Coventry CV1 2WT",
-    "contactEmail": "Enquiries.IFA@education.gov.uk",
-    "webLink": ""
+    "contactEmail": "skills.england@education.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/skills-england"
   },
   "approvedForDelivery": "2019-03-15T00:00:00 +00:00",
   "integratedApprenticeship": null,
@@ -601,7 +601,7 @@
   "pathway": "Health",
   "cluster": "Health practitioner",
   "clusterId": "10",
-  "clusterDescription": "Provide direct patient contact and high quality care with in-depth knowledge of the factors influencing health and ill-health using specialist expertise",
+  "clusterDescription": null,
   "createdDate": "2023-08-16T10:32:20 +00:00",
   "lastUpdated": "2023-09-13T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-03-15T00:00:00 +00:00",
