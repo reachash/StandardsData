@@ -55,11 +55,11 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
+    "providerName": "Skills England",
     "contactName": "",
     "contactAddress": "London office: Sanctuary Buildings, 20 Great Smith Street, London SW1P 3BT<br>Coventry office: Level 2 Cheylesmore House, 5 Quinton Rd, Coventry CV1 2WT",
-    "contactEmail": "Enquiries.IFA@education.gov.uk",
-    "webLink": ""
+    "contactEmail": "skills.england@education.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/skills-england"
   },
   "approvedForDelivery": "2018-01-16T00:00:00 +00:00",
   "integratedApprenticeship": null,
@@ -83,10 +83,10 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Maintenance, installation and repair",
-  "cluster": "Service, repair and/or overhaul operative or technician",
+  "pathway": "Maintenance, Installation & Repair",
+  "cluster": "Service, repair and or or overhaul operative or technician",
   "clusterId": "19",
-  "clusterDescription": "Install, maintain and service plant and equipment",
+  "clusterDescription": null,
   "createdDate": "2017-11-14T17:10:41 +00:00",
   "lastUpdated": "2021-01-13T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-01-16T00:00:00 +00:00",
