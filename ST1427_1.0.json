@@ -14,7 +14,7 @@
   "earliestStartDate": "2025-02-19T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "A Forestry works manager oversees safe forestry operations, including tree felling, timber harvesting and habitat management.",
+  "overviewOfRole": "A Forestry Works Manager oversees safe forestry operations, including tree felling, timber harvesting and habitat management.",
   "level": 4,
   "ePALength": 3,
   "typicalDuration": 15,
@@ -22,12 +22,11 @@
   "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
-    "Forestry works manager",
-    "forestry",
-    "woodland",
-    "timber harvesting",
-    "tree felling",
-    "habitat management"
+    "Forestry",
+    "Woodland",
+    "Timber harvesting",
+    "Tree felling",
+    "Habitat management"
   ],
   "jobRoles": [],
   "entryRequirements": "",
@@ -289,7 +288,7 @@
     "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "2025-02-19T00:00:00 +00:00",
+  "approvedForDelivery": "",
   "integratedApprenticeship": null,
   "integration": "None",
   "integratedDegree": "",
@@ -320,9 +319,9 @@
   "cluster": "Arboriculture and forestry supervisor",
   "clusterId": "156",
   "clusterDescription": "Supervise the establishment, maintenance, management and removal or harvesting of trees and/or woodland",
-  "createdDate": "2025-01-17T14:24:30 +00:00",
+  "createdDate": "2025-06-06T08:14:22 +00:00",
   "lastUpdated": "2025-03-21T00:00:00 +00:00",
-  "occupationalStandardApprovalDate": "2025-02-19T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": null,
   "banners": "This version of this standard meets the requirements of Registered Environmental Technician – REnvTech. &nbsp;Upon receipt of the apprenticeship certificate, individuals are eligible to apply for REnvTech through a shortened application route. Individuals also need to be a member of a professional body that is licensed by the Society for the Environment (SocEnv) to be awarded this status. Further information is on the SocEnv website.",
   "occupationCode": "OCC1427",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1427-v1-0?view=standard#OccupationalStandard",
@@ -332,6 +331,12 @@
     {
       "bodyName": "The Institute of Chartered Foresters (ICF)",
       "level": "technical membership",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Society for the Environment (SocEnv)",
+      "level": "Registered Environmental Technician (REnvTech). This standard meets the requirements of Registered Environmental Technician – REnvTech.  Upon receipt of the apprenticeship certificate, individuals are eligible to apply for REnvTech through a shortened application route.  Individuals also need to be a member of a professional body that is licensed by the Society for the Environment to be awarded this status. Further information is on the SocEnv website.",
       "isPartial": "full",
       "partialFreeText": ""
     }
