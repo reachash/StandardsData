@@ -4,13 +4,13 @@
   "referenceNumber": "ST0504",
   "learningAimClassCode": "",
   "title": "Floorlayer",
-  "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": false,
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0504",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Occupational standard, end-point assessment plan and funding band revised",
-  "changedDate": "2025-05-16T00:00:00",
+  "changedDate": "2025-06-23T00:00:00",
   "earliestStartDate": "2024-08-05T00:00:00",
   "latestStartDate": "2025-06-15T00:00:00",
   "latestEndDate": null,
@@ -478,7 +478,7 @@
   "clusterId": "5",
   "clusterDescription": null,
   "createdDate": "2024-03-13T11:15:22 +00:00",
-  "lastUpdated": "2025-05-16T00:00:00 +00:00",
+  "lastUpdated": "2025-06-23T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-11-08T00:00:00 +00:00",
   "banners": "A revised version of this has been agreed and is available for information only at present. It will replace the version below for new starts from 16th June 2025 (with a funding band of £17,000) Further details of this and other apprenticeships in revision are available in the revisions status report.",
   "occupationCode": "OCC0504",
@@ -1169,5 +1169,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-06-15T00:00:00"
+  "publishDate": "2025-06-23T00:00:00"
 }
